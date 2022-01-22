@@ -1,0 +1,357 @@
+{
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "definitions": {
+        "CourseGradingPolicy": {
+            "additionalProperties": false,
+            "properties": {
+                "note": {
+                    "type": "string"
+                },
+                "type": {
+                    "description": "評分種類",
+                    "type": "string"
+                },
+                "weight": {
+                    "description": "評分比重",
+                    "type": "number"
+                }
+            },
+            "required": ["type", "weight", "note"],
+            "type": "object"
+        },
+        "CourseInfo": {
+            "additionalProperties": false,
+            "properties": {
+                "classes": {
+                    "description": "不知道是啥的東西，進階查詢用",
+                    "type": "string"
+                },
+                "code": {
+                    "description": "科目代碼",
+                    "type": "string"
+                },
+                "credit": {
+                    "description": "學分數",
+                    "type": "number"
+                },
+                "department": {
+                    "description": "開課系所",
+                    "type": "string"
+                },
+                "dept_group": {
+                    "description": "不知道是啥的東西，進階查詢用",
+                    "type": "string"
+                },
+                "description": {
+                    "description": "課程簡介",
+                    "type": "string"
+                },
+                "form_s": {
+                    "description": "不知道是啥的東西，進階查詢用",
+                    "type": "string"
+                },
+                "goals": {
+                    "description": "課程目標",
+                    "items": {
+                        "type": "string"
+                    },
+                    "type": "array"
+                },
+                "grading": {
+                    "description": "評分方法",
+                    "items": {
+                        "$ref": "#/definitions/CourseGradingPolicy"
+                    },
+                    "type": "array"
+                },
+                "group": {
+                    "description": "課程組別",
+                    "type": "string"
+                },
+                "hours": {
+                    "description": "實際每週授課時數",
+                    "type": "number"
+                },
+                "methodologies": {
+                    "description": "教學方法",
+                    "items": {
+                        "$ref": "#/definitions/CourseLecturingMethodology"
+                    },
+                    "type": "array"
+                },
+                "name": {
+                    "description": "課程名稱",
+                    "type": "string"
+                },
+                "programs": {
+                    "description": "學分學程",
+                    "items": {
+                        "type": "string"
+                    },
+                    "type": "array"
+                },
+                "quota": {
+                    "$ref": "#/definitions/CourseQuota",
+                    "description": "名額"
+                },
+                "schedule": {
+                    "description": "時間地點",
+                    "items": {
+                        "additionalProperties": false,
+                        "properties": {
+                            "campus": {
+                                "description": "校區",
+                                "type": "string"
+                            },
+                            "classroom": {
+                                "description": "教室",
+                                "type": "string"
+                            },
+                            "day": {
+                                "description": "星期幾 1 ~ 7, -1 表示密集課程, 0 表示處理失敗",
+                                "type": "number"
+                            },
+                            "from": {
+                                "description": "第幾節開始 11 ~ 14: A ~ D",
+                                "type": "number"
+                            },
+                            "to": {
+                                "description": "第幾節結束 11 ~ 14: A ~ D",
+                                "type": "number"
+                            }
+                        },
+                        "required": ["campus", "classroom", "day", "from", "to"],
+                        "type": "object"
+                    },
+                    "type": "array"
+                },
+                "serial": {
+                    "description": "開課序號",
+                    "type": "number"
+                },
+                "syllabus": {
+                    "description": "教學大綱",
+                    "type": "string"
+                },
+                "teachers": {
+                    "description": "授課教師",
+                    "items": {
+                        "type": "string"
+                    },
+                    "type": "array"
+                },
+                "term": {
+                    "description": "開課學期",
+                    "type": "number"
+                },
+                "year": {
+                    "description": "開課學年度",
+                    "type": "number"
+                }
+            },
+            "required": [
+                "classes",
+                "code",
+                "credit",
+                "department",
+                "dept_group",
+                "description",
+                "form_s",
+                "goals",
+                "grading",
+                "group",
+                "hours",
+                "methodologies",
+                "name",
+                "programs",
+                "quota",
+                "schedule",
+                "serial",
+                "syllabus",
+                "teachers",
+                "term",
+                "year"
+            ],
+            "type": "object"
+        },
+        "CourseLecturingMethodology": {
+            "additionalProperties": false,
+            "properties": {
+                "note": {
+                    "type": "string"
+                },
+                "type": {
+                    "description": "授課種類",
+                    "type": "string"
+                }
+            },
+            "required": ["type", "note"],
+            "type": "object"
+        },
+        "CourseLocation": {
+            "additionalProperties": false,
+            "properties": {
+                "campus": {
+                    "description": "校區",
+                    "type": "string"
+                },
+                "classroom": {
+                    "description": "教室",
+                    "type": "string"
+                }
+            },
+            "required": ["campus", "classroom"],
+            "type": "object"
+        },
+        "CourseMeta": {
+            "additionalProperties": false,
+            "properties": {
+                "classes": {
+                    "description": "不知道是啥的東西，進階查詢用",
+                    "type": "string"
+                },
+                "code": {
+                    "description": "科目代碼",
+                    "type": "string"
+                },
+                "credit": {
+                    "description": "學分數",
+                    "type": "number"
+                },
+                "department": {
+                    "description": "開課系所",
+                    "type": "string"
+                },
+                "dept_group": {
+                    "description": "不知道是啥的東西，進階查詢用",
+                    "type": "string"
+                },
+                "form_s": {
+                    "description": "不知道是啥的東西，進階查詢用",
+                    "type": "string"
+                },
+                "group": {
+                    "description": "課程組別",
+                    "type": "string"
+                },
+                "name": {
+                    "description": "課程名稱",
+                    "type": "string"
+                },
+                "programs": {
+                    "description": "學分學程",
+                    "items": {
+                        "type": "string"
+                    },
+                    "type": "array"
+                },
+                "quota": {
+                    "$ref": "#/definitions/CourseQuota",
+                    "description": "名額"
+                },
+                "schedule": {
+                    "description": "時間地點",
+                    "items": {
+                        "additionalProperties": false,
+                        "properties": {
+                            "campus": {
+                                "description": "校區",
+                                "type": "string"
+                            },
+                            "classroom": {
+                                "description": "教室",
+                                "type": "string"
+                            },
+                            "day": {
+                                "description": "星期幾 1 ~ 7, -1 表示密集課程, 0 表示處理失敗",
+                                "type": "number"
+                            },
+                            "from": {
+                                "description": "第幾節開始 11 ~ 14: A ~ D",
+                                "type": "number"
+                            },
+                            "to": {
+                                "description": "第幾節結束 11 ~ 14: A ~ D",
+                                "type": "number"
+                            }
+                        },
+                        "required": ["campus", "classroom", "day", "from", "to"],
+                        "type": "object"
+                    },
+                    "type": "array"
+                },
+                "serial": {
+                    "description": "開課序號",
+                    "type": "number"
+                },
+                "teachers": {
+                    "description": "授課教師",
+                    "items": {
+                        "type": "string"
+                    },
+                    "type": "array"
+                },
+                "term": {
+                    "description": "開課學期",
+                    "type": "number"
+                },
+                "year": {
+                    "description": "開課學年度",
+                    "type": "number"
+                }
+            },
+            "required": [
+                "year",
+                "term",
+                "name",
+                "teachers",
+                "department",
+                "credit",
+                "code",
+                "serial",
+                "group",
+                "quota",
+                "schedule",
+                "programs",
+                "form_s",
+                "classes",
+                "dept_group"
+            ],
+            "type": "object"
+        },
+        "CourseQuota": {
+            "additionalProperties": false,
+            "properties": {
+                "additional": {
+                    "description": "授權碼名額",
+                    "type": "number"
+                },
+                "limit": {
+                    "description": "一般名額",
+                    "type": "number"
+                }
+            },
+            "required": ["limit", "additional"],
+            "type": "object"
+        },
+        "CourseTime": {
+            "additionalProperties": false,
+            "properties": {
+                "day": {
+                    "description": "星期幾 1 ~ 7, -1 表示密集課程, 0 表示處理失敗",
+                    "type": "number"
+                },
+                "from": {
+                    "description": "第幾節開始 11 ~ 14: A ~ D",
+                    "type": "number"
+                },
+                "to": {
+                    "description": "第幾節結束 11 ~ 14: A ~ D",
+                    "type": "number"
+                }
+            },
+            "required": ["day", "from", "to"],
+            "type": "object"
+        }
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "json.schemas": [
+        {
+            "fileMatch": ["data/meta/**/*.json"],
+            "url": "./schema/meta.json"
+        },
+        {
+            "fileMatch": ["data/info/**/*-*-*.json"],
+            "url": "./schema/info.json"
+        }
+    ]
+}
