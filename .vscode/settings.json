@@ -2,11 +2,11 @@
     "json.schemas": [
         {
             "fileMatch": ["data/meta/**/*.json"],
-            "url": "./schema/meta.json"
+            "url": "./node_modules/ntnu-course/schema/meta.json"
         },
         {
-            "fileMatch": ["data/info/**/*-*-*.json"],
-            "url": "./schema/info.json"
+            "fileMatch": ["data/info/**/*-*.json"],
+            "url": "./node_modules/ntnu-course/schema/info.json"
         }
     ]
 }
