@@ -1,5 +1,6 @@
 import { writeFileSync, existsSync, mkdirSync, readFileSync } from "fs";
 import { resolve } from "path";
+import { clearLine, cursorTo } from "readline";
 import query, { DepartmentCode, CourseMeta } from "ntnu-course";
 import { Pool } from "./pool";
 
@@ -45,9 +46,7 @@ async function main() {
             mkdirSync(resolve("./data/info/", department), { recursive: true });
         }
 
-        process.stdout.clearLine(0);
-        process.stdout.cursorTo(0);
-        process.stdout.write(
+        log_progress(
             `\x1b[93m[Preparing]\x1b[m \x1b[95m${second_to_time(Math.floor((Date.now() - StartTime) / 1000))}\x1b[m ` +
                 `Getting metadata of \x1b[93m${department}\x1b[m`,
         );
@@ -69,9 +68,7 @@ async function main() {
                     counter.failed++;
                 }
 
-                process.stdout.clearLine(0);
-                process.stdout.cursorTo(0);
-                process.stdout.write(
+                log_progress(
                     `\x1b[92m[Running]\x1b[m \x1b[95m${second_to_time(Math.floor((Date.now() - StartTime) / 1000))}\x1b[m ` +
                         `Parsed: \x1b[93m${counter.parsed}\x1b[m, Skipped: \x1b[93m${counter.skipped}\x1b[m, Failed: \x1b[93m${counter.failed}\x1b[m`,
                 );
@@ -81,11 +78,9 @@ async function main() {
 
     await pool.go();
 
-    process.stdout.clearLine(0);
-    process.stdout.cursorTo(0);
-    console.log(
+    log_progress(
         `\x1b[96m[Finished]\x1b[m \x1b[95m${second_to_time(Math.floor((Date.now() - StartTime) / 1000))}\x1b[m ` +
-            `Parsed: \x1b[93m${counter.parsed}\x1b[m, Skipped: \x1b[93m${counter.skipped}\x1b[m, Failed: \x1b[93m${counter.failed}\x1b[m`,
+            `Parsed: \x1b[93m${counter.parsed}\x1b[m, Skipped: \x1b[93m${counter.skipped}\x1b[m, Failed: \x1b[93m${counter.failed}\x1b[m\n`,
     );
 }
 
@@ -95,4 +90,10 @@ function second_to_time(seconds: number): string {
     const seconds_ = seconds % 60;
 
     return `${hours}h ${minutes}m ${seconds_}s`;
+}
+
+function log_progress(message: string): void {
+    clearLine(process.stdout, 0);
+    cursorTo(process.stdout, 0);
+    process.stdout.write(message);
 }
