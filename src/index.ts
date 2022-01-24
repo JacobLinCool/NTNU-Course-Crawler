@@ -93,7 +93,8 @@ function second_to_time(seconds: number): string {
 }
 
 function log_progress(message: string): void {
-    clearLine(process.stdout, 0);
-    cursorTo(process.stdout, 0);
+    process.stdout.isTTY && clearLine(process.stdout, 0);
+    process.stdout.isTTY && cursorTo(process.stdout, 0);
     process.stdout.write(message);
+    process.stdout.isTTY || process.stdout.write("\n");
 }
