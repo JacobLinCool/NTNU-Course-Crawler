@@ -18,6 +18,10 @@ All data is stored in the `data` folder under the current working directory.
 
 The schemata of parsed json are provided by [`ntnu-course` package](https://github.com/JacobLinCool/NTNU-Course), which is located in the `node_modules` folder.
 
+## Crawled Data
+
+If you only need the data without crawling by yourself, you can use the data in the [`data` branch](https://github.com/JacobLinCool/NTNU-Course-Crawler/tree/data).
+
 ## License
 
 MIT License (c) 2022 JacobLinCool
