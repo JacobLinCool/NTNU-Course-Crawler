@@ -22,12 +22,19 @@ jobs:
               uses: pnpm/action-setup@v2.0.1
               with:
                   version: latest
+                  run-install: false
 
             - name: Install dependencies
               run: pnpm i
 
-            - name: Run
-              run: pnpm start
+            - name: Crawl data (108 ~ 110)
+              run: |
+                  node lib -y 108 -t 1
+                  node lib -y 108 -t 2
+                  node lib -y 109 -t 1
+                  node lib -y 109 -t 2
+                  node lib -y 110 -t 1
+                  node lib -y 110 -t 2
 
             - name: Push to data branch
               uses: peaceiris/actions-gh-pages@v3
