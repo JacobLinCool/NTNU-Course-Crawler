@@ -10,6 +10,18 @@ const parallel = process.argv.includes("--parallel")
     ? parseInt(process.argv[process.argv.indexOf("-p") + 1])
     : 3;
 
+const year = process.argv.includes("--year")
+    ? parseInt(process.argv[process.argv.indexOf("--year") + 1])
+    : process.argv.includes("-y")
+    ? parseInt(process.argv[process.argv.indexOf("-y") + 1])
+    : 110;
+
+const term = process.argv.includes("--term")
+    ? process.argv[process.argv.indexOf("--term") + 1]
+    : process.argv.includes("-t")
+    ? process.argv[process.argv.indexOf("-t") + 1]
+    : 2;
+
 main();
 
 async function main() {
@@ -17,8 +29,10 @@ async function main() {
         (key) => key.match(/^[A-Z]/) && key.length < 5,
     ) as (keyof typeof DepartmentCode)[];
 
-    if (!existsSync(resolve("./data/meta"))) {
-        mkdirSync(resolve("./data/meta"), { recursive: true });
+    const directory = resolve("data", `${year}-${term}`);
+
+    if (!existsSync(resolve(directory, "meta"))) {
+        mkdirSync(resolve(directory, "meta"), { recursive: true });
     }
 
     const counter = {
@@ -32,18 +46,18 @@ async function main() {
     const pool = new Pool(parallel);
 
     for (const department of departments) {
-        const meta_path = resolve("./data/meta", `${department}.json`);
+        const meta_path = resolve(directory, "meta", `${department}.json`);
 
         let meta: CourseMeta[];
         if (!existsSync(meta_path)) {
-            meta = await query.meta({ department });
+            meta = await query.meta({ year, term, department });
             writeFileSync(meta_path, JSON.stringify(meta, null, 4));
         } else {
             meta = JSON.parse(readFileSync(meta_path, "utf8"));
         }
 
-        if (!existsSync(resolve("./data/info/", department))) {
-            mkdirSync(resolve("./data/info/", department), { recursive: true });
+        if (!existsSync(resolve(directory, "info", department))) {
+            mkdirSync(resolve(directory, "info", department), { recursive: true });
         }
 
         log_progress(
@@ -53,7 +67,7 @@ async function main() {
 
         for (const course of meta) {
             pool.push(async () => {
-                const course_path = resolve("./data/info", department, `${course.code}-${course.group || "X"}.json`);
+                const course_path = resolve(directory, "info", department, `${course.code}-${course.group || "X"}.json`);
                 if (existsSync(course_path)) {
                     counter.skipped++;
                     return;
