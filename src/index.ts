@@ -1,13 +1,14 @@
-import { writeFileSync, existsSync, mkdirSync, readFileSync } from "fs";
-import { resolve } from "path";
-import { clearLine, cursorTo } from "readline";
-import query, { DepartmentCode, CourseMeta } from "ntnu-course";
-import { Pool } from "./pool";
+import { writeFileSync, existsSync, mkdirSync, readFileSync } from "node:fs";
+import { resolve } from "node:path";
+import { clearLine, cursorTo } from "node:readline";
+import { query, DepartmentCode, CourseMeta } from "ntnu-course";
+import { Pool } from "@jacoblincool/puddle";
 
-const parallel = process.argv.includes("--parallel")
-    ? parseInt(process.argv[process.argv.indexOf("--parallel") + 1])
-    : process.argv.includes("-p")
-    ? parseInt(process.argv[process.argv.indexOf("-p") + 1])
+// #region Config
+const concurrency = process.argv.includes("--concurrency")
+    ? parseInt(process.argv[process.argv.indexOf("--concurrency") + 1])
+    : process.argv.includes("-c")
+    ? parseInt(process.argv[process.argv.indexOf("-c") + 1])
     : 3;
 
 const year = process.argv.includes("--year")
@@ -21,80 +22,78 @@ const term = process.argv.includes("--term")
     : process.argv.includes("-t")
     ? process.argv[process.argv.indexOf("-t") + 1]
     : 2;
+// #endregion
+
+const START_TIME = Date.now();
+const departments = Object.keys(DepartmentCode).filter((key) => key.match(/^[A-Z]/) && key.length < 5) as (keyof typeof DepartmentCode)[];
+const directory = resolve("data", `${year}-${term}`);
+const counter = { meta: 0, parsed: 0, skipped: 0, failed: 0 };
 
 main();
 
 async function main() {
-    const departments = Object.keys(DepartmentCode).filter(
-        (key) => key.match(/^[A-Z]/) && key.length < 5,
-    ) as (keyof typeof DepartmentCode)[];
-
-    const directory = resolve("data", `${year}-${term}`);
+    console.log(`NTNU Course Crawler. Target: ${year}-${term} Concurrency:`, concurrency);
 
     if (!existsSync(resolve(directory, "meta"))) {
         mkdirSync(resolve(directory, "meta"), { recursive: true });
     }
 
-    const counter = {
-        parsed: 0,
-        skipped: 0,
-        failed: 0,
-    };
+    const meta_pool = new Pool(concurrency);
+    const info_pool = new Pool(concurrency);
 
-    const StartTime = Date.now();
+    departments.forEach((department) => meta_pool.push(() => meta_task(department, info_pool)));
 
-    const pool = new Pool(parallel);
-
-    for (const department of departments) {
-        const meta_path = resolve(directory, "meta", `${department}.json`);
-
-        let meta: CourseMeta[];
-        if (!existsSync(meta_path)) {
-            meta = await query.meta({ year, term, department });
-            writeFileSync(meta_path, JSON.stringify(meta, null, 4));
-        } else {
-            meta = JSON.parse(readFileSync(meta_path, "utf8"));
-        }
-
-        if (!existsSync(resolve(directory, "info", department))) {
-            mkdirSync(resolve(directory, "info", department), { recursive: true });
-        }
-
-        log_progress(
-            `\x1b[93m[Preparing]\x1b[m \x1b[95m${second_to_time(Math.floor((Date.now() - StartTime) / 1000))}\x1b[m ` +
-                `Getting metadata of \x1b[93m${department}\x1b[m`,
-        );
-
-        for (const course of meta) {
-            pool.push(async () => {
-                const course_path = resolve(directory, "info", department, `${course.code}-${course.group || "X"}.json`);
-                if (existsSync(course_path)) {
-                    counter.skipped++;
-                    return;
-                }
-
-                try {
-                    const data = await query.info(course);
-                    writeFileSync(course_path, JSON.stringify(data, null, 4));
-                    counter.parsed++;
-                } catch (e) {
-                    console.error(e);
-                    counter.failed++;
-                }
-
-                log_progress(
-                    `\x1b[92m[Running]\x1b[m \x1b[95m${second_to_time(Math.floor((Date.now() - StartTime) / 1000))}\x1b[m ` +
-                        `Parsed: \x1b[93m${counter.parsed}\x1b[m, Skipped: \x1b[93m${counter.skipped}\x1b[m, Failed: \x1b[93m${counter.failed}\x1b[m`,
-                );
-            });
-        }
-    }
-
-    await pool.go();
+    await meta_pool.go();
+    await info_pool.go();
 
     log_progress(
-        `\x1b[96m[Finished]\x1b[m \x1b[95m${second_to_time(Math.floor((Date.now() - StartTime) / 1000))}\x1b[m ` +
+        `\x1b[96m[Finished]\x1b[m \x1b[95m${second_to_time(Math.floor((Date.now() - START_TIME) / 1000))}\x1b[m ` +
             `Parsed: \x1b[93m${counter.parsed}\x1b[m, Skipped: \x1b[93m${counter.skipped}\x1b[m, Failed: \x1b[93m${counter.failed}\x1b[m\n`,
+    );
+}
+
+async function meta_task(department: keyof typeof DepartmentCode, info_pool: Pool): Promise<void> {
+    const meta_path = resolve(directory, "meta", `${department}.json`);
+
+    let meta: CourseMeta[];
+    if (!existsSync(meta_path)) {
+        meta = await query.meta({ year, term, department });
+        writeFileSync(meta_path, JSON.stringify(meta, null, 4));
+    } else {
+        meta = JSON.parse(readFileSync(meta_path, "utf8"));
+    }
+    counter.meta++;
+
+    meta.forEach((course) => info_pool.push(() => info_task(course)));
+
+    log_progress(
+        `\x1b[93m[Preparing]\x1b[m \x1b[95m${second_to_time(Math.floor((Date.now() - START_TIME) / 1000))}\x1b[m ` +
+            `Collecting metadata of \x1b[93m${department}\x1b[m (\x1b[93m${counter.meta}\x1b[m / ${departments.length})`,
+    );
+}
+
+async function info_task(course: CourseMeta): Promise<void> {
+    if (!existsSync(resolve(directory, "info", course.department))) {
+        mkdirSync(resolve(directory, "info", course.department), { recursive: true });
+    }
+
+    const course_path = resolve(directory, "info", course.department, `${course.code}-${course.group || "X"}.json`);
+    if (existsSync(course_path)) {
+        counter.skipped++;
+        return;
+    }
+
+    try {
+        const data = await query.info(course);
+        writeFileSync(course_path, JSON.stringify(data, null, 4));
+        counter.parsed++;
+    } catch (e) {
+        counter.failed++;
+    }
+
+    log_progress(
+        `\x1b[92m[Running]\x1b[m \x1b[95m${second_to_time(Math.floor((Date.now() - START_TIME) / 1000))}\x1b[m ` +
+            `Parsed: \x1b[93m${counter.parsed}\x1b[m, Skipped: \x1b[93m${counter.skipped}\x1b[m, Failed: \x1b[93m${counter.failed}\x1b[m`,
     );
 }
 
