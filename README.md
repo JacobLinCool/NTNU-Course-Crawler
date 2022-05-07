@@ -4,7 +4,7 @@ Course Crawler for National Taiwan Normal University.
 
 ## Prerequisites
 
--   Node.js 14+
+- Node.js 14+
 
 ## Usage
 

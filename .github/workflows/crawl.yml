@@ -29,12 +29,14 @@ jobs:
 
             - name: Crawl data (108 ~ 110)
               run: |
-                  node lib -y 108 -t 1
-                  node lib -y 108 -t 2
-                  node lib -y 109 -t 1
-                  node lib -y 109 -t 2
-                  node lib -y 110 -t 1
-                  node lib -y 110 -t 2
+                  node dist -y 107 -t 1 -c 12
+                  node dist -y 107 -t 2 -c 12
+                  node dist -y 108 -t 1 -c 12
+                  node dist -y 108 -t 2 -c 12
+                  node dist -y 109 -t 1 -c 12
+                  node dist -y 109 -t 2 -c 12
+                  node dist -y 110 -t 1 -c 12
+                  node dist -y 110 -t 2 -c 12
 
             - name: Push to data branch
               uses: peaceiris/actions-gh-pages@v3
@@ -44,3 +46,4 @@ jobs:
                   user_name: "JacobLinCool"
                   user_email: "jacoblincool@users.noreply.github.com"
                   publish_branch: "data"
+                  keep_files: true
