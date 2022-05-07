@@ -1,0 +1,70 @@
+{
+    "year": 109,
+    "term": 2,
+    "name": "高等微積分特論",
+    "teachers": [
+        "朱亮儒"
+    ],
+    "department": "SU40",
+    "code": "MAU0152",
+    "credit": 3,
+    "serial": 2797,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 1,
+            "from": 2,
+            "to": 4,
+            "campus": "公館",
+            "classroom": "Ｃ005"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "3",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "探討高等微積分課程中較深入的理論，並作為銜接數學分析的準備課程",
+    "goals": [
+        "培養數學專業能力",
+        "銜接高等分析課程",
+        "提升抽象思考層次",
+        "以高觀點詮釋數學與其他學科連結"
+    ],
+    "syllabus": " **本課程是高等微積分的延伸，沒有特定的主題。本課程將以單元方式分別探討****Riemann-Stieltjes** **積分的存在性（引入基本的測度論及****Vitali** **定理）、函數序列與級數的收斂及連續性**\n\n**（引入籌密性問題及介紹****Stone-Weierstrass** **定理）、指數函數、對數函數與gamma函數的性質、****密級數與****Fourier****級數的收斂問題與應用。此外，我們也將介紹抽象距離空間的完備性及緊致性**\n\n**（如範數空間、****Banach****空間、****Hilbert****空間及對偶空間****、****Banach-Steinhaus****定理），並探討****Baire****統整定理及其應用。例如以下有趣的問題：**\n\n1.  **是否存在一連續的實函數****使得函數在每一點都不可微？**\n2.  **是否存在一實函數****使得函數在每一有理點都連續，但在每一無理點都不連續？**\n3.  **是否存在一實函數****使得函數在每一無理點都連續，但在每一有理點都不連續？**\n\n**教材內容：**\n\n**第一章：****Riemann-Stieltjes Integral (12****小時****)**\n\n**第二章：****Sequences and Series of Functions (9****小時****)**\n\n**第三章：****Some Special Functions (6****小時****)**\n\n**第四章：****Metric Spaces and Normed Linear Spaces (6****小時****)**\n\n**第五章：****Banach Spaces and Hilbert Spaces** **(6****小時****)**\n\n**第六章：****Baire Category Theorem (6****小時****)**",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 40,
+            "note": "作業、討論"
+        },
+        {
+            "type": "期中考",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 30,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

@@ -1,0 +1,73 @@
+{
+    "year": 109,
+    "term": 2,
+    "name": "數理統計（二）",
+    "teachers": [
+        "程毅豪"
+    ],
+    "department": "SU40",
+    "code": "MAC9033",
+    "credit": 3,
+    "serial": 2744,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 5,
+            "from": 2,
+            "to": 4,
+            "campus": "公館",
+            "classroom": "數學館310研討室"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "",
+    "classes": "9",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程是研究隨機現象統計規律的一門學科。它提供統計研究與應用的理論基礎。內容包括多變量分配之介紹、極限定理、參數之估計及檢定、迴歸模型、統計量之充分性、完備性、獨立性等，期能建構推論統計學的理論基礎。",
+    "goals": [
+        "建構推論統計學的理論基礎",
+        "奠定未來資料分析應用實務之基礎"
+    ],
+    "syllabus": "每週主題(各一週，期中考和期末考各一週，共18週)\n\n01: Maximum Likelihood Estimation\n\n02: Rao-Cramer Lower Bound and Efficiency\n\n03: Maximum Likelihood Tests\n\n04: Multi-parameter Estimation and Testing\n\n05: Properties of a Sufficient Statistic\n\n06: Completeness and Uniqueness\n\n07: The Exponential Class of Distributions\n\n08: Minimal Sufficiency and Ancillary Statistics\n\n09: Sufficiency, Completeness and Independence\n\n10: Most Powerful Tests\n\n11: Uniformly Most Powerful Tests\n\n12: Likelihood Ratio Tests\n\n13: The Sequential Probability Ratio Test\n\n14: Minimax and Classification Procedures\n\n15: Quadratic Forms\n\n16: One-way ANOVA and Multiple Comparisons",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "講述數理統計重要概念與理論"
+        },
+        {
+            "type": "討論法",
+            "note": "討論數理統計的應用"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 25,
+            "note": "完成課堂指定作業"
+        },
+        {
+            "type": "期中考",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 35,
+            "note": ""
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 10,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

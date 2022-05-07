@@ -1,0 +1,71 @@
+{
+    "year": 109,
+    "term": 2,
+    "name": "固態物理導論（二）",
+    "teachers": [
+        "游至仕"
+    ],
+    "department": "SU41",
+    "code": "PHC9002",
+    "credit": 3,
+    "serial": 2808,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 6,
+            "to": 8,
+            "campus": "公館",
+            "classroom": "Ｓ307"
+        }
+    ],
+    "programs": [
+        "太陽能源與工程學程"
+    ],
+    "comment": "",
+    "restrict": "",
+    "form_s": "",
+    "classes": "9",
+    "dept_group": "",
+    "hours": 3,
+    "description": "介紹晶體各種物理性質.期望學生了解固態物理基本概念及其應用基礎.",
+    "goals": [
+        "物理思辨與討論能力",
+        "口語表達及簡報能力",
+        "熟悉各固態物理相關次領域之研究內容",
+        "研究討論過程中的資料收集與統"
+    ],
+    "syllabus": "1\\. 課程介紹:\n\n固態物理 (或是更廣義來說，凝聚態物理) 是物理的主要分支。固態材料包含了金屬，絕緣體，半導體，超導，磁性材料等等。雖然固態物理系統五花八門，但我們依然能從材料的原子空間結構，電子的能帶結構與電性，對稱性 (symmetry)和序參量 (order parameter)，或是拓樸性 (topology)，給出普適性(Universal)的理解。在理解材料的特性後，我們希望能更進一步有實際的應用 (像是創造新的量子元件)。  \n  \n  \n2\\. 教學進度:\n\n  \n因為切入的角度不同, 所以第二學期不太會用第一學期的太多內容 (但還是需要知道基礎的近代物理跟熱統計物理的概念) 。  \n在第二學期，我們會用更宏觀的角度，去理解物質的各種現象。為了因應時代潮流, 我會在第二學期花三堂課講量子電腦跟量子計算。時間允許的話, 可能還會介紹機器學習的概念!\n\n第二學期的課程會包含:\n\n1\\. 自旋與磁性模型: 簡介鐵磁, 反鐵磁, Mott Antiferromagnetism,  Ising 模型 跟 海森堡模型\n\n2\\. 自發對稱性破缺與 collective mode (自旋波)\n\n3\\. 1D Ising model: 平均場論\n\n4\\. 凝態的第一塊基石:相變, 序參量與朗道相變 (Landau theory of phase transitions), 普適性(Universal)\n\n5. 線性響應與實驗現象: Linear response, fluctuation-dissipation theorem and 中子磁性量測\n\n6. 凝態的第二塊基石: 朗道費米液體 (Landau Fermi Liquid)和准粒子\n\n7\\. 超導物理：超導的現象\n\n8. 超導物理：電子聲子交互作用與超導的微觀理論\n\n9\\. 強關聯物理: Hubbard 模型, 非傳統超導, 高溫超導\n\n10\\. Beyond Landau (1): 幾何相, 貝爾相還有凝態中的拓樸現象\n\n11\\. Beyond Landau (2): 量子霍爾效應與拓樸絕緣體\n\n12. Beyond Landau (3): KT 相變,  topological defect\n\n13. 量子電腦與量子計算 (1): 超導量子電腦等不同的系統, 量子閘門, 量子電路\n\n14. 量子電腦與量子計算 (2): 計算複雜度, 量子演算法\n\n15: 量子電腦與量子計算 (3): 量子電腦的應用\n\n  \n3\\. 評分: 目前暫定沒有期中考，但大約會有2 次作業 (50%)。期末需繳交期末報告 (50%)。期末報告：請從下面選取一個 Physics Today 的文章來撰寫報告。\n\n**1\\. The diverse world of liquid crystals, page 54, Sept. 2007.  \n2\\. When fermions become bosons: pairing in ultra-cold gases, Oct. 2008.  \n3\\. Do quantum spin liquids exist?, page 30, Aug. 2016.  \n4\\. Geometrical frustration, page 24, Feb. 2006.**  \n**5\\. The physics of boron nitride nanotubes, page 34, Nov. 2010.   \n6\\. Two-dimensional Van der Waals materials, page 38, Sept 2016.  \n7\\. The graphene-semiconductor Schottky junction, page 46, Sept 2016.  \n8\\. Viscous electron fluids, page 28, June 2020.  \n9\\. Graphene: Exploring carbon flatland, page 35, Aug. 2007.  \n10\\. Machine learning meets quantum physics, page 48, March 2019.  \n11\\. Topological phases and quasiparticle braiding, page 38, July 2012.  \n12\\. Artificial gauge fields with ultracold atoms,  page 38, Jan. 2019.  \n13\\. Time crystals in periodically driven systems,  page 40, Sept. 2018.  \n14\\. Quantum optomechanics, page 29, July 2012.**  \n**15\\. Spin polarized supercurrents for spintronics, Jan 2011.  \n16\\. Phase-transition dynamics in the lab and the universe, page 47 Sept. 2007.**  \n**17\\. Quantum Criticality, page 29, Feb 2011.  \n18\\. The nearly perfect Fermi gas, page 34, May 2010.  \n19\\. The emergence of magnetic skyrmions, page 44, Mar. 2020.**  \n**20. Iron-based superconductors, page 36, August 2009; Iron-based superconductors, seven years later, page 46, Jun. 2015.  \n21\\. Quantum computing with semiconductor spins, page 38, Aug. 2019.**  \n**22\\. The two-fluid theory and second sound in liquid helium, page 34, Oct. 2009.  \n23. What every physicist should know about string theory, page 38 Nov 2015.  \n24\\. Anderson localization of ultracold atoms page 30, Aug. 2009; Fifty years of Anderson localization, page 24, Aug. 2009.  \n25\\. Atom-like crystal defects: From quantum computers to biological sensors, page 38, Oct. 2014.  \n26\\. Acoustic metamaterials, page 42, Jun. 2016.  \n27\\. Probing physical properties at the nanoscale, June 2008.  \n28. The quantum spin Hall effect and topological insulators, page 33, Jan. 2010.  \n29. Surprises from the spin Hall effect, page 38, Jul. 2017.  \n30\\. Atomic spins on surfaces, page 42, March 2015.  \n31\\. Ultrafast spectroscopy of quantum materials,  page 44, Sept. 2012.**  \n**32\\. Polariton condensates, page 42, Aug. 2010; The new era of polariton condensates, page 54, Oct. 2017.  \n33. A half century of density functional theory, page 34, July, 2015.  \n34\\. Majorana qubits for topological quantum computing, page 44, June, 2020.**",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "問題解決教學",
+            "note": ""
+        },
+        {
+            "type": "其他",
+            "note": "作業"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 50,
+            "note": "2-3次作業"
+        },
+        {
+            "type": "報告",
+            "weight": 50,
+            "note": "一份期末報告"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

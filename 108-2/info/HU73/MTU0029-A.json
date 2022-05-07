@@ -1,0 +1,87 @@
+{
+    "year": 108,
+    "term": 2,
+    "name": "機電整合技術",
+    "teachers": [
+        "呂有勝"
+    ],
+    "department": "HU73",
+    "code": "MTU0029",
+    "credit": 1,
+    "serial": 1231,
+    "group": "A",
+    "quota": {
+        "limit": 30,
+        "additional": 12
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 1,
+            "to": 2,
+            "campus": "本部",
+            "classroom": "機電整合實驗室"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎必須先修過【MTU0075  應用電子學（一）】",
+    "form_s": "3",
+    "classes": "",
+    "dept_group": "",
+    "hours": 2,
+    "description": "以直流馬達定位系統為載具，使學生學習機械、電機、電子及電腦軟體之整合實務技術及其應用。",
+    "goals": [
+        "直流馬達驅動電路之原理與實現",
+        "保護電路之原理與實現",
+        "系統鑑別方法與實作",
+        "類比控制器之設計與實現"
+    ],
+    "syllabus": " \n\n週次\n\n上課日期\n\n每週教學主題\n\n備   註\n\n １\n\nDC Motor and  \nIts Mathematical Model\n\n ２\n\nPower Amplifier (I)\n\n ３\n\nPower Amplifier (II)\n\n ４\n\nPower Amplifier (III)\n\n ５\n\nPower Amplifier (IV)\n\n檢查點I：Power Amp. (I)\n\n ６\n\nProtection Circuit (I)\n\n ７\n\nProtection Circuit (II)\n\n檢查點II：Power Amp. (II)\n\n ８\n\nProtection Circuit (III)\n\n ９\n\nError Detector (Subtractor)\n\n檢查點III：Protection Circuit\n\n１０\n\nProportional Control (I)\n\n１１\n\nProportional Control (II)\n\n檢查點IV：Subtractor\n\n１２\n\nSystem Identification\n\n１３\n\nPID Control (I)\n\n檢查點V：P. Control\n\n１４\n\nPID Control (II)\n\n１５\n\nOne-Hour Experiment &\n\nOne-Hour Examination\n\n１６\n\nI/PD Control (I)\\*\\*\n\n１７\n\nI/PD Control (II)\\*\\*\n\n期末書面報告繳交\n\n１8\n\nDiscussions\n\n元件歸還",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "課堂講述與討論"
+        },
+        {
+            "type": "問題解決教學",
+            "note": "操作示範"
+        },
+        {
+            "type": "合作學習",
+            "note": "兩位學生為一組進行實作"
+        },
+        {
+            "type": "實驗/實作",
+            "note": "實作直流馬達定位系統"
+        },
+        {
+            "type": "其他",
+            "note": "報告及測驗方式進行"
+        }
+    ],
+    "grading": [
+        {
+            "type": "期中考",
+            "weight": 14,
+            "note": ""
+        },
+        {
+            "type": "出席",
+            "weight": 8,
+            "note": ""
+        },
+        {
+            "type": "報告",
+            "weight": 8,
+            "note": "期末書面報告（含實驗紀錄）"
+        },
+        {
+            "type": "其他",
+            "weight": 70,
+            "note": "五個檢查點評量，每個檢查點佔14%"
+        }
+    ],
+    "prerequisite": "◎必須先修過【MTU0075  應用電子學（一）】",
+    "general_core": []
+}

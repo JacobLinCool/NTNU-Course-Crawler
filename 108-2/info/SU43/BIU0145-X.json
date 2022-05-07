@@ -1,0 +1,83 @@
+{
+    "year": 108,
+    "term": 2,
+    "name": "分子生物學",
+    "teachers": [
+        "蘇銘燦",
+        "謝秀梅",
+        "林炎壽"
+    ],
+    "department": "SU43",
+    "code": "BIU0145",
+    "credit": 3,
+    "serial": 2848,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 3,
+            "from": 7,
+            "to": 9,
+            "campus": "公館",
+            "classroom": "Ｅ202"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎必須先修過【BIU0168  普通生物學甲（一）】、【BIU0169  普通生物學甲（二）】",
+    "form_s": "3",
+    "classes": "2",
+    "dept_group": "",
+    "hours": 3,
+    "description": "分子生物學課程內容為以分子層次的觀點探討生物個體細微運作的生命現象，重點強調基因之複製和修補、表現及調控機制，並介紹現今各項分子生物相關技術，而且以癌症作為一個實際之例子說明分子生物學之原理，過程及應用。其中基因的表現過程涵蓋轉錄、轉譯及轉譯後修飾等；基因的表現調控機制以原核生物的調控為基礎，再加上近期真核生物之基因表現調控發現，使學生學習到分子生物學知識的演變及最新的資訊。",
+    "goals": [
+        "以分子層次的觀點探討生物個體細微運作的生命現象，重點強調基因之複製和修補、表現及調控機制"
+    ],
+    "syllabus": "Content\n\nDNA replication, transcription, and translation\n\nDNA repair and recombination\n\nGene structure and chromosomal organization/Transposable and organelle DNA\n\nCulturing and Perturbing Cells\n\n(Seminar presentation)\n\n**Midterm I**\n\nVisualizing cells\n\nGenetic analysis of mutations\n\nStudy gene expression\n\nControl of gene expression in bacteria\n\nRegulation of transcription-factor activity\n\n**Midterm II**\n\nGene inactivation\n\nPost-transcriptional gene control in nucleus\n\nPost-transcriptional control in cytoplasm\n\nOnset and basis of cancer\n\nOncogenes/tumor suppressor genes      \n\n**Final** **Exam**",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "自行製作講義、多媒體等教授課程"
+        },
+        {
+            "type": "討論法",
+            "note": "課程中以分子相關的知識或新聞啟發其思考"
+        },
+        {
+            "type": "媒體融入教學",
+            "note": "有以小段影片或動畫來教授課程"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 3,
+            "note": "授課老師之一會以作業列入其評量成績"
+        },
+        {
+            "type": "期中考",
+            "weight": 60,
+            "note": "兩次期中考試"
+        },
+        {
+            "type": "期末考",
+            "weight": 30,
+            "note": "一次期末考試"
+        },
+        {
+            "type": "出席",
+            "weight": 2,
+            "note": "授課老師之一將不定期點名"
+        },
+        {
+            "type": "報告",
+            "weight": 5,
+            "note": "授課老師之一亦評比報告列入其期中成績"
+        }
+    ],
+    "prerequisite": "◎必須先修過【BIU0168  普通生物學甲（一）】、【BIU0169  普通生物學甲（二）】",
+    "general_core": []
+}

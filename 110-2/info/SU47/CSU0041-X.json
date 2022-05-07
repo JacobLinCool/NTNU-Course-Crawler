@@ -1,0 +1,88 @@
+{
+    "year": 110,
+    "term": 2,
+    "name": "影像處理",
+    "teachers": [
+        "陳世旺"
+    ],
+    "department": "SU47",
+    "code": "CSU0041",
+    "credit": 3,
+    "serial": 2964,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 15
+    },
+    "schedule": [
+        {
+            "day": 4,
+            "from": 2,
+            "to": 4,
+            "campus": "公館",
+            "classroom": "理圖003"
+        }
+    ],
+    "programs": [
+        "人工智慧學程"
+    ],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "3",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "This course studies on image processing, focusing on practical techniques for 2D images. It suggests that students might as well possess such backgrounds as linear algebra, discrete mathematics, and engineering mathematics.\n\n本課的目的在於影像處理相關理論的探討與技術的介紹，特別著重於與2D影像有關的實用技術。建議欲選修本課程的同學最好已修過線性代數，離散數學，工程數學等部份課程。",
+    "goals": [
+        "能了解影像處理的基礎理論及其他相關應用",
+        "能實作影像處理系統"
+    ],
+    "syllabus": "**A. Contents:**\n\nCh.1:  Introduction\n\nCh.2:  Image Files and File Types\n\nCh.3:  Image Display\n\nCh.4:  Point Processing\n\nCh.5:  Neighborhood Processing\n\nCh.6:  Image Geometry\n\nCh.7:  Fourier Analysis\n\nCh.8:  Image Restoration\n\nCh.9:  Image Segmentation\n\nCh.10: Mathematical Morphology\n\nCh.11: Image Topology\n\nCh.12: Shapes and Boundaries\n\nCh.13: Color Processing\n\nCh.15: Wavelets\n\nAppendix: Python and OpenCV\n\n**B. Syllabus**\n\n **Week       Content** \n\n     1               Ch1\n\n     2               App, Ch2\n\n     3               Chs 2, 3\n\n     4               Ch5\n\n     5               Presentation\n\n     6               Chs5,8\n\n     7               Ch8\n\n     8               Mid-term Exam.\n\n    9                Ch9\n\n   10               Chs9,10\n\n   11               Ch10\n\n   12               Ch13\n\n   13               Ch13\n\n   14               Ch15\n\n   15               Project report\n\n   16               Project Report",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "講述理論與概念"
+        },
+        {
+            "type": "討論法",
+            "note": "隨堂提問"
+        },
+        {
+            "type": "媒體融入教學",
+            "note": "播放相關議題視訊"
+        },
+        {
+            "type": "專題研究",
+            "note": "引導研究主題，實作計畫"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 30,
+            "note": "平常作業"
+        },
+        {
+            "type": "期中考",
+            "weight": 25,
+            "note": "包括各種講述問題"
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 15,
+            "note": "隨堂提問"
+        },
+        {
+            "type": "報告",
+            "weight": 20,
+            "note": ""
+        },
+        {
+            "type": "成果展覽",
+            "weight": 10,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

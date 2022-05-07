@@ -1,0 +1,85 @@
+{
+    "year": 110,
+    "term": 1,
+    "name": "人類發展",
+    "teachers": [
+        "聶西平"
+    ],
+    "department": "EU06",
+    "code": "HGU0004",
+    "credit": 3,
+    "serial": 800,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 1,
+            "from": 2,
+            "to": 4,
+            "campus": "本部",
+            "classroom": "誠203"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "1",
+    "classes": "",
+    "dept_group": "E",
+    "hours": 3,
+    "description": "",
+    "goals": [
+        "探討個人由出生至老年的發展變化",
+        "認識人類發展心理學的理論及研究方法",
+        "學習人類發展各領域發展的內涵",
+        "認識人類發展的重要影響因素",
+        "建立正確的自我信念與生命價值觀"
+    ],
+    "syllabus": "1：Basic concepts, methods, and theories of development\n\n2：Prenatal development and birth\n\n3：Physical, sensory, and perceptual development in infancy\n\n4：Cognitive, social and personality development in infancy\n\n5：Physical and cognitive development in early childhood\n\n6：(10/11放假)\n\n7：Social and personality development in early childhood\n\n8：Physical and cognitive development in middle childhood\n\n9：期中考試\n\n10：Social and personality development in middle childhood\n\n11：Physical and cognitive, development in adolescence\n\n12：Social and personality development in adolescence\n\n13：Development in early adulthood\n\n14：Development in middle adulthood\n\n15：Development in late adulthood and the end of life\n\n16：期末考試\n\n17：彈性學習週\n\n18：彈性學習週",
+    "methodologies": [
+        {
+            "type": "Formal lecture",
+            "note": "教師講述當週主題"
+        },
+        {
+            "type": "Group discussion",
+            "note": "安排學生小組討論並於課堂分享討論的結果"
+        },
+        {
+            "type": "Media, audio, visual materials",
+            "note": "使用投影片及搭配影片等補充教材融入教學"
+        }
+    ],
+    "grading": [
+        {
+            "type": "Assignments",
+            "weight": 20,
+            "note": "學期中會指定二份作業，作業格式與主題配合課程進度另行公布。"
+        },
+        {
+            "type": "Midterm Exam",
+            "weight": 30,
+            "note": "Open-book exam。"
+        },
+        {
+            "type": "Final exam",
+            "weight": 30,
+            "note": "Open-book exam。"
+        },
+        {
+            "type": "Class discussion involvement",
+            "weight": 15,
+            "note": "每週課堂會依當週主題安排學生進行小組討論並於課堂分享討論的結果，參與討論的程度將作為評分參考。"
+        },
+        {
+            "type": "Attendances",
+            "weight": 5,
+            "note": "課堂點名紀錄。"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

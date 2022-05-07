@@ -1,0 +1,833 @@
+[
+    {
+        "year": 109,
+        "term": 1,
+        "name": "能源與動力",
+        "teachers": [
+            "程金保"
+        ],
+        "department": "HU71",
+        "code": "ITU0017",
+        "credit": 3,
+        "serial": 1258,
+        "group": "",
+        "quota": {
+            "limit": 30,
+            "additional": 13
+        },
+        "schedule": [
+            {
+                "day": 5,
+                "from": 7,
+                "to": 9,
+                "campus": "本部",
+                "classroom": "科211"
+            }
+        ],
+        "programs": [
+            "太陽能源與工程學程"
+        ],
+        "comment": "師培生修習",
+        "restrict": "◎限大三大四修習",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 1,
+        "name": "電子電路",
+        "teachers": [
+            "丁玉良"
+        ],
+        "department": "HU71",
+        "code": "ITU0165",
+        "credit": 3,
+        "serial": 1266,
+        "group": "",
+        "quota": {
+            "limit": 30,
+            "additional": 5
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 7,
+                "to": 9,
+                "campus": "本部",
+                "classroom": "科401"
+            }
+        ],
+        "programs": [
+            "太陽能源與工程學程"
+        ],
+        "comment": "",
+        "restrict": "◎限大一修習",
+        "form_s": "1",
+        "classes": "1",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 1,
+        "name": "半導體元件物理",
+        "teachers": [
+            "劉傳璽"
+        ],
+        "department": "HU73",
+        "code": "MTC0024",
+        "credit": 3,
+        "serial": 1317,
+        "group": "",
+        "quota": {
+            "limit": 30,
+            "additional": 12
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 2,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "工501"
+            }
+        ],
+        "programs": [
+            "太陽能源與工程學程"
+        ],
+        "comment": "",
+        "restrict": "",
+        "form_s": "",
+        "classes": "9",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 1,
+        "name": "材料科學",
+        "teachers": [
+            "劉傳璽"
+        ],
+        "department": "HU73",
+        "code": "MTU0097",
+        "credit": 3,
+        "serial": 1329,
+        "group": "",
+        "quota": {
+            "limit": 60,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 6,
+                "to": 8,
+                "campus": "本部",
+                "classroom": "工501"
+            }
+        ],
+        "programs": [
+            "太陽能源與工程學程"
+        ],
+        "comment": "",
+        "restrict": "",
+        "form_s": "1",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 1,
+        "name": "電路學",
+        "teachers": [
+            "陳美勇"
+        ],
+        "department": "HU73",
+        "code": "MTU0013",
+        "credit": 3,
+        "serial": 1334,
+        "group": "",
+        "quota": {
+            "limit": 60,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 7,
+                "to": 9,
+                "campus": "本部",
+                "classroom": "誠102"
+            }
+        ],
+        "programs": [
+            "太陽能源與工程學程"
+        ],
+        "comment": "",
+        "restrict": "",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 1,
+        "name": "電子學（一）",
+        "teachers": [
+            "蘇崇彥"
+        ],
+        "department": "HU75",
+        "code": "AEU0006",
+        "credit": 3,
+        "serial": 1356,
+        "group": "A",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 5,
+                "from": 2,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "誠108"
+            }
+        ],
+        "programs": [
+            "太陽能源與工程學程"
+        ],
+        "comment": "",
+        "restrict": "",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 1,
+        "name": "電子學（一）",
+        "teachers": [
+            "蘇崇彥"
+        ],
+        "department": "HU75",
+        "code": "AEU0006",
+        "credit": 3,
+        "serial": 1357,
+        "group": "B",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 7,
+                "to": 9,
+                "campus": "本部",
+                "classroom": "樸106"
+            }
+        ],
+        "programs": [
+            "太陽能源與工程學程"
+        ],
+        "comment": "",
+        "restrict": "",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 1,
+        "name": "電路學（一）",
+        "teachers": [
+            "郭建宏"
+        ],
+        "department": "HU75",
+        "code": "AEU0014",
+        "credit": 3,
+        "serial": 1359,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 7,
+                "to": 9,
+                "campus": "本部",
+                "classroom": "工501"
+            }
+        ],
+        "programs": [
+            "太陽能源與工程學程"
+        ],
+        "comment": "",
+        "restrict": "",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 1,
+        "name": "能源科技概論",
+        "teachers": [
+            "呂有豐"
+        ],
+        "department": "HU76",
+        "code": "VEU0002",
+        "credit": 2,
+        "serial": 1377,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 3,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "汽車場二樓"
+            }
+        ],
+        "programs": [
+            "太陽能源與工程學程"
+        ],
+        "comment": "",
+        "restrict": "",
+        "form_s": "1",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 1,
+        "name": "電路學（一）",
+        "teachers": [
+            "白凱仁"
+        ],
+        "department": "HU76",
+        "code": "VEU0003",
+        "credit": 3,
+        "serial": 1378,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 6,
+                "to": 8,
+                "campus": "本部",
+                "classroom": "工511"
+            }
+        ],
+        "programs": [
+            "太陽能源與工程學程"
+        ],
+        "comment": "",
+        "restrict": "",
+        "form_s": "1",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 1,
+        "name": "工程數學（一）",
+        "teachers": [
+            "洪翊軒"
+        ],
+        "department": "HU76",
+        "code": "VEU0010",
+        "credit": 3,
+        "serial": 1381,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 2,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "工401"
+            }
+        ],
+        "programs": [
+            "太陽能源與工程學程"
+        ],
+        "comment": "",
+        "restrict": "",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 1,
+        "name": "人工智慧與應用",
+        "teachers": [
+            "陳韋任"
+        ],
+        "department": "HU76",
+        "code": "VEU0024",
+        "credit": 3,
+        "serial": 1383,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 6,
+                "to": 8,
+                "campus": "本部",
+                "classroom": "工209"
+            }
+        ],
+        "programs": [
+            "太陽能源與工程學程"
+        ],
+        "comment": "",
+        "restrict": "",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 1,
+        "name": "光電工程概論",
+        "teachers": [
+            "廖書賢"
+        ],
+        "department": "HU77",
+        "code": "OEU0001",
+        "credit": 2,
+        "serial": 1395,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 8,
+                "to": 9,
+                "campus": "公館",
+                "classroom": "Ｓ301"
+            }
+        ],
+        "programs": [
+            "太陽能源與工程學程"
+        ],
+        "comment": "",
+        "restrict": "",
+        "form_s": "1",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 1,
+        "name": "幾何光學",
+        "teachers": [
+            "邱爾德"
+        ],
+        "department": "HU77",
+        "code": "OEU0007",
+        "credit": 3,
+        "serial": 1398,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 3,
+                "to": 4,
+                "campus": "公館",
+                "classroom": "Ｓ307"
+            },
+            {
+                "day": 1,
+                "from": 6,
+                "to": 6,
+                "campus": "公館",
+                "classroom": "Ｓ307"
+            }
+        ],
+        "programs": [
+            "太陽能源與工程學程"
+        ],
+        "comment": "",
+        "restrict": "",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 1,
+        "name": "光電電子學",
+        "teachers": [
+            "楊承山"
+        ],
+        "department": "HU77",
+        "code": "OEU0012",
+        "credit": 3,
+        "serial": 1400,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 7,
+                "to": 9,
+                "campus": "公館",
+                "classroom": "Ｓ202"
+            }
+        ],
+        "programs": [
+            "太陽能源與工程學程"
+        ],
+        "comment": "",
+        "restrict": "",
+        "form_s": "3",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 1,
+        "name": "半導體物理導論（一）",
+        "teachers": [
+            "駱芳鈺"
+        ],
+        "department": "SU41",
+        "code": "PHC0100",
+        "credit": 3,
+        "serial": 2872,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 5,
+                "from": 2,
+                "to": 4,
+                "campus": "公館",
+                "classroom": "Ｓ701"
+            }
+        ],
+        "programs": [
+            "太陽能源與工程學程"
+        ],
+        "comment": "",
+        "restrict": "",
+        "form_s": "",
+        "classes": "9",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 1,
+        "name": "固態物理導論（一）",
+        "teachers": [
+            "游至仕"
+        ],
+        "department": "SU41",
+        "code": "PHC9001",
+        "credit": 3,
+        "serial": 2873,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 6,
+                "to": 8,
+                "campus": "公館",
+                "classroom": "Ｓ304"
+            }
+        ],
+        "programs": [
+            "太陽能源與工程學程"
+        ],
+        "comment": "",
+        "restrict": "",
+        "form_s": "",
+        "classes": "9",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 1,
+        "name": "新興材料與光電元件（一）",
+        "teachers": [
+            "趙宇強"
+        ],
+        "department": "SU41",
+        "code": "PHC9014",
+        "credit": 3,
+        "serial": 2875,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 6,
+                "to": 8,
+                "campus": "公館",
+                "classroom": "Ｓ701"
+            }
+        ],
+        "programs": [
+            "太陽能源與工程學程"
+        ],
+        "comment": "",
+        "restrict": "",
+        "form_s": "",
+        "classes": "9",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 1,
+        "name": "光學",
+        "teachers": [
+            "陸亭樺"
+        ],
+        "department": "SU41",
+        "code": "PHU0014",
+        "credit": 3,
+        "serial": 3328,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 2,
+                "to": 4,
+                "campus": "公館",
+                "classroom": "Ｓ601"
+            }
+        ],
+        "programs": [
+            "太陽能源與工程學程"
+        ],
+        "comment": "",
+        "restrict": "",
+        "form_s": "3",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 1,
+        "name": "光電半導體",
+        "teachers": [
+            "胡淑芬"
+        ],
+        "department": "SU41",
+        "code": "PHU0261",
+        "credit": 3,
+        "serial": 2912,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 6,
+                "to": 8,
+                "campus": "公館",
+                "classroom": "理圖003"
+            }
+        ],
+        "programs": [
+            "太陽能源與工程學程"
+        ],
+        "comment": "",
+        "restrict": "",
+        "form_s": "3",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 1,
+        "name": "奈米材料與永續化學",
+        "teachers": [
+            "陳貴賢"
+        ],
+        "department": "SU42",
+        "code": "CMC9001",
+        "credit": 3,
+        "serial": 2929,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 5,
+                "from": 7,
+                "to": 9,
+                "campus": "公館",
+                "classroom": "Ｃ107"
+            }
+        ],
+        "programs": [
+            "太陽能源與工程學程"
+        ],
+        "comment": "",
+        "restrict": "",
+        "form_s": "",
+        "classes": "9",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 1,
+        "name": "太陽系",
+        "teachers": [
+            "曾瑋玲"
+        ],
+        "department": "SU44",
+        "code": "ESU0095",
+        "credit": 3,
+        "serial": 3045,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 5,
+                "from": 2,
+                "to": 4,
+                "campus": "公館",
+                "classroom": "Ｃ006"
+            }
+        ],
+        "programs": [
+            "天文重力學程",
+            "太陽能源與工程學程"
+        ],
+        "comment": "初中階以上課程，適合大二以上學生修習，以作為中階課程銜接之先修課程。",
+        "restrict": "◎限大二大三大四修習",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 1,
+        "name": "大氣觀測（含實習）",
+        "teachers": [
+            "曾莉珊"
+        ],
+        "department": "SU44",
+        "code": "ESU0199",
+        "credit": 3,
+        "serial": 3050,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 5,
+                "from": 7,
+                "to": 9,
+                "campus": "公館",
+                "classroom": "Ｃ403"
+            }
+        ],
+        "programs": [
+            "太陽能源與工程學程"
+        ],
+        "comment": "需先修過大一的大氣科學概論後，才適合修習本門課程。",
+        "restrict": "◎限大二大三大四修習◎必須先修過【ESU0179  大氣科學概論（含實習）】",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 1,
+        "name": "大氣動力學（一）",
+        "teachers": [
+            "陳正達"
+        ],
+        "department": "SU44",
+        "code": "ESU0058",
+        "credit": 3,
+        "serial": 3051,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 8,
+                "to": 9,
+                "campus": "公館",
+                "classroom": "Ｃ409"
+            },
+            {
+                "day": 5,
+                "from": 9,
+                "to": 9,
+                "campus": "公館",
+                "classroom": "Ｃ409"
+            }
+        ],
+        "programs": [
+            "太陽能源與工程學程"
+        ],
+        "comment": "本門課程為中階課程，適合大三以上學生修習。",
+        "restrict": "◎限大三大四修習",
+        "form_s": "3",
+        "classes": "",
+        "dept_group": ""
+    }
+]

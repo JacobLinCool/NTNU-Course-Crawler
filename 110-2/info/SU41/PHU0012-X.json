@@ -1,0 +1,68 @@
+{
+    "year": 110,
+    "term": 2,
+    "name": "數學物理（二）",
+    "teachers": [
+        "趙宇強"
+    ],
+    "department": "SU41",
+    "code": "PHU0012",
+    "credit": 3,
+    "serial": 2814,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 1,
+            "from": 8,
+            "to": 10,
+            "campus": "公館",
+            "classroom": "Ｓ304"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "2",
+    "classes": "2",
+    "dept_group": "",
+    "hours": 3,
+    "description": "教授物理系必修課程中所需之數學概念及技巧，使學生具備扎實的數學運算能力，以作為了解高深物理原理的基礎.",
+    "goals": [
+        "具有數學邏輯推導與演算的能力",
+        "簡介相關物理原理"
+    ],
+    "syllabus": "因應新冠肺炎疫情之課程調整方式:   本課程將另外規劃二週課程，以自主學習與補救教學為主之學習活動。\n\n1\\. Linear Algebra:\n\n    A. VectorAnalysis(differential vector operators and curvilinear coordinates)\n\n    B. Tensorand Differential Forms\n\n    C. VectorSpaces\n\n    D.Eigenvalue Problems\n\n2\\. Differential Equations\n\n    A.Strum-Liouville Theory\n\n    B.Orthogonal Functions",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "上課以黑板及投影機講解,學生應記錄筆記."
+        },
+        {
+            "type": "討論法",
+            "note": "學生可隨時詢問或回答問題."
+        }
+    ],
+    "grading": [
+        {
+            "type": "期中考",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "其他",
+            "weight": 40,
+            "note": "期中考前一次小考，期末考前一次小考"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

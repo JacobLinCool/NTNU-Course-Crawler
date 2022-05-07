@@ -1,0 +1,73 @@
+{
+    "year": 108,
+    "term": 2,
+    "name": "高等光電固態物理",
+    "teachers": [
+        "張俊傑"
+    ],
+    "department": "HM77",
+    "code": "OEC8122",
+    "credit": 3,
+    "serial": 1123,
+    "group": "",
+    "quota": {
+        "limit": 30,
+        "additional": 12
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 7,
+            "to": 9,
+            "campus": "公館",
+            "classroom": "綜合館201"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "介紹固態物理在光電工程技術之基礎應用。",
+    "goals": [
+        "使學生具備固態物理基本知識。",
+        "使學生瞭解固態材料的電性、磁性、光學等特性。",
+        "讓學生明瞭光在固態材料中與電子、phonon、plasmon等的作用。",
+        "讓學生瞭解固態光電元件工作原理。",
+        "使學生知道固態光電元件製作方式與應用。",
+        "使學生明瞭固態光電積體系統的設計與應用。"
+    ],
+    "syllabus": "The course is intended for graduate students (both M.S. and Ph.D.) in the Institute of Electro-Optical Engineering to understand the basic solid state physics that are related to the phenomena observed in solid-state electronics and photonics, such as phonons, plasmons, excitons, etc. In addition, the course will place particular emphases on the low-dimensional semiconductors and their heterostructures, and various electronic and photonic devices formed based on these semiconductor structures.\n\n\\*This course is meant for students who'd like to learn the advanced physics of semiconductors and their heterostructures. Emphases will be placed primarily upon physics, with some focus on photonic and electronic devices built from low-dimensional semiconductor heterostructures. \n\n\\*The course will cover the folllowing topics: (1) Basics of quantum mechanics necessary to understand low-dimensional semicondcutor structures (Braket notation/Schrodinger equation/simple harmonic oscillator/time-dependent perturbation/Fermi-Golden rule, etc.), (2) Basics of semiconductor physics (bandstructures, carrier statistics, quantum confinement effect, QW, QD, heterostructures, phonons, excitons, polaritons, etc.), (3) Semiconductor optoelectronic devices (interband lasers, intersubband lasers, intersubband photodetectors, etc.)\n\n\\*Students are required to employ certain programming languages such as Matlab and Python for doing their homework.    \n\n\\*Evaluation: homework (30%), written midterm exam (20%), written final exam (30%), final presentation (20%) \n\n**\\*\\*\\*Due to the covid-19 pandemic, all the lectures are going remote as of April 6th\\*\\*\\***",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "will coupled with powerpoint presentation when needed"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 30,
+            "note": "require some programming"
+        },
+        {
+            "type": "期中考",
+            "weight": 20,
+            "note": "written exam"
+        },
+        {
+            "type": "期末考",
+            "weight": 30,
+            "note": "written exam"
+        },
+        {
+            "type": "報告",
+            "weight": 20,
+            "note": "final presentation"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

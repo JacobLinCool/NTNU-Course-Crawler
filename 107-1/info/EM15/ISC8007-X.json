@@ -1,0 +1,103 @@
+{
+    "year": 107,
+    "term": 1,
+    "name": "數位人文的人工智慧",
+    "teachers": [
+        "曾元顯"
+    ],
+    "department": "EM15",
+    "code": "ISC8007",
+    "credit": 3,
+    "serial": 514,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 7,
+            "to": 9,
+            "campus": "本部",
+            "classroom": "教室自排"
+        }
+    ],
+    "programs": [],
+    "comment": "上課教室：圖資所研討室A",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "人工智慧的技術與應用，近年來有長足的進步與發展，未來幾年將影響人類社會的多種層面。本課程除了相關技術與理論的介紹，也透過實例的展示與實作，說明人工智慧技術在的語言溝通、自動翻譯、詩詞創作、看圖生文（或閱文生圖）、音樂創作、畫作風格自動轉換、輔助專家進行創意設計等方面的能力與應用現況，以培養學生計算思維、介接人工智慧的來臨、瞭解大數據時代建構與組織研究資料的重要性及具備相關能力，並善用既有工具協助人文社會領域的各種創作與議題之解決，從而有足夠的知能與素養思考人文社會領域未來的演變與應對之道。",
+    "goals": [
+        "讓學習者理解人工智慧的理論、演進、技術與應用",
+        "瞭解如何使用軟體工具，並能夠蒐集與建構資料，運用分析組織過的結果套用到人工智慧的方法上，建立相關的應用",
+        "透過案例說明及專題實作，讓學習者不僅能夠理解，更能夠動手應用"
+    ],
+    "syllabus": "1.        Introduction to Artificial Intelligence (AI) and basic programming: Python I\n\n2.        Introduction to AI applications in digital humanities; Python II\n\n3.        Basic AI techniques: exhausting search, game playing, and problem solving; Python III\n\n4.        Human-machine conversation: demonstrations of chatbots; Python IV\n\n5.        Introduction to Artificial Intelligence Markup Language (AIML); Python V\n\n6.        Data preparation for chatbot applications: Corpus, Annotation, and Data Format; Python VI\n\n7.        Training, Validation, and Testing for AI applications; Python VII; 外部專家演講 I\n\n8.        Midterm review and mini-project demonstration: such as chatbots for library reference service\n\n9.        Artificial Neural Networks (NN) and how they work? Python VIII\n\n10.     Basic tools and techniques: Keras, Tensorflow, linear algebra, calculus, and optimization\n\n11.     Convolutional Neural Network (CNN) and application examples; Python IX\n\n12.     Recurrent Neural Network (RNN) and application examples; Python X\n\n13.     Reinforcement Learning (RL) and Generative Adversarial Network (GAN), and their application examples\n\n14.     AI ethics; 外部專家演講 II\n\n15.     Case Study I: composing poems by AI, composing music by AI\n\n16.     Case Study II: robotic AI lawyer, augmented design by AI\n\n17.     Final Project Presentation I\n\n18.     Final Project Presentation II",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "講述人工智慧基礎理論並展示相關系統與應用，並逐步教導相關程式語言之語法與語意，以及相關工具之運用。"
+        },
+        {
+            "type": "討論法",
+            "note": "本課程以學習者為中心，著重個人的啟發與引導，以及集體的協作與溝通。期末前會以panel discussion方式，由學生主持、老師觀察協助的方式，進行人工智慧對數位人文領域影響的討論與辯論。"
+        },
+        {
+            "type": "問題解決教學",
+            "note": "觀看人工智慧相關報導與影片，讓學生由問題出發，養成網路上搜尋資源、解決疑惑、並實作應用系統之習慣。"
+        },
+        {
+            "type": "合作學習",
+            "note": "以聊天機器人、電腦遊戲或其他人工智慧應用為例，以二、三人一組設計並實作系統，培養學生合作學習的能力。"
+        },
+        {
+            "type": "實驗/實作",
+            "note": "重視手動練習，於課堂中確實練習，並有課後作業。"
+        },
+        {
+            "type": "媒體融入教學",
+            "note": "採用遠距教學平台與數位多媒體工具進行教學。"
+        },
+        {
+            "type": "專題研究",
+            "note": "學生需根據興趣自選專題以及合作學習伙伴，運用課程所學方法與工具，實作人工智慧相關應用，並提出具體成果。"
+        },
+        {
+            "type": "其他",
+            "note": "邀請具有實務經驗之相關人士進行專題演講及對話交流，讓學生更能瞭解業界的實際需求與應用。"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 30,
+            "note": "本課程著重實作與練習，課程中包括人工智慧方法的回家作業，至少繳交4次。"
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 5,
+            "note": "課堂參與討論的次數與情況"
+        },
+        {
+            "type": "出席",
+            "weight": 5,
+            "note": "上課出席情形"
+        },
+        {
+            "type": "報告",
+            "weight": 20,
+            "note": "由於人工智慧技術進展快速，學生需養成吸收新知習慣，因此會有不定期的新知重點課堂報告與討論"
+        },
+        {
+            "type": "專題",
+            "weight": 40,
+            "note": "學生需根據興趣自選專題，運用所學實作人工智慧相關應用，並提出具體成果。"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

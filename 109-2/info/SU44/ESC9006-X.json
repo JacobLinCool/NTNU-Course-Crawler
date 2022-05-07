@@ -1,0 +1,79 @@
+{
+    "year": 109,
+    "term": 2,
+    "name": "熱帶氣象學",
+    "teachers": [
+        "鄒治華"
+    ],
+    "department": "SU44",
+    "code": "ESC9006",
+    "credit": 3,
+    "serial": 2944,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 3,
+            "from": 6,
+            "to": 6,
+            "campus": "公館",
+            "classroom": "Ｃ409"
+        },
+        {
+            "day": 4,
+            "from": 3,
+            "to": 4,
+            "campus": "公館",
+            "classroom": "Ｃ409"
+        }
+    ],
+    "programs": [],
+    "comment": "中階以上課程，適合大三以上學生修習，以作為探究研究所之先修課程，同時也開放碩士班無此課程基礎之學生選修。",
+    "restrict": "◎必須先修過【PHU0251  普通物理乙（一）】、【PHU0252  普通物理乙（二）】、【ESU0023  應用數學（一）】",
+    "form_s": "",
+    "classes": "9",
+    "dept_group": "",
+    "hours": 3,
+    "description": "介紹熱帶氣旋與大尺度環流的特徵，熱帶基本動力與熱力理論、並培養學生進行熱帶氣象相關研究的能力。",
+    "goals": [
+        "介紹熱帶氣旋與大尺度環流的特徵，熱帶基本動力與熱力理論、並培養學生進行熱帶氣象相關研究的能力。"
+    ],
+    "syllabus": "To give an introduction to the tropical cyclones, large-scale waves and tropical dynamics \n\n1.      Introduction\n\n2.     The observed structure of large-scale tropical circulation\n\n3.      Tropical synoptic-scaledisturbances\n\n4.     Tropical cyclones \n\n5.      Intraseasonal oscillation\n\n6.      Regional circulation systems\n\n7.      Interannual variability of the atmosphere-ocean system",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 20,
+            "note": ""
+        },
+        {
+            "type": "期中考",
+            "weight": 40,
+            "note": ""
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 10,
+            "note": ""
+        },
+        {
+            "type": "報告",
+            "weight": 30,
+            "note": ""
+        }
+    ],
+    "prerequisite": "◎必須先修過【PHU0251  普通物理乙（一）】、【PHU0252  普通物理乙（二）】、【ESU0023  應用數學（一）】",
+    "general_core": []
+}

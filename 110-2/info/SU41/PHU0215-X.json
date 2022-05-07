@@ -1,0 +1,69 @@
+{
+    "year": 110,
+    "term": 2,
+    "name": "電磁學（一）",
+    "teachers": [
+        "徐鏞元"
+    ],
+    "department": "SU41",
+    "code": "PHU0215",
+    "credit": 3,
+    "serial": 2815,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 5,
+            "from": 2,
+            "to": 4,
+            "campus": "公館",
+            "classroom": "Ｓ602"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "2",
+    "classes": "2",
+    "dept_group": "",
+    "hours": 3,
+    "description": "上承普通物理中電磁學部份，下接光學、近代物理及固態物理。對電磁學作較深入的理論探討，並對電磁波的特性作扼要介紹，著重理論之推演，兼以實驗之設計發展以培養學生獨立思考，解決問題的能力。",
+    "goals": [
+        "瞭解電磁學基礎理論",
+        "加強理性思維能力",
+        "簡介電磁學與現代科技的關係"
+    ],
+    "syllabus": "第1 週  向量分析  \n第2 週  靜電學：靜電現象的探討、電場\n\n第3 週  靜電學：電位移與高斯定律\n\n第4 週  靜電學：庫倫定律的探討、電容器儲存能量功\n\n第5 週  靜電學：導體與介電質\n\n第6 週  解題技術：Laplace’s equation\n\n第7 週  解題技術： Method of images\n\n第8 週  解題技術： Multipole expansion\n\n第9 週  復習與習題討論\n\n第10週  期中考\n\n第11週  靜磁學：磁力、Lorentz force law,\n\n第12週  靜磁學： Biot-Savart Law，Vector potential\n\n第13週  靜磁學：安培定律\n\n第14週  物質中的電磁場：Polarization\n\n第15週  物質中的電磁場：Magnetization\n\n第16週  物質中的電磁場： Electric displacement, Inductance\n\n第17週復習與習題討論  \n第18週  期末考",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 30,
+            "note": "課堂上會視情況請同學上台解說所負責之該題習題。(解說列入作業評分)"
+        },
+        {
+            "type": "期中考",
+            "weight": 30,
+            "note": "視情況安排小考，成績合併計分"
+        },
+        {
+            "type": "期末考",
+            "weight": 40,
+            "note": "視情況安排小考，成績合併計分"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

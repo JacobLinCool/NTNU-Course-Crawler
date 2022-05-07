@@ -1,0 +1,83 @@
+{
+    "year": 108,
+    "term": 1,
+    "name": "計算機概論",
+    "teachers": [
+        "林順喜"
+    ],
+    "department": "SU47",
+    "code": "CSU0006",
+    "credit": 3,
+    "serial": 3052,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 40
+    },
+    "schedule": [
+        {
+            "day": 1,
+            "from": 2,
+            "to": 2,
+            "campus": "公館",
+            "classroom": "Ｂ102"
+        },
+        {
+            "day": 4,
+            "from": 3,
+            "to": 4,
+            "campus": "公館",
+            "classroom": "Ｂ102"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "1",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程主要在介紹資訊工程各種領域的基本知識，奠定學生往後學習相關課程之基礎。",
+    "goals": [
+        "能了解資訊系統軟硬體的關係及運作原理",
+        "能熟悉資訊基礎理論",
+        "具有持續追求新知的精神",
+        "能了解正確使用資訊技巧的社會責任",
+        "能了解資訊科技對環境的影響",
+        "具有尊重智慧財產權的認知與態度"
+    ],
+    "syllabus": "Part 1: Computer and Data\n\n1\\. 簡介Introduction(算盤之操作、Napier’s Bones、slide rule、Pascaline、ABC-operation、ABC-tutorial、Insertion sort)\n\n2\\. 數字系統Number Systems(Number converter)\n\n3\\. 資料的儲存Storing Data(IEEE 754)\n\n4\\. 資料運算Operation on Data (XOR對切開關)\n\nPart 2: Computer Hardware\n\n5\\. 計算機組織Computer Organizations(一個簡單CPU的模擬)\n\n6\\. 電腦網路Computer Networks\n\nPart 3: Computer Software\n\n7\\. 作業系統Operating Systems\n\n8\\. 演算法Algorithms(sort、Linear Search、Binary Search、Tower of Hanoi、四柱河內塔)\n\n9\\. 程式語言Programming Languages(暫定不上)\n\n10\\. 軟體工程Software Engineering(暫定不上)\n\nPart 4: Data Organization\n\n11\\. 資料結構Data Structures(linked list)\n\n12\\. 抽象資料型態Abstract Data Types(stack、queue、Binary Tree Traversal、Binary Search Tree (Search)、Binary Search Tree (Insert, Delete)、)\n\n13\\. 檔案結構File Structures\n\n14\\. 資料庫Databases\n\nPart 5: Advanced Topics\n\n15\\. 資料壓縮Data Compression(Huffman編碼、摩爾斯電碼)\n\n16\\. 資訊安全Security\n\n17\\. 計算理論Theory of Computation\n\n18\\. 人工智慧Artificial Intelligence",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "上課口授及討論"
+        },
+        {
+            "type": "討論法",
+            "note": "上課口授及討論"
+        },
+        {
+            "type": "問題解決教學",
+            "note": "課堂將針對相關課題討論"
+        }
+    ],
+    "grading": [
+        {
+            "type": "期中考",
+            "weight": 90,
+            "note": "共六次考試（每次約佔總成績15％）"
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 5,
+            "note": "課堂將針對相關課題討論"
+        },
+        {
+            "type": "出席",
+            "weight": 5,
+            "note": "抽點未到者，將逐次扣分。公假、事假或病假需附正式証明始得另以公式計分。"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

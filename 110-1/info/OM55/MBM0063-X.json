@@ -1,0 +1,79 @@
+{
+    "year": 110,
+    "term": 1,
+    "name": "投資學",
+    "teachers": [
+        "蔡蒔銓"
+    ],
+    "department": "OM55",
+    "code": "MBM0063",
+    "credit": 3,
+    "serial": 2493,
+    "group": "",
+    "quota": {
+        "limit": 5,
+        "additional": 35
+    },
+    "schedule": [
+        {
+            "day": 5,
+            "from": 6,
+            "to": 8,
+            "campus": "本部",
+            "classroom": "誠305"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎必須先修過【BAU0036  會計學（一）】、【BAU0038  經濟學（一）】 ◎課程開放上修",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "在金融市場日益創新、理財需求日趨殷切之今日，能夠成熟多樣化的投資工具與市場發展，並掌握市場動態以洞燭投資先機，無論對個人理財規劃或企業財務決策均是重要課題。特別地，2007年美國爆發次級房貸風暴，2008年全球性的金融危機，引起全球金融市場的震撼，亦使投資思維逐漸地改變。因此，本課程旨在探討投資學相關理論及其推導，並佐以國內外實務範例或個案說明，使學生了解（1）哪些資產可以進行投資；（2）瞭解資產的風險與預期報酬率；（3）評估資產價值；（4）分析影響資產價格的因素；（5）瞭解各種投資策略，以提升投資的報酬或控制投資風險。",
+    "goals": [
+        "Learning financial market dynamics, asset classes, and investment tools",
+        "Learning risks and returns of investment and evaluation of assets",
+        "Understanding factors affecting asset prices and portfolio construction in practice",
+        "Developing skills in managing portfolio and trading"
+    ],
+    "syllabus": "(採授課16週＋2週彈性教學（第17、18週）)\n\n週別\n\n主題\n\n1\n\nIntroduction to Investments\n\n2\n\nFinancial Markets\n\n3\n\nRandom Walk\n\n4\n\nRisk and Return\n\n5\n\nPortfolio Theory\n\n6\n\nCAPM and APT\n\n7\n\nMarket Efficiency\n\n8\n\nEquity Investment Practice\n\n9\n\nFixed Income Markets\n\n10\n\nFixed Income Markets\n\n11\n\nDerivatives Markets\n\n12\n\nDerivatives Markets\n\n13\n\nRisk Management\n\n14\n\nPortfolio Management\n\n15\n\nAlternative Investments\n\n16\n\nPerformance Evaluation\n\n17\n\nSelf-directed Learning (Portfolio Management)\n\n18\n\nSelf-directed Learning (Portfolio Management)",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "課堂授課、文獻導讀"
+        },
+        {
+            "type": "合作學習",
+            "note": "分組討論"
+        },
+        {
+            "type": "專題研究",
+            "note": "專題報告"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 30,
+            "note": "分組作業"
+        },
+        {
+            "type": "期末考",
+            "weight": 40,
+            "note": ""
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 10,
+            "note": ""
+        },
+        {
+            "type": "報告",
+            "weight": 20,
+            "note": "自主學習報告"
+        }
+    ],
+    "prerequisite": "◎必須先修過【BAU0036  會計學（一）】、【BAU0038  經濟學（一）】",
+    "general_core": []
+}

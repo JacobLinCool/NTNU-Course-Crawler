@@ -1,0 +1,81 @@
+{
+    "year": 107,
+    "term": 2,
+    "name": "物理有機化學",
+    "teachers": [
+        "姚清發"
+    ],
+    "department": "SD42",
+    "code": "CMD0003",
+    "credit": 3,
+    "serial": 2578,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 2,
+            "to": 4,
+            "campus": "公館",
+            "classroom": "Ｆ318"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "教授和有機化學相關之結構、反應機構(物理有機化學)及其應用",
+    "goals": [
+        "教授和有機化學相關之結構、反應機構(物理有機化學)及其應用"
+    ],
+    "syllabus": "有機化學及反應機構之簡介(the introduction of organic chemistry and reaction mechanism)、立體化學(stereochemistry)、構型、立體障礙和立體結構中之電子因素(conformational, steric, and stereoelectronic effects)、有機反應機構的研究及其描述 (study and description of organic reaction mechanism)、親核性取代反應(nucleophilic substitution)、極性加成及脫去反應 (polar addition and elimination reactions)、碳陰離子化學及其他具親核性之碳化學(carbanions and other nucleophilic carbon species)、芳香化學及其取代反應(aromaticity and aromatic substitution)、同步環化反應 (concerted pericyclic reaction)、自由基化學 (free-radical chemistry)、光化學 (photochemistry)…等",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "實驗/實作",
+            "note": ""
+        },
+        {
+            "type": "媒體融入教學",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 20,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "出席",
+            "weight": 10,
+            "note": ""
+        },
+        {
+            "type": "報告",
+            "weight": 10,
+            "note": ""
+        },
+        {
+            "type": "其他",
+            "weight": 30,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

@@ -1,0 +1,83 @@
+{
+    "year": 108,
+    "term": 2,
+    "name": "資訊管理",
+    "teachers": [
+        "何宗武"
+    ],
+    "department": "OU57",
+    "code": "BAU0008",
+    "credit": 3,
+    "serial": 2364,
+    "group": "",
+    "quota": {
+        "limit": 60,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 1,
+            "from": 2,
+            "to": 4,
+            "campus": "本部",
+            "classroom": "誠202"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎必須先修過【BAU0010  策略管理】",
+    "form_s": "3",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "The goal of this course is to let the students learn how information technology enhances the effectiveness and efficiency of business management and improves the enterprises competitive advantages. The topics include the intertwined relationship between the revolution of information technology and business management, the components of information systems, how to plan and build information systems, the roles of information management in business management, how to improve the competitive advantages of enterprises by information technology, etc.",
+    "goals": [
+        "瞭解資訊科技的要素及發展以及於企業經營中所扮演的角色",
+        "瞭解如何運用資訊科技提升競爭優勢，以及規劃與建置資訊系統",
+        "瞭解資訊科技相關的道德倫理問題",
+        "培養跟同輩合作向大眾分享資訊科技知識的能力"
+    ],
+    "syllabus": "日期\n\n**Topics and Readings**\n\n3月2日\n\nIntroduction--  認識專案管理的資訊架構\n\n3月9日\n\n認識程式語言：Python 設計一個簡化工作的GUI小程式\n\n3月16日\n\n專案的資訊管理1：專案管理簡介\n\n3月23日\n\n專案的資訊管理2：MS Project— Project 2007簡介\n\n3月30日\n\n專案的資訊管理3：MS Project— 建立專案\n\n4月6日\n\n專案的資訊管理4：MS Project— 建立專案排程1/2\n\n4月13日\n\n專案的資訊管理5：MS Project— 建立專案排程2/2\n\n4月20日\n\n專案的資訊管理6：MS Project— 建立資源資料庫\n\n4月27日\n\n認識資料庫 1：MS ACCESS— 漫談資料庫\n\n5月4日\n\n認識資料庫 2：MS ACCESS—  ACCESS 2016簡介\n\n5月11日\n\n認識資料庫 3：MS ACCESS— 建立ACCESS 資料表\n\n5月18日\n\n認識資料庫 4：MS ACCESS— 活用資料工作表\n\n5月25日\n\n認識資料庫 5：MS ACCESS— 關聯式資料庫\n\n6月1日\n\n認識資料庫 6：MS ACCESS— 表單 & 報表\n\n6月8日\n\n認識資料庫 7：MS ACCESS— 選取查詢和運算\n\n6月15日\n\n認識資料庫 8：MS ACCESS— 進階查詢＆SQL\n\n6月22日\n\n認識資料庫 9：MS ACCESS— 深入表單與強化報表\n\n6月29日\n\n認識資料庫 10：MS ACCESS— 資料庫進階管理",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": "專案討論"
+        },
+        {
+            "type": "實驗/實作",
+            "note": ""
+        },
+        {
+            "type": "專題研究",
+            "note": "透過專題實作，瞭解理論概念"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 10,
+            "note": "作業"
+        },
+        {
+            "type": "出席",
+            "weight": 5,
+            "note": ""
+        },
+        {
+            "type": "報告",
+            "weight": 80,
+            "note": "個人學習筆記檔案+報告"
+        },
+        {
+            "type": "其他",
+            "weight": 5,
+            "note": "座班時間問問題"
+        }
+    ],
+    "prerequisite": "◎必須先修過【BAU0010  策略管理】",
+    "general_core": []
+}

@@ -1,0 +1,94 @@
+{
+    "year": 109,
+    "term": 1,
+    "name": "物理化學－熱力學",
+    "teachers": [
+        "孫英傑"
+    ],
+    "department": "SU42",
+    "code": "CMU0184",
+    "credit": 3,
+    "serial": 2966,
+    "group": "",
+    "quota": {
+        "limit": 90,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 6,
+            "to": 6,
+            "campus": "公館",
+            "classroom": "Ｅ302"
+        },
+        {
+            "day": 3,
+            "from": 8,
+            "to": 9,
+            "campus": "公館",
+            "classroom": "Ｅ302"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "3",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程涵蓋物理化學中熱力學部分，從熱力學三大定律講述平衡系統基本定律及性質，再擴展應用到幾個常見物理化學系統。",
+    "goals": [
+        "To establish basic knowledge of thermochemistry",
+        "To solve problems of this topic",
+        "To conduct independent thinking on this topic"
+    ],
+    "syllabus": "1~3th weeks: Properties of gases 4~11th weeks: The 1st-3rd laws of thermodynamics 12~13th weeks: Phase diagram 14~15th weeks: Mixture 16~17th weeks: Chemical equilibrium 18th week: Applications to other chemical problems",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": "可能包含此法"
+        },
+        {
+            "type": "問題解決教學",
+            "note": "可能包含此法"
+        },
+        {
+            "type": "其他",
+            "note": "彈性小部分加入"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 10,
+            "note": ""
+        },
+        {
+            "type": "期中考",
+            "weight": 53,
+            "note": "期中兩次+期末一次，共3次，共佔80%，每次各佔1/3。"
+        },
+        {
+            "type": "期末考",
+            "weight": 27,
+            "note": ""
+        },
+        {
+            "type": "出席",
+            "weight": 5,
+            "note": "視狀況微調。"
+        },
+        {
+            "type": "其他",
+            "weight": 5,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

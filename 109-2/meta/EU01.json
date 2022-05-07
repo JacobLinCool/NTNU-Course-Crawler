@@ -1,0 +1,1292 @@
+[
+    {
+        "year": 109,
+        "term": 2,
+        "name": "發展心理學",
+        "teachers": [
+            "李俊仁"
+        ],
+        "department": "EU01",
+        "code": "PCU0003",
+        "credit": 3,
+        "serial": 668,
+        "group": "B",
+        "quota": {
+            "limit": 100,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 8,
+                "to": 10,
+                "campus": "本部",
+                "classroom": "教202會議廳"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎必須先修過【0AUG402  心理學】、【PCU0152  普通心理學（一）】、【PCU0153  普通心理學（二）】、【SOU0007  心理學】、【SPU6008  普通心理學（一）】、【SPU6009  普通心理學（二）】其中一門",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 2,
+        "name": "生涯輔導",
+        "teachers": [
+            "周明蒨"
+        ],
+        "department": "EU01",
+        "code": "PCU0009",
+        "credit": 2,
+        "serial": 669,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 10,
+                "to": 11,
+                "campus": "本部",
+                "classroom": "教511"
+            }
+        ],
+        "programs": [],
+        "comment": "周明蒨",
+        "restrict": "",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 2,
+        "name": "團體輔導",
+        "teachers": [
+            "陳姿?"
+        ],
+        "department": "EU01",
+        "code": "PCU0011",
+        "credit": 3,
+        "serial": 670,
+        "group": "C",
+        "quota": {
+            "limit": 30,
+            "additional": 15
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 10,
+                "to": 12,
+                "campus": "本部",
+                "classroom": "教513"
+            }
+        ],
+        "programs": [
+            "高齡學程"
+        ],
+        "comment": "陳姿?",
+        "restrict": "◎必須先修過【PCU0130  諮商理論】◎必須先修過(也可以同時修)【PCU0131  諮商技術】",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 2,
+        "name": "人格心理學",
+        "teachers": [
+            "危芷芬"
+        ],
+        "department": "EU01",
+        "code": "PCU0014",
+        "credit": 3,
+        "serial": 671,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 2,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "教育學院第1會議室"
+            }
+        ],
+        "programs": [],
+        "comment": "危芷芬",
+        "restrict": "◎必須先修過【0AUG402  心理學】、【PCU0152  普通心理學（一）】、【PCU0153  普通心理學（二）】、【SOU0007  心理學】、【SPU6009  普通心理學（二）】、【SPU6008  普通心理學（一）】其中一門",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 2,
+        "name": "社會心理學",
+        "teachers": [
+            "周佳敏"
+        ],
+        "department": "EU01",
+        "code": "PCU0032",
+        "credit": 2,
+        "serial": 672,
+        "group": "B",
+        "quota": {
+            "limit": 86,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 8,
+                "to": 9,
+                "campus": "本部",
+                "classroom": "教103"
+            }
+        ],
+        "programs": [],
+        "comment": "周佳敏",
+        "restrict": "",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 2,
+        "name": "心理與教育測驗",
+        "teachers": [
+            "陳柏熹"
+        ],
+        "department": "EU01",
+        "code": "PCU0086",
+        "credit": 3,
+        "serial": 673,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 2,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "教513"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 2,
+        "name": "危機處理",
+        "teachers": [
+            "楊國如"
+        ],
+        "department": "EU01",
+        "code": "PCU0111",
+        "credit": 2,
+        "serial": 674,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 3,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "教602"
+            }
+        ],
+        "programs": [
+            "PASSION偏鄉教育學程",
+            "社團領導學程"
+        ],
+        "comment": "楊國如",
+        "restrict": "",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 2,
+        "name": "教育心理學",
+        "teachers": [
+            "陳慧娟"
+        ],
+        "department": "EU01",
+        "code": "PCU0114",
+        "credit": 3,
+        "serial": 675,
+        "group": "B",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 6,
+                "to": 8,
+                "campus": "本部",
+                "classroom": "教511"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎必須先修過【0AUG402  心理學】、【PCU0152  普通心理學（一）】、【PCU0153  普通心理學（二）】、【SOU0007  心理學】、【SPU6009  普通心理學（二）】、【SPU6008  普通心理學（一）】其中一門",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 2,
+        "name": "輔導原理與實務",
+        "teachers": [
+            "張德聰"
+        ],
+        "department": "EU01",
+        "code": "PCU0117",
+        "credit": 3,
+        "serial": 676,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 1,
+                "to": 3,
+                "campus": "本部",
+                "classroom": "教602"
+            }
+        ],
+        "programs": [
+            "高齡學程"
+        ],
+        "comment": "張德聰",
+        "restrict": "",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 2,
+        "name": "諮商理論",
+        "teachers": [
+            "黃素菲"
+        ],
+        "department": "EU01",
+        "code": "PCU0130",
+        "credit": 3,
+        "serial": 677,
+        "group": "B",
+        "quota": {
+            "limit": 50,
+            "additional": 14
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 8,
+                "to": 10,
+                "campus": "本部",
+                "classroom": "教513"
+            }
+        ],
+        "programs": [
+            "音樂輔教學程",
+            "PASSION偏鄉教育學程",
+            "高齡學程"
+        ],
+        "comment": "建議先修「輔導原理與實務」或「輔導原理與實務(教)」。黃素菲。",
+        "restrict": "",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 2,
+        "name": "諮詢理論與實務",
+        "teachers": [
+            "吳姿瑩"
+        ],
+        "department": "EU01",
+        "code": "PCU0170",
+        "credit": 2,
+        "serial": 679,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 30
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 10,
+                "to": 11,
+                "campus": "本部",
+                "classroom": "教103"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎必須先修過【PCU0117  輔導原理與實務】、【00UE008  輔導原理與實務（教）】其中一門",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 2,
+        "name": "生態系統合作實務",
+        "teachers": [
+            "王麗斐"
+        ],
+        "department": "EU01",
+        "code": "PCC9001",
+        "credit": 2,
+        "serial": 680,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 3,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "教513"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎必須先修過【PCU0146  學校輔導工作】",
+        "form_s": "",
+        "classes": "9",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 2,
+        "name": "發展心理學",
+        "teachers": [
+            "程景琳"
+        ],
+        "department": "EU01",
+        "code": "PCU0003",
+        "credit": 3,
+        "serial": 681,
+        "group": "A",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 6,
+                "to": 8,
+                "campus": "本部",
+                "classroom": "教600"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎必須先修過【0AUG402  心理學】、【PCU0152  普通心理學（一）】、【PCU0153  普通心理學（二）】、【SOU0007  心理學】、【SPU6008  普通心理學（一）】、【SPU6009  普通心理學（二）】其中一門",
+        "form_s": "1",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 2,
+        "name": "教育心理學",
+        "teachers": [
+            "陳慧娟"
+        ],
+        "department": "EU01",
+        "code": "PCU0114",
+        "credit": 3,
+        "serial": 682,
+        "group": "A",
+        "quota": {
+            "limit": 50,
+            "additional": 22
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 6,
+                "to": 8,
+                "campus": "本部",
+                "classroom": "教513"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎必須先修過【0AUG402  心理學】、【PCU0152  普通心理學（一）】、【PCU0153  普通心理學（二）】、【SOU0007  心理學】、【SPU6009  普通心理學（二）】、【SPU6008  普通心理學（一）】其中一門",
+        "form_s": "1",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 2,
+        "name": "普通心理學（二）",
+        "teachers": [
+            "許禕芳"
+        ],
+        "department": "EU01",
+        "code": "PCU0153",
+        "credit": 2,
+        "serial": 683,
+        "group": "",
+        "quota": {
+            "limit": 68,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 3,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "教103"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎限心輔系（學）（含雙主修）、教院不分系（學）選修◎必須先修過【PCU0152  普通心理學（一）】",
+        "form_s": "1",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 2,
+        "name": "自我覺察與專業成長",
+        "teachers": [
+            "吳麗娟"
+        ],
+        "department": "EU01",
+        "code": "PCU0168",
+        "credit": 2,
+        "serial": 684,
+        "group": "",
+        "quota": {
+            "limit": 96,
+            "additional": 24
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 6,
+                "to": 7,
+                "campus": "本部",
+                "classroom": "綜509國際會議廳"
+            }
+        ],
+        "programs": [],
+        "comment": "吳麗娟",
+        "restrict": "",
+        "form_s": "1",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 2,
+        "name": "生涯發展與規劃",
+        "teachers": [
+            "王玉珍"
+        ],
+        "department": "EU01",
+        "code": "PCU0172",
+        "credit": 2,
+        "serial": 685,
+        "group": "",
+        "quota": {
+            "limit": 70,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 6,
+                "to": 7,
+                "campus": "本部",
+                "classroom": "綜210展覽廳"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "1",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 2,
+        "name": "行為科學研究法",
+        "teachers": [
+            "林正昌"
+        ],
+        "department": "EU01",
+        "code": "PCU0015",
+        "credit": 3,
+        "serial": 686,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 13
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 8,
+                "to": 10,
+                "campus": "本部",
+                "classroom": "教511"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎必須先修過【E0U0001  教育統計學（一）】、【E0U0002  教育統計學（二）】",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 2,
+        "name": "少年犯罪心理學",
+        "teachers": [
+            "周愫嫻"
+        ],
+        "department": "EU01",
+        "code": "PCU0033",
+        "credit": 2,
+        "serial": 687,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 6,
+                "to": 7,
+                "campus": "本部",
+                "classroom": "教育學院第1會議室"
+            }
+        ],
+        "programs": [],
+        "comment": "周愫嫻",
+        "restrict": "",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 2,
+        "name": "變態心理學",
+        "teachers": [
+            "林旻沛"
+        ],
+        "department": "EU01",
+        "code": "PCU0048",
+        "credit": 2,
+        "serial": 688,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 6,
+                "to": 7,
+                "campus": "本部",
+                "classroom": "教513"
+            }
+        ],
+        "programs": [
+            "音樂輔教學程"
+        ],
+        "comment": "",
+        "restrict": "◎必須先修過【PCU0014  人格心理學】",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 2,
+        "name": "諮商理論",
+        "teachers": [
+            "王櫻芬"
+        ],
+        "department": "EU01",
+        "code": "PCU0130",
+        "credit": 3,
+        "serial": 689,
+        "group": "A",
+        "quota": {
+            "limit": 50,
+            "additional": 16
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 2,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "教511"
+            }
+        ],
+        "programs": [
+            "音樂輔教學程",
+            "PASSION偏鄉教育學程",
+            "高齡學程"
+        ],
+        "comment": "建議先修「輔導原理與實務」或「輔導原理與實務(教)」。",
+        "restrict": "",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 2,
+        "name": "綜合活動領域概論",
+        "teachers": [
+            "張雨霖"
+        ],
+        "department": "EU01",
+        "code": "PCU0167",
+        "credit": 2,
+        "serial": 691,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 3,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "教育學院第1會議室"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 2,
+        "name": "青少年問題與輔導",
+        "teachers": [
+            "管貴貞"
+        ],
+        "department": "EU01",
+        "code": "PCU0176",
+        "credit": 2,
+        "serial": 692,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 5,
+                "from": 3,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "教513"
+            }
+        ],
+        "programs": [],
+        "comment": "管貴貞",
+        "restrict": "",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 2,
+        "name": "學習輔導",
+        "teachers": [
+            "吳昭容"
+        ],
+        "department": "EU01",
+        "code": "PCU0004",
+        "credit": 2,
+        "serial": 693,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 3,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "教511"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎必須先修過(也可以同時修)【PCU0114  教育心理學】、【00UE002  教育心理學（教）】其中一門",
+        "form_s": "3",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 2,
+        "name": "團體輔導",
+        "teachers": [
+            "張世華"
+        ],
+        "department": "EU01",
+        "code": "PCU0011",
+        "credit": 3,
+        "serial": 694,
+        "group": "A",
+        "quota": {
+            "limit": 30,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 8,
+                "to": 10,
+                "campus": "本部",
+                "classroom": "教600"
+            }
+        ],
+        "programs": [
+            "高齡學程"
+        ],
+        "comment": "",
+        "restrict": "◎必須先修過【PCU0130  諮商理論】◎必須先修過(也可以同時修)【PCU0131  諮商技術】",
+        "form_s": "3",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 2,
+        "name": "團體輔導",
+        "teachers": [
+            "姜兆眉"
+        ],
+        "department": "EU01",
+        "code": "PCU0011",
+        "credit": 3,
+        "serial": 695,
+        "group": "B",
+        "quota": {
+            "limit": 30,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 8,
+                "to": 10,
+                "campus": "本部",
+                "classroom": "教513"
+            }
+        ],
+        "programs": [
+            "高齡學程"
+        ],
+        "comment": "",
+        "restrict": "◎必須先修過【PCU0130  諮商理論】◎必須先修過(也可以同時修)【PCU0131  諮商技術】",
+        "form_s": "3",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 2,
+        "name": "社會心理學",
+        "teachers": [
+            "張文哲"
+        ],
+        "department": "EU01",
+        "code": "PCU0032",
+        "credit": 2,
+        "serial": 696,
+        "group": "A",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 5,
+                "from": 9,
+                "to": 10,
+                "campus": "本部",
+                "classroom": "教511"
+            }
+        ],
+        "programs": [],
+        "comment": "張文哲",
+        "restrict": "",
+        "form_s": "3",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 2,
+        "name": "婚姻與家庭",
+        "teachers": [
+            "謝文宜"
+        ],
+        "department": "EU01",
+        "code": "PCU0039",
+        "credit": 2,
+        "serial": 697,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 11
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 8,
+                "to": 9,
+                "campus": "本部",
+                "classroom": "教602"
+            }
+        ],
+        "programs": [],
+        "comment": "謝文宜",
+        "restrict": "",
+        "form_s": "3",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 2,
+        "name": "心理衡鑑與診斷",
+        "teachers": [
+            "林旻沛"
+        ],
+        "department": "EU01",
+        "code": "PCU0106",
+        "credit": 2,
+        "serial": 698,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 3,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "教511"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎必須先修過(也可以同時修)【PCU0048  變態心理學】",
+        "form_s": "3",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 2,
+        "name": "生命教育",
+        "teachers": [
+            "陳玉芳"
+        ],
+        "department": "EU01",
+        "code": "PCU0127",
+        "credit": 2,
+        "serial": 699,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 10,
+                "to": 11,
+                "campus": "本部",
+                "classroom": "教511"
+            }
+        ],
+        "programs": [
+            "PASSION偏鄉教育學程"
+        ],
+        "comment": "陳玉芳",
+        "restrict": "",
+        "form_s": "3",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 2,
+        "name": "未來想像與生涯調適",
+        "teachers": [
+            "張雨霖"
+        ],
+        "department": "EU01",
+        "code": "PCU0173",
+        "credit": 2,
+        "serial": 700,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 9,
+                "to": 10,
+                "campus": "本部",
+                "classroom": "教513"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎必須先修過【PCU0172  生涯發展與規劃】、【PCU0009  生涯輔導】其中一門",
+        "form_s": "3",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 2,
+        "name": "職業教育與職場倫理",
+        "teachers": [
+            "李自瑞"
+        ],
+        "department": "EU01",
+        "code": "PCU0177",
+        "credit": 2,
+        "serial": 701,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 6,
+                "to": 7,
+                "campus": "本部",
+                "classroom": "教602"
+            }
+        ],
+        "programs": [],
+        "comment": "李自瑞",
+        "restrict": "",
+        "form_s": "3",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 2,
+        "name": "輔導活動教材教法（教）",
+        "teachers": [
+            "張雨霖"
+        ],
+        "department": "EU01",
+        "code": "PCUE104",
+        "credit": 2,
+        "serial": 702,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 9,
+                "to": 10,
+                "campus": "本部",
+                "classroom": "教513"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎必須先修過【PCU0121  綜合活動學習領域概論】、【PCU0164  綜合活動學習領域教學與評量】其中一門",
+        "form_s": "3",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 2,
+        "name": "生涯與職業資訊分析與應用",
+        "teachers": [
+            "林俊宏"
+        ],
+        "department": "EU01",
+        "code": "PCU0137",
+        "credit": 2,
+        "serial": 703,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 6,
+                "to": 7,
+                "campus": "本部",
+                "classroom": "教602"
+            }
+        ],
+        "programs": [],
+        "comment": "林俊宏",
+        "restrict": "",
+        "form_s": "4",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 2,
+        "name": "學校諮商實習（二）",
+        "teachers": [
+            "張世華"
+        ],
+        "department": "EU01",
+        "code": "PCU0151",
+        "credit": 2,
+        "serial": 704,
+        "group": "A",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 9,
+                "to": 10,
+                "campus": "本部",
+                "classroom": "教602"
+            },
+            {
+                "day": 5,
+                "from": 10,
+                "to": 11,
+                "campus": "本部",
+                "classroom": "教602"
+            }
+        ],
+        "programs": [
+            "PASSION偏鄉教育學程"
+        ],
+        "comment": "實地學習時數15小時。",
+        "restrict": "◎必須先修過【PCU0130  諮商理論】、【PCU0131  諮商技術】、【PCU0011  團體輔導】、【PCU0150  學校諮商實習（一）】◎必須先修過【PCU0117  輔導原理與實務】、【00UE008  輔導原理與實務（教）】其中一門",
+        "form_s": "4",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 2,
+        "name": "學校諮商實習（二）",
+        "teachers": [
+            "林旻沛"
+        ],
+        "department": "EU01",
+        "code": "PCU0151",
+        "credit": 2,
+        "serial": 705,
+        "group": "B",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 9,
+                "to": 10,
+                "campus": "本部",
+                "classroom": "教600"
+            },
+            {
+                "day": 5,
+                "from": 10,
+                "to": 11,
+                "campus": "本部",
+                "classroom": "教600"
+            }
+        ],
+        "programs": [
+            "PASSION偏鄉教育學程"
+        ],
+        "comment": "實地學習時數15小時。",
+        "restrict": "◎必須先修過【PCU0130  諮商理論】、【PCU0131  諮商技術】、【PCU0011  團體輔導】、【PCU0150  學校諮商實習（一）】◎必須先修過【PCU0117  輔導原理與實務】、【00UE008  輔導原理與實務（教）】其中一門",
+        "form_s": "4",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 2,
+        "name": "學校輔導方案發展與評鑑",
+        "teachers": [
+            "王櫻芬"
+        ],
+        "department": "EU01",
+        "code": "PCU0162",
+        "credit": 2,
+        "serial": 706,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 8,
+                "to": 9,
+                "campus": "本部",
+                "classroom": "教602"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎必須先修過【PCU0117  輔導原理與實務】、【00UE008  輔導原理與實務（教）】其中一門",
+        "form_s": "4",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 2,
+        "name": "輔導活動教學實習（二）（教）",
+        "teachers": [
+            "張雨霖"
+        ],
+        "department": "EU01",
+        "code": "PCUE012",
+        "credit": 2,
+        "serial": 707,
+        "group": "A",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 1,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "教515"
+            }
+        ],
+        "programs": [],
+        "comment": "1.本課程除須滿足先修課程外，應至少修滿教育專業課程12學分(不含教學實習)，且專門課程之「領域內跨科課程」應各科至少修一門（107學年舊制）/應至少修2學分（108學年新制）。    2.實地學習時數80小時",
+        "restrict": "◎必須先修過【PCU0130  諮商理論】、【PCU0131  諮商技術】、【PCU0011  團體輔導】、【PCUE104  輔導活動教材教法（教）】、【PCUE011  輔導活動教學實習（一）（教）】◎必須先修過【PCU0121  綜合活動學習領域概論】、【PCU0164  綜合活動學習領域教學與評量】其中一門",
+        "form_s": "4",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 2,
+        "name": "輔導活動教學實習（二）（教）",
+        "teachers": [
+            "姜兆眉",
+            "程景琳"
+        ],
+        "department": "EU01",
+        "code": "PCUE012",
+        "credit": 2,
+        "serial": 708,
+        "group": "B",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 1,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "教513"
+            }
+        ],
+        "programs": [],
+        "comment": "1.本課程除須滿足先修課程外，應至少修滿教育專業課程12學分(不含教學實習)，且專門課程之「領域內跨科課程」應各科至少修一門（107學年舊制）/應至少修2學分（108學年新制）。    2.實地學習時數80小時",
+        "restrict": "◎必須先修過【PCU0130  諮商理論】、【PCU0131  諮商技術】、【PCU0011  團體輔導】、【PCUE104  輔導活動教材教法（教）】、【PCUE011  輔導活動教學實習（一）（教）】◎必須先修過【PCU0121  綜合活動學習領域概論】、【PCU0164  綜合活動學習領域教學與評量】其中一門",
+        "form_s": "4",
+        "classes": "",
+        "dept_group": ""
+    }
+]

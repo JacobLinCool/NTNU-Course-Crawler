@@ -1,0 +1,162 @@
+[
+    {
+        "year": 107,
+        "term": 1,
+        "name": "體育",
+        "teachers": [
+            "童亢"
+        ],
+        "department": "SU51",
+        "code": "00UP001",
+        "credit": 1,
+        "serial": 2988,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 5,
+                "from": 1,
+                "to": 2,
+                "campus": "本部",
+                "classroom": "操場一"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "1",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 1,
+        "name": "食物學",
+        "teachers": [
+            "蔡帛蓉"
+        ],
+        "department": "SU51",
+        "code": "NSU0001",
+        "credit": 3,
+        "serial": 2989,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 6,
+                "to": 8,
+                "campus": "本部",
+                "classroom": "誠205"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "1",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 1,
+        "name": "食物學實驗",
+        "teachers": [
+            "蔡帛蓉"
+        ],
+        "department": "SU51",
+        "code": "NSU0002",
+        "credit": 1,
+        "serial": 2990,
+        "group": "",
+        "quota": {
+            "limit": 40,
+            "additional": 12
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 9,
+                "to": 10,
+                "campus": "本部",
+                "classroom": "勤001"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "1",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 1,
+        "name": "食物製備",
+        "teachers": [
+            "沈賜川"
+        ],
+        "department": "SU51",
+        "code": "NSU0025",
+        "credit": 1,
+        "serial": 2991,
+        "group": "",
+        "quota": {
+            "limit": 30,
+            "additional": 12
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 7,
+                "to": 9,
+                "campus": "本部",
+                "classroom": "勤001"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "1",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 1,
+        "name": "食物製備原理",
+        "teachers": [
+            "沈賜川"
+        ],
+        "department": "SU51",
+        "code": "NSU0026",
+        "credit": 1,
+        "serial": 2992,
+        "group": "",
+        "quota": {
+            "limit": 30,
+            "additional": 12
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 6,
+                "to": 6,
+                "campus": "本部",
+                "classroom": "勤001"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "1",
+        "classes": "",
+        "dept_group": ""
+    }
+]

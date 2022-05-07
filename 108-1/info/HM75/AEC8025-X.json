@@ -1,0 +1,66 @@
+{
+    "year": 108,
+    "term": 1,
+    "name": "工程機率與統計",
+    "teachers": [
+        "黃政吉"
+    ],
+    "department": "HM75",
+    "code": "AEC8025",
+    "credit": 3,
+    "serial": 1201,
+    "group": "",
+    "quota": {
+        "limit": 35,
+        "additional": 5
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 7,
+            "to": 9,
+            "campus": "本部",
+            "classroom": "多媒體與通訊實驗室"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程建立對機率理論的基本概念，並加強在工程領域之應用。",
+    "goals": [
+        "認識隨機變數",
+        "認識機率分布函數",
+        "認識機率相關統計特性",
+        "認識機率在工程領域之應用"
+    ],
+    "syllabus": "第一週: Introductions  \n第二週: Set Theory  \n第三週: Probability Axioms  \n第四週: Conditional Probability  \n第五週: Independence  \n第六週: Independent Trials  \n第七週: Discrete Random Variables  \n第八週: Probability Mass Function (PMF)  \n第九週: 期中考  \n第十週: Cumulative Distribution Function (CDF)  \n第十一週: Variance  \n第十二週: Standard Deviation  \n第十三週: Conditional PMF  \n第十四週: Continuous Random Variables  \n第十五週: Probability Density Function  \n第十六週: Gaussian Random Variables  \n第十七週: Derived Random Variables  \n第十八週: 期末考",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "投影片。"
+        }
+    ],
+    "grading": [
+        {
+            "type": "期中考",
+            "weight": 45,
+            "note": "筆試"
+        },
+        {
+            "type": "期末考",
+            "weight": 45,
+            "note": "筆試"
+        },
+        {
+            "type": "出席",
+            "weight": 10,
+            "note": "點名"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

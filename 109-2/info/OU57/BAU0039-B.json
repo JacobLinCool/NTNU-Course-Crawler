@@ -1,0 +1,97 @@
+{
+    "year": 109,
+    "term": 2,
+    "name": "經濟學（二）",
+    "teachers": [
+        "張可盈",
+        "印永翔"
+    ],
+    "department": "OU57",
+    "code": "BAU0039",
+    "credit": 3,
+    "serial": 2471,
+    "group": "B",
+    "quota": {
+        "limit": 60,
+        "additional": 30
+    },
+    "schedule": [
+        {
+            "day": 4,
+            "from": 7,
+            "to": 9,
+            "campus": "本部",
+            "classroom": "誠201"
+        }
+    ],
+    "programs": [],
+    "comment": "企管系大一學生學號末碼為單數號請選修經濟學(二)A班;學號末碼為雙數號請選修經濟學(二)B班。 非企管系同學需待全校加退選階段，才得進行線上選課和利用授課碼選課方式。如需要授權碼，請在全校加退選階段開始後再跟授課老師索取，其它時間一律不發放。",
+    "restrict": "◎必須先修過【BAU0038  經濟學（一）】",
+    "form_s": "1",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "This is a basic macroeconomic course that help student understand the questions for economy as a whole, including economic indicators, operation of financial systems, and the principles of cyclical economic flucations.",
+    "goals": [
+        "Students will understand the general business fundamentals and advanced management knowledge",
+        "Students will have a solid comprehension of and be able to employ compelling quantitative analytical methodologies in the business setting.",
+        "Students will comprehend, from a global perspective, political, economic, social, and technological factors that may shape business operation and performance.",
+        "Students will be able to make clear and logical oral presentation."
+    ],
+    "syllabus": "第23章 總體經濟學要旨、 生產所得與就業\n\n第24章 生活成本測量\n\n第25章 經濟成長與生活水準提升、經濟波動\n\n第26章 儲蓄、投資、金融市場\n\n第27章 基本金融工具\n\n期中考\n\n第28章 失業\n\n第29章 貨幣制度\n\n第30章 物價與通貨膨脹\n\n第31章 開放經濟體系基本模型\n\n第32章 開放經濟體系總體理論\n\n第33章 經濟波動、 總需求與總供給\n\n第34章 貨幣政策與財政政策\n\n期末考",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "依序講解課程進度"
+        },
+        {
+            "type": "討論法",
+            "note": "議題引發同學課堂討論"
+        },
+        {
+            "type": "問題解決教學",
+            "note": "課本習題課堂上解釋與推論"
+        },
+        {
+            "type": "合作學習",
+            "note": "小組議題討論"
+        },
+        {
+            "type": "媒體融入教學",
+            "note": "當代經濟、政治、國際關係與區域貿易新聞輔助教學"
+        },
+        {
+            "type": "專題研究",
+            "note": "個案研究、分析探討"
+        }
+    ],
+    "grading": [
+        {
+            "type": "期中考",
+            "weight": 35,
+            "note": "英文期中考"
+        },
+        {
+            "type": "期末考",
+            "weight": 30,
+            "note": "英文期末考"
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 20,
+            "note": "小考：課堂議題與問題反思"
+        },
+        {
+            "type": "出席",
+            "weight": 5,
+            "note": "學習型助教點名"
+        },
+        {
+            "type": "其他",
+            "weight": 10,
+            "note": "辯論：課堂議題辯論報告"
+        }
+    ],
+    "prerequisite": "◎必須先修過【BAU0038  經濟學（一）】",
+    "general_core": []
+}

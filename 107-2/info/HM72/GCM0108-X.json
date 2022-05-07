@@ -1,0 +1,74 @@
+{
+    "year": 107,
+    "term": 2,
+    "name": "研究方法（二）",
+    "teachers": [
+        "楊美雪"
+    ],
+    "department": "HM72",
+    "code": "GCM0108",
+    "credit": 2,
+    "serial": 1154,
+    "group": "",
+    "quota": {
+        "limit": 30,
+        "additional": 5
+    },
+    "schedule": [
+        {
+            "day": 5,
+            "from": 3,
+            "to": 4,
+            "campus": "本部",
+            "classroom": "綜701"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎必須先修過【GCM0107  研究方法（一）】 ◎課程不開放上修",
+    "form_s": "1",
+    "classes": "",
+    "dept_group": "",
+    "hours": 2,
+    "description": "1.瞭解研究之歷程。\n2.認識研究方法的種類。\n3.瞭解量化的研究方法。\n4.瞭解研究執行的議題。",
+    "goals": [
+        "瞭解研究之歷程",
+        "認識研究方法的種類",
+        "瞭解量化的研究方法",
+        "瞭解研究執行的議題"
+    ],
+    "syllabus": "1.Writing a research proposal\n\n2.Data collection methods\n\n3.Scale development\n\n4.Introduction to qualitative research\n\n5.Qualitative studies (I): Case Study\n\n6.Qualitative studies (II): Biographical Study\n\n7.Qualitative studies (III): Delphi Technique\n\n8.Qualitative studies (IV): Action Research\n\n9.Reliability and Validity\n\n10.Displaying data\n\n11.Interpreting data\n\n12.Writing the research report\n\n13.Research ethics\n\n14.Project presentation and discussion",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "教師講述"
+        },
+        {
+            "type": "討論法",
+            "note": "研究方法相關議題之討論"
+        },
+        {
+            "type": "合作學習",
+            "note": "小組作業需小組合作"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 60,
+            "note": "含期中、期末作業等"
+        },
+        {
+            "type": "期末考",
+            "weight": 25,
+            "note": "紙筆測驗"
+        },
+        {
+            "type": "出席",
+            "weight": 15,
+            "note": "含準時出席、參與課堂討論"
+        }
+    ],
+    "prerequisite": "◎必須先修過【GCM0107  研究方法（一）】",
+    "general_core": []
+}

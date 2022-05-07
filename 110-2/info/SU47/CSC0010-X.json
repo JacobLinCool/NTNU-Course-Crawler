@@ -1,0 +1,78 @@
+{
+    "year": 110,
+    "term": 2,
+    "name": "無線通訊",
+    "teachers": [
+        "賀耀華"
+    ],
+    "department": "SU47",
+    "code": "CSC0010",
+    "credit": 3,
+    "serial": 2946,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 7,
+            "to": 9,
+            "campus": "公館",
+            "classroom": "Ｂ101"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "9",
+    "dept_group": "",
+    "hours": 3,
+    "description": "",
+    "goals": [
+        "Understand various wireless communication systems",
+        "Study different topics such as wireless system theory, fundamental frequency signal processing, communication protocols, etc.",
+        "Analyze the performance of different wireless communication systems",
+        "Emphasis on the integration and application of wireless system theory",
+        "Understand the design and development of modern communication systems",
+        "Obtain the research ability of wireless communication systems"
+    ],
+    "syllabus": "This course will cover following topics in wireless communication for voice, data, and multimedia. It begins with an overview of current wireless systems and standards. It then characterizes the wireless channel, including path loss for different environments, shadowing, and multipath fading. It then examines the capacity limitations and transmission strategies of wireless channels. The next focus will be multicarrier techniques to combat frequency-selective fading and discussing various practical multiple access schemes in wireless systems. The next part of the course is looking over wireless networking and course concludes with discussing different wireless systems and current standards.\n\nTentative Course Syllabus (\\*Subject to changes)\n\nWeek 1: Overview and History of Wireless Communications\n\nWeek 2: Radio Propagation Models\n\nWeek 3: Signal Fading Statistics\n\nWeek 4: Propagation Path-loss Models\n\nWeek 5: Frequency Reuse and Channel Assignment Strategies\n\nWeek 6: Handoff Strategies and System Capacity\n\nWeek 7: Midterm\n\nWeek 8: Frequency Division Multiple Access (FDMA)\n\nWeek 9: Time Division Multiple Access (TDMA)\n\nWeek 10: Code Division Multiple Access (CDMA)\n\nWeek 11: Space Diversion and Carrier Sense Multiple Access (SDMA and CSMA)\n\nWeek 12: Traffic Routing in Wireless Networks\n\nWeek 13: Wireless Network Managements\n\nWeek 14: Wireless LAN: IEEE 802.11\n\nWeek 15: Global System for Mobile (GSM) and CDMA Digital Cellular Standard (IS-95)\n\nWeek 16: Final Exam\n\nWeek 17: Opt. Class (1)\n\nWeek 18: Opt. Class (2)",
+    "methodologies": [
+        {
+            "type": "Formal lecture",
+            "note": "Weekly class lecture with homework assignment. As a teacher, my responsibility is to convey what is known to students and motivate them to probe what is unknown."
+        }
+    ],
+    "grading": [
+        {
+            "type": "Assignments",
+            "weight": 10,
+            "note": "Weekly homework assignments"
+        },
+        {
+            "type": "Midterm Exam",
+            "weight": 35,
+            "note": "One midterm exam"
+        },
+        {
+            "type": "Final exam",
+            "weight": 45,
+            "note": "One final exam"
+        },
+        {
+            "type": "Class discussion involvement",
+            "weight": 5,
+            "note": "Class discussions"
+        },
+        {
+            "type": "Attendances",
+            "weight": 5,
+            "note": "1 pts deduction (1%) of overall grade for each missing class (allow one missing class) up to 5 pts"
+        }
+    ],
+    "prerequisite": "◎Available for junior and senior year B.A. program students (Doctoral program courses excepted) and M.A. program students.",
+    "general_core": []
+}

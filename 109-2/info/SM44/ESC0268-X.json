@@ -1,0 +1,70 @@
+{
+    "year": 109,
+    "term": 2,
+    "name": "應變分析",
+    "teachers": [
+        "葉孟宛"
+    ],
+    "department": "SM44",
+    "code": "ESC0268",
+    "credit": 3,
+    "serial": 2687,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 4,
+            "from": 2,
+            "to": 4,
+            "campus": "公館",
+            "classroom": "Ｃ403"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程不開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "The goal of the course is to teach students theoretical fundamentals of strain analysis, fundamentals of the deformation and tensions theory, reologic models of real geological objects and massifs, criteria of mechanism of strain, mechanical mathematical setting of tasks and methods of solving them using modern computer technology.",
+    "goals": [
+        "描述地質構造應變分析的原理與原則。  1.瞭解構造作用之過程及其結果  2. 瞭解各種不同比例幾何現象的意義  3. 在受變形作用的地區用來解釋面狀與線狀構造的來源  4. 由應變狀態的分析重建古地層剖面，並估計原始厚度  5. 估計區域性位移，並與褶皺斷層互相對照，解釋大地構造運動"
+    ],
+    "syllabus": "Week 1\n\nIntroductory Strain Analysis\n\nWeek 2\n\nDisplacement: Changes in Length and Angles.\n\nWeek 3\n\nThe Strain Ellipse Concept: Distortion and Rotation\n\nWeek 4\n\nAn Introduction to Heterogeneous Strain\n\nWeek 5\n\nDisplacement Vector Fields and Strain\n\nWeek 6\n\nPractical Strain Measurement: 1. Initially circular and Elliptical Markers\n\nWeek 7\n\nPractical Strain Measurement: 2. Lines\n\nWeek 8\n\nPractical Strain Measurement: 3. The Center-to-Center Technique and Strain Partitioning\n\nWeek 9\n\nPractical Strain Measurement: 4. Angles\n\nWeek 10\n\nOrientation Analysis\n\nWeek 11\n\nMid-term examination\n\nWeek 12\n\nSession 10: Strain in Three Dimensions: 1.Planar and Linear Fabrics\n\nWeek 13\n\nSession 11: Strain in Three Dimensions: 2. Review of Methods and Representation Strain State\n\nWeek 14\n\nStrain in Three Dimensions: Progressive Displacement and Progressive Deformation State\n\nWeek 15\n\nMeasurement of Progressive Deformation.1.Extension veins\n\nWeek 16\n\nMeasurement of Progressive Deformation.2. Pressure Shadows\n\nWeek 17\n\nField trip\n\nWeek 18\n\nFinal exam",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "PPT lecture"
+        },
+        {
+            "type": "實驗/實作",
+            "note": "Homework lab assignment"
+        },
+        {
+            "type": "實地考察、參訪",
+            "note": "Field trip for field measurements"
+        },
+        {
+            "type": "專題研究",
+            "note": "Special topic assignment for each student"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 60,
+            "note": "Weekly homework"
+        },
+        {
+            "type": "報告",
+            "weight": 40,
+            "note": "Final term project report"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

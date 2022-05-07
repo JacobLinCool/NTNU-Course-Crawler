@@ -1,0 +1,81 @@
+{
+    "year": 110,
+    "term": 2,
+    "name": "智慧型人形機器人",
+    "teachers": [
+        "包傑奇"
+    ],
+    "department": "HM75",
+    "code": "AEC8017",
+    "credit": 3,
+    "serial": 1119,
+    "group": "",
+    "quota": {
+        "limit": 30,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 1,
+            "from": 2,
+            "to": 4,
+            "campus": "本部",
+            "classroom": "多媒體與通訊實驗室"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "",
+    "goals": [
+        "Understand fundamentals of human and humanoid robotics walking",
+        "Use of programming to simulate and analyze complex control problems that arise in the area of humanoid robotics",
+        "Evaluate performance of several push recovery methods."
+    ],
+    "syllabus": "Week 1: Basic control theory: Servo motors, PID control  \nWeek 2: Homogeneous coordinates, affine transformations in 2D and 3D.  \nWeek 3: Kinematics for Humanoid Robots:  \nWeek 4: Forward and inverse kinematics of humanoid robots. Denavit-Hartenberg convention  \nand similar approaches.  \nWeek 5: Human locomotion: walking, jogging, running. Static and dynamically stable motions.  \nWeek 6: Dynamics of locomotion: Inverted pendulum models.  \nWeek 7: Walking gait generation using open loop control: Keyframe animation, cyclical pattern  \ngenerators (CPG), parameterized motions, zero moment point (ZMP) control,  \nWeek 8: Sensors for humanoid robots: accelerometers, gyroscopes, and force sensors.  \nWeek 9: Midterm  \nWeek 10: Feedback control and active balancing: centre of mass (CoM) and centre of pressure  \n(CoP) based approaches.  \nWeek 11: Walking on uneven surfaces.  \nWeek 12:Push recovery: footstep planning and adaptation, and capture steps.  \nWeek 13: Motion planning: complex motion planning for humanoid robots. Quadtree  \ndecomposition. Rapidly exploring random trees (RRT) planning.  \nWeek 14: Computer vision for humanoid robots: image processing, colour models,  \nWeek 15: Filter cascades  \nWeek 16: Optical flow analysis,  \nWeek 17: Ego-motion estimation, visual servoing  \nWeek 18: Final Exam",
+    "methodologies": [
+        {
+            "type": "Formal lecture",
+            "note": ""
+        },
+        {
+            "type": "Group discussion",
+            "note": ""
+        },
+        {
+            "type": "Problem base learning",
+            "note": ""
+        },
+        {
+            "type": "Cooperative learning",
+            "note": ""
+        },
+        {
+            "type": "Lab/Studio",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "Assignments",
+            "weight": 40,
+            "note": ""
+        },
+        {
+            "type": "Midterm Exam",
+            "weight": 20,
+            "note": ""
+        },
+        {
+            "type": "Final exam",
+            "weight": 40,
+            "note": ""
+        }
+    ],
+    "prerequisite": "◎Available for junior and senior year B.A. program students (Doctoral program courses excepted) and M.A. program students.",
+    "general_core": []
+}

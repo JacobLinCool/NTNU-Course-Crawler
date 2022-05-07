@@ -1,0 +1,81 @@
+{
+    "year": 108,
+    "term": 2,
+    "name": "柴油引擎修護",
+    "teachers": [
+        "呂有豐"
+    ],
+    "department": "HU70",
+    "code": "IEU1175",
+    "credit": 2,
+    "serial": 1154,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 3,
+            "from": 10,
+            "to": 13,
+            "campus": "本部",
+            "classroom": "汽車場"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "3",
+    "classes": "",
+    "dept_group": "I",
+    "hours": 4,
+    "description": "本課程旨在透過講授、閱讀、討論與實作等方式，期待同學可以瞭解新式電腦控制柴油噴射系統作用原理與技術的基本理念，並培養培養具備先進車用柴油引擎技術之基本學能，進一步認識匹配車輛系統之分類、構造、設計參數。透過實作練習，培養具有基礎的車用柴油引擎先進噴射系統診斷維修能力。",
+    "goals": [
+        "瞭解新式電腦控制柴油噴射系統作用原理與技術。",
+        "培養具備先進車用柴油引擎技術之基本學能，進一步認識匹配車輛系統之分類、構造、設計參數。",
+        "培養具有基礎的車用柴油引擎先進噴射系統診斷維修能力。"
+    ],
+    "syllabus": "第1週 基礎柴油引擎構造作用原理\n\n第2週 基礎柴油引擎設計概念\n\n第3週 柴油引擎的發展與排氣管制現況\n\n第4週 柴油引擎排氣污染控制技術(Diesel Exhaust Gases Treatment System)\n\n第5週 柴油引擎排氣污染控制技術(Diesel Exhaust Gases Treatment System) 與診斷維修\n\n第6週 電腦控制柴油噴射系統(EDC, Electronic Diesel Control)\n\n第7週 電腦控制柴油噴射系統(EDC, Electronic Diesel Control)與診斷維修技術\n\n第8週 期中專題\n\n第9週 電腦控制共管式柴油噴射系統(CRS, Common-Rail System)\n\n第10週 電腦控制共管式柴油噴射系統(CRS, Common-Rail System) 與診斷維修技術\n\n第11週 單體噴油器式柴油噴射系統(UIS, Unit injector System)\n\n第12週 單體噴油器式柴油噴射系統(UIS, Unit injector System) 與診斷維修技術\n\n第13週 其他各種電腦控制柴油噴射系統\n\n第14週 其他各種電腦控制柴油噴射系統與診斷維修技術\n\n第15-16週 期末專題報告\n\n第17-18週 補救教學-電腦控制柴油噴射系統(EDC)診斷維修技術影片導讀",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "課堂相關知識講授"
+        },
+        {
+            "type": "討論法",
+            "note": "示範操作討論說明"
+        },
+        {
+            "type": "合作學習",
+            "note": "分組操作"
+        },
+        {
+            "type": "媒體融入教學",
+            "note": "影片導讀"
+        },
+        {
+            "type": "專題研究",
+            "note": "專題報告"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 30,
+            "note": "作業課堂參與30%"
+        },
+        {
+            "type": "專題",
+            "weight": 35,
+            "note": "專題報告35%"
+        },
+        {
+            "type": "其他",
+            "weight": 35,
+            "note": "術科測驗35%"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

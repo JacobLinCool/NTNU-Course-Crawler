@@ -1,0 +1,68 @@
+{
+    "year": 108,
+    "term": 1,
+    "name": "企業實習",
+    "teachers": [
+        "賴慧文",
+        "張佳榮",
+        "邱皓政",
+        "徐美"
+    ],
+    "department": "OU57",
+    "code": "BAU0025",
+    "credit": 3,
+    "serial": 2534,
+    "group": "A",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 6,
+            "from": 10,
+            "to": 12,
+            "campus": "本部",
+            "classroom": "教室自排"
+        }
+    ],
+    "programs": [],
+    "comment": "上課教室授課老師會提前用moodle通知學生",
+    "restrict": "◎必須先修過【BAU0021  行銷管理】、【BAU0007  財務管理】",
+    "form_s": "3",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程主旨藉由學生實習過程，增進管理理論與企業實務之交流互動，並培養出學生良好之工作習慣與職業道德，陶冶敬業樂群負責果敢之正向態度。同步透過實習機會與經驗，讓學生在發揮所學之餘，亦可開拓其畢業後就業管道。",
+    "goals": [
+        "知識與認知層面",
+        "職能導向層面",
+        "個人特質層面",
+        "價值與倫理層面"
+    ],
+    "syllabus": "Week 1 課程介紹與導論\n\nWeek 2 企業實習注意事項與執行方式說明\n\nWeek 3－Week 16 企業實習\n\nWeek 17 實習心得繳交與感想發表\n\nWeek 18 實習心得繳交與感想發表",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "講述企業實習注意事項與執行方式說明。"
+        },
+        {
+            "type": "實驗/實作",
+            "note": "學生在教師協助安排下到各大企業實習"
+        }
+    ],
+    "grading": [
+        {
+            "type": "報告",
+            "weight": 70,
+            "note": "期末繳交之企業實習心得報告"
+        },
+        {
+            "type": "其他",
+            "weight": 30,
+            "note": "由學生所實習公司之帶領主管，針對學生的表現來評比"
+        }
+    ],
+    "prerequisite": "◎必須先修過【BAU0021  行銷管理】、【BAU0007  財務管理】",
+    "general_core": []
+}

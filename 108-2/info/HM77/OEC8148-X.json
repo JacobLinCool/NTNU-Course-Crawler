@@ -1,0 +1,81 @@
+{
+    "year": 108,
+    "term": 2,
+    "name": "全像光學原理與應用",
+    "teachers": [
+        "鄭超仁"
+    ],
+    "department": "HM77",
+    "code": "OEC8148",
+    "credit": 3,
+    "serial": 1125,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 3,
+            "from": 2,
+            "to": 4,
+            "campus": "公館",
+            "classroom": "綜合館201"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程不開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程為全像術原理及應用之簡介，使學生能對全像原理、光學特性及其器件、系統有所認識與瞭解，並能學習基本全像拍攝與分析的操作與技巧。",
+    "goals": [
+        "瞭解全像術原理與光學成像特性。",
+        "學習全像光學記錄與重建方法、全像片材料、全像片種類與特性。",
+        "認識全像光學應用實例與個案研究。"
+    ],
+    "syllabus": "Weeks 1~5   1. Basis of Fourier Optics\n\nWeeks 6~8   2. Principle of Holography\n\nWeeks 9~12  3. Modern Holography and Applications\n\nWeeks 13~15 4. Case studies (including self-learning, inquiry-base activities etc.)\n\nWeeks 15~18 5. Experiments and Demonstration (including self-learning, inquiry-based activities etc.)",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "問題習作與講解"
+        },
+        {
+            "type": "討論法",
+            "note": "問題習作與講解"
+        },
+        {
+            "type": "問題解決教學",
+            "note": "主題報告與討論"
+        },
+        {
+            "type": "實驗/實作",
+            "note": "主題報告與討論"
+        },
+        {
+            "type": "專題研究",
+            "note": "電腦模擬與實驗"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 30,
+            "note": "問題習作與講解"
+        },
+        {
+            "type": "報告",
+            "weight": 30,
+            "note": "主題報告與討論"
+        },
+        {
+            "type": "專題",
+            "weight": 40,
+            "note": "電腦模擬與實驗"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

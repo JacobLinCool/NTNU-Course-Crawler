@@ -1,0 +1,78 @@
+{
+    "year": 108,
+    "term": 2,
+    "name": "無線通訊",
+    "teachers": [
+        "賀耀華"
+    ],
+    "department": "SU47",
+    "code": "CSC0010",
+    "credit": 3,
+    "serial": 2882,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 4,
+            "from": 7,
+            "to": 9,
+            "campus": "公館",
+            "classroom": "綜合館201"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "",
+    "classes": "9",
+    "dept_group": "",
+    "hours": 3,
+    "description": "This course will cover following topics in wireless communication for voice, data, and multimedia. It begins with an overview of current wireless systems and standards. It then characterizes the wireless channel, including path loss for different environments, shadowing, and multipath fading. It then examines the capacity limitations and transmission strategies of wireless channels. The next focus will be multicarrier techniques to combat frequency-selective fading and discussing various practical multiple access schemes in wireless systems. The next part of the course is looking over wireless networking and course concludes with discussing different wireless systems and current standards. \n\n本課程介紹與語音，數據，和多媒體有關的無線通信技術。本課程首先簡介目前的無線系統和標準，以及無線通道的傳播特性（包含針對不同的環境的路徑損耗，遮蔽效應以及多重路徑衰減）。之後將介紹容量限制分析以及無線通道傳播輸送策略。接著則會介紹用multicarrier技術來對抗frequency-selective fading以及討論無線系統中不同的multiple access schemes。最後則會說明不同的無線網路系統和現行標準。",
+    "goals": [
+        "能了解各種不同的無線通訊系統",
+        "能學習無線系統理論、基頻信號處理、通訊協定等主題",
+        "分析不同的無線通訊系統性能",
+        "著重無線系統理論的整合與應用",
+        "能了解現今通訊系統設計與發展",
+        "具無線通訊系統像是2G、3G、手機等技術的研究能力"
+    ],
+    "syllabus": "This course will cover following topics in wireless communication for voice, data, and multimedia. It begins with an overview of current wireless systems and standards. It then characterizes the wireless channel, including path loss for different environments, shadowing, and multipath fading. It then examines the capacity limitations and transmission strategies of wireless channels. The next focus will be multicarrier techniques to combat frequency-selective fading and discussing various practical multiple access schemes in wireless systems. The next part of the course is looking over wireless networking and course concludes with discussing different wireless systems and current standards.Tentative Course Syllabus (\\*Subject to changes)Week 1: Overview and History of Wireless CommunicationsWeek 2: Radio Propagation ModelsWeek 3: Signal Fading StatisticsWeek 4: Propagation Path-loss ModelsWeek 5: Frequency Reuse and Channel Assignment StrategiesWeek 6: Handoff Strategies and System CapacityWeek 7: Midterm reviewWeek 8: MidtermWeek 9: Frequency Division Multiple Access (FDMA)Week 10: Time Division Multiple Access (TDMA)Week 11: Code Division Multiple Access (CDMA)Week 12: Space Diversion and Carrier Sense Multiple Access (SDMA and CSMA)Week 13: Traffic Routing in Wireless NetworksWeek 14: Wireless Network ManagementsWeek 15: Wireless LAN: IEEE 802.11Week 16: Global System for Mobile (GSM) and CDMA Digital Cellular Standard (IS-95)Week 17: Final reviewWeek 18: Final",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "As a teacher, my responsibility is to convey what is known to students and motivate them to probe what is unknown."
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 20,
+            "note": "Weekly homework assignments"
+        },
+        {
+            "type": "期中考",
+            "weight": 30,
+            "note": "One midterm exam"
+        },
+        {
+            "type": "期末考",
+            "weight": 35,
+            "note": "One final exam"
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 5,
+            "note": "Class discussions"
+        },
+        {
+            "type": "出席",
+            "weight": 10,
+            "note": "1 pts deduction (1%) of overall grade for each missing class (allow one missing class) up to 10 pts"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

@@ -1,0 +1,74 @@
+{
+    "year": 110,
+    "term": 2,
+    "name": "工程數學",
+    "teachers": [
+        "王超"
+    ],
+    "department": "SU47",
+    "code": "CSU0032",
+    "credit": 3,
+    "serial": 2959,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 2,
+            "to": 4,
+            "campus": "公館",
+            "classroom": "Ｂ101"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "3",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "討論在各種工程與科學領域中可能遭遇到數學有關的問題及提供解題的方法.",
+    "goals": [
+        "Focus on practical techniques",
+        "Provide detailed steps for solving differential equations",
+        "Provide detailed steps for solving systems of linear differential equations",
+        "Provide detailed steps for solving vector calculus"
+    ],
+    "syllabus": "\\[16 + 2 weeks of online/offline supplementary materials\\]\n\nFollowing the vision from the Ministry of Education, this course is offered as an EMI all-English class.\n\nEngineering Mathematics is the core subject in many engineering branches. For computer science and information engineering (CSIE), Engineering Mathematics serves as a mathematical foundation for machine learning/deep learning, computer graphics, multimedia processing, and cyber-physical systems (CPS), to name a few. For those of you who have already engaged in the study of those CSIE fields, you might feel that you are fine without doing much math; but in my opinion, learning Engineering Mathematics may shed lights on the 'why' part of those CSIE techniques and algorithms, and it could be a gateway for you to get to know other engineering disciplines (such as electrical engineering).\n\nSince this is the first time in the recent ten years that we offer Engineering Mathematics in our department, we will cover at least the following key topics and, depending on how the class will go, we may cover some additional topics:\n\n1\\. First-Order Differential Equations\n\n2\\. Higher-Order Differential Equations\n\n3\\. The Laplace Transform\n\n4\\. Series Solutions of Linear Equations\n\n5\\. Matrices and Vector Calculus\n\n6\\. Fourier Series and Fourier Transform\n\nDetails on the course schedule, etc. will be updated on the course web page (https://wangc86.github.io/csu0032/) and on Moodle.\n\nStudents who would like to take this course must learn Calculus first.",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "Lectures"
+        },
+        {
+            "type": "討論法",
+            "note": "Online/offline discussion"
+        },
+        {
+            "type": "問題解決教學",
+            "note": "Problem-based learning"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 60,
+            "note": "Homework assignments"
+        },
+        {
+            "type": "期中考",
+            "weight": 20,
+            "note": "Midterm exam"
+        },
+        {
+            "type": "期末考",
+            "weight": 20,
+            "note": "Final exam"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

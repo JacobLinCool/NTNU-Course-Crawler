@@ -1,0 +1,84 @@
+{
+    "year": 107,
+    "term": 1,
+    "name": "進階日文（一）",
+    "teachers": [
+        "蕭燕婉"
+    ],
+    "department": "L",
+    "code": "L0U1009",
+    "credit": 2,
+    "serial": 1544,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 4,
+            "from": 3,
+            "to": 4,
+            "campus": "本部",
+            "classroom": "教室自排"
+        }
+    ],
+    "programs": [
+        "日語學程"
+    ],
+    "comment": "上課地點：文學院會議室(誠大樓B1)",
+    "restrict": "◎第一階段限 日語學程",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 2,
+    "description": "本課程主要教授中、高級日語的句型、文法、助動詞的用法，並提升學生中高級日語之聽、說、讀、寫的能力。",
+    "goals": [
+        "培養日本語聽、說、讀、寫的能力",
+        "培養學生多元語文能力，增強其進修與就業之競爭力"
+    ],
+    "syllabus": "每週進行『大家的日本語』一課或每兩週進行一課。進度視同學的接受與課程之難易度而定。第一學期預計上完『大家的日本語進階1』，第二學期預計上完『大家的日本語進階2』。",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "講解句型的用法。"
+        },
+        {
+            "type": "討論法",
+            "note": "讓學生反覆練習句型，從會話中學習。"
+        },
+        {
+            "type": "媒體融入教學",
+            "note": "運用DVD教學，使學生對句型的使用情境，有具體的了解。"
+        }
+    ],
+    "grading": [
+        {
+            "type": "期中考",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 10,
+            "note": ""
+        },
+        {
+            "type": "出席",
+            "weight": 10,
+            "note": ""
+        },
+        {
+            "type": "其他",
+            "weight": 20,
+            "note": "平時小考。"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

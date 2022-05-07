@@ -1,0 +1,63 @@
+{
+    "year": 107,
+    "term": 1,
+    "name": "計算機在物理的應用（一）",
+    "teachers": [
+        "陳鴻宜"
+    ],
+    "department": "SU41",
+    "code": "PHU0029",
+    "credit": 2,
+    "serial": 2815,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 15
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 3,
+            "to": 4,
+            "campus": "公館",
+            "classroom": "理圖801"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "1",
+    "classes": "1",
+    "dept_group": "",
+    "hours": 2,
+    "description": "提供網路資訊科技相關資訊,培養物理學習所需相關資訊科技。",
+    "goals": [
+        "學習數值分析方法及計算基本的物理問題",
+        "學習使用試算表",
+        "學習使用數學套裝軟體"
+    ],
+    "syllabus": "1\\. Microsoft Excell, ONeNote\n\n2\\. Microsoft Word, Power Pointer\n\n3\\. Origin (SciFavis)\n\n4\\. GnuPlot\n\n5\\. Google SketchUp",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "板書"
+        },
+        {
+            "type": "實驗/實作",
+            "note": "上課實機操作"
+        },
+        {
+            "type": "媒體融入教學",
+            "note": "使用PPT"
+        }
+    ],
+    "grading": [
+        {
+            "type": "期中考",
+            "weight": 100,
+            "note": "四次上機操作，成果評分。"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

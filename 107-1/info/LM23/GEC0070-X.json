@@ -1,0 +1,72 @@
+{
+    "year": 107,
+    "term": 1,
+    "name": "空間資料庫",
+    "teachers": [
+        "周學政"
+    ],
+    "department": "LM23",
+    "code": "GEC0070",
+    "credit": 2,
+    "serial": 1630,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 5
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 8,
+            "to": 9,
+            "campus": "本部",
+            "classroom": "教室自排"
+        }
+    ],
+    "programs": [],
+    "comment": "上課教室：文學院勤10F地理系電腦教室。",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 2,
+    "description": "空間資料庫是大型地理資訊系統的核心，雲端運算發展後，空間資料庫的重要性更為重要。 \n本課程目的為瞭解空間資料的特性，空間資料庫的原理，常見空間資料庫特性，並熟悉至少一種空間資料庫的使用。",
+    "goals": [
+        "瞭解空間資料的特性、空間資料庫的原理、常見空間資料庫特性。",
+        "熟悉至少一種空間資料庫的使用。"
+    ],
+    "syllabus": "​1. Introduction to spatial database  \n2\\. Representation of spatial object  \n3\\. Logical Models and Query Language  \n4\\. The constrain data model  \n5\\. Computational geometry  \n6\\. Spatial Access method  \n7\\. Query Processing  \n8\\. Oracle Spatial (I)  \n9\\. Oracle Spatial (II)  \n10\\. SQL Server 2008 Spatial (I)  \n11\\. SQL Server 2008 Spatial (II)  \n12\\. ARCGIS SDE (I)  \n13\\. ARCGIS SDE (II)  \n14\\. PostgreSQL geographic objects  \n15\\. Google Map/ Earth  \n16 Spatial Database Design (I)  \n17\\. Spatial Database Design (II)  \n18 Spatial Database Design (III)",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": ""
+        },
+        {
+            "type": "實驗/實作",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 40,
+            "note": ""
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "其他",
+            "weight": 30,
+            "note": "小考"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

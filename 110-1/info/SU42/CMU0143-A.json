@@ -1,0 +1,69 @@
+{
+    "year": 110,
+    "term": 1,
+    "name": "分析化學實驗（一）",
+    "teachers": [
+        "林震煌"
+    ],
+    "department": "SU42",
+    "code": "CMU0143",
+    "credit": 1,
+    "serial": 2944,
+    "group": "A",
+    "quota": {
+        "limit": 26,
+        "additional": 2
+    },
+    "schedule": [
+        {
+            "day": 1,
+            "from": 8,
+            "to": 10,
+            "campus": "公館",
+            "classroom": "Ｄ415"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "2",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "訓練學生分析化學實驗操作的技巧，並培養實驗正確的實驗態度以及獨立思考和解決問題能力。",
+    "goals": [
+        "訓練學生分析化學實驗操作的技巧",
+        "培養實驗正確的實驗態度以及獨立思考和解決問題能力"
+    ],
+    "syllabus": "1.化學分析與測量誤差\n\n2.酸鹼滴定與解離常數測定\n\n3.碳酸氫鈉與碳酸鈉之組成分析\n\n4.氫氧化鈣的溶解度與溶度積測定\n\n5.氟化鈉與溴化鈉之組成分析\n\n6.陰離子半微量系統分析\n\n7.硫酸鉀組成鑑定\n\n8.金屬離子錯合反應與EDTA滴定\n\n9.銀離子沈澱與鹵素離子分析\n\n10.氧化還原滴定\n\n11.綜合分析(ㄧ)\n\n12.綜合分析(二)",
+    "methodologies": [
+        {
+            "type": "實驗/實作",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "期末考",
+            "weight": 15,
+            "note": "含小考"
+        },
+        {
+            "type": "出席",
+            "weight": 25,
+            "note": "含實驗態度"
+        },
+        {
+            "type": "報告",
+            "weight": 50,
+            "note": ""
+        },
+        {
+            "type": "其他",
+            "weight": 10,
+            "note": "值日生工作"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

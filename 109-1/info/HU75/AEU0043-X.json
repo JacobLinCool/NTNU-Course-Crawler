@@ -1,0 +1,86 @@
+{
+    "year": 109,
+    "term": 1,
+    "name": "控制系統",
+    "teachers": [
+        "許陳鑑"
+    ],
+    "department": "HU75",
+    "code": "AEU0043",
+    "credit": 3,
+    "serial": 1366,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 2,
+            "to": 4,
+            "campus": "本部",
+            "classroom": "工501"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "3",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程主要在探討控制系統的相關理論及其應用，使學生具備控制系統之數學基礎以深入瞭解控制系統的理論基礎，並應用控制系統的相關理論以解決各類實務問題。",
+    "goals": [
+        "瞭解控制系統的理論內涵",
+        "能以程式撰寫各種控制法則，並據以分析各項數據",
+        "培養問題導向的思維和研究之能力",
+        "提升工程問題理解之能力，並利用各種控制方法進行分析及設計以解決各類實務問題",
+        "能夠搜尋相關技術文獻，提升自我學習之能力",
+        "能夠以小組方式進行主題式研究，培養團隊合作之能力"
+    ],
+    "syllabus": "第1週:Introductionto Control Systems\n\n第2~3週:Mathematical Modelsof Systems\n\n第4~5週:State Variable Models\n\n第6~7週:Feedback Control System Characteristics\n\n第8週:The Performance of Feedback Control Systems\n\n第9週:期中考\n\n第10~11週:Stability of Linear Feedback Systems\n\n第12~13週:Root Locus Method\n\n第14~15週:Frequency-Response Methods\n\n第16~17週:Design of Feedback Control Systems\n\n第18週:期末考",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "講述控制系統之相關原理及技術"
+        },
+        {
+            "type": "討論法",
+            "note": "以小組方式討論控制相關議題"
+        },
+        {
+            "type": "實驗/實作",
+            "note": "由學生撰寫控制程式"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 10,
+            "note": ""
+        },
+        {
+            "type": "期中考",
+            "weight": 20,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 40,
+            "note": ""
+        },
+        {
+            "type": "出席",
+            "weight": 10,
+            "note": ""
+        },
+        {
+            "type": "其他",
+            "weight": 20,
+            "note": "小考"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

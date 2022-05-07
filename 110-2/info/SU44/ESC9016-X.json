@@ -1,0 +1,91 @@
+{
+    "year": 110,
+    "term": 2,
+    "name": "行星地質學",
+    "teachers": [
+        "謝奈特"
+    ],
+    "department": "SU44",
+    "code": "ESC9016",
+    "credit": 3,
+    "serial": 2918,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 3,
+            "from": 7,
+            "to": 9,
+            "campus": "公館",
+            "classroom": "Ｃ403"
+        }
+    ],
+    "programs": [],
+    "comment": "中階以上課程，適合大三以上學生修習，以作為探究研究所之先修課程，同時也開放碩士班無此課程基礎之學生選修。",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "9",
+    "dept_group": "",
+    "hours": 3,
+    "description": "",
+    "goals": [
+        "Students will have a greater understanding for the origin of terrestrial bodies",
+        "The use of remote sensing for interpretation geological events",
+        "Using chemistry to understand extraterrestrial materials (e.g. meteors)",
+        "Understanding the unique properties of the Earth"
+    ],
+    "syllabus": "【18 weeks】\n\nWeek 1 Introduction\n\nWeek 2 Origin of the Solar System\n\nWeek 3 Model of Planetary Evolution\n\nWeek 4 Meteorites and Impact Craters\n\nWeek 5 The Earth-Moon System\n\nWeek 6 Mercury (Surface features, Geological Processes, Atmosphere, Climate)\n\nWeek 7 Venus (Surface features, Geological Processes, Atmosphere, Climate)\n\nWeek 8 Mars (Surface features, Geological Processes, Atmosphere, Climate)\n\nWeek 9 Asteroids\n\nWeek 10 Galilean Satellites (Surface features, Geological Processes, Atmosphere, Climate)\n\nWeek 11 Titan (Surface features, Geological Processes, Atmosphere, Climate)\n\nWeek 12 Triton (Surface features, Geological Processes, Atmosphere, Climate)\n\nWeek 13 Pluto and Charon (Surface features, Geological Processes, Atmosphere, Climate)\n\nWeek 14 Comets\n\nWeek 15 Extrasolar Planets\n\nThere will be three weeks for exams and presentations",
+    "methodologies": [
+        {
+            "type": "Formal lecture",
+            "note": ""
+        },
+        {
+            "type": "Group discussion",
+            "note": ""
+        },
+        {
+            "type": "Problem base learning",
+            "note": ""
+        },
+        {
+            "type": "Cooperative learning",
+            "note": ""
+        },
+        {
+            "type": "Media, audio, visual materials",
+            "note": ""
+        },
+        {
+            "type": "Case studies",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "Midterm Exam",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "Final exam",
+            "weight": 50,
+            "note": ""
+        },
+        {
+            "type": "Presentation",
+            "weight": 10,
+            "note": "Presentation of term paper and class discussion involvement"
+        },
+        {
+            "type": "Case study reports",
+            "weight": 10,
+            "note": "A 4000 word term paper on a specific topic (selected by the student in conjunction with the professor) is required"
+        }
+    ],
+    "prerequisite": "◎Available for junior and senior year B.A. program students (Doctoral program courses excepted) and M.A. program students.",
+    "general_core": []
+}

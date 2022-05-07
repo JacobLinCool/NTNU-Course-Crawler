@@ -1,0 +1,101 @@
+{
+    "year": 108,
+    "term": 2,
+    "name": "物理光學",
+    "teachers": [
+        "邱爾德"
+    ],
+    "department": "HU77",
+    "code": "OEU0010",
+    "credit": 3,
+    "serial": 1269,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 1,
+            "from": 3,
+            "to": 4,
+            "campus": "公館",
+            "classroom": "Ｓ406"
+        },
+        {
+            "day": 1,
+            "from": 6,
+            "to": 6,
+            "campus": "公館",
+            "classroom": "Ｓ406"
+        }
+    ],
+    "programs": [
+        "太陽能源與工程學程"
+    ],
+    "comment": "",
+    "restrict": "",
+    "form_s": "2",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程銜接第1學期幾何光學課程內容,介紹與建立學生基礎的光學知識，使學生了解物理光學基本原理和應用，並作為未來光學實作與應用之入門工具與知識",
+    "goals": [
+        "瞭解基礎光學知識",
+        "學習如何使用適當的數學工具與圖解瞭解物理光學基本原理和應用",
+        "學習如何以文字(書面) (Written) 與口語(Verbal) 描述解說物理光學基本原理和應用",
+        "瞭解光學於現代尖端科技所扮演的角色與其貢獻"
+    ],
+    "syllabus": "**3/02 (Mon):**                             \n\nGeneral Introduction & Course Overview (課程簡介與導覽)\n\nFrom Uniform Circular Motion to Wave Motion\n\nBasic Mathematics of Wave Propagation & EM Wave\n\nEM Wave: Plane Wave, Spherical Wave, and Cylindrical Wave\n\n(波的基本數學與物理)\n\n**3/09 (Mon):**                             \n\nCoherence, Interference of Planewaves, & Dispersion\n\n(同調性、平面波干涉、與色散)\n\n**3/16 (Mon):**                             \n\nBasic Mathematics and Physics of Interference of 2 Planewaves\n\n(兩道平面波干涉的基本數學與物理)\n\n**3/23 (Mon):**                             \n\n**Test (I): 2 hours**\n\nOptical Interferometry, Interferometers, & Selected Applications\n\n(光波干涉學、干涉儀、與其應用)\n\n**3//30 (Mon):**\n\nOptical Diffractions (I): Basic Concepts & Mathematic (繞射的基本原理與數學)\n\n**4/06 (Mon):**\n\nOptical Diffractions (II): Point Spread Function, Diffraction Limited 2-Point Resolution, Diffraction Gratings, & Applications\n\n(繞射極限解析度、繞射光柵、與其應用)\n\n**4/13 (Mon):**     \n\nPolarization Optics (I): Mathematical & Graphical Representations of Polarization States (光波偏振態)\n\n**4/20 (Mon):**\n\n**Midterm Exam: 4 hours**\n\n**4/27 (Mon):**     \n\nPolarization Optics (II): Jones Calculus & Polarizations Transformation\n\n(光波偏振態之調控轉換)\n\n**5/04 (Mon):**\n\nPolarization Optics (III): Applications(光波偏振態的應用)\n\n**5/11 (Mon):**\n\nGaussian Beam Optics (1): Basic Parameters (高斯光的基本參數)\n\n**5/18 (Mon):**\n\n**Test (II): 2 hours**\n\nGaussian Beam Optics (1I): Gaussian Transform (高斯光之調控轉換)\n\n**5/25 (Mon):**\n\nGaussian Beam Optics (1II): Optical Resonator (光波共振腔)\n\n**6/01 (Mon):**\n\nElementary Laser Theory (I) 雷射原理簡介(I)\n\n**6/08 (Mon):**\n\nElementary Laser Theory(II) 雷射原理簡介 (II)\n\n**6/15 (Mon):**\n\n**Final Exam: 4 hours**\n\n**Self-Study Lecture Materials for In-class Discussion, and Q&A:**\n\n02/27 to 03/02: 4 hours\n\n06/13 (Sat.), tentative, Final Exam Review and Q&A: 2hours",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": ""
+        },
+        {
+            "type": "問題解決教學",
+            "note": ""
+        },
+        {
+            "type": "合作學習",
+            "note": ""
+        },
+        {
+            "type": "媒體融入教學",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 10,
+            "note": ""
+        },
+        {
+            "type": "期中考",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 40,
+            "note": ""
+        },
+        {
+            "type": "出席",
+            "weight": 5,
+            "note": ""
+        },
+        {
+            "type": "其他",
+            "weight": 15,
+            "note": "段考"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

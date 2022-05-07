@@ -1,0 +1,66 @@
+{
+    "year": 109,
+    "term": 2,
+    "name": "古典電動力學（二）",
+    "teachers": [
+        "張明哲"
+    ],
+    "department": "SM41",
+    "code": "PHC0014",
+    "credit": 3,
+    "serial": 2653,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 1,
+            "from": 2,
+            "to": 4,
+            "campus": "公館",
+            "classroom": "Ｓ402"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "熟悉電動力學的基本原理及其應用",
+    "goals": [
+        "使學生熟悉電動力學的基本原理",
+        "加強理性思維能力",
+        "簡介物理新知",
+        "物理研究能力培養"
+    ],
+    "syllabus": "Maxwell Equations, Macroscopic Electromagnetism, Conservation Laws  \nPlane Electromagnetic Waves and Wave Propagation.  \nRadiating Systems, Multipole Fields and Radiation.  \nScattering and Diffraction.  \nCollisions, Energy Loss, and Scattering of Charged Particles, Cherenkov and Transition Radiation (selected topics).  \nRadiation by Moving Charges (selected topics)",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 30,
+            "note": "每1至2週交一次"
+        },
+        {
+            "type": "期中考",
+            "weight": 35,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 35,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

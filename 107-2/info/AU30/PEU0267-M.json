@@ -1,0 +1,85 @@
+{
+    "year": 107,
+    "term": 2,
+    "name": "羽球（二）",
+    "teachers": [
+        "蔡虔祿"
+    ],
+    "department": "AU30",
+    "code": "PEU0267",
+    "credit": 2,
+    "serial": 92,
+    "group": "M",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 5,
+            "from": 3,
+            "to": 4,
+            "campus": "本部",
+            "classroom": "體育館一4F"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎限男生修◎必須先修過【PEU0266  羽球（一）】",
+    "form_s": "2",
+    "classes": "",
+    "dept_group": "",
+    "hours": 2,
+    "description": "以羽球運動的技術學習、規則介紹、比賽、相關學科領域的學習與裁判的執行來培養學生對羽球運動專業知能的瞭解、學習身體控制的技能、訓練精確的技術與陶冶高尚的運動精神。",
+    "goals": [
+        "123"
+    ],
+    "syllabus": "基本技術複習\n\n反拍高遠球\n\n反拍切球\n\n反拍殺球\n\n綜合球路練習\n\n攻擊技術練習\n\n防守技術練習\n\n單打戰術練習\n\n雙打戰術練習\n\n綜合測驗\n\n雙打比賽規則介紹\n\n單打循環比賽\n\n雙打循環比賽\n\n團體賽\n\n筆試",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": ""
+        },
+        {
+            "type": "合作學習",
+            "note": ""
+        },
+        {
+            "type": "其他",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 20,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 10,
+            "note": ""
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 10,
+            "note": ""
+        },
+        {
+            "type": "報告",
+            "weight": 20,
+            "note": ""
+        },
+        {
+            "type": "其他",
+            "weight": 40,
+            "note": "術科表現 40% (雙打比賽20%、對牆擊球20%)"
+        }
+    ],
+    "prerequisite": "◎必須先修過【PEU0266  羽球（一）】",
+    "general_core": []
+}

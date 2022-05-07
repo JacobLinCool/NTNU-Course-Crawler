@@ -1,0 +1,97 @@
+{
+    "year": 110,
+    "term": 1,
+    "name": "教育統計學（二）",
+    "teachers": [
+        "張凌嘉"
+    ],
+    "department": "E",
+    "code": "E0U0002",
+    "credit": 2,
+    "serial": 327,
+    "group": "A",
+    "quota": {
+        "limit": 45,
+        "additional": 5
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 6,
+            "to": 7,
+            "campus": "本部",
+            "classroom": "教402"
+        }
+    ],
+    "programs": [
+        "學習與資訊學程"
+    ],
+    "comment": "",
+    "restrict": "◎必須先修過【E0U0001  教育統計學（一）】、【05UG020  統計學】其中一門",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 2,
+    "description": "",
+    "goals": [
+        "認識推論統計之基本概念",
+        "學習各類統計方法之意義、計算、解釋與正確用途",
+        "培養邏輯性思考與分析之學習能力"
+    ],
+    "syllabus": "教學方式\n\n\\* 循序漸進，不擅長數學、忘記統計一的學生也能聽得懂\n\n\\* 結合生活與研究實例，了解基本概念，學會運用Excel和SPSS操作\n\n\\* 透過練習、作業和報告，應用於生活、教育、商管等領域，增進統計分析職能\n\n授課週數\n\n\\* 16週＋2週自主學習\n\n規劃進度\n\n\\* 將依據修課學生的先備知識和實際學習狀況做適度調整\n\nW01：課程介紹，了解起始狀態，複習描述統計的基本概念\n\nW02：推論統計的基本概念\n\nW03：單一樣本的假設考驗\n\nW04：兩個獨立樣本t檢定\n\nW05：兩個相依樣本t檢定\n\nW06：卡方檢定\n\nW07：我也能看懂論文或統計報告－個人簡報I\n\nW08：期中考\n\nW09：單因子變異數分析\n\nW10：單因子變異數分析\n\nW11：雙因子變異數分析\n\nW12：雙因子變異數分析\n\nW13：迴歸分析\n\nW14：迴歸分析\n\nW15：我也能看懂論文或統計報告－個人簡報II\n\nW16：期末考\n\nW17：自主學習：我也能看懂論文或統計報告－完成書面報告\n\nW18：自主學習：我也能看懂論文或統計報告－完成書面報告",
+    "methodologies": [
+        {
+            "type": "Formal lecture",
+            "note": ""
+        },
+        {
+            "type": "Group discussion",
+            "note": ""
+        },
+        {
+            "type": "Problem base learning",
+            "note": ""
+        },
+        {
+            "type": "Lab/Studio",
+            "note": ""
+        },
+        {
+            "type": "Media, audio, visual materials",
+            "note": ""
+        },
+        {
+            "type": "Case studies",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "Assignments",
+            "weight": 20,
+            "note": "完成隨堂學習單和單元課後作業，準時繳交"
+        },
+        {
+            "type": "Midterm Exam",
+            "weight": 25,
+            "note": "期中考前教學內容總結性評量（紙筆＋上機）"
+        },
+        {
+            "type": "Final exam",
+            "weight": 30,
+            "note": "本學期教學內容之總結性評量（紙筆＋上機）"
+        },
+        {
+            "type": "Class discussion involvement",
+            "weight": 10,
+            "note": "參與討論，提問、回饋與貢獻，學習態度"
+        },
+        {
+            "type": "Presentation",
+            "weight": 15,
+            "note": "專題研究之上台簡報與書面報告"
+        }
+    ],
+    "prerequisite": "Prerequisite course: 【E0U0001  Educational Statistics (I)】、【05UG020  Statistics】one of above",
+    "general_core": []
+}

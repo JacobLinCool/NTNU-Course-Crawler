@@ -1,0 +1,70 @@
+[
+    {
+        "year": 110,
+        "term": 1,
+        "name": "計算共形幾何（一）",
+        "teachers": [
+            "樂美亨"
+        ],
+        "department": "SU40",
+        "code": "MAC9020",
+        "credit": 3,
+        "serial": 2783,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 6,
+                "to": 8,
+                "campus": "公館",
+                "classroom": "數學館M210"
+            }
+        ],
+        "programs": [
+            "科學計算學程"
+        ],
+        "comment": "",
+        "restrict": "",
+        "form_s": "",
+        "classes": "9",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 1,
+        "name": "矩陣計算（一）",
+        "teachers": [
+            "黃聰明"
+        ],
+        "department": "SU40",
+        "code": "MAC9035",
+        "credit": 3,
+        "serial": 2789,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 2,
+                "to": 4,
+                "campus": "公館",
+                "classroom": "數學館M212"
+            }
+        ],
+        "programs": [
+            "科學計算學程"
+        ],
+        "comment": "",
+        "restrict": "",
+        "form_s": "",
+        "classes": "9",
+        "dept_group": ""
+    }
+]

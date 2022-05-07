@@ -1,0 +1,83 @@
+{
+    "year": 109,
+    "term": 2,
+    "name": "地球內部物理化學",
+    "teachers": [
+        "林佩瑩"
+    ],
+    "department": "SU44",
+    "code": "ESC9010",
+    "credit": 3,
+    "serial": 2946,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 2,
+            "to": 4,
+            "campus": "公館",
+            "classroom": "Ｃ403"
+        }
+    ],
+    "programs": [],
+    "comment": "中階以上課程，適合大三以上學生修習，以作為探究研究所之先修課程，同時也開放碩士班無此課程基礎之學生選修。",
+    "restrict": "",
+    "form_s": "",
+    "classes": "9",
+    "dept_group": "",
+    "hours": 3,
+    "description": "依據地球內部分層的組成結構，分別探討地球內部組成在不同溫度、壓力條件下的物理與化學特性，進而了解地球內部運動動力機制。",
+    "goals": [
+        "了解基礎熱導方程",
+        "了解不同溫度、壓力於不同深度對地球內部組成的物理與化學變化",
+        "分組報告地球內部相關現今研究"
+    ],
+    "syllabus": "第01次上課：課程介紹、地球組成系統概論\n\n第02次上課：熱導方程I\n\n第03次上課：熱導方程II\n\n第04次上課：熱導方程III\n\n第05次上課：地球1D 層狀構造介紹及物理與化學特性 + 專題文章討論\n\n第06次上課：高溫高壓礦物物理 + 專題演講\n\n第07次上課：地球內部地函組成物理與化學特性I + 專題文章討論\n\n第08次上課：地球內部地函組成物理與化學特性II + 專題文章討論\n\n第09次上課：地球內部下地函組成物理與化學特性 + 專題文章討論\n\n第10次上課：地球內部外核組成物理與化學特性 + 專題文章討論\n\n第11次上課：地球內部內核組成物理與化學特性 + 專題文章討論\n\n第12次上課：地球岩石圈與軟流圈系統介紹I + 專題文章討論\n\n第13次上課：地球岩石圈與軟流圈系統介紹II + 專題文章討論\n\n第14次上課：地球地體動力學（板塊運動）I + 專題文章討論\n\n第15次上課：地球地體動力學（板塊運動）II + 專題文章討論\n\n第16次上課：期末考\n\n第17次上課：彈性授課+自主學習\n\n第18次上課：彈性授課+自主學習\n\n1st Class: Course introduction, General introduction to deep earth\n\n2nd Class: Heat equation I\n\n3rd Class: Heat equation II\n\n4th Class: Heat equation III\n\n5th Class: Earth’s 1D layering structure + paper presentation and discussion\n\n6th Class: High pressure high temperature mineral physics + invited talk\n\n7th Class: Study of Earth’s mantle I + paper presentation and discussion\n\n8th Class: Study of Earth’s mantle II + paper presentation and discussion\n\n9th Class: Study of Earth’s lowermost mantle + paper presentation and discussion\n\n10th Class: Study of Earth’s outer-core + paper presentation and discussion\n\n11th Class: Study of Earth’s inner-core + paper presentation and discussion\n\n12th Class: Lithosphere and asthenosphere system I + paper presentation and discussion\n\n13th Class: Lithosphere and asthenosphere system II + paper presentation and discussion\n\n14th Class: Geodynamics (plate tectonics) I + paper presentation and discussion\n\n15th Class: Geodynamics (plate tectonics) II + paper presentation and discussion\n\n16th Class: Final exam\n\n17th Class: Flexible Learning\n\n18th Class: Flexible Learning",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "課堂講述基本原理\nLecture the fundamental knowledge"
+        },
+        {
+            "type": "討論法",
+            "note": "專題學術文章討論\nTopic paper presentation and discussion"
+        },
+        {
+            "type": "合作學習",
+            "note": "分組互相討論\nStudent groups discussion"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 50,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 10,
+            "note": ""
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 10,
+            "note": ""
+        },
+        {
+            "type": "出席",
+            "weight": 20,
+            "note": "In-class quiz"
+        },
+        {
+            "type": "報告",
+            "weight": 10,
+            "note": "Weekly reading presentation"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

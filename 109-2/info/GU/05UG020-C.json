@@ -1,0 +1,86 @@
+{
+    "year": 109,
+    "term": 2,
+    "name": "統計學",
+    "teachers": [
+        "鄭育文"
+    ],
+    "department": "GU",
+    "code": "05UG020",
+    "credit": 2,
+    "serial": 989,
+    "group": "C",
+    "quota": {
+        "limit": 100,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 3,
+            "from": 8,
+            "to": 9,
+            "campus": "本部",
+            "classroom": "教202會議廳"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 2,
+    "description": "本課程的目的在教授學生統計學基本原理與方法。總體來說，本課程期使學生能在具備統計學方法知識後，能適當的應用統計學方法於相關的研究與實務之中，並培養學生在相關研究與實務中具嚴謹專業客觀的能力與態度。",
+    "goals": [
+        "了解描述統計學的基本概念、原理與方法",
+        "了解推論的基本概念、原理與方法",
+        "應用統計學方法於心理與教育教學與研究工作"
+    ],
+    "syllabus": "周次\n\n日期\n\n課程內容\n\n閱讀/參考章節\n\n一\n\n02/24\n\n課程介紹、統計與資料的基本概念\n\n王CH1\n\n二\n\n03/03\n\n次數分配\n\n林CH2\n\n三\n\n03/10\n\n集中量數\n\n王CH2\n\n四\n\n03/17\n\nExcel基本介紹及圖表、問卷設計\n\n五\n\n03/24\n\n分散量數\n\n王CH3\n\n六\n\n03/31\n\n相對量數\n\n林CH5\n\n七\n\n04/07\n\n常態分配及Z分配\n\n王CH4\n\n八\n\n04/14\n\n**期中考**\n\n九\n\n04/21\n\n常用的機率分配\n\n王CH6\n\n十\n\n04/28\n\n抽樣分配\n\n王CH7\n\n十一\n\n05/05\n\n區間估計\n\n王CH8\n\n十二\n\n05/12\n\nExcel抽樣分配、區間估計\n\n十三\n\n05/19\n\n**統計學與日常生活的結合**\n\n_The Big Short_\n\n十四\n\n05/26\n\n假設檢定、錯誤類型\n\nCH9\n\n十五\n\n06/02\n\n兩平均數差異檢定\n\n王CH9\n\n十六\n\n06/09\n\nExcel平均數檢定、**期末考考題發放**\n\n十七\n\n06/16\n\n**彈性補充教學、期末考繳交**\n\n十八\n\n06/23\n\n**彈性補充教學**",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": ""
+        },
+        {
+            "type": "實驗/實作",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "期中考",
+            "weight": 20,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 15,
+            "note": ""
+        },
+        {
+            "type": "出席",
+            "weight": 10,
+            "note": ""
+        },
+        {
+            "type": "其他",
+            "weight": 25,
+            "note": "平時表現"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": [
+        "社會科學",
+        "學院共同課程"
+    ]
+}

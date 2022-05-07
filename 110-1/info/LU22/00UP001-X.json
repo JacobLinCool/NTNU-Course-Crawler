@@ -1,0 +1,74 @@
+{
+    "year": 110,
+    "term": 1,
+    "name": "體育",
+    "teachers": [
+        "陳昀宗"
+    ],
+    "department": "LU22",
+    "code": "00UP001",
+    "credit": 1,
+    "serial": 1959,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 1,
+            "from": 6,
+            "to": 7,
+            "campus": "本部",
+            "classroom": "操場一"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "允許重複修",
+    "form_s": "1",
+    "classes": "",
+    "dept_group": "",
+    "hours": 2,
+    "description": "體適能知能學習與檢測\n體驗各項運動\n參與術科操作與評量\n參與分組練習與討論\n學習體育常識與運動規則",
+    "goals": [
+        "了解運動與健康之關係",
+        "了解相關運動知識與規則",
+        "學習相關的運動技能",
+        "提升運動參與興趣，培養良好運動習慣"
+    ],
+    "syllabus": "### **【授課方式:16+2週】【第17週為期末補考、18週為彈性遠距教學】**\n\n週次\n\n(Week)\n\n日期\n\n(Date)\n\n課程內容\n\n(Topic)\n\n上課地點\n\n(Location)\n\n一\n\n9/27\n\n課程介紹、評量方式、籃球運球\n\n(Course Introduction, Evaluation and Basketball Dribble)\n\n室外籃球場\n\n(Outdoor Basketball Court)\n\n二\n\n10/4\n\n籃球-上籃、投籃\n\n(Layup and Shot)\n\n**三**\n\n**10/11**\n\n**國慶補假**\n\n**(Holiday)**\n\n \n\n四\n\n10/18\n\n籃球-綜合練習\n\n(Basketball－Comprehensive Practice)\n\n室外籃球場\n\n(Outdoor Basketball Court)\n\n**五**\n\n**10/25**\n\n**體適能測驗－身高、體重、立定跳遠、坐姿體前彎及仰臥起坐** **(Health-Related Physical Fitness Test)**\n\n**本部體育館****4****樓**\n\n**(Gym 4F)**\n\n六\n\n11/1\n\n體適能檢測－女生800公尺/男生1600公尺跑走\n\n(Cardiorespiratory Fitness Test)\n\n操場\n\n(Sports Field)\n\n七\n\n11/8\n\n健身房器材介紹\n\n(Weight Training Room－Introduction)\n\n重訓室\n\n(Weight Training Room)\n\n八\n\n11/15\n\n實作練習－機械式器材\n\n(Machine-Based Training)\n\n九\n\n11/22\n\n實作練習－自由重量器材\n\n(Free Weight Training)\n\n十\n\n11/29\n\n重量訓練-綜合練習\n\n(Weight Training－Comprehensive Practice)\n\n十一\n\n12/6\n\n民俗體育－扯鈴\n\n(Folk Sports－Diabolo)\n\n操場\n\n(Sports Field)\n\n十二\n\n12/13\n\n民俗體育－扯鈴\n\n(Folk Sports－Diabolo)\n\n十三\n\n12/20\n\n扯鈴-綜合練習\n\n(Diabolo－Comprehensive Practice)\n\n十四\n\n12/27\n\n排球-高手傳接球\n\n(Volleyball－Underhand Service and Receive)\n\n室外排球場\n\n(Outdoor Volleyball Court)\n\n十五\n\n1/3\n\n排球-低手傳接球\n\n(Volleyball－Overhand Service and Receive)\n\n十六\n\n1/10\n\n排球-綜合練習\n\n(Volleyball－Comprehensive Practice)\n\n**十七**\n\n**1/17**\n\n**期末補考**\n\n**(Make-Up Exam)**\n\n**十八**\n\n**1/24**\n\n**體育影片賞析**\n\n**(Sports Video Appreciation)**\n\n**Moodle**",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "教師動作講解與示範"
+        },
+        {
+            "type": "合作學習",
+            "note": "團隊合作、小組學習"
+        },
+        {
+            "type": "實驗/實作",
+            "note": "分組練習與比賽"
+        }
+    ],
+    "grading": [
+        {
+            "type": "課堂討論參與",
+            "weight": 30,
+            "note": "個人術科測驗、分組競賽表現"
+        },
+        {
+            "type": "出席",
+            "weight": 50,
+            "note": "服裝整齊，準時出席。依照學校行政程序，出示假單。"
+        },
+        {
+            "type": "其他",
+            "weight": 20,
+            "note": "體適能檢測參與"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

@@ -1,0 +1,69 @@
+{
+    "year": 108,
+    "term": 2,
+    "name": "互補問題專題",
+    "teachers": [
+        "陳界山"
+    ],
+    "department": "SM40",
+    "code": "MAC0086",
+    "credit": 3,
+    "serial": 2545,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 1,
+            "from": 6,
+            "to": 8,
+            "campus": "公館",
+            "classroom": "數學館M212"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程主要是關於互補問題的探討，我們將介紹一般互補問題的來源、其解的存在性、解決互補問題的常用方法、以及它與一般最佳化問題的關連性等，同時也會介紹一些實用性的應用。",
+    "goals": [
+        "了解一般數理規劃問題的結構。",
+        "熟悉各種優選條件或最佳化條件。",
+        "了解各種相關的應用。"
+    ],
+    "syllabus": "本課程主要是關於互補問題的探討，我們將介紹一般互補問題的來源、其解的存在性、解決互補問題的常用方法、以及它與一般最佳化問題的關連性等，同時也會介紹一些實用性的應用。  \n  \n   \n 1. Models of Complementarity problems (2 weeks).  \n  \n 2. Existence Theorems and Solutions Methods (6 weeks).  \n  \n 3. Applications of Complementarity problems (4 weeks).  \n  \n \n\n  \n[教學進度與主題附件](https://ap.itc.ntnu.edu.tw/NtnuFileShare/file.do?action=dl&gno=9a16c95a322e498bbff3e9695c4b1018&fno=517d4c67259043aea65bb4c24a467b18)",
+    "methodologies": [
+        {
+            "type": "討論法",
+            "note": "每個選修此課程的學生將被指定研讀的章節，並輪流上台報告所研讀的內容。"
+        },
+        {
+            "type": "專題研究",
+            "note": "對特定主題邀請相關學者專家進一步講授，以增進學生對課程內容之瞭解。"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 30,
+            "note": "指定論文、補充材料的閱讀。"
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 30,
+            "note": "出席並參與課堂討論、聆聽相關研討會演講的情形。"
+        },
+        {
+            "type": "報告",
+            "weight": 40,
+            "note": "輪流上台報告所研讀的內容對培養研究生作研究的態度與能力是非常重要的，因此將針對每位學生上台報告的講解中，評量其對研讀內容的理解程度。"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

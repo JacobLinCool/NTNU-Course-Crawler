@@ -1,0 +1,652 @@
+[
+    {
+        "year": 108,
+        "term": 2,
+        "name": "高級教育統計學（甲）",
+        "teachers": [
+            "李子奇"
+        ],
+        "department": "E",
+        "code": "E0C8001",
+        "credit": 3,
+        "serial": 338,
+        "group": "A",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 5,
+                "to": 7,
+                "campus": "本部",
+                "classroom": "正202"
+            }
+        ],
+        "programs": [
+            "學習與資訊學程",
+            "大數據學程"
+        ],
+        "comment": "",
+        "restrict": "◎課程開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 2,
+        "name": "高級教育統計學（甲）",
+        "teachers": [
+            "劉振維"
+        ],
+        "department": "E",
+        "code": "E0C8001",
+        "credit": 3,
+        "serial": 340,
+        "group": "C",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 7,
+                "to": 9,
+                "campus": "本部",
+                "classroom": "教育學院第三會議室"
+            }
+        ],
+        "programs": [
+            "學習與資訊學程",
+            "大數據學程"
+        ],
+        "comment": "上課教室：教育學院第三會議室",
+        "restrict": "◎課程不開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 2,
+        "name": "教育研究論文寫作",
+        "teachers": [
+            "林宗進",
+            "蔡今中"
+        ],
+        "department": "E",
+        "code": "E0C8010",
+        "credit": 3,
+        "serial": 345,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 5,
+                "from": 5,
+                "to": 7,
+                "campus": "本部",
+                "classroom": "教育學院第一會議室"
+            }
+        ],
+        "programs": [],
+        "comment": "上課教室：教育學院三樓第一會議室",
+        "restrict": "◎課程開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 2,
+        "name": "中國教育史專題研究",
+        "teachers": [
+            "張鍠焜"
+        ],
+        "department": "ED00",
+        "code": "EDD0119",
+        "credit": 3,
+        "serial": 347,
+        "group": "",
+        "quota": {
+            "limit": 30,
+            "additional": 12
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 6,
+                "to": 8,
+                "campus": "本部",
+                "classroom": "教813"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎課程不開放上修",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 2,
+        "name": "後現代組織管理專題研究",
+        "teachers": [
+            "黃乃熒"
+        ],
+        "department": "ED00",
+        "code": "EDD0141",
+        "credit": 3,
+        "serial": 348,
+        "group": "",
+        "quota": {
+            "limit": 30,
+            "additional": 12
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 9,
+                "to": 10,
+                "campus": "本部",
+                "classroom": "教803"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎課程不開放上修",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 2,
+        "name": "教育行政決定專題研究",
+        "teachers": [
+            "吳清基"
+        ],
+        "department": "ED00",
+        "code": "EDD0154",
+        "credit": 3,
+        "serial": 349,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 11,
+                "to": 13,
+                "campus": "本部",
+                "classroom": "教802"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎課程開放上修",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 2,
+        "name": "教育政策專題研究",
+        "teachers": [
+            "鄭淑惠",
+            "林子斌",
+            "王麗雲"
+        ],
+        "department": "ED00",
+        "code": "EDD0158",
+        "credit": 3,
+        "serial": 350,
+        "group": "",
+        "quota": {
+            "limit": 30,
+            "additional": 12
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 16,
+                "to": 11,
+                "campus": "本部",
+                "classroom": "教803"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎課程不開放上修",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 2,
+        "name": "比較教育方法論",
+        "teachers": [
+            "楊深坑"
+        ],
+        "department": "EM00",
+        "code": "EDC0002",
+        "credit": 3,
+        "serial": 381,
+        "group": "",
+        "quota": {
+            "limit": 30,
+            "additional": 12
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 9,
+                "to": 10,
+                "campus": "本部",
+                "classroom": "教803"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎課程不開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 2,
+        "name": "教育社會學研究",
+        "teachers": [
+            "黃鴻文"
+        ],
+        "department": "EM00",
+        "code": "EDC0076",
+        "credit": 3,
+        "serial": 382,
+        "group": "",
+        "quota": {
+            "limit": 30,
+            "additional": 12
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 2,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "教803"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎課程不開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 2,
+        "name": "中國近代教育史研究",
+        "teachers": [
+            "周愚文"
+        ],
+        "department": "EM00",
+        "code": "EDC0137",
+        "credit": 3,
+        "serial": 383,
+        "group": "",
+        "quota": {
+            "limit": 30,
+            "additional": 12
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 2,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "教803"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎課程不開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 2,
+        "name": "教育史研究",
+        "teachers": [
+            "李玉馨"
+        ],
+        "department": "EM00",
+        "code": "EDC0157",
+        "credit": 3,
+        "serial": 384,
+        "group": "",
+        "quota": {
+            "limit": 30,
+            "additional": 12
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 6,
+                "to": 8,
+                "campus": "本部",
+                "classroom": "教803"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎課程不開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 2,
+        "name": "教育社會學新興議題研究",
+        "teachers": [
+            "沈姍姍"
+        ],
+        "department": "EM00",
+        "code": "EDC0218",
+        "credit": 3,
+        "serial": 385,
+        "group": "",
+        "quota": {
+            "limit": 30,
+            "additional": 12
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 2,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "教803"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎課程不開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 2,
+        "name": "英文教育名著批判",
+        "teachers": [
+            "李玉馨"
+        ],
+        "department": "EM00",
+        "code": "EDC0222",
+        "credit": 3,
+        "serial": 386,
+        "group": "",
+        "quota": {
+            "limit": 30,
+            "additional": 12
+        },
+        "schedule": [
+            {
+                "day": 5,
+                "from": 7,
+                "to": 9,
+                "campus": "本部",
+                "classroom": "教802"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎課程不開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 2,
+        "name": "杜威教育哲學",
+        "teachers": [
+            "林秀珍"
+        ],
+        "department": "EM00",
+        "code": "EDC8002",
+        "credit": 3,
+        "serial": 387,
+        "group": "",
+        "quota": {
+            "limit": 30,
+            "additional": 12
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 2,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "教804"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎課程不開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 2,
+        "name": "道德教育理論與實際",
+        "teachers": [
+            "林建福"
+        ],
+        "department": "EM00",
+        "code": "EDC8003",
+        "credit": 3,
+        "serial": 388,
+        "group": "",
+        "quota": {
+            "limit": 30,
+            "additional": 12
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 2,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "教801"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎課程不開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 2,
+        "name": "師生互動研究",
+        "teachers": [
+            "許殷宏"
+        ],
+        "department": "EM00",
+        "code": "EDC8007",
+        "credit": 3,
+        "serial": 389,
+        "group": "",
+        "quota": {
+            "limit": 30,
+            "additional": 12
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 6,
+                "to": 8,
+                "campus": "本部",
+                "classroom": "教801"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎課程不開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 2,
+        "name": "教育與工作轉銜研究",
+        "teachers": [
+            "張宜君"
+        ],
+        "department": "EM00",
+        "code": "EDC8010",
+        "credit": 3,
+        "serial": 390,
+        "group": "",
+        "quota": {
+            "limit": 30,
+            "additional": 12
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 2,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "教803"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎課程不開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 2,
+        "name": "原住民教育研究",
+        "teachers": [
+            "周惠民"
+        ],
+        "department": "EM00",
+        "code": "EDC8014",
+        "credit": 3,
+        "serial": 3147,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 9,
+                "to": 10,
+                "campus": "本部",
+                "classroom": "教804"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎課程開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 2,
+        "name": "多元文化教育研究",
+        "teachers": [
+            "張建成"
+        ],
+        "department": "EM00",
+        "code": "EDC8015",
+        "credit": 3,
+        "serial": 391,
+        "group": "",
+        "quota": {
+            "limit": 30,
+            "additional": 12
+        },
+        "schedule": [
+            {
+                "day": 5,
+                "from": 6,
+                "to": 8,
+                "campus": "本部",
+                "classroom": "教803"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎課程不開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 2,
+        "name": "教育改革政策與行政研究",
+        "teachers": [
+            "許添明",
+            "林子斌"
+        ],
+        "department": "EM00",
+        "code": "EDC8017",
+        "credit": 3,
+        "serial": 392,
+        "group": "",
+        "quota": {
+            "limit": 30,
+            "additional": 12
+        },
+        "schedule": [
+            {
+                "day": 5,
+                "from": 2,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "教804"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎課程不開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    }
+]

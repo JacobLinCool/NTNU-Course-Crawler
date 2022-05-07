@@ -1,0 +1,68 @@
+{
+    "year": 108,
+    "term": 2,
+    "name": "電磁學（二）",
+    "teachers": [
+        "鄧敦建"
+    ],
+    "department": "HU73",
+    "code": "MTU0119",
+    "credit": 3,
+    "serial": 1235,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 5,
+            "from": 6,
+            "to": 8,
+            "campus": "本部",
+            "classroom": "工501"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "3",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程為基本電磁學（即電磁學（一））的後續課程，著重在電磁波在不同環境下的傳遞現象與理論學習。電磁學（二）對於學生將來有意進一步修習光學檢測、光通訊、微波等專業工程應用領域提供理論基礎。",
+    "goals": [
+        "從Maxwell方程式更深入地探討行進的平面電磁波在不同介質的各種行為。",
+        "進一步探討波導與光纖的應用實例。"
+    ],
+    "syllabus": "1.動態場 Time-varying field           \n\n2.Maxwell’s equations\n\n3.平面波方程式 Plane-wave equation\n\n4.平面波在理想介電質與介電質中傳播 Propagation of plane-wave in the ideal/unideal dielectrics\n\n5.平面波在導體中的傳播 Propagation of plane-wave in the conductor\n\n6.Poynting theorem and power transmitting\n\n7.平面波的垂直反射與穿透 Reflection and transmission of the plane-wave in the normal direction\n\n8.平面波的傾斜反射與穿透  Reflection and transmission of the plane-wave in the inclined direction\n\n9.期中考 mid-term exam\n\n10.平面波在全反射時的電場型式 Electromagnetic fields for plane-wave in total internal reflection \n\n11.平面波在全反射時的Poynting vector討論 Evanescent wave for plane-wave in total internal reflection \n\n12.金屬矩形波導的邊界條件與模態 Boundary conditions and modes for rectangular conductor wave guide\n\n13.金屬波導之場方程式 Field equations for conductor wave guide\n\n14.金屬波導的表面電流與邊界電磁場分佈 Field and currents on the surface of conductor wave guide\n\n15.介電質波導的邊界條件與模態  Boundary conditions and modes for dielectric wave guide slab\n\n16.介電質波導的場方程式 Field equations for dielectric wave guide slab\n\n17.光纖的數值孔徑與模態 Numerical aperture and modes for fibers\n\n18.期末考 Final-term exam\n\n※ 因應肺炎疫情，1、17兩週次的課可改成線上講義下載以及傳送相關習解影音檔至Moodle網頁供同學學習",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "講述電磁學重要概念與理論 Lecture"
+        },
+        {
+            "type": "討論法",
+            "note": "討論重要應用例，著重學員參與討論   Discussion"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 35,
+            "note": "回家作業與分組報告（上台報告者可加分）、隨堂測驗 Homework and presentation/qiuz"
+        },
+        {
+            "type": "期中考",
+            "weight": 30,
+            "note": "筆試 Exam"
+        },
+        {
+            "type": "期末考",
+            "weight": 35,
+            "note": "筆試 Exam"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

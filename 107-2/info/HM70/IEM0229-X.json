@@ -1,0 +1,90 @@
+{
+    "year": 107,
+    "term": 2,
+    "name": "破壞分析",
+    "teachers": [
+        "郭金國"
+    ],
+    "department": "HM70",
+    "code": "IEM0229",
+    "credit": 3,
+    "serial": 1110,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 6,
+            "from": 6,
+            "to": 8,
+            "campus": "本部",
+            "classroom": "鑄造場"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "了解材料的破損分析、機械性質及測試以及其所代表的意義，目的是使工程師能夠在起初的產品設計時，將其可能受到的外在因素考慮進去，因而分析其原子的結構、鍵結、晶體缺陷、差排、破壞成分分析等，並了解其中與殘留應力、疲勞破壞、剪力破壞等之間的關聯性。另外也有非破壞性檢測分析為一主題，使學生理解破壞性檢測與非破壞性檢測之間的優劣。",
+    "goals": [
+        "了解材料的破損分析、機械性質及測試以及其所代表的意義"
+    ],
+    "syllabus": "第一週     Introduction of Course\n\n第二週     Introduction of failure analysis and Non-destructive analysis\n\n第三週     Atomic Structure, Bonding, Crystal Defect\n\n第四週     Mechanical Properties and Testing\n\n第五週     Displacement and Plastic Deformation\n\n第六週     Failure analysis：Metallographic Analysis\n\n第七週     Failure analysis：Spark test and Shear test, \n\n第八週     Failure analysis：Impact test and Tensile test\n\n第九週     Middle Exam\n\n第十週     Non-destructive analysis : Visual Inspection, Pressure Detection and Leak detection\n\n第十一週    Special Topic Report 1\n\n第十二週    Non-destructive analysis : Ultrasonic Detection and Magnetic Particle Detection\n\n第十三週      Special Topic Report 2\n\n第十四週     Non-destructive analysis : Eddy Current Detection, Radiation Detection\n\n第十五週    Experiment- Failure Analysis\n\n第十六週    Special Topic Report 3\n\n第十七週     Experiment-Destruction Observation\n\n第十八週     Final Exam",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": ""
+        },
+        {
+            "type": "問題解決教學",
+            "note": ""
+        },
+        {
+            "type": "實驗/實作",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 20,
+            "note": ""
+        },
+        {
+            "type": "期中考",
+            "weight": 25,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 25,
+            "note": ""
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 10,
+            "note": ""
+        },
+        {
+            "type": "出席",
+            "weight": 10,
+            "note": ""
+        },
+        {
+            "type": "報告",
+            "weight": 10,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

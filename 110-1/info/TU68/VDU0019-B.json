@@ -1,0 +1,70 @@
+{
+    "year": 110,
+    "term": 1,
+    "name": "電腦繪圖",
+    "teachers": [
+        "薛佑廷"
+    ],
+    "department": "TU68",
+    "code": "VDU0019",
+    "credit": 3,
+    "serial": 3213,
+    "group": "B",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 3,
+            "to": 5,
+            "campus": "本部",
+            "classroom": "教402"
+        }
+    ],
+    "programs": [
+        "科技藝術學程"
+    ],
+    "comment": "",
+    "restrict": "",
+    "form_s": "1",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程主要授課重點為電腦繪圖基本技巧的培養與觀念之培養；授課內容除了理論的建立之外，尚包含實務技術的訓練。授課方式採講授及實作相互配合，並藉由作品發表培養學習者的組織能力與提案技巧。\n學習者將被要求依授課進度繳交指定的閱讀資料與實作作業。實作作業於指定繳交日期當日同時進行作品發表。\n學期總成績的評鑑除前述兩項之外，上課過程中的學習態度亦被納入評量的範圍。",
+    "goals": [
+        "使學生具有電腦繪圖軟體操作的基礎能力。",
+        "能選擇適宜的軟體表現出設計構想。",
+        "具繪圖軟體工具整合的基礎能力，並能應用於設計實務上。"
+    ],
+    "syllabus": "這是一門探索概念繪圖藝術的實作課，可應用於產品、遊戲、電影、動畫設計過程中的最初階段。  \n學生將從基本術語、透視構成，到較複雜的形式繪製，例如場景、手握工具、交通工具等練習，學會如何繪製概念圖稿。 他們也將學會如何使用二維電腦繪圖軟體(Adobe Pohotshop)、繪圖板、及有限的三維輔助完成上述學習。\n\nWeek01 9/28 課程介紹Introduction to Course  \nWeek02 10/5 基本術語 Basic Terminology  \nWeek03 10/12 透視繪圖技法Perspective Drawing Techniques  \nWeek04 10/19 透視繪圖技法Perspective Drawing Techniques  \nWeek05 10/26 橢圓形Ellipses  \nWeek06 11/2 體積Volume  \nWeek07 11/9 體積Volume  \nWeek08 11/16 三維輔助3D Underlay  \nWeek09 11/23 場景Set/Environment  \nWeek10 11/30 場景Set/Environment  \nWeek11 12/7 手握工具Holding Tools  \nWeek12 12/14 手握工具Holding Tools  \nWeek13 12/21 交通工具Vechicles  \nWeek14 12/28 交通工具Vechicles  \nWeek15 1/4 交通工具Vechicles  \nWeek16 1/11 期末檢討Final Review",
+    "methodologies": [
+        {
+            "type": "實驗/實作",
+            "note": ""
+        },
+        {
+            "type": "媒體融入教學",
+            "note": ""
+        },
+        {
+            "type": "其他",
+            "note": "Google Meet遠距教學網址 https://meet.google.com/zqv-wxrk-znc 或代碼 zqv-wxrk-znc"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 70,
+            "note": "報告或作品，作業成績佔70%"
+        },
+        {
+            "type": "出席",
+            "weight": 30,
+            "note": "每周上課會點名，作為平時成績依據，平時成績佔30%"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

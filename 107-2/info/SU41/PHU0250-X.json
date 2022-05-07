@@ -1,0 +1,81 @@
+{
+    "year": 107,
+    "term": 2,
+    "name": "普通物理甲（二）",
+    "teachers": [
+        "陳啟明"
+    ],
+    "department": "SU41",
+    "code": "PHU0250",
+    "credit": 3,
+    "serial": 2801,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 6,
+            "to": 7,
+            "campus": "公館",
+            "classroom": "Ｃ004"
+        },
+        {
+            "day": 5,
+            "from": 8,
+            "to": 8,
+            "campus": "公館",
+            "classroom": "Ｃ004"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "1",
+    "classes": "1",
+    "dept_group": "",
+    "hours": 3,
+    "description": "銜接高中物理教材，闡述物理各學門的核心概念，使學生具備堅實的物理基礎，以作為進一步學習高深物理的準備。",
+    "goals": [
+        "瞭解物理基礎理論",
+        "加強理性思維能力",
+        "簡介物理新知"
+    ],
+    "syllabus": "第1 週  電場、高斯定律  \n第2 週  電位能與電能\n\n第3 週  介電質與電容、直流電與電阻\n\n第4 週  克希荷夫規則與直流電路\n\n第5 週  磁場與電荷運動\n\n第6 週  高斯磁定律與安培定律\n\n第7 週  法拉第感應定律、電感、  \n第8 週  交流電路\n\n第9 週  馬克斯威爾方程式與電磁波\n\n第10週  期中考\n\n第11週  光的本質、幾何光學及光學儀器\n\n第12週  波動光學與光波的干涉\n\n第13週  繞射、偏極化與光子性質\n\n第14週  相對論\n\n第15週  量子力學的基本概念\n\n第16週  原子與原子核\n\n第17週  分子與固體  \n第18週  期末考",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "期中考",
+            "weight": 20,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "其他",
+            "weight": 20,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

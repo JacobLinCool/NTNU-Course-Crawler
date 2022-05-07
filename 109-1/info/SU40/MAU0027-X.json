@@ -1,0 +1,74 @@
+{
+    "year": 109,
+    "term": 1,
+    "name": "拓樸學（一）",
+    "teachers": [
+        "夏良忠"
+    ],
+    "department": "SU40",
+    "code": "MAU0027",
+    "credit": 3,
+    "serial": 2852,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 6,
+            "to": 8,
+            "campus": "公館",
+            "classroom": "Ｃ005"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "3",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "拓樸學主要是要介紹點集拓樸學，也就是關於拓樸空間的概念，讓學生認識抽象化空間的拓樸結構（提供關於“距離”、“遠近”的概念），並做為日後修習高深數學的基礎。",
+    "goals": [
+        "瞭解點集拓樸學基本性質",
+        "增進邏輯推理與歸納的能力",
+        "增進數學思維與批判性思考的能力"
+    ],
+    "syllabus": "一、教學目標：拓樸學（一）的教學目標是介紹點集拓樸（point set topology) 主要是將歐式空間 R^n 裡的拓墣概念及性質推廣至更一般的空間中。教學的內容與進度如下：\n\n1\\. Topologies on R^n (review) (1 weeks)\n\n2\\. Topological spaces\n\n   2.1 Metric spaces and topological spacess (1 week) \n\n   2.2 Bases, subspaces (1 week)\n\n3\\. Continuity, continuous functions and the product topology (2 week)\n\n4\\. Connectedness \n\n   4.1 Connected spacces, connected components (2 week)\n\n   4.2 Path-connected spaces, local connectivity (1 week)\n\n5\\. Convergence and Compactness \n\n   5.1 Sequences, Hausdorff Spaces (2 week)\n\n   5.2 Compact spaces, Countably compact spaces (2 week)\n\n  5.3 Compact metric spaces, locally compact spaces (2 week) \n\n6 Countability axioms, separation axioms (1 week)\n\n7 Completeness (2 week)",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "依照進度講述主要概念"
+        },
+        {
+            "type": "討論法",
+            "note": "提出問題於課堂上討論"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 15,
+            "note": ""
+        },
+        {
+            "type": "期中考",
+            "weight": 35,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 40,
+            "note": ""
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 10,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

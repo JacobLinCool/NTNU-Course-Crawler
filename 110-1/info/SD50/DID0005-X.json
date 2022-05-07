@@ -1,0 +1,67 @@
+{
+    "year": 110,
+    "term": 1,
+    "name": "分子親緣關係學",
+    "teachers": [
+        "黃仁磐"
+    ],
+    "department": "SD50",
+    "code": "DID0005",
+    "credit": 3,
+    "serial": 2658,
+    "group": "",
+    "quota": {
+        "limit": 10,
+        "additional": 5
+    },
+    "schedule": [
+        {
+            "day": 1,
+            "from": 7,
+            "to": 9,
+            "campus": "校外",
+            "classroom": "教室自排"
+        }
+    ],
+    "programs": [],
+    "comment": "上課教室在中研院B208,BRC,AS",
+    "restrict": "◎課程不開放上修",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "",
+    "goals": [
+        "Understanding and application of molecular phylogenetics"
+    ],
+    "syllabus": "Week 1: The Archaeology of the Genome\n\nWeek 2: Trees\n\nWeek 3: Genes: Organisation, Function and Evolution\n\nWeek 4: Genes in Populations\n\nWeek 5: Measuring Genetic Change\n\nWeek 6: Inferring Molecular Phylogeny\n\nWeek 7: Models of Molecular Evolution\n\nWeek 8: Applications of Molecular Phylogenetics\n\nWeek 9: Mid-tern Exam\n\nWeek 10: Edit Sequence\n\nWeek 11: Sequence Alignment\n\nWeek 12: Population Genetic\n\nWeek 13: Tree Construction I: Neighbour-Joining Tree\n\nWeek 14: Tree Construction II: Maximum Likelihood Tree\n\nWeek 15: Tree Construction III: Mrbayes Tree\n\nWeek 16: Molecular Clock\n\nWeek 17: Student Homework Presentation\n\nWeek 18: Student Homework Presentation",
+    "methodologies": [
+        {
+            "type": "Formal lecture",
+            "note": ""
+        },
+        {
+            "type": "Case studies",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "Midterm Exam",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "Attendances",
+            "weight": 10,
+            "note": ""
+        },
+        {
+            "type": "Presentation",
+            "weight": 60,
+            "note": ""
+        }
+    ],
+    "prerequisite": "◎Unavailable for M.A. program students (M.A. program courses excepted) and B.A. program students.",
+    "general_core": []
+}

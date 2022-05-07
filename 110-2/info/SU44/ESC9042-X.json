@@ -1,0 +1,87 @@
+{
+    "year": 110,
+    "term": 2,
+    "name": "海洋衛星資料分析",
+    "teachers": [
+        "鄭志文"
+    ],
+    "department": "SU44",
+    "code": "ESC9042",
+    "credit": 3,
+    "serial": 2927,
+    "group": "",
+    "quota": {
+        "limit": 34,
+        "additional": 2
+    },
+    "schedule": [
+        {
+            "day": 4,
+            "from": 7,
+            "to": 9,
+            "campus": "公館",
+            "classroom": "理圖802"
+        }
+    ],
+    "programs": [],
+    "comment": "中階以上課程，適合大三以上學生修習，以作為探究研究所之先修課程，同時也開放碩士班無此課程基礎之學生選修。",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "9",
+    "dept_group": "",
+    "hours": 3,
+    "description": "衛星遙感探測技術隨著近年來科技的發展，漸漸成為進行區域海洋環境監測、全球氣候變遷研究不可或缺之利器，此課程希望藉由衛星遙測運作原理介紹、資料處理技能訓練，結合海洋現象觀察與分析，建立學生日後進行相關自然環境研究之基礎能力。",
+    "goals": [
+        "了解各海洋衛星儀器參數如何進行量測、取得、儀器運作以及反演之原理。",
+        "學習如何進行資料處理與分析",
+        "著手進行資料收集、分析、對海洋現象進行處理與解釋"
+    ],
+    "syllabus": "第1週 Introduction\n\n第2週 Foundations of Remote Sensing on Oceanic Environment (I)\n\n第3週 Foundations of Remote Sensing on Oceanic Environment (II)\n\n第4週 Concepts and Measurement - Sea Surface Temperature\n\n第5週 Concepts and Measurement - Sea Surface Height\n\n第6週 Concepts and Measurement - Ocean Color\n\n第7週 Concepts and Measurement - Wind Field\n\n第8週 Concepts and Measurement - Salinity\n\n第9週 期中考\n\n第10週 Data Process and Display\n\n第11週 Statistical Methods and Error Handling (I)\n\n第12週 Statistical Methods and Error Handling (II)\n\n第13週 Spatial Analyses of Data Fields\n\n第14週 Time-Series Analysis Methods\n\n第15週 Data Interpretations (I)\n\n第16週 Data Interpretations (II)\n\n第17週 Final report (I)\n\n第18週 Final report (II)\n\n備註: 實際授課進度與內容視疫情發展可能進行部分調整",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "教師講述海洋衛星遙測基本原理、衛星資料處理、誤差分析以及資料判讀，藉此培養學生利用衛星遙測資料進行海洋研究之能力"
+        },
+        {
+            "type": "合作學習",
+            "note": "透過分組報告的方式，讓學生針對特定儀器或方法進行報告，藉由團隊共同進行資料收集、整理、歸納與統整以加深同學間團隊合作默契與學習成效"
+        },
+        {
+            "type": "實驗/實作",
+            "note": "藉由衛星影像資料可視化、統計資料分析之電腦線上實機操作，訓練學生衛星遙測資料分析能力，作為後續進行專題研究之基礎能力"
+        },
+        {
+            "type": "專題研究",
+            "note": "藉由資料分析觀察海洋環境變化現象，配合相關科學期刊之研讀，分析解讀資料處理顯示出之自然現象變化，並探討其可能之形成機制，藉此培養學生日後執行研究工作之能量"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 20,
+            "note": "檢視學生對上課內容之理解、課堂上介紹之知識之應用、資料檢索能力"
+        },
+        {
+            "type": "期中考",
+            "weight": 20,
+            "note": "命題形式包括簡答題、問答題與計算題，解釋學生之學習成效，並適度修正教學進度與方式"
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 10,
+            "note": "出席以及課堂參與、發言討論情形"
+        },
+        {
+            "type": "成果展覽",
+            "weight": 20,
+            "note": "訓練學生資料處理分析能力"
+        },
+        {
+            "type": "專題",
+            "weight": 30,
+            "note": "檢視學生對上課內容之理解，並透過資料檢索，歸納統整與共同討論方式加深學生對於學習內容理解層面之深度以及廣度"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

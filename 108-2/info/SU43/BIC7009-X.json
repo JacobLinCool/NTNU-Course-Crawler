@@ -1,0 +1,83 @@
+{
+    "year": 108,
+    "term": 2,
+    "name": "免疫化學",
+    "teachers": [
+        "王玉麒"
+    ],
+    "department": "SU43",
+    "code": "BIC7009",
+    "credit": 3,
+    "serial": 2811,
+    "group": "",
+    "quota": {
+        "limit": 12,
+        "additional": 12
+    },
+    "schedule": [
+        {
+            "day": 5,
+            "from": 7,
+            "to": 9,
+            "campus": "公館",
+            "classroom": "Ｄ313"
+        }
+    ],
+    "programs": [],
+    "comment": "本課程已有預選，請選上的12名同學於2月17-19日前跟老師拿授權碼",
+    "restrict": "◎必須先修過【BIU0143  生物化學】、【BIM0123  專題討論】",
+    "form_s": "",
+    "classes": "7",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程針對免疫化學的基礎理論與應用發展進行介紹，並讓學生操作學習抗體生產、純化與多種應用的技術，期使學生具備免疫化學的學科知識及實務技術經驗，以強化未來於學界及業界發展的競爭力。",
+    "goals": [
+        "認識免疫化學的基礎理論及應用發展",
+        "學習與實務操作免疫化學的應用技術",
+        "撰寫及報告免疫化學的專題計畫"
+    ],
+    "syllabus": "第一週：  Course introduction; Animal husbandry and regulations (lecture)；\n\n                 Rabbit room set-up (exercise)\n\n第二週：  Immunoglobulin: expression and properties (lecture);\n\n                 Rabbit 1st immunization (exercise)\n\n第三週：  Molecular basis of antibody diversity (lecture)\n\n第四週：  Polyclonal vs. monoclonal antibodies (lecture)\n\n第五週：  Antigen design, adjuvants and immunization schemes (lecture)\n\n第六週：  Antibody purification and characterization (lecture)                   Rabbit 2nd immunization (exercise)\n\n第七週：  Development and applications of Immunochemical techniques-I (lecture)\n\n第八週：  Development and applications of Immunochemical techniques-II (lecture)\n\n                  Booster injection, bleeding, & serum separation (exercise)\n\n第九週：  Mid-term exam.\n\n第十週：  Production and applications of avian antibodies (lecture)\n\n                  ELISA (exercise)\n\n第十一週：Recombinant antibodies (lecture)\n\n第十二週：Therapeutic antibodies (lecture)\n\n第十三週：Catalytic antibodies (lecture)\n\n第十四週：Preparation of affinity column & affinity purification (lecture & exercise)\n\n第十五週：Antibody labelling (lecture & exercise)\n\n第十六週：Proposal presentation & panel discussion-I\n\n第十七週：Proposal presentation & panel discussion-II\n\n第十八週：Final exam",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": ""
+        },
+        {
+            "type": "媒體融入教學",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "期中考",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 10,
+            "note": ""
+        },
+        {
+            "type": "報告",
+            "weight": 15,
+            "note": ""
+        },
+        {
+            "type": "專題",
+            "weight": 15,
+            "note": ""
+        }
+    ],
+    "prerequisite": "◎必須先修過【BIU0143  生物化學】、【BIM0123  專題討論】",
+    "general_core": []
+}

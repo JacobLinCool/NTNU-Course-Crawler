@@ -1,0 +1,90 @@
+{
+    "year": 110,
+    "term": 1,
+    "name": "作業系統",
+    "teachers": [
+        "林政宏"
+    ],
+    "department": "HU75",
+    "code": "AEU0049",
+    "credit": 3,
+    "serial": 1354,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 2,
+            "to": 4,
+            "campus": "本部",
+            "classroom": "電機系電子實驗室"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "3",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程之目的為大學部學生瞭解作業系統的基本概念，課程內容包括作業系統的歷史演進、作業系統的組成、以及系統資源配置管理的相關課題",
+    "goals": [
+        "了解作業系統架構與原理",
+        "了解執行緒與程序",
+        "了解CPU排程與程序同步",
+        "了解死結處理",
+        "了解記憶體與檔案系統",
+        "分析不同作業系統架構差異與優缺點",
+        "透過分組專題了解作業系統架構"
+    ],
+    "syllabus": "【授課方式：16+2週】\n\nWeek 1: Chapter 1: Introduction  \nWeek 2: Chapter 2: Operating System Structures  \nWeek 3: Chapter 3: Processes  \nWeek 4: Chapter 4: Threads  \nWeek 5: Chapter 5: CPU Scheduling  \nWeek 6: Chapter 5: CPU Scheduling (cont.)  \nWeek 7: Chapter 6: Process Synchronization  \nWeek 8: Chapter 6: Process Synchronization (cont.)  \nWeek 9: midterm examination  \nWeek 10: Chapter 7: Deadlocks  \nWeek 11: Chapter 8: Main Memory  \nWeek 12: Chapter 9: Virtual Memory  \nWeek 13: Chapter 9: Virtual Memory  \nWeek 14: Chapter 10: File-System Interface  \nWeek 15: Chapter 11: File-System Implementation  \nWeek 16: Final examination  \nWeek 17:  Flexible course, Final project  \nWeek 18:  Flexible course, Final project",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "問題解決教學",
+            "note": ""
+        },
+        {
+            "type": "合作學習",
+            "note": ""
+        },
+        {
+            "type": "實驗/實作",
+            "note": ""
+        },
+        {
+            "type": "專題研究",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 20,
+            "note": ""
+        },
+        {
+            "type": "期中考",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "其他",
+            "weight": 20,
+            "note": "Final Project"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

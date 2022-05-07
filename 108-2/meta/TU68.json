@@ -1,0 +1,1109 @@
+[
+    {
+        "year": 108,
+        "term": 2,
+        "name": "設計史",
+        "teachers": [
+            "長友大輔"
+        ],
+        "department": "TU68",
+        "code": "VDU0008",
+        "credit": 2,
+        "serial": 3020,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 7,
+                "to": 8,
+                "campus": "本部",
+                "classroom": "設計系2A教室"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "1",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 2,
+        "name": "色彩計畫",
+        "teachers": [
+            "施令紅"
+        ],
+        "department": "TU68",
+        "code": "VDU0012",
+        "credit": 2,
+        "serial": 3021,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 3,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "設計系2A教室"
+            }
+        ],
+        "programs": [
+            "室內設計學程"
+        ],
+        "comment": "",
+        "restrict": "◎必須先修過【VDU0006  色彩學】",
+        "form_s": "1",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 2,
+        "name": "基礎設計（二）",
+        "teachers": [
+            "蘇文清"
+        ],
+        "department": "TU68",
+        "code": "VDU0071",
+        "credit": 3,
+        "serial": 3022,
+        "group": "A",
+        "quota": {
+            "limit": 35,
+            "additional": 5
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 6,
+                "to": 8,
+                "campus": "本部",
+                "classroom": "設計系2A教室"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎必須先修過【VDU0070  基礎設計（一）】",
+        "form_s": "1",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 2,
+        "name": "基礎設計（二）",
+        "teachers": [
+            "鄧建國"
+        ],
+        "department": "TU68",
+        "code": "VDU0071",
+        "credit": 3,
+        "serial": 3023,
+        "group": "B",
+        "quota": {
+            "limit": 35,
+            "additional": 5
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 6,
+                "to": 8,
+                "campus": "本部",
+                "classroom": "設計系2B教室"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎必須先修過【VDU0070  基礎設計（一）】",
+        "form_s": "1",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 2,
+        "name": "設計素描（二）",
+        "teachers": [
+            "伊彬"
+        ],
+        "department": "TU68",
+        "code": "VDU0109",
+        "credit": 2,
+        "serial": 3025,
+        "group": "A",
+        "quota": {
+            "limit": 35,
+            "additional": 5
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 1,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "綜914"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎必須先修過【VDU0108  設計素描（一）】",
+        "form_s": "1",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 2,
+        "name": "設計素描（二）",
+        "teachers": [
+            "許和捷"
+        ],
+        "department": "TU68",
+        "code": "VDU0109",
+        "credit": 2,
+        "serial": 3026,
+        "group": "B",
+        "quota": {
+            "limit": 35,
+            "additional": 5
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 7,
+                "to": 10,
+                "campus": "本部",
+                "classroom": "設計系2A教室"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎必須先修過【VDU0108  設計素描（一）】",
+        "form_s": "1",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 2,
+        "name": "數位繪畫與影像處理",
+        "teachers": [
+            "林俊良"
+        ],
+        "department": "TU68",
+        "code": "VDU0176",
+        "credit": 3,
+        "serial": 3027,
+        "group": "",
+        "quota": {
+            "limit": 40,
+            "additional": 5
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 3,
+                "to": 5,
+                "campus": "本部",
+                "classroom": "綜1001"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎必須先修過【VDU0019  電腦繪圖】",
+        "form_s": "1",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 2,
+        "name": "數位動畫設計",
+        "teachers": [
+            "連俊傑"
+        ],
+        "department": "TU68",
+        "code": "VDU0021",
+        "credit": 3,
+        "serial": 3028,
+        "group": "",
+        "quota": {
+            "limit": 35,
+            "additional": 5
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 6,
+                "to": 8,
+                "campus": "本部",
+                "classroom": "設計系2B教室"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 2,
+        "name": "字體設計（二）",
+        "teachers": [
+            "劉建成"
+        ],
+        "department": "TU68",
+        "code": "VDU0081",
+        "credit": 2,
+        "serial": 3029,
+        "group": "",
+        "quota": {
+            "limit": 35,
+            "additional": 5
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 8,
+                "to": 9,
+                "campus": "本部",
+                "classroom": "設計系3A教室"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎必須先修過【VDU0080  字體設計（一）】",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 2,
+        "name": "設計心理學",
+        "teachers": [
+            "伊彬"
+        ],
+        "department": "TU68",
+        "code": "VDU0118",
+        "credit": 2,
+        "serial": 3030,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 3,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "綜914"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 2,
+        "name": "電腦輔助室內設計",
+        "teachers": [
+            "莊澤光"
+        ],
+        "department": "TU68",
+        "code": "VDU0150",
+        "credit": 3,
+        "serial": 3031,
+        "group": "",
+        "quota": {
+            "limit": 35,
+            "additional": 5
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 10,
+                "to": 12,
+                "campus": "本部",
+                "classroom": "教403"
+            }
+        ],
+        "programs": [
+            "室內設計學程"
+        ],
+        "comment": "",
+        "restrict": "",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 2,
+        "name": "材料與製造",
+        "teachers": [
+            "范日奎"
+        ],
+        "department": "TU68",
+        "code": "VDU0151",
+        "credit": 3,
+        "serial": 3032,
+        "group": "",
+        "quota": {
+            "limit": 35,
+            "additional": 5
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 10,
+                "to": 12,
+                "campus": "本部",
+                "classroom": "綜914"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 2,
+        "name": "３Ｄ電腦動畫（二）",
+        "teachers": [
+            "周賢彬"
+        ],
+        "department": "TU68",
+        "code": "VDU0175",
+        "credit": 2,
+        "serial": 3033,
+        "group": "",
+        "quota": {
+            "limit": 30,
+            "additional": 0
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 1,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "教404"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎必須先修過【VDU0174  ３Ｄ電腦動畫（一）】",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 2,
+        "name": "商業攝影",
+        "teachers": [
+            "陳漢元"
+        ],
+        "department": "TU68",
+        "code": "VDU0178",
+        "credit": 2,
+        "serial": 3034,
+        "group": "",
+        "quota": {
+            "limit": 35,
+            "additional": 11
+        },
+        "schedule": [
+            {
+                "day": 6,
+                "from": 3,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "設計系2A教室"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎必須先修過【VDU0177  攝影】",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 2,
+        "name": "產品設計（二）",
+        "teachers": [
+            "鄧建國"
+        ],
+        "department": "TU68",
+        "code": "VDU0193",
+        "credit": 3,
+        "serial": 3035,
+        "group": "",
+        "quota": {
+            "limit": 35,
+            "additional": 5
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 6,
+                "to": 8,
+                "campus": "本部",
+                "classroom": "設計系2B教室"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎必須先修過【VDU0192  產品設計（一）】",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 2,
+        "name": "室內設計（一）",
+        "teachers": [
+            "長友大輔"
+        ],
+        "department": "TU68",
+        "code": "VDU0196",
+        "credit": 2,
+        "serial": 3036,
+        "group": "",
+        "quota": {
+            "limit": 35,
+            "additional": 5
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 6,
+                "to": 7,
+                "campus": "本部",
+                "classroom": "設計系2A教室"
+            }
+        ],
+        "programs": [
+            "室內設計學程"
+        ],
+        "comment": "",
+        "restrict": "",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 2,
+        "name": "視覺傳達設計（二）",
+        "teachers": [
+            "施令紅"
+        ],
+        "department": "TU68",
+        "code": "VDU0201",
+        "credit": 3,
+        "serial": 3037,
+        "group": "",
+        "quota": {
+            "limit": 35,
+            "additional": 5
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 6,
+                "to": 8,
+                "campus": "本部",
+                "classroom": "綜914"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎必須先修過【VDU0200  視覺傳達設計（一）】",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 2,
+        "name": "媒體設計（二）",
+        "teachers": [
+            "葛昌惠"
+        ],
+        "department": "TU68",
+        "code": "VDU0207",
+        "credit": 2,
+        "serial": 3038,
+        "group": "",
+        "quota": {
+            "limit": 40,
+            "additional": 5
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 6,
+                "to": 7,
+                "campus": "本部",
+                "classroom": "綜1001"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎必須先修過【VDU0206  媒體設計（一）】",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 2,
+        "name": "住宅設計專題",
+        "teachers": [
+            "劉大章"
+        ],
+        "department": "TU68",
+        "code": "VDU0210",
+        "credit": 2,
+        "serial": 3039,
+        "group": "",
+        "quota": {
+            "limit": 35,
+            "additional": 5
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 1,
+                "to": 2,
+                "campus": "本部",
+                "classroom": "設計系2A教室"
+            }
+        ],
+        "programs": [
+            "室內設計學程"
+        ],
+        "comment": "",
+        "restrict": "",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 2,
+        "name": "網頁設計（二）",
+        "teachers": [
+            "李宗青"
+        ],
+        "department": "TU68",
+        "code": "VDU0215",
+        "credit": 3,
+        "serial": 3040,
+        "group": "",
+        "quota": {
+            "limit": 40,
+            "additional": 5
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 10,
+                "to": 12,
+                "campus": "本部",
+                "classroom": "綜1001"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎必須先修過【VDU0214  網頁設計（一）】",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 2,
+        "name": "表現技法（二）",
+        "teachers": [
+            "李延祥"
+        ],
+        "department": "TU68",
+        "code": "VDU0247",
+        "credit": 2,
+        "serial": 3041,
+        "group": "",
+        "quota": {
+            "limit": 35,
+            "additional": 5
+        },
+        "schedule": [
+            {
+                "day": 5,
+                "from": 6,
+                "to": 7,
+                "campus": "本部",
+                "classroom": "設計系2B教室"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎必須先修過【VDU0246  表現技法（一）】",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 2,
+        "name": "產品表現技法（二）",
+        "teachers": [
+            "周育潤"
+        ],
+        "department": "TU68",
+        "code": "VDU0249",
+        "credit": 3,
+        "serial": 3042,
+        "group": "",
+        "quota": {
+            "limit": 35,
+            "additional": 5
+        },
+        "schedule": [
+            {
+                "day": 5,
+                "from": 2,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "設計系2B教室"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎必須先修過【VDU0248  產品表現技法（一）】",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 2,
+        "name": "創新設計（二）",
+        "teachers": [
+            "長友大輔"
+        ],
+        "department": "TU68",
+        "code": "VDU0254",
+        "credit": 3,
+        "serial": 3043,
+        "group": "",
+        "quota": {
+            "limit": 35,
+            "additional": 5
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 2,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "設計系2B教室"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎必須先修過【VDU0253  創新設計（一）】",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 2,
+        "name": "包裝設計（二）",
+        "teachers": [
+            "蘇文清"
+        ],
+        "department": "TU68",
+        "code": "VDU0091",
+        "credit": 2,
+        "serial": 3044,
+        "group": "",
+        "quota": {
+            "limit": 35,
+            "additional": 5
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 8,
+                "to": 9,
+                "campus": "本部",
+                "classroom": "設計系3A教室"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎必須先修過【VDU0090  包裝設計（一）】",
+        "form_s": "3",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 2,
+        "name": "廣告設計（二）",
+        "teachers": [
+            "劉建成"
+        ],
+        "department": "TU68",
+        "code": "VDU0105",
+        "credit": 2,
+        "serial": 3045,
+        "group": "",
+        "quota": {
+            "limit": 35,
+            "additional": 5
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 8,
+                "to": 9,
+                "campus": "本部",
+                "classroom": "設計系3A教室"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎必須先修過【VDU0104  廣告設計（一）】",
+        "form_s": "3",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 2,
+        "name": "視覺識別系統（二）",
+        "teachers": [
+            "林俊良"
+        ],
+        "department": "TU68",
+        "code": "VDU0138",
+        "credit": 2,
+        "serial": 3046,
+        "group": "",
+        "quota": {
+            "limit": 35,
+            "additional": 5
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 6,
+                "to": 7,
+                "campus": "本部",
+                "classroom": "設計系3A教室"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎必須先修過【VDU0137  視覺識別系統（一）】",
+        "form_s": "3",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 2,
+        "name": "影音媒體創作（二）",
+        "teachers": [
+            "葛昌惠"
+        ],
+        "department": "TU68",
+        "code": "VDU0142",
+        "credit": 2,
+        "serial": 3047,
+        "group": "",
+        "quota": {
+            "limit": 40,
+            "additional": 5
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 8,
+                "to": 9,
+                "campus": "本部",
+                "classroom": "綜1001"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎必須先修過【VDU0141  影音媒體創作（一）】",
+        "form_s": "3",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 2,
+        "name": "設計實務與估價",
+        "teachers": [
+            "劉大章"
+        ],
+        "department": "TU68",
+        "code": "VDU0171",
+        "credit": 2,
+        "serial": 3048,
+        "group": "",
+        "quota": {
+            "limit": 35,
+            "additional": 5
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 3,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "設計系2A教室"
+            }
+        ],
+        "programs": [
+            "室內設計學程"
+        ],
+        "comment": "",
+        "restrict": "",
+        "form_s": "3",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 2,
+        "name": "３Ｄ動畫創作（二）",
+        "teachers": [
+            "呂奇駿"
+        ],
+        "department": "TU68",
+        "code": "VDU0182",
+        "credit": 2,
+        "serial": 3049,
+        "group": "",
+        "quota": {
+            "limit": 35,
+            "additional": 5
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 2,
+                "to": 3,
+                "campus": "本部",
+                "classroom": "設計系3A教室"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "3",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 2,
+        "name": "動畫角色設計",
+        "teachers": [
+            "呂奇駿"
+        ],
+        "department": "TU68",
+        "code": "VDU0229",
+        "credit": 2,
+        "serial": 3050,
+        "group": "",
+        "quota": {
+            "limit": 35,
+            "additional": 5
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 4,
+                "to": 5,
+                "campus": "本部",
+                "classroom": "設計系3A教室"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "3",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 2,
+        "name": "進階產品設計（二）",
+        "teachers": [
+            "梁桂嘉",
+            "王千睿"
+        ],
+        "department": "TU68",
+        "code": "VDU0233",
+        "credit": 6,
+        "serial": 3051,
+        "group": "",
+        "quota": {
+            "limit": 35,
+            "additional": 5
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 6,
+                "to": 8,
+                "campus": "本部",
+                "classroom": "設計系3A教室"
+            },
+            {
+                "day": 5,
+                "from": 2,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "綜914"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎必須先修過【VDU0232  進階產品設計（一）】",
+        "form_s": "3",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 2,
+        "name": "畢業專題企劃",
+        "teachers": [
+            "鄧建國",
+            "薛佑廷"
+        ],
+        "department": "TU68",
+        "code": "VDU0252",
+        "credit": 2,
+        "serial": 3053,
+        "group": "",
+        "quota": {
+            "limit": 40,
+            "additional": 5
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 3,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "設計系3A教室"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎必須先修過【VDU0019  電腦繪圖】",
+        "form_s": "3",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 2,
+        "name": "設計畢業製作（二）",
+        "teachers": [
+            "劉建成"
+        ],
+        "department": "TU68",
+        "code": "VDU0180",
+        "credit": 2,
+        "serial": 3054,
+        "group": "A",
+        "quota": {
+            "limit": 35,
+            "additional": 5
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 1,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "設計系3B教室"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎必須先修過【VDU0179  設計畢業製作（一）】",
+        "form_s": "4",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 2,
+        "name": "設計畢業製作（二）",
+        "teachers": [
+            "王千睿"
+        ],
+        "department": "TU68",
+        "code": "VDU0180",
+        "credit": 2,
+        "serial": 3055,
+        "group": "B",
+        "quota": {
+            "limit": 35,
+            "additional": 5
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 6,
+                "to": 9,
+                "campus": "本部",
+                "classroom": "設計系3B教室"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎必須先修過【VDU0179  設計畢業製作（一）】",
+        "form_s": "4",
+        "classes": "",
+        "dept_group": ""
+    }
+]

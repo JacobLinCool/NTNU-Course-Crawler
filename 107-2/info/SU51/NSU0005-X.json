@@ -1,0 +1,73 @@
+{
+    "year": 107,
+    "term": 2,
+    "name": "有機化學實驗",
+    "teachers": [
+        "陳焜銘"
+    ],
+    "department": "SU51",
+    "code": "NSU0005",
+    "credit": 1,
+    "serial": 2966,
+    "group": "",
+    "quota": {
+        "limit": 30,
+        "additional": 4
+    },
+    "schedule": [
+        {
+            "day": 3,
+            "from": 8,
+            "to": 10,
+            "campus": "公館",
+            "classroom": "Ｄ409"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "1",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "訓練學生有機化學實驗操作的技巧，並培養實驗正確的實驗態度以及獨立思考和解決問題能力。此外，如何使學生學習撰寫有機化學實驗記錄和報告亦是此課程重要一環。評量方式以實驗操作，報告，實驗態度，出席率，值日組工作及考試為主。",
+    "goals": [
+        "訓練學生有機化學實驗操作的技巧，並培養實驗正確的實驗態度以及獨立思考和解決問題能力"
+    ],
+    "syllabus": "Exp.1 Simple Distillation of Ethanol Compound\n\nExp.2 Extraction with Solvents: Separation of Benzoic Acid and Acetanilide\n\n### Exp.3 Chromatography: 1. TLC\n\nSynthesis α-methylbenzyl alcohol from Acetophenone\n\n### Exp.4 Chromatography: 2. FC\n\nImprovements in the Separation of _β_\\-Carotene and Lycopene by Column Chromatography\n\nExp.5 Identification of Organic Compounds:\n\nA.Hydrocarbons: (1)Permanganate Test(Baeyer Test) (2)Bromine Test(demo.)\n\nB.Alkyl Halides: (1)Alcoholic Silver Nitrate (2)Sodium Iodide in Acetone\n\nExp.6 Functional Group Identification (alcohols):\n\nA.Ritter Test B.Lucas Test C.Iodoform Test\n\nExp.7 Functional Group Identification (Ald & Ketones):\n\nA. 2,4-Dinitrophenylhydrazone Test\n\nB. Tollen’s Reagent (Silver mirror Test)\n\nC. Schiff’s Fuchsin Test\n\nExp.8 Preparation of Poly Vinyl Alcohol\n\nExp.9 Preparation of Azo Dyes: Methyl Orange Ⅱ\n\nExp.10 Unknown Sugar Solution Test",
+    "methodologies": [
+        {
+            "type": "實驗/實作",
+            "note": "撰寫有機化學實驗記錄和報告"
+        }
+    ],
+    "grading": [
+        {
+            "type": "期中考",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "出席",
+            "weight": 10,
+            "note": ""
+        },
+        {
+            "type": "報告",
+            "weight": 25,
+            "note": ""
+        },
+        {
+            "type": "其他",
+            "weight": 5,
+            "note": "實驗操作與態度、值日組工作"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

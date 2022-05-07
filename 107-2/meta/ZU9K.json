@@ -1,0 +1,310 @@
+[
+    {
+        "year": 107,
+        "term": 2,
+        "name": "高級教育統計學（甲）",
+        "teachers": [
+            "盧雪梅"
+        ],
+        "department": "E",
+        "code": "E0C8001",
+        "credit": 3,
+        "serial": 362,
+        "group": "A",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 8,
+                "to": 10,
+                "campus": "本部",
+                "classroom": "教室自排"
+            }
+        ],
+        "programs": [
+            "大數據學程"
+        ],
+        "comment": "上課教室：教育學院第三會議室",
+        "restrict": "◎必須先修過【E0U0001  教育統計學（一）】 ◎課程不開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "高級教育統計學（甲）",
+        "teachers": [
+            "郭郡羽"
+        ],
+        "department": "E",
+        "code": "E0C8001",
+        "credit": 3,
+        "serial": 363,
+        "group": "B",
+        "quota": {
+            "limit": 40,
+            "additional": 30
+        },
+        "schedule": [
+            {
+                "day": 5,
+                "from": 2,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "樸301"
+            }
+        ],
+        "programs": [
+            "大數據學程"
+        ],
+        "comment": "",
+        "restrict": "◎必須先修過【E0U0001  教育統計學（一）】 ◎課程不開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "高級教育統計學（乙）",
+        "teachers": [
+            "鄭淑惠"
+        ],
+        "department": "E",
+        "code": "E0C8002",
+        "credit": 3,
+        "serial": 364,
+        "group": "A",
+        "quota": {
+            "limit": 30,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 5,
+                "from": 3,
+                "to": 5,
+                "campus": "本部",
+                "classroom": "教402"
+            }
+        ],
+        "programs": [
+            "大數據學程"
+        ],
+        "comment": "",
+        "restrict": "◎課程不開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "數位科技在教學與評量的應用",
+        "teachers": [
+            "劉子鍵"
+        ],
+        "department": "EM01",
+        "code": "PCC8010",
+        "credit": 3,
+        "serial": 441,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 8,
+                "to": 10,
+                "campus": "本部",
+                "classroom": "教621"
+            }
+        ],
+        "programs": [
+            "大數據學程"
+        ],
+        "comment": "",
+        "restrict": "◎課程不開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "資訊科技融入教學導論",
+        "teachers": [
+            "邱瓊慧"
+        ],
+        "department": "EM08",
+        "code": "ICC0076",
+        "credit": 3,
+        "serial": 506,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 7,
+                "to": 9,
+                "campus": "本部",
+                "classroom": "教1004"
+            }
+        ],
+        "programs": [
+            "大數據學程"
+        ],
+        "comment": "",
+        "restrict": "◎課程開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "數位教學設計",
+        "teachers": [
+            "張國恩",
+            "邱瓊慧",
+            "陳志洪"
+        ],
+        "department": "EM08",
+        "code": "ICC0080",
+        "credit": 3,
+        "serial": 507,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 7,
+                "to": 9,
+                "campus": "本部",
+                "classroom": "教1011"
+            }
+        ],
+        "programs": [
+            "大數據學程"
+        ],
+        "comment": "",
+        "restrict": "◎課程開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "數位學習評鑑",
+        "teachers": [
+            "張欣怡"
+        ],
+        "department": "EM08",
+        "code": "ICC0085",
+        "credit": 3,
+        "serial": 508,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 2,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "教1004"
+            }
+        ],
+        "programs": [
+            "大數據學程"
+        ],
+        "comment": "",
+        "restrict": "◎課程開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "行動學習",
+        "teachers": [
+            "梁至中"
+        ],
+        "department": "EM08",
+        "code": "ICC0091",
+        "credit": 3,
+        "serial": 511,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 3,
+                "to": 5,
+                "campus": "本部",
+                "classroom": "教1011"
+            }
+        ],
+        "programs": [
+            "大數據學程"
+        ],
+        "comment": "",
+        "restrict": "◎課程開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "資料分析（二）",
+        "teachers": [
+            "譚克平"
+        ],
+        "department": "SM45",
+        "code": "SEC0040",
+        "credit": 3,
+        "serial": 2671,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 10,
+                "to": 12,
+                "campus": "公館",
+                "classroom": "教室自排"
+            }
+        ],
+        "programs": [
+            "大數據學程"
+        ],
+        "comment": "本課程希望具備科學教育或數學教育背景的同學選修",
+        "restrict": "◎課程不開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    }
+]

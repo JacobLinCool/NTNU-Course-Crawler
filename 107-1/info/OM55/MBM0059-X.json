@@ -1,0 +1,80 @@
+{
+    "year": 107,
+    "term": 1,
+    "name": "個人理財",
+    "teachers": [
+        "賴慧文"
+    ],
+    "department": "OM55",
+    "code": "MBM0059",
+    "credit": 3,
+    "serial": 2419,
+    "group": "",
+    "quota": {
+        "limit": 30,
+        "additional": 15
+    },
+    "schedule": [
+        {
+            "day": 4,
+            "from": 10,
+            "to": 12,
+            "campus": "本部",
+            "classroom": "教室自排"
+        }
+    ],
+    "programs": [],
+    "comment": "上課教室：雲508室",
+    "restrict": "◎必須先修過【MBM0063  投資學】、【BAU0053  投資學】其中一門 ◎課程不開放上修",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "學生將學習到資產配置、投資與財務實務應用等個人財務規劃，並培養學生具備大數據分析及演算法應用實務基礎能力。",
+    "goals": [
+        "培養學生具備大數據分析及演算法應用實務基礎能力",
+        "透過實作與大數據應用，理論實務結合"
+    ],
+    "syllabus": "**簡介**: 國際與我國資產管理應用金融科技發展趨勢\n\n**Part 1:** **資產管理程式語言應用與演算法**\n\nR語言簡介、常用程式技巧、與常用圖形函數\n\n常用的資料探勘技術\n\n常用監督學習及集成學習演算法\n\n**Part 2:** **投資與財務實務應用**\n\n股市預測分析應用\n\n投資組合實務應用\n\n風險管理實務應用\n\n交易策略建構與回測實務\n\n**Part 3****資產管理行銷實務應用**\n\n消費者行為分析與模式\n\n社群輿情語意分析\n\n銷售分析與產品推薦系統\n\n**Part 4 期末分組報告**",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "課堂授課"
+        },
+        {
+            "type": "討論法",
+            "note": "金融科技案例探討"
+        },
+        {
+            "type": "問題解決教學",
+            "note": "大數據應用: 配合本課程及實作，為利學生應用數據深入學習資產管理相關議題，如交易(避險或套利)策略、資產配置、風險管理、基金投資與行銷及其他等，相關大數據來源，會與證券暨期貨市場發展基金會合作與洽商。"
+        },
+        {
+            "type": "實驗/實作",
+            "note": "本課程配合主題，規劃實作演練，以使學生熟悉大數據分析及演算法之程式語法及套件之應用。"
+        },
+        {
+            "type": "專題研究",
+            "note": "為使學生應用本學分課程所學，規劃資產管理大數據分析應用實務分組活動；學生分組就資產管理相關議題，如交易(避險或套利)策略、資產配置、風險管理、基金投資與行銷及其他等，完成應用專題報告並於期末簡報。"
+        }
+    ],
+    "grading": [
+        {
+            "type": "課堂討論參與",
+            "weight": 10,
+            "note": "2-1 Able to make persuasive oral communication in the business context. ( MLO 2.1)"
+        },
+        {
+            "type": "報告",
+            "weight": 40,
+            "note": "實作演練／1-6 Able to employ the main quantitative techniques to elicit valuable information from business data to facilitate financial/marketing decision making ( MLO 6.3)"
+        },
+        {
+            "type": "專題",
+            "weight": 50,
+            "note": "2-1 Able to make persuasive oral communication in the business context. ( MLO 2.1)"
+        }
+    ],
+    "prerequisite": "◎必須先修過【MBM0063  投資學】、【BAU0053  投資學】其中一門",
+    "general_core": []
+}

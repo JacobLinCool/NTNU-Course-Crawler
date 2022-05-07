@@ -1,0 +1,82 @@
+{
+    "year": 110,
+    "term": 1,
+    "name": "進階社會統計",
+    "teachers": [
+        "沈慶盈"
+    ],
+    "department": "IM89",
+    "code": "SWM0003",
+    "credit": 3,
+    "serial": 1461,
+    "group": "",
+    "quota": {
+        "limit": 28,
+        "additional": 2
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 8,
+            "to": 10,
+            "campus": "本部",
+            "classroom": "教404"
+        }
+    ],
+    "programs": [],
+    "comment": "大三、大四學生可使用授權碼修習(需先修習過初級統計)",
+    "restrict": "◎課程不開放上修",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程的設計是考量社會工作碩士生的研究需要，以及未來實務工作上\n 的需要而選定教授的統計方法。此外本課程重視實際上機操作的能力，也強調\n 報表解讀的能力。",
+    "goals": [
+        "瞭解社會統計",
+        "學習運用SPSS",
+        "希望同學能掌握統計知識與熟習電腦的運用，以便在碩士論文或其他研究中獨立進行統計分析。"
+    ],
+    "syllabus": "【授課方式：16+2週】\n\n**若線上上課，上課網址為：[https://meet.google.com/uxy-vdnu-axu](https://meet.google.com/uxy-vdnu-axu)**\n\n1**.課程介紹**(Introduction) ：**科學研究與量化方法**                      \n\n2.**統計基本概念與測量**  Basic Statistics and Measurement Concepts\n\n3.**資料建立與檢核**  \n\n4.**描述統計**  Descriptive Statistics/Frequency Distributions\n\n5.**類別資料分析---卡方考驗** Categorical Data Analysis: Chi-Square.\n\n6.**平均數的差異檢定---t考驗與變異分析** t-test  ＆ ANOVA\n\n7\\. **多因子變異分析** Multiple Factorial ANOVA\n\n8.期中考(Midterm Exam)\n\n9.**線性關係的分析—相關/線性迴歸分析**/邏輯迴歸分析(logistic regression analysis)  Linear Relationships：correlation/ linear Regression/ logistic regression analysis.\n\n10\\. **多元迴歸分析**            \n\n11.**中介與調節** \n\n12\\. **項目分析與信度估計** Item analysis & Reliability estimation \n\n13.**因素分析/探索性因素分析** Factor analysis（EFA）\n\n14.**驗證性因素分析**（CFA）/集群分析 Factor analysis/CFA/ cluster analysis\n\n15.**各項研究設計的統計分析**\n\n16\\. 口頭**報告**\n\n**17.自主學期：撰寫及修訂期末報告**\n\n18**.自主學期：撰寫及修訂期末報告**",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "教師講授"
+        },
+        {
+            "type": "討論法",
+            "note": "課堂問題與討論"
+        },
+        {
+            "type": "實驗/實作",
+            "note": "上機完成作業"
+        },
+        {
+            "type": "專題研究",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 25,
+            "note": "課堂及上機作業"
+        },
+        {
+            "type": "期中考",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "出席",
+            "weight": 10,
+            "note": ""
+        },
+        {
+            "type": "專題",
+            "weight": 35,
+            "note": "專題報告：根據一個既有研究資料檔，自訂研究架構及整合變項（需有至少八個自變項，含名義，次序及等距變項及一個依變項），進行分析，撰寫量化研究報告一篇"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

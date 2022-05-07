@@ -1,0 +1,79 @@
+{
+    "year": 110,
+    "term": 2,
+    "name": "書報討論（二）",
+    "teachers": [
+        "呂家榮"
+    ],
+    "department": "SM42",
+    "code": "CMM0002",
+    "credit": 2,
+    "serial": 2633,
+    "group": "C",
+    "quota": {
+        "limit": 40,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 3,
+            "from": 3,
+            "to": 4,
+            "campus": "公館",
+            "classroom": "Ｓ301"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "允許重複修 ◎課程開放上修",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 2,
+    "description": "1.To train stusents with the skills in presentation. 2.To help students understand the methodology and presentation presented by the authors in the most rently reserach papers. 3.To train students how to evaluate and appreciate the research papers. 4. To train students to do the effective oral presentation in the public.",
+    "goals": [
+        "To train students with the skills in presentation.",
+        "To help students understand the methodology and presentation presented by the authors in the most rently reserach papers",
+        "To train students how to evaluate and appreciate the research papers.",
+        "To train students to do the effective oral presentation in the public."
+    ],
+    "syllabus": "Week 1.  Course Instruction  \nWeek 2.  Literature Search\n\nWeek 3. Power point preparation\n\nWeek 4-14. Student Group  presentation, Q&A, Discussion\n\nWeek 14-16.  Make up presentation & Questions",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "Student Presentation"
+        },
+        {
+            "type": "討論法",
+            "note": "Q & A"
+        },
+        {
+            "type": "媒體融入教學",
+            "note": "PPT projection"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 5,
+            "note": "Power Point Slides"
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 30,
+            "note": "Questions, Answers and Discussion"
+        },
+        {
+            "type": "出席",
+            "weight": 5,
+            "note": "Absence no more than 2 weeks"
+        },
+        {
+            "type": "報告",
+            "weight": 60,
+            "note": "Oral Presentation"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

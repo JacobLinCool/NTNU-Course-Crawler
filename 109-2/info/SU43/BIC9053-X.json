@@ -1,0 +1,72 @@
+{
+    "year": 109,
+    "term": 2,
+    "name": "癌症生物學研究法",
+    "teachers": [
+        "王麗婷"
+    ],
+    "department": "SU43",
+    "code": "BIC9053",
+    "credit": 3,
+    "serial": 2913,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 3,
+            "from": 6,
+            "to": 8,
+            "campus": "公館",
+            "classroom": "Ｃ004"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "",
+    "classes": "9",
+    "dept_group": "",
+    "hours": 3,
+    "description": "以介紹癌症領域基本研究方法及實驗技術,使大學生及碩士班研究生均具備從事未來生物醫學研究的基本學識與實驗技巧。",
+    "goals": [
+        "教授癌症實驗研究技術，使藉由傳授生命科學實驗方法的原理應用及熟悉基礎癌症研究技術，儀器操作原理及應用。 內容以介紹生醫領域基本研究方法及實驗技術,使大學生及碩士班生均具備從事未來生物醫學研究的基本學識與實驗技巧。教學設計主要為基礎誘導教育，由於分子生物技術為現今生命科學研究不可或缺之有力工具，因此授課重點內容涵蓋自組織或細胞抽取DNA、RNA"
+    ],
+    "syllabus": "第1週: Introduction\n\n第2週: PCR, DNA Sequencing, Mutagenesis\n\n第3週: Gene Expression Analysis – RNA Techniques\n\n第4週: Recombinant DNA Techniques\n\n第5週: Gene Activity – Epigenomics & Promoter Assay\n\n第6週: RNA Interference\n\n第7週: Gene & Cell Therapy\n\n第8週: Gene Expression Analysis - Protein Techniques\n\n第9週: Mid Exam\n\n第10週: Protein Interaction\n\n第11週: Disease Animal Model\n\n第12週: Cell culture\n\n第13週: Flow Cytometry\n\n第14週: Oral presentation\n\n第15週: Oral presentation\n\n第16週: Oral presentation\n\n第17週: Oral presentation\n\n第18週: Final Exam",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": "學生選擇癌症相關生物醫學期刊, 並於期末時報告,討論與老師講評。\n報告模式:每篇期刊簡介~10分鐘\n1.Title請以英文唸出後，再以簡要中文解釋。\n2.解釋本篇Paper的研究目的 。\n3.解釋本篇Paper如何設計實驗 (最好自行畫一張流程圖) 。\n4.結果(挑本篇內容2~4張代表性的圖表及說明代表性的技術)及結論。\n5.此成果對癌症有何應用性與貢獻性。\n6.綜合討論"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 40,
+            "note": "於課後繳交學習心得告"
+        },
+        {
+            "type": "出席",
+            "weight": 10,
+            "note": ""
+        },
+        {
+            "type": "報告",
+            "weight": 40,
+            "note": "學生選擇癌症相關生物醫學期刊, 並於期末時報告,討論與老師講評，成績老師與學生評分各佔一半"
+        },
+        {
+            "type": "其他",
+            "weight": 10,
+            "note": "問題提問\n2. 建議選擇Impact factor>5 (Nature系列、Science、Cell……)\n3.於報告前一週將paper寄給大家"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

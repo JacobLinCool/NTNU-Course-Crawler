@@ -1,0 +1,82 @@
+{
+    "year": 108,
+    "term": 2,
+    "name": "合奏教學法（二）",
+    "teachers": [
+        "葉樹涵"
+    ],
+    "department": "MU90",
+    "code": "MUU0322",
+    "credit": 2,
+    "serial": 2301,
+    "group": "C",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 4,
+            "from": 10,
+            "to": 13,
+            "campus": "本部",
+            "classroom": "綜601"
+        }
+    ],
+    "programs": [],
+    "comment": "限大四修習",
+    "restrict": "◎限大四修習",
+    "form_s": "4",
+    "classes": "",
+    "dept_group": "",
+    "hours": 4,
+    "description": "1.Overture, Symphony, Suite......等管絃樂作品\n2.協奏曲及各類伴奏樂曲\n3.國人作品及其他各類樂曲",
+    "goals": [
+        "Overture, Symphony, Suite......等管絃樂作品",
+        "協奏曲及各類伴奏樂曲",
+        "國人作品及其他各類樂曲"
+    ],
+    "syllabus": "管樂團基本組織及編制\n\n管樂音樂的歷史與發展\n\n學校樂隊組訓\n\n管樂基本技巧訓練教材研究(Best in class, YAHAMA(?) Band Method. )\n\n管樂團高級合奏訓練教材研究(3D, Treasure in Scales, Technique through Melody)\n\nConcert Band基本曲目研究：\n\n傳統曲目\n\n進行曲\n\n近代曲目\n\n世界著名管樂團介紹及欣賞\n\n管樂資訊來源\n\n管樂團經營要領：\n\n行政管理\n\n譜務管理\n\n樂器、器材管理\n\n比賽、演奏會曲目安排\n\n公關新聞事務",
+    "methodologies": [
+        {
+            "type": "問題解決教學",
+            "note": ""
+        },
+        {
+            "type": "合作學習",
+            "note": ""
+        },
+        {
+            "type": "實驗/實作",
+            "note": ""
+        },
+        {
+            "type": "媒體融入教學",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "課堂討論參與",
+            "weight": 10,
+            "note": "與同學互相討論"
+        },
+        {
+            "type": "出席",
+            "weight": 50,
+            "note": "每堂課均統計出缺席"
+        },
+        {
+            "type": "報告",
+            "weight": 25,
+            "note": "樂團訓練報告，或現有樂團觀察報告"
+        },
+        {
+            "type": "成果展覽",
+            "weight": 15,
+            "note": "期末實際指揮樂團"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

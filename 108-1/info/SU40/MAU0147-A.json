@@ -1,0 +1,85 @@
+{
+    "year": 108,
+    "term": 1,
+    "name": "統計學（一）",
+    "teachers": [
+        "張少同"
+    ],
+    "department": "SU40",
+    "code": "MAU0147",
+    "credit": 3,
+    "serial": 2852,
+    "group": "A",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 3,
+            "from": 6,
+            "to": 8,
+            "campus": "公館",
+            "classroom": "Ｃ004"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "3",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程介紹敘述統計與推論統計，包括進行母體參數估計及假設檢定的統計理論基礎。內容包括母群體平均數、變異數等參數的點估計、區間估計及假設檢定。",
+    "goals": [
+        "介紹統計學的理論基礎",
+        "學習基本資料分析的能力",
+        "培養解決統計問題的能力",
+        "了解不確定性"
+    ],
+    "syllabus": " 每週主題(各一週，期中期末考各一週，共18週)01 敘述統計02 統計量與樣本分配03 平均數估計04 變異數估計05 比例估計06 區間估計07 樣本大小估算08 無母數估計法09 假設檢定概念10 平均值的檢定11 變異數的檢定12 比例的檢定13 無母數中位數檢定14 卡方檢定15 簡單線性迴歸16 變異數分析",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 10,
+            "note": ""
+        },
+        {
+            "type": "期中考",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 5,
+            "note": ""
+        },
+        {
+            "type": "出席",
+            "weight": 5,
+            "note": ""
+        },
+        {
+            "type": "其他",
+            "weight": 20,
+            "note": "小考"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

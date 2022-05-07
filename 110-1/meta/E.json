@@ -1,0 +1,619 @@
+[
+    {
+        "year": 110,
+        "term": 1,
+        "name": "教育統計學（一）",
+        "teachers": [
+            "陳心怡"
+        ],
+        "department": "E",
+        "code": "E0U0001",
+        "credit": 2,
+        "serial": 322,
+        "group": "A",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 3,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "特115"
+            }
+        ],
+        "programs": [
+            "學習與資訊學程"
+        ],
+        "comment": "",
+        "restrict": "",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 1,
+        "name": "教育統計學（一）",
+        "teachers": [
+            "林小慧"
+        ],
+        "department": "E",
+        "code": "E0U0001",
+        "credit": 2,
+        "serial": 323,
+        "group": "B",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 3,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "樸301"
+            }
+        ],
+        "programs": [
+            "學習與資訊學程"
+        ],
+        "comment": "",
+        "restrict": "",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 1,
+        "name": "教育統計學（一）",
+        "teachers": [
+            "郭郡羽"
+        ],
+        "department": "E",
+        "code": "E0U0001",
+        "credit": 2,
+        "serial": 324,
+        "group": "C",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 3,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "教401"
+            }
+        ],
+        "programs": [
+            "學習與資訊學程"
+        ],
+        "comment": "",
+        "restrict": "",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 1,
+        "name": "教育統計學（一）",
+        "teachers": [
+            "吳清麟"
+        ],
+        "department": "E",
+        "code": "E0U0001",
+        "credit": 2,
+        "serial": 325,
+        "group": "D",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 3,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "樸401"
+            }
+        ],
+        "programs": [
+            "學習與資訊學程"
+        ],
+        "comment": "",
+        "restrict": "",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 1,
+        "name": "教育統計學（一）",
+        "teachers": [
+            "楊智元"
+        ],
+        "department": "E",
+        "code": "E0U0001",
+        "credit": 2,
+        "serial": 326,
+        "group": "E",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 8,
+                "to": 9,
+                "campus": "本部",
+                "classroom": "誠305"
+            }
+        ],
+        "programs": [
+            "學習與資訊學程"
+        ],
+        "comment": "",
+        "restrict": "",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 1,
+        "name": "教育統計學（二）",
+        "teachers": [
+            "張凌嘉"
+        ],
+        "department": "E",
+        "code": "E0U0002",
+        "credit": 2,
+        "serial": 327,
+        "group": "A",
+        "quota": {
+            "limit": 45,
+            "additional": 5
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 6,
+                "to": 7,
+                "campus": "本部",
+                "classroom": "教402"
+            }
+        ],
+        "programs": [
+            "學習與資訊學程"
+        ],
+        "comment": "",
+        "restrict": "◎必須先修過【E0U0001  教育統計學（一）】、【05UG020  統計學】其中一門",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 1,
+        "name": "教育統計學（二）",
+        "teachers": [
+            "譚克平"
+        ],
+        "department": "E",
+        "code": "E0U0002",
+        "credit": 2,
+        "serial": 328,
+        "group": "B",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 6,
+                "to": 7,
+                "campus": "本部",
+                "classroom": "教513"
+            }
+        ],
+        "programs": [
+            "學習與資訊學程"
+        ],
+        "comment": "",
+        "restrict": "◎必須先修過【E0U0001  教育統計學（一）】、【05UG020  統計學】其中一門",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 1,
+        "name": "社區高齡者健康服務實務",
+        "teachers": [
+            "蔡昕璋"
+        ],
+        "department": "E",
+        "code": "E0U0004",
+        "credit": 2,
+        "serial": 329,
+        "group": "",
+        "quota": {
+            "limit": 45,
+            "additional": 3
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 16,
+                "to": 10,
+                "campus": "本部",
+                "classroom": "誠106"
+            }
+        ],
+        "programs": [
+            "高齡學程"
+        ],
+        "comment": "◎進階服務學習",
+        "restrict": "",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 1,
+        "name": "高級教育統計學（甲）",
+        "teachers": [
+            "劉振維"
+        ],
+        "department": "E",
+        "code": "E0C8001",
+        "credit": 3,
+        "serial": 330,
+        "group": "A",
+        "quota": {
+            "limit": 38,
+            "additional": 2
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 2,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "教育學院第2會議室-大"
+            }
+        ],
+        "programs": [
+            "學習與資訊學程",
+            "大數據學程"
+        ],
+        "comment": "需要有基礎的統計知識，或是修畢統計相關課程。",
+        "restrict": "◎課程不開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 1,
+        "name": "高級教育統計學（甲）",
+        "teachers": [
+            "陳心怡"
+        ],
+        "department": "E",
+        "code": "E0C8001",
+        "credit": 3,
+        "serial": 331,
+        "group": "B",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 6,
+                "to": 8,
+                "campus": "本部",
+                "classroom": "特227"
+            }
+        ],
+        "programs": [
+            "學習與資訊學程",
+            "大數據學程"
+        ],
+        "comment": "需要有基礎的統計知識，或是修畢統計相關課程。",
+        "restrict": "◎課程不開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 1,
+        "name": "高級教育統計學（甲）",
+        "teachers": [
+            "林碧芳"
+        ],
+        "department": "E",
+        "code": "E0C8001",
+        "credit": 3,
+        "serial": 332,
+        "group": "C",
+        "quota": {
+            "limit": 28,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 2,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "教404"
+            }
+        ],
+        "programs": [
+            "學習與資訊學程",
+            "大數據學程"
+        ],
+        "comment": "需要有基礎的統計知識，或是修畢統計相關課程。",
+        "restrict": "◎課程不開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 1,
+        "name": "高級教育統計學（甲）",
+        "teachers": [
+            "梁至中"
+        ],
+        "department": "E",
+        "code": "E0C8001",
+        "credit": 3,
+        "serial": 333,
+        "group": "D",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 6,
+                "to": 8,
+                "campus": "本部",
+                "classroom": "正306"
+            }
+        ],
+        "programs": [
+            "學習與資訊學程",
+            "大數據學程"
+        ],
+        "comment": "需要有基礎的統計知識，或是修畢統計相關課程。",
+        "restrict": "◎課程不開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 1,
+        "name": "高級教育統計學（乙）",
+        "teachers": [
+            "何榮桂"
+        ],
+        "department": "E",
+        "code": "E0C8002",
+        "credit": 3,
+        "serial": 334,
+        "group": "A",
+        "quota": {
+            "limit": 38,
+            "additional": 2
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 6,
+                "to": 8,
+                "campus": "本部",
+                "classroom": "教403"
+            }
+        ],
+        "programs": [
+            "學習與資訊學程",
+            "大數據學程"
+        ],
+        "comment": "",
+        "restrict": "◎課程不開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 1,
+        "name": "高級教育統計學（乙）",
+        "teachers": [
+            "謝建成"
+        ],
+        "department": "E",
+        "code": "E0C8002",
+        "credit": 3,
+        "serial": 335,
+        "group": "B",
+        "quota": {
+            "limit": 25,
+            "additional": 5
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 2,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "圖資所研討室A"
+            }
+        ],
+        "programs": [
+            "學習與資訊學程",
+            "大數據學程"
+        ],
+        "comment": "",
+        "restrict": "◎課程不開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 1,
+        "name": "多變項分析統計法",
+        "teachers": [
+            "林正昌"
+        ],
+        "department": "E",
+        "code": "E0C8004",
+        "credit": 3,
+        "serial": 336,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 2,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "教619"
+            }
+        ],
+        "programs": [
+            "學習與資訊學程",
+            "大數據學程"
+        ],
+        "comment": "",
+        "restrict": "◎課程不開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 1,
+        "name": "結構方程模式",
+        "teachers": [
+            "林世華"
+        ],
+        "department": "E",
+        "code": "E0C8005",
+        "credit": 3,
+        "serial": 337,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 6,
+                "to": 8,
+                "campus": "本部",
+                "classroom": "教600"
+            }
+        ],
+        "programs": [
+            "大數據學程"
+        ],
+        "comment": "",
+        "restrict": "◎課程不開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 1,
+        "name": "產業見習與實作",
+        "teachers": [
+            "郭鐘隆"
+        ],
+        "department": "E",
+        "code": "E0C9004",
+        "credit": 2,
+        "serial": 338,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 0,
+                "from": -1,
+                "to": -1,
+                "campus": "",
+                "classroom": "1-4 本部 誠204"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎必須先修過【E0C9002  產業入門基礎概論】、【E0C9003  產業行銷技巧與策略實戰】其中一門",
+        "form_s": "",
+        "classes": "9",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 1,
+        "name": "產業實習與實作",
+        "teachers": [
+            "郭鐘隆"
+        ],
+        "department": "E",
+        "code": "E0C9005",
+        "credit": 2,
+        "serial": 339,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 6,
+                "from": 5,
+                "to": 8,
+                "campus": "本部",
+                "classroom": "誠204"
+            }
+        ],
+        "programs": [
+            "產業實習學程"
+        ],
+        "comment": "",
+        "restrict": "◎必須先修過【E0C9002  產業入門基礎概論】、【E0C9003  產業行銷技巧與策略實戰】其中一門",
+        "form_s": "",
+        "classes": "9",
+        "dept_group": ""
+    }
+]

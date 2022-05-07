@@ -1,0 +1,92 @@
+{
+    "year": 109,
+    "term": 2,
+    "name": "生物統計學",
+    "teachers": [
+        "李佩珍"
+    ],
+    "department": "SU43",
+    "code": "BIU0092",
+    "credit": 3,
+    "serial": 2935,
+    "group": "",
+    "quota": {
+        "limit": 35,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 4,
+            "from": 2,
+            "to": 4,
+            "campus": "公館",
+            "classroom": "理圖807"
+        }
+    ],
+    "programs": [
+        "空間學程"
+    ],
+    "comment": "",
+    "restrict": "",
+    "form_s": "3",
+    "classes": "2",
+    "dept_group": "",
+    "hours": 3,
+    "description": "This course is designed to introduce undergraduate students to the basic concepts and modern applications of statistical methods commonly used in biological and ecological studies.",
+    "goals": [
+        "Introduce to students the fundamental concepts and methods in modern biometry.",
+        "Develop students’ analytic ability and scientific attitudes towards hypothesis testing.",
+        "Provide trainings to students in scientific graphing and statistics software."
+    ],
+    "syllabus": "Week 1\n\n以R軟體進行資料分析入門\n\nIntroduction to data analysis with R\n\nWeek 2\n\n以R軟體進行科學繪圖入門\n\nIntroduction to scientific graphing with R\n\nWeek 3\n\n機率分佈\n\nProbability distribution\n\nWeek 4\n\n樣本機率分佈\n\nSampling distribution \n\nWeek 5\n\n假說檢定\n\nHypothesis testing\n\nWeek 6\n\nt檢定\n\nt test\n\nWeek 7\n\n期中考\n\nWeek 8\n\n變異分析\n\nAnalysis of variance\n\nWeek 9\n\n雙因子變異分析\n\nTwo-factor Analysis\n\nWeek 10\n\n線性迴歸\n\nLinear regression\n\nWeek 11\n\n相關性分析\n\nCorrelation\n\nWeek 12\n\n卡分適合度檢定\n\nChi-square goodness of fit\n\nWeek 13\n\n期末考\n\nWeek 14\n\n概念複習與個案示範\n\nConcepts review & project demo\n\nWeek 15\n\n期末報分組報告\n\nFinal project presentation \n\n\\*本學期課程包含3週自主學習：學生以1-4人為一組，利用開放性生物學資料或個人一手生物學資料，提出科學問題、設計檢說與統計檢定、進行資料分析並於期末最後一週做口頭簡報。\n\n\\*The final project will require the students to spend another 3 weeks working independently outside the classromm in a small group setting (1-4 persons). Each student group will chose either open data or their own data to exercise the steps of proposing scientific questions, setting testiable hypotheses, analyzing data and communicating results in an oral presentation, which will be held at the end of the semester.",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "Lectures on the core concepts"
+        },
+        {
+            "type": "討論法",
+            "note": "Class discussions on real-world applications"
+        },
+        {
+            "type": "問題解決教學",
+            "note": "Performining statistical analyses and graphic presentations using sample data sets"
+        },
+        {
+            "type": "合作學習",
+            "note": "Group presentations"
+        },
+        {
+            "type": "實驗/實作",
+            "note": "Labratory exercises using software R"
+        },
+        {
+            "type": "媒體融入教學",
+            "note": "Powerpoint slides, videos and online simulation tools"
+        }
+    ],
+    "grading": [
+        {
+            "type": "期中考",
+            "weight": 25,
+            "note": "具備運用生命科學相關研究方法與技術的能力"
+        },
+        {
+            "type": "期末考",
+            "weight": 25,
+            "note": "具備運用生命科學相關研究方法與技術的能力"
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 25,
+            "note": "具備正確的科學態度，能主動探索生命科學之相關議題，並瞭解遵守科學倫理之重要性"
+        },
+        {
+            "type": "報告",
+            "weight": 25,
+            "note": "具備運用生命科學相關研究方法與技術的能力；具備正確的科學態度，能主動探索生命科學之相關議題，並瞭解遵守科學倫理之重要性；具備以多元表徵轉化生命科學概念之溝通與表達能力"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

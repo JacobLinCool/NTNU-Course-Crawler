@@ -1,0 +1,796 @@
+[
+    {
+        "year": 108,
+        "term": 1,
+        "name": "資訊理論與編碼技巧",
+        "teachers": [
+            "葉家宏"
+        ],
+        "department": "HU75",
+        "code": "AEU0074",
+        "credit": 3,
+        "serial": 1331,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 6,
+                "to": 8,
+                "campus": "本部",
+                "classroom": "工511"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 1,
+        "name": "體育",
+        "teachers": [
+            "盧譽誠"
+        ],
+        "department": "HU75",
+        "code": "00UP001",
+        "credit": 1,
+        "serial": 1332,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 6,
+                "to": 7,
+                "campus": "本部",
+                "classroom": "操場一"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "1",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 1,
+        "name": "數位系統",
+        "teachers": [
+            "林政宏",
+            "高文忠"
+        ],
+        "department": "HU75",
+        "code": "AEU0003",
+        "credit": 3,
+        "serial": 1333,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 26
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 7,
+                "to": 9,
+                "campus": "本部",
+                "classroom": "誠306"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "1",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 1,
+        "name": "計算機概論",
+        "teachers": [
+            "林群祐"
+        ],
+        "department": "HU75",
+        "code": "AEU0005",
+        "credit": 3,
+        "serial": 1334,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 6,
+                "to": 8,
+                "campus": "本部",
+                "classroom": "誠302"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "1",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 1,
+        "name": "程式設計",
+        "teachers": [
+            "林政宏"
+        ],
+        "department": "HU75",
+        "code": "AEU0013",
+        "credit": 3,
+        "serial": 1335,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 5,
+                "from": 7,
+                "to": 9,
+                "campus": "本部",
+                "classroom": "教402"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "1",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 1,
+        "name": "電子學（一）",
+        "teachers": [
+            "蘇崇彥"
+        ],
+        "department": "HU75",
+        "code": "AEU0006",
+        "credit": 3,
+        "serial": 1336,
+        "group": "A",
+        "quota": {
+            "limit": 50,
+            "additional": 0
+        },
+        "schedule": [
+            {
+                "day": 5,
+                "from": 2,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "誠108"
+            }
+        ],
+        "programs": [
+            "太陽能源與工程學程"
+        ],
+        "comment": "",
+        "restrict": "",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 1,
+        "name": "電子學（一）",
+        "teachers": [
+            "蘇崇彥"
+        ],
+        "department": "HU75",
+        "code": "AEU0006",
+        "credit": 3,
+        "serial": 1337,
+        "group": "B",
+        "quota": {
+            "limit": 50,
+            "additional": 0
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 7,
+                "to": 9,
+                "campus": "本部",
+                "classroom": "樸105"
+            }
+        ],
+        "programs": [
+            "太陽能源與工程學程"
+        ],
+        "comment": "",
+        "restrict": "",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 1,
+        "name": "電子學實驗（一）",
+        "teachers": [
+            "林群祐"
+        ],
+        "department": "HU75",
+        "code": "AEU0007",
+        "credit": 2,
+        "serial": 1338,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 6,
+                "to": 9,
+                "campus": "本部",
+                "classroom": "電機系電子實驗室"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 1,
+        "name": "工程數學（二）",
+        "teachers": [
+            "賴以威"
+        ],
+        "department": "HU75",
+        "code": "AEU0015",
+        "credit": 3,
+        "serial": 1339,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 2,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "誠109"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 1,
+        "name": "電路學（二）",
+        "teachers": [
+            "郭建宏"
+        ],
+        "department": "HU75",
+        "code": "AEU0017",
+        "credit": 3,
+        "serial": 1340,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 2,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "工501"
+            }
+        ],
+        "programs": [
+            "太陽能源與工程學程"
+        ],
+        "comment": "",
+        "restrict": "",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 1,
+        "name": "資料結構",
+        "teachers": [
+            "康立威"
+        ],
+        "department": "HU75",
+        "code": "AEU0022",
+        "credit": 3,
+        "serial": 1341,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 2,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "工501"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 1,
+        "name": "電工實驗",
+        "teachers": [
+            "曾煥雯"
+        ],
+        "department": "HU75",
+        "code": "AEU0019",
+        "credit": 2,
+        "serial": 1342,
+        "group": "",
+        "quota": {
+            "limit": 30,
+            "additional": 12
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 6,
+                "to": 9,
+                "campus": "本部",
+                "classroom": "電機與感測實驗室"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "3",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 1,
+        "name": "感測與轉換",
+        "teachers": [
+            "盧明智"
+        ],
+        "department": "HU75",
+        "code": "AEU0021",
+        "credit": 3,
+        "serial": 1343,
+        "group": "",
+        "quota": {
+            "limit": 30,
+            "additional": 12
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 7,
+                "to": 9,
+                "campus": "本部",
+                "classroom": "電機與感測實驗室"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "3",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 1,
+        "name": "電機機械（一）",
+        "teachers": [
+            "洪欽銘",
+            "陳瑄易"
+        ],
+        "department": "HU75",
+        "code": "AEU0030",
+        "credit": 3,
+        "serial": 1344,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 6,
+                "to": 8,
+                "campus": "本部",
+                "classroom": "工501"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "3",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 1,
+        "name": "控制系統",
+        "teachers": [
+            "許陳鑑"
+        ],
+        "department": "HU75",
+        "code": "AEU0043",
+        "credit": 3,
+        "serial": 1345,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 6,
+                "to": 8,
+                "campus": "本部",
+                "classroom": "工501"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "3",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 1,
+        "name": "單晶片控制",
+        "teachers": [
+            "呂藝光"
+        ],
+        "department": "HU75",
+        "code": "AEU0044",
+        "credit": 3,
+        "serial": 1346,
+        "group": "",
+        "quota": {
+            "limit": 30,
+            "additional": 12
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 2,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "電機與感測實驗室"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "3",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 1,
+        "name": "線性代數",
+        "teachers": [
+            "黃政吉"
+        ],
+        "department": "HU75",
+        "code": "AEU0066",
+        "credit": 3,
+        "serial": 1347,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 2,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "誠307"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "3",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 1,
+        "name": "電機專題製作（一）",
+        "teachers": [
+            "賴以威",
+            "高文忠",
+            "郭建宏",
+            "蔡政翰",
+            "林群祐"
+        ],
+        "department": "HU75",
+        "code": "AEU0070",
+        "credit": 1,
+        "serial": 1348,
+        "group": "A",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 5,
+                "from": 7,
+                "to": 7,
+                "campus": "本部",
+                "classroom": "電機系電子實驗室"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "3",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 1,
+        "name": "電機專題製作（一）",
+        "teachers": [
+            "蘇崇彥"
+        ],
+        "department": "HU75",
+        "code": "AEU0070",
+        "credit": 1,
+        "serial": 1349,
+        "group": "B",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 5,
+                "from": 7,
+                "to": 7,
+                "campus": "本部",
+                "classroom": "多媒體與通訊實驗室"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "3",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 1,
+        "name": "電機專題製作（一）",
+        "teachers": [
+            "王偉彥",
+            "呂藝光",
+            "許陳鑑",
+            "包傑奇",
+            "蔣欣翰",
+            "陳瑄易"
+        ],
+        "department": "HU75",
+        "code": "AEU0070",
+        "credit": 1,
+        "serial": 1350,
+        "group": "C",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 5,
+                "from": 7,
+                "to": 7,
+                "campus": "本部",
+                "classroom": "工511"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "3",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 1,
+        "name": "嵌入式計算系統設計",
+        "teachers": [
+            "蔣欣翰"
+        ],
+        "department": "HU75",
+        "code": "AEU0073",
+        "credit": 3,
+        "serial": 1351,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 5,
+                "from": 3,
+                "to": 5,
+                "campus": "本部",
+                "classroom": "多媒體與通訊實驗室"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "3",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 1,
+        "name": "電機專題製作（三）",
+        "teachers": [
+            "賴以威",
+            "高文忠",
+            "郭建宏",
+            "蔡政翰",
+            "林群祐"
+        ],
+        "department": "HU75",
+        "code": "AEU0072",
+        "credit": 1,
+        "serial": 1352,
+        "group": "A",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 5,
+                "from": 6,
+                "to": 6,
+                "campus": "本部",
+                "classroom": "電機系電子實驗室"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "4",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 1,
+        "name": "電機專題製作（三）",
+        "teachers": [
+            "蘇崇彥"
+        ],
+        "department": "HU75",
+        "code": "AEU0072",
+        "credit": 1,
+        "serial": 1353,
+        "group": "B",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 5,
+                "from": 6,
+                "to": 6,
+                "campus": "本部",
+                "classroom": "多媒體與通訊實驗室"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "4",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 1,
+        "name": "電機專題製作（三）",
+        "teachers": [
+            "王偉彥",
+            "呂藝光",
+            "許陳鑑",
+            "包傑奇",
+            "蔣欣翰",
+            "陳瑄易"
+        ],
+        "department": "HU75",
+        "code": "AEU0072",
+        "credit": 1,
+        "serial": 1354,
+        "group": "C",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 5,
+                "from": 6,
+                "to": 6,
+                "campus": "本部",
+                "classroom": "工511"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "4",
+        "classes": "",
+        "dept_group": ""
+    }
+]

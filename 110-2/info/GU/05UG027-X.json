@@ -1,0 +1,97 @@
+{
+    "year": 110,
+    "term": 2,
+    "name": "數位音樂與聲音合成之基礎程式設計",
+    "teachers": [
+        "林宜徵"
+    ],
+    "department": "GU",
+    "code": "05UG027",
+    "credit": 2,
+    "serial": 967,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 5
+    },
+    "schedule": [
+        {
+            "day": 5,
+            "from": 6,
+            "to": 7,
+            "campus": "本部",
+            "classroom": "教401"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 2,
+    "description": "",
+    "goals": [
+        "Able to understand the basic principles of digital audio, and use chucK to perform simple audio synthesis.",
+        "Able to handle MIDI data by Python, and analyze or generate music by the algorithm.",
+        "Able to produce an auditory-visual interactive project by utilizing  Scratch.",
+        "Able to search current applications of digital music online.",
+        "Able to search online or attend exhibitions about digital music, and appreciate those in various cultures of different countries."
+    ],
+    "syllabus": "This course is the advanced course for the course “Learning Programming for Music.” Students need to take  “Learning Programming for Music” or any other text-based programming language related courses before signing up this course.\n\n1.  chucK & Audio Synthesis:\n\n    Week 1: Introduction of developing environment, spectrum, and digital music\n\n    Week 2: Additive synthesis\n\n    Week 3: ADSR and model synthesis\n\n    Week 4: FM synthesis\n\n    Week 5: Filter: low-pass, high-pass, and EQ\n\n    Week 6: Spatial elements, panning, and reverberations\n\n1.  Python & MIDI: data, algorithm, and music21\n\n    Week 7: Python and music21\n\n    Week 8: MIDI scores: objects of stream, score, and note, in music21\n\n    Week 9: Calculating the number of objects,  and editing objects.\n\n    Week 10: Combining probabilities and algorithms in music\n\n    Week 11: Exporting MIDI file into PCM through SoundFonts.\n\n    Week 12:  Utilizing chucK to read MIDI data, and exporting MIDI files into PCM\n\n                     through the synthesizer in chucK.\n\n1.  Auditory-Visual Interactive Project\n\n    Week 13-14: Scratch, and auditory-visual interactive  project\n\n    Week 15-16: Presentations for final projects\n\nA sample for the final project: [https://scratch.mit.edu/projects/567466491/](https://scratch.mit.edu/projects/567466491/)\n\n由於本課程為『學程式玩音樂』之延伸課程，於本課程中，學生須研習過『學程式玩音樂』課程或是其他文本式程式語言課程。\n\n一、chucK 與合成器原理：\n\n     第 1 週：開發環境介紹、頻譜、聲學概念。\n\n     第 2 週：疊加合成器原理\n\n     第 3 週：ADSR、model synthesis\n\n     第 4 週： FM synthesis\n\n     第 5 週： Filter：低通、高通濾波器、EQ\n\n     第 6 週： 空間：相位（panning） 與殘響\n\n二、Python 與 MIDI 資料處理及算法初探，music21 教學：\n\n    第 7 週： Python 特性與 music21 初探\n\n    第 8 週： 輸入樂譜：stream 物件 score 物件、note 物件等檢視\n\n    第 9 週： 計算物件數量、編輯物件\n\n    第 10 週： 結合機率與演算於音樂中\n\n    第 11 週： 輸出MIDI檔案、運用 SoundFont 輸出成 PCM 格式\n\n    第 12 週： chucK 讀取 MIDI ，結合合成器輸出成 PCM 格式\n\n三、視覺與音樂整合\n\n    第 13 - 14 週： Scratch 專案設計、 結合音檔之互動專案\n\n    第 15 - 16 週： 期末分組專案報告\n\n分組期末專案範例: https://scratch.mit.edu/projects/567466491/",
+    "methodologies": [
+        {
+            "type": "Formal lecture",
+            "note": "Lectures about principles of audio synthesis, and music-related implementation in Python 合成原理、Python 音樂相關實作技巧與應用示範"
+        },
+        {
+            "type": "Problem base learning",
+            "note": "The programing and implementation of final projects\n\n期末作品規劃與可能實作邏輯技巧探討"
+        },
+        {
+            "type": "Cooperative learning",
+            "note": "Discussions and cooperations of final projects  期末作品實作討論"
+        },
+        {
+            "type": "Lab/Studio",
+            "note": "Implementation of audio synthesis, algorithms in python, and final projects 合成音效實作練習、Python 演算法實作與實驗、期末互動專案實作與實驗"
+        },
+        {
+            "type": "Media, audio, visual materials",
+            "note": "Final projects are auditory-visual interactive 期末作品互動專案可搭配其他視覺多媒體製作"
+        },
+        {
+            "type": "Case studies",
+            "note": "Final projects 期末作品實作"
+        }
+    ],
+    "grading": [
+        {
+            "type": "Assignments",
+            "weight": 30,
+            "note": "Weekly projects and assignments 各週小專案實作練習成果"
+        },
+        {
+            "type": "Class discussion involvement",
+            "weight": 17,
+            "note": "Implementations during the class 課堂練習成果"
+        },
+        {
+            "type": "Attendances",
+            "weight": 18,
+            "note": ""
+        },
+        {
+            "type": "Presentation",
+            "weight": 20,
+            "note": "The final projects  期末互動音樂專案製作技術內容"
+        },
+        {
+            "type": "Shows/ Exhibitions",
+            "weight": 15,
+            "note": "Presentations of the final project 期末互動音樂專案展示呈現"
+        }
+    ],
+    "prerequisite": "◎Available for junior and senior year B.A. program students (Doctoral program courses excepted) and M.A. program students.",
+    "general_core": []
+}

@@ -1,0 +1,64 @@
+{
+    "year": 108,
+    "term": 1,
+    "name": "統計力學（一）",
+    "teachers": [
+        "林豐利"
+    ],
+    "department": "SM41",
+    "code": "PHC0019",
+    "credit": 3,
+    "serial": 2684,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 3,
+            "from": 2,
+            "to": 4,
+            "campus": "公館",
+            "classroom": "理圖002"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "建立學生關於平衡態熱力統計的完備背景知識，以作為進階學習的基礎",
+    "goals": [
+        "瞭解統計力學基本觀念與理論",
+        "加強物理思維與解題能力"
+    ],
+    "syllabus": "第1 週   Introduction to Thermodynamics  \n第2 週  Application of Thermodynamics\n\n第3 週  Thermodynamics of Phase Transitions\n\n第4 週  Critical Exponents\n\n第5 週  Elementary Probability Theory\n\n第6 週  Brownian Motions\n\n第7 週  Fluctuation-Dissipation Theorem\n\n第8 週  Foundation of Statistical Mechanics\n\n第9 週  期中考\n\n第10週  Basics of Quantum Statistics\n\n第11週  Ideal Boson Gases\n\n第12週  Ideal Fermion Gases\n\n第13週  Quantum Thermalization\n\n第14週  Fluctuation Theorem\n\n第15週  Order-Disorder transitions\n\n第16週  Renormlazation Theory\n\n第17週   Two-dimensional Ising Model  \n第18週  期末考",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "期中考",
+            "weight": 35,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 35,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

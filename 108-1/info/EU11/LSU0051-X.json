@@ -1,0 +1,87 @@
+{
+    "year": 108,
+    "term": 1,
+    "name": "人工智慧導論",
+    "teachers": [
+        "李良一"
+    ],
+    "department": "EU11",
+    "code": "LSU0051",
+    "credit": 3,
+    "serial": 919,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 2,
+            "to": 4,
+            "campus": "本部",
+            "classroom": "正406"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎限大二大三大四修習",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "此課程主要讓學生具備人工智慧的基本知識，了解人工智慧相關的演算法及python函式庫，並能應用所學到的去解決人工智慧相關的問題。課程內容將包括用智慧型代理人、用搜尋解決問題、邏輯代理人、機器學習及深度學習等。",
+    "goals": [
+        "了解人工智慧相關的演算法",
+        "使用人工智慧相關的python函式庫",
+        "解決人工智慧相關的問題"
+    ],
+    "syllabus": "上此課程的學生必需具備使用python撰寫程式的能力。\n\n1.  課程介紹及人工智慧簡介 (09/10)\n2.  Fundamental and history of Artificial Intelligence (09/17)\n3.  Intelligent Agent (09/24)\n4.  Solving Problem by Searching(1) (10/01)\n5.  Solving Problem by Searching(2) (10/08)\n6.  Adversarial searching (10/15)\n7.  Adversarial searching (10/22)\n8.  Knowledge, reasoning, and planning(1) (10/29)\n9.  期中考(範圍為期中考前的所有內容) (11/05)\n10.  Knowledge, reasoning, and planning(2) (11/12)\n11.  Knowledge, reasoning, and planning(3) (11/19)\n12.  Machine Learning and Python library(1) (11/26)\n13.  Machine Learning and Python library(2) (12/03)\n14.  Machine Learning and Python library(3) (12/10)\n15.  Deep Learning and Python library(1) (12/17)\n16.  Deep Learning and Python library(2) (12/24)\n17.  期末專題報告 (12/31)\n18.  期末考(範圍為期末考前的所有內容) (01/07)",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "老師講授自編教材及教科書內容。"
+        },
+        {
+            "type": "問題解決教學",
+            "note": "老師會在上課時給予學生學習單或在課後給予作業，學習單及作業內容為資料結構問題，學生需找出解法。"
+        },
+        {
+            "type": "實驗/實作",
+            "note": "學習單及作業需實作人工智慧相關方法的程式碼"
+        },
+        {
+            "type": "媒體融入教學",
+            "note": "使用線上學習系統進行教學影片觀看、作業繳交、線上討論及其他線上教學活動。"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 30,
+            "note": "完成老師指定的作業"
+        },
+        {
+            "type": "期中考",
+            "weight": 30,
+            "note": "期中考前老師上課的內容"
+        },
+        {
+            "type": "期末考",
+            "weight": 30,
+            "note": "期末考前老師上課的內容"
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 5,
+            "note": "課堂及線上討論參與的積極度"
+        },
+        {
+            "type": "出席",
+            "weight": 5,
+            "note": "學生出席的次數"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

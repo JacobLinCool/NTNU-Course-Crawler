@@ -1,0 +1,71 @@
+{
+    "year": 110,
+    "term": 2,
+    "name": "電子學實驗",
+    "teachers": [
+        "白凱仁"
+    ],
+    "department": "HU76",
+    "code": "VEU0008",
+    "credit": 3,
+    "serial": 1292,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 5,
+            "from": 6,
+            "to": 9,
+            "campus": "本部",
+            "classroom": "電機與感測實驗室"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 2,
+    "description": "",
+    "goals": [
+        "Understanding the basic concepts of electronics experiments.",
+        "Nurturing students to apply the experimental knowledge and techniques of electronics to solve engineering problems.",
+        "Developing students' abilities for thinking independently and analyzing electronic circuits",
+        "Developing students' interests in electronics and laying the foundation for students' lifelong learning",
+        "Completing electronics experiments adopting teamwork method"
+    ],
+    "syllabus": "\\[16+2 weeks\\]\n\nFirst to 16th weeks (第1~16週):\n\n1\\. Introduction (學期評分說明、課程簡介、發材料)\n\n2\\. Diode circuit (二極體電路)\n\n3\\. Diode clipper and clamp circuits (二極體截波電路與箝位電路)\n\n4\\. Zener diode and constant voltage circuit (稽納二極體與穩壓電路)\n\n5\\. Transistor switch circuit (電晶體開關電路)\n\n6\\. Transistor amplifier (電晶體放大電路：共射極放大器、共集極放大器、共基極放大器)\n\n7\\. Transistor casecade circuit (電晶體串級放大電路)\n\n8\\. Course review and final exam. description (第15週: 複習實習內容，公布期末考題範圍)\n\n9\\. Final exam in 16th week (第16週: 期末考、交還材料)\n\nThe 17th to 18th weeks (第17~18週): Online learning",
+    "methodologies": [
+        {
+            "type": "Formal lecture",
+            "note": "BJT and diode circuits experiment (BJT, 二極體電路實驗)"
+        },
+        {
+            "type": "Lab/Studio",
+            "note": "Circuit assembly and waveform measurement (麵包板插件、波形量測與電路功能實測)"
+        }
+    ],
+    "grading": [
+        {
+            "type": "Assignments",
+            "weight": 40,
+            "note": "Circuit experiment (隨堂電子電路實驗)"
+        },
+        {
+            "type": "Final exam",
+            "weight": 40,
+            "note": "Practical electronic circuit experiment and instrument operation (電子實驗實際操作與電路板功能)"
+        },
+        {
+            "type": "Attendances",
+            "weight": 20,
+            "note": ""
+        }
+    ],
+    "prerequisite": "◎Available for junior and senior year B.A. program students (Doctoral program courses excepted) and M.A. program students.",
+    "general_core": []
+}

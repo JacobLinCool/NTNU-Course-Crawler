@@ -1,0 +1,61 @@
+{
+    "year": 108,
+    "term": 1,
+    "name": "幾何分析專題（一）",
+    "teachers": [
+        "林俊吉",
+        "孟悟理"
+    ],
+    "department": "SM40",
+    "code": "MAC0146",
+    "credit": 3,
+    "serial": 2676,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 1,
+            "from": 6,
+            "to": 8,
+            "campus": "公館",
+            "classroom": "教室自排"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "幾何分析基本上是由幾何的問題所激發出來的分析領域，原本分散在各個傳統的領域，例如：非線性分析、偏微分方程、微分幾何等。 在這門課中，我們將介紹幾何分析的各種重要工具，引導學生研讀相關書籍及論文，接觸近代學者在這領域的工作，並引起學生的興趣。同時，希望透過在統合這些分散的主題，讓學生可以較快掌握幾何分析的基本知識與技巧。",
+    "goals": [
+        "Verify research-level mathematics",
+        "Conceptually understand research-level mathematics",
+        "Concisely present research-level mathematics"
+    ],
+    "syllabus": "Topics in Geometric Analysis I+II\n=================================\n\n**Prerequisites** We assume familiarity with the concepts of abstract measure and Lebesgue integration.\n\n**Course outline** Topics are presented by the participants and are assigned in consultation with the teachers taking into account the prior knowledge of the individual participants. Amongst the possible topics are the following.\n\n1.  Computations and geometric measure theory, see for instance \\[BLM17\\] and \\[CT13\\]; this leaves plenty of choices.\n    \n2.  Functions of bounded variation, see \\[AFP00\\] or \\[Mag12\\]; this also leaves plenty of choices.\n    \n3.  Topological vector spaces, see \\[Bou87\\], with emphasis on the items summarised in \\[Men16, Chapter 2\\].\n    \n4.  An example concerning approximate differentiation, see \\[Koh77\\].\n    \n5.  Pointwise differentiability of higher order for sets, see \\[Men19\\].\n    \n6.  Rectifiability and approximate differentiability of higher order for sets, see \\[San19\\].\n    \n7.  An example of a Borel set in **R**2 ≃ **R** × **R** whose orthogonal projection onto **R** is not a Borel set, see \\[Fed69, 2.2.9, 2.2.11\\].\n    \n\nItems 5., 6., and 7. may be particularly suitable for students who followed the course _Special Topics in Analysis_ in the preceding term.\n\nThis syllabus, including description and references, is available as [PDF](https://ap.itc.ntnu.edu.tw/NtnuFileShare/file.do?action=dl&gno=12746df89e374d74970e9f8318ba3467&fno=efd2b81f013340488f009cb102177111).",
+    "methodologies": [
+        {
+            "type": "其他",
+            "note": "Reading seminar"
+        }
+    ],
+    "grading": [
+        {
+            "type": "課堂討論參與",
+            "weight": 20,
+            "note": "Posing, in English, a number of good questions to presentations by other students."
+        },
+        {
+            "type": "報告",
+            "weight": 80,
+            "note": "Presenting, in English, a topic in one or more lectures in the course."
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

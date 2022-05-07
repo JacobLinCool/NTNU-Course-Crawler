@@ -1,0 +1,88 @@
+{
+    "year": 107,
+    "term": 1,
+    "name": "教學理論專題研究",
+    "teachers": [
+        "唐淑華",
+        "郝永崴"
+    ],
+    "department": "ED03",
+    "code": "ECD0002",
+    "credit": 3,
+    "serial": 368,
+    "group": "",
+    "quota": {
+        "limit": 30,
+        "additional": 12
+    },
+    "schedule": [
+        {
+            "day": 4,
+            "from": 9,
+            "to": 10,
+            "campus": "本部",
+            "classroom": "教804"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程不開放上修",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程為教育系博士班課程與教學組之進階理論課程，主要在帶領博士生研讀討論教學領域中新近且重要的理論與相關研究成果，以幫助學生進一步思考如何應用這些研究發現於未來學術活動及工作職場中。",
+    "goals": [
+        "探討教學理論在認知、情意、技能等領域上之發展脈絡與研究趨勢",
+        "分析當前教育議題之教學目標，並探討可適合採用之教學理論",
+        "能應用理論於教學情境或工作職場",
+        "培養自我激勵及問題解決的態度"
+    ],
+    "syllabus": "**日期**\n\n**主題**\n\n**教材**\n\n9/15\n\n中秋節放假\n\n9/22\n\n課程介紹\n\n認知領域教育目標探討及其在教學及評量上的應用\n\nAnderson et al. (2001) (pp.3-92)\n\n9/29\n\nUbD\n\nDifferentiated Instruction\n\n1.Wiggins & McTighe (2005)\n\n2\\. Tomlinson & McTighe (2006)\n\n10/6\n\nMatching Objectives to Instruction:\n\nThe Direct Instruction Model\n\nEstes, Mintz, & Gunter (Ch.4)\n\n10/13\n\nThe Concept Attainment Model\n\nEstes, Mintz, & Gunter (Ch.5)\n\n10/20\n\nThe Concept Development Model\n\nEstes, Mintz, & Gunter (Ch.6)\n\n10/27\n\nProblem-centered inquiry Model\n\nEstes, Mintz, & Gunter (Ch.7)\n\n11/3\n\nThe Synectics Model\n\nEstes, Mintz, & Gunter (Ch.8)\n\n11/10\n\nThe Cause-and-Effect Model\n\nEstes, Mintz, & Gunter (Ch.9)\n\n11/17\n\nThe Socratic Seminar Model\n\nEstes, Mintz, & Gunter(Ch.10)\n\n11/24\n\nThe Integrative Model\n\nEstes, Mintz, & Gunter (Ch.12)\n\n12/1\n\nInstruction based on Peer Interaction and Cooperative Learning\n\nMayer & Alexander (Ch.16-17)\n\n12/8\n\n教學理論與腦科學研究\n\n《大腦當家》（洪蘭譯）\n\n12/15\n\n教學科技\n\nTBA\n\n12/22\n\n教學領域新興議題（一）：\n\n翻轉教室\n\nTBA\n\n12/29\n\n教學領域新興議題（二）：\n\n創客運動\n\nTBA\n\n1/5\n\n教學與道德\n\nTBA\n\n1/12\n\n期末報告",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "講述各理論的重要概念與理論"
+        },
+        {
+            "type": "討論法",
+            "note": "以小組方式進行議題討論"
+        },
+        {
+            "type": "問題解決教學",
+            "note": "針對案例進行實務演練"
+        },
+        {
+            "type": "媒體融入教學",
+            "note": "透過影片及小說進行閱讀與討論"
+        },
+        {
+            "type": "專題研究",
+            "note": "根據本學期所學，發展個人研究專題"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 40,
+            "note": "針對課前閱讀及課堂討論內容進行論述，共繳交十五篇（擔任與談人時，該週不須寫）。每篇內容以一頁為限（字體為標楷12，單行間距），請分兩部份撰寫，第一部份為對當週主題之課前想法（請針對課前指定閱讀發抒個人讀後心得與想法）；第二部份則就上一週課堂討論內容與心得進行課後省思。請在每週二晚上12：00前上傳至Moodle，以利唐老師批改與同學們之閱讀。"
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 30,
+            "note": "課程與談人：針對各主題帶領課堂對話"
+        },
+        {
+            "type": "出席",
+            "weight": 10,
+            "note": "此項分數包括上課、分組、發言等活動之積極與主動參與的態度。除重大事故外，遲到早退三次或缺席兩次者，本項概不得分"
+        },
+        {
+            "type": "報告",
+            "weight": 20,
+            "note": "期末報告：針對各學科領域之教學，帶領課堂討論"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

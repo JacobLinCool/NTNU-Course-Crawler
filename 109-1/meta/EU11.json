@@ -1,0 +1,391 @@
+[
+    {
+        "year": 109,
+        "term": 1,
+        "name": "程式設計（一）",
+        "teachers": [
+            "李良一"
+        ],
+        "department": "EU11",
+        "code": "LSU0001",
+        "credit": 3,
+        "serial": 929,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 5,
+                "to": 7,
+                "campus": "本部",
+                "classroom": "教401"
+            }
+        ],
+        "programs": [
+            "學習與資訊學程",
+            "數位人文與藝術學程"
+        ],
+        "comment": "",
+        "restrict": "",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 1,
+        "name": "資料結構",
+        "teachers": [
+            "李良一"
+        ],
+        "department": "EU11",
+        "code": "LSU0003",
+        "credit": 3,
+        "serial": 930,
+        "group": "",
+        "quota": {
+            "limit": 30,
+            "additional": 0
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 6,
+                "to": 8,
+                "campus": "本部",
+                "classroom": "教404"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 1,
+        "name": "學習科學導論",
+        "teachers": [
+            "李旻憲"
+        ],
+        "department": "EU11",
+        "code": "LSU0005",
+        "credit": 3,
+        "serial": 931,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 2,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "正405"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 1,
+        "name": "資料分析軟體和應用",
+        "teachers": [
+            "梁至中"
+        ],
+        "department": "EU11",
+        "code": "LSU0038",
+        "credit": 3,
+        "serial": 932,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 6,
+                "to": 8,
+                "campus": "本部",
+                "classroom": "正201"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎必須先修過【E0U0001  教育統計學（一）】、【E0U0002  教育統計學（二）】",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 1,
+        "name": "學習心理",
+        "teachers": [
+            "邱國力"
+        ],
+        "department": "EU11",
+        "code": "LSU0040",
+        "credit": 3,
+        "serial": 933,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 6,
+                "to": 8,
+                "campus": "本部",
+                "classroom": "正201"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 1,
+        "name": "學習評量與測驗",
+        "teachers": [
+            "李旻憲"
+        ],
+        "department": "EU11",
+        "code": "LSU0042",
+        "credit": 3,
+        "serial": 934,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 2,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "教室自排"
+            }
+        ],
+        "programs": [],
+        "comment": "本課程上課地點為泰順街，詳細地址請洽學習科學辦公室。",
+        "restrict": "",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 1,
+        "name": "教育機器人",
+        "teachers": [
+            "蔡孟蓉"
+        ],
+        "department": "EU11",
+        "code": "LSU0052",
+        "credit": 3,
+        "serial": 935,
+        "group": "",
+        "quota": {
+            "limit": 30,
+            "additional": 12
+        },
+        "schedule": [
+            {
+                "day": 5,
+                "from": 6,
+                "to": 8,
+                "campus": "本部",
+                "classroom": "教1004"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎限大三大四修習",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 1,
+        "name": "學習動機與策略",
+        "teachers": [
+            "張欣怡"
+        ],
+        "department": "EU11",
+        "code": "LSU0054",
+        "credit": 3,
+        "serial": 936,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 6,
+                "to": 8,
+                "campus": "本部",
+                "classroom": "正203"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 1,
+        "name": "認知心理學",
+        "teachers": [
+            "吳清麟"
+        ],
+        "department": "EU11",
+        "code": "LSU0057",
+        "credit": 3,
+        "serial": 937,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 6,
+                "to": 8,
+                "campus": "本部",
+                "classroom": "正202"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 1,
+        "name": "專題討論",
+        "teachers": [
+            "林宗進",
+            "李良一"
+        ],
+        "department": "EU11",
+        "code": "LSU0059",
+        "credit": 2,
+        "serial": 938,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 10,
+                "to": 11,
+                "campus": "本部",
+                "classroom": "教室自排"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 1,
+        "name": "總整課程（一）",
+        "teachers": [
+            "蔡今中",
+            "吳清麟"
+        ],
+        "department": "EU11",
+        "code": "LSU0060",
+        "credit": 2,
+        "serial": 939,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 6,
+                "to": 7,
+                "campus": "本部",
+                "classroom": "樸304"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 1,
+        "name": "體育",
+        "teachers": [
+            "林涓"
+        ],
+        "department": "EU11",
+        "code": "00UP001",
+        "credit": 1,
+        "serial": 940,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 1,
+                "to": 2,
+                "campus": "本部",
+                "classroom": "操場一"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "1",
+        "classes": "",
+        "dept_group": ""
+    }
+]

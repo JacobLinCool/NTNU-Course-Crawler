@@ -1,0 +1,71 @@
+{
+    "year": 109,
+    "term": 1,
+    "name": "高等天文觀測",
+    "teachers": [
+        "管一政"
+    ],
+    "department": "SM44",
+    "code": "ESC0136",
+    "credit": 3,
+    "serial": 2726,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 4,
+            "from": 7,
+            "to": 9,
+            "campus": "公館",
+            "classroom": "Ｂ413"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程不開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "Advanced Observational Astronomy is a (required) course designed for graduate students (in both Astronomy M.S. and Ph.D. programs) who wish to have astronomy as their career. The aim is to equip students with most commonly needed observational techniques and essential observational knowledge so they can understand modern day astronomical observations, and/or conduct their own observations necessary for thesis studies while in school and for independent researches in the future.\n\nBecause of the wide scope of the course and constrained by limited class hours, Advanced Observational Astronomy will spend most of its time on Spherical Astronomy (including spherical trigonometry, celestial sphere, coordinate systems and time), Photometry, Telescopes and Optics, and if time allows, on Optical Detectors and on Multi wavelength Observations. [Because of the unique nature of radio observation and its importance in Taiwan’s astronomy, observational theories, instruments and techniques in radio wavelength will be covered by another graduate course Radio Astronomy.]",
+    "goals": [
+        "Equip students with essential knowledge, commonly needed techniques so they understand modern-day astronomical observations and may conduct their own."
+    ],
+    "syllabus": "**課程簡介:**\n\nAdvanced Observational Astronomy is a (required) course designed for graduate students (in both Astronomy M.S. and Ph.D. programs) who wish to have astronomy as their career. The aim is to equip students with most-commonly needed observational techniques and essential observational knowledge so they can understand modern-day astronomical observations, and/or conduct their own observations necessary for thesis studies while in school and for independent researches in the future.\n\n        Because of the wide scope of the course and constrained by limited class hours, Advanced Observational Astronomy will spend most of its time on Spherical Astronomy (including spherical trigonometry, celestial sphere, coordinate systems and time), Photometry, Telescopes and Optics, and if time allows, on Optical Detectors and on Multi-wavelength Observations. \\[Because of the unique nature of radio observation and its importance in Taiwan's astronomy, observational theories, instruments and techniques in radio wavelength will be covered by another graduate course Radio Astronomy.\\]  \n       Advanced Observational Astronomy is mainly for the 1st year graduate students. The course will be graded with two problem sets, one midterm examination and one final examination, contributing approximately 40% (20% x 2), 30% and 30%, respectively, to the final grade.\n\n**課程目標:**\n\nEquip students with essential knowledge & commonly needed techniques so they understand modern-day astronomical observations and may conduct their own.\n\n  \nCourse Outline (detailed):\n\n01.  Spherical Astronomy: Introduction\n\n02.  Spherical Astronomy: Spherical Trigonometry\n\n03.  Spherical Astronomy: Celestial Sphere\n\n04.  Spherical Astronomy: Coordinate Systems (I)\n\n05.  Spherical Astronomy: Coordinate Systems (II)\n\n06.  Spherical Astronomy: Sidereal Time\n\n07.  Spherical Astronomy: Mean Solar Time\n\n08.  Midterm examination\n\n09.  Photometry: Background\n\n10.  Photometry: Filter Systems\n\n11.  Photometry: Color Indices\n\n12.  Photometry: Interstellar Reddening\n\n13.  Telescopes: Angular Resolution\n\n14.  Telescopes: Optics (I)\n\n15.  Telescopes: Optics (II)\n\n16.  Optical/Infred Detectors (I)\n\n17.  Optical/Infred Detectors (II)\n\n18.  Final examination\n\nCourse Outline (brief):\n\n·      Celestial Sphere and Coordinate Systems\n\n·      Time\n\n·      Photometry\n\n·      Telescopes and Optics (optional)\n\n·      Optical Detectors (optional)  \n·      Observing at Other Wavelengths (optional)",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "實驗/實作",
+            "note": "實作天文觀測 (天候, 時間允許)"
+        },
+        {
+            "type": "實地考察、參訪",
+            "note": "戶外天文觀測 (天候, 時間允許)"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 40,
+            "note": "20% x 2次"
+        },
+        {
+            "type": "期中考",
+            "weight": 30,
+            "note": "筆試隨堂考(closed books)"
+        },
+        {
+            "type": "期末考",
+            "weight": 30,
+            "note": "筆試隨堂考(closed books)"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

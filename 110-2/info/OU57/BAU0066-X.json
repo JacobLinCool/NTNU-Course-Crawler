@@ -1,0 +1,74 @@
+{
+    "year": 110,
+    "term": 2,
+    "name": "資料科學與管理決策",
+    "teachers": [
+        "何宗武"
+    ],
+    "department": "OU57",
+    "code": "BAU0066",
+    "credit": 3,
+    "serial": 2432,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 3,
+            "from": 7,
+            "to": 9,
+            "campus": "本部",
+            "classroom": "正201"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎必須先修過【BAU0006  管理科學模式】 ◎課程開放上修",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "介紹資料科學應用在企業管理決策的方法與案例，學生主要學習資料科學的數據思考模式，和透過R軟體建立一個數位分析流程。課程學習三個方向：第1. 程式語言R；第2. 從資料結構衍生的問題意識；第3. 視覺化的問題探索。",
+    "goals": [
+        "測量未知變數降低不確定性",
+        "操作適當數據分析工具",
+        "數據解析"
+    ],
+    "syllabus": "日期\n\n內容\n\n2月16日\n\n課程介紹-- 資料科學在做什麼？機率統計的數學基礎，程式語言 & sampling\n\n2月23日\n\n預測怎麼做？1/2：細說linear model & estimation (Ch.3)\n\n3月2日\n\n預測怎麼做？2/2：細說linear model & estimation (Ch.3)\n\n3月9日\n\n預測怎麼做？1/2：細說generalized linear model & estimation (Ch.4-1&4.2)\n\n3月16日\n\n預測怎麼做？2/2：細說generalized linear model & estimation (Ch.4-2&4.3)\n\n3月23日\n\nConfusion Matrix & ROC Curves綜合討論\n\n3月30日\n\n第1次 筆試\n\n4月6日\n\nLASSO & Ridge Regression (Ch.6-1 & 6.2, 6.5)\n\n4月13日\n\nTree-based Methods (Ch.8-1~8-2)\n\n4月20日\n\nTree-based Methods (Ch.8-2~8-3)+ SVM (Ch.9.1 &9.2)\n\n4月27日\n\nSVM (Ch.9.3-9.6)\n\n5月4日\n\n第2次 筆試\n\n5月11日\n\nPCA method (Ch.10.1-10.2)\n\n5月18日\n\nClusters (Ch.10.3)\n\n5月25日\n\nDimension Reduction (Ch.6-3 & 6.4)\n\n6月1日\n\n第3次筆試",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "上課依照安排主題，講解資料分析方法的意義"
+        },
+        {
+            "type": "問題解決教學",
+            "note": "問題解決方案提出"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 30,
+            "note": "資料分析方法實做"
+        },
+        {
+            "type": "期中考",
+            "weight": 40,
+            "note": "兩次筆試"
+        },
+        {
+            "type": "期末考",
+            "weight": 20,
+            "note": "一次筆試"
+        },
+        {
+            "type": "專題",
+            "weight": 10,
+            "note": "學習心得和專案報告-檔案繳交"
+        }
+    ],
+    "prerequisite": "◎必須先修過【BAU0006  管理科學模式】",
+    "general_core": []
+}

@@ -1,0 +1,74 @@
+{
+    "year": 109,
+    "term": 1,
+    "name": "基礎人體生理學",
+    "teachers": [
+        "張孜菁"
+    ],
+    "department": "EU06",
+    "code": "HGU0317",
+    "credit": 3,
+    "serial": 803,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 6,
+            "to": 8,
+            "campus": "本部",
+            "classroom": "誠205"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "1",
+    "classes": "",
+    "dept_group": "B",
+    "hours": 3,
+    "description": "本課程目標為介紹人體生理學之基本概念，使學生瞭解動物各系統的功能，與運作機制。",
+    "goals": [
+        "能熟悉並認知人體生理系統的功能及機制。",
+        "能體認人體生理學的內涵，並以人體生理學為基礎探討相關議題。",
+        "能夠吸收專業知識並且將其轉化與表達"
+    ],
+    "syllabus": "週次 (日期)                授課內容                               \n1 (09/10)              I. Course introduction\n\n                             II. Interactions between cells and envrionment   \n\n2 (09/17)              Neuronal physiology                               \n\n3 (09/24)              The central nervous system             \n\n4 (10/01)              The peripheral nervous system (& autonomic nervous system)                          \n\n5  (10/08)             The sensory system\n\n6  (10/15)             1st Exam                      \n\n7  (10/22)             Endocrine system\n\n8  (10/29)             Muscle Physiology             \n\n9 (11/05)              Circulatory systems I                   \n\n10 (11/12)            Circulatory systems II                         \n\n11 (11/19)             Immune system\n\n12 (11/26)             2nd Exam            \n\n13 (12/03)             Respiratory system           \n\n14 (12/10)             Physiology of kidney                           \n\n15 (12/17)             Digestive system and metabolism (1)                                       \n\n16 (12/24)             Digestive system and metabolism (2)\n\n17 (12/31)             Reproduction system\n\n18 (01/07)             Final Exam",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "使用一般課本、自編講義媒材授課"
+        },
+        {
+            "type": "媒體融入教學",
+            "note": "運用數位平台與自製簡報檔案教學"
+        }
+    ],
+    "grading": [
+        {
+            "type": "期中考",
+            "weight": 60,
+            "note": "兩次期中考各佔30% (選擇題(20%); 簡答題(10%))"
+        },
+        {
+            "type": "期末考",
+            "weight": 30,
+            "note": "選擇題(20%)\n簡答題(10%)"
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 5,
+            "note": ""
+        },
+        {
+            "type": "出席",
+            "weight": 5,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

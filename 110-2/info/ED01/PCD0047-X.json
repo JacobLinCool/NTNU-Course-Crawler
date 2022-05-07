@@ -1,0 +1,78 @@
+{
+    "year": 110,
+    "term": 2,
+    "name": "試題作答理論的應用",
+    "teachers": [
+        "劉振維"
+    ],
+    "department": "ED01",
+    "code": "PCD0047",
+    "credit": 2,
+    "serial": 352,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 4,
+            "from": 8,
+            "to": 9,
+            "campus": "本部",
+            "classroom": "教619"
+        }
+    ],
+    "programs": [
+        "大數據學程"
+    ],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 2,
+    "description": "本課程主要目的是教授及引導碩博士班學生從事試題作答理論應用實務與研究。本課程將整合學生已有之心理計量學、教育心理學與諮商心理學的背景，透過對照古典測驗理論及現代測驗理論的差異特徵，期使學生能更深入體會現代測驗理論在測量應用的地位，進而能規劃並運用於碩博士論文研究當中，同時也能對採用試題作答理論的理論研究與應用研究，評鑑其合理性與適當性。",
+    "goals": [
+        "理解試題作答理論應用的基本術語、概念與原理知識。",
+        "理解試題作答理論應用的基本程序與方法知識  。",
+        "執行試題作答理論應用的基本程序與方法 (相關軟體，如 eRm in R...) 。",
+        "評鑑試題作答理論應用實徵研究中的程序與方法。",
+        "規劃並設計獨立實徵研究的程序與方法。"
+    ],
+    "syllabus": "National Taiwan Normal University\n\nCourse Syllabus\n\nwith effect from Semester\n\nCourse Title:\n\n**Item Response Theory**\n\nCourse Code:\n\nPCD0047\n\nCredit Units:\n\n2\n\nPrerequisites:\n\nStatistics\n\nMedium of Instruction:\n\nChinese/English\n\nMedium of Assessment:\n\nChinese/English\n\n**Instructor****/TA**\n\n**Room**\n\n**Phone No.**\n\n**Email**\n\n**Consultation**\n\nLIU, Chen-Wei\n\nEdu 608\n\n3788\n\ncwliu@ntnu.edu.tw\n\nBy appointment\n\n*   **Course Aims**\n\n*   To introduce the concepts of statistics in item response theory (IRT) models.\n*   To develop students’ understanding of advanced IRT models and applications.\n\n*   **Teaching and Learning Activities (TLAs)**\n\n*   Lectures\n\nConcepts, knowledge, and relevant examples are provided and explained\n\n*   Class discussion\n\nQuestions are given in/after class\n\n*   Computer Software Practice\n\nDemonstration and hand-on experience of using statistical software to analyze datasets are provided. Explanation and interpretation on the results are instructed.\n\n*   **Assessment Tasks/Activities**\n\n**Assessment**\n\n**Weighting**\n\n**Requirement**\n\n**Permission**\n\nDiscussion\n\n**20%**\n\nOral discussion\n\n    Involvement\n\n  10%\n\n    Response\n\n  10%\n\nPaper Presentation\n\n**30%**\n\nSlides & Presentation\n\n    Details\n\n5%\n\n    Explanation\n\n10%\n\n    Supplement\n\n10%\n\n    Revision\n\n5%\n\nAfter presentation\n\nProject Presentation\n\n**25%**\n\nSlides & Presentation\n\n    Details\n\n10%\n\n    Explanation\n\n10%\n\n    Time Control\n\n5%\n\nReport\n\n**25%**\n\nAPA style\n\n    Purpose\n\n5%\n\n    Design\n\n5%\n\n    Result\n\n10%\n\n    Discussion\n\n5%\n\n**_Note_:**\n\n*   **No late presentation/report will be accepted for credit.**\n*   **Students must get involved in discussion during class for Discussion credit.**\n*   **The first version of the slides must be given on Moodle before the day of class.**\n*   **The second version of the slides must be given on Moodle within one week.**\n*   **The report must be submitted within one week after the day of presentation.**\n*   **File name format: for example, yourname\\_Ch2.pptx (or .pdf)**\n\n*   **Class Schedule**\n\nClass\n\nSubject\n\nReadings\n\n1\n\nR software & New Rules of Measurement\n\nCh2\n\n2\n\nIRT as Model-Based Measurement\n\nCh3\n\n3\n\nBinary IRT Models\n\nCh4\n\n4\n\nPolytomous IRT Models\n\nCh5\n\n5\n\nTrait Level Measurement Scale\n\nCh6\n\n6\n\nTrait Level Measurement Scale\n\nCh6\n\n7\n\nMeasuring Persons\n\nCh7\n\n8\n\nMeasuring Persons\n\nCh7\n\n9\n\nCalibrating Items: Parameter Estimation\n\nCh8\n\n10\n\nAssessing the Fit of IRT Models\n\nCh9\n\n11\n\nDifferential Item Functioning\n\n6\n\n12\n\nComputerized Adaptive Testing\n\n8\n\n13\n\nCognitive Diagnosis Modeling\n\n4\n\n14\n\nCustomizing Models in mirt\n\n7\n\n15\n\nProject Presentation\n\n16\n\nProject Presentation\n\n17\n\nReport\n\n18\n\nReport\n\n*   **Reading List**\n\n**Compulsory Readings**\n\nEmbretson, S. E., & Reise, S. P. (2000). _Item response theory for psychologists_. NJ, USA: Lawrence Erlbaum Associates.\n\n**Additional Readings**\n\n1.  Andrich, D. (1996). A hyperbolic cosine latent trait model for unfolding polytomous responses: Reconciling Thurstone and Likert methodologies. _British Journal of Mathematical and Statistical Psychology, 49_(2), 347-365.\n2.  Andrich, D. (2010). Rasch models _International encyclopedia of education_ (pp. 111-122): Pergamon.\n3.  Chalmers, R. P. (2012). mirt: A multidimensional item response theory package for the R environment. _Journal of statistical Software, 48_(1), 1-29.\n4.  de la Torre, J., van der Ark, L. A., & Rossi, G. (2018). Analysis of clinical data from a cognitive diagnosis modeling framework. _Measurement and Evaluation in Counseling and Development, 51_(4), 281-296.\n5.  Fox, J.-P. (2007). Multilevel IRT modeling in practice with the package mlirt. _Journal of Statistical Software, 20_(5), 1-16.\n6.  Gonçalves, F., Gamerman, D., & Soares, T. (2013). Simultaneous multifactor DIF analysis and detection in Item Response Theory. _Computational Statistics & Data Analysis, 59_, 144-160.\n7.  Liu, C.-W., & Chalmers, R. P. (2018). Fitting item response unfolding models to Likert-scale data using mirt in R. _PloS one, 13_(5), e0196292.\n8.  Meijer, R. R., & Nering, M. L. (1999). Computerized adaptive testing: Overview and introduction. _Applied psychological measurement, 23_(3), 187-194.\n9.  Noel, Y., & Dauvier, B. (2007). A beta item response model for continuous bounded responses. _Applied Psychological Measurement, 31_(1), 47-73.\n10.  Reckase, M. D. (2009). Multidimensional item response theory models _Multidimensional item response theory_ (pp. 79-112): Springer.",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 20,
+            "note": ""
+        },
+        {
+            "type": "報告",
+            "weight": 25,
+            "note": ""
+        },
+        {
+            "type": "專題",
+            "weight": 25,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

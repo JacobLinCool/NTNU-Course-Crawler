@@ -1,0 +1,73 @@
+{
+    "year": 110,
+    "term": 2,
+    "name": "行動學習",
+    "teachers": [
+        "陳志洪"
+    ],
+    "department": "EM08",
+    "code": "ICC0091",
+    "credit": 3,
+    "serial": 467,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 4,
+            "from": 2,
+            "to": 4,
+            "campus": "本部",
+            "classroom": "教1011"
+        }
+    ],
+    "programs": [
+        "大數據學程"
+    ],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "The term mobile learning (m-learning) refers to the use of mobile and handheld devices, such as PDAs, mobile phones, laptops and tablet PCs, in teaching and learning. The course introduces the mobile technologies and theories that the technology could bring to education, explains the accessibility issues, and some ongoing projects, and provides effects for social impacts.",
+    "goals": [
+        "瞭解行動學習之定義及內涵",
+        "瞭解行動學習之相關理論",
+        "設計行動學習環境、工具、及教材",
+        "針對不同需求設計學動學習應用",
+        "實際體驗行動學習活動及設計過程"
+    ],
+    "syllabus": "分為兩個主題，前半段（前八週）為深化閱讀與討論學習理論，作為行動學習的設計基礎，後半段（後八週）為強化做中學的實作能力，落實設計。",
+    "methodologies": [
+        {
+            "type": "討論法",
+            "note": "閱讀行動學習相關論文或書籍，並以小組方式討論與報告，作為設計之理論基礎，以扣合後續的行動學習系統設計"
+        },
+        {
+            "type": "實驗/實作",
+            "note": "以APP Inventor作為實際發展設計行動學習系統，先提出個人的需求與企劃，再分享修正，最後落實於實作"
+        }
+    ],
+    "grading": [
+        {
+            "type": "課堂討論參與",
+            "weight": 20,
+            "note": ""
+        },
+        {
+            "type": "出席",
+            "weight": 20,
+            "note": "每週出席"
+        },
+        {
+            "type": "專題",
+            "weight": 60,
+            "note": "期中、期末專題各佔30%"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

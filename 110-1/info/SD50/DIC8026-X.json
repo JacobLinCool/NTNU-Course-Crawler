@@ -1,0 +1,73 @@
+{
+    "year": 110,
+    "term": 1,
+    "name": "專題討論",
+    "teachers": [
+        "李佩珍"
+    ],
+    "department": "SD50",
+    "code": "DIC8026",
+    "credit": 1,
+    "serial": 2659,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 3,
+            "from": 3,
+            "to": 3,
+            "campus": "校外",
+            "classroom": "校外教室"
+        }
+    ],
+    "programs": [],
+    "comment": "中研院B208,BRC,AS",
+    "restrict": "允許重複修 ◎課程不開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 1,
+    "description": "",
+    "goals": [
+        "Expose students to various research topics in biodiversity",
+        "Provide students trainings in communicating science critically and effectively",
+        "Provide students trainings in science research ethics and strategies"
+    ],
+    "syllabus": "Week 1:  Course introduction\n\nWeek 2:  Guest lecture\n\nWeek 3:  Guest lecture\n\nWeek 4:  Guest lecture\n\nWeek 5:  Guest lecture\n\nWeek 6:  Guest lecture\n\nWeek 7:  Guest lecture\n\nWeek 8:  Guest lecture\n\nWeek 9:  Guest lecture\n\nWeek 10: Student presentation\n\nWeek 11: Student presentation\n\nWeek 12: Student presentation\n\nWeek 13: Student presentation\n\nWeek 14: Student presentation\n\nWeek 15: Student presentation\n\nWeek 16: Student presentation\n\nWeek 17: Student presentation\n\nWeek 18: Student presentation",
+    "methodologies": [
+        {
+            "type": "Formal lecture",
+            "note": "Handouts and powerpoint slides"
+        },
+        {
+            "type": "Group discussion",
+            "note": "Q&A"
+        },
+        {
+            "type": "Case studies",
+            "note": "student presentation"
+        }
+    ],
+    "grading": [
+        {
+            "type": "Class discussion involvement",
+            "weight": 25,
+            "note": "1-1具備探究生命科學之專業知識"
+        },
+        {
+            "type": "Attendances",
+            "weight": 25,
+            "note": "4-1具備正確的科學態度，瞭解遵守科學倫理之重要性"
+        },
+        {
+            "type": "Presentation",
+            "weight": 50,
+            "note": "3-1具備針對實驗結果，進行正確分析、歸納並發表研究成果的能力"
+        }
+    ],
+    "prerequisite": "The course can be retaken ◎Unavailable for M.A. program students (M.A. program courses excepted) and B.A. program students.",
+    "general_core": []
+}

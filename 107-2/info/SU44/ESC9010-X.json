@@ -1,0 +1,78 @@
+{
+    "year": 107,
+    "term": 2,
+    "name": "地球內部物理化學",
+    "teachers": [
+        "林佩瑩"
+    ],
+    "department": "SU44",
+    "code": "ESC9010",
+    "credit": 3,
+    "serial": 2918,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 2,
+            "to": 4,
+            "campus": "公館",
+            "classroom": "Ｃ403"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎限大三大四 ◎限碩一碩二碩三以上修習",
+    "form_s": "",
+    "classes": "9",
+    "dept_group": "",
+    "hours": 3,
+    "description": "依據地球內部分層的組成結構，分別探討地球內部組成在不同溫度、壓力條件下的物理與化學特性，進而了解地球內部運動動力機制。",
+    "goals": [
+        "了解基礎熱導方程",
+        "了解不同溫度、壓力於不同深度對地球內部組成的物理與化學變化",
+        "分組報告地球內部相關現今研究"
+    ],
+    "syllabus": "第01週：課程介紹、地球組成系統概論  \n第02週：熱導方程I  \n第03週：熱導方程II  \n第04週：地球1D 層狀構造介紹及物理與化學特性I  \n第05週：地球1D 層狀構造介紹及物理與化學特性II  \n第06週：高溫高壓礦物物理  \n第07週：地球岩石圈與軟流圈系統介紹I  \n第08週：地球岩石圈與軟流圈系統介紹II  \n第09週：地球內部地函組成物理與化學特性I  \n第10週：地球內部地函組成物理與化學特性II  \n第11週：地球內部外核組成物理與化學特性I  \n第12週：地球內部外核組成物理與化學特性II  \n第13週：地球內部內核組成物理與化學特性I  \n第14週：地球內部內核組成物理與化學特性II  \n第15週：地球地體動力學I  \n第16週：地球地體動力學II  \n第17週：專題文章討論I  \n第18週：專題文章討論II  \n  \n(英文)  \nWeek1: Course introduction, General introduction to deep earth  \nWeek2: heat equation I  \nWeek3: heat equation II  \nWeek4: Study of Earth’s 1D layering structure I  \nWeek5: Study of Earth’s 1D layering structure II  \nWeek6: Study of high pressure high temperature mineral physics  \nWeek7: Study of lithosphere and asthenosphere system of Earth I  \nWeek8: Study of lithosphere and asthenosphere system of Earth II  \nWeek9: Study of Earth’s mantle I  \nWeek10: Study of Earth’s mantle II  \nWeek11: Study of Earth’s outer-core I  \nWeek12: Study of Earth’s outer-core II  \nWeek13: Study of Earth’s inner-core I  \nWeek14: Study of Earth’s inner-core II  \nWeek15: Geodynamics I  \nWeek16: Geodynamics II  \nWeek17: Topic paper presentation and discussion  \nWeek18: Topic paper presentation and discussion",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "課堂講述基本原理\nLecture the fundamental knowledge"
+        },
+        {
+            "type": "討論法",
+            "note": "專題學術文章討論\nTopic paper presentation and discussion"
+        },
+        {
+            "type": "合作學習",
+            "note": "分組互相討論\nStudent groups discussion"
+        }
+    ],
+    "grading": [
+        {
+            "type": "課堂討論參與",
+            "weight": 20,
+            "note": ""
+        },
+        {
+            "type": "出席",
+            "weight": 20,
+            "note": ""
+        },
+        {
+            "type": "報告",
+            "weight": 40,
+            "note": ""
+        },
+        {
+            "type": "其他",
+            "weight": 20,
+            "note": "In-class quiz"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

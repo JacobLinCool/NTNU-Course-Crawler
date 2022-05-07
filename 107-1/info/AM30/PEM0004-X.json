@@ -1,0 +1,79 @@
+{
+    "year": 107,
+    "term": 1,
+    "name": "體育課程研究",
+    "teachers": [
+        "掌慶維"
+    ],
+    "department": "AM30",
+    "code": "PEM0004",
+    "credit": 3,
+    "serial": 13,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 5,
+            "from": 2,
+            "to": 4,
+            "campus": "本部",
+            "classroom": "體育館一2樓會議室"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程旨在有系統地介紹體育課程設計的基本理念與研究新知，本課程將透過講授、研讀文獻與討論，強調培養研究生具備體育課程設計知能與研究興趣。",
+    "goals": [
+        "認識體育課程的發展趨勢與重要論題",
+        "瞭解體育課程的各種模式(models)",
+        "設計與批判各級學校之體育課",
+        "設計體育課程，並且撰寫研究計畫"
+    ],
+    "syllabus": "教學目標: 一、 了解課程的歷史沿革跟理解體育課程的概念。 二、 理解體育課程理論、課程計畫及課程實施等基本知識。 三、 能找出可供研究的課題。 教材內容: 一 課程介紹、體育課程分析 二 An introduction-1 三 An introduction-2 四 Curriculum theory- introduction 五 Curriculum value orientations 六 Overview of physical education curriculum models 七 Understanding the school setting 八 Processes of curriculum innovation and change 九 Curriculum design 十 Sport education model-  \n十一 TGFU  \n十二 Fitness education model 十三 Movement analysis model 十四 Developmental model  \n十五 TPSR model十六 12年國教體育課程 十七 Program evaluation 十八 Curriculum issues and concerns",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "講述說明課程理論和課程模式"
+        },
+        {
+            "type": "討論法",
+            "note": "討論課程議題"
+        },
+        {
+            "type": "媒體融入教學",
+            "note": "運用案例、影片融入教學"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 30,
+            "note": "每次課堂作業"
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 20,
+            "note": "課堂主動參與討論"
+        },
+        {
+            "type": "出席",
+            "weight": 20,
+            "note": "出席情況"
+        },
+        {
+            "type": "報告",
+            "weight": 30,
+            "note": "期末作業與報告"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

@@ -1,0 +1,80 @@
+{
+    "year": 108,
+    "term": 2,
+    "name": "會計學（二）",
+    "teachers": [
+        "陳慧玲"
+    ],
+    "department": "OU57",
+    "code": "BAU0037",
+    "credit": 3,
+    "serial": 2357,
+    "group": "",
+    "quota": {
+        "limit": 60,
+        "additional": 34
+    },
+    "schedule": [
+        {
+            "day": 5,
+            "from": 6,
+            "to": 8,
+            "campus": "本部",
+            "classroom": "誠301"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎必須先修過【BAU0036  會計學（一）】",
+    "form_s": "1",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "學生藉由本課程可以學習：\n1.\t瞭解如何編製及分析現金流量表；\n2.\t瞭解如何解釋及記錄應收款項、固定資產、負債及投資；\n3.\t瞭解如何報導及分析權益及保留盈餘。",
+    "goals": [
+        "能編製財務報表，並根據會計資訊做決策",
+        "能夠瞭解會計人員面對企業倫理的兩難",
+        "能夠瞭解倫理的議題",
+        "使同學學習真實且允當地表達企業財務狀況、經營績效及財務狀況變動，以提供高品質財務資訊",
+        "能利用會計提供決策相關之財務資訊進行決策"
+    ],
+    "syllabus": "因應學校武漢肺炎延後開學教學設計原則，第17週改為自主教學，第18週的課程改由前16週分次補課。\n\n因應學校防疫採3週全校遠距教學，取消第1次小考，故修正學期成績配分\n\n第1-2週：Accounting for Receivables\n\n第3-4週：Plant Assets, Natural Resources, and Intangible Assets\n\n第5-6週：Current Liabilities\n\n第7-8週：Non-current Liabilities\n\n第9週：Mid-term exam\n\n第10-12週：Corporations: Organization, Share Transactions, and Equity\n\n第13-15週：Statement of Cash Flows\n\n第16週：Final Exam\n\n第17週：自主學習\n\n第18週：此週課程已在前16週分次補課",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "講述會計理論與實務，並教導學生有系統地記錄交易，並編製財務報表。"
+        },
+        {
+            "type": "討論法",
+            "note": "全班於課堂中討論重要會計議題"
+        },
+        {
+            "type": "實驗/實作",
+            "note": "引導學生於課堂有系統記錄交易"
+        }
+    ],
+    "grading": [
+        {
+            "type": "期中考",
+            "weight": 50,
+            "note": "計算題(包含分錄及編製財務報表)"
+        },
+        {
+            "type": "期末考",
+            "weight": 30,
+            "note": "計算題(包含分錄及編製財務報表)"
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 5,
+            "note": "出席並參與課堂討論的情形，遠距教學練習題"
+        },
+        {
+            "type": "其他",
+            "weight": 15,
+            "note": "小考及自主學習，其中，小考佔14%，自主學習佔1%"
+        }
+    ],
+    "prerequisite": "◎必須先修過【BAU0036  會計學（一）】",
+    "general_core": []
+}

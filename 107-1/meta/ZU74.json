@@ -1,0 +1,73 @@
+[
+    {
+        "year": 107,
+        "term": 1,
+        "name": "IB哲學與實作（IB）",
+        "teachers": [
+            "劉美慧"
+        ],
+        "department": "EU",
+        "code": "IBU0001",
+        "credit": 3,
+        "serial": 634,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 6,
+                "to": 8,
+                "campus": "本部",
+                "classroom": "樸301"
+            }
+        ],
+        "programs": [
+            "國際教師學程-華語文",
+            "國際教師學程-數學",
+            "國際教師學程-物理",
+            "國際教師學程-國際"
+        ],
+        "comment": "",
+        "restrict": "◎第一階段限 國際教師學程-國際◎限國際教師學程-國際選修",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 1,
+        "name": "華語文教材教法研究",
+        "teachers": [
+            "蔡雅薰"
+        ],
+        "department": "IM84",
+        "code": "CLM0076",
+        "credit": 3,
+        "serial": 1381,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 2,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "國際會議中心2F會議室"
+            }
+        ],
+        "programs": [
+            "國際教師學程-華語文"
+        ],
+        "comment": "",
+        "restrict": "◎課程不開放上修",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    }
+]

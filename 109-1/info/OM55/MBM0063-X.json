@@ -1,0 +1,79 @@
+{
+    "year": 109,
+    "term": 1,
+    "name": "投資學",
+    "teachers": [
+        "蔡蒔銓"
+    ],
+    "department": "OM55",
+    "code": "MBM0063",
+    "credit": 3,
+    "serial": 2500,
+    "group": "",
+    "quota": {
+        "limit": 5,
+        "additional": 35
+    },
+    "schedule": [
+        {
+            "day": 5,
+            "from": 2,
+            "to": 4,
+            "campus": "本部",
+            "classroom": "雲608"
+        }
+    ],
+    "programs": [],
+    "comment": "因本課程需進行先修課程確認，僅開放部分名額系統選課（在本校研究所就讀期間已於本校修習指定先修課程者），其餘由老師於課堂發放授權碼。",
+    "restrict": "◎必須先修過【BAU0036  會計學（一）】、【BAU0038  經濟學（一）】 ◎課程不開放上修",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "在金融市場日益創新、理財需求日趨殷切之今日，能夠成熟多樣化的投資工具與市場發展，並掌握市場動態以洞燭投資先機，無論對個人理財規劃或企業財務決策均是重要課題。特別地，2007年美國爆發次級房貸風暴，2008年全球性的金融危機，引起全球金融市場的震撼，亦使投資思維逐漸地改變。因此，本課程旨在探討投資學相關理論及其推導，並佐以國內外實務範例或個案說明，使學生了解（1）哪些資產可以進行投資；（2）瞭解資產的風險與預期報酬率；（3）評估資產價值；（4）分析影響資產價格的因素；（5）瞭解各種投資策略，以提升投資的報酬或控制投資風險。",
+    "goals": [
+        "Learning financial market dynamics, asset classes, and investment tools",
+        "Learning risks and returns of investment and evaluation of assets",
+        "Understanding factors affecting asset prices and portfolio construction in practice",
+        "Developing skills in managing portfolio and trading"
+    ],
+    "syllabus": "1.  Introduction to Investments\n2.  Financial Markets\n3.  Risk and Return\n4.  Portfolio Theory\n5.  Portfolio Theory\n6.  CAPM and APT\n7.  Guest Speaker\n8.  Market Efficiency\n9.  Guest Speaker\n10.  Equity Investment Practice\n11.  Fixed Income Markets\n12.  Fixed Income Markets\n13.  Guest Speaker\n14.  Derivatives Markets\n15.  Derivatives Markets\n16.  Guest Speaker\n17.  Risk Management\n18.  Portfolio Management",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "課堂授課、文獻導讀"
+        },
+        {
+            "type": "合作學習",
+            "note": "分組討論"
+        },
+        {
+            "type": "專題研究",
+            "note": "專題報告"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 20,
+            "note": "分組作業"
+        },
+        {
+            "type": "期末考",
+            "weight": 40,
+            "note": ""
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 20,
+            "note": ""
+        },
+        {
+            "type": "報告",
+            "weight": 20,
+            "note": ""
+        }
+    ],
+    "prerequisite": "◎必須先修過【BAU0036  會計學（一）】、【BAU0038  經濟學（一）】",
+    "general_core": []
+}

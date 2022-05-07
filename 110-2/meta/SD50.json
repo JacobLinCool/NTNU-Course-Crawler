@@ -1,0 +1,164 @@
+[
+    {
+        "year": 110,
+        "term": 2,
+        "name": "微生物學特論",
+        "teachers": [
+            "郭志鴻"
+        ],
+        "department": "SD50",
+        "code": "DID0003",
+        "credit": 3,
+        "serial": 2600,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 7,
+                "to": 9,
+                "campus": "校外",
+                "classroom": "教室自排"
+            }
+        ],
+        "programs": [],
+        "comment": "本課程在中研院A236教室上課(A236,AT,AS Campus)",
+        "restrict": "◎課程不開放上修",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 2,
+        "name": "臺灣生態進階課程",
+        "teachers": [
+            "游智凱",
+            "王忠信"
+        ],
+        "department": "SD50",
+        "code": "DID0011",
+        "credit": 3,
+        "serial": 2601,
+        "group": "",
+        "quota": {
+            "limit": 10,
+            "additional": 5
+        },
+        "schedule": [
+            {
+                "day": 5,
+                "from": 2,
+                "to": 4,
+                "campus": "校外",
+                "classroom": "教室自排"
+            }
+        ],
+        "programs": [],
+        "comment": "本課程在中研院B204教室上課(B204,BRC,AS Campus)",
+        "restrict": "◎課程不開放上修",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 2,
+        "name": "生態與保育",
+        "teachers": [
+            "陳仲吉",
+            "林登秋"
+        ],
+        "department": "SD50",
+        "code": "DIC8001",
+        "credit": 3,
+        "serial": 2602,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 7,
+                "to": 9,
+                "campus": "公館",
+                "classroom": "Ｃ302"
+            }
+        ],
+        "programs": [],
+        "comment": "中研院B208 BRC,AS",
+        "restrict": "◎課程不開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 2,
+        "name": "專題討論",
+        "teachers": [
+            "林仲平"
+        ],
+        "department": "SD50",
+        "code": "DIC8026",
+        "credit": 1,
+        "serial": 2603,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 3,
+                "to": 3,
+                "campus": "校外",
+                "classroom": "校外教室"
+            }
+        ],
+        "programs": [],
+        "comment": "中研院B208 BRC,AS",
+        "restrict": "允許重複修 ◎課程不開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 2,
+        "name": "實驗室輪調學習",
+        "teachers": [
+            "許鈺鸚"
+        ],
+        "department": "SD50",
+        "code": "DIC8027",
+        "credit": 1,
+        "serial": 2604,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 6,
+                "to": 6,
+                "campus": "校外",
+                "classroom": "校外教室"
+            }
+        ],
+        "programs": [],
+        "comment": "中研院Instructor' labs",
+        "restrict": "允許重複修 ◎課程不開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    }
+]

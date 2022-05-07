@@ -1,0 +1,72 @@
+{
+    "year": 109,
+    "term": 2,
+    "name": "資訊架構專題研究",
+    "teachers": [
+        "謝建成"
+    ],
+    "department": "EM15",
+    "code": "ISC0411",
+    "credit": 3,
+    "serial": 523,
+    "group": "",
+    "quota": {
+        "limit": 30,
+        "additional": 3
+    },
+    "schedule": [
+        {
+            "day": 1,
+            "from": 2,
+            "to": 4,
+            "campus": "本部",
+            "classroom": "圖資所研討室B"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "This course focuses on planning, designing, managing, and evaluating web resources. Learners evaluate the content and technical aspects of existing informational, instructional, and promotional websites designed for libraries and other organizations. Issues such as web findability, web usability, the concept of user-centered design, and card sorting will be discussed. Finally, students design a plan for managing, sustaining, and/or expanding their website. This course will expand your thinking about the integral role of information architecture in libraries and schools. At the end of this course, you will be able to understand basic principles of web usability and accessibility, understand how to organize and present digital information on the web.",
+    "goals": [
+        "This course focuses on planning, designing, managing, and evaluating web resources"
+    ],
+    "syllabus": "1.      Course Introduction\n\n2.      Introduction of Information Architecture 1(Ch.1&2)\n\n3.      Introduction of Information Architecture 2 (Ch.3&4)\n\n4.      Basic Principles of Information Architecture 1(Ch.5&6)\n\n5.      Basic Principles of Information Architecture2(Ch.7&8)\n\n6.      Basic Principles of Information Architecture3(Ch.9&10)\n\n7.      Ambient Findability 1 (Peter Morville，2005)\n\n9.      Ambient Findability 2 (Peter Morville，2005)\n\n10.    Card Sorting (Donna Spencer，2009)\n\n11.    Card Sorting Practice (Librarians)\n\n12.    Paper Presentations 1 (Findability)\n\n13.    Paper Presentations 2 (Labeling)",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "基本資訊架構閱讀報告"
+        },
+        {
+            "type": "實驗/實作",
+            "note": "個案研究實作"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 20,
+            "note": "期中作業2次(10%)，期末作業1次(10%)"
+        },
+        {
+            "type": "期末考",
+            "weight": 20,
+            "note": "課堂指定文本與文獻內容考試"
+        },
+        {
+            "type": "報告",
+            "weight": 30,
+            "note": "指定文本與文獻課堂報告"
+        },
+        {
+            "type": "專題",
+            "weight": 30,
+            "note": "小組專題實作，每組至多2人"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

@@ -1,0 +1,89 @@
+{
+    "year": 107,
+    "term": 1,
+    "name": "數學學習評量",
+    "teachers": [
+        "譚克平"
+    ],
+    "department": "SM45",
+    "code": "SEC0075",
+    "credit": 3,
+    "serial": 2678,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 10,
+            "to": 12,
+            "campus": "公館",
+            "classroom": "教室自排"
+        }
+    ],
+    "programs": [
+        "大數據學程"
+    ],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程最主要目的是介紹數學教學測量與評鑑的基本理論與觀念，包括對國內外大型測驗進行的方式有所瞭解。並介紹測量的相關理論，命題的方法等。課程之內將會提供學生測量與評鑑的實作經驗。",
+    "goals": [
+        "瞭解數學學習評量的理論",
+        "瞭解數學學習評量的實務",
+        "瞭解如何分析題目的表現",
+        "瞭解如何設計數學制式與非制式題目"
+    ],
+    "syllabus": "1.撰寫數學科題目為何困難？\n\n2.九年一貫數學科及國中基測數學科的相關議題\n\n3.教室中數學評量的目的\n\n4.評量的觀念：對齊(alignment)的觀念、公平性、效度、信度等原則、形成性評量、\n\n  總結性評量\n\n5.NCTM 的課程與評量指標\n\n6.數學評鑑的國際觀： TIMSS 及 PISA\n\n7.撰寫選擇題的方法介紹\n\n8.SOLO分類系統簡介\n\n9.古典測驗理論簡介\n\n10.題本信度與效度的概念\n\n11.題目分析的原則、難度(item difficulty)、鑑別度(discrimination)、錯誤分析(error analysis)\n\n12.個別題目信度(item reliability)、試題功能差異(differential item functioning, DIF)\n\n13.現代測驗理論IRT簡介\n\n14.標準設定 (standards setting)方法簡介\n\n15.問答題(constructed response items)\n\n16.評分標準架構 (rubrics, grading scheme)、整體性評分(holistic scoring)、\n\n   分析性評分(analytic scoring)、評分者信度(inter-rater reliability)\n\n17.報告系統\n\n18.兩階層題目的介紹\n\n19.另類評量：實作評量(performance assessment)、檔案評量(portfolio assessment)  \n20.測驗調整的觀念、資優生的評鑑",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "講述數學習習理論與相關研究"
+        },
+        {
+            "type": "討論法",
+            "note": "以學生分小組的方式進行討論"
+        },
+        {
+            "type": "問題解決教學",
+            "note": "分析及評論各數學主題課程"
+        },
+        {
+            "type": "合作學習",
+            "note": "小組報告"
+        },
+        {
+            "type": "媒體融入教學",
+            "note": "電腦輔助教學"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 20,
+            "note": "平時作業與閱讀"
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 10,
+            "note": "參與課堂討論的情形"
+        },
+        {
+            "type": "出席",
+            "weight": 20,
+            "note": "課堂出席的情形"
+        },
+        {
+            "type": "報告",
+            "weight": 50,
+            "note": "期末報告"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

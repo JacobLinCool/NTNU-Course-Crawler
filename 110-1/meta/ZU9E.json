@@ -1,0 +1,240 @@
+[
+    {
+        "year": 110,
+        "term": 1,
+        "name": "媒體經營管理與財務分析",
+        "teachers": [
+            "陳炳宏"
+        ],
+        "department": "IM88",
+        "code": "MCM0078",
+        "credit": 3,
+        "serial": 1453,
+        "group": "",
+        "quota": {
+            "limit": 30,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 7,
+                "to": 9,
+                "campus": "本部",
+                "classroom": "綜7樓大傳所大教室"
+            }
+        ],
+        "programs": [
+            "社會與傳播學程"
+        ],
+        "comment": "",
+        "restrict": "◎課程不開放上修",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 1,
+        "name": "多元文化專題",
+        "teachers": [
+            "張文"
+        ],
+        "department": "IM89",
+        "code": "SWM0022",
+        "credit": 3,
+        "serial": 1463,
+        "group": "",
+        "quota": {
+            "limit": 30,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 2,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "誠104"
+            }
+        ],
+        "programs": [
+            "社會與傳播學程"
+        ],
+        "comment": "",
+        "restrict": "◎課程開放上修",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 1,
+        "name": "臺灣政治與經濟",
+        "teachers": [
+            "關弘昌"
+        ],
+        "department": "IU83",
+        "code": "EAU0120",
+        "credit": 3,
+        "serial": 1476,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 30
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 6,
+                "to": 8,
+                "campus": "本部",
+                "classroom": "誠102"
+            }
+        ],
+        "programs": [
+            "社會與傳播學程"
+        ],
+        "comment": "政經與區域發展領域",
+        "restrict": "",
+        "form_s": "1",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 1,
+        "name": "臺灣企業的東亞經營",
+        "teachers": [
+            "田正利"
+        ],
+        "department": "IU83",
+        "code": "EAU0051",
+        "credit": 3,
+        "serial": 1496,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 9,
+                "to": 10,
+                "campus": "本部",
+                "classroom": "教201演講廳"
+            }
+        ],
+        "programs": [
+            "社會與傳播學程"
+        ],
+        "comment": "政經與區域發展領域",
+        "restrict": "◎必須先修過【EAU0175  政治學】",
+        "form_s": "3",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 1,
+        "name": "社會工作概論",
+        "teachers": [
+            "王永慈"
+        ],
+        "department": "ZU9E",
+        "code": "PGU1020",
+        "credit": 3,
+        "serial": 3302,
+        "group": "",
+        "quota": {
+            "limit": 40,
+            "additional": 4
+        },
+        "schedule": [
+            {
+                "day": 5,
+                "from": 7,
+                "to": 9,
+                "campus": "本部",
+                "classroom": "誠104"
+            }
+        ],
+        "programs": [
+            "社會與傳播學程"
+        ],
+        "comment": "",
+        "restrict": "◎第一階段限 社會與傳播學程",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 1,
+        "name": "社會個案工作",
+        "teachers": [
+            "張文"
+        ],
+        "department": "ZU9E",
+        "code": "PGU1021",
+        "credit": 3,
+        "serial": 3303,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 10,
+                "to": 12,
+                "campus": "本部",
+                "classroom": "誠401"
+            }
+        ],
+        "programs": [
+            "社會與傳播學程"
+        ],
+        "comment": "",
+        "restrict": "◎第一階段限 社會與傳播學程",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 1,
+        "name": "數位媒體概論",
+        "teachers": [
+            "蔣旭政"
+        ],
+        "department": "ZU9E",
+        "code": "PGU1028",
+        "credit": 3,
+        "serial": 3304,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 3,
+                "to": 5,
+                "campus": "本部",
+                "classroom": "教402"
+            }
+        ],
+        "programs": [
+            "社會與傳播學程"
+        ],
+        "comment": "",
+        "restrict": "◎第一階段限 社會與傳播學程",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    }
+]

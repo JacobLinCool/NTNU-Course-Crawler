@@ -1,0 +1,242 @@
+[
+    {
+        "year": 107,
+        "term": 2,
+        "name": "都市與區域計劃",
+        "teachers": [
+            "張容瑛"
+        ],
+        "department": "LU23",
+        "code": "GEU0185",
+        "credit": 3,
+        "serial": 1900,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 5
+        },
+        "schedule": [
+            {
+                "day": 5,
+                "from": 2,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "正205"
+            }
+        ],
+        "programs": [
+            "區域學程"
+        ],
+        "comment": "",
+        "restrict": "",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "都市設計與更新",
+        "teachers": [
+            "辜永奇"
+        ],
+        "department": "LU23",
+        "code": "GEU0186",
+        "credit": 3,
+        "serial": 1901,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 5
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 10,
+                "to": 12,
+                "campus": "本部",
+                "classroom": "誠205"
+            }
+        ],
+        "programs": [
+            "區域學程"
+        ],
+        "comment": "授課教師：辜永奇老師。",
+        "restrict": "",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "國家公園與世界遺產",
+        "teachers": [
+            "李素馨"
+        ],
+        "department": "LU23",
+        "code": "GEU0187",
+        "credit": 2,
+        "serial": 1902,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 5
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 3,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "正206"
+            }
+        ],
+        "programs": [
+            "區域學程"
+        ],
+        "comment": "",
+        "restrict": "",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "地理統計",
+        "teachers": [
+            "陳哲銘"
+        ],
+        "department": "LU23",
+        "code": "GEU0016",
+        "credit": 3,
+        "serial": 1908,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 5
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 2,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "正205"
+            }
+        ],
+        "programs": [
+            "區域學程"
+        ],
+        "comment": "",
+        "restrict": "",
+        "form_s": "3",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "環境影響評估",
+        "teachers": [
+            "郭乃文"
+        ],
+        "department": "ZU89",
+        "code": "PGUS010",
+        "credit": 3,
+        "serial": 3163,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 4
+        },
+        "schedule": [
+            {
+                "day": 5,
+                "from": 2,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "誠107"
+            }
+        ],
+        "programs": [
+            "環境監測學程",
+            "區域學程"
+        ],
+        "comment": "",
+        "restrict": "◎第一階段限 環境監測學程",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "環境規劃與設計",
+        "teachers": [
+            "王文誠",
+            "李素馨"
+        ],
+        "department": "ZU9A",
+        "code": "PGUV004",
+        "credit": 4,
+        "serial": 3176,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 5
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 6,
+                "to": 9,
+                "campus": "本部",
+                "classroom": "教室自排"
+            }
+        ],
+        "programs": [
+            "區域學程"
+        ],
+        "comment": "上課教室：文學院勤4F地理系區域教室。",
+        "restrict": "◎第一階段限 區域學程",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "景觀設計",
+        "teachers": [
+            "郭維倫"
+        ],
+        "department": "ZU9A",
+        "code": "PGUV006",
+        "credit": 3,
+        "serial": 3177,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 5
+        },
+        "schedule": [
+            {
+                "day": 5,
+                "from": 7,
+                "to": 9,
+                "campus": "本部",
+                "classroom": "正205"
+            }
+        ],
+        "programs": [
+            "區域學程"
+        ],
+        "comment": "",
+        "restrict": "◎第一階段限 區域學程",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    }
+]

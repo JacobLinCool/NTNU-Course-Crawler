@@ -1,0 +1,226 @@
+[
+    {
+        "year": 109,
+        "term": 1,
+        "name": "遊憩資源策略管理",
+        "teachers": [
+            "李晶"
+        ],
+        "department": "AD31",
+        "code": "SRD0004",
+        "credit": 3,
+        "serial": 7,
+        "group": "",
+        "quota": {
+            "limit": 30,
+            "additional": 5
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 6,
+                "to": 8,
+                "campus": "本部",
+                "classroom": "綜603"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎課程開放上修",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 1,
+        "name": "運動與休閒社會學理論",
+        "teachers": [
+            "林伯修"
+        ],
+        "department": "AD31",
+        "code": "SRD0007",
+        "credit": 3,
+        "serial": 8,
+        "group": "",
+        "quota": {
+            "limit": 30,
+            "additional": 5
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 2,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "綜603"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎課程不開放上修",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 1,
+        "name": "期刊投稿研究",
+        "teachers": [
+            "王國欽"
+        ],
+        "department": "AD31",
+        "code": "SRD0010",
+        "credit": 3,
+        "serial": 9,
+        "group": "",
+        "quota": {
+            "limit": 30,
+            "additional": 3
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 2,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "綜602"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎課程不開放上修",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 1,
+        "name": "質性研究法",
+        "teachers": [
+            "麥康妮"
+        ],
+        "department": "AD31",
+        "code": "SRD0001",
+        "credit": 3,
+        "serial": 10,
+        "group": "",
+        "quota": {
+            "limit": 30,
+            "additional": 2
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 7,
+                "to": 9,
+                "campus": "本部",
+                "classroom": "綜602"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎課程不開放上修",
+        "form_s": "1",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 1,
+        "name": "運動休閒與餐旅管理專題討論",
+        "teachers": [
+            "林伯修"
+        ],
+        "department": "AD31",
+        "code": "SRD0024",
+        "credit": 1,
+        "serial": 11,
+        "group": "",
+        "quota": {
+            "limit": 30,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 11,
+                "to": 11,
+                "campus": "本部",
+                "classroom": "綜508會議室"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "允許重複修 ◎必須先修過【SRD0001  質性研究法】、【SRD0002  量化研究法】其中一門 ◎課程不開放上修",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 1,
+        "name": "遊憩活動風險管理",
+        "teachers": [
+            "李晶"
+        ],
+        "department": "AM31",
+        "code": "SRC0011",
+        "credit": 3,
+        "serial": 45,
+        "group": "",
+        "quota": {
+            "limit": 30,
+            "additional": 5
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 6,
+                "to": 8,
+                "campus": "本部",
+                "classroom": "綜603"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎課程開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 1,
+        "name": "運動餐旅產業績效評估與決策分析",
+        "teachers": [
+            "方進義"
+        ],
+        "department": "AM31",
+        "code": "SRC8003",
+        "credit": 3,
+        "serial": 46,
+        "group": "",
+        "quota": {
+            "limit": 30,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 7,
+                "to": 9,
+                "campus": "本部",
+                "classroom": "綜508會議室"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎課程開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    }
+]

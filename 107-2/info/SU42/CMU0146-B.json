@@ -1,0 +1,77 @@
+{
+    "year": 107,
+    "term": 2,
+    "name": "無機化學（二）",
+    "teachers": [
+        "謝明惠"
+    ],
+    "department": "SU42",
+    "code": "CMU0146",
+    "credit": 3,
+    "serial": 2850,
+    "group": "B",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 3,
+            "to": 4,
+            "campus": "公館",
+            "classroom": "理圖003"
+        },
+        {
+            "day": 4,
+            "from": 2,
+            "to": 2,
+            "campus": "公館",
+            "classroom": "Ｅ201"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "3",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "To train students to have the basic concepts of CFT and complexes.",
+    "goals": [
+        "The hydrogen atomic structure and the trend of the periodical elements.",
+        "Molecular structures and bonding theories.",
+        "Main group elements and their compounds.",
+        "CFT and electronic spectra."
+    ],
+    "syllabus": "Chemistry of the main group elements Coordination chemistry I: structures and isomers Coordination chemistry II: bonding Coordination chemistry III: electronic spectra Coordination chemistry IV: reactions and mechanisms Organometallic chemistry Organometallic reactions and catalysis Parallels between main group and organometallic chemistry",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "媒體融入教學",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "期中考",
+            "weight": 50,
+            "note": "共2次"
+        },
+        {
+            "type": "期末考",
+            "weight": 35,
+            "note": ""
+        },
+        {
+            "type": "其他",
+            "weight": 15,
+            "note": "小考"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

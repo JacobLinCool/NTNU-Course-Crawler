@@ -1,0 +1,83 @@
+{
+    "year": 107,
+    "term": 2,
+    "name": "微波測量之理論與應用專題研究（二）",
+    "teachers": [
+        "江佩勳"
+    ],
+    "department": "SM41",
+    "code": "PHC8011",
+    "credit": 3,
+    "serial": 2625,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 4,
+            "from": 8,
+            "to": 10,
+            "campus": "公館",
+            "classroom": "教室自排"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "微波測量、傳輸之理論與應用介紹",
+    "goals": [
+        "了解微波訊號分析之原理與應用",
+        "學習測量、分析、模擬並設計微波元件",
+        "了解介電物質微波測量之原理與應用",
+        "奠定日後從事微波工程教學研究或科技研發之基礎"
+    ],
+    "syllabus": "（後面括號內代表週數）\n\n  \n\n5\\. Signal Analysis\n\n  \n\n5.1 Power Measurement\n\n  \n\n5.1.1 Basic Definitions (1)\n\n  \n\n5.1.2 Bolometric Power Measurements (1)\n\n  \n\n5.1.3 Accuracy Considerations of Bolometric Power Measurements (2)\n\n  \n\n5.1.4 Calorimetric Power Measurement (3)\n\n  \n\n5.1.5 Thermocouple Power Meters (3)\n\n  \n\n5.1.6 Peak Power Measurement (4)\n\n  \n\n5.2 Frequency Measurements\n\n  \n\n5.2.1 Electromechanical Measurement Techniques (5)\n\n  \n\n5.2.2 Electronic Measurements Techniques (6)\n\n  \n\n5.2.3 Cavity Q Measurements (6)\n\n  \n\n5.3 Spectrum Analysis\n\n  \n\n5.3.1 Basic Considerations (7)\n\n  \n\n5.3.2 Analyzer Theory (7)\n\n  \n\n5.3.3 Applications of Spectrum Analysis (8)\n\n  \n\n5.3.4 Preselector (9)\n\n  \n\n5.3.5 Pulse Measurements (10)\n\n  \n\n5.3.6 Radio Frequency Interference (RFI/EMI) (11)\n\n  \n\n5.3.7 Antenna Pattern Measurements (12)\n\n  \n\n6\\. Network Analysis\n\n  \n\n6.1 Measurements of Scattering Parameters\n\n  \n\n6.1.1 Transmission Measurements (13)\n\n  \n\n6.1.2 Impedance Measurements (14)\n\n  \n\n6.1.3 Complex S-Parameter Measurements (15)\n\n  \n\n6.2 Time Domain Reflectometry\n\n  \n\n6.2.1 The Time Domain Reflectometer (16)\n\n  \n\n6.2.2 Time Domain Reflectometry Displays and Their Interpretation (16)\n\n  \n\n6.2.3 An actual Time Domain Reflectometer (17)\n\n  \n\n6.2.4 Applications of Time Domain Reflectometry (17)\n\n  \n\n6.3 Moise Figure Measurements (18)",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": ""
+        },
+        {
+            "type": "實驗/實作",
+            "note": "微波元件設計與製作、儀器操作、模擬軟體操作、數據分析"
+        },
+        {
+            "type": "其他",
+            "note": "文獻蒐集研讀與報告"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 25,
+            "note": "習題演練"
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 15,
+            "note": "討論參與度、題材與觀點是否切中問題核心"
+        },
+        {
+            "type": "報告",
+            "weight": 20,
+            "note": "資料蒐集與報告之清晰完整度"
+        },
+        {
+            "type": "專題",
+            "weight": 40,
+            "note": "實驗：微波元件設計與製作、儀器操作、模擬軟體操作、數據分析"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

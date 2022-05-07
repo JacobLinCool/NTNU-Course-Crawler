@@ -1,0 +1,76 @@
+{
+    "year": 110,
+    "term": 2,
+    "name": "偏微分方程導論（二）",
+    "teachers": [
+        "陳瑞堂"
+    ],
+    "department": "SU40",
+    "code": "MAC0133",
+    "credit": 3,
+    "serial": 2716,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 1,
+            "from": 2,
+            "to": 4,
+            "campus": "公館",
+            "classroom": "數學館M210"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "9",
+    "dept_group": "",
+    "hours": 3,
+    "description": "在本課程談論偏微分方程的解法、解的性質及其應用，並研讀相關研究論文。",
+    "goals": [
+        "讓學生瞭解偏微分方程的一些基本理論",
+        "認識其他領域所推導出的方程並瞭解在數學分析的背後原始問題的意義"
+    ],
+    "syllabus": "16+2週\n\n偏微分方程產生於許多科學和工程建模過程中。其興起已經有兩百多年的歷史了，  \n由起初研究物理與幾何的問題發展到一個獨立的數學分支，內容龐雜、方法多樣。  \n偏微分方程討論的問題不但和物理、力學、生物、幾何和化學等學科的問題做連結  \n，而且在解決這些問題時應用了許多現代工具。近幾年來，該領域的研究，發展蓬  \n勃，是理工科系大學生和研究生值得去學習和研究的課程。\n\n1\\. Heat equation (2週)\n\n2. Maximum principle (3週)\n\n3\\. Linear and nonlinear elliptic equations (4週)  \n  \n4\\. Weak solution (3週)  \n  \n5\\. Viscosity solution(3週)  \n  \n6\\. Minimizers (3週)",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": ""
+        },
+        {
+            "type": "問題解決教學",
+            "note": ""
+        },
+        {
+            "type": "專題研究",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "報告",
+            "weight": 40,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

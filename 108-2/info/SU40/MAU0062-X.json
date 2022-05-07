@@ -1,0 +1,82 @@
+{
+    "year": 108,
+    "term": 2,
+    "name": "應用統計方法（一）",
+    "teachers": [
+        "蔡碧紋"
+    ],
+    "department": "SU40",
+    "code": "MAU0062",
+    "credit": 3,
+    "serial": 2644,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 1,
+            "from": 2,
+            "to": 4,
+            "campus": "公館",
+            "classroom": "Ｃ002"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "Applied Statistical Methods covers the fundamental understanding of statistical methods necessary to deal with a wide variety of practical problems.\n\n\n\nIntroduction  the importance of statistical analysis and data summarization\nThe fundamental principles of probability\nStatistical tests of hypotheses; point and interval estimation \nAnalysis of variance (ANOVA);  and analysis of covariance\nBlocked designs; \nFactorial design\nSimple and multiple Linear Regression(I)\nSimple and multiple Linear Regression(II)\nSimple and multiple Linear Regression(II)\nThe students are expected to use R for their homework and project.",
+    "goals": [
+        "能理解統計領域的相關理論",
+        "能應用統計領域的相關方法",
+        "能使用軟體進行統計分析"
+    ],
+    "syllabus": "Applied Statistical Methods covers the fundamental understanding of statistical methods necessary to deal with a wide variety of practical problems.\n\n1.  Introduction: the importance of statistical analysis and data summarization\n2.  Analysis of association for numerical data and simple linear regression\n3.  Statistical tests of hypotheses; point and interval estimation \n4.  Analysis of association for discrete data\n5.  Analysis of variance (ANOVA)\n6.  Analysis of Covariance (ANCOVA)\n7.  Blocked designs; \n8.  Factorial design\n9.  Multiple Linear Regression(I)\n10.  Multiple Linear Regression(I)(II)\n11.  Multiple Linear Regression(I)(II)\n12.  Multivariate Analysis\n13.  Time Series Analysis\n\nThe students are expected to use R for their homework and project.",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "講述統計的相關理論、方法與應用。"
+        },
+        {
+            "type": "討論法",
+            "note": "透過課堂討論協助學生了解與應用所學相關知識與技能。"
+        },
+        {
+            "type": "合作學習",
+            "note": "提供學生合作學習的機會以完成小組分組作業及報告。"
+        },
+        {
+            "type": "媒體融入教學",
+            "note": "運用統計分析軟體輔助學習並提升學生的學習動機。"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "期中考",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 15,
+            "note": ""
+        },
+        {
+            "type": "報告",
+            "weight": 25,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

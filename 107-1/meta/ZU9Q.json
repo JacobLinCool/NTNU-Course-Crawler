@@ -1,0 +1,753 @@
+[
+    {
+        "year": 107,
+        "term": 1,
+        "name": "美育原理",
+        "teachers": [
+            "林逢祺"
+        ],
+        "department": "EU00",
+        "code": "EDU0022",
+        "credit": 2,
+        "serial": 649,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 5,
+                "from": 1,
+                "to": 2,
+                "campus": "本部",
+                "classroom": "教802"
+            }
+        ],
+        "programs": [
+            "社團領導學程"
+        ],
+        "comment": "",
+        "restrict": "",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 1,
+        "name": "教育評鑑",
+        "teachers": [
+            "鄭淑惠"
+        ],
+        "department": "EU00",
+        "code": "EDU0142",
+        "credit": 2,
+        "serial": 665,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 3,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "教312"
+            }
+        ],
+        "programs": [
+            "社團領導學程"
+        ],
+        "comment": "限本班",
+        "restrict": "◎限大三◎限甲班修習",
+        "form_s": "3",
+        "classes": "1",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 1,
+        "name": "教育評鑑",
+        "teachers": [
+            "鄭淑惠"
+        ],
+        "department": "EU00",
+        "code": "EDU0142",
+        "credit": 2,
+        "serial": 668,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 3,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "教312"
+            }
+        ],
+        "programs": [
+            "社團領導學程"
+        ],
+        "comment": "限本班",
+        "restrict": "◎限大三◎限乙班修習",
+        "form_s": "3",
+        "classes": "2",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 1,
+        "name": "人際關係",
+        "teachers": [
+            "張世華"
+        ],
+        "department": "EU01",
+        "code": "PCU0006",
+        "credit": 2,
+        "serial": 673,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 6,
+                "to": 7,
+                "campus": "本部",
+                "classroom": "教511"
+            }
+        ],
+        "programs": [
+            "PASSION偏鄉教育學程",
+            "社團領導學程"
+        ],
+        "comment": "第1次上課未出席並參與分組者，本學期成績X。",
+        "restrict": "",
+        "form_s": "1",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 1,
+        "name": "人際關係",
+        "teachers": [
+            "吳志文"
+        ],
+        "department": "EU06",
+        "code": "HGU0021",
+        "credit": 2,
+        "serial": 747,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 6,
+                "to": 7,
+                "campus": "本部",
+                "classroom": "誠101"
+            }
+        ],
+        "programs": [
+            "社團領導學程"
+        ],
+        "comment": "",
+        "restrict": "",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 1,
+        "name": "領導概論",
+        "teachers": [
+            "吳崇旗"
+        ],
+        "department": "EU07",
+        "code": "CEU0370",
+        "credit": 2,
+        "serial": 806,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 8,
+                "to": 9,
+                "campus": "本部",
+                "classroom": "綜210展覽廳"
+            }
+        ],
+        "programs": [
+            "社團領導學程"
+        ],
+        "comment": "",
+        "restrict": "",
+        "form_s": "1",
+        "classes": "1",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 1,
+        "name": "領導概論",
+        "teachers": [
+            "吳崇旗"
+        ],
+        "department": "EU07",
+        "code": "CEU0370",
+        "credit": 2,
+        "serial": 813,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 6,
+                "to": 7,
+                "campus": "本部",
+                "classroom": "綜210展覽廳"
+            }
+        ],
+        "programs": [
+            "社團領導學程"
+        ],
+        "comment": "",
+        "restrict": "",
+        "form_s": "1",
+        "classes": "2",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 1,
+        "name": "倫理學",
+        "teachers": [
+            "李琪明"
+        ],
+        "department": "EU07",
+        "code": "CEU0017",
+        "credit": 2,
+        "serial": 822,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 6,
+                "to": 7,
+                "campus": "本部",
+                "classroom": "誠402"
+            }
+        ],
+        "programs": [
+            "社團領導學程"
+        ],
+        "comment": "",
+        "restrict": "",
+        "form_s": "2",
+        "classes": "1",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 1,
+        "name": "倫理學",
+        "teachers": [
+            "李琪明"
+        ],
+        "department": "EU07",
+        "code": "CEU0017",
+        "credit": 2,
+        "serial": 825,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 8,
+                "to": 9,
+                "campus": "本部",
+                "classroom": "誠402"
+            }
+        ],
+        "programs": [
+            "社團領導學程"
+        ],
+        "comment": "",
+        "restrict": "",
+        "form_s": "2",
+        "classes": "2",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 1,
+        "name": "音樂鑑賞",
+        "teachers": [
+            "李娓娓"
+        ],
+        "department": "GU",
+        "code": "01UG004",
+        "credit": 2,
+        "serial": 898,
+        "group": "A",
+        "quota": {
+            "limit": 120,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 3,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "誠101"
+            }
+        ],
+        "programs": [
+            "社團領導學程"
+        ],
+        "comment": "◎數位課程",
+        "restrict": "◎音樂系（學）不得選修",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 1,
+        "name": "音樂鑑賞",
+        "teachers": [
+            "吳舜文"
+        ],
+        "department": "GU",
+        "code": "01UG004",
+        "credit": 2,
+        "serial": 899,
+        "group": "B",
+        "quota": {
+            "limit": 50,
+            "additional": 1
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 6,
+                "to": 7,
+                "campus": "本部",
+                "classroom": "音209"
+            }
+        ],
+        "programs": [
+            "社團領導學程"
+        ],
+        "comment": "",
+        "restrict": "◎音樂系（學）不得選修",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 1,
+        "name": "音樂鑑賞",
+        "teachers": [
+            "吳舜文"
+        ],
+        "department": "GU",
+        "code": "01UG004",
+        "credit": 2,
+        "serial": 900,
+        "group": "C",
+        "quota": {
+            "limit": 50,
+            "additional": 1
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 8,
+                "to": 9,
+                "campus": "本部",
+                "classroom": "音209"
+            }
+        ],
+        "programs": [
+            "社團領導學程"
+        ],
+        "comment": "",
+        "restrict": "◎音樂系（學）不得選修",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 1,
+        "name": "舞蹈鑑賞",
+        "teachers": [
+            "王宏豪"
+        ],
+        "department": "GU",
+        "code": "01UG012",
+        "credit": 2,
+        "serial": 904,
+        "group": "A",
+        "quota": {
+            "limit": 50,
+            "additional": 30
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 3,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "誠102"
+            }
+        ],
+        "programs": [
+            "社團領導學程"
+        ],
+        "comment": "",
+        "restrict": "",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 1,
+        "name": "舞蹈鑑賞",
+        "teachers": [
+            "王宏豪"
+        ],
+        "department": "GU",
+        "code": "01UG012",
+        "credit": 2,
+        "serial": 905,
+        "group": "B",
+        "quota": {
+            "limit": 50,
+            "additional": 30
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 3,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "誠202"
+            }
+        ],
+        "programs": [
+            "社團領導學程"
+        ],
+        "comment": "",
+        "restrict": "",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 1,
+        "name": "多元文化",
+        "teachers": [
+            "謝宗順"
+        ],
+        "department": "GU",
+        "code": "03UG003",
+        "credit": 2,
+        "serial": 935,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 26
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 9,
+                "to": 10,
+                "campus": "本部",
+                "classroom": "誠109"
+            }
+        ],
+        "programs": [
+            "PASSION偏鄉教育學程",
+            "社團領導學程"
+        ],
+        "comment": "",
+        "restrict": "",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 1,
+        "name": "管理學",
+        "teachers": [
+            "孫弘岳"
+        ],
+        "department": "HU71",
+        "code": "ITU0149",
+        "credit": 3,
+        "serial": 1219,
+        "group": "",
+        "quota": {
+            "limit": 30,
+            "additional": 5
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 7,
+                "to": 9,
+                "campus": "本部",
+                "classroom": "科212"
+            }
+        ],
+        "programs": [
+            "社團領導學程"
+        ],
+        "comment": "",
+        "restrict": "◎限大一大二大三大四修習",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 1,
+        "name": "美學",
+        "teachers": [
+            "鄭佳姍"
+        ],
+        "department": "MU92",
+        "code": "PAU0025",
+        "credit": 2,
+        "serial": 2390,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 8,
+                "to": 9,
+                "campus": "本部",
+                "classroom": "誠301"
+            }
+        ],
+        "programs": [
+            "社團領導學程"
+        ],
+        "comment": "",
+        "restrict": "",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 1,
+        "name": "藝術概論",
+        "teachers": [
+            "梁文菁"
+        ],
+        "department": "MU92",
+        "code": "PAU0026",
+        "credit": 2,
+        "serial": 2406,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 5,
+                "from": 3,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "誠107"
+            }
+        ],
+        "programs": [
+            "社團領導學程"
+        ],
+        "comment": "",
+        "restrict": "",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 1,
+        "name": "組織行為",
+        "teachers": [
+            "許書瑋"
+        ],
+        "department": "OU57",
+        "code": "BAU0009",
+        "credit": 3,
+        "serial": 2444,
+        "group": "",
+        "quota": {
+            "limit": 60,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 8,
+                "to": 10,
+                "campus": "本部",
+                "classroom": "誠301"
+            }
+        ],
+        "programs": [
+            "社團領導學程"
+        ],
+        "comment": "",
+        "restrict": "◎必須先修過【BAU0048  企業管理概論】",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 1,
+        "name": "行銷管理",
+        "teachers": [
+            "王仕茹"
+        ],
+        "department": "OU57",
+        "code": "BAU0021",
+        "credit": 3,
+        "serial": 2445,
+        "group": "",
+        "quota": {
+            "limit": 60,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 2,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "綜508會議室"
+            }
+        ],
+        "programs": [
+            "室內設計學程",
+            "社團領導學程"
+        ],
+        "comment": "",
+        "restrict": "◎必須先修過【BAU0048  企業管理概論】",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 1,
+        "name": "社團行銷實務",
+        "teachers": [
+            "魯先華"
+        ],
+        "department": "ZU9Q",
+        "code": "PGU8001",
+        "credit": 3,
+        "serial": 3186,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 6,
+                "from": 10,
+                "to": 12,
+                "campus": "本部",
+                "classroom": "教室自排"
+            }
+        ],
+        "programs": [
+            "社團領導學程"
+        ],
+        "comment": "",
+        "restrict": "◎第一階段需人工加選◎第二階段需人工加選◎加退選階段需人工加選 ◎第一階段限 社團領導學程",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 1,
+        "name": "社團經營實習（一）",
+        "teachers": [
+            "魯先華"
+        ],
+        "department": "ZU9Q",
+        "code": "PGU8003",
+        "credit": 2,
+        "serial": 3187,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 6,
+                "from": 1,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "教室自排"
+            }
+        ],
+        "programs": [
+            "社團領導學程"
+        ],
+        "comment": "",
+        "restrict": "◎第一階段需人工加選◎第二階段需人工加選◎加退選階段需人工加選 ◎第一階段限 社團領導學程",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    }
+]

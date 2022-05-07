@@ -1,0 +1,80 @@
+{
+    "year": 108,
+    "term": 2,
+    "name": "演算法",
+    "teachers": [
+        "葉梅珍"
+    ],
+    "department": "SU47",
+    "code": "CSU0018",
+    "credit": 3,
+    "serial": 2893,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 26
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 3,
+            "to": 4,
+            "campus": "公館",
+            "classroom": "綜合館3F國際會議廳"
+        },
+        {
+            "day": 4,
+            "from": 2,
+            "to": 2,
+            "campus": "公館",
+            "classroom": "Ｂ102"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎必須先修過【CSU0001  程式設計（一）】",
+    "form_s": "2",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程內容主要為電腦科學中各種演算法則之介紹、分析並証明演算法的時間與空間複雜度。",
+    "goals": [
+        "學習既有的演算法及分析演算法的複雜度",
+        "設計新的演算法以解決問題"
+    ],
+    "syllabus": "Thiscourse offer lectures for the design and analysis of efficient algorithms, withemphases on practical methods. Topics include the basic and some advancedchapters covered in the textbook as described below (temporarily scheduled).\n\n1. Asymptotic notation; Recurrences\n\n2. Randomized algorithms; Divide-and-Conquer\n\n3\\. Sorting: Heapsort,quicksort,linear sorting\n\n4. Hashing and binary search\n\n5\\. Dynamic programming\n\n6. Greedy algorithms\n\n7. Graph algorithms\n\n8. Shortest paths\n\n9. Maximum flow\n\n10\\. NP-completeness\n\n11\\. Approximate algorithms",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "實驗/實作",
+            "note": "programming assignments"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 25,
+            "note": "programming assignments"
+        },
+        {
+            "type": "期中考",
+            "weight": 35,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 35,
+            "note": ""
+        },
+        {
+            "type": "出席",
+            "weight": 5,
+            "note": ""
+        }
+    ],
+    "prerequisite": "◎必須先修過【CSU0001  程式設計（一）】",
+    "general_core": []
+}

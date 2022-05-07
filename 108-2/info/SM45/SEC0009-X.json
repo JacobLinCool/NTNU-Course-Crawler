@@ -1,0 +1,87 @@
+{
+    "year": 108,
+    "term": 2,
+    "name": "數學學習心理學",
+    "teachers": [
+        "譚克平"
+    ],
+    "department": "SM45",
+    "code": "SEC0009",
+    "credit": 3,
+    "serial": 2604,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 3,
+            "from": 10,
+            "to": 12,
+            "campus": "公館",
+            "classroom": "科教大樓204"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "The purpose of this course is to familiarize students with various aspects of learning mathematics from a psychological point of view. Towards this end, some basic learning theories will be introduced in this course together with a brief introduction to the neurological aspect of learning mathematics. Attention will also be drawn to the learning of various topics in mathematics, including geometry, algebra and statistics. The affective aspect of learning mathematics will be covered later in the course.",
+    "goals": [
+        "瞭解認知心理學與學生數學學習的關係",
+        "瞭解學生數學學習困難",
+        "瞭解數學各主題課程發展",
+        "瞭解如何促進學生數學學習成就與態度"
+    ],
+    "syllabus": "The following topics will be covered in this semester:\n\n1.       Concept mapping\n\n2.       Scoring of concept maps\n\n3.       Application of concept mapping to mathematics\n\n4.       General introduction to psychology of mathematics learning\n\n5.       The brain and mathematics\n\n6.       Street mathematics and school mathematics I\n\n7.       Street mathematics and school mathematics II\n\n8.       Errors in learning mathematics\n\n9.       Learning algebra\n\n10.   Learning geometry\n\n11.   Learning statistics and probability\n\n12.   Affective domains in learning mathematics\n\n13.   Mathematics anxiety\n\n14.   Mathematical disabilities\n\n15.   Embodied cognition\n\n16.   Visual thinking in mathematics\n\n17.   Students’ reports I\n\n18.   Students’ reports II",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "講述數學習習理論與相關研究"
+        },
+        {
+            "type": "討論法",
+            "note": "以學生分小組的方式進行討論"
+        },
+        {
+            "type": "問題解決教學",
+            "note": "分析及評論各數學主題課程"
+        },
+        {
+            "type": "合作學習",
+            "note": "小組報告"
+        },
+        {
+            "type": "媒體融入教學",
+            "note": "電腦輔助教學"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 20,
+            "note": "平時作業與閱讀"
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 10,
+            "note": "參與課堂討論的情形"
+        },
+        {
+            "type": "出席",
+            "weight": 20,
+            "note": "課堂出席的情形"
+        },
+        {
+            "type": "報告",
+            "weight": 50,
+            "note": "期末報告"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

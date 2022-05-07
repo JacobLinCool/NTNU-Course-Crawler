@@ -1,0 +1,84 @@
+{
+    "year": 109,
+    "term": 2,
+    "name": "認知心理學（教）",
+    "teachers": [
+        "許禕芳"
+    ],
+    "department": "EU",
+    "code": "00UE016",
+    "credit": 2,
+    "serial": 567,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 1,
+            "from": 1,
+            "to": 2,
+            "campus": "本部",
+            "classroom": "教511"
+        }
+    ],
+    "programs": [
+        "國際教師學程-華語文",
+        "國際教師學程-數學",
+        "國際教師學程-物理",
+        "PASSION偏鄉教育學程",
+        "國際教師學程-國際"
+    ],
+    "comment": "",
+    "restrict": "",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 2,
+    "description": "認知心理學是一門研究心智處理的心理科學，本課程主要講授認知心理學的起源與發展、研究方法、理論架構、重要概念、代表人物、與應用價值，同時搭配進度，演示認知心理學的經典實驗。",
+    "goals": [
+        "能夠透過認知心理學的觀點探討教學層面的議題。",
+        "能夠針對認知心理學的文獻進行批判思考。"
+    ],
+    "syllabus": "第01週 (2202)：Introduction  \n第02週 (0103)：Holiday  \n第03週 (0803)：Cognitive neuroscience (Chapter 02)  \n第04週 (1503)：Cognitive neuroscience (Chapter 02)  \n第05週 (2203)：Perception (Chapter 03)  \n第06週 (2903)：Attention and consciousness (Chapter 04)  \n第07週 (0504)：Holiday  \n第08週 (1204)：Attention and consciousness (Chapter 04)  \n第09週 (1904)：Exam 1  \n第10週 (2604)：Memory (Chapter 05-07)  \n第11週 (0305)：Memory (Chapter 05-07)  \n第12週 (1005)：Problem solving and creativity (Chapter 11)  \n第13週 (1705)：Decision making (Chapter 12)  \n第14週 (2405)：Decision making (Chapter 12)  \n第15週 (3105)：Exam 2  \n第16週 (0706)：Discussion  \n第17週 (1406)：Research participation  \n第18週 (2106)：Research participation",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "講授認知心理學的起源與發展、研究方法、理論架構、重要概念、代表人物、與應用價值。"
+        },
+        {
+            "type": "實驗/實作",
+            "note": "演示認知心理學的經典實驗。"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 20,
+            "note": "依照課程進度繳交四次作業，每次成績占學期成績5%。"
+        },
+        {
+            "type": "期中考",
+            "weight": 30,
+            "note": "內容包括前半學期的主題，考試時間50分鐘。"
+        },
+        {
+            "type": "期末考",
+            "weight": 30,
+            "note": "內容包括後半學期的主題，考試時間50分鐘。"
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 15,
+            "note": "準時出席並積極參與課堂討論。"
+        },
+        {
+            "type": "其他",
+            "weight": 5,
+            "note": "學期當中至少擔任一次認知心理學研究參與者。"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

@@ -1,0 +1,65 @@
+{
+    "year": 108,
+    "term": 2,
+    "name": "數論",
+    "teachers": [
+        "胡舉卿"
+    ],
+    "department": "SU40",
+    "code": "MAU0003",
+    "credit": 3,
+    "serial": 2658,
+    "group": "B",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 3,
+            "from": 6,
+            "to": 8,
+            "campus": "公館",
+            "classroom": "Ｅ301"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "1",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程讓學生瞭解邏輯、推理、歸納與論證的能力與基礎數論的基本理論，以作為學生未來修習其他數學課程的基礎。",
+    "goals": [
+        "訓練學生掌握數論的基本理論",
+        "訓練學生可以用算術的語言進行溝通、表達",
+        "培養學生將數論知識應用到其他學科的能力"
+    ],
+    "syllabus": "一、整除性\n\n因數與倍數、最大公因數與最小公倍數、質數與合成數、因數分解。\n\n二、數論函數\n\n正因數的個數，Euler Phi函數，Mobius函數等算術函數。\n\n三、同餘\n\n同餘的基本性質（Fermat定理、Euler定理、Wilson定理），中國剩餘定理\n\n四、同餘方程式:\n\n二次剩餘，Gauss二次互反定律，秩與原根\n\n五、平方和問題:\n\n四平方和定理（Lagrange定理），畢氏三數組，Fermat無窮遞降法（Fremat infinite descent method）。",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "課堂講解、文獻閱讀、習題及期中期末評量。"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "期中考",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 40,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

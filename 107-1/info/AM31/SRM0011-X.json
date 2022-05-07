@@ -1,0 +1,82 @@
+{
+    "year": 107,
+    "term": 1,
+    "name": "研究法",
+    "teachers": [
+        "麥康妮"
+    ],
+    "department": "AM31",
+    "code": "SRM0011",
+    "credit": 3,
+    "serial": 41,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 0
+    },
+    "schedule": [
+        {
+            "day": 5,
+            "from": 7,
+            "to": 9,
+            "campus": "本部",
+            "classroom": "綜508會議室"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程不開放上修",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程主要是在培養學生具有研究之能力，並有能力完成研究計畫書。\n\n課程包括研究的基本概念、研究方法與論文寫作的方式三大部份。\n本課程之進行強調教師與學生互動，教師會針對所講授之主題提出問題來激發學員對此一主題之思考並設計小組討論與課後作業來評估學習成效。\n\n論文寫作演習課程\n個別討論時間：星期四 16:30-18:30（以預約同學為優先）\n地點: 綜合大樓六樓運動與休閒管理研究所",
+    "goals": [
+        "培養研究與完成研究計畫書之能力",
+        "培養研讀文獻與思考的習慣"
+    ],
+    "syllabus": "**Course Topics & Schedule:**\n\n1.  What is research?\n2.  What to research? How to decide your Research Topic, Research Questions and Research Objectives?\n3.  What is Literature Review (LR)?\n4.  Understanding Research Methodology, Research Method and Research Design\n5.  Quantitative vs. Qualitative Approach\n6.  Quantitative Approach – Hypothesis\n7.  Quantitative Approach – Questionnaire Survey, Questionnaire Design and Pilot Test\n8.  Quantitative Approach – Sampling Technique\n9.  Quantitative Approach – Experimental Design, Reliability and Validity\n10.  Quantitative Approach – Data Collection & Data Analysis 1\n11.  Quantitative Approach – Data Collection & Data Analysis 2\n12.  Qualitative Approach – Interview, Focus Group & Observation\n13.  Qualitative Approach – Data Analysis\n14.  Why do we need to care about Research Ethics?\n15.  How to Report Your Findings (written, oral, poster)?\n16.  Presentation Session 1 \n17.  Presentation Session 2\n\n(\\* Note: Week 10 – Friday, 16 Nov 2018, Sports Day – No Lecture)",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "Lecturing"
+        },
+        {
+            "type": "討論法",
+            "note": "Class Discussion"
+        },
+        {
+            "type": "專題研究",
+            "note": "Research Proposal Presentation"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 10,
+            "note": "Individual Mini-task Presentation (15-20 mins)"
+        },
+        {
+            "type": "期中考",
+            "weight": 25,
+            "note": "Mid-term Exam"
+        },
+        {
+            "type": "期末考",
+            "weight": 25,
+            "note": "Final Exam"
+        },
+        {
+            "type": "出席",
+            "weight": 10,
+            "note": "Class Attendance and Participation"
+        },
+        {
+            "type": "報告",
+            "weight": 30,
+            "note": "Individual Research Proposal Report and Presentation (15 mins)"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

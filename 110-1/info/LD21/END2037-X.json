@@ -1,0 +1,74 @@
+{
+    "year": 110,
+    "term": 1,
+    "name": "神經語言學研究方法專題討論",
+    "teachers": [
+        "詹曉蕙"
+    ],
+    "department": "LD21",
+    "code": "END2037",
+    "credit": 3,
+    "serial": 1617,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 5,
+            "from": 6,
+            "to": 8,
+            "campus": "本部",
+            "classroom": "誠701B"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程不開放上修",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "",
+    "goals": [
+        "Students can independently find a research idea and effectively do literature review.",
+        "Students can have hands-on experience with software necessary for experiment design and data processing, such as E-prime (commercial behavioral experiment software), ERPLAB (a free Matlab package for analyzing ERP data), SPM (a free Matlab package for analyzing fMRI data), and a statistical package of their choice (e.g. SPSS).",
+        "Students can confidently run an experiment with the necessary equipment(s) and comfortably interact with participants.",
+        "Students can write a paper in a journal format in the cognitive neuroscience domain."
+    ],
+    "syllabus": "**【授課方式：16+2週】**\n\n**COURSE DESCRIPTION**\n\nThis presentation/discussion-oriented course is to train PhD students to conduct and report a neurolinguistic experiment with a chosen cognitive neuroscience technique, such as event-related brain potential (ERP) or functional magnetic resonance imaging (fMRI). Students are expected to find their interested topic at the beginning of the semester, compile a list of literature, design their own experiment according to their chosen technique, and run a pilot test with a few participants. They then have to analyze the data and present the results to the class.\n\n**COURSE REQUIREMENTS**\n\n**Presentations: 45%**\n\nStudents will give a series of presentations, which should cover:\n\n(1) research topic & hypothesis      \n\n(2) experimental design (with an online platform and E-prime)\n\n(3) data collection                                       \n\n(4) data analysis\n\n(5) results (with statistical analysis, if possible)      \n\n**In-class discussion: 20%**\n\n**Final presentation + abstract submission (within 150 words): 35%**\n\n**COURSE SCHEDULE**\n\n**(Note that there will be a lot of self-study for this course, which will cover Flex weeks 17 & 18.)**\n\nWeek 1 Introduction\n\nWeek 2 Research topic search: Research question(s) & List(s) of references\n\nWeek 3 Hypothesis: Hypothesis for the currentstudy based on previous findings\n\nWeek 4 Experiment design: Experimental factors and sample materials I\n\nWeek 5 Experiment design: Experimental factors and sample materials II (online rating)\n\nWeek 6 Experiment design: Experimental factors and sample materials III (online rating finished)\n\nWeek 7 Experiment design: E-prime stimulus presentation\n\nWeek 8 Experiment design: Experiment finalization (with necessary manipulation)\n\nWeek 9 Data collection (at the NeurolinguisticsLab at NTNU or the fMRI center at NTU)\n\nWeek 10 Data collection (at the NeurolinguisticsLab at NTNU or the fMRI center at NTU)\n\nWeek 11 Data analysis (ERPLAB/SPM)\n\nWeek 12 Data analysis (ERPLAB/SPM) (No Class)\n\nWeek 13 Data analysis (ERPLAB/SPM)\n\nWeek 14 Results: Graphs supporting or rejecting the hypothesis\n\nWeek 15 Results: Data interpretation in the context of previous research (No Class)\n\nWeek 16 Final presentation (in a conference presentation format)",
+    "methodologies": [
+        {
+            "type": "Formal lecture",
+            "note": "In the first 15-20 minutes of each class, the instructor will give a short lecture to direct students to the details that they need to pay attention to in their own and their peers’ presentations."
+        },
+        {
+            "type": "Group discussion",
+            "note": "Students will give presentations and the instructor and other students will provide suggestions/comments through discussion."
+        },
+        {
+            "type": "Lab/Studio",
+            "note": "Students are expected to run an ERP or fMRI experiment with a few participants and analyze data with software."
+        }
+    ],
+    "grading": [
+        {
+            "type": "Class discussion involvement",
+            "weight": 30,
+            "note": "Students should be able to address the instructor’s comments/suggestions and should be able to provide comments/suggestions for other students’ work."
+        },
+        {
+            "type": "Presentation",
+            "weight": 50,
+            "note": "Students will give 5 presentations throughout the semester:\n#1: Research topic \n#2: Experiment design (with E-prime)\n#3: Data analysis (with ERPLAB or SPM)\n#4: Results (with graphs and statistical results)\n#5: Final presentation (in a conference presentation format)"
+        },
+        {
+            "type": "other:",
+            "weight": 20,
+            "note": "A short term paper in a journal format. Students have to choose a journal in the cognitive neuroscience domain and follow their submission guidelines to write up the paper."
+        }
+    ],
+    "prerequisite": "◎Unavailable for M.A. program students (M.A. program courses excepted) and B.A. program students.",
+    "general_core": []
+}

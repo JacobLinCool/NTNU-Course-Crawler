@@ -1,0 +1,162 @@
+[
+    {
+        "year": 110,
+        "term": 1,
+        "name": "質性研究法",
+        "teachers": [
+            "麥康妮"
+        ],
+        "department": "AD31",
+        "code": "SRD0001",
+        "credit": 3,
+        "serial": 9,
+        "group": "",
+        "quota": {
+            "limit": 30,
+            "additional": 5
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 7,
+                "to": 9,
+                "campus": "本部",
+                "classroom": "綜603"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎課程不開放上修",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 1,
+        "name": "管理決策財務分析",
+        "teachers": [
+            "方進義"
+        ],
+        "department": "AD31",
+        "code": "SRD0012",
+        "credit": 3,
+        "serial": 10,
+        "group": "",
+        "quota": {
+            "limit": 30,
+            "additional": 3
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 2,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "綜603"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎課程不開放上修",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 1,
+        "name": "運動休閒與餐旅管理專題討論",
+        "teachers": [
+            "林儷蓉"
+        ],
+        "department": "AD31",
+        "code": "SRD0024",
+        "credit": 1,
+        "serial": 11,
+        "group": "",
+        "quota": {
+            "limit": 30,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 11,
+                "to": 11,
+                "campus": "本部",
+                "classroom": "綜508會議室"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "允許重複修 ◎必須先修過【SRD0001  質性研究法】、【SRD0002  量化研究法】其中一門 ◎課程不開放上修",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 1,
+        "name": "遊憩區規劃與設計",
+        "teachers": [
+            "李晶"
+        ],
+        "department": "AM31",
+        "code": "SRC0003",
+        "credit": 3,
+        "serial": 51,
+        "group": "",
+        "quota": {
+            "limit": 30,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 6,
+                "to": 8,
+                "campus": "本部",
+                "classroom": "綜604"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎課程不開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 1,
+        "name": "餐旅業當代議題",
+        "teachers": [
+            "雷芷卉"
+        ],
+        "department": "AM31",
+        "code": "SRC0015",
+        "credit": 3,
+        "serial": 52,
+        "group": "",
+        "quota": {
+            "limit": 30,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 2,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "綜603"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎課程不開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    }
+]

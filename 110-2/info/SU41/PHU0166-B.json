@@ -1,0 +1,73 @@
+{
+    "year": 110,
+    "term": 2,
+    "name": "實驗物理（二）",
+    "teachers": [
+        "傅祖怡"
+    ],
+    "department": "SU41",
+    "code": "PHU0166",
+    "credit": 3,
+    "serial": 2807,
+    "group": "B",
+    "quota": {
+        "limit": 30,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 4,
+            "from": 6,
+            "to": 8,
+            "campus": "公館",
+            "classroom": "Ｄ219"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "2",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "銜接實驗物理(一)與實驗物理技術等課程，讓學生藉由自行動手操作、分析實驗結果，增進對於近代物理的了解。並且讓學生藉由接觸進階實驗所需的儀器設備，以及提供學生組合相關實驗器材完成測量工作的環境，培養學生從事尖端物理研究的基本能力。",
+    "goals": [
+        "瞭解物理基礎理論與實驗的配合",
+        "學習實驗技術、加強動手操作能力",
+        "訓練整合與思辨"
+    ],
+    "syllabus": "教學進度：16+2\n\n第1 週：課程說明、安全規定、實驗項目介紹\n\n第2 週：實驗項目介紹、分組、實驗項目選擇\n\n第3 週 – 第15週：實驗操作與口頭報告\n\n第16 週：期末考\n\n第17 週 補作，補考\n\n第18 週 補作，補考\n\n實驗項目Experiments：\n\nI. Elementary charge: Millikan’s oil drop experiment\n\nII. Charge-to-mass of electron: Specific e/m determination via the fine-beam cathode-ray tube\n\nIII. Atomic and nuclear spectrum: Franck-Hertz experiment with Ne-tube\n\nIV. Speed of light: Foucault’s rotating cogwheel experiment\n\nV. Basic practi:ce of photonics Laser collimation\n\nVI. Microwave\n\nVII. Optical properties of liquid crystals\n\n參見講義",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": ""
+        },
+        {
+            "type": "實驗/實作",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "課堂討論參與",
+            "weight": 30,
+            "note": "口頭報告與討論"
+        },
+        {
+            "type": "出席",
+            "weight": 30,
+            "note": "出席率、實驗操作、實驗工作紀錄"
+        },
+        {
+            "type": "報告",
+            "weight": 40,
+            "note": "實驗成果的書面報告"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

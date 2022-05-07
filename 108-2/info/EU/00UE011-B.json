@@ -1,0 +1,82 @@
+{
+    "year": 108,
+    "term": 2,
+    "name": "教育行政（教）",
+    "teachers": [
+        "鄭淑惠"
+    ],
+    "department": "EU",
+    "code": "00UE011",
+    "credit": 2,
+    "serial": 548,
+    "group": "B",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 8,
+            "to": 9,
+            "campus": "本部",
+            "classroom": "正201"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 2,
+    "description": "本課程旨在探討教育行政議題的基本概念，以建立學生未來從事教育行政工作之基礎。",
+    "goals": [
+        "培養學生具備教育行政的基本概念",
+        "增進學生對教育行政議題的分析能力",
+        "培養學生從事教育行政工作的態度"
+    ],
+    "syllabus": "第1週 課程介紹\n\n第2週 教育行政導論與教育法令\n\n第3週 教育法令\n\n第4週 教育計畫\n\n第5週 教育計畫\n\n第6週 教育組織\n\n第7週 教育組織\n\n第8週 教育溝通\n\n第9週   教育溝通\n\n第10週 教育領導\n\n第11週 教育領導\n\n第12週 教育評鑑  \n第13週 教育評鑑\n\n第14週 行政理論發展\n\n第15週 行政理論發展  \n第16週 綜合討論\n\n第17週 延伸學習\n\n第18週 延伸學習",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "分析重要概念與實務作法"
+        },
+        {
+            "type": "討論法",
+            "note": "討論行政個案與議題，分為全班討論與小組討論"
+        },
+        {
+            "type": "實地考察、參訪",
+            "note": "實地學習"
+        },
+        {
+            "type": "媒體融入教學",
+            "note": "影片討論"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 60,
+            "note": "個人期中與期末報告"
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 10,
+            "note": ""
+        },
+        {
+            "type": "出席",
+            "weight": 5,
+            "note": ""
+        },
+        {
+            "type": "報告",
+            "weight": 25,
+            "note": "小組報告與討論"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

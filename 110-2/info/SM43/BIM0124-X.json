@@ -1,0 +1,75 @@
+{
+    "year": 110,
+    "term": 2,
+    "name": "現代生理學",
+    "teachers": [
+        "吳忠信",
+        "呂國棟",
+        "林豊益",
+        "陳均"
+    ],
+    "department": "SM43",
+    "code": "BIM0124",
+    "credit": 3,
+    "serial": 2647,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 2,
+            "to": 4,
+            "campus": "公館",
+            "classroom": "Ｓ302"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程不開放上修",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "Modern Physiology is both a life science in its own right, and a basic medical science.  Physiology today ?  intends to encompass the study of the functions and integrative processes of life at all levels of structural complexity between the molecular level and that of the whole organism. It includes all organisms, and frames function in evolutionary, environmental, ecological and behavioral contexts. Physiology is an exciting and dynamic discipline that has enormous impact on the quality of human life. Physiology exerts a cross-disciplinary approach to modern science, through which physiologists aim to achieve translation of functional understanding into the health of humans, animals and ecosystems. In particular, the ever increasing understanding of body functions enables identification of novel therapeutic targets for prevention and treatment of diseases.",
+    "goals": [
+        "學習現代生理學相關的知識與研究方法",
+        "讓學生學習閱讀文獻以及批判性思考的能力"
+    ],
+    "syllabus": "Introduction\n\nNeural physiology and endocrinology I\n\nNeural physiology and endocrinology II\n\nNeural physiology and endocrinology III\n\nMuscle and movement\n\nCirculation I\n\nCirculation II\n\nRespiratory physiology I\n\n1st Exam\n\nRespiratory physiology II\n\nSensory physiology\n\nRenal physiology I\n\nRenal physiology II\n\nAcid base regulation\n\nDigestive and metabolism I\n\nDigestive and metabolism II\n\nReproduction\n\nFinal Exam",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "使用自編講義媒材授課"
+        },
+        {
+            "type": "討論法",
+            "note": "利用書報進行討論"
+        },
+        {
+            "type": "媒體融入教學",
+            "note": "運用數位平台與自製簡報檔案教學"
+        }
+    ],
+    "grading": [
+        {
+            "type": "期中考",
+            "weight": 40,
+            "note": "選擇題\n簡答題\n問答題"
+        },
+        {
+            "type": "期末考",
+            "weight": 40,
+            "note": "選擇題\n簡答題\n問答題"
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 20,
+            "note": "上台報告或是課堂討論"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

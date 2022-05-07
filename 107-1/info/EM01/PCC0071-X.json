@@ -1,0 +1,74 @@
+{
+    "year": 107,
+    "term": 1,
+    "name": "認知心理學實驗技術",
+    "teachers": [
+        "許禕芳",
+        "簡郁芩"
+    ],
+    "department": "EM01",
+    "code": "PCC0071",
+    "credit": 3,
+    "serial": 418,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 3,
+            "from": 6,
+            "to": 8,
+            "campus": "本部",
+            "classroom": "教600"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程不開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程旨在介紹如何使用套裝軟體撰寫電腦化的認知心理學實驗程式，並幫助初學者設計、紀錄、與分析腦電波資料。課程進行方式包含教師講授、學生報告、與實驗操作。",
+    "goals": [
+        "具備實驗儀器的知識及操作能",
+        "能以儀器研究人類的心理",
+        "了解國際先進的設備"
+    ],
+    "syllabus": "第一週09/12：課程說明\n\n第二週09/19：眼動實驗的基本概念與操作解說\n\n第三週09/26：眼動文獻閱讀與評論\\* (Miller, 2015; Jian et al., 2013)\n\n第四週10/03：眼動文獻閱讀與評論\\* (Mason et al., 2013; Yi et al., 2016)\n\n第五週10/10：國慶日放假\n\n第六週10/17：Experiment Builder (SR使用手冊)\\*\n\n第七週10/24：Experiment Builder\\_進階實例&眼動實驗實作練習(※預借眼動儀實驗室)\n\n第八週10/31：Data Viewer操作入門&資料蒐集示範\n\n第九週11/07：Data Viewer進階操作與實例分析\n\n第十週11/14：眼動實驗期末口頭報告\\*\n\n第十一週11/21：事件相關電位的基本概念1/ Introduction to the ERP Technique 1\n\n第十二週11/28：事件相關電位的基本概念2/ Introduction to the ERP Technique 2\n\n第十三週12/05：E-prime的操作1/ E-prime introduction and hands-on session 1\n\n第十四週12/12：E-prime的操作2/ E-prime introduction and hands-on session 2 (\\*)\n\n第十五週12/19：腦波儀的操作示範/ EEG data collection demonstration (※預借腦波儀實驗室)\n\n第十六週12/26：EEGLAB的操作1/ EEGLAB introduction and hands-on session 1\n\n第十七週01/02：EEGLAB的操作2/ EEGLAB introduction and hands-on session 2\n\n第十八週01/09：腦波實驗文獻口頭報告/ EEG experiment presentation (\\*)",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "老師講解眼動儀與腦波儀的原理並示範操作"
+        },
+        {
+            "type": "討論法",
+            "note": "課堂討論"
+        },
+        {
+            "type": "實驗/實作",
+            "note": "上機操作練習"
+        }
+    ],
+    "grading": [
+        {
+            "type": "出席",
+            "weight": 20,
+            "note": "課堂出席與表現。"
+        },
+        {
+            "type": "報告",
+            "weight": 60,
+            "note": "眼動實驗報告(30%)：口頭報告內容須包含EB設計和DV分析資料過程的解說，以及收集資料後的統計分析結果。評量標準是EB和DV使用技術的成熟度和實驗的完成度。腦波實驗文獻報告：內容包含實驗設計的介紹與評論(15%)以及資料分析流程的說明與評論(15%)。"
+        },
+        {
+            "type": "其他",
+            "weight": 20,
+            "note": "眼動文獻閱讀報告(10%)與腦波實驗程式撰寫(10%)。"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

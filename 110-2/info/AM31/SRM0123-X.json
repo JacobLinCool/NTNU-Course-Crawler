@@ -1,0 +1,88 @@
+{
+    "year": 110,
+    "term": 2,
+    "name": "餐旅服務經營管理",
+    "teachers": [
+        "雷芷卉"
+    ],
+    "department": "AM31",
+    "code": "SRM0123",
+    "credit": 3,
+    "serial": 50,
+    "group": "",
+    "quota": {
+        "limit": 30,
+        "additional": 2
+    },
+    "schedule": [
+        {
+            "day": 3,
+            "from": 2,
+            "to": 4,
+            "campus": "本部",
+            "classroom": "綜603"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程不開放上修",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "Operations management, based on principles of scientific management, concerns itself with how work is done. This course is to apply the concept of operation management to organizations in the service economy. Specifically, the course provides students with statistical and operations research methods that are appropriate for the hospitality industry. The students learn how to make operational decisions based on quantitative and qualitative data generated from daily transactions. Topics include decision analysis, modeling, forecasting, quality management, process design, and queue management. Upon completion of the course, the students should be able to:\n\n1.    Develop an understanding of the terminology and responsibilities that relate to Service Operations Management.\n\n2.    Gain exposure to and mastery of analytical tools specific to service industries\n\n3.    Interpret basic tools and skills used in solving problems associated with service operations\n\n4.    Develop the ability to design and deliver operations to achieve competitive advantages in services",
+    "goals": [
+        "Develop an understanding of the terminology and responsibilities that relate to Service Operations Management",
+        "Gain exposure to and mastery of analytical tools specific to service industries",
+        "Interpret basic tools and skills used in solving problems associated with service operations",
+        "Develop the ability to design and deliver operations to achieve competitive advantage in services"
+    ],
+    "syllabus": "Operations management, based on principles of scientific management, concerns itself with how work is done. This course is to apply the concept of operation management to organizations in the service economy. Specifically, the course provides students with statistical and operations research methods that are appropriate for the hospitality industry. The students learn how to make operational decisions based on quantitative and qualitative data generated from daily transactions. Topics include decision analysis, modeling, forecasting, quality management, process design, and queue management. Upon completion of the course, the students should be able to:\n\n1.  Develop an understanding of the terminology and responsibilities that relate to Service Operations Management.\n2.  Gain exposure to and mastery of analytical tools specific to service industries\n3.  Interpret basic tools and skills used in solving problems associated with service operations\n4.  Develop the ability to design and deliver operations to achieve competitive advantages in services\n\n經營管理應基於科學管理原則來完成運營中的各種工作項目。本課程旨在將運營管理的概念應用於服務經濟中的企業組織。具體而言，本課程為學生提供適用於餐旅業的各種統計和運籌學方法。學生將學習如何根據日常交易產生的定量和定性數據做出運營決策。教學主題包括決策分析、建模、預測、質量管理、流程設計和排隊管理。完成本課程後，學生應該能夠：\n\n1\\. 理解與服務運營管理相關的術語和職責\n\n2\\. 了解和掌握服務行業特有的分析工具\n\n3\\. 應用於解決與服務運營相關的問題的基本技能\n\n4\\. 培養設計和提供服務的運營能力，以在餐旅領域獲得競爭優勢\n\n教學進度\n\nWeek\n\nLecture Topics\n\n1\n\nCourse Introduction\n\n2\n\nRevenue Management\n\n3-4\n\nForecasting\n\n5\n\nLinear Programming\n\n6\n\nOverbooking\n\n7\n\nGroup Booking\n\n8\n\nMeasuring Error\n\n9\n\nQueue Management\n\n10-11\n\nService Process Management\n\n12-13\n\nMeasuring & Designing Customer Experience\n\n14\n\nDatabase Management\n\n15-16\n\nProject Presentation\n\n17-18\n\nReport Writing",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "Lectures on the analytical tools and frameworks that are used for managing service operations, including forecasting, pricing decision, wait line management, service process, and customer data management."
+        },
+        {
+            "type": "問題解決教學",
+            "note": "The students will be given data in the hospitality industry. They will have to use the analytical tools learned in the class to analyze the situation and propose solutions in the homework."
+        },
+        {
+            "type": "合作學習",
+            "note": "The students learn how to work in a group setting through the semester project."
+        },
+        {
+            "type": "專題研究",
+            "note": "A group semester project is arranged for the student to conduct end-user programming to build an excel-based yield management system."
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 30,
+            "note": "Three assignments based on data from the hospitality operations."
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 10,
+            "note": "Participating in discussion in the class"
+        },
+        {
+            "type": "出席",
+            "weight": 10,
+            "note": "Attend the class on time each week, and be prepared to ask and answer questions"
+        },
+        {
+            "type": "報告",
+            "weight": 20,
+            "note": "Semester project oral presentation"
+        },
+        {
+            "type": "專題",
+            "weight": 30,
+            "note": "Semester project written report"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

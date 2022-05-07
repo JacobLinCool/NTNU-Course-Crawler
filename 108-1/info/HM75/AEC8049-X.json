@@ -1,0 +1,116 @@
+{
+    "year": 108,
+    "term": 1,
+    "name": "高等計算機網路",
+    "teachers": [
+        "戴建耘"
+    ],
+    "department": "HM75",
+    "code": "AEC8049",
+    "credit": 3,
+    "serial": 1207,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 1,
+            "from": 2,
+            "to": 4,
+            "campus": "本部",
+            "classroom": "教室自排"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "1.瞭解雲端與計算機網路(含手機行動網路)發展現況與趨勢\n2.瞭解雲端與計算機網路之功能與主要類別\n3.學得雲端與計算機網路伺服器之規劃與建置技術\n4.瞭解雲端與網路計算機網路之管理與資源控制\n5.瞭解雲端與網路計算機網路之安全管理現況與應用技術\n6.學得網路與網站建置與管理技術\n7. 其他雲端與計算機網路技術主題",
+    "goals": [
+        "瞭解雲端與計算機網路(含手機行動網路)發展現況與趨勢",
+        "瞭解雲端與計算機網路之功能與主要類別",
+        "學得雲端與計算機網路伺服器之規劃與建置技術",
+        "瞭解雲端與網路計算機網路之管理與資源控制",
+        "瞭解雲端與網路計算機網路之安全管理現況與應用技術",
+        "學得網路與網站建置與管理技術",
+        "其他雲端與計算機網路技術主題"
+    ],
+    "syllabus": "Week 1. 雲端與計算機網路發展現況與趨勢\n\nWeek 2. 網路專業技術 國內外專業能力認證與學習資源介紹\n\n(例如：網路架設、CIW, CCNP/CCNA, MCP/MTA (Microsoft Technology Associate)  \nWeek 3. 網路管理與應用核心能力之內涵 (Networking Essential) Networking OSI Model\n\nWeek 4. 網路管理與應用核心能力之內涵 (Networking Essential) TCP/IP Protocol\n\nWeek 5. 網路管理與應用核心能力之內涵 (Networking Essential) Other Protocols\n\nWeek 6. Server Administration 伺服器管理核心能力之內涵\n\nWeek 7. Server Administration 伺服器管理核心能力之內涵  \nWeek 8. 網路安全管理核心能力之內涵 (Securities)\n\nWeek 9. Mobile Networking and Protocol\n\nWeek 10. Mobile Networking, Mobile Phone and applications\n\nWeek 11. 論文或專題研討\n\nWeek 12. 論文或專題研討\n\nWeek 13. 論文或專題研討\n\nWeek 14. 論文或專題研討\n\nWeek 15. 論文或專題研討\n\nWeek 16. 論文或專題研討\n\nWeek 17-18. 期末複習與測評",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "教師用PPT或相關媒體講述"
+        },
+        {
+            "type": "討論法",
+            "note": "師生間就各主題相互討論"
+        },
+        {
+            "type": "問題解決教學",
+            "note": "教師提出問題讓學生思考後，共同討論解決方案"
+        },
+        {
+            "type": "合作學習",
+            "note": "學生小組討論與學習"
+        },
+        {
+            "type": "實驗/實作",
+            "note": "運用計算機與網路實作"
+        },
+        {
+            "type": "實地考察、參訪",
+            "note": "共同上網Browsing or visiting site. Review some Demo sites"
+        },
+        {
+            "type": "媒體融入教學",
+            "note": "適當使用PPT或是Video影片、System Demo等作教學"
+        },
+        {
+            "type": "專題研究",
+            "note": "依照上課時間許可每位學生進行1-2項自我專題研究與簡報"
+        },
+        {
+            "type": "其他",
+            "note": "輔導有意願的同學參加國際認證考試"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 10,
+            "note": ""
+        },
+        {
+            "type": "期中考",
+            "weight": 20,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 20,
+            "note": ""
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 20,
+            "note": ""
+        },
+        {
+            "type": "出席",
+            "weight": 10,
+            "note": ""
+        },
+        {
+            "type": "報告",
+            "weight": 20,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

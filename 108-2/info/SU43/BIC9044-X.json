@@ -1,0 +1,74 @@
+{
+    "year": 108,
+    "term": 2,
+    "name": "病毒學",
+    "teachers": [
+        "賴韻如"
+    ],
+    "department": "SU43",
+    "code": "BIC9044",
+    "credit": 2,
+    "serial": 2821,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 3,
+            "to": 4,
+            "campus": "公館",
+            "classroom": "Ｂ102"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎必須先修過【BIU0044  遺傳學】、【BIU0169  普通生物學甲（二）】、【BIU0168  普通生物學甲（一）】",
+    "form_s": "",
+    "classes": "9",
+    "dept_group": "",
+    "hours": 2,
+    "description": "為使生科系學生具備基本病毒學知識與應用，並俾利於有意願進修微生物相關系所的學生建立相關背景知識，甚至引起學生對此門學科有繼續鑽研的興趣，故開設此門課程。內容包含病毒學發展與目前應用趨勢、病毒基本背景知識、常見病毒的介紹與檢驗等。最後介紹並探討新興與再現病毒。",
+    "goals": [
+        "To understand the general properties of diverse groups of viruses",
+        "To understand various molecular mechanisms that control the processes of virus replication.",
+        "To be familiar with diseases caused by virus infection and the prevention and diagnosis of these disease."
+    ],
+    "syllabus": "主題一、病毒學簡介\n\n主題二、病毒的複製\n\n主題三、病毒的感染與致病模式\n\n主題四、宿主與病毒\n\n主題五、實驗室病毒診斷方法\n\n主題六、RNA病毒\n\n主題七、DNA病毒\n\n主題八、新興與再現病毒",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "以講義為主授課"
+        },
+        {
+            "type": "媒體融入教學",
+            "note": "適當影片或文獻輔助"
+        }
+    ],
+    "grading": [
+        {
+            "type": "期中考",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 40,
+            "note": ""
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 20,
+            "note": ""
+        },
+        {
+            "type": "出席",
+            "weight": 10,
+            "note": ""
+        }
+    ],
+    "prerequisite": "◎必須先修過【BIU0044  遺傳學】、【BIU0169  普通生物學甲（二）】、【BIU0168  普通生物學甲（一）】",
+    "general_core": []
+}

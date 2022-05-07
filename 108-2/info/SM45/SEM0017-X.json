@@ -1,0 +1,90 @@
+{
+    "year": 108,
+    "term": 2,
+    "name": "基礎統計",
+    "teachers": [
+        "林志鴻"
+    ],
+    "department": "SM45",
+    "code": "SEM0017",
+    "credit": 3,
+    "serial": 2602,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 2,
+            "to": 4,
+            "campus": "公館",
+            "classroom": "科教大樓204"
+        }
+    ],
+    "programs": [
+        "大數據學程"
+    ],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程定位在統計入門課程，介紹在量化分析中普遍且基本的統計觀念，主要內容包含下列幾項。\n1.\t統計基本介紹，常用定理，如大數法則、中央極限定理\n2.\t資料趨勢與變異\n3.\t抽樣與分配\n4.\t共變與相關\n5.\t假設檢定原理與常用檢定\n6.\t推論統計重要概念介紹，如：顯著程度、第一型及第二型錯誤、信賴區間\n7.\t變異數分析\n此外，為兼顧理問與實務，本課程會介紹如何利用常用統計，如SAS或SPSS來進行統計分析，學生可以學習如何正確詮釋結果並且據此撰寫統計報告。希望能藉由此課程引導學生如何有邏輯的進行決策",
+    "goals": [
+        "了解基本統計概念、邏輯分析技巧",
+        "具備解析與撰寫統計分析結果能力",
+        "利用統計進行客觀邏輯驗證",
+        "落實證據導向的決策，成為一位科學教育研究者"
+    ],
+    "syllabus": "week\n\ntopic\n\n1\n\n1.課程簡介，Why Study Statistics?\n\n2\n\n2.統計基本概念，研究問題，實驗設計\n\n3\n\n3.測量基本概念，資料視覺化，統計圖表與機率分佈\n\n4.統計軟體使用與安裝介紹(SPSS, SAS)\n\n4\n\n5.集中量數 (Central Tendency)，變異性 (Variability)，偏態(Skewness)與峰態(Kurtosis)\n\n5\n\n6.百分位數，百分等級，z-score\n\n7.期望值、變異數、標準差、標準誤\n\n6\n\n8.樣本分佈，大數法則，中央極限定理\n\n7\n\n期中考試\n\n8\n\nQ&A—期中考試講解\n\n9\n\n9.相關與共變\n\n10\n\n10.p value, α, Type I error, Type II error\n\n11\n\n11.假設檢定、z檢定(假設考驗)、與信賴區間\n\n12\n\n12.單母數檢定，t檢定(假設考驗)\n\n13\n\n13.雙母數檢定，單因子變異數分析理論與基本假設\n\n14\n\n14.變異數分析理論介紹\n\n15\n\n15.(獨立)單因子變異數分析ANOVA-1、報告撰寫\n\n16\n\n期末考試\n\n17\n\n16.探究: 搜尋2篇使用ANOVA或2篇使用t-test的文獻，列出撰寫報告時需要呈現的部分\n\n18\n\n17.實作: 以統計軟體(SPSS或SAS)練習ANOVA分析、撰寫報告",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": ""
+        },
+        {
+            "type": "問題解決教學",
+            "note": ""
+        },
+        {
+            "type": "實驗/實作",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 10,
+            "note": ""
+        },
+        {
+            "type": "期中考",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 10,
+            "note": ""
+        },
+        {
+            "type": "報告",
+            "weight": 20,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

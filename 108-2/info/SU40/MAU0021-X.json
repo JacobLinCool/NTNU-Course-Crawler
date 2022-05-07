@@ -1,0 +1,73 @@
+{
+    "year": 108,
+    "term": 2,
+    "name": "離散數學",
+    "teachers": [
+        "郭君逸"
+    ],
+    "department": "SU40",
+    "code": "MAU0021",
+    "credit": 3,
+    "serial": 2684,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 5,
+            "from": 6,
+            "to": 8,
+            "campus": "公館",
+            "classroom": "Ｂ103"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "2",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "離散數學討論的對象是非連續事物的性質，它是一個邏輯與函數的訓練基礎課程。而計數(Counting)的方法，也都有非常廣泛的應用。",
+    "goals": [
+        "能解決劑量的應用問題",
+        "能運用離散數學解決相關領域的問題",
+        "轉換數學模型的能力"
+    ],
+    "syllabus": "1\\. 計數(五週)\n\n*   乘法原理、加法原理\n*   排列、選取、重複排列、重複選取\n*   分配\n*   鴿籠原理\n*   二項式定理\n\n2\\. 生成函數(三週)\n\n*   多項式係數\n*   分割\n*   指數生成函數\n\n3. 遞迴(三週)\n\n*   疊代法\n*   各個擊破法\n*   差分方程法\n*   生成函數法\n\n4\\. 排容原理(二週)\n\n*   凡氏圖(Venn Diagrams)\n*   (強)排容原理\n*   城堡多項式\n\n5\\. 環狀排列(三週)\n\n*   Burnside's Theorem\n*   Cycle Index\n*   Polya's Formula\n\n因應肺炎疫情，最後一單元由同學自行於第17,18週時自行閱讀。\n\n6\\. Mathematical Games(兩週)\n\n*   Progressively Finite Games\n*   Nim-Type Games",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "講述此領域適合本系學生學習的主題為主。"
+        },
+        {
+            "type": "問題解決教學",
+            "note": "解決生活中常見的問題。"
+        },
+        {
+            "type": "專題研究",
+            "note": "時間許可下，會講幾個專題研究主題。"
+        }
+    ],
+    "grading": [
+        {
+            "type": "期中考",
+            "weight": 60,
+            "note": "兩次期中考"
+        },
+        {
+            "type": "期末考",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "出席",
+            "weight": 10,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

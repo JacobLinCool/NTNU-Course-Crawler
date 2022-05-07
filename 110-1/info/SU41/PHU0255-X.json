@@ -1,0 +1,74 @@
+{
+    "year": 110,
+    "term": 1,
+    "name": "量子資訊導論 （一）",
+    "teachers": [
+        "游至仕"
+    ],
+    "department": "SU41",
+    "code": "PHU0255",
+    "credit": 3,
+    "serial": 2901,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 2,
+            "to": 4,
+            "campus": "公館",
+            "classroom": "Ｓ503"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "3",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "1. 介紹量子資訊的相關基本概念\n2. 介紹量子資訊的前沿課題",
+    "goals": [
+        "培養未來相關領域的研究人才",
+        "延伸量子物理的內容",
+        "儲備量子通訊未來產業人才",
+        "深化量子力學教學"
+    ],
+    "syllabus": "授課16週\n\n**第一** **～** **第二週**\n\n**Section1. Quantum Foundations**\n\nThefirst section of the course will focus on those aspects of basic quantummechanics that are most relevant to quantum computing.        \n\n1.     Introduction of course:Double split experiment, electron spin\n\n2.     Linear algebra: eigenvalues,Hermitian operators, tensor products, Pauli matrices\n\n3.     Time evolution of quantum systems, entanglement,Bell Inequalities\n\n**第三** **～** **第六週**\n\n**Section2. Quantum Computers**\n\nThe second section sets up the actualmachinery of a quantum computer. We will begin with a short introduction toclassical computation. Then the basic ingredients of a quantum computer arespecified. This involves the definition of qubits, quantum gates, and quantumcircuits, as well as the preparation, evolution, and read-out of a quantumcomputer. To use IBM qiskit, we will also needpython.\n\n1.      Single qubit, spin rotation, Bloch sphere, measurement, circuitmodel\n\n2.     Multiple gates, universalgates\n\n3.      Tools:python, jupyter notebook, qiskit, qiskit Terra\n\n4.     Random number generator,Superdense coding\n\n5.     Function evaluation, quantumadder\n\n**第七** **～** **第十二週**\n\n**Section3.  Quantum Algorithms**\n\nThethird section deals with quantum algorithms. This is the heart of the course. We will build up systematically to theShor factoring algorithm, showing that there is a logical progression thatbegins with the Deutsch algorithm.  Thenwe will treat the Grover search algorithm. If time permits, we will describethe quantum adiabatic algorithm and the NAND search tree algorithm. \n\n1.      Phase,kickback, Deutsch algorithm, Deutsch-Jozsa algorithm\n\n2.      Noisemodel, error mitigation, qiskit Ignis\n\n3.      QuantumFourier transform, phase estimation, period finding, Shor’s factorization\n\n4.      Quantumsearch algorithm\n\n5.      Simulation– VQE, Ising model, quantum chemistry, Simulation and optimization- QAOA\n\n**第十三** **～** **第十五週**\n\n**Section4. Errors and current research topics**\n\nThefourth section deals with errors in quantum computation. We will first developthe general formalism of open quantum systems and the situations in which theexternal influences can be thought of classically. Then we will show how todeal with errors in the quantum context. I will also introduce some current research topics.\n\n1.      OpenQuantum Systems\n\n2.      QuantumError Correction Schemes\n\n**第十六週**\n\n**Presentationand term paper evaluation**",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": ""
+        },
+        {
+            "type": "專題研究",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 40,
+            "note": ""
+        },
+        {
+            "type": "期中考",
+            "weight": 20,
+            "note": ""
+        },
+        {
+            "type": "報告",
+            "weight": 40,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

@@ -1,0 +1,79 @@
+{
+    "year": 108,
+    "term": 2,
+    "name": "演算法",
+    "teachers": [
+        "李良一"
+    ],
+    "department": "EU11",
+    "code": "LSU0004",
+    "credit": 3,
+    "serial": 868,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 2,
+            "to": 4,
+            "campus": "本部",
+            "classroom": "樸407"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "此課程主要讓學生具備演算法的基本知識，能分析及驗證演算法的特性及效率，並能應用所學到的知識設計演算法來解決計算機問題。課程內容將包括演算法分析、Divide-and-Conquer、Dynamic Programming、Greedy Algorithms、Graph Algorithms、NP-completeness等。",
+    "goals": [
+        "演算法設計及分析的基本知識",
+        "應用所學到的演算法設計及分析知識處理計算問題",
+        "為計算問題設計演算法並分析其效能"
+    ],
+    "syllabus": "預定教學進度如下(會依據學生程度及上課狀況調整)：\n\n1.  課程介紹及演算法簡介(03/03)\n2.  演算法設計與分析(03/10)\n3.  Divide-and-Conquer(1) (03/17)\n4.  Divide-and-Conquer(2) (03/24)\n5.  Dynamic Programming(1)) (03/31)(online非同步)\n6.  Dynamic Programming(2)(04/07)(online非同步)\n7.  Greedy Algorithms (1) (04/14)(online非同步)\n8.  Greedy Algorithms (2) (04/21)(online非同步)\n9.  期中考(自主學習I：線上觀看Graph Algorithms(1))(04/28)\n10.  Graph Algorithms(2) (05/05)(online非同步)\n11.  Graph Algorithms(3) (05/12)(online非同步)\n12.  Graph Algorithms(4) (05/19)(online非同步)\n13.  NP-completeness(1) (05/26)\n14.  NP-completeness(2) (06/02)\n15.  Other topics (06/09)\n16.  (06/16)期末考\n\n自主學習II：完成老師指定自主學習作業",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "老師講授自編教材及教科書內容。"
+        },
+        {
+            "type": "媒體融入教學",
+            "note": "使用線上學習系統進行作業繳交、線上討論及其他線上教學活動"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 20,
+            "note": "練習老師上課指定的練習題及課後作業"
+        },
+        {
+            "type": "期中考",
+            "weight": 30,
+            "note": "期中考前老師上課的內容"
+        },
+        {
+            "type": "期末考",
+            "weight": 30,
+            "note": "期末考前老師上課的內容"
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 10,
+            "note": "影片觀看多寡及時間、討論區問題發問及回答"
+        },
+        {
+            "type": "出席",
+            "weight": 10,
+            "note": "課堂及線上練習、學生教室上課出席"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

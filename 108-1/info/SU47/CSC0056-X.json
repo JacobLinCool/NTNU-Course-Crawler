@@ -1,0 +1,80 @@
+{
+    "year": 108,
+    "term": 1,
+    "name": "資料通訊",
+    "teachers": [
+        "王超"
+    ],
+    "department": "SU47",
+    "code": "CSC0056",
+    "credit": 3,
+    "serial": 3047,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 1,
+            "from": 2,
+            "to": 4,
+            "campus": "公館",
+            "classroom": "Ｃ007"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "",
+    "classes": "9",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程針對資料通訊中，有關網路第二、三、四層的各項基本理論，進行深入的探討，希望引起同學們對此領域的興趣，並投入相關的研究與應用。本課程內容涵蓋點對點通訊協定、多重存取通訊協定、無線網路通訊標準、單點傳播與多點傳播技術、流量控制與冗塞控制等議題，並且將介紹基本的排隊理論與網路分析技術，並同時介紹當前相關科技之進展，以使修課同學能夠從多方面瞭解資料通訊與各項應用。",
+    "goals": [
+        "了解資料通訊基本原理",
+        "學習點對點通訊、多重存取通訊、流量控制、網路路由與基礎排隊理論等主題",
+        "著重理論的整合與應用",
+        "了解當前相關科技之進展"
+    ],
+    "syllabus": "Week #\n\n1\\. Course Introduction\n\n2-3. Layered Network Architecture and Point-to-Point Protocols\n\n4-8. Queueing Models and Systems\n\n9\\. First Exam\n\n10\\. Multiaccess Communication\n\n11-14. Routing and Flows in Data Communication Networks\n\n15-17. Recent Advances in Data Communication\n\n18: Final Exam\n\nDetails and reading assignments will be posted at [https://wangc86.github.io/csc0056/](https://wangc86.github.io/csc0056/)",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "由教師針對授課主題進行講授教學"
+        },
+        {
+            "type": "討論法",
+            "note": "由教師引導針對特定主題進行討論"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "期中考",
+            "weight": 25,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 35,
+            "note": ""
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 5,
+            "note": ""
+        },
+        {
+            "type": "出席",
+            "weight": 5,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

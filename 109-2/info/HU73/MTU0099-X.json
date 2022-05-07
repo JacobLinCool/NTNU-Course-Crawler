@@ -1,0 +1,81 @@
+{
+    "year": 109,
+    "term": 2,
+    "name": "數位邏輯設計",
+    "teachers": [
+        "吳順德"
+    ],
+    "department": "HU73",
+    "code": "MTU0099",
+    "credit": 2,
+    "serial": 1276,
+    "group": "",
+    "quota": {
+        "limit": 60,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 5,
+            "from": 3,
+            "to": 4,
+            "campus": "本部",
+            "classroom": "教103"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "1",
+    "classes": "",
+    "dept_group": "",
+    "hours": 2,
+    "description": "本科目旨在使學生瞭解基本電路設計原理，及學會邏輯設計技巧",
+    "goals": [
+        "本門課程在使學生瞭解基本電路設計原理，及學會邏輯設計技巧。",
+        "獲得數位邏輯問題之設計能力"
+    ],
+    "syllabus": "•第1~2週： Chap1: Digital Systems and Binary Numbers  \n•第3~4週：Chap2: Boolean Algebra and Logic Gates  \n•第5~6週：Chap3: Gate-Level Minimization  \n•第7~8週：Chap4: Combinational Logic  \n\n•第9週：期中考  \n•第10~12週Chap5: Synchronous Sequential Logic  \n•第13~15週Chap6: Registers and Counters & Quiz II  \n•第16~17週: Design Examples  \n  \n第18週期末考\n\n課程連結:  \nhttps://www.youtube.com/playlist?list=PLXxs-fSMcpYdwkCsnTXAkpvI2afmUkQgI",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "講解各種邏輯設計觀念與原理，引導學生學會邏輯設計技巧。"
+        },
+        {
+            "type": "問題解決教學",
+            "note": "帶領學生立利用Digital  IC進行問題解決。"
+        },
+        {
+            "type": "實驗/實作",
+            "note": "配合數位邏輯實驗課程, 利用 Verilog 語言合成電路"
+        },
+        {
+            "type": "媒體融入教學",
+            "note": "運用翻轉教室教學法,"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 20,
+            "note": "上課筆記+作業"
+        },
+        {
+            "type": "期中考",
+            "weight": 30,
+            "note": "評量學生的學習成效及問題解決能力"
+        },
+        {
+            "type": "期末考",
+            "weight": 30,
+            "note": "評量學生的學習成效及問題解決能力"
+        },
+        {
+            "type": "其他",
+            "weight": 20,
+            "note": "每周小考, 評量學生的學習成效及問題解決能力"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

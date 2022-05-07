@@ -1,0 +1,946 @@
+[
+    {
+        "year": 108,
+        "term": 1,
+        "name": "體育",
+        "teachers": [
+            "林建志"
+        ],
+        "department": "HU72",
+        "code": "00UP001",
+        "credit": 1,
+        "serial": 1272,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 5,
+                "from": 6,
+                "to": 7,
+                "campus": "本部",
+                "classroom": "操場一"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "1",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 1,
+        "name": "計算機概論（一）",
+        "teachers": [
+            "周遵儒"
+        ],
+        "department": "HU72",
+        "code": "GCU0170",
+        "credit": 2,
+        "serial": 1273,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 6,
+                "to": 7,
+                "campus": "本部",
+                "classroom": "教402"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "1",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 1,
+        "name": "圖文傳播基礎技術（一）",
+        "teachers": [
+            "廖信"
+        ],
+        "department": "HU72",
+        "code": "GCU0174",
+        "credit": 3,
+        "serial": 1274,
+        "group": "A",
+        "quota": {
+            "limit": 30,
+            "additional": 5
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 2,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "製作教室A"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "1",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 1,
+        "name": "圖文傳播基礎技術（一）",
+        "teachers": [
+            "王健華"
+        ],
+        "department": "HU72",
+        "code": "GCU0174",
+        "credit": 3,
+        "serial": 1275,
+        "group": "B",
+        "quota": {
+            "limit": 30,
+            "additional": 5
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 2,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "教403"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "1",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 1,
+        "name": "圖文傳播概論（一）",
+        "teachers": [
+            "陳仙舟"
+        ],
+        "department": "HU72",
+        "code": "GCU0179",
+        "credit": 2,
+        "serial": 1276,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 9,
+                "to": 10,
+                "campus": "本部",
+                "classroom": "視聽教室"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "1",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 1,
+        "name": "設計概論",
+        "teachers": [
+            "林素惠"
+        ],
+        "department": "HU72",
+        "code": "GCU0004",
+        "credit": 3,
+        "serial": 3323,
+        "group": "",
+        "quota": {
+            "limit": 30,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 5,
+                "to": 7,
+                "campus": "本部",
+                "classroom": "製作教室B"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎限大二大三大四修習",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 1,
+        "name": "影像處理",
+        "teachers": [
+            "陳皇利"
+        ],
+        "department": "HU72",
+        "code": "GCU0027",
+        "credit": 2,
+        "serial": 3305,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 10,
+                "to": 11,
+                "campus": "本部",
+                "classroom": "教402"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎限大二大三大四修習",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 1,
+        "name": "影視劇本編寫",
+        "teachers": [
+            "劉立行"
+        ],
+        "department": "HU72",
+        "code": "GCU0037",
+        "credit": 3,
+        "serial": 1277,
+        "group": "",
+        "quota": {
+            "limit": 30,
+            "additional": 0
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 11,
+                "to": 13,
+                "campus": "本部",
+                "classroom": "綜701"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎限大二大三大四修習",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 1,
+        "name": "影視原理與製作",
+        "teachers": [
+            "祝濬清"
+        ],
+        "department": "HU72",
+        "code": "GCU0108",
+        "credit": 3,
+        "serial": 3348,
+        "group": "",
+        "quota": {
+            "limit": 35,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 5,
+                "from": 7,
+                "to": 9,
+                "campus": "本部",
+                "classroom": "視聽教室"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 1,
+        "name": "色彩量測與應用",
+        "teachers": [
+            "徐明景"
+        ],
+        "department": "HU72",
+        "code": "GCU0130",
+        "credit": 2,
+        "serial": 3324,
+        "group": "",
+        "quota": {
+            "limit": 30,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 3,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "製作教室B"
+            }
+        ],
+        "programs": [
+            "文物保存修復學程"
+        ],
+        "comment": "",
+        "restrict": "◎限大二大三大四修習",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 1,
+        "name": "攝影學",
+        "teachers": [
+            "吳祖銘",
+            "陳仙舟"
+        ],
+        "department": "HU72",
+        "code": "GCU0132",
+        "credit": 3,
+        "serial": 1278,
+        "group": "A",
+        "quota": {
+            "limit": 30,
+            "additional": 6
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 2,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "製作教室B"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎限大二大三大四修習",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 1,
+        "name": "攝影學",
+        "teachers": [
+            "吳祖銘",
+            "陳仙舟"
+        ],
+        "department": "HU72",
+        "code": "GCU0132",
+        "credit": 3,
+        "serial": 1279,
+        "group": "B",
+        "quota": {
+            "limit": 30,
+            "additional": 0
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 7,
+                "to": 9,
+                "campus": "本部",
+                "classroom": "攝影室"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎限大二大三大四修習",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 1,
+        "name": "電腦繪圖與動畫技術",
+        "teachers": [
+            "陳淑如"
+        ],
+        "department": "HU72",
+        "code": "GCU0145",
+        "credit": 3,
+        "serial": 3306,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 8,
+                "to": 10,
+                "campus": "本部",
+                "classroom": "教402"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎限大二大三大四修習",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 1,
+        "name": "圖學（一）",
+        "teachers": [
+            "張晏榕"
+        ],
+        "department": "HU72",
+        "code": "GCU0168",
+        "credit": 3,
+        "serial": 1280,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 2,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "教402"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎限大二大三大四修習",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 1,
+        "name": "動畫實務基礎",
+        "teachers": [
+            "張晏榕"
+        ],
+        "department": "HU72",
+        "code": "GCU0186",
+        "credit": 3,
+        "serial": 1281,
+        "group": "",
+        "quota": {
+            "limit": 30,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 8,
+                "to": 10,
+                "campus": "本部",
+                "classroom": "教403"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎限大二大三大四修習",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 1,
+        "name": "印刷出版工程企劃",
+        "teachers": [
+            "葉振璧"
+        ],
+        "department": "HU72",
+        "code": "GCU0055",
+        "credit": 3,
+        "serial": 3325,
+        "group": "",
+        "quota": {
+            "limit": 40,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 8,
+                "to": 10,
+                "campus": "本部",
+                "classroom": "視聽教室"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎限大三大四修習",
+        "form_s": "3",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 1,
+        "name": "傳播科技企劃",
+        "teachers": [
+            "許宥辰"
+        ],
+        "department": "HU72",
+        "code": "GCU0060",
+        "credit": 3,
+        "serial": 3326,
+        "group": "",
+        "quota": {
+            "limit": 40,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 8,
+                "to": 10,
+                "campus": "本部",
+                "classroom": "製作教室B"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎限大三大四修習",
+        "form_s": "3",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 1,
+        "name": "傳播科技技術（一）",
+        "teachers": [
+            "邱槿桉"
+        ],
+        "department": "HU72",
+        "code": "GCU0075",
+        "credit": 3,
+        "serial": 3327,
+        "group": "",
+        "quota": {
+            "limit": 40,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 9,
+                "to": 10,
+                "campus": "本部",
+                "classroom": "誠105"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎限大三大四修習",
+        "form_s": "3",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 1,
+        "name": "專業技術訓練",
+        "teachers": [
+            "劉立行",
+            "張晏榕",
+            "陳仙舟"
+        ],
+        "department": "HU72",
+        "code": "GCU0121",
+        "credit": 3,
+        "serial": 1282,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 5,
+                "to": 7,
+                "campus": "本部",
+                "classroom": "視聽教室"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎限大三大四修習",
+        "form_s": "3",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 1,
+        "name": "編輯學",
+        "teachers": [
+            "萬岳憲"
+        ],
+        "department": "HU72",
+        "code": "GCU0129",
+        "credit": 2,
+        "serial": 3329,
+        "group": "",
+        "quota": {
+            "limit": 30,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 6,
+                "to": 7,
+                "campus": "本部",
+                "classroom": "製作教室B"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎限大三大四修習",
+        "form_s": "3",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 1,
+        "name": "印刷適性研究",
+        "teachers": [
+            "陳仙舟"
+        ],
+        "department": "HU72",
+        "code": "GCU0134",
+        "credit": 2,
+        "serial": 1283,
+        "group": "",
+        "quota": {
+            "limit": 30,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 5,
+                "from": 3,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "製作教室B"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎限大三大四修習",
+        "form_s": "3",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 1,
+        "name": "裝訂與加工",
+        "teachers": [
+            "陳仙舟"
+        ],
+        "department": "HU72",
+        "code": "GCU0136",
+        "credit": 2,
+        "serial": 1284,
+        "group": "",
+        "quota": {
+            "limit": 30,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 3,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "製作教室B"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎限大三大四修習",
+        "form_s": "3",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 1,
+        "name": "視覺傳達設計",
+        "teachers": [
+            "王靜弦"
+        ],
+        "department": "HU72",
+        "code": "GCU0142",
+        "credit": 3,
+        "serial": 3330,
+        "group": "",
+        "quota": {
+            "limit": 40,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 2,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "視聽教室"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎限大三大四修習",
+        "form_s": "3",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 1,
+        "name": "數位版型原理與實務",
+        "teachers": [
+            "陳仙舟"
+        ],
+        "department": "HU72",
+        "code": "GCU0185",
+        "credit": 2,
+        "serial": 1285,
+        "group": "",
+        "quota": {
+            "limit": 30,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 5,
+                "from": 1,
+                "to": 2,
+                "campus": "本部",
+                "classroom": "製作教室B"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎限大三大四修習",
+        "form_s": "3",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 1,
+        "name": "圖文傳播研究法",
+        "teachers": [
+            "王希俊"
+        ],
+        "department": "HU72",
+        "code": "GCU0085",
+        "credit": 2,
+        "serial": 1286,
+        "group": "A",
+        "quota": {
+            "limit": 30,
+            "additional": 0
+        },
+        "schedule": [
+            {
+                "day": 5,
+                "from": 3,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "教404"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎限大四修習",
+        "form_s": "4",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 1,
+        "name": "圖文傳播研究法",
+        "teachers": [
+            "王希俊"
+        ],
+        "department": "HU72",
+        "code": "GCU0085",
+        "credit": 2,
+        "serial": 1287,
+        "group": "B",
+        "quota": {
+            "limit": 30,
+            "additional": 0
+        },
+        "schedule": [
+            {
+                "day": 5,
+                "from": 6,
+                "to": 7,
+                "campus": "本部",
+                "classroom": "教403"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎限大四修習",
+        "form_s": "4",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 1,
+        "name": "畢業製作（一）",
+        "teachers": [
+            "周遵儒",
+            "廖信",
+            "張晏榕",
+            "陳仙舟"
+        ],
+        "department": "HU72",
+        "code": "GCU0177",
+        "credit": 3,
+        "serial": 1288,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 5,
+                "from": 10,
+                "to": 12,
+                "campus": "本部",
+                "classroom": "教室自排"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎限大四修習",
+        "form_s": "4",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 1,
+        "name": "設計群教材教法（教）",
+        "teachers": [
+            "廖信"
+        ],
+        "department": "HU72",
+        "code": "GCUE101",
+        "credit": 2,
+        "serial": 1289,
+        "group": "",
+        "quota": {
+            "limit": 30,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 6,
+                "to": 6,
+                "campus": "本部",
+                "classroom": "視聽教室"
+            },
+            {
+                "day": 2,
+                "from": 6,
+                "to": 6,
+                "campus": "本部",
+                "classroom": "視聽教室"
+            }
+        ],
+        "programs": [],
+        "comment": "1.限本系大四以上學生選修(需具設計群相關類科師培生資格)    2.如有特殊需求，請務必於第一堂上課準時報到。",
+        "restrict": "◎限大四修習 ◎必須先修過(也可以同時修)【GCUE310  設計群教學實習（一）（教）】",
+        "form_s": "4",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 1,
+        "name": "設計群教學實習（一）（教）",
+        "teachers": [
+            "廖信"
+        ],
+        "department": "HU72",
+        "code": "GCUE310",
+        "credit": 2,
+        "serial": 1290,
+        "group": "",
+        "quota": {
+            "limit": 30,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 7,
+                "to": 10,
+                "campus": "本部",
+                "classroom": "視聽教室"
+            }
+        ],
+        "programs": [],
+        "comment": "1.限本系大四以上學生選修(需具設計群相關類科師培生資格)2.如有特殊需求，請務必於第一堂上課準時報到。",
+        "restrict": "◎限大四修習 ◎必須先修過(也可以同時修)【GCUE101  設計群教材教法（教）】",
+        "form_s": "4",
+        "classes": "",
+        "dept_group": ""
+    }
+]

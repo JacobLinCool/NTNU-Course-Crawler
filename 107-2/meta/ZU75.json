@@ -1,0 +1,172 @@
+[
+    {
+        "year": 107,
+        "term": 2,
+        "name": "數學教學實習（二）（IB）",
+        "teachers": [
+            "謝豐瑞"
+        ],
+        "department": "SU40",
+        "code": "MAUE310",
+        "credit": 1,
+        "serial": 2707,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 6,
+                "to": 6,
+                "campus": "公館",
+                "classroom": "教室自排"
+            }
+        ],
+        "programs": [
+            "國際教師學程-數學"
+        ],
+        "comment": "",
+        "restrict": "◎必須先修過(也可以同時修)【MAUE210  數學教學實習（二）（教）】",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "組合數學（IB）",
+        "teachers": [
+            "林延輯"
+        ],
+        "department": "SU40",
+        "code": "MAC9025",
+        "credit": 3,
+        "serial": 2715,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 6,
+                "to": 8,
+                "campus": "公館",
+                "classroom": "教室自排"
+            }
+        ],
+        "programs": [
+            "國際教師學程-數學"
+        ],
+        "comment": "",
+        "restrict": "",
+        "form_s": "",
+        "classes": "9",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "數學史（IB）",
+        "teachers": [
+            "洪萬生"
+        ],
+        "department": "SU40",
+        "code": "MAC9028",
+        "credit": 1,
+        "serial": 2716,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 9,
+                "to": 9,
+                "campus": "公館",
+                "classroom": "教室自排"
+            }
+        ],
+        "programs": [
+            "國際教師學程-數學"
+        ],
+        "comment": "",
+        "restrict": "◎必須先修過(也可以同時修)【MAU0077  數學史】",
+        "form_s": "",
+        "classes": "9",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "數學教學實習（二）（教）",
+        "teachers": [
+            "楊凱琳"
+        ],
+        "department": "SU40",
+        "code": "MAUE210",
+        "credit": 2,
+        "serial": 2767,
+        "group": "A",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 5,
+                "from": 1,
+                "to": 4,
+                "campus": "公館",
+                "classroom": "教室自排"
+            }
+        ],
+        "programs": [
+            "國際教師學程-數學"
+        ],
+        "comment": "",
+        "restrict": "",
+        "form_s": "4",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "數學教學實習（二）（教）",
+        "teachers": [
+            "王婷瑩"
+        ],
+        "department": "SU40",
+        "code": "MAUE210",
+        "credit": 2,
+        "serial": 2768,
+        "group": "B",
+        "quota": {
+            "limit": 30,
+            "additional": 6
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 1,
+                "to": 4,
+                "campus": "公館",
+                "classroom": "教室自排"
+            }
+        ],
+        "programs": [
+            "國際教師學程-數學"
+        ],
+        "comment": "",
+        "restrict": "",
+        "form_s": "4",
+        "classes": "",
+        "dept_group": ""
+    }
+]

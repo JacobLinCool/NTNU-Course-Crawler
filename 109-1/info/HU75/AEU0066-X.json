@@ -1,0 +1,64 @@
+{
+    "year": 109,
+    "term": 1,
+    "name": "線性代數",
+    "teachers": [
+        "黃政吉"
+    ],
+    "department": "HU75",
+    "code": "AEU0066",
+    "credit": 3,
+    "serial": 1367,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 1,
+            "from": 2,
+            "to": 4,
+            "campus": "本部",
+            "classroom": "工501"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "3",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程主要是讓學生瞭解線性代數之重要概念，以及相關定理證明、運算與應用",
+    "goals": [
+        "認識線性代數之基本觀念和定理",
+        "培養學生運用線性代數解決問題的能力"
+    ],
+    "syllabus": "1.  Introduction to Systems of Linear Equations (Week 1)\n2.  Gaussian Elimination and Gauss-Jordan Elimination (Week 2)\n3.  Operations with Matrices (Week 3)\n4.  Properties of Matrix Operations (Week 4)\n5.  The Inverse of a Matrix (Week 5)\n6.  Elementary Matrices (Week 6)\n7.  The Determinant of a Matrix (Week 7)\n8.  Determinant and Elementary operations (Week 8)\n9.  Midterm (Week 9)\n10.  Properties of Determinants (Week 10)\n11.  Vector Spaces (Week 11)\n12.  Subspaces of Vector Spaces (Week 12)\n13.  Spanning Sets and Linear Independence (Week 13)\n14.  Basis and Dimension (Week 14)\n15.  Rank of a Matrix and Systems of Linear Equations (Week 15)\n16.  Coordinates and Change of Basis (Week 16)\n17.  Inner Product Spaces (Week 17)\n18.  Final (Week 18)",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "投影片"
+        }
+    ],
+    "grading": [
+        {
+            "type": "期中考",
+            "weight": 45,
+            "note": "筆試"
+        },
+        {
+            "type": "期末考",
+            "weight": 45,
+            "note": "筆試"
+        },
+        {
+            "type": "出席",
+            "weight": 10,
+            "note": "點名"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

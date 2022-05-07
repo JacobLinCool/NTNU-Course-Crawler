@@ -1,0 +1,84 @@
+{
+    "year": 107,
+    "term": 2,
+    "name": "證券交易實務與程式交易",
+    "teachers": [
+        "周德瑋",
+        "蔡蒔銓"
+    ],
+    "department": "OM55",
+    "code": "MBM0075",
+    "credit": 3,
+    "serial": 2402,
+    "group": "",
+    "quota": {
+        "limit": 30,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 3,
+            "from": 7,
+            "to": 9,
+            "campus": "本部",
+            "classroom": "教室自排"
+        }
+    ],
+    "programs": [],
+    "comment": "雲和教學大樓608",
+    "restrict": "◎課程不開放上修",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "談判在管理人員日常生活內佔著很重要的角色，包含溝通協調與衝突管理，本課程主要的目的是讓學生瞭解談判理論與過程，發展談判技能，包含溝通技巧、瞭解談判行為、談判問題分析、發展談判策略與談判技巧等，希望能學習有效地進行談判、化解衝突。此外，隨著全球化電子商務是帶的來臨，資訊科技對於談判活動的衝擊及可能的支援，也將涵蓋於本課程內。",
+    "goals": [
+        "知識/認知",
+        "職能導向",
+        "個人特質",
+        "價值/倫理"
+    ],
+    "syllabus": "**Week Date Topic**\n\n1       2/19 Orientationto the class: discuss syllabus and course assignments, explore student’sexpectation about this course\n\n2       2/27 Holiday\n\n3       3/6技術分析與應用 (均線、趨勢、擺盪、與動量、K線與各種指標)\n\n4       3/13期權籌碼面蒐集分析與應用 (如何利用CMoney整理籌碼面與Excel回測)\n\n5       3/20基本面影響交易之因素(考慮國內外重要經濟數據)\n\n6       3/27金融交易之路，交易員的成長過程\n\n7       4/3 放假\n\n8       4/10Multicharts程式交易簡介 \n\n9       4/17開啟程式交易之路(Multicharts安裝與設定)\n\n10       4/24進入簡單的程式撰寫\n\n11     5/1你也可以是投顧老師\n\n12     5/8運用Multicharts程式做籌碼分析 與 統計分析\n\n13     5/15運用Multicharts程式做Alpha交易\n\n14     5/22運用Multicharts程式做Beta交易\n\n15     5/29學自營交易員作『多市場.多商品.多策略』組合\n\n16     6/5當管理學遇到程式交易\n\n17     6/12程式設計成果發表\n\n18   6/19程式設計成果發表",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "詳細講述教材內容，探討理論和實務之議題"
+        },
+        {
+            "type": "討論法",
+            "note": "提供過去案例，討論其利弊得失"
+        },
+        {
+            "type": "實驗/實作",
+            "note": "利用課堂上所授予知識，模擬操作"
+        },
+        {
+            "type": "其他",
+            "note": "課堂中針對不同議題報告、互動討論、提出不同觀點和解決方案，再藉由個案的討論分析達到訓練學生思辨、增進溝通能力，期末成果發表。"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 20,
+            "note": ""
+        },
+        {
+            "type": "出席",
+            "weight": 10,
+            "note": ""
+        },
+        {
+            "type": "報告",
+            "weight": 40,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

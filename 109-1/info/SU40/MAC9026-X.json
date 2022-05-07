@@ -1,0 +1,74 @@
+{
+    "year": 109,
+    "term": 1,
+    "name": "迴歸分析（IB）",
+    "teachers": [
+        "呂翠珊"
+    ],
+    "department": "SU40",
+    "code": "MAC9026",
+    "credit": 3,
+    "serial": 2797,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 4,
+            "from": 2,
+            "to": 4,
+            "campus": "公館",
+            "classroom": "數學館M211"
+        }
+    ],
+    "programs": [
+        "國際教師學程-數學"
+    ],
+    "comment": "",
+    "restrict": "",
+    "form_s": "",
+    "classes": "9",
+    "dept_group": "",
+    "hours": 3,
+    "description": "Regression analysis is commonly applied in all kinds of fields, such as business management, economics, engineering, social science, and medical and epidemiological research. This course introduces the basic concepts in the analysis of regression, including simple linear regression, multiple regression, one-way and factorial analysis of variance, logistic regression, generalized linear model, random effect model and generalized linear mixed model.",
+    "goals": [
+        "Demonstrating a general understanding of key concepts and methodologies in regression analysis",
+        "Demonstrating mastery of knowledge and research skills in problem-solving and application by means of collecting, organizing, interpreting and presenting data",
+        "Demonstrating mastery of computational skills needed to conduct research or inquiry for practice"
+    ],
+    "syllabus": "**Session 1**\n\n**Topic: Simple Linear Regression**\n\nl   Introduction\n\nl   Connection with other subjects and past learning Local and global issues of regression analysis\n\n**Activities:**\n\nl   Problems that teacher candidates might encounter upon software installation\n\nl   Linking past knowledge with regression\n\n**Session 2**\n\n**Topic: Multiple Linear Regression**\n\nl   Understanding difference between simple and multiple linear regressions\n\n**Activity:**\n\nl   Examples of multiple regression discussed among teacher candidates\n\n**Session 3**\n\n**Topic: Inferences in Regression**\n\nl   Implications of theoretical thinking\n\nl   Approaches to regression analysis\n\nl   Strategies for derivation of parameters in the model\n\n**Activity:**\n\nl   Enhancing teacher candidates’ skills of problem-solving and critical thinking\n\n**Session 4**\n\n**Topic: Regression Models for Quantitative and Qualitative Predictors**\n\nl   Strategies to build a model\n\nl   Construction of model selection and validation\n\n**Activity:**\n\nl   Discussion on some cases encountered in daily life\n\n**Session 5**\n\n**Topic: Diagnostic**\n\nl   Further understanding of model building\n\nl   Is there any outlier?\n\nl   Should we remove the outlier? What if it is informative?\n\n**Activities:**\n\nl   Tryout and observe the difference\n\nl   Refining the option of removing concerned observations\n\n**Session 6**\n\n**Topic: Variable Selection**\n\nl   How to select variables for a model?\n\nl   Are they informative?\n\nl   Related issues in the real cases\n\n**Activities:**\n\nl   Tryout of selecting variables by software\n\nl   Classroom stimulus discussions\n\n**Session 7**\n\n**Topic: Design of Experimental and Observational Studies**\n\nl   Issues and challenges of these frequently-used study designs\n\n**Activity:**\n\nl   Analysis of several studies and classroom discussions\n\n**Session 8**\n\n**Topic: Assessment**\n\n **Activity:**\n\nIn-class External Assessment\n\n**Session 9**\n\n**Topic: Single Factor Studies**\n\nl   What is factor?\n\nl   Are the tools for diagnostics learned before suitable?\n\n**Activity:**\n\nl   Apply analysis of variance to problem-solving\n\n**Session 10**\n\n**Topic: Multi-factor Studies**\n\nl   Understanding of factorial designs\n\nl   Is it more realistic to consider various factors?\n\n**Activity:**\n\nl   Readings for the meaning of software output from different factorial studies\n\n**Session 11**\n\n**Topic: Analysis of Covariance**\n\nl   Complex factorial designs\n\nl   Advising on the design construction\n\n**Activity:**\n\nl   Strategies employed for real cases\n\n**Session 12**\n\n**Topic: Logistic Regression**\n\nl   Only two possible outcomes\n\nl   Is the previous approach to derivation suitable?\n\n**Activity:**\n\nl   Observe wide application of such regression analysis\n\n**Session 13**\n\n**Topic: Poisson Regression**\n\nl   Introduction to count data\n\nl   How to fit and evaluate such model?\n\nl   How is it different from fitting logistic regression models?\n\n**Activity:**\n\nl   Tryout of fitting different regression models for same data\n\nl   Observing the output and interpreting\n\n**Session 14**\n\n**Topic: Generalized Linear Models**\n\nl   Flexible generalization of ordinary linear regression\n\nl   Why is it popular?\n\n**Activity:**\n\nl   Enhancing creative thinking skill through talking with other teacher candidates\n\n**Session 15**\n\n**Topic: Random Effects Models**\n\nl   What is hierarchy?\n\nl   Controlling for unobserved heterogeneity\n\n**Activity:**\n\nl   Discussion on examples\n\n**Session 16**\n\n**Topic: Mixed Effects Models**\n\nl   Introduction to repeated measures\n\nl   Containing fixed and random effects\n\nl   Why is it useful in all kinds of disciplines?\n\n**Activity:**\n\nl   Connecting all the regression models\n\n**Session 17**\n\n**Topic: Assessment**\n\n**Activity**\n\nl   In-class External Assessment\n\n**Session 18**\n\n**Topic: Statistician’s Talk**\n\nl   Encouraging teacher candidate’s contribution to effective collaboration and teamwork\n\nl   Observation of organizing learning materials\n\n**Activity**\n\nl   Group presentation and interactive discussions\n\nl   Turn in individual reports",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": ""
+        },
+        {
+            "type": "合作學習",
+            "note": ""
+        },
+        {
+            "type": "專題研究",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 50,
+            "note": ""
+        },
+        {
+            "type": "報告",
+            "weight": 50,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

@@ -1,0 +1,87 @@
+{
+    "year": 110,
+    "term": 1,
+    "name": "休閒與社區發展",
+    "teachers": [
+        "李晶"
+    ],
+    "department": "AM31",
+    "code": "SRM0034",
+    "credit": 3,
+    "serial": 42,
+    "group": "",
+    "quota": {
+        "limit": 30,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 6,
+            "to": 8,
+            "campus": "本部",
+            "classroom": "綜603"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "課程簡介\t近年來, 台灣社會邁入一個富裕、有閒的時代。教育權亦下放於地方政府，必須重新檢討運動性休閒、傳統民俗運動，如何配合社會脈動、環境保護以創造人、社會、環境三贏的局面。",
+    "goals": [
+        "社區的基本組成與休閒運動之關聯",
+        "終身學習社會與社區休閒運動之振興",
+        "運動休閒與社區之結合"
+    ],
+    "syllabus": "1 簡介：休閒運動與社區發展 徐震CH1～CH4  \n2 社區的功能與形成  \n3 社區休閒議題  \n4 社區休閒之社會功能 Proterfild ch1~ch5  \n5 社區文化與社區休閒 赫斯特ch1~ch7  \n6 社區次級團體與休閒  \n7  社區總體營造之意涵  \n8 社區空間與社區休閒 Proterfild ch6~ch10  \n9 期中報告  \n10 特殊議題 學校與社區休閒  \n11 退休社區與休閒 RP: 退休社區  \n12 度假休閒社區\n\n13 休閒產業發展與社區\n\n14 個案討論  \n15 個案討論  \n16 個案討論\n\n彈性課程\n\n17 社區參訪  \n18 期末考日",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "議題闡述"
+        },
+        {
+            "type": "討論法",
+            "note": "小組討論"
+        },
+        {
+            "type": "實地考察、參訪",
+            "note": "社區參訪"
+        },
+        {
+            "type": "專題研究",
+            "note": "個案分析"
+        }
+    ],
+    "grading": [
+        {
+            "type": "期中考",
+            "weight": 20,
+            "note": "期中報告"
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 20,
+            "note": "課堂議題討論"
+        },
+        {
+            "type": "報告",
+            "weight": 30,
+            "note": "參訪報告"
+        },
+        {
+            "type": "成果展覽",
+            "weight": 10,
+            "note": "個案分析口頭報告"
+        },
+        {
+            "type": "專題",
+            "weight": 20,
+            "note": "個案分析書面報告"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

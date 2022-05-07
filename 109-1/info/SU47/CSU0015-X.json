@@ -1,0 +1,83 @@
+{
+    "year": 109,
+    "term": 1,
+    "name": "機率論",
+    "teachers": [
+        "陳柏琳"
+    ],
+    "department": "SU47",
+    "code": "CSU0015",
+    "credit": 3,
+    "serial": 3069,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 40
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 8,
+            "to": 9,
+            "campus": "公館",
+            "classroom": "Ｂ102"
+        },
+        {
+            "day": 5,
+            "from": 2,
+            "to": 2,
+            "campus": "公館",
+            "classroom": "Ｂ102"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "2",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "1. Probability\n2. Discrete Random Variables and Their Probability Distributions\n(1) The Binomial Probability Distribution\n(2) The Geometric Probability Distribution\n(3) The Hypergeometric Probability Distribution\n(4) The Poisson Probability Distribution \n3. Continuous Random Variables and Their Probability Distributions\n  (1) The Uniform Probability Distribution\n(2) The Normal Probability Distribution\n(3) The Gamma Probability Distribution\n(4) The Beta Probability Distribution\n4. Multivariate Probability Distribution\n(1) Bivariate and Multivariate Probability Distribution\n(2) Marginal and Conditional Probability Distribution\n(3) The Covariance of Two Random Variables\n(4) The Multinomial Probability Distribution \n5. Functions of Random Variables \n6. Sampling Distributions and the Central Limit Theorem",
+    "goals": [
+        "能熟悉資訊基礎理論"
+    ],
+    "syllabus": "1\\. Fundamentals\n\n1.1 Sets and Probabilistic Models\n\n1.2 Conditional Probability, Total Probability Theorem and Bayes\\` Rule\n\n1.3 Discrete and Continuous Random Variables\n\n1.4\n\n2\\. Advanced Topics\n\n2.1 Derived Distributions of Random Variables\n\n2.2 Transforms of Random Variables\n\n2.3 Convolutions, Conditional Expectation and Variance\n\n2.4 Sum of a Random Number of Random Variables",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": ""
+        },
+        {
+            "type": "實驗/實作",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "期中考",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 10,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

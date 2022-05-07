@@ -1,0 +1,74 @@
+{
+    "year": 107,
+    "term": 1,
+    "name": "量子化學",
+    "teachers": [
+        "李祐慈"
+    ],
+    "department": "SU42",
+    "code": "CMC0110",
+    "credit": 3,
+    "serial": 2843,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 7,
+            "to": 9,
+            "campus": "公館",
+            "classroom": "Ｃ107"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "",
+    "classes": "9",
+    "dept_group": "",
+    "hours": 3,
+    "description": "1. Enable the students’ understanding of quantum chemistry at graduated level.\n2. Enable the students to do calculations in some simple quantum mechanical systems.\n3. Enable the students to read and understand the current quantum chemistry related research papers without difficulties.",
+    "goals": [
+        "Enable the students’ understanding of quantum chemistry at graduated level.",
+        "Enable the students to do calculations in some simple quantum mechanical systems.",
+        "Enable the students to read and understand the current quantum chemistry related research papers without difficulties."
+    ],
+    "syllabus": "本課程為化學系大二學生修習物理化學-量子化學課程後的進階課程，將更深入討論量子化學的歷史緣起與理論推導，進而連結至現階段以量子化學理論為工具之研究領域。預計課程涵蓋主題如下：\n\n  \n\n1        Derivation of Rayleigh and Planck’s black body radiation energy density.\n\n  \n\n2        The derivation of Schrödinger equation.\n\n  \n\n3        Quantum mechanics of some simple systems including:\n\n  \n\n3.1       Particle in one-D box with one finite wall.\n\n  \n\n3.2       Particle in an infinite box with a finite central barrier.\n\n  \n\n3.3       The one-D harmonic oscillator.\n\n  \n\n3.4       The hydrogen-like ion\n\n  \n\n4        Angular momentum, ladder operator, and the rigid rotor.\n\n  \n\n5        Postulates and theorems of quantum mechanics.\n\n  \n\n6        Many-electron atoms:\n\n  \n\n6.1       Simple products and electron exchange symmetry\n\n  \n\n6.2       Slater determinants and the Pauli principle\n\n  \n\n6.3       Singlet and triplet states for the 1s2s configuration of He atom.\n\n  \n\n7        The variation method:\n\n  \n\n7.1       The variation theorem\n\n  \n\n7.2       Extension of the variation method\n\n  \n\n7.3       Determinants\n\n  \n\n7.4       Linear variation functions\n\n  \n\n7.5       Matrices, eigenvalues, eigenvectors\n\n  \n\n8        Perturbation theory\n\n  \n\n9        The SCF-LCAO-MO method and extensions\n\n  \n\n10     Derivation of Hartree-Fock equations",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "Lectures presented with PPT's or blackboard derivations."
+        },
+        {
+            "type": "實驗/實作",
+            "note": "Lab projects demonstrated in class."
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 20,
+            "note": "Exercise problems as weekly assignments."
+        },
+        {
+            "type": "期中考",
+            "weight": 30,
+            "note": "Exam covering lecture materials."
+        },
+        {
+            "type": "期末考",
+            "weight": 30,
+            "note": "Exam covering lecture materials."
+        },
+        {
+            "type": "專題",
+            "weight": 20,
+            "note": "Lab projects demonstrated in class."
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

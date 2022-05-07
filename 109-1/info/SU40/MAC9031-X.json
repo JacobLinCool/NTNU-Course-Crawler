@@ -1,0 +1,76 @@
+{
+    "year": 109,
+    "term": 1,
+    "name": "組合設計",
+    "teachers": [
+        "林延輯"
+    ],
+    "department": "SU40",
+    "code": "MAC9031",
+    "credit": 3,
+    "serial": 2800,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 2,
+            "to": 4,
+            "campus": "公館",
+            "classroom": "數學館M211"
+        }
+    ],
+    "programs": [
+        "科學計算學程"
+    ],
+    "comment": "",
+    "restrict": "",
+    "form_s": "",
+    "classes": "9",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程主要介紹實驗設計中的數學結構，除了理論的探討之外，也在應用上扮演重要的角色。課程中將加入實作訓練，在不同的情境中給出適當或最佳的設計，以有效率地解決問題。",
+    "goals": [
+        "了解組合設計的意義與目標",
+        "利用已知的知識來解決問題",
+        "培養數學溝通、表達能力、團隊合作能力",
+        "培養高觀點的數學品味"
+    ],
+    "syllabus": "1\\. 拉丁方陣\n\n2\\. 史坦納三元系\n\n3\\. 區塊設計\n\n4\\. 球面設計\n\n5\\. 編碼上的應用",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "實驗/實作",
+            "note": ""
+        },
+        {
+            "type": "專題研究",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 10,
+            "note": ""
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 50,
+            "note": ""
+        },
+        {
+            "type": "專題",
+            "weight": 40,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

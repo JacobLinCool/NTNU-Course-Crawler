@@ -1,0 +1,89 @@
+{
+    "year": 110,
+    "term": 2,
+    "name": "地理論著評讀",
+    "teachers": [
+        "汪明輝"
+    ],
+    "department": "LM23",
+    "code": "GEM0032",
+    "credit": 2,
+    "serial": 1597,
+    "group": "",
+    "quota": {
+        "limit": 30,
+        "additional": 5
+    },
+    "schedule": [
+        {
+            "day": 3,
+            "from": 3,
+            "to": 4,
+            "campus": "本部",
+            "classroom": "地理系會議室"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程不開放上修",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 2,
+    "description": "",
+    "goals": [
+        "能熟練地理學研究所需的基本技能，包括GIS操作、地圖繪製、資料蒐集、整理與分析等",
+        "能具備從事地理學研究的基本能力，包括問題意識、解析方法、論文撰述等",
+        "能具備環境議題分析與應用能力，能整合地理學知識與技能應用於環境評估與規劃",
+        "能持續性參與研習及進修，以增進終身學習及生涯發展的能力",
+        "能具備人文及科技素養，以思考、判斷、創造能力解決問題",
+        "能自我實踐科學研究的精神"
+    ],
+    "syllabus": "1.科學研究的本質與地理學研究之取向  \n2.地理研究方法簡介  \n3.資料的蒐集與分析  \n4.地理論著的內涵  \n5.論題的設計與架構  \n6.章節的規劃與預期目標  \n7.文獻史料解讀(1)  \n8.文獻史料解讀(2)  \n9.主題研讀與討論(1)  \n10.主題研讀與討論(2)  \n11.專文報告與評讀(1)  \n12.專文報告與評讀(2)  \n13.論文計畫寫作  \n14.論文計畫書發表  \n15.論文計畫修訂  \n16.期末考",
+    "methodologies": [
+        {
+            "type": "Formal lecture",
+            "note": ""
+        },
+        {
+            "type": "Group discussion",
+            "note": "分組學生需選定論文主題與教師討論"
+        },
+        {
+            "type": "Problem base learning",
+            "note": "選定論文主題尋求問題解決方式"
+        },
+        {
+            "type": "Cooperative learning",
+            "note": "分組選定專題團隊合作"
+        },
+        {
+            "type": "Case studies",
+            "note": "針對論文主題分析與深入研究"
+        }
+    ],
+    "grading": [
+        {
+            "type": "Assignments",
+            "weight": 20,
+            "note": "主題研讀"
+        },
+        {
+            "type": "Final exam",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "Class discussion involvement",
+            "weight": 20,
+            "note": "論文評讀（學生自選，老師過濾）"
+        },
+        {
+            "type": "Presentation",
+            "weight": 30,
+            "note": "口頭報告"
+        }
+    ],
+    "prerequisite": "◎Unavailable for M.A. program students (M.A. program courses excepted) and B.A. program students.",
+    "general_core": []
+}

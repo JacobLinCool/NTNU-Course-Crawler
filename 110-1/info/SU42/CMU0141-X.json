@@ -1,0 +1,75 @@
+{
+    "year": 110,
+    "term": 1,
+    "name": "分析化學（一）",
+    "teachers": [
+        "李君婷"
+    ],
+    "department": "SU42",
+    "code": "CMU0141",
+    "credit": 3,
+    "serial": 2943,
+    "group": "",
+    "quota": {
+        "limit": 100,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 5,
+            "from": 2,
+            "to": 4,
+            "campus": "公館",
+            "classroom": "Ｅ302"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "2",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本堂課主要講授分析化學的最基本原理及應用。",
+    "goals": [
+        "To provide the student with a solid background to the field of analytical chemistry.",
+        "To help students understand the principles in chemical equilibriums, classical methods of analysis, electrochemical methods",
+        "To help students understand the spectrochemical methods, kinetics and separation.",
+        "To introduce current research in the areas of analytical chemistry, qualitative and quantitative chemistry."
+    ],
+    "syllabus": "分析化學是探討如何確定一試料樣品中所含一種或多種成分的方法，並決定各成分的相對含量。確定的程序稱為定性分析(Qualitative Analysis)，而決定其含量的方法則稱為定量分析(Quantitative Analysis)。  \n這是一項涵蓋範圍廣泛的學科，舉凡與我們生活中的各項“物質”有關的研究都需要用到分析化學。尤其是在工業社會的每一場所，都可以發現分析化學應用的例子。例如，環境污染成分的測定，這可以幫助我們瞭解農藥或重金屬污染的情形；血漿中鈣離子的濃度，這對副甲狀腺亢進症的病人的診斷非常重要。其他對於工業化學、藥學、材料科學、生物學等學科而言，分析化學是最重要的一門科學。",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "媒體融入教學",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 10,
+            "note": ""
+        },
+        {
+            "type": "期中考",
+            "weight": 65,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 35,
+            "note": ""
+        },
+        {
+            "type": "其他",
+            "weight": 40,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

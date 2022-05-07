@@ -1,0 +1,80 @@
+{
+    "year": 107,
+    "term": 1,
+    "name": "基礎量子力學（一）",
+    "teachers": [
+        "陳鴻宜"
+    ],
+    "department": "SU41",
+    "code": "PHU0268",
+    "credit": 3,
+    "serial": 2792,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 1,
+            "from": 7,
+            "to": 7,
+            "campus": "公館",
+            "classroom": "Ｆ104"
+        },
+        {
+            "day": 5,
+            "from": 3,
+            "to": 4,
+            "campus": "公館",
+            "classroom": "Ｆ104"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "介紹量子力學的基本原理、觀念、計算方法和主要應用，使學生更深入了解近代物理。",
+    "goals": [
+        "了解量子力學的基本原理、觀念",
+        "加強理性思維能力",
+        "簡介物理新知"
+    ],
+    "syllabus": "**1\\. The Wave Function.**\n\n **2. The Time-Independent Schrodinger Equation.**\n\n **3. Formalism.**\n\n **4. Quantum Mechanics in Three Dimensions.**  **5. Identical Particles.**",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": ""
+        },
+        {
+            "type": "問題解決教學",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 15,
+            "note": "4次作業"
+        },
+        {
+            "type": "期中考",
+            "weight": 40,
+            "note": "2小時閉書測驗"
+        },
+        {
+            "type": "期末考",
+            "weight": 45,
+            "note": "2小時閉書測驗"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

@@ -1,0 +1,92 @@
+{
+    "year": 109,
+    "term": 1,
+    "name": "生物統計學",
+    "teachers": [
+        "黃士穎"
+    ],
+    "department": "SU43",
+    "code": "BIU0092",
+    "credit": 3,
+    "serial": 3010,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 4,
+            "from": 2,
+            "to": 4,
+            "campus": "公館",
+            "classroom": "理圖807"
+        }
+    ],
+    "programs": [
+        "空間學程"
+    ],
+    "comment": "",
+    "restrict": "",
+    "form_s": "3",
+    "classes": "1",
+    "dept_group": "",
+    "hours": 3,
+    "description": "This course is designed to introduce undergraduate students to the basic concepts and modern applications of statistical methods commonly used in biological and ecological studies.",
+    "goals": [
+        "Introduce to students the fundamental concepts and methods in modern biometry.",
+        "Develop students’ analytic ability and scientific attitudes towards hypothesis testing.",
+        "Provide trainings to students in scientific graphing and statistics software."
+    ],
+    "syllabus": "Week 1\n\nIntroduction to data analysis and R (I)\n\nWeek 2\n\nIntroduction to data analysis and R (II)  \n\nWeek 3\n\nProbability\n\nWeek 4\n\nProbability distribution\n\nWeek 5\n\nSampling distribution\n\nWeek 6  \n\nHypothesis testing  \n\nWeek 7\n\nt test  \n\nWeek 8\n\nAnalysis of variance  \n\nWeek 9\n\nConcept Review & Lab exercises (I)  \n\nWeek 10\n\nExam I  \n\nWeek 11\n\nTwo-factor Analysis  \n\nWeek 12  \n\nLinear regression  \n\nWeek 13\n\nCorrelation\n\nWeek 14\n\nGoodness of fit\n\nWeek 15\n\nConcept Review & Lab exercises (II)  \n\nWeek 16\n\nExam II\n\nWeek 17\n\nReal-world examples and group presentation demos  \n\nWeek 18\n\nGroup presentation",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "Lectures on the core concepts"
+        },
+        {
+            "type": "討論法",
+            "note": "Class discussions on real-world applications"
+        },
+        {
+            "type": "問題解決教學",
+            "note": "Performining statistical analyses and graphic presentations using sample data sets"
+        },
+        {
+            "type": "合作學習",
+            "note": "Group presentations"
+        },
+        {
+            "type": "實驗/實作",
+            "note": "Labratory exercises using software R"
+        },
+        {
+            "type": "媒體融入教學",
+            "note": "Powerpoint slides, videos and online simulation tools"
+        }
+    ],
+    "grading": [
+        {
+            "type": "期中考",
+            "weight": 25,
+            "note": "具備運用生命科學相關研究方法與技術的能力"
+        },
+        {
+            "type": "期末考",
+            "weight": 25,
+            "note": "具備運用生命科學相關研究方法與技術的能力"
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 25,
+            "note": "具備正確的科學態度，能主動探索生命科學之相關議題，並瞭解遵守科學倫理之重要性"
+        },
+        {
+            "type": "報告",
+            "weight": 25,
+            "note": "具備運用生命科學相關研究方法與技術的能力；具備正確的科學態度，能主動探索生命科學之相關議題，並瞭解遵守科學倫理之重要性；具備以多元表徵轉化生命科學概念之溝通與表達能力"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

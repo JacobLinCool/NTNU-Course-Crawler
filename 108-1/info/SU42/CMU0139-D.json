@@ -1,0 +1,71 @@
+{
+    "year": 108,
+    "term": 1,
+    "name": "有機化學實驗（一）",
+    "teachers": [
+        "簡敦誠",
+        "吳學亮"
+    ],
+    "department": "SU42",
+    "code": "CMU0139",
+    "credit": 1,
+    "serial": 2945,
+    "group": "D",
+    "quota": {
+        "limit": 24,
+        "additional": 3
+    },
+    "schedule": [
+        {
+            "day": 5,
+            "from": 8,
+            "to": 10,
+            "campus": "公館",
+            "classroom": "Ｄ409"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "2",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "訓練學生有機化學實驗操作的技巧，並培養實驗正確的實驗態度以及獨立思考和解決問題能力。此外，如何使學生學習撰寫有機化學實驗記錄和報告亦是此課程重要一環。",
+    "goals": [
+        "訓練學生分析化學實驗操作的技巧",
+        "培養實驗正確的實驗態度以及獨立思考和解決問題能力",
+        "訓練學生分析化學實驗操作的技巧"
+    ],
+    "syllabus": "Exp.1: Simple Distillation of Ethanol Compound\n\nExp.2: Extraction: Separation of C6H5COOH & C6H5NHCOCH3 (detecting MP)\n\nExp.3: Chromatography: 1. TLC Synthesis α-methylbenzyl alcohol from Acetophenone\n\nExp.4: Chromatography: 2. FC (detecting HPLC) Purification of α-methylbenzyl alcohol\n\nExp.5: Test for Hydrocarbons:1. Sulfuric Acid Test 2. Bromine Test 3. Baeyer Test\n\nExp.6: A.Test for Alkyl Halides: 1.Alcoholic Silver Nitrate 2.Sodium Iodide in Acetone\n\nB. Preparation of _tert_\\-Butyl Chloride\n\nExp.7: Artificial Sweeteners: Preparation of _p_\\-Ethoxyphenylurea (Dulcin) by Urea Method(detecting MP)\n\nExp.8: The Gelation of Polyvinyl Alcohol with Borax\n\nExp.9: Preparation of DL-phenylglycine:Optical Resolution of DL-phenylgiycine with (1_S_)-(+)-camphor-10\\-sulfonic acid",
+    "methodologies": [
+        {
+            "type": "實驗/實作",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 35,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 20,
+            "note": ""
+        },
+        {
+            "type": "出席",
+            "weight": 20,
+            "note": ""
+        },
+        {
+            "type": "其他",
+            "weight": 25,
+            "note": "含值日生工作及實驗態度"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

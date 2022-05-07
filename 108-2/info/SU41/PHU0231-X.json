@@ -1,0 +1,66 @@
+{
+    "year": 108,
+    "term": 2,
+    "name": "力學（二）",
+    "teachers": [
+        "陸健榮"
+    ],
+    "department": "SU41",
+    "code": "PHU0231",
+    "credit": 3,
+    "serial": 2746,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 8,
+            "to": 10,
+            "campus": "公館",
+            "classroom": "Ｅ101"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "2",
+    "classes": "1",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程提供物理系大學部理論力學一般的題材。",
+    "goals": [
+        "培養學生物理的歸納及推演能力",
+        "訓練學生解析的計算能力",
+        "令學生了解力學的發展歷史",
+        "使學生注意最新的發展"
+    ],
+    "syllabus": "1. Wave equation (自主學習)\n\n2.Wave propagation (自主學習)\n\n3. Calculus of variations\n\n4. Hamilton's principle\n\n5. Lagrangian dynamics\n\n6.Hamiltonian dynamics\n\n7. Central-force motion\n\n8. Planetary motion\n\n9.Mid-term Exam.\n\n10. Apsidal angles and Precession\n\n11. Central-force motion\n\n12. Dynamics of a system of particles\n\n13. Scattering cross section\n\n14. Rutherford scattering\n\n15. Noninertial reference frame\n\n16. Inertia tensor\n\n17\\. Euler's equations\n\n18\\. Final Exam.",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "期中考",
+            "weight": 35,
+            "note": "There will be one midterm exam."
+        },
+        {
+            "type": "期末考",
+            "weight": 35,
+            "note": "There will be one final exam."
+        },
+        {
+            "type": "其他",
+            "weight": 30,
+            "note": "There will be in class quiz."
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

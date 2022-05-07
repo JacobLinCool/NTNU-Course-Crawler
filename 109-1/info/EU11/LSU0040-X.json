@@ -1,0 +1,86 @@
+{
+    "year": 109,
+    "term": 1,
+    "name": "學習心理",
+    "teachers": [
+        "邱國力"
+    ],
+    "department": "EU11",
+    "code": "LSU0040",
+    "credit": 3,
+    "serial": 933,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 3,
+            "from": 6,
+            "to": 8,
+            "campus": "本部",
+            "classroom": "正201"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程將全面介紹與人類學習相關的心理學理論，整體重點在於學習理論的主要概念。 此外，本課程將強調學習理論與教學實踐之間的關係。 本課程的主題包括行為學，認知，情感，學習的社會和生物學觀點，以及學習理論在特定內容領域的應用。",
+    "goals": [
+        "1.\t學生能了解學習相關之理論",
+        "2.\t學生能利用學習理論在教學上",
+        "3.\t學生能知道如何評量學習結果"
+    ],
+    "syllabus": "本課程包含下列學習主題:\n\n1.學習的本質與意涵\n\n2.行為主義的學習觀\n\n3.認知取向的學習觀\n\n4.建構主義的學習觀\n\n5.神經科學取向的學習觀\n\n6.社會取向的學習觀\n\n7.學習的動機\n\n8.情境與學習\n\n9.學習的遷移\n\n10.學習理論的應用",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": ""
+        },
+        {
+            "type": "問題解決教學",
+            "note": ""
+        },
+        {
+            "type": "實驗/實作",
+            "note": ""
+        },
+        {
+            "type": "專題研究",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "期中考",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 10,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

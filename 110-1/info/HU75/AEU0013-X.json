@@ -1,0 +1,80 @@
+{
+    "year": 110,
+    "term": 1,
+    "name": "程式設計",
+    "teachers": [
+        "林政宏"
+    ],
+    "department": "HU75",
+    "code": "AEU0013",
+    "credit": 3,
+    "serial": 1343,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 40
+    },
+    "schedule": [
+        {
+            "day": 5,
+            "from": 7,
+            "to": 9,
+            "campus": "本部",
+            "classroom": "綜509國際會議廳"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "1",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "",
+    "goals": [
+        "Make students familiar with the syntax of C language and develop the programming skills of C language.",
+        "Cultivate the ability to think logically in programming.",
+        "Develop the ability to use programming in related fields.",
+        "Develop abstract thinking and reasoning skills.",
+        "Cultivate professional skills in programming."
+    ],
+    "syllabus": "【Course contents：16+2 weeks】\n\nLearn the C programming language and its fundamental programming concepts. Gain the knowledge to write simple C language applications and undertake future courses that assume some background in computer programming. The course covers the following topics.\n\nWeek 1:  Introduction to C and its advanced applications, basic input/output\n\nWeek 2:  decision statements, if, if/else, if/else if/else, switch\n\nWeek 3:  decision statements, if, if/else, if/else if/else, switch\n\nWeek 4:  loop statements, while, for, do/while\n\nWeek 5:  loop statements, while, for, do/while\n\nWeek 6:  Array\n\nWeek 7:  Array\n\nWeek 8: Midterm exam\n\nWeek 9:  Characters and strings\n\nWeek 9:  Function\n\nWeek 10: Function\n\nWeek 11:  pointer\n\nWeek 12:  pointer\n\nWeek 13:  C structure, union, Bit Manipulations and Enumeration\n\nWeek 14:  Basic data stucture\n\nWeek 15: Final exam\n\nWeek 17: Flexible Course (Special Report)\n\nWeek 18: Flexible Course (Special Report)",
+    "methodologies": [
+        {
+            "type": "Formal lecture",
+            "note": ""
+        },
+        {
+            "type": "Group discussion",
+            "note": ""
+        },
+        {
+            "type": "Problem base learning",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "Assignments",
+            "weight": 20,
+            "note": ""
+        },
+        {
+            "type": "Midterm Exam",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "Final exam",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "other:",
+            "weight": 20,
+            "note": "Quiz and reports"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

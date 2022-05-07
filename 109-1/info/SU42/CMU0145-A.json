@@ -1,0 +1,70 @@
+{
+    "year": 109,
+    "term": 1,
+    "name": "無機化學（一）",
+    "teachers": [
+        "蔡明剛"
+    ],
+    "department": "SU42",
+    "code": "CMU0145",
+    "credit": 3,
+    "serial": 2959,
+    "group": "A",
+    "quota": {
+        "limit": 50,
+        "additional": 9
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 2,
+            "to": 4,
+            "campus": "公館",
+            "classroom": "Ｅ101"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "3",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "To train students to have the basic concepts of CFT and complexes.",
+    "goals": [
+        "The hydrogen atomic structure and the trend of the periodical elements.",
+        "Molecular structures and bonding theories.",
+        "Main group elements and their compounds.",
+        "CFT and electronic spectra."
+    ],
+    "syllabus": "1.  原子結構\n2.  鍵結理論\n3.  固體結構\n4.  酸與鹼\n5.  氧化與還原\n6.  群論與對稱性\n7.  配位化學簡介\n\n每章節約授課2-3週\n\n預期先備知識：對於普通化學、群論在化學的應用有相當程度的理解",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "媒體融入教學",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "期中考",
+            "weight": 40,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 40,
+            "note": ""
+        },
+        {
+            "type": "出席",
+            "weight": 20,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

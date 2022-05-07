@@ -1,0 +1,54 @@
+{
+    "year": 107,
+    "term": 1,
+    "name": "程式設計（一）",
+    "teachers": [
+        "蔡孟蓉"
+    ],
+    "department": "EU11",
+    "code": "LSU0001",
+    "credit": 3,
+    "serial": 896,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 4,
+            "from": 6,
+            "to": 8,
+            "campus": "本部",
+            "classroom": "教402"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "1",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程介紹 Python之基本概念、技能與實作，包含資料結構與語法、數與運算介紹、實作與資料分析等。",
+    "goals": [
+        "能了解 Python程式設計的基本概念及技能並撰寫程式。",
+        "能根據指定的方法步驟，規畫程式架構、流程並據以實作。"
+    ],
+    "syllabus": "",
+    "methodologies": [
+        {
+            "type": "",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "",
+            "weight": null,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

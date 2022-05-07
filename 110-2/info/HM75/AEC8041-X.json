@@ -1,0 +1,82 @@
+{
+    "year": 110,
+    "term": 2,
+    "name": "積體電路與靜電放電防護設計實務",
+    "teachers": [
+        "林群祐"
+    ],
+    "department": "HM75",
+    "code": "AEC8041",
+    "credit": 3,
+    "serial": 1126,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 1,
+            "from": 2,
+            "to": 4,
+            "campus": "本部",
+            "classroom": "電機系電子實驗室"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "",
+    "goals": [
+        "Improving the understanding of students on IC and ESD protection design.",
+        "Developing the ability of students to implement IC and ESD protection design.",
+        "Encouraging the students to have the ability of designing advanced IC to meet the needs of IC design houses.",
+        "Cultivating the interest of students, and encouraging for life-long learning."
+    ],
+    "syllabus": "【Teaching Method: 16+2 Weeks】\n\n【16 Weeks of Teaching】  \nWeek 1: Introduction  \nWeek 2: Industrial standards  \nWeek 3: Basic protection concept  \nWeek 4: Testing on IC products  \nWeek 5: 1st case study and practice (1/3)  \nWeek 6: 1st case study and practice (2/3)  \nWeek 7: 1st case study and practice (3/3)  \nWeek 8: Midterm exam  \nWeek 9: 2nd case study and practice (1/3)  \nWeek 10: 2nd case study and practice (2/3)  \nWeek 11: 2nd case study and practice (3/3)  \nWeek 12: 3rd case study and practice (1/4)  \nWeek 13: 3rd case study and practice (2/4)  \nWeek 14: 3rd case study and practice (3/4)  \nWeek 15: 3rd case study and practice (4/4)  \nWeek 16: Final exam  \n(The arrangement may be adjusted according to the actual situation.)\n\n【2 Weeks of Flexible Teaching】  \nIncluding digital learning, independent learning, remedial teaching, etc.",
+    "methodologies": [
+        {
+            "type": "Formal lecture",
+            "note": "Teaching the basic design of integrated circuits and ESD protection circuits."
+        },
+        {
+            "type": "Group discussion",
+            "note": "Some questions will be asked and discussed during the course."
+        },
+        {
+            "type": "Problem base learning",
+            "note": "Training the students to solve the ESD problem in integrated circuits."
+        },
+        {
+            "type": "Lab/Studio",
+            "note": "Training the students to design the integrated circuits and ESD protection circuits to improve their practical skills."
+        },
+        {
+            "type": "Media, audio, visual materials",
+            "note": "Teaching with multimedia."
+        }
+    ],
+    "grading": [
+        {
+            "type": "Midterm Exam",
+            "weight": 20,
+            "note": "Testing of first half of semester."
+        },
+        {
+            "type": "Final exam",
+            "weight": 20,
+            "note": "Testing of second half of semester."
+        },
+        {
+            "type": "Presentation",
+            "weight": 60,
+            "note": "Reports of each practice."
+        }
+    ],
+    "prerequisite": "◎Available for junior and senior year B.A. program students (Doctoral program courses excepted) and M.A. program students.",
+    "general_core": []
+}

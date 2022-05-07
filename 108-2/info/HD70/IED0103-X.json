@@ -1,0 +1,72 @@
+{
+    "year": 108,
+    "term": 2,
+    "name": "模糊理論在技職教育之應用研究",
+    "teachers": [
+        "黃啟祐"
+    ],
+    "department": "HD70",
+    "code": "IED0103",
+    "credit": 2,
+    "serial": 1036,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 3,
+            "from": 9,
+            "to": 10,
+            "campus": "本部",
+            "classroom": "研討一"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 2,
+    "description": "Fuzzy set theory is a research approach that can deal with problems relating to ambiguous, subjective and imprecise judgments, and it can quantify the linguistic facet of available data and preferences for individual or group decision-making. During the past decades, the fuzzy set theory has already been widely adopted by social science researchers. In the course, the fundamental concepts of fuzzy set theories, fusions of fuzzy set theories with other research methods including but not limited to the analytic hierarchical process (AHP), analytic network process (ANP), decision making trial and evaluation laboratory (DEMATEL), Technique for Order of Preference by Similarity to Ideal Solution (TOPSIS) , VlseKriterijumska Optimizacija I Kompromisno Resenje (VIKOR), Multiple Criteria Decision Making (MCDM), Multiple Objective Decision Making (MODM), Inference System, Neural Networks and the state of the arts will be introduced. Furhter, applications of the fuzzy theories on vocational education will also be introduced.",
+    "goals": [
+        "協助學生瞭解並應用模糊理論",
+        "培養學生專業理論知識與實務之整合與創新能力。",
+        "培養學生專業批判與獨立解決問題之能力"
+    ],
+    "syllabus": "Fuzzy set theory is a research approach that can deal with problems relating to ambiguous, subjective and imprecise judgments, and it can quantify the linguistic facet of available data and preferences for individual or group decision-making. During the past decades, the fuzzy set theory has already been widely adopted by social science researchers. In the course, the fundamental concepts of fuzzy set theories, fusions of fuzzy set theories with other research methods including but not limited to the analytic hierarchical process (AHP), analytic network process (ANP), decision making trial and evaluation laboratory (DEMATEL), Technique for Order of Preference by Similarity to Ideal Solution (TOPSIS) , VlseKriterijumska Optimizacija I Kompromisno Resenje (VIKOR), Multiple Criteria Decision Making (MCDM), Multiple Objective Decision Making (MODM), Inference System, Neural Networks and the state of the arts will be introduced. Furhter, applications of the fuzzy theories on vocational education will also be introduced. The topics include \n\n1.  Analytic Hierarchical Process (AHP)\n2.  Fuzzy AHP\n3.  Analytic Network Process (ANP)\n4.  Fuzzy ANP\n5.  Decision Making Trial And Evaluation Laboratory (DEMATEL)\n6.  Fuzzy DEMATEL \n7.  Technique For Order Of Preference By Similarity To Ideal Solution (TOPSIS)  \n8.  Vlsekriterijumska Optimizacija I Kompromisno Resenje (VIKOR)\n9.  Fuzzy VIKOR\n10.  Rough Set Theory\n11.  Fuzzy Rough Set Theory\n12.  Multiple Criteria Decision Making (MCDM)\n13.  Fuzzy MCDM\n14.  Multiple Objective Decision Making (MODM)\n15.  Fuzzy MODM\n16.  Inference Systems\n17.  Fuzzy Inference Systems\n18.  Neural Networks\n19.  Adaptive Neuro-Fuzzy Inference System\n20.  Final Project Presentation",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "介紹模糊理論之最新進展與研究方法之結合"
+        },
+        {
+            "type": "討論法",
+            "note": "討論模糊理論於技職教育之應用"
+        },
+        {
+            "type": "問題解決教學",
+            "note": "修課同學需要導入模糊理論，解決技職教育之問題"
+        },
+        {
+            "type": "專題研究",
+            "note": "每位同學必須獨力完成專題研究"
+        }
+    ],
+    "grading": [
+        {
+            "type": "課堂討論參與",
+            "weight": 20,
+            "note": "若無法出席，請事先請假，否則每缺席一次，扣總分5分"
+        },
+        {
+            "type": "專題",
+            "weight": 80,
+            "note": "期末每位學生需要完成專題報告一篇"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

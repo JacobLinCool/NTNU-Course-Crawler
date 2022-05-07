@@ -1,0 +1,80 @@
+{
+    "year": 110,
+    "term": 1,
+    "name": "企業概論",
+    "teachers": [
+        "林舒柔"
+    ],
+    "department": "ZU83",
+    "code": "PGUA001",
+    "credit": 3,
+    "serial": 3276,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 25
+    },
+    "schedule": [
+        {
+            "day": 3,
+            "from": 10,
+            "to": 12,
+            "campus": "本部",
+            "classroom": "誠302"
+        }
+    ],
+    "programs": [
+        "基礎管理學程",
+        "藝術產業學程"
+    ],
+    "comment": "",
+    "restrict": "◎第一階段限 基礎管理學程",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程之主旨為提供管理學程學生對於企業經營管理及企業所處之經營環境有一基本且完整之瞭解，啟發同學對於各種企業功能的興趣，作為規劃未來選修進階管理課程之參考。課程講授採取由外而內的方式來進行，首先將介紹外部環境及產業競爭，之後將從企業倫理、創業、策略、組織、作業管理與品質、人力資源管理、行銷、管理資訊系統及證券投資的角度來探討企業經營內涵，兼顧學理與實務案例說明，讓學生瞭解企業經營發展新趨勢，培養學生對企業管理之興趣，以及奠定日後相關學理之基礎。",
+    "goals": [
+        "了解企業經營管理",
+        "了解企業經營環境及趨勢"
+    ],
+    "syllabus": "[教學進度與主題附件](https://ap.itc.ntnu.edu.tw/NtnuFileShare/file.do?action=dl&gno=8a2a113c3a694fe7be636096159a50d9&fno=fd4fb44228604e9da8abc80d9a288e57)",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": ""
+        },
+        {
+            "type": "其他",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 15,
+            "note": "商業雜誌評論"
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 15,
+            "note": "課程參與及平時測驗"
+        },
+        {
+            "type": "出席",
+            "weight": 10,
+            "note": "課程參與"
+        },
+        {
+            "type": "報告",
+            "weight": 60,
+            "note": "企業報告，期中報告及期末報告各一次"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

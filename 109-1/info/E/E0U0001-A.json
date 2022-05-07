@@ -1,0 +1,67 @@
+{
+    "year": 109,
+    "term": 1,
+    "name": "教育統計學（一）",
+    "teachers": [
+        "黃柏僩"
+    ],
+    "department": "E",
+    "code": "E0U0001",
+    "credit": 2,
+    "serial": 359,
+    "group": "A",
+    "quota": {
+        "limit": 50,
+        "additional": 26
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 3,
+            "to": 4,
+            "campus": "本部",
+            "classroom": "誠306"
+        }
+    ],
+    "programs": [
+        "學習與資訊學程"
+    ],
+    "comment": "",
+    "restrict": "◎限心輔系（學）選修",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 2,
+    "description": "本課程的目的在教授學生統計學基本原理與方法。總體來說，本課程期使學生能在具備統計學方法知識後，能適當的應用統計學方法於相關的研究與實務之中，並培養學生在相關研究與實務中具嚴謹專業客觀的能力與態度。",
+    "goals": [
+        "1.\t了解描述統計學的基本概念、原理與方法。",
+        "2.\t了解推論的基本概念、原理與方法。",
+        "3.\t應用統計學方法於心理與教育教學與研究工作。"
+    ],
+    "syllabus": "課程進度（視狀況調整）：\n\n1\\. Course Overview (9/15)\n\n2\\. Understanding Data I (9/22)\n\n3\\. Understanding Data II (9/29) \n\n4\\. Understanding Data III (HW1) (10/6)\n\n5\\. Correlation Analysis (10/13)\n\n6\\. Regression Analysis (HW2) (10/20)\n\n7\\. Gathering Data I (10/27)\n\n8\\. Gathering Data II (11/3)\n\n9. Midterm (11/10)\n\n10. Probability I  (11/17)\n\n11\\. Probability II (11/24)\n\n12\\. Sampling Distribution (HW3) (12/1)\n\n13\\. Inference for Proportion I (12/8)\n\n14\\. Inference for Proportion II (12/15)\n\n15\\. Inference for Mean I (12/22)\n\n16\\. Inference for Mean II (HW4) (12/29)\n\n17\\. Course Review (1/5)\n\n18\\. Final Exam (1/12)\n\n課程規範：\n\n1\\. 課程進行中請保持安靜，請勿干擾老師與同學上課。\n\n2\\. 作業須準時繳交，不接受遲交作業。若臨時無法出席課程繳交紙本作業，請於繳交期限內將已完成之作業拍照，照片檔案寄至主要助教之電子信箱，並盡快補交紙本作業。\n\n3\\. 若有作業抄襲或考試舞弊之行為，將交由校規處理。\n\n4\\. 作業與考卷請以中文或英文作答，若筆跡難以辨識，則以0分計。\n\n5\\. 考試可以使用紙本中英字典，以及僅具備+、－、×、÷、%、√、MR、MC、M+、 M-運算功能之計算機。 （請參考考選部所核定之第一類計算機：https://wwwc.moex.gov.tw/main/content/wHandMenuFile.ashx?menu\\_id=1206&strType=）\n\n6\\. 期中與期末考卷將於考試隔週課程時段發回給同學，任何分數異動，請於該時段提出，之後不再接受分數之異動。若無法出席考卷歸還之時段，請委託同學協助。",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 30,
+            "note": "四次作業，每次佔10%，上限30%。"
+        },
+        {
+            "type": "期中考",
+            "weight": 35,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 35,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

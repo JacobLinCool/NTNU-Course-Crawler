@@ -1,0 +1,81 @@
+{
+    "year": 108,
+    "term": 1,
+    "name": "理論地球物理學",
+    "teachers": [
+        "林佩瑩"
+    ],
+    "department": "SM44",
+    "code": "ESC8047",
+    "credit": 3,
+    "serial": 2727,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 1,
+            "from": 7,
+            "to": 9,
+            "campus": "公館",
+            "classroom": "Ｃ403"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程不開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "地球物理學是研究地球的物理行為、活動、及機制的學門，在這門課你將學到地球物理領域近年來最熱門的科學問題、為回答這些問題所使用的方法，及這些方法論的應用價值。",
+    "goals": [
+        "學生經由報告和討論，訓練自己獨立思考、理解地球物理現象的背後物理意義，並尋求和其他學科的結合。",
+        "經由分組英文口頭報告和書面報告，訓練學生溝通、合作、組織的技巧。",
+        "討論迷思問題，經由歷史地震的構造背景、地震學意義、和社會衝擊進行探究"
+    ],
+    "syllabus": "Lecture 1. Course introduction and general introduction to geophysics\n\nLecture 2. Selfintro research interestts\n\nLecture 3. Earth's interior\n\nLecture 4. Mineral Physics: Phase Transitions and Mineralogy of the Upper Mantle\n\nLecture 5. Mineral Physics: Trace Elements and Hydrogen in the Earth's Transition Zone and Lower Mantle\n\nLecture 6. Mineral Physics: Diffusion, Viscosity and Melt rhelolgy\n\nLecture 7. Crustal and Lithosphere Dynamics: Plate Tectonics \n\nLecture 8. Crustal and Lithosphere Dynamics: Plate Rheology and Mechanics\n\nLecture 9. Crustal and Lithosphere Dynamics: Heat Flow and Thermal Structure of the Lithosphere\n\nLecture 10. Crustal and Lithosphere Dynamics: Magmatism, Magma, and Magma Chambers\n\nLecture 11. Mantle Dynamics: Temperatures, Heat, and Energy in the Mantle of the Earth\n\nLecture 12. Mantle Dynamics: The Generation of Plate Tectonics from Mantle Dynamics\n\nLecture 13. Mantle Geochemical Geodynamics\n\nLecture 14. Mantle Geochemical Geodynamics\n\nLecture 15. Topic paper presentation and discussion\n\nLecture 16 Topic paper presentation and discussion\n\nLecture 17. Topic paper presentation and discussion\n\nLecture 18. Final",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "lectures on fundamental knowledge"
+        },
+        {
+            "type": "討論法",
+            "note": "Topic paper presentation and discussion"
+        },
+        {
+            "type": "問題解決教學",
+            "note": "searching ideas from articles"
+        },
+        {
+            "type": "合作學習",
+            "note": "Student groups discussion"
+        },
+        {
+            "type": "媒體融入教學",
+            "note": "Educational and Outreach earth science videos"
+        }
+    ],
+    "grading": [
+        {
+            "type": "期末考",
+            "weight": 30,
+            "note": "final oral presentation"
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 50,
+            "note": "paper reading, sharing, and discussion"
+        },
+        {
+            "type": "出席",
+            "weight": 20,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

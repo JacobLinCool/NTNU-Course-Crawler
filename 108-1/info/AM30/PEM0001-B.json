@@ -1,0 +1,85 @@
+{
+    "year": 108,
+    "term": 1,
+    "name": "體育研究法",
+    "teachers": [
+        "洪聰敏"
+    ],
+    "department": "AM30",
+    "code": "PEM0001",
+    "credit": 3,
+    "serial": 15,
+    "group": "B",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 2,
+            "to": 4,
+            "campus": "本部",
+            "classroom": "體003"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "教授體育相關各式研究方法",
+    "goals": [
+        "學習體育相關各式研究方法"
+    ],
+    "syllabus": "1.  課程簡介\n2.  分組討論動機文章\n3.  尋找科學與研究意義、學術生涯規劃\n4.  為信心施肥\n5.  研究之意涵、課程概要、體育研究法概要\n6.  文獻之收集與探討\n7.  問題呈現\n8.  方法與步驟\n9.  結果與討論\n10.  期中報告\n\n11\\. 研究計畫、論文格式\n\n12\\. 研究效度概念、描述類研究\n\n13\\. 實驗性研究\n\n14\\. 測量概念、基礎統計概念、信效度概念\n\n15\\. 研究倫理\n\n16\\. 評論報告\n\n17\\. 評論報告\n\n18\\. 評論報告",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": ""
+        },
+        {
+            "type": "問題解決教學",
+            "note": ""
+        },
+        {
+            "type": "專題研究",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 20,
+            "note": ""
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 25,
+            "note": ""
+        },
+        {
+            "type": "出席",
+            "weight": 10,
+            "note": ""
+        },
+        {
+            "type": "報告",
+            "weight": 15,
+            "note": ""
+        },
+        {
+            "type": "專題",
+            "weight": 30,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

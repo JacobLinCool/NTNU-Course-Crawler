@@ -1,0 +1,73 @@
+{
+    "year": 109,
+    "term": 2,
+    "name": "工程數學（二）",
+    "teachers": [
+        "楊啟榮"
+    ],
+    "department": "HU73",
+    "code": "MTU0016",
+    "credit": 3,
+    "serial": 1279,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 26
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 2,
+            "to": 4,
+            "campus": "本部",
+            "classroom": "誠108"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎必須先修過【MAU0181  微積分乙（二）】",
+    "form_s": "2",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本科目旨在協助學生瞭解工程數學之基本原理、運算技巧及其在工程上之實際應用。課程範圍涵蓋線性代數(矩陣、向量、行列式、線性方程式系統、矩陣特徵值問題)、向量微積分、向量發散度與旋度、純量場之梯度與方向導函數、Fourier級數分析與積分、轉換等單元。",
+    "goals": [
+        "瞭解工程數學之基本原理",
+        "增進問題導向的邏輯思考能力",
+        "培養工程數學之運算技巧與能力",
+        "發展工程數學在工程應用之分析設計能力"
+    ],
+    "syllabus": "第一週\n\nIntroduction to the course of Engineering Mathematics (II)\n\nLinear algebra. Vector calculus\n\nMatrices, vectors: addition and scalar multiplication\n\nMatrix multiplication\n\nLinear systems of equations. Gauss elimination\n\n第二週\n\nLinear independence. Rank of a matrix. Vector space\n\nSolution of linear systems: existence, uniqueness\n\nFor reference: second- and third-order determinants\n\n第三週\n\nDeterminants. Cramer’s rule\n\nInverse of a matrix. Gauss-Jordan elimination\n\nLinear algebra: matrix eignvalue problems\n\nEigenvalues, eigenvectors\n\n第四週\n\nSome applications of eigenvalue problems\n\nSymmetric, skew-symmetric, and orthogonal matrices\n\nEigenbases. Diaonalization. Quadratic forms\n\n第五週\n\n**Mid-term test ( I )**\n\n第六週\n\nVector differential calculus. Grad, Div, Curl\n\nVector in 2-space and 3-space\n\nInner product (Dot product)\n\nVector product (Cross product)\n\n第七週\n\nVector and scalar functions and fields. Derivatives\n\nCurves. Arc length. Curvature. Torsion\n\nCalculus review: functions of several variables\n\n第八週\n\nGradient of a scalar field. Directional derivative\n\nDivergence of a vector field\n\nCurl of a vector field\n\n第九週\n\nVector integral calculus. Integral theorems\n\nLinear integrals\n\nPath independence of line integrals\n\n第十週\n\nCalculus review: double integrals\n\nGreen’s theorem in the plane\n\n第十一週\n\nSurfaces for surface integrals\n\nSurface integrals\n\n第十二週\n\nTriple integrals. Divergence theorem of Gauss\n\nFurther applications of the divergence theorem\n\nStokes’s theorem\n\n第十三週\n\n**Mid-term test ( II )**\n\n第十四週\n\nFourier analysis, integrals, and transforms\n\nFourier series\n\nFunctions of any period p=2L\n\n第十五週\n\nEven and odd functions. Half-range expansions\n\nComplex fourier series\n\n第十六週\n\nForced oscillations",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "講解數學原理、進行公式來源證明與推導。"
+        },
+        {
+            "type": "討論法",
+            "note": "討論數學在工程上的應用範例、資料補充說明討論。"
+        },
+        {
+            "type": "問題解決教學",
+            "note": "利用課本習題講解解題步驟與公式運用要點。"
+        },
+        {
+            "type": "其他",
+            "note": "隨機抽測學生上台測驗，檢視學生的學習成效，進行必要的補充說明。利用期中考與期末考檢視學生總體學習成效。"
+        }
+    ],
+    "grading": [
+        {
+            "type": "期中考",
+            "weight": 60,
+            "note": "期中考(I)佔分30%，命題範圍為線性代數(矩陣、向量、行列式、線性方程式系統、矩陣特徵值問題)等的運算問題。 \n期中考(II)佔分30%，命題範圍為向量微積分、向量發散度與旋度、純量場之梯度與方向導函數等運算問題。"
+        },
+        {
+            "type": "期末考",
+            "weight": 40,
+            "note": "評量學生的學習成效，命題範圍為Fourier級數分析與積分、轉換等的運算問題。"
+        }
+    ],
+    "prerequisite": "◎必須先修過【MAU0181  微積分乙（二）】",
+    "general_core": []
+}

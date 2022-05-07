@@ -1,0 +1,84 @@
+{
+    "year": 110,
+    "term": 2,
+    "name": "設計史",
+    "teachers": [
+        "長友大輔"
+    ],
+    "department": "TU68",
+    "code": "VDU0008",
+    "credit": 2,
+    "serial": 3101,
+    "group": "",
+    "quota": {
+        "limit": 45,
+        "additional": 5
+    },
+    "schedule": [
+        {
+            "day": 1,
+            "from": 3,
+            "to": 4,
+            "campus": "本部",
+            "classroom": "設計系2A教室"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎必須先修過【VDU0004  設計概論】 ◎課程開放上修",
+    "form_s": "1",
+    "classes": "",
+    "dept_group": "",
+    "hours": 2,
+    "description": "",
+    "goals": [
+        "1. To understand the importance of design in each historical moment",
+        "2. To acknowledge historical design movement and its outcomes",
+        "3. To expand knowledge of historical designer and their masterpieces",
+        "4. To understand how society affects the culture and design development",
+        "5. To apply the knowledge of lectures to students' professional development"
+    ],
+    "syllabus": "Course introduction\n\nThis course maps the design history from various perspectives, such as tools for prehumans to modern society, ancient European religious ornamentation, and the industrial revolution to modern design history. Each lecture focuses on how design plays a critical role in historical moments and leads to the next phase of history. This course aims to establish students' more profound understanding of design history and provide opportunities to gain professional knowledge in the design industry. \n\nCourse Goals\n\n1.  To understand the importance of design in each historical moment\n2.  To acknowledge historical design movement and its outcomes\n3.  To expand knowledge of historical designer and their masterpieces\n4.  To understand how society affects the culture and design development\n5.  To apply the knowledge of lectures to students' professional development\n\nCourse Theme\n\nThis class is to understand how design industry has evolved in the past in western and eastern countries to define the importance of design. There are three levels of focus on this class, which are Design Ability, Socio-cultural Dynamics, and the brief history of Modern Design. During the session of Design Ability, the class points the origin of design as tool development, while Socio-cultural Dynamics session argues how design development was sensitive to its local culture.  The last session is to go through the brief history of Modern Design which is a new approach to the design development after the industrial revolution.  \n \n\nWeekly Schedule\n\nWeek          Course contents\n\n1                 Course introduction\n\n2                 Lecture 1: The orgin of Design \n\n3                 Lecture 2: Ancient Design from Greek to Gothic in architectural design\n\n4                 Lecture 3: Design Style development: Braque\n\n5                 Lecture 4: Industrial Revolution and its effect\n\n6                 School Holiday\n\n7                 Lecture 6: The brief history of Modern Design\n\n8                 Midterm: Group Discussion\n\n9                 Midterm: Group Presentation\n\n10               Lecture 7: BAUHAUS Workshop for modernity\n\n11               Lecture 8: Design revolution with Digital Media\n\n12               Lecture 9: Pop Art and Design\n\n13               Lecture 10: Organic Design\n\n14               Lecture 11: Mass Production and Design\n\n15               Lecture 12: Democratic Design\n\n16               Final Exam \n\n17               Site Visit: NTNU Design Corner",
+    "methodologies": [
+        {
+            "type": "Formal lecture",
+            "note": "Lecture with PowerPoint slides for transfering knowledge"
+        },
+        {
+            "type": "Group discussion",
+            "note": "Discussion about specific topics about the lecture"
+        },
+        {
+            "type": "Problem base learning",
+            "note": "Find related study about certain topic about design history"
+        },
+        {
+            "type": "Case studies",
+            "note": "Research report about specific topic given during the class"
+        }
+    ],
+    "grading": [
+        {
+            "type": "Midterm Exam",
+            "weight": 30,
+            "note": "Exam with multiple choices"
+        },
+        {
+            "type": "Final exam",
+            "weight": 40,
+            "note": "Research presentation about specific topic given during the class"
+        },
+        {
+            "type": "Attendances",
+            "weight": 20,
+            "note": "Class attendance"
+        },
+        {
+            "type": "Presentation",
+            "weight": 10,
+            "note": "Report about specific topic given during the class"
+        }
+    ],
+    "prerequisite": "Prerequisite course: 【VDU0004  Introduction to Design】 ◎Available for junior and senior year B.A. program students (Doctoral program courses excepted) and M.A. program students.",
+    "general_core": []
+}

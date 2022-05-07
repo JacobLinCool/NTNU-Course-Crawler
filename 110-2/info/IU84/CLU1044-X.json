@@ -1,0 +1,82 @@
+{
+    "year": 110,
+    "term": 2,
+    "name": "教育統計",
+    "teachers": [
+        "張瓅勻"
+    ],
+    "department": "IU84",
+    "code": "CLU1044",
+    "credit": 3,
+    "serial": 1427,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 5,
+            "from": 8,
+            "to": 10,
+            "campus": "本部",
+            "classroom": "教402"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "",
+    "goals": [
+        "Can develop greater understanding of basic concepts and various statistical methods uti-lized in scientific research, particularly in teaching Chinese as a second/foreign language",
+        "Can select, conduct appropriate statistical methods through the use of a computer software package and interpret the results",
+        "Can apply statistical concepts and methods to instructional and research work and evaluate authentic information encountered in daily life"
+    ],
+    "syllabus": "**\\[16+2 weeks; Blending learning\\]**\n\nWeek\n\nDate\n\nTopic\n\n1\n\n2/18\n\nCourse introduction/Syllabus/Survey\n\n2\n\n2/25\n\nIntroduction to Statistics (I)\n\n3\n\n3/4\n\nIntroduction to Statistics (II)\n\n4\n\n3/11\n\nDescribing Data: Frequency Tables, Frequency Distributions, and Graphic Presentation\n\n5\n\n3/18\n\nDescribing Data: Numerical Measures\n\n6\n\n3/25\n\nDescribing Data: Displaying and Exploring Data\n\n7\n\n4/1\n\nProbability, Normal Distributions, and z Scores\n\n8\n\n4/8\n\nSampling Methods and the Central Limit Theorem\n\n9\n\n4/15\n\nEstimation and Confidence Intervals\n\n10\n\n4/22\n\nResearch Design and Statistics I\n\n11\n\n4/29\n\nResearch Design and Statistics II\n\n12\n\n5/6\n\nHypothesis Testing: Significance, Effect Size, and Power\n\n13\n\n5/13\n\nOne-sample Tests of Hypothesis; Two-Sample Tests of Hypothesis\n\n14\n\n5/20\n\nAnalysis of Variance\n\n15\n\n5/27\n\nCorrelation and Linear Regression\n\n16\n\n6/3\n\nMultiple Regression Analysis\n\n17\n\n6/10\n\nSelf-directed learning I\n\n18\n\n6/17\n\nSelf-directed learning II",
+    "methodologies": [
+        {
+            "type": "Formal lecture",
+            "note": ""
+        },
+        {
+            "type": "Group discussion",
+            "note": ""
+        },
+        {
+            "type": "Media, audio, visual materials",
+            "note": ""
+        },
+        {
+            "type": "Case studies",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "Assignments",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "Class discussion involvement",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "Attendances",
+            "weight": 15,
+            "note": ""
+        },
+        {
+            "type": "Presentation",
+            "weight": 25,
+            "note": ""
+        }
+    ],
+    "prerequisite": "◎Available for junior and senior year B.A. program students (Doctoral program courses excepted) and M.A. program students.",
+    "general_core": []
+}

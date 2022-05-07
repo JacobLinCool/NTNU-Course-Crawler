@@ -1,0 +1,77 @@
+{
+    "year": 108,
+    "term": 2,
+    "name": "大數據分析理論與實務",
+    "teachers": [
+        "黃啟祐",
+        "高于勝"
+    ],
+    "department": "HU70",
+    "code": "IEU0120",
+    "credit": 2,
+    "serial": 1146,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 9,
+            "to": 10,
+            "campus": "本部",
+            "classroom": "工教系會議室"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "3",
+    "classes": "",
+    "dept_group": "",
+    "hours": 2,
+    "description": "This course aims to train students to learn the theoretical methods and tools of big data analysis to engineering and management problems. The content covers the basic concepts and data preparation of data mining, the method and evidence of data mining, and the advanced application of data mining; so that students can easily apply data mining methods, thereby improving the ability of big data analysis and digital decision making.",
+    "goals": [
+        "學會問題解決的基本演算法"
+    ],
+    "syllabus": "Week 1.Introduction\n\nWeek 2.Input: concepts, instances, attributes\n\nWeek 3.Output: Knowledge representation\n\nWeek 4.Algorithms: the basic methods (1)\n\nWeek 5.Algorithms: the basic methods (2)\n\nWeek 6.Credibility: Evaluating what’s been learned\n\nWeek 7.Trees and rules (1)\n\nWeek 8.Trees and rules (2)\n\nWeek 9.Examination\n\nWeek 10.Extending instance-based and linear models\n\nWeek 11.Data transformations\n\nWeek 12.Ensemble Learning\n\nWeek 13.Weka introduction\n\nWeek 14.Deep learning\n\nWeek 15.Beyond supervised and unsupervised learning\n\nWeek 16.Moving on: Applications and Beyond\n\nWeek 17.Final Report Presentation (1)\n\nWeek 18.Final Report Presentation (2)",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "透過課程介紹各類大數據分析方法與分析工具"
+        },
+        {
+            "type": "討論法",
+            "note": "透過課堂討論深化理論與實務之了解"
+        },
+        {
+            "type": "實驗/實作",
+            "note": "透過作業實際操作大數據之分析軟體與平台"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 20,
+            "note": "隨課程進度將指定作業"
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 20,
+            "note": "課堂分組討論"
+        },
+        {
+            "type": "出席",
+            "weight": 20,
+            "note": "無法出席請務必請假，缺席1次扣總分5分"
+        },
+        {
+            "type": "報告",
+            "weight": 40,
+            "note": "期末專題實作與報告"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

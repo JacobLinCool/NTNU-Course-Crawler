@@ -1,0 +1,68 @@
+{
+    "year": 110,
+    "term": 1,
+    "name": "認知心理學實驗技術",
+    "teachers": [
+        "許禕芳"
+    ],
+    "department": "EM01",
+    "code": "PCC0071",
+    "credit": 3,
+    "serial": 400,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 1,
+            "from": 6,
+            "to": 8,
+            "campus": "本部",
+            "classroom": "教500"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎必須先修過【PCU0005  實驗心理學】、【PCU0036  認知心理學】其中一門 ◎課程開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "",
+    "goals": [
+        "具備實驗儀器的知識及操作能",
+        "能以儀器研究人類的心理",
+        "了解國際先進的設備"
+    ],
+    "syllabus": "授課方式：16+2週(Data collection)\n\n第01週 (27SEP)：Introduction  \n第02週 (04OCT)：Holiday  \n第03週 (11OCT)：ERP techniques  \n第04週 (18OCT)：Presentation 1: a summary of major ERP components  \n第05週 (25OCT)：Presentation 1: ten simple rules for designing ERP experiments  \n第06週 (01NOV)：E-Studio  \n第07週 (08NOV)：E-Studio  \n第08週 (15NOV)：E-Merge and E-DataAid  \n第09週 (22NOV)：E-Merge and E-DataAid  \n第10週 (29NOV)：Presentation 2: programme and results  \n第11週 (06DEC)：Presentation 2: programme and results  \n第12週 (13DEC)：Lab tour  \n第13週 (20DEC)：EEGLAB  \n第14週 (27DEC)：EEGLAB  \n第15週 (03JAN)：Presentation 3: critical evaluation of an ERP experiment  \n第16週 (10JAN)：Presentation 3: critical evaluation of an ERP experiment  \n第17週 (17JAN)：Data collection  \n第18週 (24JAN)：Data collection",
+    "methodologies": [
+        {
+            "type": "Formal lecture",
+            "note": ""
+        },
+        {
+            "type": "Group discussion",
+            "note": ""
+        },
+        {
+            "type": "Lab/Studio",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "Attendances",
+            "weight": 25,
+            "note": "Active attendance"
+        },
+        {
+            "type": "Presentation",
+            "weight": 75,
+            "note": "ERP techniques (25%), E-Prime (25%), critical evaluation (25%)"
+        }
+    ],
+    "prerequisite": "Prerequisite course: 【PCU0005  Experimental Psychology】、【PCU0036  Cognitive Psychology】one of above ◎Available for junior and senior year B.A. program students (Doctoral program courses excepted) and M.A. program students.",
+    "general_core": []
+}

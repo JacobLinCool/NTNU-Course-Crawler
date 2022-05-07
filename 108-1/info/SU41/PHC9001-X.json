@@ -1,0 +1,72 @@
+{
+    "year": 108,
+    "term": 1,
+    "name": "固態物理導論（一）",
+    "teachers": [
+        "張明哲"
+    ],
+    "department": "SU41",
+    "code": "PHC9001",
+    "credit": 3,
+    "serial": 2867,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 3,
+            "from": 6,
+            "to": 8,
+            "campus": "公館",
+            "classroom": "綜合館002"
+        }
+    ],
+    "programs": [
+        "太陽能源與工程學程"
+    ],
+    "comment": "",
+    "restrict": "",
+    "form_s": "",
+    "classes": "9",
+    "dept_group": "",
+    "hours": 3,
+    "description": "介紹晶體各種物理性質.期望學生了解固態物理基本概念及其應用基礎.",
+    "goals": [
+        "物理思辨與討論能力",
+        "口語表達及簡報能力",
+        "熟悉各固態物理相關次領域之研究內容",
+        "研究討論過程中的資料收集與統整"
+    ],
+    "syllabus": "        Chap 1 Crystal structure\n\n        Chap 2 Wave diffraction and the reciprocal lattice\n\n        Chap 3 Crystal binding and elastic constants - skip\n\n        Chap 4 Phonons I. Crystal vibrations   (animation)\n\n        Chap 5 Phonons II. Thermal properties\n\n        Chap 6 Free-electron Fermi gas\n\n        Chap 7 Energy bands\n\n        Chap 9 Fermi surface and metals",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "期中考",
+            "weight": 35,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 35,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

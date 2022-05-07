@@ -1,0 +1,59 @@
+{
+    "year": 110,
+    "term": 2,
+    "name": "排隊理論",
+    "teachers": [
+        "蔡榮宗"
+    ],
+    "department": "SM47",
+    "code": "CSC0052",
+    "credit": 3,
+    "serial": 2699,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 5,
+            "from": 7,
+            "to": 9,
+            "campus": "公館",
+            "classroom": "Ｓ203"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "This course provides fundamentals for system modeling and analysis regarding OS, network, OR, etc. Topics include simple markovian birth-death queuing models, advanced markovian queuing models,  network queues, and models with general arrival or service pattern\n\n本課程介紹並分析操作系統，網路系統等之基礎系統模型，主題包括:\n•\tsimple markovian birth-death queuing models，\n•\tadvanced markovian queuing models\n•\tnetwork queues\n•\tmodels with general arrival or service pattern",
+    "goals": [
+        "To be capable of modeling stochastic systems and analysis",
+        "To obtain sufficient knowledge for performing reliable network simulations and obtaining pertinent performance metrics."
+    ],
+    "syllabus": "1\\. Introduction (12 hours)  \n2\\. Simple Markovian birth-death queueing models (15 hours)  \n3\\. Advanced Markovian queueing models (15 hours)  \n4\\. Networks, series, and cyclic queues (9 hours)  \n5\\. Models with general arrival or service patterns (3 hours)",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "期末考",
+            "weight": 50,
+            "note": "Examine"
+        },
+        {
+            "type": "報告",
+            "weight": 50,
+            "note": "Simulations and reports/examine"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

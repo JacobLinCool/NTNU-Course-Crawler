@@ -1,0 +1,83 @@
+{
+    "year": 109,
+    "term": 2,
+    "name": "地質學特論",
+    "teachers": [
+        "葉恩肇"
+    ],
+    "department": "SD44",
+    "code": "ESD0001",
+    "credit": 3,
+    "serial": 2622,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 1,
+            "from": 7,
+            "to": 9,
+            "campus": "公館",
+            "classroom": "Ｓ305"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程不開放上修",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "讓學生瞭解當代地質學次領域，如大地構造、構造地質學、沉積學、地層學、古生物學、礦物學、岩石學等相關知識之最新成果介紹，並能整合其關聯性且統整於地球科學研究之應用。",
+    "goals": [
+        "學習、了解當代於地質科學方面知識及研究方法的現況",
+        "能將課程內容整合於地球科學系統之研究",
+        "能自我學習並研讀最新地質科學相關文獻",
+        "能將課程成果應用於其學位論文的研究"
+    ],
+    "syllabus": "Week 01: Introduction\n\nWeek 02: Petrology\n\nWeek 03: Volcanology\n\nWeek 04: Modern Structural Geology\n\nWeek 05: Siliciclastic Sedimentary Geology\n\nWeek 06: Sophisticated Stratigraphy\n\nWeek 07: Lift History\n\nWeek 08: Geophysical Investigations\n\nWeek 09: Geochemistry\n\nWeek 10: Geochronology\n\nWeek 11: Tectonics\n\nWeek 12: Space Geodesy\n\nWeek 13: Hydrogeology\n\nWeek 14: Landscape Dynamics\n\nWeek 15: Paleoclimatology\n\nWeek 16: Geoinformatics\n\nWeek 17: Term Project Presentation\n\nWeek 18: Term Project Presentation",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "Lectures will be conducted on a regular basis to ensure students familiar with updated Geology knowledge."
+        },
+        {
+            "type": "討論法",
+            "note": "Group discussions will occur on regular basis on specific topics."
+        },
+        {
+            "type": "媒體融入教學",
+            "note": "Presentations will be required on a predetermined topic."
+        },
+        {
+            "type": "專題研究",
+            "note": "Term papers will be required on a predetermined topic"
+        }
+    ],
+    "grading": [
+        {
+            "type": "課堂討論參與",
+            "weight": 5,
+            "note": "Students must ask questions and discuss topics."
+        },
+        {
+            "type": "出席",
+            "weight": 5,
+            "note": "Attendance is mandatory."
+        },
+        {
+            "type": "報告",
+            "weight": 20,
+            "note": "Each case study will require a paper and presentation."
+        },
+        {
+            "type": "專題",
+            "weight": 70,
+            "note": "Students must choose specific topic(s) to present term project and write report."
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

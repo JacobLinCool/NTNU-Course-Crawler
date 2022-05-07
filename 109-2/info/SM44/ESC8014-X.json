@@ -1,0 +1,71 @@
+{
+    "year": 109,
+    "term": 2,
+    "name": "地震特論",
+    "teachers": [
+        "陳卉瑄"
+    ],
+    "department": "SM44",
+    "code": "ESC8014",
+    "credit": 3,
+    "serial": 2688,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 3,
+            "from": 2,
+            "to": 4,
+            "campus": "公館",
+            "classroom": "Ｃ403"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程不開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "讓研修者能了解地震的發生及其與地體構造之關係",
+    "goals": [
+        "讓研修者能了解地震的發生及其與地體構造之關係"
+    ],
+    "syllabus": "本課程針對不同類型的地震族群，進行最新進展的閱讀和討論：\n\nMegathrust earthquake (巨大型逆衝地震）\n\nLaboratory earthquake （實驗室地震）\n\nSupershear earthquake （超剪力地震）\n\nGlacier earthquake （冰河地震）\n\nInduced earthquake （人類誘發地震）\n\nVolcanic earthquake （火山地震）\n\nUrban earthquake （都會型地震）\n\nDeep earthquake （深震）\n\nSlow earthquake （慢地震）\n\n課程的進行，由老師進行導讀，其後學生針對該主題共同進行問題的釐清、文章的挑選及閱讀，和後續的報告、統整。在此學生能學到如何對個主題有中心思想的建立，並經由討論及閱讀，將該主題完整呈現「問題是什麼？」「目前的研究近況為何？」「未來的發展方向怎麼走？」。",
+    "methodologies": [
+        {
+            "type": "討論法",
+            "note": "對於特定主題學生共同討論報告的主軸和方向"
+        },
+        {
+            "type": "問題解決教學",
+            "note": "每個主題皆有無限個發想方向，哪個才是你的中心思想？哪些閱讀方向能解決你的問題？這個訓練在課程中會循序漸進引導。"
+        },
+        {
+            "type": "合作學習",
+            "note": "學生需要共同規劃報告的題材"
+        }
+    ],
+    "grading": [
+        {
+            "type": "課堂討論參與",
+            "weight": 30,
+            "note": "分組、分主題討論"
+        },
+        {
+            "type": "報告",
+            "weight": 30,
+            "note": "口頭及書面報告"
+        },
+        {
+            "type": "成果展覽",
+            "weight": 40,
+            "note": "每個主題彙整成海報輸出"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

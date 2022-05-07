@@ -1,0 +1,79 @@
+{
+    "year": 109,
+    "term": 1,
+    "name": "資料探勘",
+    "teachers": [
+        "何宗武"
+    ],
+    "department": "OM56",
+    "code": "IAM0094",
+    "credit": 3,
+    "serial": 3326,
+    "group": "",
+    "quota": {
+        "limit": 35,
+        "additional": 15
+    },
+    "schedule": [
+        {
+            "day": 3,
+            "from": 2,
+            "to": 4,
+            "campus": "本部",
+            "classroom": "樸204"
+        }
+    ],
+    "programs": [
+        "學習與資訊學程"
+    ],
+    "comment": "",
+    "restrict": "◎課程不開放上修",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "隨著資訊科技的快速進步，使得資料儲存與傳遞更加低廉與便利，大幅改變我們的商業與生活形態，也因而累積了龐大的電子化資料，如何善用資料，轉化為企業決策的利器，遂成為現今企業能否取得競爭優勢的關鍵因素，故本課程將引導同學學習資料探勘相關的理論、軟體與應用。",
+    "goals": [
+        "能夠瞭解如何選擇正確的探勘模式",
+        "能夠解讀探勘結果並撰述分析報告",
+        "能夠從探勘結果提出輔助商業決策方案"
+    ],
+    "syllabus": "1.  Introduction to Data Mining and R Programming\n2.  Linear models and generalized linear models\n3.  Classifications: Concepts and algorithsm\n4.  Advanced classification methods: tree/RF/SVM/knn/neural network\n5.  Con’t\n6.  Association rules and basket analysis\n7.  Con’t\n8.  PCA and Clusters\n9.  Introduction to Text Mining & Natural Language Processing\n10.  續：詞頻，文字向量和 Topic Model\n11.  Text data (1)-Book: Machine reads Shakespeare\n12.  Text data (2)-Internet: 網路爬蟲\n13.  中文的文字問題-- Using Google Colab(專家演講)\n14.  中文文字探勘案例(專家演講)\n15.  Python libraries\n16.  Project evaluation\n17.  Presentation",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "理論與觀念講述"
+        },
+        {
+            "type": "討論法",
+            "note": "學術文獻討論"
+        },
+        {
+            "type": "合作學習",
+            "note": "團隊作業與報告"
+        },
+        {
+            "type": "專題研究",
+            "note": "期末專題報告"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "期中考",
+            "weight": 25,
+            "note": ""
+        },
+        {
+            "type": "報告",
+            "weight": 45,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

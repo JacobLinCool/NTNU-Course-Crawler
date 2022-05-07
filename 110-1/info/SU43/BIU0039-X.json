@@ -1,0 +1,65 @@
+{
+    "year": 110,
+    "term": 1,
+    "name": "人體生理學",
+    "teachers": [
+        "呂國棟",
+        "林豊益"
+    ],
+    "department": "SU43",
+    "code": "BIU0039",
+    "credit": 3,
+    "serial": 2988,
+    "group": "",
+    "quota": {
+        "limit": 60,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 1,
+            "from": 2,
+            "to": 4,
+            "campus": "公館",
+            "classroom": "Ｅ202"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎必須先修過【BIU0168  普通生物學甲（一）】、【BIU0169  普通生物學甲（二）】、【BIU0170  普通生物學乙】其中一門",
+    "form_s": "2",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程目標為介紹人體生理學之基本概念，使學生瞭解動物各系統的功能，與運作機制。",
+    "goals": [
+        "能熟悉並認知人體生理系統的功能及機制。",
+        "能體認人體生理學的內涵，並以人體生理學為基礎探討相關議題。",
+        "能夠吸收專業知識並且將其轉化與表達"
+    ],
+    "syllabus": "1.  課程簡介 (Course introduction)\n2.  細胞生理 (Cell physiology)\n3.  神經系統-中樞神經系統(Central nervous system)\n4.  神經系統-週邊神經系統(Peripheral & autonomic nervous system)\n5.  特殊感覺與運動 (Sensory physiology)\n6.  內分泌生理 (Endocrine system)\n7.  內分泌與生殖生理 (Endocrine & reproductive physiology)\n8.  期中考 (mid-term exam)\n9.  肌肉生理 (Muscular physiology)\n10.  心臟血管系統 (1) (Cardiovascular system I)\n11.  心臟血管系統 (2) (Cardiovascular system II)\n12.  血液, 淋巴系統與免疫 (Blood, lymphoid and immune system)\n13.  呼吸系統 (1) (Respiratory system I)\n14.  呼吸系統 (2) (Respiratory system II)\n15.  腎臟泌尿系統 (1) (Kidney and urinary system I)\n16.  腎臟泌尿系統 (2) (Kidney and urinary system II)\n17.  消化系統 (1) (Digestive system I)\n18.  消化系統 (2) (Digestive system II)\n19.  期末考 (Final exam)",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "使用一般課本、自編講義媒材授課"
+        },
+        {
+            "type": "媒體融入教學",
+            "note": "運用數位平台與自製簡報檔案教學"
+        }
+    ],
+    "grading": [
+        {
+            "type": "期中考",
+            "weight": 50,
+            "note": "選擇題(80%) 簡答題(20%)"
+        },
+        {
+            "type": "期末考",
+            "weight": 50,
+            "note": "選擇題(30%) 簡答題(20%) 問答題(40%)"
+        }
+    ],
+    "prerequisite": "◎必須先修過【BIU0168  普通生物學甲（一）】、【BIU0169  普通生物學甲（二）】、【BIU0170  普通生物學乙】其中一門",
+    "general_core": []
+}

@@ -1,0 +1,60 @@
+{
+    "year": 109,
+    "term": 2,
+    "name": "幾何測度論專題（二）",
+    "teachers": [
+        "孟悟理"
+    ],
+    "department": "SM40",
+    "code": "MAC8027",
+    "credit": 3,
+    "serial": 2648,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 5,
+            "from": 7,
+            "to": 9,
+            "campus": "公館",
+            "classroom": "教室自排"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "幾何測度論提供了一種基於測度論和泛函分析的數學語言來描述非平滑的子流形。當應用於幾何變分問題時，橢圓和拋物型偏微分方程以及代數拓撲為幾何測度論這套系統提供了有價值的補充。\n本研讀課程將為具有上述某些背景知識的學生預做準備，以便他們未來能獨立學習幾何測度論。為此，每個上課主題將由一位或多位學生進行課堂報告，同時每位學生會指定某位教授給予指導。在報告主題的挑選上，每位學生的先驗知識會納入考量。",
+    "goals": [
+        "Verify research-level mathematics",
+        "Conceptually understand research-level mathematics",
+        "Concisely present research-level mathematics"
+    ],
+    "syllabus": "**Course outline** Topics are presented by the participants and are assigned in consultation with the teacher taking into account the prior knowledge of the individual participants. Remote participants may employ a virtual whiteboard for their presentation. Each participant usually presents two sessions and all topics should take two sessions unless indicated otherwise.\n\nThe following two topics are of preparatory nature.\n\n(1)  Distributions, regularisation, and distributions representable by integration, see \\[Fed69, 4.1.1–4.1.5\\], \\[Men16b, 2.13–2.21, 2.24, 3.1\\], and \\[Men16a\\].\n\n(2)  Regularity of solutions of certain partial differential equations: Sobolev’s inequality, and strongly elliptic systems, see \\[Fed69, 5.2.4–5.2.6\\].\n\nThe following five main topics are devoted to foundational results on varifolds.\n\n(3)  The first variation (with respect to the area integrand) of a varifold, see \\[All72, 4.1–4.6, 4.8 (2) (3), 4.10 (1), 4.11–4.12\\] and \\[Men18, § 16\\].\n\n(4)  Radial deformations and the rectifiability theorem, see \\[All72, 2.6 (3), § 5\\], \\[Kol15, § 3\\], \\[Men16b, § 4\\], and \\[Men18, § 17\\].\n\n(5)  The compactness theorem for integral varifolds, see \\[All72, § 6\\] and \\[HM86\\].\n\n(6)  The isoperimetric inequality, see \\[MS18, § 3\\], \\[Men09, 2.5\\], \\[All72, 8.6\\], and \\[Men16b, 5.1, § 7\\]; with regard to \\[All72, 8.6\\], see also \\[Sim83, 17.8\\].\n\n(7)  The regularity theorem, see \\[All72, § 8\\]; four sessions.\n\nFinally, the following supplementary topic is independent of the main line of development and serves to complete the picture.\n\n(8) Curves of finite length, see \\[Fed69, 2.9.21–2.9.23, 2.10.10–20.10.14, 3.2.6\\].\n\nTopics are assigned on a first-come-first-served basis. Please contact the instructor by email (see below). Participants are recommended to use the time before the start of the lecture period to prepare the topic chosen to present.",
+    "methodologies": [
+        {
+            "type": "其他",
+            "note": "Reading course"
+        }
+    ],
+    "grading": [
+        {
+            "type": "課堂討論參與",
+            "weight": 20,
+            "note": "Posing, in English, a number of good questions to presentations by other students."
+        },
+        {
+            "type": "報告",
+            "weight": 80,
+            "note": "Presenting, in English, a topic in one or more lectures in the course."
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

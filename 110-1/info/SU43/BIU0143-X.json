@@ -1,0 +1,64 @@
+{
+    "year": 110,
+    "term": 1,
+    "name": "生物化學",
+    "teachers": [
+        "李桂楨",
+        "蘇銘燦"
+    ],
+    "department": "SU43",
+    "code": "BIU0143",
+    "credit": 4,
+    "serial": 2994,
+    "group": "",
+    "quota": {
+        "limit": 60,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 6,
+            "to": 9,
+            "campus": "公館",
+            "classroom": "Ｅ201"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎必須先修過【BIU0008  有機化學】、【CMU0178  普通化學乙】其中一門",
+    "form_s": "2",
+    "classes": "2",
+    "dept_group": "",
+    "hours": 4,
+    "description": "本科目為近代生物學之基礎學科，講授內容包括生物體內各巨分子之組成、結構及代謝反應。",
+    "goals": [
+        "1.能熟悉並認知生物化學專有名詞及其意涵，能敘述並解釋蛋白質、醣類及脂肪的基本定義，與其在細胞中的分解與合成的代謝反應",
+        "2.能體認生命基本物質為細胞生物學及生理學之基礎，並以生活上出現的現象為例，印證生命科學之相關議題"
+    ],
+    "syllabus": "授課方式：16+1週，第十八週 彈性授課(自主學習)。\n\n第一週 Ch. 2 Water\n\n第二週 Ch. 3 Amino Acids and the Primary Structures of Proteins\n\n第三週 Ch. 4 Proteins: Three-Dimensional Structure & Function\n\n第四週 Ch. 5 Properties of Enzymes\n\n第五週 期中考I (Ch. 2-5)   Ch. 6 Mechanisms of Enzymes\n\n第六週 Ch. 7 Carbohydrates   \n\n第七週 Ch. 8 Coenzymes and Vitamins\n\n第八週 Ch. 9 Lipid\n\n第九週 期中考II (Ch. 6-9) Ch. 10 Introduction to Metabolism \n\n第十週 Ch. 11 Glycolysis\n\n第十一週Ch. 12 Gluconeogenesis, Pentose Phosphate Pathway and Glycogen Metabolism\n\n第十二週 Ch. 13 The Citric Acid Cycle\n\n第十三週 期中考III (Ch. 10-13) Ch. 14 Electron Transport\n\n第十四週 Ch. 14 ATP Synthesis\n\n第十五週 Ch. 16 Lipid Metabolism\n\n第十六週 Ch. 17 Amino Acid Metabolism\n\n第十七週 期末考(Ch. 14-17)\n\n第十八週 彈性授課：自主學習",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "使用一般課本、自編講義媒材授課"
+        },
+        {
+            "type": "媒體融入教學",
+            "note": "運用數位平台與自製簡報檔案教學"
+        }
+    ],
+    "grading": [
+        {
+            "type": "期中考",
+            "weight": 75,
+            "note": "共三次"
+        },
+        {
+            "type": "期末考",
+            "weight": 25,
+            "note": "共四次考試，學期成績為四次考試分數平均。"
+        }
+    ],
+    "prerequisite": "◎必須先修過【BIU0008  有機化學】、【CMU0178  普通化學乙】其中一門",
+    "general_core": []
+}

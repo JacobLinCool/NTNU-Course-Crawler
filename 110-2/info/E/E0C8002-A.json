@@ -1,0 +1,81 @@
+{
+    "year": 110,
+    "term": 2,
+    "name": "高級教育統計學（乙）",
+    "teachers": [
+        "鄭淑惠"
+    ],
+    "department": "E",
+    "code": "E0C8002",
+    "credit": 3,
+    "serial": 335,
+    "group": "A",
+    "quota": {
+        "limit": 28,
+        "additional": 2
+    },
+    "schedule": [
+        {
+            "day": 3,
+            "from": 2,
+            "to": 4,
+            "campus": "本部",
+            "classroom": "教401"
+        }
+    ],
+    "programs": [
+        "學習與資訊學程",
+        "大數據學程"
+    ],
+    "comment": "",
+    "restrict": "◎課程不開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "",
+    "goals": [
+        "1.\t了解常用統計檢定方法的原理及其適用時機",
+        "2.\t選擇適切的分析方法解決問題和解釋分析結果",
+        "3.\t運用統計軟體執行資料分析並撰寫分析結果報告"
+    ],
+    "syllabus": "一、教育統計基本概念\n\n二、描述統計與標準分數\n\n三、 抽樣與估計\n\n四、 假設考驗\n\n五、假設考驗\n\n六、單母數假設考驗與卡方考驗\n\n七、平均數差異檢定 \n\n八、期中考\n\n九、變異數分析\n\n十、 多因子變異數分析\n\n十一、多因子變異數分析\n\n十二、相關與迴歸\n\n十三、多元回歸\n\n十四、多元迴歸\n\n十五、虛擬變數迴歸\n\n十六、期末考\n\n十七、自主學習: 綜合討論 (moodle)\n\n十八、自主學習: 共變數分析 (moodle)",
+    "methodologies": [
+        {
+            "type": "Formal lecture",
+            "note": ""
+        },
+        {
+            "type": "Group discussion",
+            "note": ""
+        },
+        {
+            "type": "Lab/Studio",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "Midterm Exam",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "Final exam",
+            "weight": 35,
+            "note": ""
+        },
+        {
+            "type": "Class discussion involvement",
+            "weight": 20,
+            "note": ""
+        },
+        {
+            "type": "Presentation",
+            "weight": 15,
+            "note": ""
+        }
+    ],
+    "prerequisite": "◎Unavailable for M.A. program students (M.A. program courses excepted) and B.A. program students.",
+    "general_core": []
+}

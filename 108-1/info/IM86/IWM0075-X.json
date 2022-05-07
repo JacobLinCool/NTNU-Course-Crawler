@@ -1,0 +1,85 @@
+{
+    "year": 108,
+    "term": 1,
+    "name": "統計與資料分析",
+    "teachers": [
+        "葉俶禎"
+    ],
+    "department": "IM86",
+    "code": "IWM0075",
+    "credit": 3,
+    "serial": 1432,
+    "group": "",
+    "quota": {
+        "limit": 36,
+        "additional": 15
+    },
+    "schedule": [
+        {
+            "day": 4,
+            "from": 5,
+            "to": 7,
+            "campus": "本部",
+            "classroom": "教403"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎必須先修過【IWM0073  書報討論（二）】 ◎課程不開放上修",
+    "form_s": "2",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "This course is an applied course, designed to provide students an introduction to statistical techniques used to conduct HR and other data-based research to make decisions. The context is human resource development, but the applications are also relevant to other business and management research and decisions. An emphasis is on fostering (a) a conceptual understanding of different statistical techniques so the student will know which statistical analysis is appropriate for answering a particular research question (e.g., which training program is more effective? will higher job satisfaction lead to higher performance? etc.) and (b) a practical set of skills so the student can carry out the analysis, and (c) an appropriate understanding of the statistical theories so the student will be able to interpret the outcome of an analysis and make the correct decision.",
+    "goals": [
+        "學習完本課程之後，學生應能具備基礎統計軟體應用、資料分析與結果解釋之能力。"
+    ],
+    "syllabus": "This course is an applied course, designed to provide students an introduction to statistical techniques used to conduct HR and other data-based research to make decisions. The context is human resource development, but the applications are also relevant to other business and management research and decisions. An emphasis is on fostering (a) a conceptual understanding of different statistical techniques so the student will know which statistical analysis is appropriate for answering a particular research question (e.g., which training program is more effective? will higher job satisfaction lead to higher performance? etc.) and (b) a practical set of skills so the student can carry out the analysis, and (c) an appropriate understanding of the statistical theories so the student will be able to interpret the outcome of an analysis and make the correct decision.\n\nThis course makes use of SPSS, AMOS or other SEM statistical package for calculations for homework and exams. The emphasis in this course is on developing a basic understanding of statistics commonly used in human resource related fields, knowing how to calculate various statistics using SPSS and SEM packages such as AMOS, and most importantly, how to interpret results.\n\nLearning Goals:\n\nUpon completion of this course students will:\n\n1\\. Understand the fundamentals of sampling and probability and the role they play in inferential statistics.\n\n2\\. Be able to calculate and use descriptive statistics.\n\n3\\. Be able to calculate and use statistics testing significant differences.\n\n4\\. Be able to calculate and use statistics measuring relationships and causality.\n\n5\\. Be able to calculate and interpret statistics commonly used by human resource professionals.\n\n6\\. Be able to explain analytical outputs both orally and in writing.",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": ""
+        },
+        {
+            "type": "問題解決教學",
+            "note": ""
+        },
+        {
+            "type": "專題研究",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 20,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 20,
+            "note": ""
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 15,
+            "note": ""
+        },
+        {
+            "type": "出席",
+            "weight": 15,
+            "note": ""
+        },
+        {
+            "type": "專題",
+            "weight": 30,
+            "note": ""
+        }
+    ],
+    "prerequisite": "◎必須先修過【IWM0073  書報討論（二）】",
+    "general_core": []
+}

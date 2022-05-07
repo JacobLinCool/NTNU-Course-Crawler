@@ -1,0 +1,90 @@
+{
+    "year": 109,
+    "term": 1,
+    "name": "足球（一）",
+    "teachers": [
+        "程瑞福"
+    ],
+    "department": "AU30",
+    "code": "PEU0251",
+    "credit": 2,
+    "serial": 68,
+    "group": "F",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 4,
+            "from": 6,
+            "to": 7,
+            "campus": "本部",
+            "classroom": "操場一"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎限女生修",
+    "form_s": "1",
+    "classes": "",
+    "dept_group": "",
+    "hours": 2,
+    "description": "足球（一）",
+    "goals": [
+        "1",
+        "2"
+    ],
+    "syllabus": "足球歷史與發展介紹 場地與個人裝備介紹 足球基本規則介紹 各項控球練習法 內側定位踢球技術 各種停、控球技術 外側定位踢球技術 空中迎踢技術 運球與盤球技術 射門練習技術 守門員簡要技術教學 遊戲比賽",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "講述、示範、練習"
+        },
+        {
+            "type": "討論法",
+            "note": "足球技術討論與分析"
+        },
+        {
+            "type": "問題解決教學",
+            "note": "分組比賽"
+        },
+        {
+            "type": "合作學習",
+            "note": "分組比賽"
+        },
+        {
+            "type": "實驗/實作",
+            "note": "分組比賽"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 10,
+            "note": "足球賽事觀賞"
+        },
+        {
+            "type": "期中考",
+            "weight": 10,
+            "note": "大腿控球"
+        },
+        {
+            "type": "期末考",
+            "weight": 40,
+            "note": "大腿控球、足內側停傳球、運求"
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 20,
+            "note": "課堂參與情形"
+        },
+        {
+            "type": "出席",
+            "weight": 20,
+            "note": "出席情形"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

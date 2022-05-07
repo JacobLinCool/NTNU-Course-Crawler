@@ -1,0 +1,67 @@
+{
+    "year": 109,
+    "term": 2,
+    "name": "區位分析與選址",
+    "teachers": [
+        "周學政"
+    ],
+    "department": "LU23",
+    "code": "GEU0248",
+    "credit": 3,
+    "serial": 1896,
+    "group": "",
+    "quota": {
+        "limit": 25,
+        "additional": 5
+    },
+    "schedule": [
+        {
+            "day": 4,
+            "from": 2,
+            "to": 4,
+            "campus": "本部",
+            "classroom": "地理系電腦教室"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "介紹區位分析與設施選址相關理論與實務操作，主要針對大眾服務設施，如醫院、警局、學校及私人企業服務，如商店、銀行、物流中心等進行服務區位進行分析，選定最佳位置。",
+    "goals": [
+        "瞭解區位分析理論與架構",
+        "熟悉區位分析分析技術與相關軟體應用"
+    ],
+    "syllabus": "課程目標\n----\n\n本課程主要以介紹服務設施，如學校、醫院、老人中心、車站等公共設施及批發、零售、銀行等公共設施的選址為主。可應用在都市計畫、醫療資源配置、緊急救難設施規劃、商業設施選址等多個領域。\n\n除介紹區位選址方法步驟及相關模式外，以ArcGIS及Python語言，進行實做。並邀請相關業界實務人員分享經驗。\n\n課程大綱\n\n1.  概論(發展史與應用)\n2.  區位分析方法\n3.  中地理論\n4.  區位分析模式-P-median\n5.  區位分析模式-P-Center\n6.  區位分析模式-Max–Covering\n7.  啟發式演算法 Heuristic \n8.  區位分析模式- Gravity Model (Spatial Interaction Model)\n9.  需求分析與資料蒐集\n10.  Geodemographic 建立與應用\n11.  距離與路徑分析\n12.  法規與適宜性\n13.  公共設施選址範例研討\n14.  商業區位選址範例研討",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "區位分析理論講述與軟體示範"
+        },
+        {
+            "type": "實驗/實作",
+            "note": "相關軟體操作"
+        },
+        {
+            "type": "實地考察、參訪",
+            "note": "參訪相關公司，或請業界人員來課堂說明其業務"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 60,
+            "note": "案例實做與心得報告"
+        },
+        {
+            "type": "報告",
+            "weight": 40,
+            "note": "期末報告"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

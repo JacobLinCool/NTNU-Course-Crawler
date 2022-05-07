@@ -1,0 +1,75 @@
+{
+    "year": 107,
+    "term": 1,
+    "name": "計算物理（一）",
+    "teachers": [
+        "江府峻"
+    ],
+    "department": "SU41",
+    "code": "PHU0197",
+    "credit": 3,
+    "serial": 2831,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 15
+    },
+    "schedule": [
+        {
+            "day": 4,
+            "from": 2,
+            "to": 4,
+            "campus": "公館",
+            "classroom": "理圖801"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "3",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "在此課程中學生將學習如何利用程式語言及計算機(電腦)來處理常見的物理問題。",
+    "goals": [
+        "培養學生有分析及解決問題的能力",
+        "培養學生有表達觀念的能力",
+        "培養學生有程式寫作的能力",
+        "培養學生有數據分析的能力"
+    ],
+    "syllabus": "In this course, we will introduce many useful numerical techniques and methods. In particular, we will apply these methods to solve physical problems. We will use python to implement the introduced techniques and methods. Based on the progress (and feedback) of (from) the registered students, we might skip some listed topics and (or) introduce other (new) techniques.\n\nWeek 1: Introduction: Several real physical problems that require some numerical methods to solve, as well as some basis of python programming.\n\nWeek 2: Introduction to python 1:  \" for \", \" range \", \" while \", and \" if - else \".   \n\nWeek 3: Introduction to python 2: array and list, \" loadtxt \", \"open\", \" write \", and \" close \".\n\nWeeks 4, 5, and 6: Introduction to python 3: plot, density plot, and animation in python. Animation using vpython. \n\nWeek 7 and 8: Numerical differential (forward, backward, central, five points and so on) and integration (Trapezoidal rule).\n\nWeek 9: Numerical integration: Simpson's rule and Gaussian quadrature.\n\nWeek 10: Midterm exam (may move to week 9) .\n\nWeek 11: multidimensional integration. Nonlinear equations (single variable): Fixed point method and binary search.\n\nWeeks 12 and 13: Nonlinear equations (single variable): Newton (and secant) method(s). Ordinary differential equations (ODEs): Initial valued problems (Euler and improved Euler methods).\n\nWeek 14: Runge Kutta and other methods for inintial valued problems .\n\nWeek 15: Linear equations : solve (banded) linear equations with scipy and numpy.\n\nWeeks 16 and 17: Presentations by students.\n\nRemaining weeks: Special topics.",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "Each week the instructor will introduce several numerical methods."
+        },
+        {
+            "type": "實驗/實作",
+            "note": "Each week there will be a 50 minutes lab. Students are required to implement the numerical methods taught during the lectures of that week."
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 30,
+            "note": "There will  be some in class quizzes (or less than 30 (to 45) minutes exams) and (or) homework assignments."
+        },
+        {
+            "type": "期中考",
+            "weight": 30,
+            "note": "There will be an in class (midterm) exam. During the exam the students can consult their \"  OWN \" codes and notes."
+        },
+        {
+            "type": "出席",
+            "weight": 20,
+            "note": ""
+        },
+        {
+            "type": "報告",
+            "weight": 20,
+            "note": "Each student will give a presentation near the end of the semester."
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

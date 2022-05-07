@@ -1,0 +1,86 @@
+{
+    "year": 109,
+    "term": 1,
+    "name": "地球科學資料處理",
+    "teachers": [
+        "林佩瑩"
+    ],
+    "department": "SU44",
+    "code": "ESC9001",
+    "credit": 3,
+    "serial": 3029,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 2,
+            "to": 4,
+            "campus": "公館",
+            "classroom": "Ｃ403"
+        }
+    ],
+    "programs": [],
+    "comment": "本門課程為中階以上課程，適合大三以上學生修習，以作為探究研究所之先修課程，同時也開放碩士班無此課程基礎之學生選修。",
+    "restrict": "◎限大三大四 ◎限碩一碩二碩三以上修習",
+    "form_s": "",
+    "classes": "9",
+    "dept_group": "",
+    "hours": 3,
+    "description": "基礎地球科學資料類型、格式與資料處理介紹，並教導程式工具、數值方法以及成果呈現，可以運用在地球物理或其他的數據資料。",
+    "goals": [
+        "地球科學數據彙整與處理基本概念",
+        "基本程式撰寫與成果呈現",
+        "資料統計基礎概念"
+    ],
+    "syllabus": "第01週：課程介紹與安裝軟體工具說明( in both Windows and MacOS)\n\n第02週：資料彙整觀念與地球科學相關資料庫介紹\n\n第03週：資料處理軟體特色與功用介紹與軟體工具教學(I): C Shell, gawk, GMT ( in both Windows and MacOS)\n\n第04週：統計觀念方法介紹1與軟體工具教學(II): GMT ( in both Windows and MacOS)\n\n第05週：統計觀念方法介紹2與軟體工具教學(III): GMT (in both Windows and MacOS)\n\n第06週：統計觀念方法介紹3與軟體工具教學(IV): python\n\n第07週：統計假說檢定與軟體工具教學(V): python\n\n第08週：線性代數與軟體工具教學(VI): python\n\n第09週：回歸分析 1與軟體工具教學(VII): python\n\n第10週：回歸分析 2與軟體工具教學(VIII): python\n\n第11週：時序分析 1與軟體工具教學(IX): python\n\n第12週：時序分析 2與軟體工具教學(X): python\n\n第13週：時序分析 3與軟體工具教學(XI): python\n\n第14週：地震資料類型格式與資料分析1與軟體工具教學(XII): obspy\n\n第15週：地震資料類型格式與資料分析2與軟體工具教學(XIII): obspy\n\n第16週：地震資料類型格式與資料分析3與軟體工具教學(XIV): obspy\n\n第17週：實作報告討論\n\n第18週：實作報告討論\n\nWeak1: Course introduction, and software installation ( in both Wndows and MacOS)\n\nWeak2: Introduction on data types/ formats and common scientific data manager center (DMC)\n\nWeak3: Overview various computing tools and shell languages + programing (I): C-shell, awk and introduction on GMT (in both Windows and MacOS)\n\nWeak4: Basic statistical concepts 1 + programing (II): GMT (in both Windows and MacOS)\n\nWeak5: Basic statistical concepts 2 + programing (III): GMT(in both Windows and MacOS)\n\nWeak6: Basic statistical concepts 3 + programing (IV): python\n\nWeak7: Testing of hypotheses+ programing (V): python\n\nWeak8: Linear (Matrix) algebra + programing (VI): python\n\nWeak9: Single and multiple regression 1 + programing (VII): python\n\nWeak10: Single and multiple regression 2 + programing (VIII): python\n\nWeak11: Time series analysis 1 + programing (IX): python\n\nWeak12: Time series analysis 2 + programing (X): python\n\nWeak13: Time series analysis 3 + programing (XI): python\n\nWeak14: Seismic data analysis 1 + programing (XII): Obspy\n\nWeak15: Seismic data analysis 2 + programing (XIII): Obspy\n\nWeak16: Seismic data analysis 3 + programing (XIV): Obspy\n\nWeak17: Term project report and discussion\n\nWeak18: Term project report and discussion",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "課堂講述基本原理\nLecture the fundamental knowledge"
+        },
+        {
+            "type": "問題解決教學",
+            "note": "排除程式錯誤"
+        },
+        {
+            "type": "合作學習",
+            "note": "分組互相討論\nStudent groups discussion and debugs"
+        },
+        {
+            "type": "實驗/實作",
+            "note": "程式撰寫\nPrograming"
+        },
+        {
+            "type": "專題研究",
+            "note": "期末專題"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 50,
+            "note": ""
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 10,
+            "note": ""
+        },
+        {
+            "type": "出席",
+            "weight": 20,
+            "note": "不定期隨堂小考"
+        },
+        {
+            "type": "報告",
+            "weight": 20,
+            "note": "Term projects report"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

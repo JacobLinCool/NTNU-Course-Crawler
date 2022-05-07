@@ -1,0 +1,84 @@
+{
+    "year": 110,
+    "term": 2,
+    "name": "程式設計（二）",
+    "teachers": [
+        "紀博文"
+    ],
+    "department": "SU47",
+    "code": "CSU0002",
+    "credit": 3,
+    "serial": 2949,
+    "group": "A",
+    "quota": {
+        "limit": 60,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 1,
+            "from": 7,
+            "to": 7,
+            "campus": "公館",
+            "classroom": "理圖807"
+        },
+        {
+            "day": 3,
+            "from": 8,
+            "to": 9,
+            "campus": "公館",
+            "classroom": "理圖807"
+        }
+    ],
+    "programs": [
+        "音樂科技學程",
+        "資訊科技應用學程",
+        "人工智慧學程"
+    ],
+    "comment": "預計以授權碼加開名額，請同學開學時檢附程式設計(一)修課成績單向老師洽詢授權碼。",
+    "restrict": "◎必須先修過【CSU0001  程式設計（一）】 ◎課程開放上修",
+    "form_s": "1",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程介紹 C 程式語言之進階語法，包含字串、結構、檔案處理、預處理器、巨集等，並帶入資料結構的實做。",
+    "goals": [
+        "能以C++ 程式語言開發軟體。",
+        "能分析所撰寫程式碼之優缺點，並提出改進之構想。"
+    ],
+    "syllabus": "1\\. String\n\n2\\. Struct\n\n3\\. File Processing\n\n4\\. Bitwise operation\n\n5\\. Macro\n\n6\\. Variable-Length Argument Lists\n\n7\\. Some Techniques: assert, perror, \\_\\_LINE\\_\\_, \\_\\_FILE\\_\\_\n\n8\\. Data Structure: Linked List",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "教學投影片"
+        },
+        {
+            "type": "實驗/實作",
+            "note": "上機實做"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 50,
+            "note": "程式作業"
+        },
+        {
+            "type": "期中考",
+            "weight": 15,
+            "note": "期中考"
+        },
+        {
+            "type": "期末考",
+            "weight": 15,
+            "note": "期末考"
+        },
+        {
+            "type": "專題",
+            "weight": 20,
+            "note": "期末專題"
+        }
+    ],
+    "prerequisite": "◎必須先修過【CSU0001  程式設計（一）】",
+    "general_core": []
+}

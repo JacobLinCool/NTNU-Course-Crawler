@@ -1,0 +1,85 @@
+{
+    "year": 109,
+    "term": 2,
+    "name": "統計學",
+    "teachers": [
+        "何英奇"
+    ],
+    "department": "GU",
+    "code": "05UG020",
+    "credit": 2,
+    "serial": 987,
+    "group": "A",
+    "quota": {
+        "limit": 30,
+        "additional": 0
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 6,
+            "to": 7,
+            "campus": "本部",
+            "classroom": "教404"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 2,
+    "description": "本課程的目的在教授學生統計學基本原理與方法。總體來說，本課程期使學生能在具備統計學方法知識後，能適當的應用統計學方法於相關的研究與實務之中，並培養學生在相關研究與實務中具嚴謹專業客觀的能力與態度。",
+    "goals": [
+        "了解描述統計學的基本概念、原理與方法",
+        "了解推論的基本概念、原理與方法",
+        "應用統計學方法於心理與教育教學與研究工作"
+    ],
+    "syllabus": "Week1  (2/23) 課程介紹  統計學基本概念\n\nWeek2  (3/2)  統計概論、Excel統計工具介紹\n\nWeek3  (3/9)  描述統計—集中量數 (用Excel來做描述性統計)\n\nWeek4  (3/16) 描述統計—變異量數 (用Excel來做描述性統計)\n\nWeek5  (3/23) 相對地位量數：百分等級、標準分數\n\nWeek6  (3/30) 常態分配     \n\nWeek7  (4/6)  放假\n\nWeek8  (4/13) 相關分析\n\nWeek9  (4/20) 期中考試\n\nWeek10  (4/27) 回歸分析\n\nWeek11  (5/4)   推論統計基本概念：抽樣與抽樣分配\n\nWeek12  (5/11)  中央極限定理 (用Excel模擬) \n\nWeek13  (5/18)  一個母數的區間估計與假設考驗\n\nWeek14  (5/25 )  兩組平均數的差異檢定\n\nWeek15  (6/1)   期末考試綜合複習\n\nWeek16  (6/8)   期末考試\n\nWeek17  ( 6/15)  彈性補充教學\n\nWeek18  (6/22)  彈性補充教學",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "教師講解"
+        },
+        {
+            "type": "討論法",
+            "note": "師生團體討論"
+        },
+        {
+            "type": "實驗/實作",
+            "note": "以EXCEL進行實際統計分析"
+        },
+        {
+            "type": "媒體融入教學",
+            "note": "部分時間遠距教學"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 15,
+            "note": "作業有可能是隨堂作或帶回家作"
+        },
+        {
+            "type": "期中考",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 40,
+            "note": ""
+        },
+        {
+            "type": "出席",
+            "weight": 15,
+            "note": "本科目非常重視出席率"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": [
+        "社會科學",
+        "學院共同課程"
+    ]
+}

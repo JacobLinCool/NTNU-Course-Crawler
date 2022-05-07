@@ -1,0 +1,78 @@
+{
+    "year": 109,
+    "term": 1,
+    "name": "多變項分析統計法",
+    "teachers": [
+        "林正昌"
+    ],
+    "department": "E",
+    "code": "E0C8004",
+    "credit": 3,
+    "serial": 370,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 2,
+            "to": 4,
+            "campus": "本部",
+            "classroom": "教619"
+        }
+    ],
+    "programs": [
+        "學習與資訊學程"
+    ],
+    "comment": "",
+    "restrict": "◎課程不開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程主要目的是教授碩博士班學生關於多變項分析統計法的原理與方法。本課程將整合學生已有之統計學背景，對比單變項統計與多變項統計分析法，期使學生能理解多變項統計分析法的原理與方法，進而能規劃並運用於碩博士論文研究當中，同時也能對採用多變項統計分析法的研究，評鑑其合理性與適當性。",
+    "goals": [
+        "理解多變項統計分析法的基本術語、概念與原理知識。",
+        "理解多變項統計分析法的基本程序與方法知識 ( 含報告 )",
+        "執行多變項統計分析法的基本程序與方法 (SPSS...) 。",
+        "評鑑實徵研究中多變項統計分析法的程序與方法。",
+        "規劃並設計獨立研究中多變項統計分析法的程序與方法。",
+        "理解多變項統計分析法的基本術語、概念與原理知識。"
+    ],
+    "syllabus": "Week 01 Ch1 Introduction: Methods and Model Building\n\nWeek 02 Ch2 Cleaning and Transforming Data\n\nWeek 03 Ch3 Factor Analysis(1)\n\nWeek 04 Ch3 Factor Analysis(2)\n\nWeek 05 Ch4 Simple and Multiple Regression(1)\n\nWeek 06 Ch4 Simple and Multiple Regression(2)\n\nWeek 07 Ch5 Canonical Correlation\n\nWeek 08 Ch6 Conjoint Analysis(1)  \n\nWeek 09 Ch6 Conjoint Analysis(2)\n\nWeek 10 Midterm, Open Discussion\n\nWeek 11 Ch7 Multiple Discriminant Analysis and Logistic Regression(1)\n\nWeek 12 Ch7 Multiple Discriminant Analysis and Logistic Regression(2)\n\nWeek 13 Ch8 ANOVA and MANOVA(1)\n\nWeek 14 Ch8 ANOVA and MANOVA(2)\n\nWeek 15 Ch9 Grouping Data with Cluster Analysis\n\nWeek 16 Ch10 MDS and Correspondence Analysis\n\nWeek 17 Ch11 SEM: An Introduction\n\nWeek 18 Ch12 Applications of SEM & Final Conclusion",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": ""
+        },
+        {
+            "type": "其他",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 60,
+            "note": ""
+        },
+        {
+            "type": "出席",
+            "weight": 10,
+            "note": ""
+        },
+        {
+            "type": "報告",
+            "weight": 30,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

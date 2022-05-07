@@ -1,0 +1,78 @@
+{
+    "year": 108,
+    "term": 2,
+    "name": "類比數位及數位類比轉換電路",
+    "teachers": [
+        "郭建宏"
+    ],
+    "department": "HM75",
+    "code": "AEC8029",
+    "credit": 3,
+    "serial": 1112,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 1,
+            "from": 6,
+            "to": 8,
+            "campus": "本部",
+            "classroom": "電機系電子實驗室"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程主要在認識類比數位暨數位類比轉換器的種類，基本原理。並透過實例的研讀，明瞭它在系統上不可或缺的角色。在學習過程中，將運用數值分析模擬軟體(如Simulink)、以及電路模擬軟體(如Hspice)來輔助電路的設計練習，讓學生可以進一步瞭解並學習類比數位暨數位類比轉換器在電路性能分析上的考量，與設計上的技巧。",
+    "goals": [
+        "增進微電子電路基本概念及應用的理解與認識。",
+        "藉由作業及專案計畫的執行，培養學生電路模擬與信號分析的能力。",
+        "學習積體電路設計所需的知識、工具、與電路技術。",
+        "從作業的練習中培養獨立思考與解決問題的能力。",
+        "培養問題導向的思維與處理的能力。",
+        "從專案研究資料的蓃集，訓練學生積極的學習態度。",
+        "經由實驗室與學長姐的學習互動，及實務的講述，瞭解專業倫理的重要。",
+        "透過實務的探討，瞭解全球積體電路的發展趨勢。"
+    ],
+    "syllabus": "第一週  Introduction\n\n第二週  Signals, Filters, and Tools\n\n        Comb Filters, Representing Signals\n\n第三週  Sampling Circuits\n\n        Correlated Double Sampling, Autozeroing, Discrete Analog Integrator\n\n        Switches\n\n第四週  Analog Filters\n\n        Lowpass Filters, Active-RC Filters, MOS-RC Filters\n\n        Effects of Finite Opamp-Gain Bandwidth Product\n\n第五週  Digital Filters\n\n        Sinc\\-Shaped Digital Filters, Cascading,\n\n        FIR Topology\n\n第六週  SPICE Models for DACs and ADCs\n\n        Quantization Noise, SNR, and Clock Jitter\n\n第七週  提出專案研究計畫與簡報\n\n第八週  Nyquist-Rate ADC I\n\n        Pipelined ADC\n\n第九週  Nyquist-Rate ADC II\n\n        SAR ADC\n\n第十週  期中考\n\n第十一週  Delta-Sigma Oversampling Modulators\n\nFirst-Order, Second-Order, and High-Order Noise-Shaping\n\nTopologies\n\n第十二週  Signle\\-Bit and Multi-bit Delta-Sigma Modulators\n\nSystem-Level Considerations, DEM, and Power Estimation\n\n第十三週  Implementation and Nonideal Effects\n\nSC Integrators, Mismatch, Performance Comparison, DAC and Quantizers\n\n第十四週  Bandpass Data Converters\n\nContinuoous\\-time Bandpass Noise-Shaping\n\nSC Bandpass Modulators\n\n第十五週  High-Speed Data Converters\n\nFlash ADC, ClockSignals, and Clock Comparators\n\n第十六週  專案研究報告討論與撰寫\n\n專案計畫進度分享\n\n第十七週  期末專案研究發表\n\n專案計畫分享\n\n第十八週  期末專案研究發表\n\n專案計畫分享",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "原理及性能指標教學"
+        },
+        {
+            "type": "討論法",
+            "note": "經由實作瞭解操作流程與運算原理"
+        },
+        {
+            "type": "專題研究",
+            "note": "選定主題研究討論"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 40,
+            "note": "平時作業"
+        },
+        {
+            "type": "期中考",
+            "weight": 30,
+            "note": "課堂考"
+        },
+        {
+            "type": "報告",
+            "weight": 30,
+            "note": "期末專題報告"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

@@ -1,0 +1,359 @@
+[
+    {
+        "year": 109,
+        "term": 2,
+        "name": "高級教育統計學（甲）",
+        "teachers": [
+            "劉振維"
+        ],
+        "department": "E",
+        "code": "E0C8001",
+        "credit": 3,
+        "serial": 371,
+        "group": "A",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 2,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "教育學院第2會議室-大"
+            }
+        ],
+        "programs": [
+            "學習與資訊學程",
+            "大數據學程"
+        ],
+        "comment": "",
+        "restrict": "◎課程不開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 2,
+        "name": "教育研究論文寫作",
+        "teachers": [
+            "林宗進",
+            "蔡今中"
+        ],
+        "department": "E",
+        "code": "E0C8010",
+        "credit": 3,
+        "serial": 376,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 5,
+                "to": 7,
+                "campus": "本部",
+                "classroom": "教育學院第2會議室-大"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎課程不開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 2,
+        "name": "非營利組織研究",
+        "teachers": [
+            "鄭勝分"
+        ],
+        "department": "EM02",
+        "code": "SOM0139",
+        "credit": 2,
+        "serial": 450,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 6,
+                "to": 7,
+                "campus": "本部",
+                "classroom": "教710"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎課程不開放上修",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 2,
+        "name": "成人創造力發展研究",
+        "teachers": [
+            "郭郡羽"
+        ],
+        "department": "EM02",
+        "code": "SOC0102",
+        "credit": 3,
+        "serial": 451,
+        "group": "",
+        "quota": {
+            "limit": 30,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 6,
+                "to": 8,
+                "campus": "本部",
+                "classroom": "教710"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎課程不開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 2,
+        "name": "跨文化溝通與傳播研究",
+        "teachers": [
+            "黃靖惠"
+        ],
+        "department": "EM02",
+        "code": "SOC0130",
+        "credit": 3,
+        "serial": 452,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 16,
+                "to": 11,
+                "campus": "本部",
+                "classroom": "教710"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎課程不開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 2,
+        "name": "公民社會與傳播研究",
+        "teachers": [
+            "林鴻洲"
+        ],
+        "department": "EM02",
+        "code": "SOC0131",
+        "credit": 3,
+        "serial": 453,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 2,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "教710"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎課程不開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 2,
+        "name": "成人學習與教學研究",
+        "teachers": [
+            "李瑛"
+        ],
+        "department": "EM02",
+        "code": "SOC0134",
+        "credit": 3,
+        "serial": 454,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 2,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "教710"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎課程不開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 2,
+        "name": "文化資產研究",
+        "teachers": [
+            "蕭文杰"
+        ],
+        "department": "EM02",
+        "code": "SOC0149",
+        "credit": 3,
+        "serial": 455,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 5,
+                "from": 2,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "教710"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎課程不開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 2,
+        "name": "文獻學研究",
+        "teachers": [
+            "陳仲彥"
+        ],
+        "department": "EM02",
+        "code": "SOC0150",
+        "credit": 3,
+        "serial": 456,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 2,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "教710"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎課程不開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 2,
+        "name": "代間共學發展與研究",
+        "teachers": [
+            "王雅鈴"
+        ],
+        "department": "EM02",
+        "code": "SOC8007",
+        "credit": 3,
+        "serial": 457,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 2,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "教103"
+            }
+        ],
+        "programs": [],
+        "comment": "◎進階服務學習",
+        "restrict": "◎課程不開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 2,
+        "name": "社會教育專題實習（二）",
+        "teachers": [
+            "徐敏雄",
+            "吳盈慧"
+        ],
+        "department": "EU02",
+        "code": "SOC9002",
+        "credit": 3,
+        "serial": 714,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 6,
+                "from": 2,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "教室自排"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "",
+        "classes": "9",
+        "dept_group": ""
+    }
+]

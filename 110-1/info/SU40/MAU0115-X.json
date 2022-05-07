@@ -1,0 +1,74 @@
+{
+    "year": 110,
+    "term": 1,
+    "name": "高等線性代數（一）",
+    "teachers": [
+        "夏良忠"
+    ],
+    "department": "SU40",
+    "code": "MAU0115",
+    "credit": 3,
+    "serial": 2847,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 4,
+            "from": 6,
+            "to": 8,
+            "campus": "公館",
+            "classroom": "Ｓ202"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "3",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程希望透過講授、閱讀、討論與實作等方式，引導學生如何利用過去所學的代數及分析課程，對線性代數的理論與應用有更深入的了解。",
+    "goals": [
+        "訓練學生掌握抽象代數的基本知識",
+        "訓練學生可以用代數的語言進行溝通、表達、寫作",
+        "培養學生的直覺、欣賞與應用高等代數至其他學科的能力"
+    ],
+    "syllabus": "**授課方式：16+2週** \n---------------\n\n**以下章節標示以參考書目(1) 為基準**\n\n**第一週：複習 (§ 1.1~§ 1.6)**\n\n*   **Vector spaces, subspaces**\n*   **Direct sum of subspaces and quotient space**\n*   **Bases and dimensions**\n\n**第二週：複習(§ 2.1, § 2.2, § 2.4)**\n\n*   **Linear transformations, null spaces and ranges**\n*   **Invertibility and isomorphisms**\n*   **Matrix representation of linear transformations**\n\n**第三週：複習(§ 2.3, § 2.5, § 2.1)**\n\n*   **Composition of linear transformations and matrix multiplication**\n*   **Change of coordinates matrix**\n*   **Linear operators, invariant subspaces**\n\n**第四週：第六章 Inner Product Spaces**\n\n*   **§ 6.1: Inner products and norms**\n*   **§ 6.2: The Gram-Schmidt orthogonalization process and orthogonal complements**\n*   **§ 6.3: The adjoint of a linear operator**\n\n**第五週：**\n\n*   **§ 6.4: Normal and self-adjoint operator**\n*   **§ 6.5: Unitary and orthogonal operators and their matrices**\n\n*   **rigid motions, conic sections**\n\n**第六週：第五章 Diagonalization**\n\n*   **Determinants – review and summary**\n*   **§ 5.1: Eigenvalues and eigenvectors**\n*   **§ 5.2: Diagonalizability**\n\n**第七週：**\n\n*   **§ 5.4: the Caley-Hamilton Theorem**\n*   **§ 6.6: Orthogonal projections and the Spectral Theorem**\n\n**第八週：期中考試**\n\n**第九週：§ 6.8 Bilinear and quadratic forms**\n\n*   **Definition of bilinear forms**\n*   **Matrix representation of bilinear forms**\n*   **Symmetric bilinear forms and diagonalization of symmetric matrices**\n*   **Quadratic forms**\n\n**第十週：第七章 Canonical Forms**\n\n*   **§ 7.1: The Jordan canonical form I -1**\n\n**第十一週：**\n\n*   **§ 7.1: The Jordan canonical form I -2**\n*   **§ 7.2: The Jordan canonical form II-1**\n\n**第十二週：**\n\n*   **§ 7.2: The Jordan canonical form II-2**\n*   **§ 7.3: The characteristic polynomials and the minimal polynomials**\n\n**第十三週：§ 7.4 The rational canonical form – I**\n\n**第十四週：§ 7.5 The rational canonical form – II**\n\n**第十五週：總複習—operators, diagonalizability and canonical forms**\n\n**第十六週：期末考試**\n\n**第十七週：數位、自主學習 I (認識並使用常用之數學軟體）**\n\n**第十八週：數位、自主學習 II  (認識並使用常用之數學軟體）**",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "講述重要概念與理論"
+        },
+        {
+            "type": "討論法",
+            "note": "不時提出問題與學生互動討論"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 20,
+            "note": "每 1~2 週一份習題"
+        },
+        {
+            "type": "期中考",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 40,
+            "note": ""
+        },
+        {
+            "type": "出席",
+            "weight": 10,
+            "note": "小考以及出席"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

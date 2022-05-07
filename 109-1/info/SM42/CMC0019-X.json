@@ -1,0 +1,72 @@
+{
+    "year": 109,
+    "term": 1,
+    "name": "高等無機化學（一）",
+    "teachers": [
+        "張一知"
+    ],
+    "department": "SM42",
+    "code": "CMC0019",
+    "credit": 3,
+    "serial": 2707,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 4,
+            "from": 2,
+            "to": 4,
+            "campus": "公館",
+            "classroom": "Ｃ105"
+        }
+    ],
+    "programs": [],
+    "comment": "本課程專門設計給研究領域為無機之研究生，大學生未有基礎無機課或未進行研究，不適合修習本課程。",
+    "restrict": "◎課程不開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "銜接基礎無機化學和當前無機化學研究的學科",
+    "goals": [
+        "以群論為基礎，講授分子鍵結及構造理論、分子軌域理論、配子場理論、過渡元素化學及反應機構"
+    ],
+    "syllabus": "以群論為基礎，講授分子軌域理論、建構有機雙鍵分子之分子軌域。配位場理論、過渡元素化學，建構無機錯合物之分子軌域。",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 25,
+            "note": ""
+        },
+        {
+            "type": "期中考",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "其他",
+            "weight": 15,
+            "note": "課堂小考"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

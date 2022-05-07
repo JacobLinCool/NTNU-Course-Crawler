@@ -1,0 +1,69 @@
+{
+    "year": 107,
+    "term": 2,
+    "name": "病毒學",
+    "teachers": [
+        "賴韻如"
+    ],
+    "department": "SU43",
+    "code": "BIU0149",
+    "credit": 2,
+    "serial": 2896,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 6,
+            "to": 7,
+            "campus": "公館",
+            "classroom": "Ｃ007"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎必須先修過【BIU0169  普通生物學甲（二）】、【BIU0168  普通生物學甲（一）】、【BIU0044  遺傳學】",
+    "form_s": "3",
+    "classes": "",
+    "dept_group": "",
+    "hours": 2,
+    "description": "1. To understand the general properties of diverse groups of viruses 2. To understand various molecular mechanisms that govern the processes of virus replication. 3. to familiar with some diseases caused by virus infection and their prevention.",
+    "goals": [
+        "To understand the general properties of diverse groups of viruses",
+        "To understand various molecular mechanisms that govern the processes of virus replication.",
+        "To familiar with some diseases caused by virus infection and their prevention."
+    ],
+    "syllabus": "Date       Material                                                                             Textbook\n\n2/18        Introduction-History and classification                            Ch1, 3\n\n2/25        Virus Replication Cycles                                                   Ch4\n\n3/4          Modes of Virus Infection and Disease (6)                        Ch6\n\n3/11        Host Defense and Viral Countermeasures I (7)                Ch7\n\n3/18        Host Defense and Viral Countermeasures II (7)              Ch7\n\n3/25        Laboratory Diagnosis                                                        Ch5\n\n4/1          Medicine, Clinical Trial Gene Therapy and Xenotransplantation   Ch9\n\n4/8          Mid term                                                                         \n\n4/15        RNA Virus: Piconaviruses (Polio)                                    \n\n4/22        RNA Virus: Orthomyxoviruses (Influenza)                     \n\n4/29        Hepatitis Viruses                                                              \n\n5/6          DNA Virus: Papillomaviruses                                          \n\n5/13        DNA Virus: Herpesviruses                                               \n\n5/20        Virus and cancer (Retrovirus: RNA Tumor Viruses)        \n\n5/27        Retrovirus: Lentiviruses and HIV                                   \n\n6/3          New viruses and Prions                                                   \n\n6/10        Report                                                                              \n\n6/17        Report",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "期中考",
+            "weight": 40,
+            "note": ""
+        },
+        {
+            "type": "出席",
+            "weight": 20,
+            "note": ""
+        },
+        {
+            "type": "報告",
+            "weight": 40,
+            "note": ""
+        }
+    ],
+    "prerequisite": "◎必須先修過【BIU0169  普通生物學甲（二）】、【BIU0168  普通生物學甲（一）】、【BIU0044  遺傳學】",
+    "general_core": []
+}

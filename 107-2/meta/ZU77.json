@@ -1,0 +1,182 @@
+[
+    {
+        "year": 107,
+        "term": 2,
+        "name": "資料科學與程式設計",
+        "teachers": [
+            "蔣宗哲"
+        ],
+        "department": "GU",
+        "code": "05UG017",
+        "credit": 2,
+        "serial": 1016,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 15
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 6,
+                "to": 7,
+                "campus": "本部",
+                "classroom": "教401"
+            }
+        ],
+        "programs": [
+            "資訊科技應用學程"
+        ],
+        "comment": "",
+        "restrict": "",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "科學與程式設計",
+        "teachers": [
+            "朱德清"
+        ],
+        "department": "GU",
+        "code": "05UG018",
+        "credit": 2,
+        "serial": 1017,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 5
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 9,
+                "to": 10,
+                "campus": "公館",
+                "classroom": "理圖801"
+            }
+        ],
+        "programs": [
+            "資訊科技應用學程"
+        ],
+        "comment": "",
+        "restrict": "",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "程式設計（二）",
+        "teachers": [
+            "紀博文"
+        ],
+        "department": "SU47",
+        "code": "CSU0002",
+        "credit": 3,
+        "serial": 2943,
+        "group": "A",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 7,
+                "to": 7,
+                "campus": "公館",
+                "classroom": "理圖807"
+            },
+            {
+                "day": 3,
+                "from": 8,
+                "to": 9,
+                "campus": "公館",
+                "classroom": "理圖003"
+            }
+        ],
+        "programs": [
+            "資訊科技應用學程",
+            "人工智慧學程"
+        ],
+        "comment": "",
+        "restrict": "◎必須先修過【CSU0001  程式設計（一）】",
+        "form_s": "1",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "程式設計（二）",
+        "teachers": [
+            "王弘倫"
+        ],
+        "department": "SU47",
+        "code": "CSU0002",
+        "credit": 3,
+        "serial": 2944,
+        "group": "B",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 2,
+                "to": 4,
+                "campus": "公館",
+                "classroom": "理圖807"
+            }
+        ],
+        "programs": [
+            "資訊科技應用學程",
+            "人工智慧學程"
+        ],
+        "comment": "",
+        "restrict": "◎必須先修過【CSU0001  程式設計（一）】",
+        "form_s": "1",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "資訊專題研究（一）：資訊系統",
+        "teachers": [
+            "賀耀華",
+            "黃冠寰"
+        ],
+        "department": "SU47",
+        "code": "CSU0037",
+        "credit": 3,
+        "serial": 2959,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 5,
+                "from": 16,
+                "to": 11,
+                "campus": "公館",
+                "classroom": "Ｃ007"
+            }
+        ],
+        "programs": [
+            "資訊科技應用學程"
+        ],
+        "comment": "",
+        "restrict": "",
+        "form_s": "3",
+        "classes": "",
+        "dept_group": ""
+    }
+]

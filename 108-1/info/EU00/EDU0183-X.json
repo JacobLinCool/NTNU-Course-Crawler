@@ -1,0 +1,78 @@
+{
+    "year": 108,
+    "term": 1,
+    "name": "英文教育名著導讀",
+    "teachers": [
+        "劉蔚之"
+    ],
+    "department": "EU00",
+    "code": "EDU0183",
+    "credit": 2,
+    "serial": 694,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 5,
+            "from": 1,
+            "to": 2,
+            "campus": "本部",
+            "classroom": "教310"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "3",
+    "classes": "",
+    "dept_group": "",
+    "hours": 2,
+    "description": "本科目旨在協助教育系學生對中、西教育史上重要名著，透過閱讀、導論與討論，對名著的精神與意義有所欣賞與瞭解。期能藉由此一理解，激發教育熱忱，進而培養研究教育的興趣與能力，形成教育工作者恢弘的視野，豐厚人文通識素養。",
+    "goals": [
+        "瞭解教育理論之內涵",
+        "瞭解教育實務之內涵",
+        "提升團隊合作之能力"
+    ],
+    "syllabus": "ㄧ、教育政策的決定歷程\n\n  二、教育改革的關鍵要素\n\n  三、教育領導的理論基礎\n\n  四、課程設計的影響因素\n\n  五、教學活動的有效模式\n\n  六、教學科技的發展歷程\n\n  七、教育資本的階級成因\n\n  八、教師文化的類型分析\n\n  九、學生文化的形構歷程\n\n  十、教育本質的學理基礎\n\n十一、教育內容的邏輯結構\n\n十二、教育方法的證成模式",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": ""
+        },
+        {
+            "type": "問題解決教學",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "期末考",
+            "weight": 25,
+            "note": ""
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 25,
+            "note": ""
+        },
+        {
+            "type": "出席",
+            "weight": 25,
+            "note": ""
+        },
+        {
+            "type": "報告",
+            "weight": 25,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

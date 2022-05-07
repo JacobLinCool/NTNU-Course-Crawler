@@ -1,0 +1,107 @@
+[
+    {
+        "year": 107,
+        "term": 1,
+        "name": "IB哲學與實作（IB）",
+        "teachers": [
+            "劉美慧"
+        ],
+        "department": "EU",
+        "code": "IBU0001",
+        "credit": 3,
+        "serial": 634,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 6,
+                "to": 8,
+                "campus": "本部",
+                "classroom": "樸301"
+            }
+        ],
+        "programs": [
+            "國際教師學程-華語文",
+            "國際教師學程-數學",
+            "國際教師學程-物理",
+            "國際教師學程-國際"
+        ],
+        "comment": "",
+        "restrict": "◎第一階段限 國際教師學程-國際◎限國際教師學程-國際選修",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 1,
+        "name": "課程發展與設計（IB）",
+        "teachers": [
+            "葉怡芬"
+        ],
+        "department": "EU",
+        "code": "IBUE001",
+        "credit": 3,
+        "serial": 635,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 16,
+                "to": 11,
+                "campus": "本部",
+                "classroom": "誠208"
+            }
+        ],
+        "programs": [
+            "國際教師學程-國際"
+        ],
+        "comment": "",
+        "restrict": "◎第一階段限 國際教師學程-國際◎限國際教師學程-國際選修",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 1,
+        "name": "學習評量（IB）",
+        "teachers": [
+            "葉怡芬"
+        ],
+        "department": "EU",
+        "code": "IBUE002",
+        "credit": 3,
+        "serial": 636,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 6,
+                "to": 8,
+                "campus": "本部",
+                "classroom": "正403"
+            }
+        ],
+        "programs": [
+            "國際教師學程-國際"
+        ],
+        "comment": "",
+        "restrict": "◎第一階段限 國際教師學程-國際◎限國際教師學程-國際選修",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    }
+]

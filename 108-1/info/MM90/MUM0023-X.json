@@ -1,0 +1,77 @@
+{
+    "year": 108,
+    "term": 1,
+    "name": "音樂教育學研究方法論",
+    "teachers": [
+        "陳曉雰"
+    ],
+    "department": "MM90",
+    "code": "MUM0023",
+    "credit": 2,
+    "serial": 2041,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 4,
+            "from": 3,
+            "to": 4,
+            "campus": "本部",
+            "classroom": "樂研二"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程不開放上修",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 2,
+    "description": "1. 說明學術論文中各章節寫作之基本架構與原則\n2. 介紹質化與量化研究中主要的研究方法之應用模式\n3.了解研究工具的基本編寫形式與研究結果的分析方式",
+    "goals": [
+        "說明學術論文中各章節寫作之基本架構與原則",
+        "介紹質化與量化研究中主要的研究方法之應用模式",
+        "了解研究工具的基本編寫形式與研究結果的分析方式"
+    ],
+    "syllabus": "<!-- /\\* Font Definitions \\*/ @font-face {font-family:新細明體; mso-font-charset:81; mso-generic-font-family:auto; mso-font-pitch:variable; mso-font-signature:1 0 16778248 0 1048576 0;} /\\* Style Definitions \\*/ p.MsoNormal, li.MsoNormal, div.MsoNormal {mso-style-parent:\"\"; margin:0cm; margin-bottom:.0001pt; mso-pagination:none; font-size:12.0pt; mso-bidi-font-size:10.0pt; font-family:\"Times New Roman\"; mso-fareast-font-family:新細明體; mso-bidi-font-family:\"Times New Roman\"; mso-font-kerning:1.0pt;} p.MsoFooter, li.MsoFooter, div.MsoFooter {mso-style-link:\"Footer Char\"; margin:0cm; margin-bottom:.0001pt; mso-pagination:none; tab-stops:center 207.65pt right 415.3pt; font-size:12.0pt; mso-bidi-font-size:10.0pt; font-family:\"Times New Roman\"; mso-fareast-font-family:新細明體; mso-bidi-font-family:\"Times New Roman\"; mso-font-kerning:1.0pt;} p.MsoBodyTextIndent, li.MsoBodyTextIndent, div.MsoBodyTextIndent {mso-style-link:\"Body Text Indent Char\"; margin-top:0cm; margin-right:0cm; margin-bottom:0cm; margin-left:315.0pt; margin-bottom:.0001pt; text-indent:-315.0pt; mso-pagination:none; tab-stops:0cm 45.0pt; font-size:12.0pt; mso-bidi-font-size:10.0pt; font-family:\"Times New Roman\"; mso-fareast-font-family:新細明體; mso-bidi-font-family:\"Times New Roman\"; mso-font-kerning:1.0pt;} span.FooterChar {mso-style-name:\"Footer Char\"; mso-style-locked:yes; mso-style-link:Footer; mso-ansi-font-size:12.0pt; mso-font-kerning:1.0pt;} span.BodyTextIndentChar {mso-style-name:\"Body Text Indent Char\"; mso-style-locked:yes; mso-style-link:\"Body Text Indent\"; mso-ansi-font-size:12.0pt; mso-font-kerning:1.0pt;} @page Section1 {size:612.0pt 792.0pt; margin:72.0pt 90.0pt 72.0pt 90.0pt; mso-header-margin:36.0pt; mso-footer-margin:36.0pt; mso-paper-source:0;} div.Section1 {page:Section1;} -->\n\n**二、教學進度**\n\n**日期** **內容** **課前閱讀**\n\n9/13 導論\n\n9/20 音樂教育研究派典與方法 簡 Chap 1, 2; Phelps, 2-7\n\n9/27 研究動機與背景\n\n10/4 研究目的與問題 簡 Chap 3; Phelps, 66-78\n\n10/11 文獻蒐尋 簡 Chap 16, 17\n\n10/18 文獻探討 Phelps, 186-196\n\n10/25   文獻評鑑\n\n11/1 量化研究 簡 Chap 11; Phelps, 221-233\n\n11/8 敘述研究 簡 Chap 6; Phelps, 234-250\n\n11/15 實驗研究 簡 Chap 13; Phelps, 256-264\n\n11/22 研究工具與信效度 Phelps, 265-274\n\n11/29 資料分析\n\n12/6 質化研究\n\n12/13 歷史研究\n\n12/20 哲學研究 Phelps, 148-154\n\n12/27   內容分析   簡 Chap 9; Phelps, 287-294\n\n1/3 行動研究 Phelps, 295-300; 簡 Chap 14\n\n1/17 期末報告",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": ""
+        },
+        {
+            "type": "專題研究",
+            "note": ""
+        },
+        {
+            "type": "其他",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 50,
+            "note": "期間"
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 25,
+            "note": ""
+        },
+        {
+            "type": "報告",
+            "weight": 25,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

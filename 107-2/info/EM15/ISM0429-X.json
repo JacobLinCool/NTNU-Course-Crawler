@@ -1,0 +1,71 @@
+{
+    "year": 107,
+    "term": 2,
+    "name": "資料庫管理研究",
+    "teachers": [
+        "謝建成"
+    ],
+    "department": "EM15",
+    "code": "ISM0429",
+    "credit": 3,
+    "serial": 530,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 4,
+            "from": 5,
+            "to": 7,
+            "campus": "本部",
+            "classroom": "教室自排"
+        }
+    ],
+    "programs": [],
+    "comment": "上課教室：圖資所研討室A",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "探討資料庫管理系統的發展情況",
+    "goals": [
+        "資料庫的發展沿革,RDBMS 與XML DB,XML DB 相關技術,效能探討"
+    ],
+    "syllabus": "一、 教學目標：  \n1\\. 認識data warehouse及data mining概念  \n2\\. 瞭解資料整合、資料清理的意義與方法  \n3\\. 熟悉建構data warehouse及data mining工具  \n4\\. Bibliomining  \n5\\. 應用案例實  \n  \n二、 教材內容：  \n1\\. Database Analysis  \nData Modeling  \n\\* ER Modeling  \n  \n2\\. Advanced Databases  \nData Warehouse and Data Mining  \n\\*Data Warehouse Models  \n\\*Concept Hierarchy  \n\\*Data Mining Process  \n\\*Data Mining Methods  \n\\*Bibliomining  \n  \n3\\. Database Practice  \n\\*SQL Server  \n\\*MySql  \n  \n三、 實施方式：  \n課堂報告、討論  \n成績計算：  \n期中考試各25%  \n報告討論：25%  \n實作報告：利用SQL Server或 MySql實作一資料倉儲與資料探勘案例 50%  \n  \n四、 參考書目：  \n1\\. Data Modeling實務 真野 正著 / 博碩文化 譯  \n2\\. UML系統分析與設計，游峰碩，學貫  \n3\\. Data Mining Concepts and Techniques 2nd Edition，Jiawei Han & Micheline Kamber，Morgan Kaufmann Publishers4. Carlos Coronel & Steven Morris, Database Systems: Design, Implementation and Management, 11th ed. Cengage Learning, 2014.5. 資料探勘，曾憲雄等，旗標  \n6\\. SQL Server 2005資料採礦聖經，尹相志，學貫行銷  \n7\\. 書目探勘，2009，謝建成，文華圖書",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "課堂上課"
+        },
+        {
+            "type": "討論法",
+            "note": "課堂報告分享心得"
+        },
+        {
+            "type": "專題研究",
+            "note": "個案研究發展"
+        }
+    ],
+    "grading": [
+        {
+            "type": "期中考",
+            "weight": 25,
+            "note": "考試"
+        },
+        {
+            "type": "報告",
+            "weight": 25,
+            "note": "課堂報告"
+        },
+        {
+            "type": "專題",
+            "weight": 50,
+            "note": "利用SQL Server或 MySql實作一資料倉儲與資料探勘案例"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

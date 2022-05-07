@@ -1,0 +1,78 @@
+{
+    "year": 110,
+    "term": 2,
+    "name": "圖形識別",
+    "teachers": [
+        "葉家宏"
+    ],
+    "department": "HM75",
+    "code": "AEC8020",
+    "credit": 3,
+    "serial": 1120,
+    "group": "",
+    "quota": {
+        "limit": 30,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 6,
+            "to": 8,
+            "campus": "本部",
+            "classroom": "工511"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "",
+    "goals": [
+        "Build theoretical concepts of Pattern Recognition.",
+        "Understand current situation in the market of Pattern Recognition.",
+        "Build ability to implement application of Pattern Recognition."
+    ],
+    "syllabus": "The goal of this course is to introduce the basic concepts and techniques used in the field of pattern recognition and their applications.",
+    "methodologies": [
+        {
+            "type": "Formal lecture",
+            "note": "講解圖形識別之技術與未來發展及相關應用。"
+        },
+        {
+            "type": "Group discussion",
+            "note": "以專題報告方式進行專業知識討論與交流。"
+        },
+        {
+            "type": "Lab/Studio",
+            "note": "以程式實作方式了解圖形識別之原理及應用。"
+        }
+    ],
+    "grading": [
+        {
+            "type": "Assignments",
+            "weight": 25,
+            "note": "程式實作"
+        },
+        {
+            "type": "Midterm Exam",
+            "weight": 20,
+            "note": "課程專業知識之期中測驗"
+        },
+        {
+            "type": "Final exam",
+            "weight": 30,
+            "note": "課程專業知識之期末測驗"
+        },
+        {
+            "type": "Class discussion involvement",
+            "weight": 25,
+            "note": "課堂參與和上課表現"
+        }
+    ],
+    "prerequisite": "◎Available for junior and senior year B.A. program students (Doctoral program courses excepted) and M.A. program students.",
+    "general_core": []
+}

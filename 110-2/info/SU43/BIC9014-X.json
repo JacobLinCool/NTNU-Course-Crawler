@@ -1,0 +1,71 @@
+{
+    "year": 110,
+    "term": 2,
+    "name": "生物資訊相關演算法",
+    "teachers": [
+        "沈林琥"
+    ],
+    "department": "SU43",
+    "code": "BIC9014",
+    "credit": 3,
+    "serial": 2881,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 3,
+            "from": 10,
+            "to": 12,
+            "campus": "公館",
+            "classroom": "理圖807"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "9",
+    "dept_group": "",
+    "hours": 3,
+    "description": "使同學認識生物資訊相關演算法，瞭解其中理論並應用，介紹生物資訊相關演算法的基礎知識",
+    "goals": [
+        "使同學認識生物資訊相關演算法，瞭解其中理論並應用，介紹生物資訊相關演算法的基礎知識"
+    ],
+    "syllabus": "**本課程深入淺出地以實體授課與遠距數位教學介紹生物資訊相關的演算法，並教授Ｒ的使用及操作。**\n\n*      Introduction of Bioinformatics Algorithms\n*      RMA\n*      GC-RMA\n*      MAS5\n*      Hierarchical Clustering\n*      Classification\n*      K mean\n*      KNN\n*      Artificial Neural Network\n*      Decision Tree\n*      Self-Organizing Map\n*      SOTA\n*      Genetic Algorithm\n*      SVM\n*      Machine Learning\n*      PCA\n*      MDS\n*      Ant algorithm\n*      Monte Carlo Method\n*      Final report and discussion\n\n*   Flexible supplementary teaching\n    \n*   Flexible supplementary teaching",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "實體授課與遠距數位教學多媒體影音"
+        },
+        {
+            "type": "實驗/實作",
+            "note": ""
+        },
+        {
+            "type": "媒體融入教學",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "期中考",
+            "weight": 30,
+            "note": "Moodle平台線上測驗一週"
+        },
+        {
+            "type": "出席",
+            "weight": 40,
+            "note": "出席/課堂表現/實習"
+        },
+        {
+            "type": "報告",
+            "weight": 30,
+            "note": "期末報告討論將會因應防疫改為分組分批至教室以線上會議/直播方式進行，沒報告的同學在線上聆聽同學報告，以表單回饋意見"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

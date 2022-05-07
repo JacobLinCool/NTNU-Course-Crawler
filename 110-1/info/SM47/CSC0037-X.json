@@ -1,0 +1,88 @@
+{
+    "year": 110,
+    "term": 1,
+    "name": "生物資訊",
+    "teachers": [
+        "侯文娟"
+    ],
+    "department": "SM47",
+    "code": "CSC0037",
+    "credit": 3,
+    "serial": 2766,
+    "group": "",
+    "quota": {
+        "limit": 60,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 5,
+            "from": 2,
+            "to": 4,
+            "campus": "公館",
+            "classroom": "Ｂ102"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程介紹生物資訊相關之文件探勘工具與技巧。首先將介紹自然語言處理技術應用於生物及生醫資訊的重要工具，包括字典(lexicon)、專門術語資源(terminology)及本體論資源(ontology)，同時介紹如何應用上述工具。課程也將介紹各種資訊擷取之方式以便應用於生物與生醫領域。",
+    "goals": [
+        "建立學生相關軟體開發與應用之能力",
+        "培養學生生物資訊理論基礎",
+        "培養學生專題合作能力",
+        "了解目前生物資訊相關之文件探勘工具與技巧",
+        "能研讀相關論文並發表"
+    ],
+    "syllabus": "【授課方式：16週】\n\n1\\. Introduction to text mining  \n2\\. NLP for text mining  \n3\\. Lexical resources for biological text mining  \n4\\. Terminological resources for biological text mining  \n5\\. Ontological resources for biological text mining  \n6\\. Automatic terminology management in biomedicine  \n7\\. Abbreviations in biomedical text  \n8\\. Named entity recognition  \n9\\. Information extraction  \n10\\. Corpora and their annotation  \n11\\. Evaluation of text mining in biology  \n12\\. Integrating text mining with data mining",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "合作學習",
+            "note": ""
+        },
+        {
+            "type": "實驗/實作",
+            "note": ""
+        },
+        {
+            "type": "媒體融入教學",
+            "note": ""
+        },
+        {
+            "type": "專題研究",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "課堂討論參與",
+            "weight": 45,
+            "note": "論文報告及討論"
+        },
+        {
+            "type": "出席",
+            "weight": 5,
+            "note": ""
+        },
+        {
+            "type": "報告",
+            "weight": 35,
+            "note": "書面報告及心得"
+        },
+        {
+            "type": "專題",
+            "weight": 15,
+            "note": "Project demo"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

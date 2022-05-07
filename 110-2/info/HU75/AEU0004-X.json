@@ -1,0 +1,88 @@
+{
+    "year": 110,
+    "term": 2,
+    "name": "數位系統實驗",
+    "teachers": [
+        "林政宏"
+    ],
+    "department": "HU75",
+    "code": "AEU0004",
+    "credit": 2,
+    "serial": 1273,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 4,
+            "from": 6,
+            "to": 9,
+            "campus": "本部",
+            "classroom": "電機系電子實驗室"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎必須先修過【AEU0003  數位系統】 ◎課程開放上修",
+    "form_s": "1",
+    "classes": "",
+    "dept_group": "",
+    "hours": 1,
+    "description": "",
+    "goals": [
+        "Improve students' understanding of the basic concepts of digital systems",
+        "Teach students to apply digital systems knowledge and technology to implement digital system experiments",
+        "Teach students to apply digital systems knowledge and techniques to solve problems related to digital systems experiments",
+        "Cultivate students' ability to think independently from experiments",
+        "Cultivate students' ability to solve digital systems engineering problems from experiments.",
+        "Build the foundation of lifelong learning for students",
+        "Experiment in groups to develop student teamwork",
+        "Develop a professional ethical attitude",
+        "Develop international view and foreign language skills"
+    ],
+    "syllabus": "This course provides an overview of the Verilog hardware description language (HDL) and its use in programmable logic design. The emphasis is on the design methodologies and synthesis constructs of Verilog HDL . The laboratory includes the design and verification of combinational circuits and synchronous sequential circuits. The course outline is as follows.\n\nWeek 1: Experiment 1\n\n1\\. Introduction to Digital System Experiment\n\n2\\. QuartusII software download and license acquisition teaching\n\n3\\. Project opening, file opening, waveform simulation settings and methods\n\n4\\. Pin setting and DE2 experimental version burning\n\nWeek 2: Experiment 2\n\n1\\. Introduction to Hardware Description Language (HDL)\n\n2\\. Introduction to Verilog Description\n\n3\\. Verilog Gate-Level Description\n\n4\\. Verilog Operators\n\n5\\. DE2 – LED & Switch\n\nWeek 3: Experiment 3\n\n1\\. User Defined Primitives\n\n2\\. Dataflow Verilog\n\n3\\. Structural Verilog\n\n4\\. DE2 - 7-Segment Display\n\nWeek 4: Hands-on exercise 1\n\nWeek 5: Hands-on Test 1\n\nWeek 6: Experiment 4\n\n1\\. Dataflow Verilog\n\n2\\. Structural Verilog\n\n3\\. Behavioral Modeling\n\nWeek 7: Experiment 5\n\n1\\. Logic Function IC\n\n2\\. Latches and Flip-flops\n\n3\\. DE2 - Push-Button Switches\n\nWeek 8: Hands-on exercise 2\n\nWeek 9: Mid-term exam\n\nWeek 10: Experiment 6\n\n1\\. Sequential Building Blocks\n\n2\\. JK Flip-Flop\n\n3\\. T Flip-Flop\n\n4\\. Synchronous vs. Asynchronous\n\n5\\. Blocking vs. Nonblocking\n\n6\\. Asynchronous Counter\n\n7\\. Synchronous Counter\n\n8\\. DE2 - Clock Inputs\n\nWeek 11: Experiment 7\n\n1\\. Finite State Machines  \n2\\. Moore FSM & Mealy FSM\n\nWeek 12: Experiment 8\n\n1\\. Vending Machine\n\nWeek 13: Experiment 9\n\n2\\. Block Diagram\n\nWeek 14: Hands-on exercise 3\n\nWeek 15: Hands-on Test 2\n\nWeek 16: Final exam\n\nWeek 17: Flexible Course: Final project\n\nWeek 18: Flexible Course: Final project",
+    "methodologies": [
+        {
+            "type": "Formal lecture",
+            "note": "Teacher Verilog language"
+        },
+        {
+            "type": "Problem base learning",
+            "note": "Learning through problem solving"
+        },
+        {
+            "type": "Cooperative learning",
+            "note": "Work in groups of two"
+        },
+        {
+            "type": "Lab/Studio",
+            "note": "Hands-on experiments"
+        }
+    ],
+    "grading": [
+        {
+            "type": "Assignments",
+            "weight": 40,
+            "note": ""
+        },
+        {
+            "type": "Midterm Exam",
+            "weight": 20,
+            "note": ""
+        },
+        {
+            "type": "Final exam",
+            "weight": 20,
+            "note": ""
+        },
+        {
+            "type": "Case study reports",
+            "weight": 20,
+            "note": ""
+        }
+    ],
+    "prerequisite": "Prerequisite course: 【AEU0003  Digital Systems】 ◎Available for junior and senior year B.A. program students (Doctoral program courses excepted) and M.A. program students.",
+    "general_core": []
+}

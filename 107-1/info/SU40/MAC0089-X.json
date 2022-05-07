@@ -1,0 +1,74 @@
+{
+    "year": 107,
+    "term": 1,
+    "name": "複變分析（一）",
+    "teachers": [
+        "張毓麟"
+    ],
+    "department": "SU40",
+    "code": "MAC0089",
+    "credit": 3,
+    "serial": 2717,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 2,
+            "to": 4,
+            "campus": "公館",
+            "classroom": "教室自排"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "",
+    "classes": "9",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本科目是數學研究所分析領域的基礎課程，目的在培養複變函數理論的必備知識.",
+    "goals": [
+        "培養數學專業能力",
+        "連結數學與其他學科",
+        "以高觀點觀察、解決專業問題"
+    ],
+    "syllabus": "1.    複數平面，複變數函數，冪級數，三角函數，指對數函數。(3週)\n\n2.     曲線與線積分，Cauchy積分定理 (2週)\n\n3.      微分形式，流形上的積分 (3週)\n\n4.      Cauchy積分公式，Taylor與Laurent展開式 (2週)\n\n5.      解析函數的開映射定理，保角變換，Möbius變換 (3週)\n\n6.   留數定理與應用，孤立奇異點的分類 (3週)",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 10,
+            "note": ""
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 20,
+            "note": ""
+        },
+        {
+            "type": "出席",
+            "weight": 20,
+            "note": ""
+        },
+        {
+            "type": "報告",
+            "weight": 50,
+            "note": "期中期末上台報告"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

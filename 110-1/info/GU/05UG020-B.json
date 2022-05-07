@@ -1,0 +1,74 @@
+{
+    "year": 110,
+    "term": 1,
+    "name": "統計學",
+    "teachers": [
+        "劉振維"
+    ],
+    "department": "GU",
+    "code": "05UG020",
+    "credit": 2,
+    "serial": 997,
+    "group": "B",
+    "quota": {
+        "limit": 50,
+        "additional": 15
+    },
+    "schedule": [
+        {
+            "day": 3,
+            "from": 3,
+            "to": 4,
+            "campus": "本部",
+            "classroom": "教401"
+        }
+    ],
+    "programs": [],
+    "comment": "心輔系學士班學生修習通識課程「心理學」、「統計學」不計入畢業學分。",
+    "restrict": "",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 2,
+    "description": "",
+    "goals": [
+        "了解描述統計學的基本概念、原理與方法",
+        "了解推論的基本概念、原理與方法",
+        "應用統計學方法於心理與教育教學與研究工作"
+    ],
+    "syllabus": "第一週        第1章 緒論  \n第二週        第2章 敍述統計(Ⅰ)-列表法與圖示法  \n第三週        第3章 敍述統計(Ⅱ)-統計量數  \n第四週        第4章 機率  \n第五週        第5章 機率分配  \n第六週        第6章 常用的機率分配  \n第七週        第6章 常用的機率分配  \n第八週        期中考試週    \n第九週        第7章 抽樣與抽樣分配  \n第十週        第7章 抽樣與抽樣分配  \n第十一週        第8章 估計  \n第十二週        第8章 估計  \n第十三週        第9章 假設檢定  \n第十四週        第9章 假設檢定  \n第十五週        第9章 假設檢定  \n第十六週        期末考試週  \n第十七週        課外閱讀  \n第十八週        課外閱讀",
+    "methodologies": [
+        {
+            "type": "Formal lecture",
+            "note": ""
+        },
+        {
+            "type": "Problem base learning",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "Assignments",
+            "weight": 40,
+            "note": ""
+        },
+        {
+            "type": "Midterm Exam",
+            "weight": 25,
+            "note": ""
+        },
+        {
+            "type": "Final exam",
+            "weight": 25,
+            "note": ""
+        },
+        {
+            "type": "Class discussion involvement",
+            "weight": 10,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

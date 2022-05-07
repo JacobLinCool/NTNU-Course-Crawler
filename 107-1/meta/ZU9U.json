@@ -1,0 +1,140 @@
+[
+    {
+        "year": 107,
+        "term": 1,
+        "name": "教育人類學",
+        "teachers": [
+            "黃純敏"
+        ],
+        "department": "EU00",
+        "code": "EDU0035",
+        "credit": 2,
+        "serial": 660,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 6,
+                "to": 7,
+                "campus": "本部",
+                "classroom": "教9樓綜合教室"
+            }
+        ],
+        "programs": [
+            "原民教育學程"
+        ],
+        "comment": "",
+        "restrict": "",
+        "form_s": "3",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 1,
+        "name": "文化人類學",
+        "teachers": [
+            "陳素秋"
+        ],
+        "department": "EU07",
+        "code": "CEU0098",
+        "credit": 2,
+        "serial": 843,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 6,
+                "to": 7,
+                "campus": "本部",
+                "classroom": "誠401"
+            }
+        ],
+        "programs": [
+            "原民教育學程"
+        ],
+        "comment": "",
+        "restrict": "",
+        "form_s": "3",
+        "classes": "1",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 1,
+        "name": "文化人類學",
+        "teachers": [
+            "陳素秋"
+        ],
+        "department": "EU07",
+        "code": "CEU0098",
+        "credit": 2,
+        "serial": 847,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 8,
+                "to": 9,
+                "campus": "本部",
+                "classroom": "誠401"
+            }
+        ],
+        "programs": [
+            "原民教育學程"
+        ],
+        "comment": "",
+        "restrict": "",
+        "form_s": "3",
+        "classes": "2",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 1,
+        "name": "原住民地理",
+        "teachers": [
+            "汪明輝"
+        ],
+        "department": "LU23",
+        "code": "GEU0205",
+        "credit": 3,
+        "serial": 1958,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 5
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 7,
+                "to": 9,
+                "campus": "本部",
+                "classroom": "正106"
+            }
+        ],
+        "programs": [
+            "PASSION偏鄉教育學程",
+            "區域學程",
+            "原民教育學程"
+        ],
+        "comment": "",
+        "restrict": "",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    }
+]

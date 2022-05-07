@@ -1,0 +1,88 @@
+{
+    "year": 109,
+    "term": 1,
+    "name": "資料通訊",
+    "teachers": [
+        "王超"
+    ],
+    "department": "SU47",
+    "code": "CSC0056",
+    "credit": 3,
+    "serial": 3058,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 1,
+            "from": 2,
+            "to": 4,
+            "campus": "公館",
+            "classroom": "Ｂ102"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "",
+    "classes": "9",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程針對資料通訊中，有關網路第二、三、四層的各項基本理論，進行深入的探討，希望引起同學們對此領域的興趣，並投入相關的研究與應用。本課程內容涵蓋點對點通訊協定、多重存取通訊協定、無線網路通訊標準、單點傳播與多點傳播技術、流量控制與冗塞控制等議題，並且將介紹基本的排隊理論與網路分析技術，並同時介紹當前相關科技之進展，以使修課同學能夠從多方面瞭解資料通訊與各項應用。",
+    "goals": [
+        "了解資料通訊基本原理",
+        "學習點對點通訊、多重存取通訊、流量控制、網路路由與基礎排隊理論等主題",
+        "著重理論的整合與應用",
+        "了解當前相關科技之進展"
+    ],
+    "syllabus": "**\\* This is an all-English course (全英語授課).**\n\n\\* In the 2020 edition of this course, the theme is \"**Messaging in cloud/edge computing systems.**\" Throughout the semester, we will learn both the theory and the practice of data communication. In particular, we will\n\n(1) learn the basics of the queueing model and analysis;\n\n(2) learn both Google's gRPC framework and the widely-used MQTT communication protocol;\n\n(3) learn to study scientific research literature.\n\n\\* In general, data communication is an essential part of modern computer networks and Internet-of-Things (IoT) systems. The objectives of this course are for each student to\n\n*   gain insight into analyzing data communication systems;\n*   have hands-on experience in systems performance evaluation; and\n*   engage in recent advances in data communication systems.\n\n\\* Details will be updated on the course webpage: [https://wangc86.github.io/courses/](https://wangc86.github.io/courses/)",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": ""
+        },
+        {
+            "type": "問題解決教學",
+            "note": ""
+        },
+        {
+            "type": "實驗/實作",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 45,
+            "note": ""
+        },
+        {
+            "type": "期中考",
+            "weight": 20,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 25,
+            "note": ""
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 5,
+            "note": ""
+        },
+        {
+            "type": "出席",
+            "weight": 5,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

@@ -1,0 +1,90 @@
+{
+    "year": 109,
+    "term": 1,
+    "name": "諮商倫理",
+    "teachers": [
+        "林家興"
+    ],
+    "department": "EU01",
+    "code": "PCU0147",
+    "credit": 2,
+    "serial": 734,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 6,
+            "to": 7,
+            "campus": "本部",
+            "classroom": "教511"
+        }
+    ],
+    "programs": [
+        "PASSION偏鄉教育學程"
+    ],
+    "comment": "10週實體課程，8週遠距課程；實體與遠距課程日期另訂。",
+    "restrict": "◎必須先修過【PCU0130  諮商理論】",
+    "form_s": "4",
+    "classes": "",
+    "dept_group": "",
+    "hours": 2,
+    "description": "1. 學生能瞭解輔導或心理諮商工作人員的專業倫理守則 2. 學生能判斷與處理輔導或助人實務工作中有關個案權益的問題 3. 學生能夠遵守專業倫理守則從事心理諮商服務與學校輔導工作",
+    "goals": [
+        "以心理學的基礎了解倫理準則的議題",
+        "增進學習服務不同對象使用不同諮商理論有關之倫理辨證",
+        "增進有效與無效的助人技巧背後的倫理意涵",
+        "思考多元文化考慮下的倫理議題",
+        "從辨證分析討論中理解自我的倫理判斷",
+        "促進自我了解與自我反思",
+        "學習對專業倫理之辨識、理解及行動",
+        "培養人本關懷讓倫理現身在每一時間"
+    ],
+    "syllabus": "  \n[教學進度與主題附件](https://ap.itc.ntnu.edu.tw/NtnuFileShare/file.do?action=dl&gno=2ae2172550e34c8faeb86e5069920323&fno=b767577b21aa400fa3d7f3e8d98f1c04)",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "講師講述課程重點，回答同學提問"
+        },
+        {
+            "type": "討論法",
+            "note": "分組針對具有倫理議題的案例進行討論"
+        },
+        {
+            "type": "其他",
+            "note": "倫理議題案例準備與報告"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 15,
+            "note": "倫理案例準備與報告"
+        },
+        {
+            "type": "期末考",
+            "weight": 50,
+            "note": "名詞解釋與簡答題"
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 7,
+            "note": "課堂上提問與討論"
+        },
+        {
+            "type": "出席",
+            "weight": 8,
+            "note": "出缺席"
+        },
+        {
+            "type": "報告",
+            "weight": 20,
+            "note": "分組書面報告"
+        }
+    ],
+    "prerequisite": "◎必須先修過【PCU0130  諮商理論】",
+    "general_core": []
+}

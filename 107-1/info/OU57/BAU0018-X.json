@@ -1,0 +1,81 @@
+{
+    "year": 107,
+    "term": 1,
+    "name": "作業管理",
+    "teachers": [
+        "周世玉"
+    ],
+    "department": "OU57",
+    "code": "BAU0018",
+    "credit": 3,
+    "serial": 2451,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 15
+    },
+    "schedule": [
+        {
+            "day": 3,
+            "from": 7,
+            "to": 9,
+            "campus": "本部",
+            "classroom": "誠207"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎必須先修過【BAU0048  企業管理概論】",
+    "form_s": "3",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程為企業管理學系大三的必修課，其課程教學目的在於提供學生對於作業管理的概念、議題以及實踐的理解。藉著探討作業管理的各個主題：競爭力、策略與生產力、供應鏈管理、品質管理、預測、產品與服務設計、產能規劃與管理決策、流程選擇、設施佈置等，以加強學生的專業技能；厚植資訊及整合利用資源的能力；增進實務的思考能力；培養商業溝通的技巧。本課程係藉由核心概念、原理與作業管理的各理論，提供一個由淺入深出的作業管理課程。",
+    "goals": [
+        "教導作業管理專業知識",
+        "培養營運管理規劃與決策能力"
+    ],
+    "syllabus": "1.          Introduction to Operations Management (Wk1)\n\n2.          Competitiveness, Strategy, and Productivity (Wk2)\n\n3.          Forecasting (Wk3)\n\n4.          Product and Service Design (Wk4)\n\n**5.**          **國慶日放假****(10/10)****，****Wk5****無進度。**\n\n6.          Strategic Capacity Planning for Products and Services (Wk6)\n\n7.          Process Selection and Facilities Layout (Wk7,Wk8)\n\n**_8._**          **_Mid-term exam (11/7/2018, Wk9)_**\n\n9.          Location Planning and Analysis (Wk10)\n\n10.      **專家演講** (Wk11)\n\n11.      Management of Quality (Wk12)\n\n12.      Quality Control (Wk13)\n\n13.      MRP and ERP (Wk14)\n\n14.      Inventory Management (Wk15, Wk16)\n\n15.      Supply Chain Management (Wk17)\n\n**_16.     Final exam (Wk18,  1/9/2019)_**",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "講述教材內容並依理論搭配實務。"
+        },
+        {
+            "type": "討論法",
+            "note": "課堂討論"
+        },
+        {
+            "type": "媒體融入教學",
+            "note": "邀請實務專家演講。"
+        },
+        {
+            "type": "其他",
+            "note": "課後輔導與討論。"
+        }
+    ],
+    "grading": [
+        {
+            "type": "期中考",
+            "weight": 35,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 35,
+            "note": ""
+        },
+        {
+            "type": "出席",
+            "weight": 20,
+            "note": "缺席一次扣學期總分2分"
+        },
+        {
+            "type": "其他",
+            "weight": 10,
+            "note": "專家演講心得報告"
+        }
+    ],
+    "prerequisite": "◎必須先修過【BAU0048  企業管理概論】",
+    "general_core": []
+}

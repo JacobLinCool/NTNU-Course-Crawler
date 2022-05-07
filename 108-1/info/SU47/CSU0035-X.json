@@ -1,0 +1,69 @@
+{
+    "year": 108,
+    "term": 1,
+    "name": "數值方法",
+    "teachers": [
+        "葉梅珍"
+    ],
+    "department": "SU47",
+    "code": "CSU0035",
+    "credit": 3,
+    "serial": 3057,
+    "group": "",
+    "quota": {
+        "limit": 40,
+        "additional": 0
+    },
+    "schedule": [
+        {
+            "day": 3,
+            "from": 7,
+            "to": 9,
+            "campus": "公館",
+            "classroom": "理圖802"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "2",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程主要在介紹如何利用程式實作並解決各種數學計算的方法，例如：多項式求跟、微分、積分、聯立方程式求解等。",
+    "goals": [
+        "程式撰寫與實驗",
+        "進階數值方法之簡介",
+        "基礎數值方法之簡介"
+    ],
+    "syllabus": "本課程介紹基礎的數值方法並強調演算法設計、分析及其應用。我們將探討一些基本和常見的數值分析技術，諸如誤差分析、非線性方程的根求解、線性代數方程求解、內插法、回歸分析。本課程有大量的程式練習。",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "實驗/實作",
+            "note": "每週有一至兩個程式練習"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 50,
+            "note": "大部分於課堂中練習, 不限定程式語言(C, C++或Python)"
+        },
+        {
+            "type": "期中考",
+            "weight": 25,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 25,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

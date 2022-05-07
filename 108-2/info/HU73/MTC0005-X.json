@@ -1,0 +1,73 @@
+{
+    "year": 108,
+    "term": 2,
+    "name": "微型工具機設計實務",
+    "teachers": [
+        "陳順同"
+    ],
+    "department": "HU73",
+    "code": "MTC0005",
+    "credit": 3,
+    "serial": 1207,
+    "group": "",
+    "quota": {
+        "limit": 30,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 4,
+            "from": 10,
+            "to": 12,
+            "campus": "本部",
+            "classroom": "機202會議室"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎必須先修過【MTU0005  機械製造】、【MTC0010  超精密加工】",
+    "form_s": "",
+    "classes": "9",
+    "dept_group": "",
+    "hours": 3,
+    "description": "1.以功能化為導向，深入探討微型工具機的機構設計，電控設計、界面設計等整合型的架構設計，培育具備設計整合的專業人才。\n2.藉由電腦輔助設計，啟發學習者學習微型工具機的各種微細元件之規格、功能與材料選用，培育具改良、研發及創新的專業能力。",
+    "goals": [
+        "建構具高速、高精、高剛與高穩定性之產業型精微工具機專業設計知識與能力。",
+        "運用工具機設計原理，進行產業型精微工具機之電腦輔助實務設計與模擬。",
+        "透由學理與實務學習，進行產業型精微工具機之電控與人機界面實務設計。",
+        "利用工具機製造方法，進行產業型精微工具機之實務技術開發與製造測試。",
+        "養成具產業型精微工具機之系統設計、改良與創新能力及優良職業道德觀念。"
+    ],
+    "syllabus": "**機電系****108(****下****)****學年度** **微型工具機設計實務** **課程大綱與教學週次表**\n\n**英文名稱****: Practice of miniature machine tool design**\n\n**一、教學目標：**\n\n1.  建構具高速、高精、高剛與高穩定性之產業型精微工具機專業設計知識與能力。\n2.  運用工具機設計原理，進行產業型精微工具機之電腦輔助實務設計與模擬。\n3.  透由學理與實務學習，進行產業型精微工具機之電控與人機界面實務設計。\n4.  利用工具機製造方法，進行產業型精微工具機之實務技術開發與製造測試。\n5.  養成具產業型精微工具機之系統設計、改良與創新能力及優良職業道德觀念。\n\n**二、實施方式：**\n\n1.  學理知識與工作方法採講解或示範操作方式進行，並作必要之討論與專業輔導。\n2.  收集並製作先進精微工具機之相關技術圖表與投影片等，進行輔助教材教學。\n3.  敦聘具精微工具機專業素養的校外產官學研傑出人士前來講授，開拓工程視野。\n4.  學生每週需進行進度報告，並提出相關文獻探討，設計理念應用與開發進度。\n\n**三、開課年級：**\n\n1.  開課年級：大碩合開課程(建議大四以上修習)。\n2.  建議先修：工程圖學，電腦輔助製圖，精微製造工程，超精密加工。\n3.  上課地點：機電工程學系微製造實驗室。\n4.  上課時間：每週四11-13節(18:30-21:15)\n\n**四、成績計算：**\n\n每週進度報告60%(含出席率)，期末整合型進度報告40%。\n\n**五、參考書目：**\n\n1.  International Journal of Machine Tools and Manufacture, [http://ees.elsevier.com/ijmactool/](http://ees.elsevier.com/ijmactool/)\n2.  Journal of Materials Processing Technology, [http://ees.elsevier.com/protec/](http://ees.elsevier.com/protec/)\n3.  Precision Engineering, [http://ees.elsevier.com/pre/](http://ees.elsevier.com/pre/)\n4.  _Journal of Micromechanics and Microengineering,_ [http://iopscience.iop.org/0960-1317/](http://iopscience.iop.org/0960-1317/)\n5.  Advanced Machining Processes, Hassan Abdel-Gawad El-Hofy, McGraw-Hill, 2005.\n6.  Nicholas Lisitsyn, Alexander Gavryusin, and N. Acherkan, Machine Tool Design, University Press of the Pacific, 2000.\n7.  Alexander Slocum, Andrew Devitt, Precision Machine Design, Society of Manufacturing Engineers, 1992.\n\n**六、課程進度：**\n\n週次\n\n日期\n\n星期\n\n課程進度\n\n1\n\n03月05日\n\n四\n\n精微工具機各國技術發展現況、綜合應用與未來趨勢。\n\n2\n\n03月12日\n\n四\n\n精微工具機之加減速、慣性力與機台結構形變及振動分析。\n\n精微工具機之結構靜、動態特性分析與剛性設計。\n\n3\n\n03月19日\n\n四\n\n精微工具機導軌技術(氣浮，油浮與鏟花)與精度調校檢驗。\n\n4\n\n03月26日\n\n四\n\nCase study-1：碳化鎢微結構之精微線切割放電加工迴路研究(製造技術)-1。\n\n精微工具機設計，分析與開發進度報告-1。\n\n5\n\n04月02日\n\n四\n\nCase study-2：碳化鎢微結構之精微線切割放電加工迴路研究(製造技術)-2。\n\n精微工具機設計，分析與開發進度報告-2。\n\n6\n\n04月09日\n\n四\n\nCase study-3：音圈式驅動之高頻衝印成型機開發應用於高密度微結構陣列模仁之高速成型研究-1。\n\n精微工具機設計，分析與開發進度報告-3。\n\n7\n\n04月16日\n\n四\n\nCase study-4：音圈式驅動之高頻衝印成型機開發應用於高密度微結構陣列模仁之高速成型研究-2。\n\n精微工具機設計，分析與開發進度報告-4。\n\n8\n\n04月23日\n\n四\n\n高等精微工具機技術之發展與應用。\n\n(校外產官學研傑出人士演講)。\n\n9\n\n04月30日\n\n四\n\nCase study-5：同軸線上滾印系統開發與奈米陣列銀線快速滾印技術研究(3C專用)-1。\n\n精微工具機設計，分析與開發進度報告-5。\n\n10\n\n05月07日\n\n四\n\nCase study-6：同軸線上滾印系統開發與奈米陣列銀線快速滾印技術研究(3C專用)-2。\n\n精微工具機設計，分析與開發進度報告-6。\n\n11\n\n05月14日\n\n四\n\nCase study-7：同軸線上滾印系統開發與奈米陣列銀線快速滾印技術研究(3C專用)-3。\n\n精微工具機設計，分析與開發進度報告-7。\n\n12\n\n05月21日\n\n四\n\nCase study-8：音圈式驅動之高頻衝印成型機開發應用於高密度微結構陣列模仁之高速成型研究-3。\n\n精微工具機設計，分析與開發進度報告-8。\n\n13\n\n05月28日\n\n四\n\nCase study-9：音圈式驅動之高頻衝印成型機開發應用於高密度微結構陣列模仁之高速成型研究-4。\n\n精微工具機設計，分析與開發進度報告-9。\n\n14\n\n06月04日\n\n四\n\nCase study-10：對稱高速雙主軸研磨機開發(光電專用)-1。\n\n15\n\n06月11日\n\n四\n\n精微工具機設計，分析與開發進度報告-10。\n\n16\n\n06月18日\n\n四\n\n期末整合型作業繳交(精微工具機之設計，分析與開發)。\n\n17\n\n06月25日\n\n四\n\n微型工具機設計實務-自主學習與探究-1(包含期末專題整合與報告整理)\n\n18\n\n07月02日\n\n四\n\n微型工具機設計實務-自主學習與探究-2(包含期末專題整合與報告整理)",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": ""
+        },
+        {
+            "type": "實驗/實作",
+            "note": "以實際範例配合Power Point 及電腦輔助設計進行教學。"
+        },
+        {
+            "type": "專題研究",
+            "note": ""
+        },
+        {
+            "type": "其他",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "報告",
+            "weight": 100,
+            "note": "每週進度報告60%(含出席率)，期末整合型進度報告40%"
+        }
+    ],
+    "prerequisite": "◎必須先修過【MTU0005  機械製造】、【MTC0010  超精密加工】",
+    "general_core": []
+}

@@ -1,0 +1,69 @@
+{
+    "year": 107,
+    "term": 2,
+    "name": "電腦視覺",
+    "teachers": [
+        "包傑奇"
+    ],
+    "department": "HM75",
+    "code": "AEC8016",
+    "credit": 3,
+    "serial": 1170,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 1,
+            "from": 7,
+            "to": 9,
+            "campus": "本部",
+            "classroom": "研討二"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "Computer vision is the problem of extracting scene and object information  from single or sequences of images. Humans receive most of the information about their environment through their eyes. Modelling similar capabilities on a computer is a challenging problem that has received much research attention in the last 40 years. Today, there are many applications of computer vision: automatic mail sorting, analysis of medical images, and self driving cars. The course will present the theoretical underpinnings and the most important applications of computer vision.",
+    "goals": [
+        "培育學生運用科學與工程知識與技術，以解決電機電子工程相關之問題。",
+        "培養學生獨立思考之能力，奠定學生終身學習之基礎。",
+        "培養學生團隊合作與專業倫理之態度，具備國際觀及服務社會之信念。"
+    ],
+    "syllabus": "Week 1: Pixels, images, cameras\n\nWeek 2: Linear algebra review\n\nWeek 3: Camera calibration\n\nWeek 4: Convolution, Edge detection\n\nWeek 5: RANSAC algorithm\n\nWeek 6: Corner detectors, Harris detectors\n\nWeek 7: SIFT features\n\nWeek 8: SURF features\n\nWeek 9: Midterm\n\nWeek 10: Pose estimation\n\nWeek 11: Image segmentation\n\nWeek 12: Snakes\n\nWeek 13: Object tracking\n\nWeek 14: Clustering, K-means clustering\n\nWeek 15: Face recognition, PCA, Eigenfaces\n\nWeek 16: Deep learning and computer vision\n\nWeek 17: Stereo vision\n\nWeek 18: Final Exam",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "In this course, I will introduce the theoretical foundation and practical foundation of various computer vision algorithms and their applications."
+        },
+        {
+            "type": "問題解決教學",
+            "note": "Students will implement several state of the art computer vision algorithms to solve problems that are of interest in the world today."
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 40,
+            "note": "There will be 2 assignments where students will analyze problems, design solutions, and implement their solutions."
+        },
+        {
+            "type": "期中考",
+            "weight": 20,
+            "note": "A midterm exam will be held after approximately the first half of the course."
+        },
+        {
+            "type": "期末考",
+            "weight": 40,
+            "note": "A final exam will examine all material learned by the students."
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

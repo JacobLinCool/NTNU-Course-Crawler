@@ -1,0 +1,57 @@
+{
+    "year": 109,
+    "term": 1,
+    "name": "高能天文物理學",
+    "teachers": [
+        "陳林文"
+    ],
+    "department": "SM44",
+    "code": "ESC8008",
+    "credit": 3,
+    "serial": 2731,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 3
+    },
+    "schedule": [
+        {
+            "day": 3,
+            "from": 7,
+            "to": 9,
+            "campus": "公館",
+            "classroom": "Ｂ413"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程不開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "介紹高能天文物理學的主要原理，高能天文學的進展以及最近的發現，以及如何配合不同波段的觀測來研究天文現象。",
+    "goals": [
+        "介紹高能天文物理學的主要原理，高能天文學的進展以及最近的發現，以及如何配合不同波段的觀測來研究天文現象。"
+    ],
+    "syllabus": "1.  lecture introduction\n2.  High energy astrophysics (HEA) and X-ray astronomy & beyond – observations and major breakthroughs\n3.  HEA observatories – techniques and limitations\n4.  Physical processes in HEA I\n5.  Physical processes in HEA II\n6.  HEA associated with stellar objects\n7.  compact objects – white dwarfs and neutron stars\n8.  X-ray binaries I\n9.  X-ray binaries II\n10.  supernovae\n11.  Milky way and galaxies\n12.  Extragalactic HEA – AGNs I\n13.  Extragalactic HEA – AGNs II\n14.  Extragalactic HEA – intracluster medium\n15.  X-ray background and gamma-ray bursts (GRB)",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "其他",
+            "weight": 100,
+            "note": "midterm/final exams, oral presentation, term essays, homework, class performance"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

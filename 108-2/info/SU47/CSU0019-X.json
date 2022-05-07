@@ -1,0 +1,84 @@
+{
+    "year": 108,
+    "term": 2,
+    "name": "計算機網路",
+    "teachers": [
+        "蔡榮宗"
+    ],
+    "department": "SU47",
+    "code": "CSU0019",
+    "credit": 3,
+    "serial": 2894,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 8,
+            "to": 9,
+            "campus": "公館",
+            "classroom": "Ｂ101"
+        },
+        {
+            "day": 4,
+            "from": 7,
+            "to": 7,
+            "campus": "公館",
+            "classroom": "Ｂ101"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "2",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "The class is focused on issues related to the network layer, the transport layer, and the application layers. The class will give a compressive coverage of protocol designs in different network environments so that students will see how a network is designed to work and what performance metrics are important in designing a network. \n\n本課程主要介紹計算機網路結構中的網路層，傳輸層及應用層相關的主題，並對各不同網路環境之網路協定作一概述。同學們會了解計算機網路的設計過程以及網路設計時重要的性能評估指標。",
+    "goals": [
+        "能了解計算機網路的基本運作原理"
+    ],
+    "syllabus": "1\\. Introduction (6 hours)  \n2\\. The data link layer (6 hours)  \n3\\. The Network Layer (21 hours)  \n4\\. The Transport Layer (15 hours)  \n5\\. The Application Layer(4 hours)",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 30,
+            "note": "6~8 homework assignments"
+        },
+        {
+            "type": "期中考",
+            "weight": 35,
+            "note": "2 hours test"
+        },
+        {
+            "type": "期末考",
+            "weight": 35,
+            "note": "2 hours test"
+        },
+        {
+            "type": "出席",
+            "weight": 4,
+            "note": "Credits for adding at most 4% to final scores"
+        },
+        {
+            "type": "其他",
+            "weight": 100,
+            "note": "If no TA is assigned for the class, then only midterm (50%) and final (50%) exams are taken into account for the final grade."
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

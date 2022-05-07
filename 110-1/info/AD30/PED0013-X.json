@@ -1,0 +1,69 @@
+{
+    "year": 110,
+    "term": 1,
+    "name": "統計與實驗設計（二）",
+    "teachers": [
+        "陳美燕"
+    ],
+    "department": "AD30",
+    "code": "PED0013",
+    "credit": 3,
+    "serial": 4,
+    "group": "",
+    "quota": {
+        "limit": 28,
+        "additional": 2
+    },
+    "schedule": [
+        {
+            "day": 4,
+            "from": 6,
+            "to": 8,
+            "campus": "本部",
+            "classroom": "教404"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "重新建立統計之基礎，再進入中階，實驗設計最常用之類型及相關重要課題。含隨機區組之球型假設及可加成模式之檢驗及應對。另除統計顯著性外之實用實質顯著性以及統計考驗力之完整交代，詳細內容如大綱所示。",
+    "goals": [
+        "學會描述統計及推論統計之觀念及運算能力。",
+        "認識實驗設計類別及其應注意之處與應對方法。",
+        "學會應用統計與實驗設計於運動相關研究領域。"
+    ],
+    "syllabus": "第1週   量化研究分析的關鍵要點\n\nTextbook：Ch1\n\n第2週   描述性分析：統計圖表的應用、基本描述量數呈現\n\nTextbook： Ch4\n\n第3週   描述性分析：相對地位量數\n\n作業一\n\n第4週   相關性分析：交叉分析\n\n第5週   相關性分析：迴歸資料的診斷\n\n第6週   相關性分析：一般標準多元迴歸\n\n第7週   相關性分析：多元逐步迴歸：預測\n\n第8週   相關性分析：多元階層迴歸：解釋\n\nTextbook： Ch5\n\n作業二\n\n第9週   相關性分析：研究工具的信效度(1)項目分析\n\n第10週  相關性分析：(2)探索性因素分析；(3)內部一致性分析\n\nTextbook：Ch13\n\n作業三\n\n第11週  前實驗研究設計（pre-experimental design）\n\n真實驗研究設計（true-experimental design）\n\n準實驗研究設計（quasi-experimental design）\n\n第12週  差異性分析：(1)單因子變異數分析（含t檢定）；(2)多因子變異數分析I\n\n第13週  差異性分析：(2)多因子變異數分析II ；(3)單因子共變數分析\n\nTextbook：Ch3.1-4, Ch6, Ch7\n\n作業四\n\n第14週  差異性分析： (4)單因子多變項變異數分析\n\n作業五\n\n第15週  典型相關分析\n\nTextbook：Ch12\n\n第16週  區別分析\n\nTextbook：Ch9\n\n第17週  徑路分析\n\nTextbook：Ch14\n\n第18週  實務問題探討：REC、IRB、樣本數(sample size)、效果大小(effect size)、統計檢定力(power)、隨機分派、介入研究(interventional study)之時間與區間問題\n\n**Tabachnick, B. G. & Fidell, L. S. (2014). _Using Multivariate Statistics (6th ed.)._ Boston, MA: Allyn and Bacon.**",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "上課簡報"
+        },
+        {
+            "type": "實驗/實作",
+            "note": "電腦教室實作"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 50,
+            "note": "每一主題皆有作業"
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 20,
+            "note": "個案研討"
+        },
+        {
+            "type": "報告",
+            "weight": 30,
+            "note": "期末報告"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

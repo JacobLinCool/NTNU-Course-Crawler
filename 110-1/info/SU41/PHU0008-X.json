@@ -1,0 +1,66 @@
+{
+    "year": 110,
+    "term": 1,
+    "name": "熱物理學",
+    "teachers": [
+        "李沃龍"
+    ],
+    "department": "SU41",
+    "code": "PHU0008",
+    "credit": 3,
+    "serial": 2893,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 5,
+            "from": 2,
+            "to": 4,
+            "campus": "公館",
+            "classroom": "Ｓ602"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "2",
+    "classes": "2",
+    "dept_group": "",
+    "hours": 3,
+    "description": "探討自然界之各種熱物理現象。",
+    "goals": [
+        "瞭解與精通熱物理學",
+        "熱物理學理論之推演",
+        "培養學生獨立思考，解決問題的能力",
+        "將熱學專業知識應用於日常生活"
+    ],
+    "syllabus": "**【授課方式：16+2週】**\n\n第一週：導論/機率\n\n第二週：溫度與波茲曼因子\n\n第三週：熱與功\n\n第四週：熱力學第一定律\n\n第五週：熱力學過程\n\n第六週：熱機\n\n第七週：熱力學第二定律\n\n第八週：熵\n\n第九週：期中考\n\n第十週：熱力函數\n\n第十一週：馬克士威關係\n\n第十二週：自主學習\n\n第十三週：熱力學基本方程式之應用\n\n第十四週：真實氣體\n\n第十五週：自主學習\n\n第十六週：氣體冷卻機制\n\n第十七週：磁性系統與熱力學第三定律\n\n第十八週：期末考",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "以課本內容為主；補充參考資料與最新進展"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "期中考",
+            "weight": 35,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 35,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

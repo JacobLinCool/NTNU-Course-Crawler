@@ -1,0 +1,83 @@
+{
+    "year": 109,
+    "term": 2,
+    "name": "即時系統",
+    "teachers": [
+        "王超"
+    ],
+    "department": "SU47",
+    "code": "CSC9006",
+    "credit": 3,
+    "serial": 2975,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 4,
+            "from": 2,
+            "to": 4,
+            "campus": "公館",
+            "classroom": "Ｓ406"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "",
+    "classes": "9",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程介紹即時系統領域的重要原理、系統架構、以及當前的相關研究成果和應用，透過文獻研讀及專題實作，希望能引起學生對此領域的興趣，並在未來投入相關研究應用。",
+    "goals": [
+        "了解即時系統原理與分析",
+        "著重理論的整合與應用",
+        "熟悉當前相關研究的發展",
+        "運用相關之系統工具及平台"
+    ],
+    "syllabus": "1\\. Real-Time Scheduling: Theory and Practice\n\n2\\. Real-Time Operating Systems\n\n3\\. Distributed Real-Time Middleware\n\n4\\. Real-Time Edge Computing\n\n5\\. Real-Time Systems Engineering\n\n6\\. Real-Time Cyber-Physical Systems: Power and Energy Awareness\n\n7\\. Selective Topics from Real-Time Systems Research Literature \n\n完整課程內容將登載於課程網頁: https://wangc86.github.io/courses/",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": ""
+        },
+        {
+            "type": "問題解決教學",
+            "note": ""
+        },
+        {
+            "type": "實驗/實作",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 60,
+            "note": "Linux 程式實作及分析"
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 5,
+            "note": ""
+        },
+        {
+            "type": "出席",
+            "weight": 5,
+            "note": ""
+        },
+        {
+            "type": "報告",
+            "weight": 30,
+            "note": "研究論文探討"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

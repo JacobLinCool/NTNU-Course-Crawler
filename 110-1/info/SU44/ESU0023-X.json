@@ -1,0 +1,76 @@
+{
+    "year": 110,
+    "term": 1,
+    "name": "應用數學（一）",
+    "teachers": [
+        "陳賢修"
+    ],
+    "department": "SU44",
+    "code": "ESU0023",
+    "credit": 3,
+    "serial": 3029,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 2,
+            "to": 4,
+            "campus": "公館",
+            "classroom": "Ｓ602"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "2",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "教學目標:\n熟悉工程上所需的一些數學知識\n\n教材內容:\n1. linear algebra\n2. vector analysis\n3. First order ODEs \n4. Higher order Linear ODEs\n5. Systems of ODEs \n6. Laplace transform\n\n成績評量:\n作業、平常考、期中考和期末考各一次\n\n參考資料:\n1. P. V. O`neil: Advanced engineering mathematics; 7th edition\n2. E. Kreyszig;: Advanced engineering mathematics; \n3. D.G.Zill & M.R.Cullen : Advanced engineering mathematics;",
+    "goals": [
+        "熟悉工程上所需的一些數學知識"
+    ],
+    "syllabus": "【授課方式：16+2週】\n\n教學目標: 熟悉工程上所需的一些數學知識  \n教材內容:  \n1\\. First order ODEs  \n2\\. Higher order Linear ODEs  \n3\\. Systems of ODEs  \n4\\. Laplace transform  \n5\\. Linear Algebra",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": ""
+        },
+        {
+            "type": "問題解決教學",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 20,
+            "note": ""
+        },
+        {
+            "type": "期中考",
+            "weight": 35,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 35,
+            "note": ""
+        },
+        {
+            "type": "其他",
+            "weight": 10,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

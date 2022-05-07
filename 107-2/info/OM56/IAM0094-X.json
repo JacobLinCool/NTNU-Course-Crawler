@@ -1,0 +1,91 @@
+{
+    "year": 107,
+    "term": 2,
+    "name": "資料探勘",
+    "teachers": [
+        "何宗武"
+    ],
+    "department": "OM56",
+    "code": "IAM0094",
+    "credit": 3,
+    "serial": 2410,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 4,
+            "from": 2,
+            "to": 4,
+            "campus": "本部",
+            "classroom": "教室自排"
+        }
+    ],
+    "programs": [],
+    "comment": "教室:雲和街教學608室",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "隨著資訊科技的快速進步，使得資料儲存與傳遞更加低廉與便利，大幅改變我們的商業與生活形態，也因而累積了龐大的電子化資料，如何善用資料，轉化為企業決策的利器，遂成為現今企業能否取得競爭優勢的關鍵因素，故本課程將引導同學學習資料探勘相關的理論、軟體與應用。",
+    "goals": [
+        "能夠瞭解如何選擇正確的探勘模式",
+        "能夠解讀探勘結果並撰述分析報告",
+        "能夠從探勘結果提出輔助商業決策方案"
+    ],
+    "syllabus": " Topic  \n1  Introduction to Data Mining and datasets  \n2  Input: Concepts, instances, attributes  \n3  R Software  \n4  Linear models and generalized linear models  \n5  Advanced classification methods: tree models and SVM  \n6  Association rules and basket analysis  \n7  PCA and Clusters\n\n8  Project Presentation  \n9  Final Exam",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "理論與觀念講述"
+        },
+        {
+            "type": "討論法",
+            "note": "學術文獻討論"
+        },
+        {
+            "type": "合作學習",
+            "note": "團隊作業與報告"
+        },
+        {
+            "type": "實驗/實作",
+            "note": "軟體操作"
+        },
+        {
+            "type": "專題研究",
+            "note": "期末專題報告"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 25,
+            "note": ""
+        },
+        {
+            "type": "期中考",
+            "weight": 20,
+            "note": "瞭解學生基礎課程的吸收程度"
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 10,
+            "note": "啟發學生思考"
+        },
+        {
+            "type": "出席",
+            "weight": 5,
+            "note": "鼓勵學生參與課程"
+        },
+        {
+            "type": "報告",
+            "weight": 40,
+            "note": "學習成果展示"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

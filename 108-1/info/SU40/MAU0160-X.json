@@ -1,0 +1,76 @@
+{
+    "year": 108,
+    "term": 1,
+    "name": "線性代數（一）",
+    "teachers": [
+        "胡舉卿"
+    ],
+    "department": "SU40",
+    "code": "MAU0160",
+    "credit": 3,
+    "serial": 2825,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 3,
+            "to": 3,
+            "campus": "公館",
+            "classroom": "Ｃ006"
+        },
+        {
+            "day": 4,
+            "from": 3,
+            "to": 4,
+            "campus": "公館",
+            "classroom": "Ｃ006"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "1",
+    "classes": "3",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程讓學生瞭解邏輯、推理、歸納與論證的能力與線性代數的基本理論，以作為學生未來修習其他數學課程的基礎。",
+    "goals": [
+        "訓練學生掌握線性代數的基本理論",
+        "訓練學生可以用線性代數解決相關的數學問題",
+        "培養學生推理、論證的能力。"
+    ],
+    "syllabus": "1.      Vectors and Matrices\n\n1.1  Vectors, dot product (1 week)\n\n1.2  Hyperplanes in **R**^n (1 week)\n\n1.3  Gaussian elimination and the theory of systems of linear equations. (3 weeks).\n\n2.  Matrix Algebra\n\n   2.1 Matrix operations (1 week).\n\n2.2 Linear transformations (an introduction) (1.5 weeks).\n\n2.2  Elementary matrices, inverse matrices and the transpose (3.5 weeks)\n\n3.      Vector Spaces\n\n3.1.Subspaces of **R**^n (1 week).\n\n3.2.The four fundamental subspaces (2 weeks)\n\n3.3.Linear independence and basis (2 weeks),\n\n3.4.Dimension and its consequences (2 weeks).",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "期中考",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 40,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

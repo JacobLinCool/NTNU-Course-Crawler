@@ -1,0 +1,71 @@
+{
+    "year": 107,
+    "term": 2,
+    "name": "生物資訊相關演算法",
+    "teachers": [
+        "沈林琥"
+    ],
+    "department": "SU43",
+    "code": "BIC9014",
+    "credit": 3,
+    "serial": 2875,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 3,
+            "from": 10,
+            "to": 12,
+            "campus": "公館",
+            "classroom": "理圖807"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "",
+    "classes": "9",
+    "dept_group": "",
+    "hours": 3,
+    "description": "使同學認識生物資訊相關演算法，瞭解其中理論並應用，介紹生物資訊相關演算法的基礎知識",
+    "goals": [
+        "使同學認識生物資訊相關演算法，瞭解其中理論並應用，介紹生物資訊相關演算法的基礎知識"
+    ],
+    "syllabus": "**本課程深入淺出地介紹生物資訊相關的演算法，並教授Ｒ的使用及操作。**\n\n  \n \n\n*      Introduction of Bioinformatics Algorithms  \n    \n*      RMA  \n    \n*      GC-RMA  \n    \n*      MAS5  \n    \n*      Hierarchical Clustering  \n    \n*      Classification  \n    \n*      K mean  \n    \n*      KNN  \n    \n*      Artificial Neural Network  \n    \n*      Decision Tree  \n    \n*      Self-Organizing Map  \n    \n*      SOTA  \n    \n*      Genetic Algorithm  \n    \n*      SVM  \n    \n*      Machine Learning  \n    \n*      PCA  \n    \n*      MDS  \n    \n*      Ant algorithm  \n    \n*      Monte Carlo Method",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "實驗/實作",
+            "note": ""
+        },
+        {
+            "type": "媒體融入教學",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "期中考",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "出席",
+            "weight": 40,
+            "note": "出席/課堂表現/實習"
+        },
+        {
+            "type": "報告",
+            "weight": 30,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

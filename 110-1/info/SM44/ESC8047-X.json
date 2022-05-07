@@ -1,0 +1,86 @@
+{
+    "year": 110,
+    "term": 1,
+    "name": "理論地球物理學",
+    "teachers": [
+        "陳卉瑄"
+    ],
+    "department": "SM44",
+    "code": "ESC8047",
+    "credit": 3,
+    "serial": 2725,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 3,
+            "from": 2,
+            "to": 4,
+            "campus": "公館",
+            "classroom": "Ｃ403"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "",
+    "goals": [
+        "學生經由報告和討論，訓練自己獨立思考、理解地球物理現象的背後物理意義，並尋求和其他學科的結合。",
+        "經由分組英文口頭報告和書面報告，訓練學生溝通、合作、組織的技巧。",
+        "討論迷思問題，經由歷史地震的構造背景、地震學意義、和社會衝擊進行探究"
+    ],
+    "syllabus": "Lecture 1. Overview: Study of Earth Structures\n\nLecture 2. Overview: Earthquake Seismology\n\nLecture 3. Geodetic Overview GPS and Space-Based Geodetic Methods\n\nLecture 4. Steady State Overview\n\nLecture 5. Crust and lithospheric structure – Global crustal structure Natural source\n\nLecture 6. Fault Interaction, Earthquake Stress Changes and the Evolution of Seismicity Dynamic triggering\n\nLecture 7. Earth Tide\n\nLecture 8. Fracture and Frictional Mechanics\n\nLecture 9. Earthquake Museum of Taiwan\n\nLecture 10. Rate- and State-Dependent Friction\n\nLecture 11. Interaction of Solid Earth, Atmosphere and Ionosphere\n\nLecture 12. Episodic Aseismic Slip at Plate Boundaries\n\nLecture 13. Super volcano\n\nLecture 14. Complexity and Earthquakes\n\nLecture 15. Physical Processes that Control Strong Ground Motion\n\nLecture 16. Volcano Seismology\n\nLecture 17. Earthquake hydrology\n\nLecture 18. Final",
+    "methodologies": [
+        {
+            "type": "Formal lecture",
+            "note": "課程內容包括理論地球物理的科學知識介紹與技術應用，先由老師介紹該週課程之重要性與導讀，最後一堂由學生輪流口頭報告"
+        },
+        {
+            "type": "Group discussion",
+            "note": "導讀教科書章節，並提供案例讓學生討論、收集資料、報告"
+        },
+        {
+            "type": "Problem base learning",
+            "note": "增加課堂、課後及電腦實作時間，加深學習層次、有利問題之自發性與自我解決能力培養"
+        },
+        {
+            "type": "Cooperative learning",
+            "note": "學生人數若夠，會2-3人一組分組報告"
+        },
+        {
+            "type": "Media, audio, visual materials",
+            "note": "影片教學"
+        }
+    ],
+    "grading": [
+        {
+            "type": "Assignments",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "Midterm Exam",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "Final exam",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "Attendances",
+            "weight": 10,
+            "note": ""
+        }
+    ],
+    "prerequisite": "◎Available for junior and senior year B.A. program students (Doctoral program courses excepted) and M.A. program students.",
+    "general_core": []
+}

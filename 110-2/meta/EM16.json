@@ -1,0 +1,66 @@
+[
+    {
+        "year": 110,
+        "term": 2,
+        "name": "教育政策研究",
+        "teachers": [
+            "黃乃熒"
+        ],
+        "department": "EM16",
+        "code": "EPM0004",
+        "credit": 3,
+        "serial": 490,
+        "group": "",
+        "quota": {
+            "limit": 30,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 6,
+                "to": 8,
+                "campus": "本部",
+                "classroom": "教802"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎課程不開放上修",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 2,
+        "name": "學校經營與管理研究",
+        "teachers": [
+            "陳玉娟"
+        ],
+        "department": "EM16",
+        "code": "EPM0017",
+        "credit": 3,
+        "serial": 491,
+        "group": "",
+        "quota": {
+            "limit": 30,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 2,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "教803"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎課程不開放上修",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    }
+]

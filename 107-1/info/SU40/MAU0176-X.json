@@ -1,0 +1,60 @@
+{
+    "year": 107,
+    "term": 1,
+    "name": "代數學探索（一）",
+    "teachers": [
+        "洪有情"
+    ],
+    "department": "SU40",
+    "code": "MAU0176",
+    "credit": 1,
+    "serial": 2770,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 3,
+            "from": 7,
+            "to": 7,
+            "campus": "公館",
+            "classroom": "Ｃ003"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎必須先修過(也可以同時修)【MAU0166  代數學（一）】",
+    "form_s": "2",
+    "classes": "3",
+    "dept_group": "",
+    "hours": 1,
+    "description": "本課程之目的，在於讓學生親身經歷群、環、體等抽象代數解題的邏輯思維歷程，以達到對抽象代數概念和證明方法的熟練，進而應用解決相關問題。",
+    "goals": [
+        "讓學生親身學習如何使用抽象代數的語言和邏輯來解題",
+        "讓學生熟悉群、環、體等基本抽象代數概念和證明方法",
+        "應用抽象帶數解決相關數學問題"
+    ],
+    "syllabus": "每週習題研討",
+    "methodologies": [
+        {
+            "type": "討論法",
+            "note": "要求學生上台講解習題"
+        }
+    ],
+    "grading": [
+        {
+            "type": "課堂討論參與",
+            "weight": 80,
+            "note": "列入平時成績"
+        },
+        {
+            "type": "出席",
+            "weight": 20,
+            "note": "列入平時成績"
+        }
+    ],
+    "prerequisite": "◎必須先修過(也可以同時修)【MAU0166  代數學（一）】",
+    "general_core": []
+}

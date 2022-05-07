@@ -1,0 +1,86 @@
+{
+    "year": 110,
+    "term": 2,
+    "name": "人力資源管理",
+    "teachers": [
+        "歐宗霖"
+    ],
+    "department": "OU57",
+    "code": "BAU0023",
+    "credit": 3,
+    "serial": 2447,
+    "group": "",
+    "quota": {
+        "limit": 60,
+        "additional": 40
+    },
+    "schedule": [
+        {
+            "day": 4,
+            "from": 10,
+            "to": 12,
+            "campus": "本部",
+            "classroom": "教202會議廳"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎必須先修過【BAU0010  策略管理】 ◎課程開放上修",
+    "form_s": "3",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "人力資源的發展與管理，牽涉到工作設計、人才甄選、教育訓練、績效管理、政策法規與生涯規畫等廣泛議題。本課程作為一門簡介性的課程，目的在使同學們瞭解人力資源的基本概念與實務上的意義，進而將相關的知識加以整合，在未來的課程與職場經驗中，建立良好的基礎。",
+    "goals": [
+        "協助學生認識人力資源管理的基本概念，熟悉人力資源管理重要議題。",
+        "協助同學運用適當的工具與方法蒐集人資相關資料，以利進行議題分析與應用。",
+        "透過課程活動，協助學生發展問題解決與團隊合作的能力"
+    ],
+    "syllabus": "W1: 課程簡介 Introduction\n\nW2: 產業發展與人資趨勢 Trends of Industry & HumanResource Management\n\nW3: 人資概說 Concept of Human Resource Management\n\nW4: 工作分析與工作設計 Job analysis and design\n\nW5: 人力資源規劃與招募 Recruitment\n\nW6: 實作與專題activity D1 (彈性教學)\n\nW7: 員工甄選Selection\n\nW8: 訓練與發展Training\n\nW9: 期中考 Midterm Exam\n\nW10: 人資情境分析 Situational analysis of Human Resource Management\n\nW11: 績效管理Performance appraisal\n\nW12: 生涯發展Career development\n\nW13: 數位學習activity D2 (彈性教學)\n\nW14: 薪酬制度與福利行政Pay structure & Benefits\n\nW15: 勞資關係Collective Bargaining/Labor Relations\n\nW16: 人資法規與政策Policy and legal issues\n\nW17: 期末報告(1) Oral presentation(1)\n\nW18: 期末報告(2) Oral presentation(2)",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "解釋並說明人力資源管理的基本概念與相關學理知識。\nIntroducing the contents of textbook and relative materials"
+        },
+        {
+            "type": "討論法",
+            "note": "針對特定議題進行討論。鼓勵學生表達其想法，並對應於學理知識，突顯原理知識與真實產業經驗的關聯性。\nFocusing on the business case or incoming issue, students are invited into discussion and sharing opinions"
+        },
+        {
+            "type": "問題解決教學",
+            "note": "針對員工以及人資部門實際所遇到的企業情境進行解析，引導學生運用相關學理知識解決問題。\nIn the case study activity of situational analysis, students experience the practices of human resource department and apply HR knowledge to solve the problem."
+        },
+        {
+            "type": "合作學習",
+            "note": "透過團隊合作，集體討論，共同完成老師所指定的活動與任務，並從中學習相互合作共事的策略與技巧。\nCase study activity is processed in teamwork for learning in cooperation."
+        },
+        {
+            "type": "專題研究",
+            "note": "由授課老師指定特定的研究題材，實際進行議題研究與數據分析，藉以瞭解人資實務。\nBy doing project, students have to complete an independent project for interview the worker for understanding the impact of human resource practices on business activities."
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 20,
+            "note": "運用企業員工情境或人資情境框架，訪談產業實際工作者的真實經驗並摘要重要脈絡訊息完成個人作業。"
+        },
+        {
+            "type": "期中考",
+            "weight": 25,
+            "note": "檢視學生課堂知識吸收與概念學習的具體成果。"
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 20,
+            "note": "包括出缺席狀況（依校方規定執行出缺席考核），使用Moodle的狀況，個案討論，活動參與，提問與答問，學習態度，團隊合作表現等等。"
+        },
+        {
+            "type": "專題",
+            "weight": 35,
+            "note": "分組透過共識討論以聚焦人資議題，運用人資學理知識解析問題並提出解決方案，完成各組專題報告。"
+        }
+    ],
+    "prerequisite": "◎必須先修過【BAU0010  策略管理】",
+    "general_core": []
+}

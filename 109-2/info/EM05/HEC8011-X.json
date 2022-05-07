@@ -1,0 +1,90 @@
+{
+    "year": 109,
+    "term": 2,
+    "name": "衛生資料庫統計分析",
+    "teachers": [
+        "李子奇"
+    ],
+    "department": "EM05",
+    "code": "HEC8011",
+    "credit": 3,
+    "serial": 473,
+    "group": "",
+    "quota": {
+        "limit": 28,
+        "additional": 6
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 8,
+            "to": 10,
+            "campus": "本部",
+            "classroom": "教404"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "由於電腦科技的進步，近年來各領域研究資料正在迅速地電子化與巨量化，因而產生了許多大型的資料庫，當中儲存的大量訊息有賴適切的資料處理技術與統計方法加以分析；資料採礦(Data mining)與文字採礦(Text mining)這兩個新興的學門便應運而生。本課程即介紹利用SAS與R統計軟體針對大型衛生資料庫做資料採礦與文字採礦，並以衛生福利部統計處提供的「教學用模擬健保資料庫」做模擬演練。",
+    "goals": [
+        "熟悉SAS統計軟體資料處理技術",
+        "利用SAS統計軟體分析全民健保資料庫",
+        "利用Ｒ統計軟體進行文字採礦"
+    ],
+    "syllabus": "由於電腦科技的進步，近年來各領域研究資料正在迅速地電子化與巨量化，因而產生了許多大型的資料庫，當中儲存的大量訊息有賴適切的資料處理技術與統計方法加以分析；資料採礦(Data mining)這個新興的學門便應運而生。本課程即介紹利用SAS與R統計軟體對大型衛生資料庫做資料採礦。\n\n週次\n\n**課程內容****(****中文****)**\n\n**課程內容****(****英文****)**\n\n1\n\n全民健保資料庫簡介\n\nIntroduction of National Health Insurance Database\n\n2\n\n衛生資料庫研究論文研討（一）\n\nHealth database SCI/SSCI paper seminar I\n\n3\n\n衛生資料庫研究論文研討（二）\n\nHealth database SCI/SSCI paper seminar II\n\n4\n\n利用SAS進行資料處理簡介\n\nIntroduction of SAS data management\n\n5\n\nSAS巨集指令與陣列指令\n\nSAS macro and array statement\n\n6\n\nSAS 資料庫擷取指令～proc sql\n\nSAS ‘proc sql’ statement\n\n7\n\n利用SAS建置分析資料～模擬演練（一）\n\nPrepare analysis data by SAS-practice I\n\n8\n\n利用SAS建置分析資料～模擬演練（二）\n\nPrepare analysis data by SAS-practice II\n\n9\n\n期中考\n\nMid-term Examination\n\n10\n\nＲ統計軟體基礎資料處理\n\nIntroduction of R data management\n\n11\n\nＲ統計軟體應用在真實配對\n\nExact matching by R\n\n12\n\nSAS與Ｒ統計軟體應用在傾向分數配對\n\nPropensity score matching by SAS & R\n\n13\n\n世代研究模擬演練（一）\n\nCohort study practice I\n\n14\n\n世代研究模擬演練（二）\n\nCohort study practice II\n\n15\n\n病例對照研究模擬演練（一）\n\nCase-control study practice I\n\n16\n\n期末考\n\nFinal-term test\n\n17\n\n自主學習與問題討論\n\nSelf-learning, Q & A\n\n18\n\n自主學習與問題討論\n\nSelf-learning, Q & A\n\n自主學習:自行綜整研習本學期的課程, 遇有疑難問題, 洽老師討論研習 (網路教學或面對面教學)。",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": ""
+        },
+        {
+            "type": "問題解決教學",
+            "note": ""
+        },
+        {
+            "type": "合作學習",
+            "note": ""
+        },
+        {
+            "type": "實驗/實作",
+            "note": ""
+        },
+        {
+            "type": "專題研究",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 50,
+            "note": "個人回家作業"
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 10,
+            "note": "資料處理與軟體操作討論"
+        },
+        {
+            "type": "出席",
+            "weight": 10,
+            "note": ""
+        },
+        {
+            "type": "報告",
+            "weight": 30,
+            "note": "分組口頭報告文獻"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

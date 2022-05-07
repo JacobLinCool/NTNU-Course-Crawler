@@ -1,0 +1,80 @@
+{
+    "year": 109,
+    "term": 2,
+    "name": "游泳（二）",
+    "teachers": [
+        "梁嘉音"
+    ],
+    "department": "AU32",
+    "code": "FPU0154",
+    "credit": 1,
+    "serial": 141,
+    "group": "F",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 1,
+            "from": 1,
+            "to": 2,
+            "campus": "校外",
+            "classroom": "教室自排"
+        }
+    ],
+    "programs": [],
+    "comment": "授課地點：臺科大游泳池",
+    "restrict": "◎限女生修",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 2,
+    "description": "透過實際操作的方式，學習游泳的四種泳姿，同時，學習游泳的教學方法。",
+    "goals": [
+        "各式泳姿與水中自救課程學習",
+        "學習游泳教學教法"
+    ],
+    "syllabus": "  \n[教學進度與主題附件](https://ap.itc.ntnu.edu.tw/NtnuFileShare/file.do?action=dl&gno=23e8429479c94753b2a8459556bdce6e&fno=a2668b1557c640d7b22e18567963512e)",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "說明並示範課程中各種動作技能要領"
+        },
+        {
+            "type": "問題解決教學",
+            "note": ""
+        },
+        {
+            "type": "合作學習",
+            "note": "透過分組練習達到互助學習"
+        },
+        {
+            "type": "實驗/實作",
+            "note": "擔任水運會裁判工作，透過賽會進行達到實際操作機會"
+        },
+        {
+            "type": "媒體融入教學",
+            "note": "利用多媒體介紹和分析泳姿"
+        }
+    ],
+    "grading": [
+        {
+            "type": "期中考",
+            "weight": 40,
+            "note": "術科測驗：蛙式打水25M、蝶式打水25M"
+        },
+        {
+            "type": "期末考",
+            "weight": 40,
+            "note": "術科測驗：四式混合200M"
+        },
+        {
+            "type": "出席",
+            "weight": 20,
+            "note": "出缺席狀況與課外練習情形"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

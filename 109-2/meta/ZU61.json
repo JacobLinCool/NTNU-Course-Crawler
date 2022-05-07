@@ -1,0 +1,249 @@
+[
+    {
+        "year": 109,
+        "term": 2,
+        "name": "星星月亮太陽－天文漫談",
+        "teachers": [
+            "橋本康弘"
+        ],
+        "department": "GU",
+        "code": "06UG004",
+        "credit": 2,
+        "serial": 999,
+        "group": "",
+        "quota": {
+            "limit": 107,
+            "additional": 30
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 3,
+                "to": 4,
+                "campus": "公館",
+                "classroom": "Ｅ202"
+            }
+        ],
+        "programs": [
+            "天文重力學程"
+        ],
+        "comment": "",
+        "restrict": "◎地科系（學）不得選修",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 2,
+        "name": "宇宙中的生命與太空環境",
+        "teachers": [
+            "橋本康弘"
+        ],
+        "department": "GU",
+        "code": "06UG021",
+        "credit": 2,
+        "serial": 1010,
+        "group": "",
+        "quota": {
+            "limit": 97,
+            "additional": 60
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 6,
+                "to": 7,
+                "campus": "公館",
+                "classroom": "Ｅ102"
+            }
+        ],
+        "programs": [
+            "天文重力學程"
+        ],
+        "comment": "◎數位課程",
+        "restrict": "",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 2,
+        "name": "微分幾何（二）",
+        "teachers": [
+            "陳瑞堂"
+        ],
+        "department": "SU40",
+        "code": "MAU0107",
+        "credit": 3,
+        "serial": 2794,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 5,
+                "from": 7,
+                "to": 8,
+                "campus": "公館",
+                "classroom": "Ｂ103"
+            },
+            {
+                "day": 5,
+                "from": 9,
+                "to": 9,
+                "campus": "公館",
+                "classroom": "理圖807"
+            }
+        ],
+        "programs": [
+            "天文重力學程"
+        ],
+        "comment": "",
+        "restrict": "",
+        "form_s": "3",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 2,
+        "name": "流體力學",
+        "teachers": [
+            "卜宏毅"
+        ],
+        "department": "SU41",
+        "code": "PHU0060",
+        "credit": 3,
+        "serial": 2844,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 6,
+                "to": 8,
+                "campus": "公館",
+                "classroom": "Ｓ404"
+            }
+        ],
+        "programs": [
+            "天文重力學程"
+        ],
+        "comment": "",
+        "restrict": "",
+        "form_s": "3",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 2,
+        "name": "天文資訊學導論",
+        "teachers": [
+            "曾瑋玲",
+            "李悅寧"
+        ],
+        "department": "SU44",
+        "code": "ESU0221",
+        "credit": 3,
+        "serial": 2940,
+        "group": "",
+        "quota": {
+            "limit": 38,
+            "additional": 2
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 2,
+                "to": 4,
+                "campus": "公館",
+                "classroom": "理圖802"
+            }
+        ],
+        "programs": [
+            "天文重力學程"
+        ],
+        "comment": "中低階以上課程，適合大二以上學生修習，以作為中階課程銜接之先修課程。",
+        "restrict": "",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 2,
+        "name": "天文學（含實習）",
+        "teachers": [
+            "陳林文"
+        ],
+        "department": "SU44",
+        "code": "ESU0178",
+        "credit": 3,
+        "serial": 2958,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 7,
+                "to": 9,
+                "campus": "公館",
+                "classroom": "Ｅ301"
+            }
+        ],
+        "programs": [
+            "天文重力學程",
+            "太陽能源與工程學程"
+        ],
+        "comment": "",
+        "restrict": "",
+        "form_s": "1",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 2,
+        "name": "流體力學",
+        "teachers": [
+            "曾莉珊"
+        ],
+        "department": "SU44",
+        "code": "ESU0198",
+        "credit": 3,
+        "serial": 2962,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 5,
+                "from": 3,
+                "to": 5,
+                "campus": "公館",
+                "classroom": "Ｓ602"
+            }
+        ],
+        "programs": [
+            "天文重力學程"
+        ],
+        "comment": "需先修過大一的大氣科學概論、微積分及普通物理學後，才適合修習本門課程。",
+        "restrict": "◎必須先修過【ESU0179  大氣科學概論（含實習）】、【MAU0180  微積分乙（一）】、【MAU0181  微積分乙（二）】、【PHU0251  普通物理乙（一）】、【PHU0252  普通物理乙（二）】",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    }
+]

@@ -1,0 +1,86 @@
+{
+    "year": 110,
+    "term": 1,
+    "name": "應用統計方法（一）",
+    "teachers": [
+        "蔡碧紋"
+    ],
+    "department": "SU40",
+    "code": "MAU0062",
+    "credit": 3,
+    "serial": 2855,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 2,
+            "to": 4,
+            "campus": "公館",
+            "classroom": "Ｃ002"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "4",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "Applied Statistical Methods covers the fundamental understanding of statistical methods necessary to deal with a wide variety of practical problems.\n\n\n\nIntroduction  the importance of statistical analysis and data summarization\nThe fundamental principles of probability\nStatistical tests of hypotheses; point and interval estimation \nAnalysis of variance (ANOVA);  and analysis of covariance\nBlocked designs; \nFactorial design\nSimple and multiple Linear Regression(I)\nSimple and multiple Linear Regression(II)\nSimple and multiple Linear Regression(II)\nThe students are expected to use R for their homework and project.",
+    "goals": [
+        "能理解統計領域的相關理論",
+        "能應用統計領域的相關方法",
+        "能使用軟體進行統計分析"
+    ],
+    "syllabus": "Statistics is a branch of science that deals with the collection, organisation, analysis of data. It is about drawing of inferences from the samples to the whole population and to make decision.  An adequate knowledge of statistical methods is necessary for findings meaning conclusions. This course will try to acquaint students with the basic research tools that are useful while conducting various studies. The course covers exploratory data analysis,  an understanding of quantitative and qualitative variables, parametric and non-parametric tests used for data analysis, analysis of variance, linear regression, logistic regression and classification.\n\n1.  Exploratory Data Analysis:  quantitative and qualitative data\n2.  Sampling distributions\n3.  Statistical Experiments and Significance Testing\n4.  Analysis of Variance\n5.  A/B test \n6.  Simpel and Multiple Linear Regression and Analysis of Covariance\n7.  Model selections and Cross Validation\n8.   Logistic regression and Classification\n\nThe students are expected to use R or Python for their homework and project.",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "講述統計的相關理論、方法與應用。"
+        },
+        {
+            "type": "討論法",
+            "note": "透過課堂討論協助學生了解與應用所學相關知識與技能。"
+        },
+        {
+            "type": "合作學習",
+            "note": "提供學生合作學習的機會以完成小組分組作業及報告。"
+        },
+        {
+            "type": "媒體融入教學",
+            "note": "運用統計分析軟體輔助學習並提升學生的學習動機。"
+        },
+        {
+            "type": "專題研究",
+            "note": "運用實際分析資料與報告，讓學生應用所學到的相關統計分析方法解決問題。"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "期中考",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 15,
+            "note": ""
+        },
+        {
+            "type": "報告",
+            "weight": 25,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

@@ -1,0 +1,74 @@
+{
+    "year": 109,
+    "term": 2,
+    "name": "類神經網路",
+    "teachers": [
+        "葉梅珍"
+    ],
+    "department": "SM47",
+    "code": "CSC0032",
+    "credit": 3,
+    "serial": 2726,
+    "group": "",
+    "quota": {
+        "limit": 70,
+        "additional": 15
+    },
+    "schedule": [
+        {
+            "day": 3,
+            "from": 2,
+            "to": 4,
+            "campus": "公館",
+            "classroom": "Ｂ102"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "Advanced study on Artificial Neural Networks (ANN), focusing on understanding biological nervous systems and developing computational techniques for ANN, this course covers a wide \nrange of research problems encountered within ANN and provides detailed algorithmic and theoretical treatments for each. 本課程主要介紹類神經網路相關處理技術。這門課程廣泛的探討與類神經網路有關的研究問題，並為這些問題提供了詳細的演算法和理論分析。",
+    "goals": [
+        "Understand biological nervous systems",
+        "Imitate biological nervous systems",
+        "Build theoretical concepts of artificial neural networks (ANN)",
+        "Implement computational techniques of ANN"
+    ],
+    "syllabus": "This course offers lectures for the design of neural network models, with emphases on system developments. Students will be introduced to principles and current technologies of deep learning and gain hands-on experiences in this field.\n\n\\[Temporary topics and class schedule\\]\n\n1. Introduction\n\n2. Fully connected Neural Networks\n\n3. Convolutional Neural Networks\n\n4. Recurrent Neural Networks\n\n5. Learning Strategies\n\n6\\. Unsupervised and Self-supervised Models\n\n7. Generative Adversarial Networks \n\n8\\. Transfer Learning Models\n\nProject Presentations",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": ""
+        },
+        {
+            "type": "專題研究",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "出席",
+            "weight": 10,
+            "note": ""
+        },
+        {
+            "type": "報告",
+            "weight": 30,
+            "note": "論文格式"
+        },
+        {
+            "type": "專題",
+            "weight": 60,
+            "note": "三個以上projects"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

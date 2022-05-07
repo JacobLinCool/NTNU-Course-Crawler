@@ -1,0 +1,74 @@
+{
+    "year": 110,
+    "term": 2,
+    "name": "類神經網路",
+    "teachers": [
+        "葉梅珍"
+    ],
+    "department": "SM47",
+    "code": "CSC0032",
+    "credit": 3,
+    "serial": 2697,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 31
+    },
+    "schedule": [
+        {
+            "day": 3,
+            "from": 2,
+            "to": 4,
+            "campus": "公館",
+            "classroom": "Ｂ101"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "",
+    "goals": [
+        "Understand biological nervous systems",
+        "Imitate biological nervous systems",
+        "Build theoretical concepts of artificial neural networks (ANN)",
+        "Implement computational techniques of ANN"
+    ],
+    "syllabus": "This course offers lectures for the design of neural network models, with emphases on system developments. Students will be introduced to principles and current technologies of deep learning and gain hands-on experiences in this field.\n\n\\[Temporary topics and class schedule\\]\n\n1. Introduction\n\n2. Fully connected Neural Networks\n\n3. Convolutional Neural Networks\n\n4. Recurrent Neural Networks\n\n5. Learning Strategies\n\n6\\. Unsupervised and Self-supervised Models\n\n7. Generative Adversarial Networks \n\n8\\. Transfer Learning Models\n\nProject Presentations",
+    "methodologies": [
+        {
+            "type": "Formal lecture",
+            "note": ""
+        },
+        {
+            "type": "Group discussion",
+            "note": ""
+        },
+        {
+            "type": "Case studies",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "Attendances",
+            "weight": 10,
+            "note": ""
+        },
+        {
+            "type": "Presentation",
+            "weight": 30,
+            "note": "Formal technical reports (can be submitted for publication)"
+        },
+        {
+            "type": "Case study reports",
+            "weight": 60,
+            "note": "More than three project assignments"
+        }
+    ],
+    "prerequisite": "◎Available for junior and senior year B.A. program students (Doctoral program courses excepted) and M.A. program students.",
+    "general_core": []
+}

@@ -1,0 +1,68 @@
+{
+    "year": 110,
+    "term": 1,
+    "name": "高等數學物理",
+    "teachers": [
+        "張嘉泓"
+    ],
+    "department": "SM41",
+    "code": "PHC8015",
+    "credit": 3,
+    "serial": 2685,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 6,
+            "to": 8,
+            "campus": "公館",
+            "classroom": "Ｓ301"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "",
+    "goals": [
+        "認識高等數學與理論物理之間的關聯，以及前者對後者之應用。",
+        "熟悉圖解法之威力與妙用。"
+    ],
+    "syllabus": "This course will be given in English this year.\n\nIt is to provide a review of the technique necessary for starting a research in particle physics.\n\nA familiarity with Quantum Field Theory is required. \n\nThe topics we will cover consist of:\n\n1\\. Gauge field theory \n\n2\\. Spontaneously Broken Symmetry\n\n3\\. Higgs Mechanism\n\n4\\. Standard Model\n\n5\\. Neutrino Masses\n\n6\\. Dark Matter\n\n7\\. Extra Dimension\n\n8\\. Supersymmetry",
+    "methodologies": [
+        {
+            "type": "Formal lecture",
+            "note": ""
+        },
+        {
+            "type": "Other:",
+            "note": "隨堂演習"
+        }
+    ],
+    "grading": [
+        {
+            "type": "Assignments",
+            "weight": 20,
+            "note": "百分比可能微調"
+        },
+        {
+            "type": "Final exam",
+            "weight": 70,
+            "note": "出席率過低可能喪失期末考資格"
+        },
+        {
+            "type": "other:",
+            "weight": 10,
+            "note": "隨堂演習(百分比可能微調)"
+        }
+    ],
+    "prerequisite": "◎Available for junior and senior year B.A. program students (Doctoral program courses excepted) and M.A. program students.",
+    "general_core": []
+}

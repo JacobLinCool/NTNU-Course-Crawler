@@ -1,0 +1,91 @@
+{
+    "year": 109,
+    "term": 1,
+    "name": "多媒體教材設計與製作",
+    "teachers": [
+        "丁玉良"
+    ],
+    "department": "HU71",
+    "code": "ITU2053",
+    "credit": 3,
+    "serial": 1281,
+    "group": "",
+    "quota": {
+        "limit": 30,
+        "additional": 28
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 2,
+            "to": 4,
+            "campus": "本部",
+            "classroom": "科401"
+        }
+    ],
+    "programs": [],
+    "comment": "學習與科技組優先選課",
+    "restrict": "◎限大三大四修習",
+    "form_s": "3",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程將探討數位學習教學策略與多媒體教材設計原則，應用各類多媒體技術及工具與軟體製作多媒體教材。課程內容包括課堂理論講解與討論、相關應用教材說明、及數位教材的設計與製作。學期中及期末需繳交多媒體教材設計成品。",
+    "goals": [
+        "認識規劃與製作多媒體教材的流程",
+        "知道如何撰寫多媒體教材設計腳本",
+        "學會製作多媒體教材的技巧",
+        "能夠上傳多媒體教材至網路伺服器"
+    ],
+    "syllabus": "第1週 課程介紹 & digital literacy\n\n第2週 學習理論 & 知識分類 & 認知負荷\n\n第3週 學習與認知工具(Iiyoshi & Hannafin Cognitive model of knowledge construction)\n\n第4週 學習與認知工具 (Annotation tool) & 範例說明作業\n\n第5週 學習與多媒體設計 (Mayer Cognitive model for multimedia learning & Ainsworth The functions of multiple representations)\n\n第6週 學習與多媒體設計範例說明 (enforcement for visualization)\n\n第7週 學習與多媒體設計範例說明 (blogging and social presence)\n\n第8週 學習與多媒體設計範例說明&製作練習 (task-based self-creating photos)\n\n第9週 2D多媒體教材製作與討論  \n\n第10週 2D多媒體教材成果報告\n\n第11週 多媒體與遊戲學習\n\n第12週 多媒體行動學習(一) Virtual reality, Mixed reality, and augmented reality\n\n第13週 多媒體行動學習(二)\n\n第14週 網路學習系統介紹(一)\n\n第15週 網路學習系統介紹(二)\n\n第16週 Moodle & SCORM 簡介\n\n第17週 3D多媒體教材設計與構想\n\n第18週 3D多媒體教材模擬成果發表",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "講述多媒體教材設計與製作的概念。"
+        },
+        {
+            "type": "討論法",
+            "note": "討論重要議題，分為全班討論與小組討論。"
+        },
+        {
+            "type": "合作學習",
+            "note": "全班分組於上半學期完成2D多媒體教材製作），下半學期需完成3D多媒體教材的構想（含計畫書及模擬製作歷程）。"
+        },
+        {
+            "type": "媒體融入教學",
+            "note": "本課程將利用Moodle教學平台輔助教學。"
+        },
+        {
+            "type": "專題研究",
+            "note": "專題製作：透過教師引導，進行分組多媒體教材的企畫與製作。"
+        },
+        {
+            "type": "其他",
+            "note": "上課內容將會依實際上課進度之情況而作調整。"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 20,
+            "note": "課堂作業：課堂個人作業。"
+        },
+        {
+            "type": "期中考",
+            "weight": 40,
+            "note": "期中報告：多媒體教材製作(20%)、多媒體技術與學習理論說明(20%)。"
+        },
+        {
+            "type": "期末考",
+            "weight": 30,
+            "note": "期末成果：含構想計畫書及模擬製作歷程報告。"
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 10,
+            "note": "含上課出席情形。"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

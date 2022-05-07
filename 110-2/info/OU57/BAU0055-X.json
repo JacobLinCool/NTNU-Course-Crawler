@@ -1,0 +1,74 @@
+{
+    "year": 110,
+    "term": 2,
+    "name": "衍生性金融商品",
+    "teachers": [
+        "蔡蒔銓"
+    ],
+    "department": "OU57",
+    "code": "BAU0055",
+    "credit": 3,
+    "serial": 2431,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 1,
+            "from": 6,
+            "to": 8,
+            "campus": "本部",
+            "classroom": "誠207"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎必須先修過【BAU0007  財務管理】 ◎課程開放上修",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "隨著近年來金融商品的多元化，國內衍生性金融商品交易更加蓬勃發展，特別地期貨與選擇權部分，更受投資人重視。因此，學生有必要對期貨與選擇權有所認識，本課程介紹期貨與選擇權種類、訂價、評價，以及利用期貨與選擇權進行避險或套利行為。本課程主要教學目標在於訓練學生：\n\n1.瞭解選擇權種類與其訂價\n2.瞭解期貨種類與其訂價\n3.瞭解個人及企業如何運用期貨與選擇權進行避險\n4.瞭解期貨與選擇權交易實務",
+    "goals": [
+        "瞭解選擇權種類與其訂價",
+        "瞭解期貨種類與其訂價",
+        "瞭解個人及企業如何運用期貨與選擇權進行避險",
+        "瞭解期貨與選擇權交易實務"
+    ],
+    "syllabus": "1.      Introduction\n\n2.      Futures Markets\n\n3.      Futures Prices\n\n4.      Guest Speaker\n\n5.      Forward and Futures Prices\n\n6.      Interest Rate Futures\n\n7.      Options Markets\n\n8.      Guest Speaker\n\n9.      Properties of Stock Options\n\n10.    Option Payoffs and Option Strategies\n\n11.    Guest Speaker\n\n12.    Bounds on Option Prices\n\n13.    European Option Pricing\n\n14.    The Greek Letters\n\n15.    Guest Speaker\n\n16.    Final Exam",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "課堂授課、文獻導讀"
+        },
+        {
+            "type": "合作學習",
+            "note": "分組討論"
+        },
+        {
+            "type": "專題研究",
+            "note": "專題報告"
+        }
+    ],
+    "grading": [
+        {
+            "type": "期末考",
+            "weight": 40,
+            "note": ""
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 20,
+            "note": ""
+        },
+        {
+            "type": "專題",
+            "weight": 40,
+            "note": "Trading training on the TAIFEX platform, Trading competition"
+        }
+    ],
+    "prerequisite": "◎必須先修過【BAU0007  財務管理】",
+    "general_core": []
+}

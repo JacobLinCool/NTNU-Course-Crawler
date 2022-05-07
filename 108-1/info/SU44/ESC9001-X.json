@@ -1,0 +1,86 @@
+{
+    "year": 108,
+    "term": 1,
+    "name": "地球科學資料處理",
+    "teachers": [
+        "林佩瑩"
+    ],
+    "department": "SU44",
+    "code": "ESC9001",
+    "credit": 3,
+    "serial": 3015,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 2,
+            "to": 4,
+            "campus": "公館",
+            "classroom": "Ｃ409"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎限大三大四 ◎限碩一碩二碩三以上修習",
+    "form_s": "",
+    "classes": "9",
+    "dept_group": "",
+    "hours": 3,
+    "description": "基礎地球科學資料類型、格式與資料處理介紹，並教導程式工具、數值方法以及成果呈現，可以運用在地球物理或其他的數據資料。",
+    "goals": [
+        "地球科學數據彙整與處理基本概念",
+        "基本程式撰寫與成果呈現",
+        "資料統計基礎概念"
+    ],
+    "syllabus": "第01週：課程介紹、資料類型介紹\n\n第02週：資料彙整觀念與地球科學相關資料庫介紹\n\n第03週：資料處理軟體特色與功用介紹\n\n第04週：軟體工具教學(I): C Shell, awk\n\n第05週：軟體工具教學(II): GMT\n\n第06週：軟體工具教學(III): GMT\n\n第07週：軟體工具教學(IV): GMT\n\n第08週：軟體工具教學(V): python\n\n第09週：統計觀念方法介紹\n\n第10週：軟體工具教學(VI): python\n\n第11週：數值方法介紹\n\n第12週：軟體工具教學(VII): python\n\n第13週：地震資料類型格式與時間序列資料分析介紹\n\n第14週：軟體工具教學(VIII): obspy\n\n第15週：軟體工具教學(IX): obspy\n\n第16週：實作報告討論\n\n第17週：實作報告討論\n\n第18週：實作報告討論\n\nWeak1: Course introduction, introduction on data types\n\nWeak2: Introduction on data formats and common scientific data center.\n\nWeak3: Overview various computing tools and shell languages\n\nWeak4: Introduction on C-shell awk\n\nWeak5: Introduction on GMT\n\nWeak6: GMT programing\n\nWeak7: GMT programing and visualization\n\nWeak8: Introduction on python\n\nWeak9: Basic concepts and applications of statistical data analysis\n\nWeak10: python programing\n\nWeak11: Basic concepts and applications of data regression\n\nWeak12: Python programing\n\nWeak13: Introduction on formats of seismic data, basic time series analysis\n\nWeak14: Obspy programing\n\nWeak15: Obspy programing\n\nWeak16: Final data analysis project report and discussion\n\nWeak17: Final data analysis project report and discussion\n\nWeak18: Final data analysis project report and discussion",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "課堂講述基本原理\nLecture the fundamental knowledge"
+        },
+        {
+            "type": "問題解決教學",
+            "note": "排除程式錯誤"
+        },
+        {
+            "type": "合作學習",
+            "note": "分組互相討論\nStudent groups discussion and debugs"
+        },
+        {
+            "type": "實驗/實作",
+            "note": "程式撰寫\nPrograming"
+        },
+        {
+            "type": "專題研究",
+            "note": "期末專題"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 50,
+            "note": ""
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 10,
+            "note": ""
+        },
+        {
+            "type": "出席",
+            "weight": 20,
+            "note": "不定期隨堂小考"
+        },
+        {
+            "type": "報告",
+            "weight": 20,
+            "note": "Term projects report"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

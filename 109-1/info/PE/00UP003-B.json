@@ -1,0 +1,72 @@
+{
+    "year": 109,
+    "term": 1,
+    "name": "特別班體育",
+    "teachers": [
+        "卓俊伶",
+        "闕月清"
+    ],
+    "department": "PE",
+    "code": "00UP003",
+    "credit": 1,
+    "serial": 2538,
+    "group": "B",
+    "quota": {
+        "limit": 50,
+        "additional": 5
+    },
+    "schedule": [
+        {
+            "day": 5,
+            "from": 8,
+            "to": 9,
+            "campus": "本部",
+            "classroom": "小韻律教室"
+        }
+    ],
+    "programs": [],
+    "comment": "因傷病等因素無法上一般體育課之學生，請於開學一周內至健康中心辦理特別體育班申請手續。",
+    "restrict": "◎第一階段需人工加選◎第二階段需人工加選◎加退選階段需人工加選",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 2,
+    "description": "1.加強肌力訓練之重要性。 \n2.培養水中控制能力，享受游泳運動樂趣。",
+    "goals": [
+        "加強肌力訓練之重要性。",
+        "培養水中控制能力，享受游泳運動樂趣。"
+    ],
+    "syllabus": "  \n[教學進度與主題附件](https://ap.itc.ntnu.edu.tw/NtnuFileShare/file.do?action=dl&gno=a29ce36a08f448aab7246fa7c329ed71&fno=132ac48bba9b4d05a2315d1df8f64023)",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "課程及器材之介紹"
+        },
+        {
+            "type": "討論法",
+            "note": "肌力之重要性"
+        },
+        {
+            "type": "問題解決教學",
+            "note": ""
+        },
+        {
+            "type": "合作學習",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "出席",
+            "weight": 50,
+            "note": ""
+        },
+        {
+            "type": "報告",
+            "weight": 50,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

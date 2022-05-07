@@ -1,0 +1,85 @@
+{
+    "year": 109,
+    "term": 2,
+    "name": "語意學",
+    "teachers": [
+        "李臻儀"
+    ],
+    "department": "LM21",
+    "code": "ENM2021",
+    "credit": 3,
+    "serial": 1592,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 3,
+            "from": 2,
+            "to": 4,
+            "campus": "本部",
+            "classroom": "雲201"
+        }
+    ],
+    "programs": [],
+    "comment": "教室位於雲和街大樓2樓（地址：雲和街1號），外校學生需申請門禁權限。",
+    "restrict": "◎課程不開放上修",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "B",
+    "hours": 3,
+    "description": "To let students have basic understanding of formal semantics and other areas of semantics.",
+    "goals": [
+        "To let students have basic understanding of formal semantics and other areas of semantics."
+    ],
+    "syllabus": "**Course Description**\n\nThis course aims to give students fundamental ideas of formal semantics.Studies in areas such as lexical semantics, aspect, tense, modality, and framesemantics will also be discussed.\n\n**Requirements and Evaluation**    \n\nPresentation           20%\n\nTerm paper              30%\n\ntests                      40%\n\nAttendance, Participation, etc.   10%\n\n**Schedule**                                                                        \n\nWeek 1    Introduction\n\nWeek 2    Kearns Ch. 1: Introduction;\n\nWeek 3     Lehrer1992: Names and Naming: Why We Need Fields and Frames\n\nWeek 4    Heine & Narrog Ch.18: Natural Semantic Metalanguage (pp.459-468) & Tai 1994: Chineseclassifier systems and      human categorization\n\nWeek 5  Kearns Ch.2: First Order Logic\n\nWeek 6 Kearns Ch.3 Modality and Possible Worlds\n\nWeek 7  Li Ch. 2.1-2.4.1: Typologyand Modality (pp.12-19)\n\nWeek 8  Test 1\n\nWeek 9   Kearns ch.7: Tense and Aspect\n\nWeek 10  Kearns Ch.9: Aspectual Classes of Events\n\nWeek 11 Smith Ch.11 The Aspectual System of Mandarin Chinese\n\nWeek 12 Saeed Ch.11: Cognitive Semantics   (Term paper outline due)\n\nWeek 13   Kearns Ch.10 Thematic Roles Reviewed \n\nWeek 14 Kearns Ch.4: Negative Polarity items \n\nWeek 15 Test 2\n\nWeek 16 **Term paper presentation**\n\nWeek 17  term paper writing\n\nWeek 18    term paper writing\n\n**June 30      Term paper due**",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": ""
+        },
+        {
+            "type": "問題解決教學",
+            "note": ""
+        },
+        {
+            "type": "合作學習",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "期中考",
+            "weight": 20,
+            "note": "midterm exam"
+        },
+        {
+            "type": "期末考",
+            "weight": 20,
+            "note": "Final exam"
+        },
+        {
+            "type": "出席",
+            "weight": 10,
+            "note": "Attendance, Participation, etc."
+        },
+        {
+            "type": "報告",
+            "weight": 20,
+            "note": "Presentation"
+        },
+        {
+            "type": "其他",
+            "weight": 30,
+            "note": "Term paper"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

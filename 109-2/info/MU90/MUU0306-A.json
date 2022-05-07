@@ -1,0 +1,91 @@
+{
+    "year": 109,
+    "term": 2,
+    "name": "合唱（二）",
+    "teachers": [
+        "陳麗芬"
+    ],
+    "department": "MU90",
+    "code": "MUU0306",
+    "credit": 1,
+    "serial": 2210,
+    "group": "A",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 1,
+            "from": 9,
+            "to": 10,
+            "campus": "本部",
+            "classroom": "音308"
+        },
+        {
+            "day": 5,
+            "from": 9,
+            "to": 10,
+            "campus": "本部",
+            "classroom": "音308"
+        }
+    ],
+    "programs": [
+        "音樂輔教學程"
+    ],
+    "comment": "",
+    "restrict": "允許重複修",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 4,
+    "description": "1.學習前人與現代作曲家的合唱作品，經合唱的基本訓練發展演唱技巧。\n2.研究合唱作品的內容及其創作意圖、構思、時代背景、歌詞意義等，讓藝術再現。\n3.指導學生認識合唱團的組織與領導，在群體中發出最有效的作用，展現學習成果。",
+    "goals": [
+        "合唱技巧與知識之學習",
+        "合唱教材教法之學習",
+        "合唱團之組織與領導"
+    ],
+    "syllabus": "1.合唱發聲法，音樂詮釋，基礎指揮法及合唱伴奏技巧。\n\n2.西方現代經典混聲合唱曲，台灣當代混聲合唱曲。\n\n3.合唱演唱會及實習。",
+    "methodologies": [
+        {
+            "type": "問題解決教學",
+            "note": ""
+        },
+        {
+            "type": "合作學習",
+            "note": ""
+        },
+        {
+            "type": "實驗/實作",
+            "note": ""
+        },
+        {
+            "type": "媒體融入教學",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "期中考",
+            "weight": 20,
+            "note": "小組重唱"
+        },
+        {
+            "type": "期末考",
+            "weight": 20,
+            "note": "小組合唱"
+        },
+        {
+            "type": "出席",
+            "weight": 40,
+            "note": "課堂出席"
+        },
+        {
+            "type": "成果展覽",
+            "weight": 20,
+            "note": "期末合唱音樂會整體表現"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

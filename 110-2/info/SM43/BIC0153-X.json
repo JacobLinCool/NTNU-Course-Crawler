@@ -1,0 +1,83 @@
+{
+    "year": 110,
+    "term": 2,
+    "name": "迴歸分析",
+    "teachers": [
+        "許鈺鸚"
+    ],
+    "department": "SM43",
+    "code": "BIC0153",
+    "credit": 3,
+    "serial": 2650,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 3,
+            "from": 7,
+            "to": 9,
+            "campus": "公館",
+            "classroom": "Ｃ302"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程不開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "This is a graduate level course designed for students that have taken at least one introductory statistics. Students will learn both linear and logistic regression models. Practical examples and homework exercises will be used to help students understand and master these methods and gain hand-on experiences.",
+    "goals": [
+        "瞭解何種實驗數據適合使用線性或邏輯迴歸進行分析並能正確的使用這些統計方法",
+        "能針對其研究主題進行設計實驗並有能力正確的驗證其研究假說",
+        "具解釋實驗目的、方法、統計分析與結論給同儕聽眾瞭解的能力"
+    ],
+    "syllabus": "1.  Course Introduction \n\n2.  Simple Linear Regression I\n\n3.  Simple Linear Regression II\n\n4.  Multiple Liner Regression I\n\n5.  Multiple Linear Regression II: Polynomial Regression Models\n\n6.  Multiple Linear Regression III: Qualitative predictor variables\n\n7.  Multiple Linear Regression IV: Model Selection\n\n8.  Midterm exam\n\n9.  Multiple Linear Regression V: Regression Diagnostics and Remedial Measures\n\n10.Logistic Regression I\n\n11.Logistic Regression II\n\n12.Logistic Regression III\n\n13.Logistic Regression IV: Multinomial Logistic Regression\n\n14.Logistic Regression V: Ordinal Logistic Regression\n\n15.Logistic Regression VI: Diagnostics for Logistic Regression\n\n16.Project Presentation 1-Linear Regression\n\n17.Project Presentation 2-Logistic Regression\n\n18.Final Exam",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "使用課本、自編講義媒材授課"
+        },
+        {
+            "type": "實驗/實作",
+            "note": "讓學生使用實驗室數據進行資料分析"
+        },
+        {
+            "type": "媒體融入教學",
+            "note": "運用數位平台與自製簡報檔案教學"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 10,
+            "note": "計算題（3-1）"
+        },
+        {
+            "type": "期中考",
+            "weight": 30,
+            "note": "計算題（3-1）"
+        },
+        {
+            "type": "期末考",
+            "weight": 30,
+            "note": "計算題（3-1）"
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 10,
+            "note": "計算題（3-1）"
+        },
+        {
+            "type": "報告",
+            "weight": 20,
+            "note": "口頭報告（3-1 & 4-1）"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

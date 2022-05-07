@@ -1,0 +1,73 @@
+{
+    "year": 109,
+    "term": 1,
+    "name": "光電電磁學",
+    "teachers": [
+        "蕭惠心"
+    ],
+    "department": "HM77",
+    "code": "OEC8162",
+    "credit": 3,
+    "serial": 1230,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 7,
+            "to": 9,
+            "campus": "公館",
+            "classroom": "理圖002"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "從電磁學出發，介紹光電領域裡有關的物理觀念及元件概念，並就行進波、波導、光電、磁光與聲光議題之元件發展與應用作介紹。",
+    "goals": [
+        "從電磁學出發，介紹光電領域裡有關的物理觀念及元件概 念，並就行進波、波導、光電、磁光與聲光議題之元件發展與 應用作介紹。"
+    ],
+    "syllabus": "從電磁學的基本理論出發，了解光電科學基本知識如波動光學、 表面電漿子學、半導體光電以及雷射光學等的基本原理與特性\n\n教材內容:\n\nWave Optics\n\n1.1 Maxwell’s Equations\n\n1.2 Monochromatic Waves\n\n1.3 Polarization of Light\n\n1.4 Reflection and Refraction\n\n1.5 Material dispersion Interference andDiffraction\n\n2.1 Multi-layer interference\n\n2.2 Grating DiffractionPlasmonics\n\n3.1 Surface Plasmon Polaritons\n\n3.2 Localized Surface Plasmons\n\n3.3 Plasmonic devices and applications\n\nSemiconductor Optics\n\n4.1 Optical constants in Semiconductors\n\n4.2 Interactions of Photons with Charge Carriers\n\n4.3 Lattice Vibration (Phonons)\n\nLaser optics\n\n5.1 Material for light amplification: Populationinversion\n\n5.2 Design of laser cavity\n\n5.3 Types of lasers",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "本課程主要以板書教授為主,投影片為輔,搭配參考書目內容,幫助學生學習。"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 15,
+            "note": ""
+        },
+        {
+            "type": "期中考",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 25,
+            "note": ""
+        },
+        {
+            "type": "出席",
+            "weight": 5,
+            "note": ""
+        },
+        {
+            "type": "報告",
+            "weight": 25,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

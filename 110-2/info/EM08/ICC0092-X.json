@@ -1,0 +1,86 @@
+{
+    "year": 110,
+    "term": 2,
+    "name": "資訊科技創新推廣",
+    "teachers": [
+        "陳明溥"
+    ],
+    "department": "EM08",
+    "code": "ICC0092",
+    "credit": 3,
+    "serial": 468,
+    "group": "",
+    "quota": {
+        "limit": 30,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 7,
+            "to": 9,
+            "campus": "本部",
+            "classroom": "教1011"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "The goal of this course is to examine the change process of technological innovations in schools and our society. A basic premise is that “planning” for change and “facilitating” the process can be done to a great degree. This course will be organized around two major paradigms: (1) the diffusion of innovations (DoI) perspective and (2) the concerns-based adoptions model (CBAM) perspective.",
+    "goals": [
+        "了解資訊科技融入教學的理論與實務",
+        "了解資訊科技融入教學的實施策略並評量其成效",
+        "說明數位學習之評量法與重點",
+        "應用數位學習專案管理方法進行學習管理",
+        "積極主動提供推動組織內、外數位學習之資訊",
+        "認同及肯定資訊科技應用於教學之效益"
+    ],
+    "syllabus": "Course Schedule:  \n1\\. Introduction to Diffusion of Innovations  \n2\\. What is Diffusion?  \n3\\. Elements of Diffusion  \n4\\. Diffusion Research  \n5\\. The Generation of Innovations  \n6. The Innovation-decision Process  \n7\\. Attributes of Innovation  \n8\\. Diffusion Networks  \n9\\. The Change Agent  \n10\\. Innovation in Organizations  \n11\\. The Concern-based Approach  \n12\\. Stages of Concern  \n13\\. Levels of Use  \n14\\. Innovation Configuration  \n15\\. Technology Acceptance Model",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "Students are required to present the diffusion theory bases, design, and implementation. Reflection Journal: Students are required to keep reflection journal for each course meeting."
+        },
+        {
+            "type": "討論法",
+            "note": "Presentations: Students are required to present the assigned readings on the diffusion theory bases, design, and implementation.  Discussion & Critiques: Students are required to discuss and critique the diffusion theory bases, design, and implementation of the required reading."
+        },
+        {
+            "type": "專題研究",
+            "note": "Case Study: Students are required to present cases of innovation diffusion research."
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 20,
+            "note": "Reflection Journal: Students are required to keep reflection journal for each course meeting."
+        },
+        {
+            "type": "期中考",
+            "weight": 20,
+            "note": "Examination: A mid-term or final examination on the assigned readings will be arranged for assessing comprehension."
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 15,
+            "note": "Presentations & Discussion: Students are required to participate in discussion on the diffusion theory bases, design, and implementation."
+        },
+        {
+            "type": "報告",
+            "weight": 15,
+            "note": "Presentations & Discussion: Students are required to present the diffusion theory bases, design, and implementation."
+        },
+        {
+            "type": "專題",
+            "weight": 30,
+            "note": "Project: Students need to propose a team-based research project from certain perspective of innovation diffusion."
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

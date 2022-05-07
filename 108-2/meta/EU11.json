@@ -1,0 +1,326 @@
+[
+    {
+        "year": 108,
+        "term": 2,
+        "name": "程式設計（二）",
+        "teachers": [
+            "蔡孟蓉"
+        ],
+        "department": "EU11",
+        "code": "LSU0002",
+        "credit": 3,
+        "serial": 867,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 6,
+                "to": 8,
+                "campus": "本部",
+                "classroom": "教402"
+            }
+        ],
+        "programs": [
+            "學習與資訊學程",
+            "資訊科技應用學程"
+        ],
+        "comment": "",
+        "restrict": "",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 2,
+        "name": "演算法",
+        "teachers": [
+            "李良一"
+        ],
+        "department": "EU11",
+        "code": "LSU0004",
+        "credit": 3,
+        "serial": 868,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 2,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "樸407"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 2,
+        "name": "資訊架構",
+        "teachers": [
+            "林宗進"
+        ],
+        "department": "EU11",
+        "code": "LSU0031",
+        "credit": 3,
+        "serial": 869,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 2,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "正106"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 2,
+        "name": "學習實驗設計",
+        "teachers": [
+            "邱國力"
+        ],
+        "department": "EU11",
+        "code": "LSU0039",
+        "credit": 3,
+        "serial": 870,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 6,
+                "to": 8,
+                "campus": "本部",
+                "classroom": "誠201"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 2,
+        "name": "資訊行為",
+        "teachers": [
+            "吳美美"
+        ],
+        "department": "EU11",
+        "code": "LSU0047",
+        "credit": 3,
+        "serial": 871,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 2,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "圖資所研討室A"
+            }
+        ],
+        "programs": [],
+        "comment": "上課教室：圖資所研討室A",
+        "restrict": "",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 2,
+        "name": "數位學習導論",
+        "teachers": [
+            "邱國力"
+        ],
+        "department": "EU11",
+        "code": "LSU0050",
+        "credit": 3,
+        "serial": 872,
+        "group": "",
+        "quota": {
+            "limit": 30,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 6,
+                "to": 8,
+                "campus": "本部",
+                "classroom": "綜1001"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 2,
+        "name": "學習動機與策略",
+        "teachers": [
+            "張欣怡"
+        ],
+        "department": "EU11",
+        "code": "LSU0054",
+        "credit": 3,
+        "serial": 873,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 2,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "誠107"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 2,
+        "name": "線性代數",
+        "teachers": [
+            "李良一"
+        ],
+        "department": "EU11",
+        "code": "LSU0058",
+        "credit": 3,
+        "serial": 874,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 6,
+                "to": 8,
+                "campus": "本部",
+                "classroom": "正105"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 2,
+        "name": "總整課程（二）",
+        "teachers": [
+            "林宗進",
+            "李良一"
+        ],
+        "department": "EU11",
+        "code": "LSU0061",
+        "credit": 2,
+        "serial": 875,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 8,
+                "to": 9,
+                "campus": "本部",
+                "classroom": "正206"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 2,
+        "name": "創造思考與問題解決",
+        "teachers": [
+            "吳清麟"
+        ],
+        "department": "EU11",
+        "code": "LSU0068",
+        "credit": 3,
+        "serial": 876,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 6,
+                "to": 8,
+                "campus": "本部",
+                "classroom": "誠105"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    }
+]

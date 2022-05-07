@@ -1,0 +1,82 @@
+{
+    "year": 108,
+    "term": 2,
+    "name": "積體電路與靜電放電防護設計實務",
+    "teachers": [
+        "林群祐"
+    ],
+    "department": "HM75",
+    "code": "AEC8041",
+    "credit": 3,
+    "serial": 1114,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 4,
+            "from": 6,
+            "to": 8,
+            "campus": "本部",
+            "classroom": "多媒體與通訊實驗室"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "Electrostatic discharge (ESD) is one of the most prevalent threats to the reliability of electronic components. Designing integrated circuits (ICs) with effective ESD protection circuits is a high priority in the semiconductor industry. This course provides an overview of IC and ESD protection design. Several case studies and practices are included in this course.",
+    "goals": [
+        "增進學生對積體電路與靜電放電防護設計的理解。",
+        "培養學生實作積體電路與靜電放電防護設計之能力。",
+        "使學生具備高階積體電路設計之能力，以符合IC設計公司之人力需求。",
+        "培養學生興趣，進一步奠定學生終身學習之基礎。"
+    ],
+    "syllabus": "Week 1~2\n\nIndustrial Standards and Testing on IC Products\n\nWeek 3~5\n\nBasic Protection Concept\n\nWeek 6~7\n\nInput/Output ESD Protection\n\nWeek 8\n\nMidterm Exam\n\nWeek 9~11\n\nProcess, Device, and Layout Issues\n\nWeek 12~13\n\nPower-Rail ESD Protection\n\nWeek 14~15\n\nAdvanced ESD Protection\n\nWeek 16\n\nFinal Exam\n\n\\*第17~18週之課程時間為自主學習 (上機練習)  \n\\*教學進度與主題會依實際情況略作調整\n\n**建議先修課程**  \n電子學(一)、電子學(二)、積體電路可靠度\n\n**課程簡介**  \nElectrostatic discharge (ESD) is one of the most prevalent threats to the reliability of electronic components. Designing integrated circuits (ICs) with effective ESD protection circuits is a high priority in the semiconductor industry. This course provides an overview of IC and ESD protection design. Several case studies and practices are included in this course.",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "針對基本的積體電路與靜電放電防護設計進行講授。"
+        },
+        {
+            "type": "討論法",
+            "note": "課程中會提出一些思考問題，讓同學們互相討論並回答。"
+        },
+        {
+            "type": "問題解決教學",
+            "note": "訓練學生思考與解決積體電路之靜定放電問題。"
+        },
+        {
+            "type": "實驗/實作",
+            "note": "訓練學生實際設計積體電路與靜電放電防護電路之能力，提升學生實務技能。"
+        },
+        {
+            "type": "媒體融入教學",
+            "note": "透過power point進行教學。"
+        }
+    ],
+    "grading": [
+        {
+            "type": "期中考",
+            "weight": 20,
+            "note": "期中課程內容測驗"
+        },
+        {
+            "type": "期末考",
+            "weight": 20,
+            "note": "期末課程內容測驗"
+        },
+        {
+            "type": "報告",
+            "weight": 60,
+            "note": "課程內容相關實作之成果報告"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

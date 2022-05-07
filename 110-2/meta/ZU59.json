@@ -1,0 +1,598 @@
+[
+    {
+        "year": 110,
+        "term": 2,
+        "name": "諮商理論",
+        "teachers": [
+            "陳秉華"
+        ],
+        "department": "EU01",
+        "code": "PCU0130",
+        "credit": 3,
+        "serial": 651,
+        "group": "B",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 5,
+                "from": 6,
+                "to": 8,
+                "campus": "本部",
+                "classroom": "教513"
+            }
+        ],
+        "programs": [
+            "音樂輔教學程",
+            "PASSION偏鄉教育學程",
+            "高齡學程"
+        ],
+        "comment": "建議先修過【PCU0117 輔導原理與實務】、【00UE008 輔導原與實務(教)】其中一門.",
+        "restrict": "◎必須先修過(也可以同時修)【PCU0117  輔導原理與實務】、【00UE008  輔導原理與實務（教）】、【EDU0159  輔導原理與實務】其中一門 ◎課程開放上修",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 2,
+        "name": "變態心理學",
+        "teachers": [
+            "林旻沛"
+        ],
+        "department": "EU01",
+        "code": "PCU0048",
+        "credit": 2,
+        "serial": 664,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 6,
+                "to": 7,
+                "campus": "本部",
+                "classroom": "教513"
+            }
+        ],
+        "programs": [
+            "音樂輔教學程"
+        ],
+        "comment": "",
+        "restrict": "◎必須先修過【PCU0014  人格心理學】 ◎課程開放上修",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 2,
+        "name": "諮商理論",
+        "teachers": [
+            "王櫻芬"
+        ],
+        "department": "EU01",
+        "code": "PCU0130",
+        "credit": 3,
+        "serial": 665,
+        "group": "A",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 2,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "教511"
+            }
+        ],
+        "programs": [
+            "音樂輔教學程",
+            "PASSION偏鄉教育學程",
+            "高齡學程"
+        ],
+        "comment": "建議先修過【PCU0117 輔導原理與實務】、【00UE008 輔導原與實務(教)】其中一門.",
+        "restrict": "◎必須先修過(也可以同時修)【PCU0117  輔導原理與實務】、【00UE008  輔導原理與實務（教）】、【EDU0159  輔導原理與實務】其中一門 ◎課程開放上修",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 2,
+        "name": "心理學",
+        "teachers": [
+            "蘇宜芬"
+        ],
+        "department": "GU",
+        "code": "0AUG402",
+        "credit": 2,
+        "serial": 992,
+        "group": "A",
+        "quota": {
+            "limit": 90,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 3,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "教202會議廳"
+            }
+        ],
+        "programs": [
+            "音樂輔教學程"
+        ],
+        "comment": "心輔系學士班學生修習通識課程「心理學」、「統計學」不計入畢業學分。",
+        "restrict": "◎課程開放上修",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 2,
+        "name": "心理學",
+        "teachers": [
+            "蘇宜芬"
+        ],
+        "department": "GU",
+        "code": "0AUG402",
+        "credit": 2,
+        "serial": 993,
+        "group": "B",
+        "quota": {
+            "limit": 90,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 6,
+                "to": 7,
+                "campus": "本部",
+                "classroom": "教202會議廳"
+            }
+        ],
+        "programs": [
+            "音樂輔教學程"
+        ],
+        "comment": "心輔系學士班學生修習通識課程「心理學」、「統計學」不計入畢業學分。",
+        "restrict": "◎課程開放上修",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 2,
+        "name": "心理學",
+        "teachers": [
+            "楊諮燕"
+        ],
+        "department": "GU",
+        "code": "0AUG402",
+        "credit": 2,
+        "serial": 994,
+        "group": "C",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 3,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "誠202"
+            }
+        ],
+        "programs": [
+            "音樂輔教學程"
+        ],
+        "comment": "心輔系學士班學生修習通識課程「心理學」、「統計學」不計入畢業學分。",
+        "restrict": "◎課程開放上修",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 2,
+        "name": "心理學",
+        "teachers": [
+            "朱采翎"
+        ],
+        "department": "GU",
+        "code": "0AUG402",
+        "credit": 2,
+        "serial": 995,
+        "group": "D",
+        "quota": {
+            "limit": 50,
+            "additional": 11
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 3,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "誠202"
+            }
+        ],
+        "programs": [
+            "音樂輔教學程"
+        ],
+        "comment": "心輔系學士班學生修習通識課程「心理學」、「統計學」不計入畢業學分。",
+        "restrict": "◎課程開放上修",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 2,
+        "name": "心理學",
+        "teachers": [
+            "朱采翎"
+        ],
+        "department": "GU",
+        "code": "0AUG402",
+        "credit": 2,
+        "serial": 996,
+        "group": "E",
+        "quota": {
+            "limit": 50,
+            "additional": 11
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 6,
+                "to": 7,
+                "campus": "本部",
+                "classroom": "誠202"
+            }
+        ],
+        "programs": [
+            "音樂輔教學程"
+        ],
+        "comment": "心輔系學士班學生修習通識課程「心理學」、「統計學」不計入畢業學分。",
+        "restrict": "◎課程開放上修",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 2,
+        "name": "心理學",
+        "teachers": [
+            "黃美齡"
+        ],
+        "department": "GU",
+        "code": "0AUG402",
+        "credit": 2,
+        "serial": 997,
+        "group": "F",
+        "quota": {
+            "limit": 50,
+            "additional": 5
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 3,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "樸306"
+            }
+        ],
+        "programs": [
+            "音樂輔教學程"
+        ],
+        "comment": "心輔系學士班學生修習通識課程「心理學」、「統計學」不計入畢業學分。",
+        "restrict": "◎課程開放上修",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 2,
+        "name": "心理學",
+        "teachers": [
+            "黃美齡"
+        ],
+        "department": "GU",
+        "code": "0AUG402",
+        "credit": 2,
+        "serial": 998,
+        "group": "G",
+        "quota": {
+            "limit": 50,
+            "additional": 22
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 6,
+                "to": 7,
+                "campus": "本部",
+                "classroom": "樸301"
+            }
+        ],
+        "programs": [
+            "音樂輔教學程"
+        ],
+        "comment": "心輔系學士班學生修習通識課程「心理學」、「統計學」不計入畢業學分。",
+        "restrict": "◎課程開放上修",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 2,
+        "name": "心理學",
+        "teachers": [
+            "蘇宜芬"
+        ],
+        "department": "GU",
+        "code": "0AUG402",
+        "credit": 2,
+        "serial": 999,
+        "group": "H",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 8,
+                "to": 9,
+                "campus": "本部",
+                "classroom": "誠202"
+            }
+        ],
+        "programs": [
+            "音樂輔教學程"
+        ],
+        "comment": "心輔系學士班學生修習通識課程「心理學」、「統計學」不計入畢業學分。",
+        "restrict": "◎課程開放上修",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 2,
+        "name": "合唱（二）",
+        "teachers": [
+            "陳麗芬"
+        ],
+        "department": "MU90",
+        "code": "MUU0306",
+        "credit": 2,
+        "serial": 2171,
+        "group": "A",
+        "quota": {
+            "limit": 50,
+            "additional": 30
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 9,
+                "to": 10,
+                "campus": "本部",
+                "classroom": "音308"
+            },
+            {
+                "day": 5,
+                "from": 9,
+                "to": 10,
+                "campus": "本部",
+                "classroom": "音308"
+            }
+        ],
+        "programs": [
+            "音樂輔教學程"
+        ],
+        "comment": "台大系統輔系的學生以授權碼選課",
+        "restrict": "允許重複修",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 2,
+        "name": "合唱（二）",
+        "teachers": [
+            "孫愛光"
+        ],
+        "department": "MU90",
+        "code": "MUU0306",
+        "credit": 2,
+        "serial": 2172,
+        "group": "B",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 5,
+                "to": 6,
+                "campus": "本部",
+                "classroom": "音308"
+            },
+            {
+                "day": 5,
+                "from": 5,
+                "to": 6,
+                "campus": "本部",
+                "classroom": "音308"
+            }
+        ],
+        "programs": [
+            "音樂輔教學程"
+        ],
+        "comment": "",
+        "restrict": "允許重複修 ◎課程開放上修",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 2,
+        "name": "電子琴概論（二）",
+        "teachers": [
+            "陳怡婷"
+        ],
+        "department": "MU90",
+        "code": "MUU0336",
+        "credit": 2,
+        "serial": 2181,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 5,
+                "from": 6,
+                "to": 7,
+                "campus": "本部",
+                "classroom": "音409"
+            }
+        ],
+        "programs": [
+            "音樂輔教學程"
+        ],
+        "comment": "",
+        "restrict": "◎課程開放上修",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 2,
+        "name": "木笛（二）",
+        "teachers": [
+            "陳孟亨"
+        ],
+        "department": "MU90",
+        "code": "MUU0360",
+        "credit": 1,
+        "serial": 2185,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 3,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "音410"
+            }
+        ],
+        "programs": [
+            "音樂輔教學程"
+        ],
+        "comment": "",
+        "restrict": "◎課程開放上修",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 2,
+        "name": "吉他（二）",
+        "teachers": [
+            "黃修禮"
+        ],
+        "department": "MU90",
+        "code": "MUU0362",
+        "credit": 1,
+        "serial": 2186,
+        "group": "A",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 1,
+                "to": 2,
+                "campus": "本部",
+                "classroom": "音樂系演奏廳"
+            }
+        ],
+        "programs": [
+            "音樂輔教學程"
+        ],
+        "comment": "",
+        "restrict": "◎課程開放上修",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 2,
+        "name": "吉他（二）",
+        "teachers": [
+            "黃修禮"
+        ],
+        "department": "MU90",
+        "code": "MUU0362",
+        "credit": 1,
+        "serial": 2187,
+        "group": "B",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 3,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "音樂系演奏廳"
+            }
+        ],
+        "programs": [
+            "音樂輔教學程"
+        ],
+        "comment": "",
+        "restrict": "◎課程開放上修",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    }
+]

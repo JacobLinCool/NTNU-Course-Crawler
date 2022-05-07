@@ -1,0 +1,88 @@
+{
+    "year": 109,
+    "term": 1,
+    "name": "體育研究法",
+    "teachers": [
+        "程瑞福"
+    ],
+    "department": "AM30",
+    "code": "PEM0001",
+    "credit": 3,
+    "serial": 12,
+    "group": "A",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 2,
+            "to": 4,
+            "campus": "本部",
+            "classroom": "體001"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "教授體育相關各式研究方法",
+    "goals": [
+        "學習體育相關各式研究方法"
+    ],
+    "syllabus": "1.研究法概論；研究倫理\n\n2.研究問題之選擇\n\n3.研究資料與文獻之蒐集\n\n4.論文評鑑；文獻的引用與書寫\n\n5.研究方法與步驟；研究計畫撰寫\n\n6.歷史研究法\n\n7.調查研究法（一）\n\n8.調查研究法（二）\n\n9.內容分析研究法\n\n10.實驗研究法\n\n11.質的研究（個案研究法、敘事研究法）\n\n12.質的研究（觀察法、行動研究法）\n\n13.研究結果與討論\n\n14.研究報告撰寫與發表\n\n15.期末口頭發表（應用簡報軟體）",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "教師講述"
+        },
+        {
+            "type": "討論法",
+            "note": "相關研究議題討論"
+        },
+        {
+            "type": "問題解決教學",
+            "note": "分組議題討論"
+        },
+        {
+            "type": "實地考察、參訪",
+            "note": "實際訪談、參觀"
+        },
+        {
+            "type": "媒體融入教學",
+            "note": "影片播放分析\n影片欣賞與討論"
+        },
+        {
+            "type": "專題研究",
+            "note": "研究計畫撰寫"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 30,
+            "note": "專書閱讀、文獻整理、研究計畫"
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 20,
+            "note": ""
+        },
+        {
+            "type": "出席",
+            "weight": 20,
+            "note": ""
+        },
+        {
+            "type": "專題",
+            "weight": 30,
+            "note": "ˊ研究計畫專題報告"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

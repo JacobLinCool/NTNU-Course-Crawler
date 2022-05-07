@@ -1,0 +1,80 @@
+{
+    "year": 110,
+    "term": 1,
+    "name": "高等作業系統",
+    "teachers": [
+        "林均翰"
+    ],
+    "department": "SM47",
+    "code": "CSC0016",
+    "credit": 3,
+    "serial": 2762,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 1,
+            "from": 2,
+            "to": 4,
+            "campus": "公館",
+            "classroom": "Ｂ101"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "使同學瞭解作業系統的相關知識及Unix system call programming的技巧。",
+    "goals": [
+        "Unix system call programming, Hadoop programming"
+    ],
+    "syllabus": "下列為暫定教學主題，教學進度視課程情況調整。授課方式為16+2週，本課程包含2週作業活動，於教學主題結束後公告相關作業。\n\n*   Concepts of operating systems and systems programming\n*   Utility programs, subsystems, and multipleprogram systems\n*   Processes, interprocess communication, and synchronization\n*   Memory allocation, segmentation, and paging\n*   Loading and linking libraries\n*   Resource allocation, scheduling, and performance evaluation\n*   I/O systems, storage devices, and file systems\n*   Basic networking, protocols, and distributed file systems\n*   Protection, security, and privacy",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "問題解決教學",
+            "note": ""
+        },
+        {
+            "type": "實驗/實作",
+            "note": ""
+        },
+        {
+            "type": "媒體融入教學",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "期中考",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 10,
+            "note": ""
+        },
+        {
+            "type": "報告",
+            "weight": 30,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

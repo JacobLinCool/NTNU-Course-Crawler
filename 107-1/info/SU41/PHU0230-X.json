@@ -1,0 +1,66 @@
+{
+    "year": 107,
+    "term": 1,
+    "name": "力學（一）",
+    "teachers": [
+        "陸健榮"
+    ],
+    "department": "SU41",
+    "code": "PHU0230",
+    "credit": 3,
+    "serial": 2825,
+    "group": "",
+    "quota": {
+        "limit": 70,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 7,
+            "to": 9,
+            "campus": "公館",
+            "classroom": "Ｅ102"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "2",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程提供物理系大學部理論力學一般的題材。",
+    "goals": [
+        "培養學生物理的歸納及推演能力",
+        "訓練學生解析的計算能力",
+        "令學生了解力學的發展歷史",
+        "使學生注意最新的發展"
+    ],
+    "syllabus": "We will follow closely the topics outlined in \" Classical Dynamics of Particles and Systems \"  by Marion and Thornton.\n\nSpecifically, the topics covered for each week is as follows.  \n\n​\n\nWeek 1: Matrix, Vector Calculus and Ordinary Differential Equation.  \nWeeks 2 and 3: Matrix, Vector Calculus and Ordinary Differential Equation (cont).  \nWeek 3: Newtonian Mechanics: Newton's laws of motion of a single particle.  \nWeek 4: Newtonian Mechanics: Work, Energy, and Momentum of a single particle.  \nWeek 5: Simple Harmonics Oscillator.  \nWeek 6: Simple Harmonics Oscillator (cont).  \nWeeks 7 and 8: Simple Pendulum and Brief on Nonlinear Dynamics and Chaos.\n\nWeek 9: Gravitation.  \nWeeks 10 and 11: Calculus of Variations.\n\nWeeks 12, 13 and 14: Hamilton's principle --> Lagrangian and Hamiltonian dynamics.   \nWeeks 15 and 16: Coupled Oscillations.\n\nRemaining weeks: Introduction to Programming.",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "期中考",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "其他",
+            "weight": 40,
+            "note": "(每個)隔周會有隨堂小考. 小考題目會從前一周的作業裏出."
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

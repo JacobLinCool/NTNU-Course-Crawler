@@ -1,0 +1,63 @@
+{
+    "year": 107,
+    "term": 2,
+    "name": "光電子學",
+    "teachers": [
+        "張俊傑"
+    ],
+    "department": "HM77",
+    "code": "OEM0103",
+    "credit": 3,
+    "serial": 1182,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 5
+    },
+    "schedule": [
+        {
+            "day": 1,
+            "from": 2,
+            "to": 4,
+            "campus": "公館",
+            "classroom": "教室自排"
+        }
+    ],
+    "programs": [],
+    "comment": "※授課地點: 應用科學大樓 B1演講廳",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程旨在介紹半導體光電元件包括介電質波導、半導體雷射、發光二極體、光偵測器、以及太陽能和光伏電池",
+    "goals": [
+        "了解半導體光電元件的物理、工作原理及應用"
+    ],
+    "syllabus": "1\\. Logistics, Overview of the course, Review of quantum mechanics (QM)\n\n2\\. Review of QM (cont’d), semiconductor electronics, and electromagnetics (EM)\n\n3\\. Fresnel equation, 2×2 matrix approach\n\n4\\. Bragg reflector, Guided modes\n\n5\\. Mode classification, Cutoff condition\n\n6\\. Antiguides, Leaky modes, Resonant optical waveguide (ROW) structure\n\n7\\. Periodic dielectric structure (Bloch function analysis)\n\n8\\. Photonic bandgap, Bragg reflector bands\n\n9\\. Coupled-wave analysis\n\n10\\. Coupled-wave analysis (cont’d), Directional coupler, Index grating\n\n11\\. Semiconductor lasers-I (Basics)\n\n12\\. Semiconductor lasers-II (QW lasers)\n\n13\\. Semiconductor lasers-III (DFB lasers, VCSELs)\n\n14\\. Light-emitting diodes-I\n\n15\\. Light-emitting diodes-II\n\n16\\. Photodetectors\n\n17\\. Solar cells, Photovoltaics",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 35,
+            "note": "Students should be familiar with software packages like MATLAB, or Python, which are to be used in the homework problems."
+        },
+        {
+            "type": "期中考",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 35,
+            "note": "Cumulative final exam"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

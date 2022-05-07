@@ -1,0 +1,77 @@
+{
+    "year": 110,
+    "term": 2,
+    "name": "管理會計",
+    "teachers": [
+        "陳錦烽"
+    ],
+    "department": "OM55",
+    "code": "MBM0004",
+    "credit": 3,
+    "serial": 2407,
+    "group": "B",
+    "quota": {
+        "limit": 10,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 4,
+            "from": 2,
+            "to": 4,
+            "campus": "本部",
+            "classroom": "雲508"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎必須先修過【BAU0036  會計學（一）】、【PGUA005  會計學】其中一門 ◎課程開放上修",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "藉由本課程，學生可以學習：\n1.\t瞭解管理會計基本的理論與方法\n2.\t應用管理會計技術進行決策\n3.\t瞭解如何使用會計資訊經營企業",
+    "goals": [
+        "使學生瞭解經理人員如何運用管理會計資訊進行產品訂價、規劃、控制、考核等決策，並藉由課堂討論與個案培養解決問題與制訂決策能力",
+        "使學生將課堂學習之管理會計資訊與數量方法分析運用於解決個案問題，以達自主學習目的"
+    ],
+    "syllabus": "1\n\nPrologue: Managerial Accounting: an Overview\n\n2\n\nChapter 1: Managerial Accounting and Cost Concepts\n\n3\n\nChapter 2: Cost-Volume-Profit Relationships\n\n4\n\nChapter 2 (continued)\n\n5\n\nChapter 3: Job-Order Costing: Calculating Unit Product Costs\n\n6\n\nChapter 3 (continued)\n\n7\n\nChapter 4: Variable Costing and Segment Reporting: Tools for Management\n\n8\n\nChapter 4 (continued)\n\n9\n\nChapter 6: Differential Analysis: The Key to Decision Making\n\n10\n\nChapter 6 (continued)\n\n11\n\nChapter 7: Capital Budgeting Decisions\n\n12\n\nChapter 7 (continued)\n\n13\n\nChapter 8: Master Budgeting\n\n14\n\nChapter 9: Flexible Budgeting and Performance Analysis\n\n15\n\nChapter 10: Standard Costs and Variances\n\n16\n\nChapter 10 (continued)\n\n17\n\nChapter 11: Performance Measurement in Decentralized Organizations\n\n18\n\nFinal Examination",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "Formal lectures will be used to explain important managerial accounting concepts and illustrate their applications in management decisions."
+        },
+        {
+            "type": "討論法",
+            "note": "Students are encouraged to participate in group discussion in the class and also for group case studies."
+        },
+        {
+            "type": "問題解決教學",
+            "note": "Problems and cases will be used to facilitate the learning and application of important managerial accounting concepts and techniques."
+        }
+    ],
+    "grading": [
+        {
+            "type": "期末考",
+            "weight": 40,
+            "note": "Final exam will be in the 18tht week and serve as a tool for examining students’ learning outcome."
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 20,
+            "note": "Students are encouraged to participate in group discussion in the class to share their thoughts on different issues."
+        },
+        {
+            "type": "出席",
+            "weight": 20,
+            "note": "Students should attend each class with proper preparation."
+        },
+        {
+            "type": "專題",
+            "weight": 20,
+            "note": "Students should demonstrate, in their reports, the proper application of relevant managerial accounting concepts and methods in providing answers to the issues in the cases."
+        }
+    ],
+    "prerequisite": "◎必須先修過【BAU0036  會計學（一）】、【PGUA005  會計學】其中一門",
+    "general_core": []
+}

@@ -1,0 +1,625 @@
+[
+    {
+        "year": 110,
+        "term": 2,
+        "name": "人格發展與精神病理學",
+        "teachers": [
+            "陳秀蓉"
+        ],
+        "department": "ED01",
+        "code": "PCD0044",
+        "credit": 3,
+        "serial": 351,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 2,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "教500"
+            }
+        ],
+        "programs": [
+            "學校心理學學程"
+        ],
+        "comment": "",
+        "restrict": "◎課程不開放上修",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 2,
+        "name": "試題作答理論的應用",
+        "teachers": [
+            "劉振維"
+        ],
+        "department": "ED01",
+        "code": "PCD0047",
+        "credit": 2,
+        "serial": 352,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 8,
+                "to": 9,
+                "campus": "本部",
+                "classroom": "教619"
+            }
+        ],
+        "programs": [
+            "大數據學程"
+        ],
+        "comment": "",
+        "restrict": "◎課程開放上修",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 2,
+        "name": "進階諮商心理實習（二）",
+        "teachers": [
+            "許維素"
+        ],
+        "department": "ED01",
+        "code": "PCD2009",
+        "credit": 2,
+        "serial": 353,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 5,
+                "to": 8,
+                "campus": "本部",
+                "classroom": "教615"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎必須先修過【PCM0089  諮商理論專題研究】 ◎課程不開放上修",
+        "form_s": "1",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 2,
+        "name": "諮商督導研究與實習（二）",
+        "teachers": [
+            "陳秀蓉"
+        ],
+        "department": "ED01",
+        "code": "PCD2007",
+        "credit": 2,
+        "serial": 354,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 8,
+                "to": 10,
+                "campus": "本部",
+                "classroom": "教615"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎必須先修過【PCD2008  進階諮商心理實習（一）】、【PCD2009  進階諮商心理實習（二）】 ◎課程不開放上修",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 2,
+        "name": "動機心理學專題研究",
+        "teachers": [
+            "毛國楠"
+        ],
+        "department": "EM01",
+        "code": "PCC0014",
+        "credit": 2,
+        "serial": 392,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 9,
+                "to": 10,
+                "campus": "本部",
+                "classroom": "教500"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎課程開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 2,
+        "name": "人際歷程心理治療",
+        "teachers": [
+            "吳麗娟"
+        ],
+        "department": "EM01",
+        "code": "PCC0037",
+        "credit": 3,
+        "serial": 393,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 5,
+                "from": 6,
+                "to": 8,
+                "campus": "本部",
+                "classroom": "教511"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎課程開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 2,
+        "name": "心理衡鑑專題研究",
+        "teachers": [
+            "陳秀蓉"
+        ],
+        "department": "EM01",
+        "code": "PCC0064",
+        "credit": 3,
+        "serial": 394,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 6,
+                "to": 8,
+                "campus": "本部",
+                "classroom": "教500"
+            }
+        ],
+        "programs": [
+            "學校心理學學程"
+        ],
+        "comment": "",
+        "restrict": "◎課程不開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 2,
+        "name": "高等質性研究法與資料分析",
+        "teachers": [
+            "何英奇"
+        ],
+        "department": "EM01",
+        "code": "PCC0068",
+        "credit": 2,
+        "serial": 395,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 9,
+                "to": 10,
+                "campus": "本部",
+                "classroom": "教500"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎課程不開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 2,
+        "name": "認知與情緒",
+        "teachers": [
+            "陳學志"
+        ],
+        "department": "EM01",
+        "code": "PCC0073",
+        "credit": 3,
+        "serial": 396,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 8,
+                "to": 10,
+                "campus": "本部",
+                "classroom": "教202會議廳"
+            }
+        ],
+        "programs": [
+            "學校心理學學程"
+        ],
+        "comment": "",
+        "restrict": "◎課程不開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 2,
+        "name": "判斷與決策心理學專題研究",
+        "teachers": [
+            "林正昌"
+        ],
+        "department": "EM01",
+        "code": "PCC0095",
+        "credit": 3,
+        "serial": 397,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 2,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "教602"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎課程不開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 2,
+        "name": "諮商專業倫理",
+        "teachers": [
+            "林家興"
+        ],
+        "department": "EM01",
+        "code": "PCC0096",
+        "credit": 3,
+        "serial": 398,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 9,
+                "to": 10,
+                "campus": "本部",
+                "classroom": "教600"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎必須先修過(也可以同時修)【PCM0085  諮商心理實習（一）】 ◎課程不開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 2,
+        "name": "變態心理學專題研究",
+        "teachers": [
+            "陳孟筳"
+        ],
+        "department": "EM01",
+        "code": "PCC0114",
+        "credit": 3,
+        "serial": 399,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 6,
+                "to": 8,
+                "campus": "本部",
+                "classroom": "教600"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎課程不開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 2,
+        "name": "測驗編製研究",
+        "teachers": [
+            "陳李綢"
+        ],
+        "department": "EM01",
+        "code": "PCC0118",
+        "credit": 3,
+        "serial": 400,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 6,
+                "to": 8,
+                "campus": "本部",
+                "classroom": "教500"
+            }
+        ],
+        "programs": [
+            "大數據學程"
+        ],
+        "comment": "",
+        "restrict": "◎課程不開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 2,
+        "name": "混合研究法",
+        "teachers": [
+            "宋曜廷"
+        ],
+        "department": "EM01",
+        "code": "PCC0123",
+        "credit": 3,
+        "serial": 401,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 2,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "教500"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎課程開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 2,
+        "name": "婚姻與家族治療研究",
+        "teachers": [
+            "詹杏如"
+        ],
+        "department": "EM01",
+        "code": "PCC0129",
+        "credit": 3,
+        "serial": 402,
+        "group": "",
+        "quota": {
+            "limit": 30,
+            "additional": 0
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 10,
+                "to": 12,
+                "campus": "本部",
+                "classroom": "教500"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎必須先修過【PCM0089  諮商理論專題研究】、【PCM0072  諮商技術專題研究】 ◎課程不開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 2,
+        "name": "數學認知與學習",
+        "teachers": [
+            "吳昭容"
+        ],
+        "department": "EM01",
+        "code": "PCC0137",
+        "credit": 3,
+        "serial": 403,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 2,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "教500"
+            }
+        ],
+        "programs": [
+            "學校心理學學程"
+        ],
+        "comment": "",
+        "restrict": "◎課程不開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 2,
+        "name": "東方智慧與西方療癒理論專題研究",
+        "teachers": [
+            "金樹人"
+        ],
+        "department": "EM01",
+        "code": "PCC8014",
+        "credit": 3,
+        "serial": 404,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 2,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "教600"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎課程不開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 2,
+        "name": "諮商與心理治療之效能",
+        "teachers": [
+            "Joshua.K.",
+            "Swift."
+        ],
+        "department": "EM01",
+        "code": "PCC8023",
+        "credit": 3,
+        "serial": 405,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 2,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "教500"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎課程不開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 2,
+        "name": "媒體多工專題研究",
+        "teachers": [
+            "劉子鍵"
+        ],
+        "department": "EM01",
+        "code": "PCC8024",
+        "credit": 3,
+        "serial": 406,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 6,
+                "to": 8,
+                "campus": "本部",
+                "classroom": "教615"
+            }
+        ],
+        "programs": [
+            "大數據學程"
+        ],
+        "comment": "",
+        "restrict": "◎課程不開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    }
+]

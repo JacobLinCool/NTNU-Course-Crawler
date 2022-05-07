@@ -1,0 +1,76 @@
+{
+    "year": 110,
+    "term": 1,
+    "name": "網頁設計",
+    "teachers": [
+        "周遵儒"
+    ],
+    "department": "HU72",
+    "code": "GCU0101",
+    "credit": 3,
+    "serial": 1281,
+    "group": "",
+    "quota": {
+        "limit": 38,
+        "additional": 2
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 8,
+            "to": 10,
+            "campus": "本部",
+            "classroom": "教403"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "2",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "訓練學生對於使用各種網頁設計理論與技術解決關於數位圖文傳播科技的問題，並輔導學生從事網站開發與經營專題實作",
+    "goals": [
+        "訓練學生對於使用各種網頁設計理論與技術解決關於數位圖文傳播科技的問題，"
+    ],
+    "syllabus": "部分課程將採數位教學，16+2 週課程。\n\n第 01 週，課程介紹  \n第 02 週，網際網路基本概念與網站伺服器架設  \n第 03 週，Hello World 網頁設計  \n第 04 週，HTML (1)  \n第 05 週，HTML (2)  \n第 06 週，CSS (1)  \n第 07 週，CSS (2)  \n第 08 週，CSS (3)  \n第 09 週，主題網站整體設計專題實作  \n第 10 週，BootStrap (1)  \n第 11 週，BootStrap (2)  \n第 12 週，BootStrap (3)  \n第 13 週，jQuery 入門  \n第 14 週，內容管理系統 + Wordpress  \n第 15 週，整合網站開發  \n第 16 週，期末專題展示  \n第 17 週，（自主學習）  \n第 18 週，（自主學習）",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "內容講解"
+        },
+        {
+            "type": "實驗/實作",
+            "note": "網頁實作"
+        },
+        {
+            "type": "專題研究",
+            "note": "主題網頁開發"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 25,
+            "note": "隨堂或課後作業"
+        },
+        {
+            "type": "期中考",
+            "weight": 25,
+            "note": "或專題實作"
+        },
+        {
+            "type": "出席",
+            "weight": 10,
+            "note": ""
+        },
+        {
+            "type": "專題",
+            "weight": 40,
+            "note": "期末專題"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

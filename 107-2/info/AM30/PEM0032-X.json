@@ -1,0 +1,83 @@
+{
+    "year": 107,
+    "term": 2,
+    "name": "體育原理研究",
+    "teachers": [
+        "程瑞福"
+    ],
+    "department": "AM30",
+    "code": "PEM0032",
+    "credit": 3,
+    "serial": 8,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 2,
+            "to": 4,
+            "campus": "本部",
+            "classroom": "體003"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "瞭解運動文化的意義, 認識運動文化的內容",
+    "goals": [
+        "瞭解運動文化的意義",
+        "認識運動文化的內容",
+        "釐清運動文化的研究取徑",
+        "建構台灣運動文化體系"
+    ],
+    "syllabus": "一、性別、身體與文化  \n二、性別意識與體育發展  \n三、身體意象  \n四、性別與運動媒體  \n五、性別角色與流行文化  \n六、女性運動參與  \n七、男性運動場域  \n八、學校體育與性別",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "主題講授"
+        },
+        {
+            "type": "討論法",
+            "note": "專書閱讀討論"
+        },
+        {
+            "type": "問題解決教學",
+            "note": "經驗分享或討論"
+        },
+        {
+            "type": "專題研究",
+            "note": "小組報告：就分組專題報告"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 30,
+            "note": "專書報告之表現"
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 20,
+            "note": "參與討論情形"
+        },
+        {
+            "type": "出席",
+            "weight": 20,
+            "note": "上課出席情形"
+        },
+        {
+            "type": "報告",
+            "weight": 30,
+            "note": "期末專題報告"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

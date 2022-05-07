@@ -1,0 +1,81 @@
+{
+    "year": 110,
+    "term": 2,
+    "name": "計算機概論",
+    "teachers": [
+        "蕭惠心"
+    ],
+    "department": "HU77",
+    "code": "OEU0002",
+    "credit": 3,
+    "serial": 1312,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 5,
+            "from": 6,
+            "to": 8,
+            "campus": "公館",
+            "classroom": "理圖801"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "1",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程著重計算機科學的基礎技術及知識，同時亦著重C相關程式設計的技巧，期讓同學有足夠的能力修習進階計算機相關課程，在往後諸多理論及應用課程上研習有所助益，並具備將來所預從事研究工作或深造之基本程式撰寫能力。",
+    "goals": [
+        "教導學生計算機科學的基礎技術及知識",
+        "訓練學生基本C相關程式設計的技巧，建立將來進入職場的基礎"
+    ],
+    "syllabus": "本課程著重計算機科學的基礎技術及知識，同時亦著重C相關程式設計的技巧，期讓同學有足夠的能力修習進階計算機相關課程，在往後諸多理論及應用課程上研習有所助益，並具備將來所預從事研究工作或深造之基本程式撰寫能力。\n\nWeek 1\n\nCourse Introduction\n\nWeek 2\n\nHistory of Computer and Computer Architecture\n\nWeek 3\n\nComputer Architecture (CPU,  Main Memory,  Input/Output, Subsystem Interconnection)\n\nWeek 4\n\nNumber Representation (The transformation between binary, Decimal, and Hexadecimal) Operations on Bits (Ones' complement, 2's complement, floating-point number)\n\nWeek 5\n\nOperation Systems (Process Manager, Memory Manager, Device Manager, and File Manager)\n\nWeek 6\n\nComputer Networks (OSI Model, Categories of Networks (LAN, MAN, and WAN), Connecting Devices) Chap 4-5\n\nWeek 7\n\nInternet (data link layer, Network layer, Transport layer, Application layer) Chap 5-6\n\nWeek 8\n\nThe World Wide Web (URL and WWW)\n\nWeek 9\n\n Cyber security\n\nWeek 10\n\nMidterm exams/ Midterm presentation\n\nWeek 11\n\nInput and Output (printf and  scanf),  IF statement\n\nWeek 12\n\nControl structure I\n\nWeek 13\n\nControl structure II\n\nWeek 14\n\nFunctions I\n\nWeek 15\n\nFunctions II\n\nWeek 16\n\nFinal exams\n\nWeek 17 & Week 18  自主學習範圍 Arrays",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "問題解決教學",
+            "note": ""
+        },
+        {
+            "type": "合作學習",
+            "note": ""
+        },
+        {
+            "type": "實驗/實作",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 25,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 35,
+            "note": ""
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 5,
+            "note": ""
+        },
+        {
+            "type": "報告",
+            "weight": 35,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

@@ -1,0 +1,85 @@
+{
+    "year": 110,
+    "term": 1,
+    "name": "讀寫訓練（一）",
+    "teachers": [
+        "曹靜儀"
+    ],
+    "department": "IU84",
+    "code": "CLU0066",
+    "credit": 4,
+    "serial": 1507,
+    "group": "B",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 3,
+            "to": 4,
+            "campus": "本部",
+            "classroom": "樸105"
+        },
+        {
+            "day": 4,
+            "from": 6,
+            "to": 7,
+            "campus": "本部",
+            "classroom": "樸105"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎限外籍生修習◎限華語系（學）「國際華語與文化組」選修",
+    "form_s": "1",
+    "classes": "",
+    "dept_group": "A",
+    "hours": 4,
+    "description": "上課內容以「中文聽說讀寫LevelⅡ」課本為依據，另外搭配其他閱讀材料，目的在於提升閱讀的能力，擴增詞彙的範圍，進而加強語文表達能力，能書寫、說明個人意見及看法。",
+    "goals": [
+        "提升華語閱讀及寫作能力，能理解詮釋閱讀的資料",
+        "能精確選用適當辭彙及句型表達看法及意見，能具備描述、敘述、說明、舉證等技巧",
+        "具備泛讀文章，能了解文章大意之能力。"
+    ],
+    "syllabus": "【授課方式：16+2週】\n\n以中上級程度的華語教材為主，  \n課程內容為教師自編教材。  \n每一週半上一課。  \n期中另安排作文寫作，及造句練習。\n\nw17-18 請看 moodle課程說明",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": ""
+        },
+        {
+            "type": "其他",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 40,
+            "note": "平時作業及作文"
+        },
+        {
+            "type": "期中考",
+            "weight": 30,
+            "note": "二次"
+        },
+        {
+            "type": "期末考",
+            "weight": 20,
+            "note": ""
+        },
+        {
+            "type": "出席",
+            "weight": 10,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

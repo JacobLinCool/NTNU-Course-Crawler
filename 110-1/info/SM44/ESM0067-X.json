@@ -1,0 +1,74 @@
+{
+    "year": 110,
+    "term": 1,
+    "name": "恆星結構演化",
+    "teachers": [
+        "李悅寧"
+    ],
+    "department": "SM44",
+    "code": "ESM0067",
+    "credit": 3,
+    "serial": 2727,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 1,
+            "from": 2,
+            "to": 4,
+            "campus": "公館",
+            "classroom": "Ｂ413"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程不開放上修",
+    "form_s": "1",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "熟悉恆星基本性質與測量參數─表面溫度、光譜分類、光度分類\n認識恆星內部結構\n認識恆星結構四個方程式\n了解輻射在恆星內部傳輸之物理機制\n了解與恆星能源有關之核融合反應\n能用IDL撰寫程式獲得太陽由內至表面的結構參數\n認識恆星演化末期之現象\n總論、恆星分類 3.2-3.6，Chapter 5，Chapter 8\n恆星表面溫度 3.2-3.6，Chapter 5，Chapter 8\n恆星結構方程 Chapter 10\n氣體狀態方程 Chapter 10\n核融合反應 Chapter 10\n\n能量傳輸︰輻射 8.2\n能量傳輸︰對流 8.2\n期中測驗\nSun Model Chapter 11\n邊界條件、 IDL程式語言\nStellar model & IDL\nStellar model & IDL\n太陽模式 Chapter 11\n恆星形成 Chapter 12\n恆星末期演化 Chapter 13\n超新星與中子星 Chapter 15\n白矮星 Chapter 16.1-16.4\n恆星的脈動 Chapter 14\n期末測驗\n學期成績依據\n作業20分，兩次測驗各25分、IDL太陽模式15分，專題報告15分。\n\n專題報告（team paper）：在2005-2008年發表之論文，選擇與本課程有關之題材，完成報告，必須附上參考文獻；30分鐘口頭報告前，交一份電子檔報告。\n@ 作業於指定時間交。若進度非如預期，得調整之。\n參考書目\nAn Introduction to Stellar Astrophysics，volume 3, Stellar Structure and Evolution, Erika Bohrm-Vitense（1994），Cambridge University Press.\nAn Introduction to Modern Astrophysics，Bradley W. Carroll & Dale A. Ostlie（1996），Addison-Wesley Publishing Company, Inc.\nAn Introduction to the Study of Stellar Structure，S. Chandrasekhar（1967），Dover A Publications, Inc.\nStellar Structure and Evolution，R. Kippenhahn and A. Weigert\nStellar Interiors，C. J. Hansen and S. D. Kawaler.\nPrinciples of Stellar Evolution and Nucleosynthesis by D.D. Clayton",
+    "goals": [
+        "* 認識、了解並能導出 恆星結構基本方程及其邊界條件 * 熟悉理想氣體方程並會計算平均分子重 * 能自行撰寫電腦程式，得到太陽質量、壓力、光度、溫度與參數r之關係圖 * 認識恆星形成語演�"
+    ],
+    "syllabus": "\\[授課方式：16+2 週\\]\n\n本課程將以恆星模型數值建模實作方式進行，課程內容\n\n1.  背景知識\n2.  恆星觀測\n3.  恆星分類\n4.  熱力學基本概念\n5.  氣體狀態方程\n6.  靜態平衡\n7.  恆星能源能量傳輸\n8.  輻射與對流\n9.  恆星結構方程\n10.  建立恆星結構模型\n11.  邊界條件\n12.  太陽模式恆星形成在主序帶之演化\n13.  星團與演化\n14.  簡併物質與白矮星\n15.  超新星與中子星恆星的脈動   \n16.  期末報告",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": ""
+        },
+        {
+            "type": "問題解決教學",
+            "note": ""
+        },
+        {
+            "type": "實驗/實作",
+            "note": ""
+        },
+        {
+            "type": "專題研究",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 60,
+            "note": ""
+        },
+        {
+            "type": "報告",
+            "weight": 40,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

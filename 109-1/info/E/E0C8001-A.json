@@ -1,0 +1,81 @@
+{
+    "year": 109,
+    "term": 1,
+    "name": "高級教育統計學（甲）",
+    "teachers": [
+        "劉振維"
+    ],
+    "department": "E",
+    "code": "E0C8001",
+    "credit": 3,
+    "serial": 365,
+    "group": "A",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 2,
+            "to": 4,
+            "campus": "本部",
+            "classroom": "教育學院第2會議室-大"
+        }
+    ],
+    "programs": [
+        "學習與資訊學程",
+        "大數據學程"
+    ],
+    "comment": "",
+    "restrict": "◎課程不開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "統計學是從事量化研究必備的知能，本課程理論和實務並重，除講授統計分析原理和技術外，並結合套裝程式的操作。為強化學生學以致用的能力，各種統計方法皆設計單元作業，提供數個真實研究的資料檔，要求學生自擬研究問題和假設，應用套裝程式執行分析，並依學術論文格式撰寫分析結果報告。",
+    "goals": [
+        "1.\t了解常用統計檢定方法的原理及其適用時機",
+        "2.\t選擇適切的分析方法解決問題和解釋分析結果",
+        "3.\t運用統計軟體執行資料分析並撰寫分析結果報告"
+    ],
+    "syllabus": "*   **Class Schedule**\n\nReading: _Applied Linear Statistical Models_ 5e (2005)\n\nClass\n\nSubject\n\nReadings\n\n1\n\nReview of basic statistics\n\n2\n\nReview of basic statistics\n\n3\n\nLinear Regression\n\nCh1\n\n4\n\nInference in linear regression\n\nCh2\n\n5\n\nIntroduction to R\n\n6\n\n**Exam 1**\n\n7\n\nDiagnostics in linear regression\n\nCh3\n\n8\n\nSimultaneous inference\n\nCh4\n\n9\n\nMultiple regression\n\nCh6\n\n10\n\nMultiple regression\n\nCh7\n\n11\n\nQuantitative and qualitative predictors\n\nCh8\n\n12\n\nSPSS and R practice\n\n13\n\n**Exam 2**\n\n14\n\nModel selection and validation\n\nCh9\n\n15\n\nDiagnostics\n\nCh10\n\n16\n\nLogistic Regression\n\nCh14\n\n17\n\nSPSS and R practice\n\n18\n\n**Exam 3**",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "問題解決教學",
+            "note": ""
+        },
+        {
+            "type": "實驗/實作",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 35,
+            "note": ""
+        },
+        {
+            "type": "期中考",
+            "weight": 45,
+            "note": ""
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 10,
+            "note": ""
+        },
+        {
+            "type": "出席",
+            "weight": 10,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

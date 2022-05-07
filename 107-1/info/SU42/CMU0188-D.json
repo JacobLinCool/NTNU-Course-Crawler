@@ -1,0 +1,83 @@
+{
+    "year": 107,
+    "term": 1,
+    "name": "化學線上輔助學習（一）",
+    "teachers": [
+        "劉沂欣"
+    ],
+    "department": "SU42",
+    "code": "CMU0188",
+    "credit": 1,
+    "serial": 4482,
+    "group": "D",
+    "quota": {
+        "limit": 25,
+        "additional": 5
+    },
+    "schedule": [
+        {
+            "day": 4,
+            "from": 1,
+            "to": 1,
+            "campus": "公館",
+            "classroom": "Ｃ102"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "1",
+    "classes": "",
+    "dept_group": "",
+    "hours": 1,
+    "description": "「化學線上輔助學習（I）」為大一選修科目，為「普通化學（I）」－共同科目的輔助學習課程，以「多媒體數位題庫」做為學習進行方式，並結合各類的課業輔導活動。授課內容包含：量子力學、多電子原子、化學鍵、氣體動力學等四大主題之「線上習題演練」及「課業輔導」。",
+    "goals": [
+        "學習方式之訓練：相較於傳統共同科目課程，本課程強調以「題庫練習」來瞭解化學原理及概念應用，並訓練學生對化學及相關科學的學習方式。",
+        "實作能力之培養：教師以邏輯性及示範性的操作來演練習題，可減少學生操作過程中可能發生之困難及挫折，並引領學生對化學實作能力之培養。",
+        "應用多媒體學習：引領學生使用「線上多媒體數位題庫」結合學習內容，個人方式作答、融合助教小組討論，來解答學習困難，並增加學生對化學的學習信心。",
+        "模組化教學之建立：以「習題演練」模組化普通化學的學習進度，並建構單元化的線上課程內容，確保個人的學習成效。",
+        "線上學習能力之培養：「無紙化」的學習風潮和「線上閱讀」，成為目前各項知識的學習新趨勢。學生可配合專有名詞之線上翻譯及各類資料庫之同步學習，培養化學的自學能力。"
+    ],
+    "syllabus": "**_Week 1-5:_** _Atomic Structures and Quantum Mechanics_\n\nA. Structure of the Atom\n\nB. Waves and Light\n\nC. Bohr Atom, Photoelectric Effect, and AtomicSpectra\n\nD. Wave-Particle Duality  \n\nE. The Schrödinger Equation and Particle-in-a-boxModel\n\nF. Quantum Mechanics of the Hydrogen Atom    \n\n**_Week 6:_** _Midterm_ (課業輔導)\n\n**_Week 7-10:_** _Multi-electron Atoms and Periodicity_ \n\nA. Atomic Configuration\n\nB. Periodic Trends including Bond Types: Ionic, Covalent,and Polar Covalent\n\n**_Week 11:_** _Midterm_ (課業輔導)\n\n**_Week 12-15:_** _Chemical Bonding_\n\nA. Lewis Structures\n\nB. VSEPR Model  \n\nC. Hybridization\n\nD. Molecular Orbital Theory\n\nE. Combining Hybridization and Molecular OrbitalTheory\n\n**_Week 16-17:_** _Properties of Gases, Intermolecular Forces_ \n\nA. Ideal Gases\n\nB. Kinetic Theory of Gases\n\nC. Real Gases\n\nD. Intermolecular Forces and Dipole Moments\n\n**_Week 18:_** _Final_ (課業輔導)",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "本課程採用「課業輔導教學」及「多媒體題庫實作」的「引導式學習」。課前學生閱讀教師指定的作業，並於課程開始階段採用「個人帳號」，在助教協助下登入「個人線上題庫（OWL）」，再由教師介紹習題內容、示範作答技巧和評分方式。"
+        },
+        {
+            "type": "討論法",
+            "note": "「線上習題演練」完成後，教師可由「管理端」來瞭解每一位學生在練習題上所花的時間及獲得的成績。學生以個人或小組方式，對於過程中所發生的困難提出疑問。教師則以「一對一」的教學方式，進行疑問解答及觀念校正。藉由學生提問、並經由討論得到回答，使學生對課程的內容充份瞭解。"
+        },
+        {
+            "type": "問題解決教學",
+            "note": "有鑑於「沒有選修」高中理化或化學的指考學生，可藉由此情境學習環境的引導下，引入多媒體題庫及課業輔導，有系統地幫助接續高中化學的學習基礎、並建立其學習信心。"
+        },
+        {
+            "type": "合作學習",
+            "note": "本課程採用「課業輔導教學」及「多媒體題庫實作」的「引導式學習」。課前學生閱讀教師指定的作業，並於課程開始階段採用「個人帳號」，在助教協助下登入「個人線上題庫（OWL）」，再由教師介紹習題內容、示範作答技巧和評分方式。"
+        },
+        {
+            "type": "媒體融入教學",
+            "note": "「線上習題演練」完成後，教師可由「管理端」來瞭解每一位學生在練習題上所花的時間及獲得的成績。學生以個人或小組方式，對於過程中所發生的困難提出疑問。教師則以「一對一」的教學方式，進行疑問解答及觀念校正。藉由學生提問、並經由討論得到回答，使學生對課程的內容充份瞭解。"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 60,
+            "note": "指定原文閱讀及線上習題練習"
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 20,
+            "note": "習題作答及內容討論"
+        },
+        {
+            "type": "出席",
+            "weight": 20,
+            "note": "於「問題導向學習教室」中使用線上多媒體題庫"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

@@ -1,0 +1,130 @@
+[
+    {
+        "year": 109,
+        "term": 2,
+        "name": "書報討論（四）－博士班",
+        "teachers": [
+            "陳順同"
+        ],
+        "department": "HD73",
+        "code": "MTD0010",
+        "credit": 1,
+        "serial": 1089,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 8,
+                "to": 8,
+                "campus": "本部",
+                "classroom": "工教系會議室"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎課程開放上修",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 2,
+        "name": "實驗設計法",
+        "teachers": [
+            "劉傳璽"
+        ],
+        "department": "HM73",
+        "code": "MTC8006",
+        "credit": 3,
+        "serial": 1141,
+        "group": "",
+        "quota": {
+            "limit": 30,
+            "additional": 6
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 2,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "機電301會議室"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎課程開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 2,
+        "name": "高等熱傳學",
+        "teachers": [
+            "張天立"
+        ],
+        "department": "HM73",
+        "code": "MTC8011",
+        "credit": 3,
+        "serial": 1142,
+        "group": "",
+        "quota": {
+            "limit": 30,
+            "additional": 6
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 2,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "機電301會議室"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎必須先修過【MTU0060  流體力學】、【MTU0067  熱傳學】 ◎課程開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 2,
+        "name": "適應控制",
+        "teachers": [
+            "陳俊達"
+        ],
+        "department": "HM73",
+        "code": "MTC8014",
+        "credit": 3,
+        "serial": 1143,
+        "group": "",
+        "quota": {
+            "limit": 30,
+            "additional": 6
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 10,
+                "to": 12,
+                "campus": "本部",
+                "classroom": "機電301會議室"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎課程開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    }
+]

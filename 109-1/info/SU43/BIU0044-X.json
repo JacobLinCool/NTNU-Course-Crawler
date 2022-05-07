@@ -1,0 +1,66 @@
+{
+    "year": 109,
+    "term": 1,
+    "name": "遺傳學",
+    "teachers": [
+        "李桂楨",
+        "蘇銘燦",
+        "廖培鈞"
+    ],
+    "department": "SU43",
+    "code": "BIU0044",
+    "credit": 3,
+    "serial": 3003,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 6,
+            "to": 8,
+            "campus": "公館",
+            "classroom": "Ｅ201"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎必須先修過【BIU0168  普通生物學甲（一）】、【BIU0169  普通生物學甲（二）】",
+    "form_s": "2",
+    "classes": "1",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程目標為介紹遺傳學之基本概念、發展經過及目前之研究概況，使學生瞭解性狀的遺傳、基因的功能與調節、族群遺傳多樣性與演化等。",
+    "goals": [
+        "能熟悉並認知遺傳學專有名詞及遺傳現象之意涵，能敘述遺傳現象、解釋性狀遺傳、基因的功能與調節、族群遺傳多樣性與演化等",
+        "能體認遺傳變異為族群演化及物種多樣性之基礎，並以社會醫藥時事為例論述生命科學之相關議題",
+        "能解釋、計算、分析遺傳數據"
+    ],
+    "syllabus": "李桂楨老師  \n第一週Introduction to Genetics & Mitosis and Meiosis  \n第二週 Mendelian Genetics & Extensions of Mendelian Genetics  \n第三週Sex Determination and Sex Chromosomes & Chromosome Mutations: Variation in  \nChromosome Number and Arrangement  \n第四週Chromosome Mapping in Eukaryotes  \n第五週 Genetic Analysis and Mapping in Bacteria and Bacteriophages& Extranuclear Inheritance  \n第六週 Exam I  \n廖培鈞老師  \n第七週 Quantitative Genetics and Multifactorial Traits  \n第八週Genetics and Behavior  \n第九週Population Genetics  \n第十週Evolutionary Genetics  \n第十一週Conservation Genetics  \n第十二週Exam II  \n蘇銘燦老師  \n第十三週DNA Structure and Analysis & DNA Replication and Recombination  \n第十四週DNA Organization in Chromosomes  \n第十五週The Genetic Code and Transcription  \n第十六週Translation and Proteins  \n第十七週Gene Mutation, DNA Repair, and Transposition  \n第十八週Exam III",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "使用一般課本、自編講義媒材授課"
+        },
+        {
+            "type": "媒體融入教學",
+            "note": "運用數位平台與自製簡報檔案教學"
+        }
+    ],
+    "grading": [
+        {
+            "type": "期中考",
+            "weight": 67,
+            "note": "期中考一：選擇題(40%)名詞解釋(20%)問答題(40%)  期中考二：簡答題含名詞解釋、比較題(60%)、問答題含數據解讀及實驗設計(40%)"
+        },
+        {
+            "type": "期末考",
+            "weight": 33,
+            "note": "選擇題(40%)是非題(30%)問答題(30%)"
+        }
+    ],
+    "prerequisite": "◎必須先修過【BIU0168  普通生物學甲（一）】、【BIU0169  普通生物學甲（二）】",
+    "general_core": []
+}

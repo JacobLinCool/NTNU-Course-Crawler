@@ -1,0 +1,81 @@
+{
+    "year": 109,
+    "term": 1,
+    "name": "廣義相對論（一）",
+    "teachers": [
+        "卜宏毅"
+    ],
+    "department": "SM41",
+    "code": "PHC0114",
+    "credit": 3,
+    "serial": 2694,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 1,
+            "from": 6,
+            "to": 8,
+            "campus": "公館",
+            "classroom": "Ｆ102"
+        }
+    ],
+    "programs": [
+        "天文重力學程"
+    ],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "讓學生瞭解廣義相對論的基本概念及應用",
+    "goals": [
+        "瞭解廣義相對論",
+        "加強理性思維能力",
+        "物理研究能力培養"
+    ],
+    "syllabus": "week 1:  spacetime geometry, inertial frame and Lorentz transformation, Coordinate and Lorentz invariance, units\n\nweek 2: special relativity, Lorentaz contraction, aberration of light, vector, tensor, covariant/contravariant transformation\n\nweek 3: special relativisitc kinematics and dynamics, Rindler coordinate\n\nweek 4: general relativity: gravity as geometry, local inertial frames\n\nweek 5: manifold and Riemann geometry, metric tensor, and curved spacetime\n\nweek 6: Ricci tensor, Curvature tensor, Einstein's field equation\n\nweek 7: examples of spacetime metrics: Oppenheimer-Snyder collapse, Schwarzschild metric, warp drive\n\nweek 8: geodesics,  more tensor computations, tetrad\n\nweek 9: midterm exam\n\nweek 10: solving the spacetime geometry outside a spherical star, Birkhoff's theorm\n\nweek 11: Newtonian approximation, solar system tests of GR \n\nweek 12: black holes, horizons,  gravatational redshift, Penrose diagram\n\nweek 13: Kerr metric and rotating black holes, frame-dragging, black hole shadow, membrane paradigm\n\nweek 14: gravitational wave physics, quasi-normal modes,  numerical relativity\n\nweek 15: cosmological models\n\nweek 16: selected topic: relativisitc effects in astrophysics\n\nweek 17: selected topic: time travel, Lagrangian formulation of GR, alternative gravity\n\nweek 18: final exam",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "discuss about the main concepts"
+        },
+        {
+            "type": "討論法",
+            "note": "ask students to discuss their understandings about the key concepts"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "期中考",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 5,
+            "note": ""
+        },
+        {
+            "type": "其他",
+            "weight": 5,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

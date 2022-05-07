@@ -1,0 +1,68 @@
+{
+    "year": 110,
+    "term": 1,
+    "name": "普通化學甲（一）",
+    "teachers": [
+        "陳家俊"
+    ],
+    "department": "SU42",
+    "code": "CMU0176",
+    "credit": 3,
+    "serial": 2928,
+    "group": "B",
+    "quota": {
+        "limit": 60,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 4,
+            "from": 2,
+            "to": 4,
+            "campus": "公館",
+            "classroom": "Ｅ301"
+        }
+    ],
+    "programs": [],
+    "comment": "化一乙",
+    "restrict": "",
+    "form_s": "1",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "Understand Basic Chemical Principles.",
+    "goals": [
+        "訓練學生了解分子軌道理論",
+        "以分子軌道理論探討配位錯合物的電子結構"
+    ],
+    "syllabus": "1\\. understanding of atoms  \n2\\. chemical bonds  \n3\\. molecular shape and structure  \n4\\. the properties of gas  \n5\\. liquid & solid  \n6\\. the elements(in the main groups and d block)",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "媒體融入教學",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "期中考",
+            "weight": 35,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 35,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

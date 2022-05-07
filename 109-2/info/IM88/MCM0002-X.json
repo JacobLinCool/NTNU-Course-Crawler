@@ -1,0 +1,83 @@
+{
+    "year": 109,
+    "term": 2,
+    "name": "研究方法",
+    "teachers": [
+        "蔣旭政",
+        "蔡如音"
+    ],
+    "department": "IM88",
+    "code": "MCM0002",
+    "credit": 3,
+    "serial": 1401,
+    "group": "",
+    "quota": {
+        "limit": 30,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 1,
+            "from": 3,
+            "to": 5,
+            "campus": "本部",
+            "classroom": "綜7樓大傳所大教室"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程不開放上修",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程為大傳所碩一必修課。教學目標在於使碩一同學認識幾種常用的社會科學研究方法，並培養同學實際進行傳播研究的能力。",
+    "goals": [
+        "幫助熟悉計量與質化傳播研究方法，並具備獨立研究能力",
+        "使學生具備分析閱聽人傳播消費行為的計量或質化質料能力",
+        "使學生具備傳播倫理基本知識"
+    ],
+    "syllabus": "W1：課程介紹  \nW2：研究方法概論  \nW3：研究的科學與邏輯基礎  \nW4：研究設計的結構  \nW5：討論論文題目  \nW6：修正論文題目  \nW7：測量原理  \nW8：抽樣原理  \nW9：調查法  \nW10：調查法  \nW11：內容分析  \nW12：實驗法  \nW13：質化研究  \nW14：質化研究  \nW15：質化研究  \nW16：質化研究  \nW17：質化研究  \nW18：期末報告",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": ""
+        },
+        {
+            "type": "合作學習",
+            "note": ""
+        },
+        {
+            "type": "專題研究",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 20,
+            "note": ""
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "出席",
+            "weight": 10,
+            "note": ""
+        },
+        {
+            "type": "報告",
+            "weight": 40,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

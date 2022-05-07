@@ -1,0 +1,91 @@
+{
+    "year": 108,
+    "term": 1,
+    "name": "國際財務管理",
+    "teachers": [
+        "安用吉"
+    ],
+    "department": "OM56",
+    "code": "IAM0081",
+    "credit": 3,
+    "serial": 2510,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 5,
+            "from": 10,
+            "to": 12,
+            "campus": "本部",
+            "classroom": "雲508"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎必須先修過(也可以同時修)【BAU0036  會計學（一）】、【BAU0038  經濟學（一）】、【BAU0040  統計學（一）】、【PGUA005  會計學】、【PGUA006  經濟學】、【PGUA007  統計學】其中一門 ◎課程不開放上修",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程首先介紹國際經營環境所需的背景知識，讓學生瞭解國際財務管理環境。邇後，從企業的觀點，探討跨國財務管理的各個層面，包括全球外匯市場、資本市場及相關的衍生性金融商品交易市場，瞭解各種金融商品交易與風險之關係、海外市場特性與相關議題，以利分析與制訂跨國企業財務管理決策。",
+    "goals": [
+        "跨國企業的政治經濟學",
+        "掌握國際投資學的核心原理",
+        "認識匯率風險與避險"
+    ],
+    "syllabus": "I will hold two review sessions prior to the midterm and the final. I will not cover any new materials during the review sessions. The session is mainly intended to remind you of key concepts and answer your questions.  \n• Week 1: introduction  \n• Week 2: foundations of international finance  \n• Week 3: foreign exchange market  \n• Week 4: international monetary system  \n• Week 5: balance of payments  \n• Week 6: LOOP, IRP, PPP, and triangular arbitrage  \n• Week 7: LOOP, IRP, PPP, and triangular arbitrage  \n• Week 8: bid-ask spread, CIA, and various other relations  \n• Week 9: midterm exam  \n• Week 10: currency derivatives (Ch.7)  \n• Week 11: interest rate derivatives (Ch.14), reading assignment 1  \n• Week 12: foreign exchange risk management (Ch.8,9,10), reading assignment 2  \n• Week 13: foreign exchange risk management (Ch.8,9,10), reading assignment 3  \n• Week 14: international portfolio management (Ch.15), case study 1  \n• Week 15: international portfolio management (Ch.15), case study 2  \n• Week 16: mini-conference  \n• Week 17: mini-conference  \n• Week 18: final exam",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "39 hours per semester"
+        },
+        {
+            "type": "討論法",
+            "note": "9 hours for mini conference and group project"
+        },
+        {
+            "type": "問題解決教學",
+            "note": "18-hour self-study (2 assignments per semester)"
+        },
+        {
+            "type": "專題研究",
+            "note": "12-hour commitment per semester"
+        },
+        {
+            "type": "其他",
+            "note": "I will use Socrative quite extensively. You will share your understanding by answering assessment questions such as quizzes or quick question polls."
+        }
+    ],
+    "grading": [
+        {
+            "type": "期中考",
+            "weight": 30,
+            "note": "The midterm exam will cover all the topics discussed up to the time. Unless I indicate otherwise, everything discussed in class may appear in the exam. You may bring a standard function (addition, subtraction, multiplication, and division) calculator."
+        },
+        {
+            "type": "期末考",
+            "weight": 40,
+            "note": "The final exam will take place during the final exam week. It is cumulative and will cover the entire course materials. The final exam will be more challenging than the midterm exam. Similarly to the midterm exam, you may bring a standard function calculator. You don’t need to memorize complicated formulas. A formula sheet will be given during the exam."
+        },
+        {
+            "type": "報告",
+            "weight": 10,
+            "note": "case study:We will discuss the following two Harvard business cases"
+        },
+        {
+            "type": "專題",
+            "weight": 10,
+            "note": "Group Project:The purpose of group project is to get familiar with recent developments of international financial markets to make up the under-coverage of them in the lectures. Groups of two people must be formed and should stay together until the end of semester"
+        },
+        {
+            "type": "其他",
+            "weight": 10,
+            "note": "Socrative Quizzes:There will be approximately five random quizzes throughout the semester. If you miss two quizzes, you will fail this course for sure."
+        }
+    ],
+    "prerequisite": "◎必須先修過(也可以同時修)【BAU0036  會計學（一）】、【BAU0038  經濟學（一）】、【BAU0040  統計學（一）】、【PGUA005  會計學】、【PGUA006  經濟學】、【PGUA007  統計學】其中一門",
+    "general_core": []
+}

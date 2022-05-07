@@ -1,0 +1,74 @@
+{
+    "year": 107,
+    "term": 1,
+    "name": "工程數學",
+    "teachers": [
+        "洪翊軒"
+    ],
+    "department": "HU70",
+    "code": "IEU3009",
+    "credit": 3,
+    "serial": 1196,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 5,
+            "from": 2,
+            "to": 4,
+            "campus": "本部",
+            "classroom": "工401"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "2",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "工程問題所需之數學理論（微分方程與線性代數範圍）。",
+    "goals": [
+        "獲得工程問題所需之數學理論",
+        "獲得工程問題之解題能力"
+    ],
+    "syllabus": "1\\. First-Order Differential Equations  \n2\\. Linear Differential Equations of Second Order and Higher  \n3\\. Systems of Differential Equations  \n4\\. Laplace Transforms  \n5\\. Linear Algebra: matrices, Vectors, Determinanats.  \n6\\. Linear Algebra: Matrix Eigenvalue Problems  \n7\\. Vector Differential Calculus. Grad, Div, Curl.  \n8\\. Vector Integeral Calculus. Integral Theorems.",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "課堂講演"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 20,
+            "note": "習題作業"
+        },
+        {
+            "type": "期中考",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 10,
+            "note": ""
+        },
+        {
+            "type": "出席",
+            "weight": 10,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

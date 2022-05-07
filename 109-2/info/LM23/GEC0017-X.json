@@ -1,0 +1,67 @@
+{
+    "year": 109,
+    "term": 2,
+    "name": "地理資訊網路應用",
+    "teachers": [
+        "周學政"
+    ],
+    "department": "LM23",
+    "code": "GEC0017",
+    "credit": 2,
+    "serial": 1620,
+    "group": "",
+    "quota": {
+        "limit": 25,
+        "additional": 0
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 8,
+            "to": 9,
+            "campus": "本部",
+            "classroom": "地理系電腦教室"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 2,
+    "description": "網路資訊的搜尋、整理與應用為現代人的基本素養，本課程除介紹有關一般網路應用之技能，並強調電子地圖，行動平台等網路平台之應用。",
+    "goals": [
+        "瞭解資訊網路的最新發展趨勢",
+        "如何利用網路資訊進行地理學研究。"
+    ],
+    "syllabus": "課程目的\n----\n\n介紹 internet 發展趨勢與地理上的應用。使學生對於internet有較全面的認識，強調技術發展與社會的關係。\n\n課程大綱\n----\n\n1.  資料搜尋、評斷與管理\n    1.  搜尋引擎原理與搜尋引擎優化SEO\n    2.  學術文獻搜尋技巧- Google Search, Google Scholar, Amazon\n    3.  書目軟體- endnote, refwork 使用\n2.   WEB原理與應用\n    1.  HTTP\n    2.  XML、HTML\n    3.  CSS\n    4.  JavaScript\n    5.  Web API vs Web Scrapping\n    6.  Semantic Web\n    7.  Mobile First & Location Based Services\n    8.  Internet of Thing, Smart Home & Smart City\n3.  WEB Mapping and Visualization 的原理與使用\n    1.  Web GIS and Visualization 原理\n    2.  Google Data Studio, Tableau & flourish 等視覺化平台\n    3.  ArcGIS Online 應用\n    4.  Leaftlet Web Mapping\n    5.  R and Python Web Mapping\n4.  應用範例",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": ""
+        },
+        {
+            "type": "實驗/實作",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 70,
+            "note": ""
+        },
+        {
+            "type": "報告",
+            "weight": 30,
+            "note": "期末報告"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

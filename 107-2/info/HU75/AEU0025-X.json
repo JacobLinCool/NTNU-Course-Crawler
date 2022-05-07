@@ -1,0 +1,74 @@
+{
+    "year": 107,
+    "term": 2,
+    "name": "訊號與系統",
+    "teachers": [
+        "王嘉斌"
+    ],
+    "department": "HU75",
+    "code": "AEU0025",
+    "credit": 3,
+    "serial": 1335,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 2,
+            "to": 4,
+            "campus": "本部",
+            "classroom": "工501"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "2",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "學習者能運用訊號與系統的知識設計信號處理的系統.",
+    "goals": [
+        "學習訊號與系統之基本理論模式",
+        "瞭解訊號處理系統的技術知識",
+        "學習設計訊號處理系統的基本觀念與技術"
+    ],
+    "syllabus": "第01週：Introduction to signals and systems\n\n第02週：Continuous-Time and Discrete-Time Signals\n\n第03週：Linear Time-Invariant Systems\n\n第04週：Linear Time-Invariant Systems\n\n第05週：Fourier Series Representation of Periodic Signals\n\n第06週：Fourier Series Representation of Periodic Signals\n\n第07週：The Continuous-Time Fourier Transform\n\n第08週：The Continuous-Time Fourier Transform\n\n第09週：期中考\n\n第10週：The Discrete-Time Fourier Transform\n\n第11週：The Discrete-Time Fourier Transform\n\n第12週：Time- and Frequency Characterization of Signals and Systems\n\n第13週：Time- and Frequency Characterization of Signals and Systems\n\n第14週：Sampling\n\n第15週：Sampling\n\n第16週：Communication Systems\n\n第17週：Communication Systems\n\n第18週：期末考",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "期中考",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 35,
+            "note": ""
+        },
+        {
+            "type": "出席",
+            "weight": 5,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

@@ -1,0 +1,86 @@
+{
+    "year": 110,
+    "term": 2,
+    "name": "現代全像術",
+    "teachers": [
+        "鄭超仁"
+    ],
+    "department": "HM77",
+    "code": "OEC8139",
+    "credit": 3,
+    "serial": 1136,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 7,
+            "to": 9,
+            "campus": "公館",
+            "classroom": "綜合館201"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "",
+    "goals": [
+        "1. Understand the recording and reconstruction methods of holography.",
+        "2. Learn the characteristics, principles and application methods and technologies of computer holograms, and learn to generate computer holograms and related applications and technologies.",
+        "3. Recognize the characteristics of digital holographic optical recording and learn its numerical reconstruction method.",
+        "4. A case study of learning computer holography and digital holography."
+    ],
+    "syllabus": "Week\n\n Chapter\n\n1\n\nIntroduction\n\n2\n\nBasis of Fourier Optics (1)\n\n3\n\nBasis of Fourier Optics (2)\n\n4\n\nBasis of Fourier Optics (3)\n\n5\n\nWave propagation and diffraction\n\n6\n\nBlock model of optical imaging system\n\n7\n\n1.  Principle of Holography\n2.  Wavefront recording and reconstruction\n\n8\n\n1.  Holographic imaging\n2.  Hologram in digital form\n\n9\n\nMidterm test/assignment\n\n10\n\n1.  Digital holography\n2.  Principle of digital holography (DH)\n\n11\n\n1.  General techniques in digital holography\n2.  Simulation of DH recording and reconstruction\n\n12\n\nDigital holographic microscopy (DHM)\n\n1.  Synthetic Aperture (SA)\n2.  Structured illumination (SI)\n\n13\n\n1.  Simulation of DHM/SA/SI\n\n14\n\n1.  Computer-generated Holography (CGH)\n2.  Simulation of CGH\n\n15\n\nDHM case study\n\n16\n\nCGH case study\n\n17\n\nAI vs DH case study\n\n18\n\nFinal Term/Report",
+    "methodologies": [
+        {
+            "type": "Formal lecture",
+            "note": ""
+        },
+        {
+            "type": "Group discussion",
+            "note": ""
+        },
+        {
+            "type": "Problem base learning",
+            "note": ""
+        },
+        {
+            "type": "Cooperative learning",
+            "note": ""
+        },
+        {
+            "type": "Lab/Studio",
+            "note": ""
+        },
+        {
+            "type": "Media, audio, visual materials",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "Assignments",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "Class discussion involvement",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "Presentation",
+            "weight": 40,
+            "note": ""
+        }
+    ],
+    "prerequisite": "◎Available for junior and senior year B.A. program students (Doctoral program courses excepted) and M.A. program students.",
+    "general_core": []
+}

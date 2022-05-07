@@ -1,0 +1,388 @@
+[
+    {
+        "year": 107,
+        "term": 1,
+        "name": "高級教育統計學（甲）",
+        "teachers": [
+            "李子奇"
+        ],
+        "department": "E",
+        "code": "E0C8001",
+        "credit": 3,
+        "serial": 4394,
+        "group": "C",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 6,
+                "to": 8,
+                "campus": "本部",
+                "classroom": "樸206"
+            }
+        ],
+        "programs": [
+            "大數據學程"
+        ],
+        "comment": "",
+        "restrict": "◎必須先修過【E0U0001  教育統計學（一）】 ◎課程開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 1,
+        "name": "家庭發展研究",
+        "teachers": [
+            "林如萍"
+        ],
+        "department": "EM06",
+        "code": "HGM0028",
+        "credit": 3,
+        "serial": 4441,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 7,
+                "to": 9,
+                "campus": "本部",
+                "classroom": "勤103"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎課程開放上修",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 1,
+        "name": "婚姻研究",
+        "teachers": [
+            "林如萍"
+        ],
+        "department": "EM06",
+        "code": "HGM0132",
+        "credit": 3,
+        "serial": 463,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 2,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "勤103"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎課程不開放上修",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 1,
+        "name": "多元文化幼兒教育研究",
+        "teachers": [
+            "賴文鳳"
+        ],
+        "department": "EM06",
+        "code": "HGM0190",
+        "credit": 3,
+        "serial": 464,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 2,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "教室自排"
+            }
+        ],
+        "programs": [],
+        "comment": "上課教室:人發系會議室A",
+        "restrict": "◎課程不開放上修",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 1,
+        "name": "社會科學研究法",
+        "teachers": [
+            "王馨敏"
+        ],
+        "department": "EM06",
+        "code": "HGM0193",
+        "credit": 3,
+        "serial": 465,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 6,
+                "to": 8,
+                "campus": "本部",
+                "classroom": "勤103"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎課程不開放上修",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 1,
+        "name": "嬰幼兒語言發展研究",
+        "teachers": [
+            "張鑑如"
+        ],
+        "department": "EM06",
+        "code": "HGM0195",
+        "credit": 3,
+        "serial": 466,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 2,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "教室自排"
+            }
+        ],
+        "programs": [],
+        "comment": "上課地點:本系視聽室",
+        "restrict": "◎課程不開放上修",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 1,
+        "name": "成人與老年發展研究",
+        "teachers": [
+            "郭郡羽"
+        ],
+        "department": "EM06",
+        "code": "HGC0081",
+        "credit": 3,
+        "serial": 467,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 2,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "教室自排"
+            }
+        ],
+        "programs": [],
+        "comment": "上課地點:本系會議室A",
+        "restrict": "◎課程不開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 1,
+        "name": "嬰幼兒雙語研究",
+        "teachers": [
+            "張鑑如"
+        ],
+        "department": "EM06",
+        "code": "HGC8002",
+        "credit": 3,
+        "serial": 468,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 5,
+                "to": 7,
+                "campus": "本部",
+                "classroom": "教室自排"
+            }
+        ],
+        "programs": [],
+        "comment": "上課地點:本系視聽室",
+        "restrict": "◎必須先修過【HGM0195  嬰幼兒語言發展研究】 ◎課程不開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 1,
+        "name": "膳食研究與營養流行病學",
+        "teachers": [
+            "盧立卿"
+        ],
+        "department": "EM06",
+        "code": "HGC8003",
+        "credit": 3,
+        "serial": 469,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 6,
+                "to": 8,
+                "campus": "本部",
+                "classroom": "勤102"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎課程不開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 1,
+        "name": "專題討論（一）",
+        "teachers": [
+            "楊翠竹"
+        ],
+        "department": "EM06",
+        "code": "HGM0212",
+        "credit": 2,
+        "serial": 470,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 9,
+                "to": 10,
+                "campus": "本部",
+                "classroom": "勤102"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎課程不開放上修",
+        "form_s": "1",
+        "classes": "",
+        "dept_group": "A"
+    },
+    {
+        "year": 107,
+        "term": 1,
+        "name": "專題討論（一）",
+        "teachers": [
+            "王馨敏"
+        ],
+        "department": "EM06",
+        "code": "HGM0212",
+        "credit": 2,
+        "serial": 471,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 9,
+                "to": 10,
+                "campus": "本部",
+                "classroom": "勤103"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎課程不開放上修",
+        "form_s": "1",
+        "classes": "",
+        "dept_group": "B"
+    },
+    {
+        "year": 107,
+        "term": 1,
+        "name": "營養與癌症",
+        "teachers": [
+            "蘇純立"
+        ],
+        "department": "EU06",
+        "code": "HGC0085",
+        "credit": 3,
+        "serial": 781,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 2,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "勤103"
+            }
+        ],
+        "programs": [],
+        "comment": "研究生欲選修請向授課老師取得授權碼",
+        "restrict": "◎必須先修過【HGU0345  生物化學】",
+        "form_s": "",
+        "classes": "9",
+        "dept_group": "F"
+    }
+]

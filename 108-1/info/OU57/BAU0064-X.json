@@ -1,0 +1,80 @@
+{
+    "year": 108,
+    "term": 1,
+    "name": "商用微積分",
+    "teachers": [
+        "黃嘉威"
+    ],
+    "department": "OU57",
+    "code": "BAU0064",
+    "credit": 3,
+    "serial": 2527,
+    "group": "",
+    "quota": {
+        "limit": 57,
+        "additional": 35
+    },
+    "schedule": [
+        {
+            "day": 1,
+            "from": 7,
+            "to": 9,
+            "campus": "本部",
+            "classroom": "誠201"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "1",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程介紹微分基本概念與其在財務、經濟、管理和其它領域的應用。",
+    "goals": [
+        "增進數學分析基本概念的理解，使得學生學習管理數學之技巧",
+        "增進邏輯推理與歸納的能力",
+        "增進數學思維與批判性思考的能力",
+        "增進專業知識及追求真理的態度，助學生在管理數學領域上的學習與運用"
+    ],
+    "syllabus": "Week\n\nProposed Lecture\n\n1\n\nIntroduction and Reviews of Basic Mathematics\n\n2\n\nFunctions, Graphs, and Limits\n\n3\n\nFunctions, Graphs, and Limits\n\n4\n\nDifferentiation\n\n5\n\nDifferentiation\n\n6\n\nDifferentiation\n\n7\n\nDifferentiation\n\n8\n\nQuiz (I)\n\n9\n\nMidterm Exam\n\n10\n\nApplications of the Derivatives\n\n11\n\nApplications of the Derivatives\n\n12\n\nApplications of the Derivatives\n\n13\n\nExponential and Logarithmic Functions\n\n14\n\nExponential and Logarithmic Functions\n\n15\n\nDifferentiation of Exponential and Logarithmic Functions\n\n16\n\nDifferentiation of Exponential and Logarithmic Functions\n\n17\n\nQuiz (II)\n\n18\n\nFinal Exam",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "依照上課講義進行"
+        },
+        {
+            "type": "討論法",
+            "note": "上課中會提出問題思考及討論"
+        }
+    ],
+    "grading": [
+        {
+            "type": "期中考",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 10,
+            "note": "鼓勵同學回答問題"
+        },
+        {
+            "type": "出席",
+            "weight": 10,
+            "note": "點名"
+        },
+        {
+            "type": "其他",
+            "weight": 20,
+            "note": "二次小考各佔10%"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

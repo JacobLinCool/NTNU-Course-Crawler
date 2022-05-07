@@ -1,0 +1,94 @@
+{
+    "year": 109,
+    "term": 1,
+    "name": "無機化學（一）",
+    "teachers": [
+        "劉沂欣"
+    ],
+    "department": "SU42",
+    "code": "CMU0145",
+    "credit": 3,
+    "serial": 2960,
+    "group": "B",
+    "quota": {
+        "limit": 50,
+        "additional": 0
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 3,
+            "to": 4,
+            "campus": "公館",
+            "classroom": "Ｓ603"
+        },
+        {
+            "day": 4,
+            "from": 2,
+            "to": 2,
+            "campus": "公館",
+            "classroom": "Ｓ603"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "3",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "To train students to have the basic concepts of CFT and complexes.",
+    "goals": [
+        "The hydrogen atomic structure and the trend of the periodical elements.",
+        "Molecular structures and bonding theories.",
+        "Main group elements and their compounds.",
+        "CFT and electronic spectra."
+    ],
+    "syllabus": "Week\n\nDate\n\nLecture Topics\n\n1\n\n9/10, 12\n\nLec 1: Intro. & Atomic Structures (Ch.1, 2)\n\n2\n\n9/17, 19\n\nLec 2: Quantum Mechanics (Ch.2)\n\n3\n\n9/24, 26\n\nLec 3: VSEPR and Bonding (Ch.3)\n\n4\n\n10/1, 3\n\nLec 4: Bonding Types (Ch. 3)\n\n5\n\n10/8, 10\n\nLec 5: Symmetry (Ch. 4)\n\n6\n\n10/15, 17\n\nLec 6: Point Group and its Representation (Ch. 4)\n\n7\n\n10/22, 22\n\n**Midterm (I) Ch.1-6**\n\n8\n\n10/29, 31\n\nLec 7: LCAO to MO (Ch.5)\n\n9\n\n11/5, 7\n\nLec 8: Diatomic MO (Ch.5)\n\n10\n\n11/12, 14\n\nLec 9: SALCs (Ch.5)\n\n11\n\n11/19, 21\n\nLec 10: Hybrid Orbitals (Ch.5)\n\n12\n\n11/26, 28\n\nLec 11: Case Discussion (Ch.5)\n\n13\n\n12/3, 5\n\n**Midterm (II) Ch. 5**\n\n14\n\n12/10, 12\n\nLec 12: Acid-Base (Ch.6)  \n\n15\n\n12/17, 19\n\nLec 13: Intermolecular Force (Ch.6)\n\n16\n\n12/24, 26\n\nLec 14: Crystal Structures (Ch.7)\n\n17\n\n1/1, 3\n\nLec 15: Quantum Dots and Porous Materials (Ch.7) -\n\n18\n\n1/8, 10\n\n**Final Exam: Ch.6-7**\n\n  \n[教學進度與主題附件](https://ap.itc.ntnu.edu.tw/NtnuFileShare/file.do?action=dl&gno=6ce14a96592343a3b8216c257184aa0e&fno=d55df278abe14cc596ea64822e627d54)",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "原理"
+        },
+        {
+            "type": "討論法",
+            "note": "分組討論"
+        },
+        {
+            "type": "問題解決教學",
+            "note": "研究實例"
+        },
+        {
+            "type": "合作學習",
+            "note": "上課小組報告"
+        },
+        {
+            "type": "媒體融入教學",
+            "note": "網路影片"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 10,
+            "note": "每章習題"
+        },
+        {
+            "type": "期中考",
+            "weight": 60,
+            "note": "共2次"
+        },
+        {
+            "type": "期末考",
+            "weight": 30,
+            "note": "共1次"
+        },
+        {
+            "type": "出席",
+            "weight": 5,
+            "note": "點名及小考"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

@@ -1,0 +1,214 @@
+[
+    {
+        "year": 110,
+        "term": 2,
+        "name": "星星月亮太陽－天文漫談",
+        "teachers": [
+            "曾瑋玲"
+        ],
+        "department": "GU",
+        "code": "06UG004",
+        "credit": 2,
+        "serial": 971,
+        "group": "A",
+        "quota": {
+            "limit": 35,
+            "additional": 5
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 3,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "正301"
+            }
+        ],
+        "programs": [
+            "天文重力學程"
+        ],
+        "comment": "",
+        "restrict": "◎地科系（學）不得選修 ◎課程開放上修",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 2,
+        "name": "星星月亮太陽－天文漫談",
+        "teachers": [
+            "橋本康弘"
+        ],
+        "department": "GU",
+        "code": "06UG004",
+        "credit": 2,
+        "serial": 972,
+        "group": "B",
+        "quota": {
+            "limit": 107,
+            "additional": 30
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 3,
+                "to": 4,
+                "campus": "公館",
+                "classroom": "Ｅ202"
+            }
+        ],
+        "programs": [
+            "天文重力學程"
+        ],
+        "comment": "",
+        "restrict": "◎地科系（學）不得選修 ◎課程開放上修",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 2,
+        "name": "宇宙中的生命與太空環境",
+        "teachers": [
+            "陳林文"
+        ],
+        "department": "GU",
+        "code": "06UG021",
+        "credit": 2,
+        "serial": 982,
+        "group": "A",
+        "quota": {
+            "limit": 50,
+            "additional": 5
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 8,
+                "to": 9,
+                "campus": "本部",
+                "classroom": "正301"
+            }
+        ],
+        "programs": [
+            "天文重力學程"
+        ],
+        "comment": "",
+        "restrict": "◎課程開放上修",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 2,
+        "name": "宇宙中的生命與太空環境",
+        "teachers": [
+            "橋本康弘"
+        ],
+        "department": "GU",
+        "code": "06UG021",
+        "credit": 2,
+        "serial": 983,
+        "group": "B",
+        "quota": {
+            "limit": 97,
+            "additional": 30
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 6,
+                "to": 7,
+                "campus": "公館",
+                "classroom": "Ｅ302"
+            }
+        ],
+        "programs": [
+            "天文重力學程"
+        ],
+        "comment": "◎數位課程",
+        "restrict": "◎課程開放上修",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 2,
+        "name": "微分幾何（二）",
+        "teachers": [
+            "陳瑞堂"
+        ],
+        "department": "SU40",
+        "code": "MAU0107",
+        "credit": 3,
+        "serial": 2771,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 5,
+                "from": 6,
+                "to": 6,
+                "campus": "公館",
+                "classroom": "理圖807"
+            },
+            {
+                "day": 5,
+                "from": 7,
+                "to": 8,
+                "campus": "公館",
+                "classroom": "Ｂ103"
+            }
+        ],
+        "programs": [
+            "天文重力學程"
+        ],
+        "comment": "",
+        "restrict": "◎課程開放上修",
+        "form_s": "3",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 2,
+        "name": "天文學（含實習）",
+        "teachers": [
+            "陳林文"
+        ],
+        "department": "SU44",
+        "code": "ESU0178",
+        "credit": 3,
+        "serial": 2932,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 15
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 7,
+                "to": 9,
+                "campus": "公館",
+                "classroom": "Ｅ301"
+            }
+        ],
+        "programs": [
+            "天文重力學程",
+            "太陽能源與工程學程"
+        ],
+        "comment": "",
+        "restrict": "◎課程開放上修",
+        "form_s": "1",
+        "classes": "",
+        "dept_group": ""
+    }
+]

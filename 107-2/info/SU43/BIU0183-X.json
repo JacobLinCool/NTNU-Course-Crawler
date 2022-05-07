@@ -1,0 +1,78 @@
+{
+    "year": 107,
+    "term": 2,
+    "name": "組織學",
+    "teachers": [
+        "張孜菁"
+    ],
+    "department": "SU43",
+    "code": "BIU0183",
+    "credit": 2,
+    "serial": 2864,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 5,
+            "from": 6,
+            "to": 7,
+            "campus": "公館",
+            "classroom": "Ｅ202"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎必須先修過【BIU0168  普通生物學甲（一）】、【BIU0169  普通生物學甲（二）】",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 2,
+    "description": "組織學是研究生物體細胞及組織其組成與形態的顯微解剖學，本課程將教導學生關於包括骨骼、肌肉、心血管、淋巴、呼吸、神經、特殊感覺等系統的細胞及組織型態，其形成、構造和功能, 並與解剖學及生理學配合，讓學生了解生物體運作的原理及調節控制之機轉。並進一步了解各個系統間如何彼此互動協調，以維持生物體之生命現象，作為學生日後研習其它生命科學及實驗操作的基礎。",
+    "goals": [
+        "了解細胞及組織的組成構造及其相對應功能",
+        "明暸細胞及組織等構造功能和解剖學及生理學的關係，成為日後研習其他課程的基礎",
+        "組織學技術的了解為日後相關實驗操作之基礎"
+    ],
+    "syllabus": "`**1. (2/22) Introduction of histology and histological techniques**`\n\n`**2. (2/23) Cytology**`\n\n`**3. (3/08) Epithelium tissue**`\n\n`**4. (3/15) Connective tissue and molecules of ECM**`\n\n`**5. (3/22) Skin,muscle and bone**`\n\n`**6. (3/29) Cardiovascular system**`\n\n`**7. (4/12) Blood and hemopoiesis**`\n\n`**8. _(4/19) Midterm exam_**`\n\n`**9. (4/26) Immune system and lymphoid organ**` \n\n`**10.(5/03) Digestive system**`\n\n`**11.(5/17) Respiratory system**`\n\n`**12.(5/24) Urinary and reproductive system**` \n\n`**13.(5/31) Endocrine glands**` \n\n`**15.(6/14) Nervous tissue**` \n\n`**16._(6/21) Final exam_**`",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "課程講授輔以投影片或影片教學"
+        },
+        {
+            "type": "討論法",
+            "note": "課堂間問題提問及討論"
+        },
+        {
+            "type": "媒體融入教學",
+            "note": "課程講授輔以投影片或影片教學"
+        }
+    ],
+    "grading": [
+        {
+            "type": "期中考",
+            "weight": 40,
+            "note": "選擇題（含整合性選擇題）約40-50題,實得分數乘以所占百分比"
+        },
+        {
+            "type": "期末考",
+            "weight": 40,
+            "note": "選擇題（含整合性選擇題）約40-50題,實得分數乘以所占百分比"
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 10,
+            "note": "參與討論,課堂提問與問題回答"
+        },
+        {
+            "type": "出席",
+            "weight": 10,
+            "note": "不能出席者需請假"
+        }
+    ],
+    "prerequisite": "◎必須先修過【BIU0168  普通生物學甲（一）】、【BIU0169  普通生物學甲（二）】",
+    "general_core": []
+}

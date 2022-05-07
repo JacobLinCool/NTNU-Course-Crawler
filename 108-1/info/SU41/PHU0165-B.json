@@ -1,0 +1,78 @@
+{
+    "year": 108,
+    "term": 1,
+    "name": "實驗物理（一）",
+    "teachers": [
+        "林文欽"
+    ],
+    "department": "SU41",
+    "code": "PHU0165",
+    "credit": 3,
+    "serial": 2892,
+    "group": "B",
+    "quota": {
+        "limit": 30,
+        "additional": 5
+    },
+    "schedule": [
+        {
+            "day": 4,
+            "from": 6,
+            "to": 8,
+            "campus": "公館",
+            "classroom": "Ｄ101"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "2",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "1. 藉由實驗驗證理論課程所學，增進對相關內容的認知與了解。\n2. 使學生認知實驗技術,並能應用於研究或其他工作。\n3. 使學生知悉解決問題的工具、方法及步驟，增進培養實際動手解決問題的能力。",
+    "goals": [
+        "瞭解物理基礎理論與實驗的配合",
+        "學習實驗技術、加強動手操作能力",
+        "訓練整合與思辨"
+    ],
+    "syllabus": "實驗物理一的課程主要是大二的學生上的一門與實驗物理的課程。\n\n**目標:  \n1\\. 藉由實驗驗證理論課程所學，增進對相關內容的認知與了解。2\\. 使學生認知實驗技術,並能應用於研究或其他工作。3\\. 使學生知悉解決問題的工具、方法及步驟，增進培養實際動手解決問題的能力。  \n  \n**\n\n目前的規劃教學的內容有:\n\n1\\. Error Analysis(誤差), and Introduction of report writing\n\nContent:\n\nWhat is experiment?\n\nHow to write reports? Notes or Articles?\n\nError Analysis (Emphasize on the plot！)\n\nUseful software that can be found in web, and can help on the experiment.\n\n2\\. Simple-Pendulum-Like periodic motion on an inclined plane\n\nContent:\n\nThe period measured by stop watch?\n\nTheoretical Prediction\n\nDoes energy conserve?\n\nDry friction force\n\n3\\. Effect Mass of Real Spring (Includes mass, gravity, spring constant)\n\nContent:\n\nDoes the spring mass has effect on the force constant?\n\nStatic Case\n\nDynamical Case\n\n4\\. Thermal Experiments with calibrated thermocouples\n\nContent:\n\nCalibrate a Thermocouple\n\nNewton Cooling Law\n\n5\\. Magnetic Probe and Magnetic Forces Problems\n\nContent:\n\nResonance of a magnetic tip   \nResonance frequency and external force   \nUse the result 2, to calibrate force and frequency   \nUse the device to determine the depth of buried magnets\n\nOptical sensor for Optics experiments\n\n6\\. Traditional Experiments\n\nContent:\n\n氣體γ值的測定\n\n氣體的狀態方程式\n\n金屬導體熱傳導與電導係數測量\n\n平行板電容\n\n電容器的充電曲線與經驗公式\n\n載流導線與磁場的交互作用\n\n載流導線外部磁場與 Helmholtz 線圈中心磁場測量\n\n法拉第電磁感應定律\n\n熱輻射\n\n相圖與臨界點\n\n熱傳導係數\n\n單一線圈磁場測量\n\n螺線管的自感\n\n微波 ( 一 ) 、 ( 二 ) 、 ( 三 )\n\n電容器、電感器儲存的能量\n\n渦電流\n\n交流 χ 值量測",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "實驗內容講述"
+        },
+        {
+            "type": "討論法",
+            "note": "學生對於實驗結果的討論"
+        },
+        {
+            "type": "實驗/實作",
+            "note": "學生進行實驗操作"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 50,
+            "note": "有7份實驗報告要撰寫"
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 20,
+            "note": "分組相互合作，針對結果進行討論"
+        },
+        {
+            "type": "出席",
+            "weight": 10,
+            "note": "一組僅有兩人，因此不能缺課"
+        },
+        {
+            "type": "報告",
+            "weight": 20,
+            "note": "將實驗的果報告"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

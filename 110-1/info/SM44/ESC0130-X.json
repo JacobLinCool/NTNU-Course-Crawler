@@ -1,0 +1,76 @@
+{
+    "year": 110,
+    "term": 1,
+    "name": "中尺度氣象學",
+    "teachers": [
+        "簡芳菁"
+    ],
+    "department": "SM44",
+    "code": "ESC0130",
+    "credit": 3,
+    "serial": 2715,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 5,
+            "from": 7,
+            "to": 9,
+            "campus": "公館",
+            "classroom": "Ｃ409"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程不開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "課程主要分兩部份，第一部份先介紹中尺度氣象的研究範圍及其基本原理。第二部份則介紹各種中尺度天氣系統包括中緯度對流系統、颮線與伴隨之中尺度系統、中尺度對流複合體、溫帶氣旋之雨帶、積雲對流在溫帶旋生之角色、地形引發之中尺度系統等。",
+    "goals": [
+        "使學生認識中尺度氣象的研究範圍及其基本原理，並把所學應用在中尺度各種天氣系統中"
+    ],
+    "syllabus": "1.          What ismesoscale?\n\n2.          Basic equations and tools\n\n3.          Mesoscale instabilities\n\n4.          The boundary layer\n\n5.          Airmass boundaries\n\n6.          Mesoscalegravity waves\n\n7.          Convection initiation\n\n8.          Organization of isolated convection\n\n9.          Mesoscale convective systems\n\n10.       Hazards associated with deep moist convection\n\n11.       Thermallyforced winds in mountainous terrain\n\n12.       Mountainwaves and downslope windstorms\n\n13.       Blockingof the wind by terrain",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": ""
+        },
+        {
+            "type": "專題研究",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 20,
+            "note": ""
+        },
+        {
+            "type": "期中考",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 20,
+            "note": ""
+        },
+        {
+            "type": "報告",
+            "weight": 30,
+            "note": "研讀期刊論文，期末報告(oral and paper)"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

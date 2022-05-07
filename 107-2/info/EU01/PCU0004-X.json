@@ -1,0 +1,84 @@
+{
+    "year": 107,
+    "term": 2,
+    "name": "學習輔導",
+    "teachers": [
+        "吳昭容"
+    ],
+    "department": "EU01",
+    "code": "PCU0004",
+    "credit": 2,
+    "serial": 694,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 1,
+            "from": 3,
+            "to": 4,
+            "campus": "本部",
+            "classroom": "教602"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎必須先修過【PCU0114  教育心理學】、【00UE002  教育心理學（教）】其中一門",
+    "form_s": "3",
+    "classes": "",
+    "dept_group": "",
+    "hours": 2,
+    "description": "本課程是蘊含實習性質的導論型課程。學生透過研讀與整理學習與教學策略，增進對中小學生學科內容、學習特性的瞭解，並提昇對中小學生學習輔導的知能。也透過實際與中小學的個案學生一起工作的輔導過程，針對個案與學科的特殊性收集資訊，診斷並輔導學習困難學生的學習問題，進而提昇在課程指導與諮商輔導的實務能力。",
+    "goals": [
+        "增進對中小學生認知與情意發展的瞭解",
+        "增進對中小學生學科內容的瞭解",
+        "增進對中小學生學習輔導知能的認識",
+        "提昇個別指導中小學生學科學習的能力",
+        "提昇中小學生個別輔導的實務能力",
+        "發展尊重不同個體能力與價值觀的差異"
+    ],
+    "syllabus": "第一週：課程說明；導論\n\n第二週：補救教學案例；個案記錄格式；分組討論       \n\n第三週：Teaching by providing concreteness, activity, and familiarity(1)；結構化技巧；分組討論      \n\n第四週：Teaching by providing concreteness, activity, and familiarity(2)；資料收集；概念化技巧      \n\n第五週：Teaching by explaining examples ；具體化技巧 \n\n第六週：Teaching by guiding cognitive processes during learning(1)\n\n第七週：清明節放假   \n\n第八週：Teaching by guiding cognitive processes during learning(2)；筆記的指導 \n\n第九週：Teaching by fostering learning strategies\n\n第十週： Teaching by fostering problem-solving strategies(1)；解題技巧       \n\n第十一週：Teaching by fostering problem-solving strategies(2)；結案的處理 \n\n第十二週：Teaching by priming students’ motivation to learn(1)；動機策略\n\n第十三週：Teaching by priming students’ motivation to learn(2)；學習策略的回顧       \n\n第十四週：個案報告 \n\n第十五週：個案報告\n\n第十六週：個案報告\n\n第十七週：個案報告\n\n第十八週：期末考  \n   \n本課程實地實習時數6小時。",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": ""
+        },
+        {
+            "type": "問題解決教學",
+            "note": ""
+        },
+        {
+            "type": "合作學習",
+            "note": ""
+        },
+        {
+            "type": "實驗/實作",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 30,
+            "note": "個案輔導與報告"
+        },
+        {
+            "type": "期末考",
+            "weight": 40,
+            "note": "選擇題約50分，個案的分析與輔導規劃約50分"
+        },
+        {
+            "type": "報告",
+            "weight": 30,
+            "note": "導讀：分組導讀指定的學習與教學策略的文獻"
+        }
+    ],
+    "prerequisite": "◎必須先修過【PCU0114  教育心理學】、【00UE002  教育心理學（教）】其中一門",
+    "general_core": []
+}

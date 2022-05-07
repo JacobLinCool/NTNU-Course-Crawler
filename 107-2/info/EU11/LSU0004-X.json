@@ -1,0 +1,96 @@
+{
+    "year": 107,
+    "term": 2,
+    "name": "演算法",
+    "teachers": [
+        "李良一"
+    ],
+    "department": "EU11",
+    "code": "LSU0004",
+    "credit": 3,
+    "serial": 4323,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 4,
+            "from": 2,
+            "to": 4,
+            "campus": "本部",
+            "classroom": "正406"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "2",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "此課程主要讓學生具備演算法的基本知識，能分析及驗證演算法的特性及效率，並能應用所學到的知識設計演算法來解決計算機問題。課程內容將包括演算法分析、Divide-and-Conquer、Dynamic Programming、Greedy Algorithms、Graph Algorithms、NP-completeness等。",
+    "goals": [
+        "演算法設計及分析的基本知識",
+        "應用所學到的演算法設計及分析知識處理計算問題",
+        "為計算問題設計演算法並分析其效能"
+    ],
+    "syllabus": "預定教學進度如下(會依據學生程度及上課狀況調整)：\n\n1.  課程介紹及演算法簡介(02/21)\n2.  228放假(02/28)\n3.  演算法設計與分析(03/07)\n4.  Divide-and-Conquer(1) (03/14)\n5.  Divide-and-Conquer(2) (03/21)\n6.  Dynamic Programming(1)(03/28)\n7.  兒童節放假(04/04)\n8.  Dynamic Programming(2) (04/11)\n9.  期中考(範圍為期中考前的所有內容)(04/18)\n10.  Greedy Algorithms (1)(04/25)\n11.  Greedy Algorithms (2)(05/02)\n12.  Graph Algorithms(1) (05/09)\n13.  Graph Algorithms(2) (05/16)\n14.  Graph Algorithms(3) (05/23)\n15.  NP-completeness(1) (05/30)\n16.  NP-completeness(2) (06/06)\n17.  Other topics(06/13)\n18.  期末考(範圍為期末考前的所有內容)(06/20)",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "老師講授自編教材及教科書內容。\n老師除了教室講授外，也會將部分講授內容錄製成教學影片讓學生在線上學習系統觀看。"
+        },
+        {
+            "type": "討論法",
+            "note": "對於需深入學習及思考的內容，老師會在上課或線上進行討論活動。"
+        },
+        {
+            "type": "問題解決教學",
+            "note": "老師會在上課時給予學生學習單或在課後給予作業，學習單及作業內容為演算法問題，學生需找出解法。"
+        },
+        {
+            "type": "實驗/實作",
+            "note": "為演算法撰寫程式碼。"
+        },
+        {
+            "type": "媒體融入教學",
+            "note": "使用線上學習系統進行作業繳交、線上討論及其他線上教學活動"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 35,
+            "note": "完成老師指定的作業/學習單"
+        },
+        {
+            "type": "期中考",
+            "weight": 15,
+            "note": "期中考前老師上課的內容"
+        },
+        {
+            "type": "期末考",
+            "weight": 15,
+            "note": "期末考前老師上課的內容"
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 10,
+            "note": "課堂討論及線上活動參與的積極度"
+        },
+        {
+            "type": "出席",
+            "weight": 5,
+            "note": "學生出席的次數"
+        },
+        {
+            "type": "其他",
+            "weight": 20,
+            "note": "小考：除了期中及期末考外，老師最少會再安排兩次小考"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

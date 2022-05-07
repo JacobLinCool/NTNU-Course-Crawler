@@ -1,0 +1,66 @@
+{
+    "year": 110,
+    "term": 1,
+    "name": "應用統計學",
+    "teachers": [
+        "李子奇"
+    ],
+    "department": "EU05",
+    "code": "HEC9007",
+    "credit": 2,
+    "serial": 745,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 1,
+            "to": 2,
+            "campus": "本部",
+            "classroom": "正104"
+        }
+    ],
+    "programs": [
+        "學習與資訊學程"
+    ],
+    "comment": "",
+    "restrict": "",
+    "form_s": "",
+    "classes": "9",
+    "dept_group": "",
+    "hours": 2,
+    "description": "",
+    "goals": [
+        "描述性統計及推論統計的方法與其應用",
+        "運用於健康促進與衛生教育的工作之中",
+        "認識統計的內含與過程"
+    ],
+    "syllabus": "本課程是生物統計學的延伸課程，介紹卡方檢定、變異數分析、迴歸分析、無母數統計等。\n\n授課方式採「16+2週」，即「授課16週＋2週彈性教學（第17、18週），彈性教學採自行綜整已授課內容, 遇疑難與老師討論.\n\n授課內容視修課同學的學習背景將於學期初適度調整.\n\n週次/Week\n\n**課程內容(中文)**\n\n**Content**\n\n1\n\n課程簡介\n\nIntroduction\n\n2\n\n卡方檢定\n\nChi-square test\n\n3\n\n單向變異數分析\n\nOne-way ANOVA\n\n4\n\n單向變異數分析\n\nOne-way ANOVA\n\n5\n\n雙向變異數分析\n\nTwo-way ANOVA\n\n6\n\n雙向變異數分析\n\nTwo-way ANOVA\n\n7\n\n重複測量設計 \n\nRepeated measures design\n\n8\n\n期中考\n\nMid-term Examination\n\n9\n\n簡單迴歸分析與簡單相關\n\nSimple linear regression and simple correlation\n\n10\n\n簡單迴歸分析與簡單相關\n\nSimple linear regression and simple correlation\n\n11\n\n多元迴歸分析\n\nMultiple linear regression\n\n12\n\n多元迴歸分析\n\nMultiple linear regression\n\n13\n\n邏輯斯迴歸分析\n\nLogistic regression\n\n14\n\n邏輯斯迴歸分析\n\nLogistic regression\n\n15\n\n無母數統計\n\nNon-parametric statistics\n\n16\n\n期末考\n\nFinal-term Examination",
+    "methodologies": [
+        {
+            "type": "Formal lecture",
+            "note": "內容導讀與講解"
+        },
+        {
+            "type": "Group discussion",
+            "note": "疑難問題課堂討論"
+        }
+    ],
+    "grading": [
+        {
+            "type": "Assignments",
+            "weight": 80,
+            "note": "個人回家作業"
+        },
+        {
+            "type": "Attendances",
+            "weight": 20,
+            "note": "5次隨堂作業, 1次5分, 最高20分"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

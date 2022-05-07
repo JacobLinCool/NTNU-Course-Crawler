@@ -1,0 +1,91 @@
+{
+    "year": 109,
+    "term": 2,
+    "name": "代數學（二）",
+    "teachers": [
+        "許志農"
+    ],
+    "department": "SU40",
+    "code": "MAU0167",
+    "credit": 3,
+    "serial": 2786,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 3,
+            "to": 4,
+            "campus": "公館",
+            "classroom": "Ｂ103"
+        },
+        {
+            "day": 4,
+            "from": 3,
+            "to": 3,
+            "campus": "公館",
+            "classroom": "Ｂ103"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎必須先修過【MAU0166  代數學（一）】",
+    "form_s": "2",
+    "classes": "2",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程讓學生瞭解群、環、體的基本理論，以作為學生未來修習其他進階課程的基礎。",
+    "goals": [
+        "訓練學生掌握抽象代數的基本知識",
+        "訓練學生可以用代數的語言進行溝通、表達、寫作。",
+        "培養學生的直覺、欣賞與應用高等代數至其他學科的能力。"
+    ],
+    "syllabus": "第二學期的代數學主要是介紹環論(ring theory)以及體論(field theory)並熟悉牠們的基本性質，若時間允許我們希望\n\n也能介紹一點應用的部分。以下是本學期計畫講授的內容；\n\n  \n\n1.     **Rings and Fields**: Definition, Integral domains, Fermat\\`s and Euler\\`s Theorem, Field of quotient and rings of polynomials,\n\n     Factorization of Polynomials over a Field。  \n\n2.     **Ideals and Factor Rings：**Ring Homomorphism, Ideals, and Factor Rings,  Maximal ideals and Prime Ideals\n\n3.     **Factorization:**  Introduction of unique factorization domain (UFD), principal ideal domain (PID), and Euclidean domain (ED),\n\n       Gaussian Integers and Multiplicative Norms.\n\n4.     **Advanced Group Theory:** Isomorphism Theorems, Group action on a set, Applications of G-sets to counting, Sylow \n\n     Theorems and applications, Free abelian groups\n\n5.    **Extension Fields:** Introduction, Algebraic extensions, Finite fields and applications. \n\n6.    Introduction to Galois Theory (僅介紹性質，依時間狀況，預計以一到兩星期的時間介紹這一個重要的理論)。",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "主要由教師講解"
+        },
+        {
+            "type": "其他",
+            "note": "課堂中也需要由同學回答教師所提的問題"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 15,
+            "note": "約每兩星期繳交一份由教師所勾選的習題"
+        },
+        {
+            "type": "期中考",
+            "weight": 30,
+            "note": "於校定期中考周舉行"
+        },
+        {
+            "type": "期末考",
+            "weight": 35,
+            "note": "於校定期末考周舉行"
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 3,
+            "note": "課堂中回答問題的狀況作為平時成績的基礎"
+        },
+        {
+            "type": "出席",
+            "weight": 2,
+            "note": "平時成績依出席狀況與課堂參與討論狀況合併採計(共 5 %)。"
+        },
+        {
+            "type": "其他",
+            "weight": 15,
+            "note": "隨堂測驗(約一至二星期一次)。"
+        }
+    ],
+    "prerequisite": "◎必須先修過【MAU0166  代數學（一）】",
+    "general_core": []
+}

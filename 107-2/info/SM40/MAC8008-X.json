@@ -1,0 +1,63 @@
+{
+    "year": 107,
+    "term": 2,
+    "name": "代數拓樸學（二）",
+    "teachers": [
+        "劉家新"
+    ],
+    "department": "SM40",
+    "code": "MAC8008",
+    "credit": 3,
+    "serial": 2610,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 3,
+            "from": 2,
+            "to": 4,
+            "campus": "公館",
+            "classroom": "教室自排"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "這門課主要分為兩部分。\n\n第一部分是代數拓樸的基本知識；第二部分，則是考慮代數拓樸的應用。\n\n在第一部分，主要考慮以下內容：\n\n1. Homotopy Theory\n\n2. Singular Homology of Topological spaces\n\n3. Homotopy versus Homology\n\n4. Some Applications of Homology Theory e.g. Brouwer Fixed Point Theorem, … etc.\n\n5. Relative Homology and Excision Theorem\n\n6. Mayer-Vietoris Sequences and Jordan-Brouwer Separation Theorem\n\n7. Betti Numbers and Euler Characteristics\n\n8. Adjunct Spaces and Standard Eamples and there homologies e.g. Cell Complexes\n\n在第二部分，我們視時間從以下內容選擇部分來研讀：\n\n1. Graphs, Simplicial Complexes and their homologies\n\n2. Betti Numbers and Their Geometric Meaning\n\n3. Techniques for Computing Simplicial Homologies\n\n4. Singular Homologies versus Simplicial Homologies\n\n5. Persistent Homologies,\n\n6. CW Complexes :: A Special Case of Cell Complexes\n\n7. Vietoris-Rips Complexes, Cech Complexes and Their Homologies\n\n8. Application of Sheaf Theory in TDA（Topological Data Analysis)\n\n9. Specific Applications. For example, 9-1. Signal Manifolds for Locolization 9-2. Topological Filters 9-3. Extracting Topology from Intersections in Coverage 9-4. Shape Recognition in Computer Vision 9-5. Recovery of a Space from Measurements of Waves",
+    "goals": [
+        "習得代數拓樸的基本知識",
+        "活用代數拓樸的應用"
+    ],
+    "syllabus": "1\\. Relation between pi\\_1 and H\\_1 (2 weeks) 2. The excision theorem (3 weeks) 3. Further applications to spheres (1 week) 4. Mayer-Vietories sequences (2 weeks) 5. The Jordan-Brouwer separation theorem (2 weeks) 6. Construction of spaces: spherical complexes (3 weeks) 7. Betti numbers and euler characteristic (2 weeks) 8. Construction of spaces: cell complexes and more adjunction spaces (3 weeks)",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "課堂討論參與",
+            "weight": 40,
+            "note": ""
+        },
+        {
+            "type": "報告",
+            "weight": 60,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

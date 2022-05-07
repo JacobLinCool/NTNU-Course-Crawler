@@ -1,0 +1,96 @@
+{
+    "year": 109,
+    "term": 1,
+    "name": "人工智慧與應用",
+    "teachers": [
+        "陳韋任"
+    ],
+    "department": "HU76",
+    "code": "VEU0024",
+    "credit": 3,
+    "serial": 1383,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 6,
+            "to": 8,
+            "campus": "本部",
+            "classroom": "工209"
+        }
+    ],
+    "programs": [
+        "太陽能源與工程學程"
+    ],
+    "comment": "",
+    "restrict": "",
+    "form_s": "2",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "電腦與網路雲端科技的快速進步，應用於不同行業或領域的需求也急切變化。本課程主要為介紹人工智慧發展概況，並運用人工智慧中的技術或案例，結合電腦化或雲端網路化的理論知識與實務技術，探討或應用於有興趣的發展主題上。",
+    "goals": [
+        "了解人工智慧之基本理論知識與實務及相關問題。",
+        "了解國內外在人工智慧之系統平台與管理服務發展與應用現況",
+        "了解與歸納人工智慧之相關論文發表情況與趨勢。",
+        "具備主動積極與終身學習之人格特質。",
+        "具備良好的溝通與表達能力。",
+        "具備職場專業倫理與社會服務的理解與行動。",
+        "具備尊重智慧財產權的認知與態度。"
+    ],
+    "syllabus": "課程實施時間與綱要：\n\n第1週          課程進度、大綱、評量方式簡介\n\n第2週          Introduction I\n\n第3週          Introduction II\n\n第4週          Preprocessing\n\n第5週          Regression I\n\n第6週          Regression II\n\n第7週          Regression III\n\n第8週          Classification I\n\n第9週          Midterm Competition\n\n第10週        Classification II\n\n第11週        Keynote Speech - Pilot System of Drones \n\n第12週        Keynote Speech - Drones Applications\n\n第13週        Artificial Neural Networks (ANN) I\n\n第14週        Artificial Neural Networks (ANN) II\n\n第15週        Convolutional Neural Networks (CNN)\n\n第16週        Natural Language Processing\n\n第17週        Final Project Presentation I\n\n第18週        Final Project Presentation II",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "講述方式： 每一章節均以『揭示綱要』、『詳述內容』、『綜述要點』此三步驟來進行。"
+        },
+        {
+            "type": "討論法",
+            "note": "課程一開始就要求修課學生進行分組，上課時，同一組同學坐在一起，課堂上任課老師會出課程相關問題，並要求學生合作討論並加以解答。"
+        },
+        {
+            "type": "合作學習",
+            "note": "課程一開始就要求修課學生進行分組，上課時，同一組同學坐在一起，課堂上任課老師會出課程相關問題，並要求學生合作討論並加以解答。"
+        },
+        {
+            "type": "實驗/實作",
+            "note": "課堂上將讓學生實作AI系統，以訓練其獨立思考與應用課堂知識的能力"
+        },
+        {
+            "type": "媒體融入教學",
+            "note": "使用電腦演示(PPT)與網路資源應用"
+        },
+        {
+            "type": "其他",
+            "note": "擬邀請業界專家專題演講或參訪"
+        }
+    ],
+    "grading": [
+        {
+            "type": "期中考",
+            "weight": 30,
+            "note": "期中比賽會以分組形式來讓大家訓練自己的模型來預測事物 (去年為預測NBA勝場數,今年未定)"
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 15,
+            "note": ""
+        },
+        {
+            "type": "出席",
+            "weight": 15,
+            "note": ""
+        },
+        {
+            "type": "報告",
+            "weight": 40,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

@@ -1,0 +1,80 @@
+{
+    "year": 107,
+    "term": 1,
+    "name": "代數特論（一）",
+    "teachers": [
+        "許志農"
+    ],
+    "department": "SU40",
+    "code": "MAU0030",
+    "credit": 3,
+    "serial": 2775,
+    "group": "A",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 1,
+            "from": 3,
+            "to": 4,
+            "campus": "公館",
+            "classroom": "Ｃ005"
+        },
+        {
+            "day": 5,
+            "from": 2,
+            "to": 2,
+            "campus": "公館",
+            "classroom": "Ｃ005"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "3",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程讓學生瞭解抽象代數的理論，以作為學生未來修習其他進階課程的基礎。",
+    "goals": [
+        "訓練學生掌握抽象代數的知識",
+        "訓練學生可以用代數的語言進行溝通、表達、寫作。",
+        "培養學生的直覺、欣賞與應用代數至其他學科的能力"
+    ],
+    "syllabus": "1\\. Field extensions  \n2\\. Galois groups and fixed fields  \n3\\. Normal extension  \n4\\. Seperable extension  \n5\\. Galois extension  \n6\\. Solvable groups  \n7\\. Solvability by radicals  \n8\\. Construction with straightedge and compass",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": ""
+        },
+        {
+            "type": "問題解決教學",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 20,
+            "note": ""
+        },
+        {
+            "type": "期中考",
+            "weight": 40,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 40,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

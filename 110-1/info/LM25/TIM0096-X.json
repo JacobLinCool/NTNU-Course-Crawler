@@ -1,0 +1,71 @@
+{
+    "year": 110,
+    "term": 1,
+    "name": "視譯",
+    "teachers": [
+        "陳子瑋",
+        "蔡嘉瑩"
+    ],
+    "department": "LM25",
+    "code": "TIM0096",
+    "credit": 3,
+    "serial": 1696,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 2,
+            "to": 4,
+            "campus": "本部",
+            "classroom": "譯506"
+        }
+    ],
+    "programs": [],
+    "comment": "限會譯口譯組修習",
+    "restrict": "◎課程不開放上修",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "1. 精鍊口語能力；\n2. 熟悉語文轉換；\n3. 認識常用句型；\n4. 學習同步口譯基本技能。",
+    "goals": [
+        "精鍊口語能力",
+        "熟悉語文轉換",
+        "認識常用句型",
+        "學習同步口譯基本技能"
+    ],
+    "syllabus": "Week 1 視譯緒論  \nWeek2 視譯基本原理-I  \nWeek3 視譯基本原理-II  \nWeek4 英譯中: 基本句型- I  \nWeek5 英譯中: 基本句型- II  \nWeek6 英譯中: 長句練習- I  \nWeek7 英譯中: 長句練習- II  \nWeek8 中譯英: 基本句型- I  \nWeek9 中譯英: 基本句型- I  \nWeek10 期中考試  \nWeek11 中譯英: 長句練習- I  \nWeek12 中譯英: 長句練習- II  \nWeek13 中譯英: 正式用語- I  \nWeek14 英譯中: 正式用語- I  \nWeek15 中譯英: 正式用語- II  \nWeek16 英譯中: 正式用語- II  \nWeek17 英譯中: 長句練習  \nWeek18 期末考試",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "教師講課"
+        },
+        {
+            "type": "討論法",
+            "note": "課堂實作練習與討論"
+        }
+    ],
+    "grading": [
+        {
+            "type": "期中考",
+            "weight": 20,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 50,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

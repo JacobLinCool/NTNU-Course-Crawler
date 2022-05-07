@@ -1,0 +1,70 @@
+{
+    "year": 110,
+    "term": 1,
+    "name": "計算理論",
+    "teachers": [
+        "王弘倫"
+    ],
+    "department": "SM47",
+    "code": "CSC0018",
+    "credit": 3,
+    "serial": 2763,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 4,
+            "from": 2,
+            "to": 4,
+            "campus": "公館",
+            "classroom": "Ｓ204"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程介紹計算機器之本質。我們將探討下列問題﹕何謂計算?計算的歷史、何者可被計算?何者可有效率地被計算?不同計算模型之間有何關係?",
+    "goals": [
+        "能了解計算機器之本質",
+        "能了解各種計算模型",
+        "能了解各種問題的計算複雜度",
+        "能了解NP、NP-complete、P、NP-hard等課題"
+    ],
+    "syllabus": "1\\. Turing machines \n\n2\\. Decidability\n\n3\\. Reducibility\n\n4\\. Time complexity\n\n5\\. Space complexity\n\n6\\. Intractability\n\n7\\. Selected topics\n\n上課網址 (Google meet): https://meet.google.com/tow-gghp-nhw",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "期中考",
+            "weight": 40,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 50,
+            "note": "research paper presentation"
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 10,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

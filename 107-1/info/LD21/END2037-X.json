@@ -1,0 +1,74 @@
+{
+    "year": 107,
+    "term": 1,
+    "name": "神經語言學研究方法專題討論",
+    "teachers": [
+        "詹曉蕙"
+    ],
+    "department": "LD21",
+    "code": "END2037",
+    "credit": 3,
+    "serial": 1567,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 4,
+            "from": 2,
+            "to": 4,
+            "campus": "本部",
+            "classroom": "雲204"
+        }
+    ],
+    "programs": [],
+    "comment": "上課教室在雲和街大樓二樓，地址為雲和街1號(位於雲和小火鍋斜對面、Cafe a la mode正對面)，從師大側門右轉看見Starbucks右轉進入巷子步行約2分鐘(130公尺)，右手邊就會看到雲和街大樓，亦可使用Google Maps APP查詢位置。請同學使用學生證感應，進出雲和街上課教室。",
+    "restrict": "◎必須先修過【ENC2047  神經語言學】 ◎課程不開放上修",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "This presentation/discussion-oriented course is to train PhD students to conduct and report a neurolinguistic experiment with a chosen cognitive neuroscience technique, such as event-related brain potential (ERP) or functional magnetic resonance imaging (fMRI). Students are expected to find their interested topic at the beginning of the semester, compile a list of literature, design their own experiment according to their chosen technique, and run a pilot test with a few participants. They then have to analyze the data, present the results to the class and write up a short term paper in a journal format.",
+    "goals": [
+        "Students can independently find a research idea and effectively do literature review.",
+        "Students can have hands-on experience with software necessary for experiment design and data processing, such as E-prime (commercial behavioral experiment software), ERPLAB (a free Matlab package for analyzing ERP data), SPM (a free Matlab package for analyzing fMRI data), and a statistical package of their choice (e.g. SPSS).",
+        "Students can confidently run an experiment with the necessary equipment(s) and comfortably interact with participants.",
+        "Students can write a paper in a journal format in the cognitive neuroscience domain."
+    ],
+    "syllabus": "This presentation/discussion-oriented course is to train PhD students to conduct and report a neurolinguistic experiment with a chosen cognitive neuroscience technique, such as event-related brain potential (ERP) or functional magnetic resonance imaging (fMRI). Students are expected to find their interested topic at the beginning of the semester, compile a list of literature, design their own experiment according to their chosen technique, and run a pilot test with a few participants. They then have to analyze the data, present the results to the class and write up a short term paper in a journal format.\n\nWeek 1 Introduction\n\nWeek 2 Research topic search: Research question(s)\n\nWeek 3 Research topic search: List(s) ofreferences\n\nWeek 4 Hypothesis: Hypothesis for the currentstudy based on previous findings\n\nWeek 5 Experiment design: Experimental factors andsample materials I\n\nWeek 6 Experiment design: Experimental factors andsample materials II\n\nWeek 7 Experiment design: E-prime stimulus presentation\n\nWeek 8 Experiment design: E-prime script(s)testing with the ERP/fMRI machine\n\nWeek 9 Experiment design: Experiment finalization(with necessary manipulation)\n\nWeek 10 Data collection (at the NeurolinguisticsLab at NTNU or the fMRI center at NTU\n\nor NCCU)\n\nWeek 11 Data collection (at the NeurolinguisticsLab at NTNU or the fMRI center at NTU\n\nor NCCU)\n\nWeek 12 Data analysis: Individual subject analysis(ERPLAB/SPM)\n\nWeek 13 Data analysis: Individual subject analysis(ERPLAB/SPM)\n\nWeek 14 Data analysis: Group analysis (ERPLAB/SPM)\n\nWeek 15 Data analysis: Group analysis (ERPLAB/SPM)\n\nWeek 16 Results: Graphs and statistical resultssupporting or rejecting the hypothesis\n\nWeek 17 Results: Data interpretation in thecontext of previous research\n\nWeek 18 Final presentation(in a conference presentation format)",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "In the first 15-20 minutes of each class, the instructor will give a short lecture to direct students to the details that they need to pay attention to in their own and their peers’ presentations."
+        },
+        {
+            "type": "討論法",
+            "note": "Students will give presentations and the instructor and other students will provide suggestions/comments through discussion."
+        },
+        {
+            "type": "實驗/實作",
+            "note": "Students are expected to run an ERP or fMRI experiment with a few participants and analyze data with software."
+        }
+    ],
+    "grading": [
+        {
+            "type": "課堂討論參與",
+            "weight": 30,
+            "note": "Students should be able to address the instructor’s comments/suggestions and should be able to provide comments/suggestions for other students’ work."
+        },
+        {
+            "type": "報告",
+            "weight": 50,
+            "note": "Students will give 5 presentations throughout the semester:\n#1: Research topic \n#2: Experiment design (with E-prime)\n#3: Data analysis (with ERPLAB or SPM)\n#4: Results (with graphs and statistical results)\n#5: Final presentation (in a conference presentation format)"
+        },
+        {
+            "type": "其他",
+            "weight": 20,
+            "note": "A short term paper in a journal format. Students have to choose a journal in the cognitive neuroscience domain and follow their submission guidelines to write up the paper."
+        }
+    ],
+    "prerequisite": "◎必須先修過【ENC2047  神經語言學】",
+    "general_core": []
+}

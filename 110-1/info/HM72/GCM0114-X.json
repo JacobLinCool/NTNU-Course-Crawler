@@ -1,0 +1,79 @@
+{
+    "year": 110,
+    "term": 1,
+    "name": "研究方法",
+    "teachers": [
+        "楊美雪"
+    ],
+    "department": "HM72",
+    "code": "GCM0114",
+    "credit": 3,
+    "serial": 1181,
+    "group": "",
+    "quota": {
+        "limit": 30,
+        "additional": 5
+    },
+    "schedule": [
+        {
+            "day": 4,
+            "from": 2,
+            "to": 4,
+            "campus": "本部",
+            "classroom": "綜701"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "1",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "1.瞭解研究之歷程。 2.認識研究方法的種類。 3.瞭解量化的研究方法。 4.瞭解研究執行的議題。",
+    "goals": [
+        "瞭解研究之歷程",
+        "認識研究方法的種類",
+        "瞭解量化的研究方法",
+        "瞭解研究執行的議題"
+    ],
+    "syllabus": "1.Overview  \n2.The process of research  \n3.Selecting a research topic  \n4.Develop research questions  \n5.Use of the literature  \n6.Content analysis  \n7.Survey research  \n8..Experimental research  \n9.Sampling  \n10.Writing a research proposal\n\n11.Scale development\n\n12.Case Study\n\n13.Delphi Technique\n\n14.Action Research\n\n15.Reliability and Validity\n\n16.Displaying data\n\n17.Interpreting data\n\n18.Writing the research report\n\n19.Research ethics",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "教師根據預定教學主題講述"
+        },
+        {
+            "type": "討論法",
+            "note": "學生上課時根據主題參與討論"
+        },
+        {
+            "type": "合作學習",
+            "note": "小組作業需合作完成"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 45,
+            "note": "期中報告20%，期末報告25%"
+        },
+        {
+            "type": "期末考",
+            "weight": 25,
+            "note": "紙筆考試"
+        },
+        {
+            "type": "出席",
+            "weight": 20,
+            "note": "準時到課、參與發言討論"
+        },
+        {
+            "type": "其他",
+            "weight": 10,
+            "note": "擔任模擬論文計畫口試之委員"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

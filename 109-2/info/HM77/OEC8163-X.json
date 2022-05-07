@@ -1,0 +1,63 @@
+{
+    "year": 109,
+    "term": 2,
+    "name": "光電子學",
+    "teachers": [
+        "張俊傑"
+    ],
+    "department": "HM77",
+    "code": "OEC8163",
+    "credit": 3,
+    "serial": 1170,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 7,
+            "to": 9,
+            "campus": "公館",
+            "classroom": "Ｓ305"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程旨在介紹半導體光電元件包括介電質波導、半導體雷射、發光二極體、光偵測器、以及太陽能和光伏電池",
+    "goals": [
+        "了解半導體光電元件的物理、工作原理及應用"
+    ],
+    "syllabus": "This course will be oriented towards graduate level of optoelectronics, and the focus of the course will be placed upon the semiconductor-based photonic devices that generate, propagate, and detect light using, including dielectric waveguides, light-emitting diodes, semiconductor interband lasers, semiconductor intersubband lasers, and photodetectors. \n\nThe prerequisites of this course include undergraduate-level courses on electromagnetism, quantum physics, photonics, and semiconductor physics.",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 20,
+            "note": "Matlab simulation"
+        },
+        {
+            "type": "期中考",
+            "weight": 40,
+            "note": "Written exam"
+        },
+        {
+            "type": "期末考",
+            "weight": 40,
+            "note": "Written exam"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

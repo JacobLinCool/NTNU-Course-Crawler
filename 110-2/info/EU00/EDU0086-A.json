@@ -1,0 +1,71 @@
+{
+    "year": 110,
+    "term": 2,
+    "name": "哲學概論",
+    "teachers": [
+        "林逢祺",
+        "崔?"
+    ],
+    "department": "EU00",
+    "code": "EDU0086",
+    "credit": 2,
+    "serial": 611,
+    "group": "A",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 1,
+            "from": 3,
+            "to": 4,
+            "campus": "本部",
+            "classroom": "教802"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "1",
+    "classes": "",
+    "dept_group": "",
+    "hours": 2,
+    "description": "",
+    "goals": [
+        "Curiosity",
+        "Argumentation",
+        "Reflection",
+        "Values"
+    ],
+    "syllabus": "Week 01 (14 February)                   Introduction to the Course\n\nWeek 02 (21 February)                   The Spirit of Philosophy\n\nWeek 03 (28 February)                   Holiday (Peace Memorial Day)\n\nWeek 04 (07 March)                       The Method and Substance of Philosophy\n\nWeek 05 (14 March)                       “Introduction”\n\nWeek 06 (21 March)                       Chapter 1: “Knowledge”\n\nWeek 07 (28 March)                       Chapter 2: “Mind”\n\nWeek 08 (04 April)                         Holiday (Children’s Day)\n\nWeek 09 (11 April)                         Chapter 3: “Free Will”\n\nWeek 10 (18 April)                         Chapter 4: “The Self”\n\nWeek 11 (25 April)                         Chapter 5: “God”\n\nWeek 12 (02 May)                          Chapter 6: “Reasoning”\n\nWeek 13 (09 May)                          Chapter 7: “The World”\n\nWeek 14 (16 May)                          Chapter 8: “What to Do”\n\nWeek 15 (23 May)                          Feedback on Assignments (I)\n\nWeek 16 (30 May)                          Feedback on Assignments (II)\n\nWeek 17 (06 June; optional)          A Personal View of Why Philosophy Matters (I)\n\nWeek 18 (13 June; optional)          A Personal View of Why Philosophy Matters (II)",
+    "methodologies": [
+        {
+            "type": "Formal lecture",
+            "note": "Analysis and interpretation of core concepts."
+        },
+        {
+            "type": "Group discussion",
+            "note": "Socratic elenchus on key themes."
+        }
+    ],
+    "grading": [
+        {
+            "type": "Assignments",
+            "weight": 70,
+            "note": "philosophy thinking."
+        },
+        {
+            "type": "Class discussion involvement",
+            "weight": 20,
+            "note": "Participation in Class Discussion."
+        },
+        {
+            "type": "Attendances",
+            "weight": 10,
+            "note": "Class attendance."
+        }
+    ],
+    "prerequisite": "◎Available for junior and senior year B.A. program students (Doctoral program courses excepted) and M.A. program students.",
+    "general_core": []
+}

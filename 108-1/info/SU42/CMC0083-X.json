@@ -1,0 +1,53 @@
+{
+    "year": 108,
+    "term": 1,
+    "name": "物理化學特論",
+    "teachers": [
+        "張煥正"
+    ],
+    "department": "SU42",
+    "code": "CMC0083",
+    "credit": 3,
+    "serial": 2920,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 5,
+            "from": 7,
+            "to": 9,
+            "campus": "公館",
+            "classroom": "Ｃ107"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "",
+    "classes": "9",
+    "dept_group": "",
+    "hours": 3,
+    "description": "The objective is to present the recent research progress and review previous history and to give students the concepts of research work in sciences.",
+    "goals": [
+        "The objective is to present the recent research progress and review previous history and to give students the concepts of research work in sciences."
+    ],
+    "syllabus": "Part I. Theory\n\n1.  Review on time-dependent and time-independent quantum mechanics (2weeks)\n2.  Born-Oppenheimer Approximation and Molecular Structure (2weeks)\n3.  Using quantum chemistry methods for calculation of reaction rates. (1week)\n\nPart II. Spectroscopy\n\n1.  Some experimental techniques in modern molecular spectroscopy  (molecular beam, laser, mass spectrometry)\n\n       2. Multiphoton ionization of molecules and clusters (stable cluster  ions and intracluster binding energy)\n\n       3.Resonance-enhanced multiphoton ionization spectroscopy of aromatic molecules and clusters (vibronic spectroscopy)\n\n       4.Zero-kinetic enegy photoelectron and mass-analyzed threshold ionization spectroscopy\n\nPart III. Kinetics\n\n       1. Gas phase kinetics\n\n       2. Rate equation\n\n       3. Transition state theory\n\n       4. Photophysics",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "其他",
+            "weight": 100,
+            "note": "3次考試，各占1/3"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

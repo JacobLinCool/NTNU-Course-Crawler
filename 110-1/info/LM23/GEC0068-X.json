@@ -1,0 +1,62 @@
+{
+    "year": 110,
+    "term": 1,
+    "name": "多變量分析",
+    "teachers": [
+        "陳哲銘"
+    ],
+    "department": "LM23",
+    "code": "GEC0068",
+    "credit": 3,
+    "serial": 1681,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 5
+    },
+    "schedule": [
+        {
+            "day": 4,
+            "from": 2,
+            "to": 4,
+            "campus": "本部",
+            "classroom": "地理系會議室"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程不開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "多變量分析為地理學研究中非常重要的分析方法，尤其在與空間分布有關的課題上。本課程之目標在於介紹分析方法之觀念及原理，配合各種實際問題與軟體，期能培養學生利用此方法進行分析之能力。",
+    "goals": [
+        "介紹分析方法之觀念及原理，配合各種實際問題與軟體，期能培養學生利用此方法進行分析之能力。"
+    ],
+    "syllabus": "1 INTRODUCTION   \n2 ANOVA -PART Ⅰ 3 ANOVA -PART II   \n4 PRINCIPAL COMPONENTS ANALYSIS-PART Ⅰ THEORY   \n5 PRINCIPAL COMPONENTS ANALYSIS-PART II APPLICATION   \n6 FACTOR ANALYSIS   \n7 CLUSTER ANALYSIS —PART I   \n8 CLUSTER ANALYSIS -PART II   \n9 SPATIAL DISTRIBUTION MODEL —PART I   \n10 SPATIAL DISTRIBUTION MODEL —PART II   \n11 TREND AND FOCAST —PART I   \n12 TREND AND FOCAST —PART II   \n13 SPATIAL CORRELATION —PART I   \n14 SPATIAL CORRELATION —PART II   \n15 DIGITAL TERRAIN MODEL —PART I   \n16 DIGITAL TERRAIN MODEL —PART II   \n17 FINAL PROJECT",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "實驗/實作",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 50,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 50,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

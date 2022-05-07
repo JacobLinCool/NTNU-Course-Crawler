@@ -1,0 +1,83 @@
+{
+    "year": 108,
+    "term": 2,
+    "name": "統計學（二）",
+    "teachers": [
+        "何宗武"
+    ],
+    "department": "OU57",
+    "code": "BAU0041",
+    "credit": 3,
+    "serial": 2363,
+    "group": "",
+    "quota": {
+        "limit": 60,
+        "additional": 25
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 7,
+            "to": 9,
+            "campus": "本部",
+            "classroom": "誠202"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎必須先修過【BAU0040  統計學（一）】",
+    "form_s": "2",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程是為主修管理的學生所設計的一門統計課程，內容涵蓋基本統計概念與操作技術。學生除了需要熟悉統計的原理與相關知識之外，也必須能夠活用課堂所學習到的統計方法，將其應用於日常生活或專業活動中。在實際應用部分，本課程將進行專題研究並搭配EXCEL來進行演練，因此學生必須準時完成所規定的作業，以利跟隨課程進度。",
+    "goals": [
+        "瞭解統計原理與相關衍生概念",
+        "連結統計方法與企業與商業經營實中的相關活動",
+        "具備判斷統計資料的分析能力，正確解讀資料並了解統計分析結果的意義。",
+        "透過團隊合作，熟悉並能利用現代電腦軟體，如SPSS與EXCEL等，來分析統計資料。"
+    ],
+    "syllabus": "週\n\n日 期\n\n進     度     內     容\n\n章節\n\n1\n\n3月3日\n\n課程回顧與假設檢定概說 Introduction to hypothesis testing\n\n2\n\n3月10日\n\n單因子變異數分析 Oneway Analysis of variance 1/3\n\n11\n\n3\n\n3月17日\n\n單因子變異數分析 Oneway Analysis of variance 2/3\n\n11\n\n4\n\n3月24日\n\n單因子變異數分析 Oneway Analysis of variance 3/3\n\n11\n\n5\n\n3月31日\n\n多因子變異數分析 Factorial Analysis of variance 1/2\n\n12\n\n6\n\n4月7日\n\n多因子變異數分析 Factorial Analysis of variance 2/2\n\n12\n\n7\n\n4月14日\n\nTest (Chapters 11-12)\n\n8\n\n4月21日\n\n相關 Correlation\n\n13\n\n9\n\n4月28日\n\n迴歸 Linear regression 1/2\n\n14\n\n10\n\n5月5日\n\n迴歸 Linear regression 2/2\n\n14\n\n11\n\n5月12日\n\nTest (Chapters 13&14)\n\n12\n\n5月19日\n\n多元迴歸 Multiple regression 1/2\n\n15\n\n13\n\n5月26日\n\n多元迴歸 Multiple regression 2/2\n\n15\n\n14\n\n6月2日\n\n時間序列分析 Time-series analysis 1/2\n\n16\n\n15\n\n6月9日\n\n時間序列分析 Time-series analysis 2/2\n\n16\n\n16\n\n6月16日\n\nFinal examination (Chapters 15-16)\n\n17\n\n6月23日\n\n無母數統計 Non-parametric statistics\n\n17\n\n18\n\n6月30日\n\n無母數統計 Non-parametric statistics\n\n17",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "解釋並說明統計原理與基本特性。推導相關數學與統計公式，使學生能夠瞭解每一個統計概念的邏輯與關聯性。"
+        },
+        {
+            "type": "問題解決教學",
+            "note": "提出可操作的課間習作或課外作業，讓學生能夠具體操作統計方法，得到具有啟發性的解答。"
+        },
+        {
+            "type": "實驗/實作",
+            "note": "透過實際數據的搜集與分析過程，瞭解統計方法應用在實際資料分析操作方法，並習得解釋統計分析的策略與技巧。"
+        },
+        {
+            "type": "媒體融入教學",
+            "note": "配合教學進度，鼓勵或指定學生利用文書處理軟體（EXCEL）或視覺化軟體（TABLEAU）進行教材範例或每章習作的實際演練，使學生不僅能實際進行軟體的應用分析。"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 20,
+            "note": "配合每章進度，完成老師所指定的作業。"
+        },
+        {
+            "type": "期中考",
+            "weight": 40,
+            "note": "檢視期中學生課堂知識吸收與概念學習的具體成果。（兩次，每次佔20%）"
+        },
+        {
+            "type": "期末考",
+            "weight": 30,
+            "note": "檢視學期學生課堂知識吸收與概念學習的具體成果。"
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 10,
+            "note": "包括出缺席狀況，課堂討論，活動參與，提問與答問，學習態度等。"
+        }
+    ],
+    "prerequisite": "◎必須先修過【BAU0040  統計學（一）】",
+    "general_core": []
+}

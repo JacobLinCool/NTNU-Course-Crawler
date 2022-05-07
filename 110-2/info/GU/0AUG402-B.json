@@ -1,0 +1,79 @@
+{
+    "year": 110,
+    "term": 2,
+    "name": "心理學",
+    "teachers": [
+        "蘇宜芬"
+    ],
+    "department": "GU",
+    "code": "0AUG402",
+    "credit": 2,
+    "serial": 993,
+    "group": "B",
+    "quota": {
+        "limit": 90,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 3,
+            "from": 6,
+            "to": 7,
+            "campus": "本部",
+            "classroom": "教202會議廳"
+        }
+    ],
+    "programs": [
+        "音樂輔教學程"
+    ],
+    "comment": "心輔系學士班學生修習通識課程「心理學」、「統計學」不計入畢業學分。",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 2,
+    "description": "",
+    "goals": [
+        "協助修課同學瞭解心理學，對於人類的心理歷程、思考、與行為有更多的認識。",
+        "藉由對於人的基本瞭解，增進自我的瞭解，與別人的互動，以及培養對人的尊重與同理心。"
+    ],
+    "syllabus": "【授課方式：16+2週，第17、18週以數位學習方式進行。】\n\n第01週   課程介紹  \n第02週   認識心理學（第1章）   \n第03週   知覺與意識（第3章）  \n第04週   知覺與意識（第3章）  \n第05週   學習與記憶（第4章）  \n第06週   學習與記憶（第4章）  \n第07週   社會認知與社會互動（第7章)  \n第08週   期中考  \n第09週   社會認知與社會互動（第7章）  \n第10週   智力、性格與測量（第6章）  \n第11週   智力、性格與測量（第6章）  \n第12週   心理異常與治療（第9章）  \n第13週   心理異常與治療（第9章）  \n第14週   壓力調適與正向心理（第10章）  \n第15週   壓力調適與正向心理（第10章）  \n第16週   期末考  \n第17週   人的發展（第2章）; 動機與情緒（第8章）  \n第18週   推理、判斷與決策（第5章）",
+    "methodologies": [
+        {
+            "type": "Formal lecture",
+            "note": ""
+        },
+        {
+            "type": "Group discussion",
+            "note": ""
+        },
+        {
+            "type": "Media, audio, visual materials",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "Midterm Exam",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "Final exam",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "Class discussion involvement",
+            "weight": 30,
+            "note": "包含上課出席及參與討論"
+        },
+        {
+            "type": "other:",
+            "weight": 10,
+            "note": "回應Moodle上第3、4、7、6、9單元的討論問題, 每一則至少撰寫200字的想法或心得."
+        }
+    ],
+    "prerequisite": "◎Available for junior and senior year B.A. program students (Doctoral program courses excepted) and M.A. program students.",
+    "general_core": []
+}

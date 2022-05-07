@@ -1,0 +1,67 @@
+{
+    "year": 109,
+    "term": 1,
+    "name": "生物化學",
+    "teachers": [
+        "李桂楨",
+        "蘇銘燦"
+    ],
+    "department": "SU51",
+    "code": "NSU0009",
+    "credit": 3,
+    "serial": 3090,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 5,
+            "from": 3,
+            "to": 4,
+            "campus": "公館",
+            "classroom": "Ｓ402"
+        },
+        {
+            "day": 5,
+            "from": 7,
+            "to": 7,
+            "campus": "公館",
+            "classroom": "Ｓ402"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎必須先修過【CMU0178  普通化學乙】、【NSU0004  有機化學】",
+    "form_s": "2",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "認識組成生物個體的主要分子，包括水、胺基酸、蛋白質、醣類、脂肪酸的結構與功能，進而了解這些分子在細胞中的代謝及調控機制。",
+    "goals": [
+        "能熟悉並認知生物化學專有名詞及其意涵，能敘述並解釋蛋白質，醣類及脂肪的基本定義與細胞中代謝與合成",
+        "能體認生命基本物質為細胞生物學及生理學之基礎，並以生活上出現的現象為例，印證生命科學之相關議題"
+    ],
+    "syllabus": "1      Ch. 2 Water\n\n2      Ch. 3 Amino Acids\n\n3      Ch. 3 the Primary Structures of Proteins\n\n4      Ch. 4 Proteins: Three-Dimensional Structure and Function\n\n5      Ch. 5 Properties of Enzymes\n\n6      Ch. 6 Mechanisms of Enzymes \n\n7      Ch. 7 Coenzymes and Vitamins\n\n8      Ch. 8 Carbohydrates\n\n9      Ch. 9 Lipids\n\n10    Ch. 10 Introduction to Metabolism\n\n11    Ch. 11 Glycolysis\n\n12    Ch. 12 Gluconeogenesis, the Pentose Phosphate Pathway and Glycogen Metabolism (\n\n13    Ch. 13 The Citric Acid Cycle\n\n14    Ch. 14 Electron Transport\n\n15    Ch. 14 ATP Synthesis\n\n16    Ch. 16 Lipid Metabolism\n\n17    Ch. 17 Amino Acid Metabolism\n\n18    Final Exam",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "期中考",
+            "weight": 67,
+            "note": "筆試題型:是非、選擇、問答題。"
+        },
+        {
+            "type": "期末考",
+            "weight": 33,
+            "note": "筆試題型:是非、選擇、問答題。"
+        }
+    ],
+    "prerequisite": "◎必須先修過【CMU0178  普通化學乙】、【NSU0004  有機化學】",
+    "general_core": []
+}

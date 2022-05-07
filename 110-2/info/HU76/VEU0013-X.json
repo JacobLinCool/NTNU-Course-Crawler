@@ -1,0 +1,84 @@
+{
+    "year": 110,
+    "term": 2,
+    "name": "應用力學",
+    "teachers": [
+        "洪翊軒"
+    ],
+    "department": "HU76",
+    "code": "VEU0013",
+    "credit": 3,
+    "serial": 1294,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 4,
+            "from": 2,
+            "to": 4,
+            "campus": "本部",
+            "classroom": "工401"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "",
+    "goals": [
+        "Providing the knowledge and theories of vehicle/energy/mechanics for students.",
+        "Providing the capability of analyzation and problem solving of vehicle/energy/ mechanics for students.",
+        "Providing the fundamental research capability for vehicle/energy/ mechanics systems",
+        "Providing the capability of professional system designs and performance analysis for vehicle/energy/ mechanics systems."
+    ],
+    "syllabus": "1.      Course Introduction (Week 1)\n\n2.      Fundamental concept of statics, vector and calculation (Week 2)\n\n3.      Torque, force, equilibrium of a particle (Week 3)\n\n4.      Equilibrium of a 2-dimensional mechanical system (Week 4)\n\n5.      Equilibrium of a3-dimensional mechanical system, structural analysis  (Week 5)\n\n6.      Center of gravity and centroid, moments of inertia (Week 6)\n\n7.      Friction and its application (Week 7)\n\n8.      Midterm exam (Week 8)\n\n9.      Fundamental concept of kinetics, kinetics of particle (Week 9)\n\n10\\. Force and acceleration (Week 10)\n\n11.  Work, energy and power (Week 11)\n\n12.  Impulse and momentum(Week 12)\n\n13.  2D kinetics of system (Week 13)\n\n14.  3D kinetics of system (Week 14)\n\n15.  Review and industrial applications (Week 15)\n\n16.  Final exam (Week 16)\n\n17.  Project and report (I) (Week 17)\n\n18\\. Project and report (II) (Week 18)",
+    "methodologies": [
+        {
+            "type": "Formal lecture",
+            "note": ""
+        },
+        {
+            "type": "Group discussion",
+            "note": "A team will be organized to discuss the project"
+        },
+        {
+            "type": "Media, audio, visual materials",
+            "note": "The animations, movie clips and engineering software will be employed for visualization."
+        }
+    ],
+    "grading": [
+        {
+            "type": "Assignments",
+            "weight": 20,
+            "note": ""
+        },
+        {
+            "type": "Midterm Exam",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "Final exam",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "Attendances",
+            "weight": 5,
+            "note": ""
+        },
+        {
+            "type": "Presentation",
+            "weight": 15,
+            "note": "A project for vehicle and energy system will be conducted by using the statics or kinetics theory for system analysis."
+        }
+    ],
+    "prerequisite": "◎Available for junior and senior year B.A. program students (Doctoral program courses excepted) and M.A. program students.",
+    "general_core": []
+}

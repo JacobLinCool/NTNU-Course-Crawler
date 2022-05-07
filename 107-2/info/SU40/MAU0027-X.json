@@ -1,0 +1,74 @@
+{
+    "year": 107,
+    "term": 2,
+    "name": "拓樸學（一）",
+    "teachers": [
+        "林俊吉"
+    ],
+    "department": "SU40",
+    "code": "MAU0027",
+    "credit": 3,
+    "serial": 2760,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 5,
+            "from": 2,
+            "to": 4,
+            "campus": "公館",
+            "classroom": "數學館M210"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "3",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "拓樸學主要是要介紹點集拓樸學，也就是關於拓樸空間的概念，讓學生認識抽象化空間的拓樸結構（提供關於“距離”、“遠近”的概念），並做為日後修習高深數學的基礎。",
+    "goals": [
+        "瞭解點集拓樸學基本性質",
+        "增進邏輯推理與歸納的能力",
+        "增進數學思維與批判性思考的能力"
+    ],
+    "syllabus": "一、教學目標：拓樸學（一）的教學目標是介紹點集拓樸（point set topology）與基本的代數拓樸（algebraic topology），主要是談論基本群（fundamental groups）與二維曲面的分類。其中，點集拓樸是現代數學分析嚴格化的基礎，也可以理解為關於「空間」局部結構的理論，而代數拓樸則提供「空間」整體結構的一種理論。二、教材內容：可以的話，我們希望大約以每一周進行底下的一個主題的速度來完成這些內容。1.Set Theory and Logic 2.Topological Spaces and Continuous Functions 3.Connectedness and Compactness 4.Countability and Separation Axioms 5.The Tychonoff Theorem 6.Metrization Theorems and Paracompactness 7.Complete Metric Spaces and Function Spaces 8.Baire Spaces and Dimension Theory 9.The Fundamental Group 10.Separation Theorems in the Plane 11.The Seifert-van Kampen Theorem 12.Classification of Surfaces 13.Classification of Covering Spaces",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 20,
+            "note": ""
+        },
+        {
+            "type": "期中考",
+            "weight": 35,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 35,
+            "note": ""
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 10,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

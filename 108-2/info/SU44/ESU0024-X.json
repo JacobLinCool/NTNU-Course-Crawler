@@ -1,0 +1,67 @@
+{
+    "year": 108,
+    "term": 2,
+    "name": "應用數學（二）",
+    "teachers": [
+        "林惠娥"
+    ],
+    "department": "SU44",
+    "code": "ESU0024",
+    "credit": 3,
+    "serial": 2871,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 2,
+            "to": 4,
+            "campus": "公館",
+            "classroom": "數學館M210"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎必須先修過【ESU0023  應用數學（一）】",
+    "form_s": "2",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程主要教導地科系同學認識多變數微積分的觀念、線性代數、Fourier分析、微分方程之各種計算基本技巧，並加強分析的能力，使得同學們瞭解數學在物理、化學、工程與其他各方面的應用。本課程偏重在計算層面。",
+    "goals": [
+        "本課程主要教導地科系同學認識多變數微積分的觀念、線性代數、Fourier分析、微分方程之各種計算基本技巧，並加強分析的能力，使得同學們瞭解數學在物理、化學、工程與其他各方面的應用。本課程偏重在計算層面。"
+    ],
+    "syllabus": "教學目標:  本課程主要教導地科系同學認識 Laplace轉換, 多變數微積分的觀念、Fourier分析、微分方程之各種計算基本技巧，並加強分析的能力，使得同學們瞭解數學在物理、化學、工程與其他各方面的應用。本課程偏重在計算層面。    \n  \n教材內容:  Week 1:, Laplace Transform. Linearity. s-Shifting Theorem.   Week 2:  Transforms of Derivatives and Integrals.   Week 3: Unit Step Function, t-Shifting Theorem, Dirac\\`s Delta Function.  Week 4: Convolution, Integral Equations.  Week 5: MidTerm I.  Week 7: \\[9-1,2,3,4\\]  Vectors in space, Inner and Cross product,  Vectors and Scaler function and Fields Derivatives.   Week 8: \\[9-4,5,7\\]  Arc Length of Curves, Gradient of a scalar field.   Week 9: \\[9-8,9;10-1,2\\]  Divergence and Curl of a vector field.   Week 10: \\[10-3,4\\]  Change of Variables in Double integrals, Green\\`s Theorem in  the plane.   Week 11: MidTerm II.  Week 12: \\[11-1,2,6\\]  Fourier Series, Approximation by Trigonometric Polynomials.   Week 13: \\[11-6,7,8\\]  Fourier Integral and Fourier Cosine and Sine Transform.   Week 14: \\[11-9;12-1,3\\]  Discrete and Fast Fourier Transform   Week 15: \\[12-3,4,5\\]  Solution by Separting variables and by Fourier Series  D\\`Alembert\\`s Solution of the Wave equation. Chrateristics.   Week 16: \\[12-5,9\\]  Heat equation: Solution by Fourier Series,  Laplacian in polar Coordinates \n\n上述進度因冠狀病毒本學期將做適當調整並於最後兩周將指定教材讓學生自主學習",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 10,
+            "note": ""
+        },
+        {
+            "type": "期中考",
+            "weight": 60,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 30,
+            "note": ""
+        }
+    ],
+    "prerequisite": "◎必須先修過【ESU0023  應用數學（一）】",
+    "general_core": []
+}

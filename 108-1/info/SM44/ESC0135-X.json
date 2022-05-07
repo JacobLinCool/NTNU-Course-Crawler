@@ -1,0 +1,87 @@
+{
+    "year": 108,
+    "term": 1,
+    "name": "高等天文物理",
+    "teachers": [
+        "李悅寧"
+    ],
+    "department": "SM44",
+    "code": "ESC0135",
+    "credit": 3,
+    "serial": 2720,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 1,
+            "from": 2,
+            "to": 4,
+            "campus": "公館",
+            "classroom": "Ｂ413"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程不開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "Physical laws behind observational phenomena, multi-scale and multi-wavelength.",
+    "goals": [
+        "期望學生知道與理解天文基本知識，以及天文學發展史",
+        "在教學過程中，讓學生習得獨立思考、歸納的能力",
+        "教導學生資料收集、閱讀、吸收與宇文表達",
+        "在撰寫讀書報告過程中，能夠學習彼此溝通與表達的能力"
+    ],
+    "syllabus": "1.總論、星等、天體的溫度測量  \n2.天體的溫度測量，恆星光譜  \n3.恆星光譜之譜線  \n4.恆星光譜分類  \n5.恆星演化與CMD總論  \n6.恆星大氣  \n7.恆星大氣  \n8.恆星內部  \n9.【期中測驗】  \n10.恆星形成與演化  \n11.恆星形成與演化  \n12.恆星形成與演化  \n13.恆星的脈動  \n14.太陽  \n15.銀河系、星系  \n16.星系與宇宙  \n17.宇宙論  \n18.【期末測驗】",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": ""
+        },
+        {
+            "type": "合作學習",
+            "note": ""
+        },
+        {
+            "type": "實驗/實作",
+            "note": "Python 程式語言撰寫"
+        },
+        {
+            "type": "專題研究",
+            "note": "進行資料蒐集、分析與撰寫報告，並口頭表達"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "期中考",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "報告",
+            "weight": 10,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

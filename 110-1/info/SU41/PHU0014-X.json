@@ -1,0 +1,82 @@
+{
+    "year": 110,
+    "term": 1,
+    "name": "光學",
+    "teachers": [
+        "張宜仁"
+    ],
+    "department": "SU41",
+    "code": "PHU0014",
+    "credit": 3,
+    "serial": 2896,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 5,
+            "from": 6,
+            "to": 8,
+            "campus": "公館",
+            "classroom": "Ｅ102"
+        }
+    ],
+    "programs": [
+        "太陽能源與工程學程"
+    ],
+    "comment": "",
+    "restrict": "",
+    "form_s": "3",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "在光學的演進史上，近百年可說是最具突破的一段時間，在雷射、半導體的發展基礎下，純光學領域的研究已跨入光與物質作用的領域。此課程同時著重於古典光學與近代光學的內容。理論方面力求清楚易懂，闡述各種光學現象，並介紹各類光學元件的結構原理、特性、及參數。冀望同學能獲得基礎光學專業知識，也能了解未來光學的發展趨勢。",
+    "goals": [
+        "瞭解與精通幾何光學",
+        "瞭解與精通波動光學",
+        "瞭解與精通光與物質的交互作用",
+        "將光學專業知識應用於日常生活"
+    ],
+    "syllabus": "Text Book: OPTICS, 4th Edition, by Eugence Hecht\n\n第1 週  幾何光學\n\n第2 週  幾何光學\n\n第3 週  幾何光學\n\n第4 週  幾何光學\n\n第5 週  波動光學\n\n第6 週  波動光學\n\n第7 週  波動光學\n\n第8 週  波動光學\n\n第9 週  波動光學\n\n第10週  期中考\n\n第11週  波動光學\n\n第12週  波動光學\n\n第13週  波動光學\n\n第14週  波動光學\n\n第15週  波動光學\n\n第16週  期末考\n\n**授課方式：16+2週(彈性自主學習)**",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 20,
+            "note": ""
+        },
+        {
+            "type": "期中考",
+            "weight": 25,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 25,
+            "note": ""
+        },
+        {
+            "type": "出席",
+            "weight": 10,
+            "note": ""
+        },
+        {
+            "type": "其他",
+            "weight": 20,
+            "note": "隨堂小考"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

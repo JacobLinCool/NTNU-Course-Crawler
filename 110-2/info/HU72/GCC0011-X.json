@@ -1,0 +1,100 @@
+{
+    "year": 110,
+    "term": 2,
+    "name": "計算色彩學",
+    "teachers": [
+        "周遵儒"
+    ],
+    "department": "HU72",
+    "code": "GCC0011",
+    "credit": 3,
+    "serial": 1202,
+    "group": "",
+    "quota": {
+        "limit": 28,
+        "additional": 2
+    },
+    "schedule": [
+        {
+            "day": 4,
+            "from": 8,
+            "to": 10,
+            "campus": "本部",
+            "classroom": "新媒體專業教室"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "9",
+    "dept_group": "",
+    "hours": 3,
+    "description": "訓練學生對於使用各種計算工具與方法解決關於色彩量測、彩色影像輸出入、彩色影像處理、嵌入式彩色影像系統的問題，並輔導學生從事相關課題的學術研究",
+    "goals": [
+        "具有運用資訊科技及設計知能，從事圖像、文字及聲音之整合製作、出版與經營之能力。",
+        "具有邏輯歸納、創意思考、藝術整合與市場分析之能力。",
+        "養成包融多元藝術形式的胸襟、發揮創意，展現圖文傳播之新契機。",
+        "具有獨立批判與分析，學習進行對外溝通與自我實現之能力。"
+    ],
+    "syllabus": "部分課程採數位教學\n\n1. 色彩學與色彩工程基本原理（Color Science and Color Engineering）  \n2. 數學基礎（Math）  \n    微積分（Calculus）  \n    線性代數（Linear Algebra）  \n    機率與統計（Probability and Statistics）  \n    內插與逼近（Interpolation and Approximation）  \n    最佳化（優化）（Optimization）  \n    計算工具（EXCEL/MATLAB/Maple/...）  \n3\\. Python 程式設計工具  \n    計算工具模組 numpy  \n    影像與繪圖工具模組 opencv, pillow, matplotlib  \n    數學工具模組 scipy, scikit-learn  \n    色彩工具模組 colormath, colour-science  \n    彩色影像處理（Color Image Processing）  \n    其它  \n4. 色度學（Colorimetry）  \n    色彩匹配（Color Matching）  \n    色彩空間（Color Space）  \n    色差（Color Difference）  \n    色溫（Color Temperature）  \n    演色性（Color Rendering Index）  \n5. 當代色彩工程研究  \n    頻譜色彩重建（Spectral Color Recovery）  \n    人工智慧與生成設計應用（Artificial Intelligence and Generative Design Application）  \n    其它  \n6. 當代論文研討  \n7. 專題實作\n\n第十七週、（自主學習）  \n第十八週、（自主學習）",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": ""
+        },
+        {
+            "type": "問題解決教學",
+            "note": ""
+        },
+        {
+            "type": "合作學習",
+            "note": ""
+        },
+        {
+            "type": "實驗/實作",
+            "note": ""
+        },
+        {
+            "type": "媒體融入教學",
+            "note": ""
+        },
+        {
+            "type": "專題研究",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 20,
+            "note": ""
+        },
+        {
+            "type": "出席",
+            "weight": 10,
+            "note": ""
+        },
+        {
+            "type": "報告",
+            "weight": 10,
+            "note": ""
+        },
+        {
+            "type": "專題",
+            "weight": 40,
+            "note": ""
+        },
+        {
+            "type": "其他",
+            "weight": 20,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

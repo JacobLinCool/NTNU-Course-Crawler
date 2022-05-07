@@ -1,0 +1,81 @@
+{
+    "year": 109,
+    "term": 1,
+    "name": "天文統計",
+    "teachers": [
+        "李悅寧"
+    ],
+    "department": "SM44",
+    "code": "ESC8009",
+    "credit": 3,
+    "serial": 2732,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 1,
+            "from": 2,
+            "to": 4,
+            "campus": "公館",
+            "classroom": "Ｂ413"
+        }
+    ],
+    "programs": [
+        "天文重力學程"
+    ],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "一、 教學目標：\nThe aim of this course is to provide the students for a broad knowledge and comprehension of statistics, and to practice this knowledge with real datasets.\nStatistic is a mathematical science pertaining to collection, analysis, interpretation and presentation of data. Statistics is actually involved in every steps of the research in Astronomy.\nModern Astronomy relies mainly on large datasets; first-of-all controlling the errors and systematics requires statistical analysis. Also analysis of these data requires use of statistical tools (e.g. correlation function). Furthermore the interpretation involves comparison with theory and simulations, which require statistical tools as well (e.g. estimation, interpolation).\nIt is essential that students in Astronomy (and probably in other scientific curriculum) at the Master and PhD level have the basic knowledge and now the practical usage in statistics.\n\n二、 教材內容：\nThe course has for goal to provide to the students the mathematical tools required to conduct research in modern astronomy, but also beyond as statistical analysis is nowadays involved in almost all sector of activities. The course will be divided in different sections following roughly this syllabus:\nA. Basic statistics\nB. Probability theory\nC. Sampling and statistics; descriptive statistics and graphical presentation\nD. Correlation and association\nE. Statistical modelling and estimation\nF. Examples of Maximum Likelihood estimation\nG. Bayesian estimation\nH. Hypothesis testing\nI. Numerical techniques (Monte Carlo methods, resampling, ...)\nThe students will practice the theory discussed during the course under the form of homework involving real data. Midterm and final exams will assess the work of the students.\n\n三、 實施方式：\nLecturing, Homework, Reading Assignments and Exam\n評量方式：\nHomework 40%, Reading Assignments 20% and Exam 40%\n\n四、 參考書目：\n J.V. Wall & C.R. Jenkins: Practical Statistics for Astronomers (Cambridge University Press, 2003)\n S. Brandt: Statistical and Computational Methods in Data Analysis (Springer, 1998)\n D.S. Sivia & J. Skilling: Data Analysis – A Bayesian Tutorial (Oxford University Press, 2006)\n G. Casella & R.L. Berger: Statistical Inference (Duxbury Press, 1990)\n E.T. Jaynes: Probability Theory – The Logic of Science (Cambridge University Press, 2003)",
+    "goals": [
+        "The aim of this course is to provide the students for a broad knowledge and comprehension of statistics, and to practice this knowledge with real"
+    ],
+    "syllabus": "Statistical theories and techniques will be introduced in this course, from a practical perspective. Students will learn how to apply relavant tools to infer statistical quatities, which can be used for scientific reasonings. The lectures will be mostly composed of hands-on practices. Basic programming knowlege is preferable. Most application and examples will be related to astronomy. However, the content of this course can be readily applied to treatment of other scientific problems. \n\nThe semester will be organized as\n\n1\\. Decision making and probability\n\n2\\. Random variables and probability\n\n3\\. Description of random variables\n\n4\\. Some important theoretical distributions\n\n5\\. Organization of data and descriotive statistics\n\n6\\. Bayesian statistics\n\n7\\. Statistical inference\n\n8\\. Nonparametric statistics\n\nMidterm\n\n9\\. Estimation and hypothesis testing\n\n10\\. Sampling and Monte Carlo Markov Chain statistics\n\n11\\. Regression\n\n12\\. Multivariate analysis\n\n13\\. Correlation\n\n14\\. Analysis of variance \n\n15\\. Time series analysis\n\n16\\. Clustering, classification, and data mining\n\nFinal",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": ""
+        },
+        {
+            "type": "問題解決教學",
+            "note": ""
+        },
+        {
+            "type": "實驗/實作",
+            "note": ""
+        },
+        {
+            "type": "專題研究",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 50,
+            "note": ""
+        },
+        {
+            "type": "期中考",
+            "weight": 25,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 25,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

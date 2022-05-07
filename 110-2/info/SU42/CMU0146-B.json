@@ -1,0 +1,77 @@
+{
+    "year": 110,
+    "term": 2,
+    "name": "無機化學（二）",
+    "teachers": [
+        "林嘉和"
+    ],
+    "department": "SU42",
+    "code": "CMU0146",
+    "credit": 3,
+    "serial": 2859,
+    "group": "B",
+    "quota": {
+        "limit": 50,
+        "additional": 0
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 3,
+            "to": 4,
+            "campus": "公館",
+            "classroom": "Ｓ402"
+        },
+        {
+            "day": 4,
+            "from": 2,
+            "to": 2,
+            "campus": "公館",
+            "classroom": "Ｓ402"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "3",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "To train students to have the basic concepts of CFT and complexes.",
+    "goals": [
+        "The hydrogen atomic structure and the trend of the periodical elements.",
+        "Molecular structures and bonding theories.",
+        "Main group elements and their compounds.",
+        "CFT and electronic spectra."
+    ],
+    "syllabus": "Organometallic Chemistry\n\n*   Introduction to coordination compounds  \n    \n*   d-metal complexes : electronic structure and properties  \n    \n*   Coordination chemistry : reactions of complexes  \n    \n*   d-metal organometallic chemistry \n\nApplications\n\n*   Materials chemistry and nanomaterials  \n    \n*   Castalysis  \n    \n*   Biological inorganic chemistry  \n    \n*   Inorganic chemistry in medicine",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "媒體融入教學",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "期中考",
+            "weight": 50,
+            "note": "Two midterms (25% and 25%)"
+        },
+        {
+            "type": "期末考",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "其他",
+            "weight": 20,
+            "note": "Homework and attendence"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

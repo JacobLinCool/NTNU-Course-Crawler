@@ -1,0 +1,70 @@
+{
+    "year": 110,
+    "term": 2,
+    "name": "資優教育概論",
+    "teachers": [
+        "李家兆"
+    ],
+    "department": "EU09",
+    "code": "SPU0056",
+    "credit": 2,
+    "serial": 832,
+    "group": "A",
+    "quota": {
+        "limit": 45,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 3,
+            "from": 16,
+            "to": 10,
+            "campus": "本部",
+            "classroom": "特115"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "1",
+    "classes": "",
+    "dept_group": "",
+    "hours": 2,
+    "description": "",
+    "goals": [
+        "認識與瞭解智能與資優的意涵",
+        "探討資優者的特質",
+        "認識與瞭解資優教育的鑑定、課程設計、教學與資優方案",
+        "培養對資優教育實務與研究的態度與知能"
+    ],
+    "syllabus": "1 課程介紹與規劃協商 師生計劃  \n2 資優教育的基本理念 講述、討論  \n3 資優教育的領域  \n4 資優兒童的特質  \n5 創造力  \n6 資優課程  \n7 啟迪資優  \n8 資優教育的課程模式 講述、小組分享  \n9 資優方案：充實模式 講述、小組分享  \n10 資優方案：加速模式 講述、小組分享  \n11 資優方案：濃縮課程 講述、小組分享  \n12 特殊族群資優教育 講述、討論  \n13 多元智慧與資優教育 講述、討論  \n14 資優生多元智能教學 講述、討論  \n15 資優生的親職教育 講述、討  \n16 資優教育方案規劃與評鑑 講述、討論  \n17 文化殊異與資優教育 講述、討論  \n18 期末檢討與繳交書面報告",
+    "methodologies": [
+        {
+            "type": "Formal lecture",
+            "note": ""
+        },
+        {
+            "type": "Group discussion",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "Class discussion involvement",
+            "weight": 13,
+            "note": ""
+        },
+        {
+            "type": "Attendances",
+            "weight": 12,
+            "note": ""
+        },
+        {
+            "type": "Presentation",
+            "weight": 75,
+            "note": "小組報告、訪談報告、閱讀報告各佔25%"
+        }
+    ],
+    "prerequisite": "◎Available for junior and senior year B.A. program students (Doctoral program courses excepted) and M.A. program students.",
+    "general_core": []
+}

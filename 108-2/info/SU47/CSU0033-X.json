@@ -1,0 +1,85 @@
+{
+    "year": 108,
+    "term": 2,
+    "name": "作業系統",
+    "teachers": [
+        "賀耀華"
+    ],
+    "department": "SU47",
+    "code": "CSU0033",
+    "credit": 3,
+    "serial": 2898,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 1,
+            "from": 8,
+            "to": 9,
+            "campus": "公館",
+            "classroom": "Ｂ101"
+        },
+        {
+            "day": 5,
+            "from": 3,
+            "to": 3,
+            "campus": "公館",
+            "classroom": "Ｂ101"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "3",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "This course will introduce the core concepts of operating systems, such as processes and threads, scheduling, synchronization, memory management, file systems, and input and output device management. The course will consist of assigned reading, weekly lectures, a midterm and final exam, and a sequence of homework assignments. \n\n本課程介紹與作業系統有關的核心概念，包括進程和線程、排程、同步、記憶體管理、檔案系統、輸入和輸出設備的管理。本課程的學習內容包含指定閱讀，每週講課，期中考和期末考以及一系列的相關作業。",
+    "goals": [
+        "了解各式作業系統類型和特色",
+        "學習硬體像是CPU、記憶體等與I/O運作之間的溝通和Interrupt處理",
+        "運用不同演算法來對處理程序(process)做優化像是concurrent processes、scheduling等",
+        "了解作業系統不同的記憶體管理方法對於存取資料從Database的影響",
+        "深入分析不同作業系統的特色和性能",
+        "從早期的微核心作業系統、分散式作業系統到現今的嵌入式即時作業系統來了解相關科技之進展"
+    ],
+    "syllabus": "(\\*Subject to changes)\n\nWeek 1: Introduction to Operating Systems\n\nWeek 2: Process Concept\n\nWeek 3: Threads and Concurrency\n\nWeek 4: Synchronization Primitives\n\nWeek 5: Monitors and Message Passing\n\nWeek 6: Deadlock\n\nWeek 7: Midterm review\n\nWeek 8: Midterm\n\nWeek 9: Scheduling\n\nWeek 10: Memory Management\n\nWeek 11: Virtual Memory 1\n\nWeek 12: Virtual Memory 2 and Paging Algorithms\n\nWeek 13: Input/Output\n\nWeek 14: Secondary Storage Management\n\nWeek 15: File System 1\n\nWeek 16: File System 2\n\nWeek 17: Final review\n\nWeek 18: Final",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 20,
+            "note": "8 ~ 10 homework assignments"
+        },
+        {
+            "type": "期中考",
+            "weight": 30,
+            "note": "One midterm exam"
+        },
+        {
+            "type": "期末考",
+            "weight": 35,
+            "note": "One final exam"
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 5,
+            "note": "Discussions during class"
+        },
+        {
+            "type": "出席",
+            "weight": 10,
+            "note": "1 pts deduction (1%) of overall grade for each missing class (allow one missing class) up to 10 pts"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

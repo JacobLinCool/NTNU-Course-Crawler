@@ -1,0 +1,73 @@
+{
+    "year": 110,
+    "term": 1,
+    "name": "科學語言",
+    "teachers": [
+        "楊文金"
+    ],
+    "department": "SM45",
+    "code": "SEC8003",
+    "credit": 3,
+    "serial": 2742,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 3,
+            "from": 7,
+            "to": 9,
+            "campus": "公館",
+            "classroom": "教室自排"
+        }
+    ],
+    "programs": [],
+    "comment": "學生需具備科學教育背景。",
+    "restrict": "◎課程不開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程介紹科學英語的發展過程、科學家從經驗構作科學意義的語言特性，說明並熟悉諸如語法隱喻(grammatical metaphor)、名物化(nominalization)、蘊含序列(implication sequence)、技術建構(technicality construction)等重要的科學語言資源的結構，介紹用以體現科學思維(諸如「定義」、「分類」、「類比」、「形成假說」、「因果關係」等)的語言資源，以及科學論述的各種體裁(genres)，探討科學語言與現行漢語的差異，並將上述各種科學語言特徵應用於中小學科學教科書的解構與重構。",
+    "goals": [
+        "瞭解科學語言的發展過程",
+        "熟悉科學語言的特性與資源",
+        "瞭解科學語言與漢語的差異",
+        "應用科學語言於科學文本解構與重構"
+    ],
+    "syllabus": "週次\n\n主題\n\n附註\n\n1\n\n導論\n\n說明課程大綱\n\n2\n\nReading\n\n*   Introduction\n*   The Development of Scientific Thinking\n*   The Language of Definitions\n\nS. Darian’s Understanding\n\nthe Language of Science\n\n3\n\nShare and Discussion\n\n*   Examples of scientific thinking in science texts\n*   Examples of definitions of science texts\n*   Discussion\n\n4\n\nReading\n\n*   The Language of Classifying\n*   The Role of Figurative Language \n\n5\n\nShare and Discussion\n\n*   Examples of classifying of science texts\n*   Examples of types figurative founded in science texts\n\n6\n\nReading\n\n*   Cause and Effect|\n*   The Language of Hypotheses\n\n7\n\nShare and Discussion\n\n*   Examples of cause and effect of science texts\n*   Examples of types figurative founded in science texts\n\n8\n\nReading\n\n*   The Language of Comparison\n*   The Language of Experiments\n\n9\n\nShare and Discussion\n\n*   Modes and ways of comparison in science texts\n*   Types and functions of experiments of science texts\n\n10\n\nReading\n\n*   More than Meets the Eye: The Role of Visuals\n*   The Language of Quantifying\n*   Summary of Steven’s\n\n11\n\nShare and Discussion\n\n*   Types of visuals in science texts\n*   Examples of quantifying language used in science texts\n\n12\n\nLecture\n\nThe development of scientific English\n\n*   From Chaucer to Newton\n*   Beginning with Chaucer\n*   Between Chaucer and Newton\n*   The Royal Society and Newton\n\nDavid banks’\n\n13\n\nReading and sharing\n\nThe development of Mandarin in Modern age\n\n科學舊蹤\n\n14\n\nLecture\n\n*   Language and the Reshaping of Human Experience\n*   Language and Knowledge: the 'Unpacking' of Text\n\nHalliday’s the Language of science\n\n15\n\nPlay Language Game\n\nThe FOUR games\n\n16\n\nLecture\n\n*   Things and Relations: Regrammaticizing Experience as Technical Knowledge\n*   The Grammatical Construction of Scientific Knowledge: the Framing of the English Clause\n\nHalliday’s the Language of science",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "陳述與說明重要的理論"
+        },
+        {
+            "type": "討論法",
+            "note": "同儕與師生之間針對特定與非特定議題進行多方詰問"
+        },
+        {
+            "type": "問題解決教學",
+            "note": "收集與體驗科學語言的現況與問題，並尋求解決之道"
+        },
+        {
+            "type": "實驗/實作",
+            "note": "實際解構與重構科學文本"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 50,
+            "note": "每週例行作業"
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 50,
+            "note": "課堂出席及參與情形"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

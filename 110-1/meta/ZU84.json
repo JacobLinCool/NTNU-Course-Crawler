@@ -1,0 +1,172 @@
+[
+    {
+        "year": 110,
+        "term": 1,
+        "name": "經濟學",
+        "teachers": [
+            "周有熙"
+        ],
+        "department": "EU07",
+        "code": "CEU0011",
+        "credit": 2,
+        "serial": 813,
+        "group": "",
+        "quota": {
+            "limit": 100,
+            "additional": 60
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 16,
+                "to": 10,
+                "campus": "本部",
+                "classroom": "教201演講廳"
+            }
+        ],
+        "programs": [
+            "財金學程"
+        ],
+        "comment": "",
+        "restrict": "",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 1,
+        "name": "會計學",
+        "teachers": [
+            "卓瑞蘋"
+        ],
+        "department": "EU07",
+        "code": "CEU0439",
+        "credit": 3,
+        "serial": 835,
+        "group": "",
+        "quota": {
+            "limit": 165,
+            "additional": 13
+        },
+        "schedule": [
+            {
+                "day": 5,
+                "from": 3,
+                "to": 5,
+                "campus": "本部",
+                "classroom": "綜210展覽廳"
+            }
+        ],
+        "programs": [
+            "財金學程"
+        ],
+        "comment": "",
+        "restrict": "",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 1,
+        "name": "貨幣銀行學",
+        "teachers": [
+            "曾永清"
+        ],
+        "department": "EU07",
+        "code": "CEU0076",
+        "credit": 3,
+        "serial": 845,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 30
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 3,
+                "to": 5,
+                "campus": "本部",
+                "classroom": "文學院B1會議室"
+            }
+        ],
+        "programs": [
+            "財金學程"
+        ],
+        "comment": "",
+        "restrict": "",
+        "form_s": "3",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 1,
+        "name": "管理學",
+        "teachers": [
+            "施友元"
+        ],
+        "department": "ZU84",
+        "code": "PGUB005",
+        "credit": 3,
+        "serial": 3279,
+        "group": "",
+        "quota": {
+            "limit": 75,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 10,
+                "to": 12,
+                "campus": "本部",
+                "classroom": "誠101"
+            }
+        ],
+        "programs": [
+            "財金學程"
+        ],
+        "comment": "兼任教師：施友元老師。",
+        "restrict": "◎第一階段限 財金學程",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 1,
+        "name": "金融市場",
+        "teachers": [
+            "楊智元"
+        ],
+        "department": "ZU84",
+        "code": "PGUB010",
+        "credit": 3,
+        "serial": 3280,
+        "group": "",
+        "quota": {
+            "limit": 75,
+            "additional": 60
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 10,
+                "to": 12,
+                "campus": "本部",
+                "classroom": "綜210展覽廳"
+            }
+        ],
+        "programs": [
+            "財金學程"
+        ],
+        "comment": "",
+        "restrict": "◎第一階段限 財金學程",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    }
+]

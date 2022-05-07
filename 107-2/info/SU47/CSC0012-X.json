@@ -1,0 +1,95 @@
+{
+    "year": 107,
+    "term": 2,
+    "name": "語音處理",
+    "teachers": [
+        "陳柏琳"
+    ],
+    "department": "SU47",
+    "code": "CSC0012",
+    "credit": 3,
+    "serial": 2941,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 2,
+            "to": 4,
+            "campus": "公館",
+            "classroom": "Ｂ101"
+        }
+    ],
+    "programs": [
+        "人工智慧學程"
+    ],
+    "comment": "",
+    "restrict": "",
+    "form_s": "",
+    "classes": "9",
+    "dept_group": "",
+    "hours": 3,
+    "description": "1. Fundamentals and Principles\n(1) Spoken Language System - Human Speech Production and Perception\n(2) Probability, Statistics, and Pattern Recognition \n(3) Digital Signal Processing and Speech Signal Representations\n(4) Statistical Acoustic and Language Modeling\n2. Advanced Topics and Practice\n(1) Keyword Spotting and Large Vocabulary Continuous Speech Recognition\n(2) Acoustic and Language Model Adaptation\n(3) Environment and Channel Robustness\n(4) Dialogue Systems",
+    "goals": [
+        "介紹基礎語音訊號處理之原理",
+        "介紹如何基於線性代數、機率理論與數理統計來從事語音訊號處理",
+        "介紹當前新穎語音訊號分析、辨識與合成技術之發展與相關應用",
+        "系統實作與評估"
+    ],
+    "syllabus": "1\\. Fundamentals and Principles\n\n(1) Spoken Language System - Human Speech Production and Perception\n\n(2) Probability, Statistics, and Pattern Recognition\n\n(3) Digital Signal Processing and Speech Signal Representations\n\n(4) Acoustic Modeling, Language Modeling and Linguistic Decoding\n\n2\\. Advanced Topics and Practice\n\n(1) Model Adaptation and Environmental Robustness\n\n(2) Keyword Spotting and Large Vocabulary Continuous Speech Recognition Systems\n\n(3) Spoken Dialogue Systems\n\n(4) Speech Retrieval, Summarization and Organization\n\n(5) Computer-Assisted Language Learning with Speech Processing Techniques",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": ""
+        },
+        {
+            "type": "問題解決教學",
+            "note": ""
+        },
+        {
+            "type": "實驗/實作",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 40,
+            "note": "基礎理論知識與技術"
+        },
+        {
+            "type": "期中考",
+            "weight": 15,
+            "note": "基礎理論知識與技術"
+        },
+        {
+            "type": "期末考",
+            "weight": 15,
+            "note": "基礎理論知識與技術"
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 5,
+            "note": "學習態度"
+        },
+        {
+            "type": "出席",
+            "weight": 5,
+            "note": "學習態度"
+        },
+        {
+            "type": "報告",
+            "weight": 20,
+            "note": "論文研讀與表達技巧"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

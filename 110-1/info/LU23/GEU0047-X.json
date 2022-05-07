@@ -1,0 +1,72 @@
+{
+    "year": 110,
+    "term": 1,
+    "name": "氣象學",
+    "teachers": [
+        "翁叔平"
+    ],
+    "department": "LU23",
+    "code": "GEU0047",
+    "credit": 3,
+    "serial": 1984,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 5
+    },
+    "schedule": [
+        {
+            "day": 4,
+            "from": 7,
+            "to": 9,
+            "campus": "本部",
+            "classroom": "正205"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "1",
+    "classes": "1",
+    "dept_group": "",
+    "hours": 3,
+    "description": "透過深入淺出的介紹，讓同學具備基本的氣象知識。",
+    "goals": [
+        "具備基本的氣象知識"
+    ],
+    "syllabus": "1.explain the difference between weather and climate (L1)  \n2.describe what makes up the atmosphere and its structure (L2)  \n3.summarize the history of the study of the atmosphere (L1)  \n4.explain how the basic forms of energy contribute to our daily weather (L2)  \n5.describe how the exchange of energy regulates the Earth\\`s temperature (the so-called greenhouse effect), thereby the seasons (L2)  \n6.describe how the evaporation and condensation of water impacts the atmosphere (L3; L4)  \n7.explain how the vertical motion of air determines how and where clouds form and whether those clouds produce rain/snow (L5; L6)  \n8.describe what causes air molecules to move and explain what that has to do with global wind patterns (L7; L8; L9)  \n9.describe how the different regions of the atmosphere form and how the regions interact to produce our weather (L10; L11; L13)  \n10.explain how patterns of differences and interactions allow us to predict the weather (L14)  \n11.explain how thunderstorms and tornadoes originate, mature, and then die out (L12)  \n12.explain what causes the climate to vary naturally and how human activity is likely changing the climate (L15).  \n  \n  \n1Class overview  \n2 Introduction to Weather and Climate  \n3 Heat and energy  \n4 Composition, structure, and hydrological cycle  \n5 Humidity, condensation, and clouds  \n6 Stability and cloud formation/development  \n7 Precipitation (both rain and snow)  \n8 Air pressure and winds  \n9 Mid-term exam.; No class  \n10 Local winds  \n11 Global circulation systems  \n12 Air masses and frontal systems  \n13 Mid-latitude cyclones  \n14 Storms (thunder, tornado, and squall line)  \n15 Tropical cyclones  \n16 Weather forecasting  \n17 Air pollution and climate change  \n18 Final exam.; No class",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "理解氣象學基本原理"
+        },
+        {
+            "type": "實驗/實作",
+            "note": "舉辦天氣預報競賽，透過實務操作以深化對氣象學原理的理解。"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 30,
+            "note": "Each one is due within the first 10 minutes of the next lecture. No lateness will be accepted"
+        },
+        {
+            "type": "期中考",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 40,
+            "note": ""
+        },
+        {
+            "type": "其他",
+            "weight": 5,
+            "note": "Quiz: 5%"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

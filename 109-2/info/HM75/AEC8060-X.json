@@ -1,0 +1,69 @@
+{
+    "year": 109,
+    "term": 2,
+    "name": "機器人視覺",
+    "teachers": [
+        "包傑奇"
+    ],
+    "department": "HM75",
+    "code": "AEC8060",
+    "credit": 3,
+    "serial": 1161,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 1,
+            "from": 7,
+            "to": 9,
+            "campus": "本部",
+            "classroom": "多媒體與通訊實驗室"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程將介紹機器人視覺的理論和應用。專注在機器人之視覺導航，應用視覺之動態平衡、複雜運動規劃及自駕車等。",
+    "goals": [
+        "使用教育機器人中心的機器人取",
+        "人型機器人裡用視覺平衡及導航",
+        "複雜運動規劃運用電腦視覺的演算法來解決。面臨人型機器人複雜運動規劃如參加FIRA HuroCup或IROS Robot Magic等國際競賽。"
+    ],
+    "syllabus": "Week 1: Pixels, images, cameras\n\nWeek 2: Linear algebra and Probability/Statistics Review.\n\nWeek 3: Blob Detection and Color Predicates\n\nWeek 4: Camera calibration. Lectures and Practical Exercise\n\nWeek 5: Convolution\n\nWeek 6: Sobel and Canny Edge Detection.  \nWeek 7: Template Matching and Harris Corner Detector.  \nWeek 8: SIFT Features, HOG.  \nWeek 9: SURF Features and Face Detection. Midterm  \nWeek 10: Convolutional Neural Networks (CNN)  \nWeek 11: Object Recognition using SVMs and CNNs  \nWeek 12: Lukas-Kanade and Farneback Optical Flow  \nWeek 13: Lukas-Kanade and Farneback Optical Flow. Lectures and Exercise (Egomotion Estimation for FIRA.\n\nSprint Robot Competition)  \nWeek 14: Stereo vision  \nWeek 15: Stereo vision\n\nWeek 16: Structure from Motion (SFM)\n\nWeek 17: Ego-motion Estimation and Visual SLAM\n\nWeek 18: Pose estimation. Final Exam",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "實驗/實作",
+            "note": "包含2 個作業，每個各佔總成績的10%，及一個佔40%的專題作業"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 60,
+            "note": "包含2 個作業，每個各佔總成績的10%，及一個佔40%的專題。在專題中，學生們需運用電腦視覺的演算法來解決FIRA HuroCup 或IROS Robot Magic 競賽中會碰到的某些問題；此二比賽是目前人形機器人相關比賽中最具挑戰性的賽事。"
+        },
+        {
+            "type": "期中考",
+            "weight": 10,
+            "note": "確認學生對基礎概念及技術的理解"
+        },
+        {
+            "type": "期末考",
+            "weight": 30,
+            "note": "確認學生對基礎概念及技術的理解"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

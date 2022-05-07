@@ -1,0 +1,75 @@
+{
+    "year": 107,
+    "term": 2,
+    "name": "數位教學設計",
+    "teachers": [
+        "張國恩",
+        "邱瓊慧",
+        "陳志洪"
+    ],
+    "department": "EM08",
+    "code": "ICC0080",
+    "credit": 3,
+    "serial": 507,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 3,
+            "from": 7,
+            "to": 9,
+            "campus": "本部",
+            "classroom": "教1011"
+        }
+    ],
+    "programs": [
+        "大數據學程"
+    ],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "There are two major goals of this course: a) to foster an comprehensive understanding of the knowledge domain of instructional design for e-Learning, and b) to acquire expertise in designing and conducting instructional design for e-Learning courseware.",
+    "goals": [
+        "foster an understanding of the fundamental principles of learning and memory."
+    ],
+    "syllabus": "第01週 課程簡介與說明 \n\n第02週 Meaningful Online Learning: Integrating Strategies, Activities, and Learning Technologies for Effective Designs (I)\n\n第03週 Meaningful Online Learning: Integrating Strategies, Activities, and Learning Technologies for Effective Designs (II)\n\n第04週 Meaningful Online Learning: Integrating Strategies, Activities, and Learning Technologies for Effective Designs (III)\n\n第05週 Meaningful Online Learning: Integrating Strategies, Activities, and Learning Technologies for Effective Designs (V)\n\n第06週 系統化教學設計的概念與過程\n\n第07週 校際活動日放假1日\n\n第08週 擴增實境教學應用教材分析\n\n第09週 期中課堂考試（範圍：Meaningful Online Learning: Integrating Strategies, Activities, and Learning Technologies for Effective Designs）\n\n第10週 虛擬實境教學應用教材分析\n\n第11週 擴增實境／虛擬實境教學應用教材設計\n\n第12週 擴增實境／虛擬實境教學應用活動設計\n\n第13週 擴增實境／虛擬實境開發工具介紹: Unity 3D\n\n第14週 擴增實境學習系統開發(I)\n\n第15週 擴增實境學習系統開發(II)\n\n第16週 虛擬實境與遊戲式學習系統開發(I)\n\n第17週 虛擬實境與遊戲式學習系統開發(II)\n\n第18週 期末專題展示與評分 (AR/VR or Game-based Learning System)",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "問題解決教學",
+            "note": ""
+        },
+        {
+            "type": "專題研究",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 20,
+            "note": ""
+        },
+        {
+            "type": "報告",
+            "weight": 20,
+            "note": ""
+        },
+        {
+            "type": "專題",
+            "weight": 60,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

@@ -1,0 +1,650 @@
+[
+    {
+        "year": 108,
+        "term": 2,
+        "name": "高級教育統計學（甲）",
+        "teachers": [
+            "李子奇"
+        ],
+        "department": "E",
+        "code": "E0C8001",
+        "credit": 3,
+        "serial": 338,
+        "group": "A",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 5,
+                "to": 7,
+                "campus": "本部",
+                "classroom": "正202"
+            }
+        ],
+        "programs": [
+            "學習與資訊學程",
+            "大數據學程"
+        ],
+        "comment": "",
+        "restrict": "◎課程開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 2,
+        "name": "高級教育統計學（甲）",
+        "teachers": [
+            "劉振維"
+        ],
+        "department": "E",
+        "code": "E0C8001",
+        "credit": 3,
+        "serial": 340,
+        "group": "C",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 7,
+                "to": 9,
+                "campus": "本部",
+                "classroom": "教育學院第三會議室"
+            }
+        ],
+        "programs": [
+            "學習與資訊學程",
+            "大數據學程"
+        ],
+        "comment": "上課教室：教育學院第三會議室",
+        "restrict": "◎課程不開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 2,
+        "name": "教育研究論文寫作",
+        "teachers": [
+            "林宗進",
+            "蔡今中"
+        ],
+        "department": "E",
+        "code": "E0C8010",
+        "credit": 3,
+        "serial": 345,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 5,
+                "from": 5,
+                "to": 7,
+                "campus": "本部",
+                "classroom": "教育學院第一會議室"
+            }
+        ],
+        "programs": [],
+        "comment": "上課教室：教育學院三樓第一會議室",
+        "restrict": "◎課程開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 2,
+        "name": "健康促進專題研究",
+        "teachers": [
+            "連盈如"
+        ],
+        "department": "EM05",
+        "code": "HEC0008",
+        "credit": 3,
+        "serial": 429,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 5,
+                "from": 2,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "誠505"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎課程開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 2,
+        "name": "營養教育專題研究",
+        "teachers": [
+            "劉貴雲"
+        ],
+        "department": "EM05",
+        "code": "HEC0013",
+        "credit": 2,
+        "serial": 430,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 7,
+                "to": 8,
+                "campus": "本部",
+                "classroom": "誠505"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎課程開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 2,
+        "name": "學校健康環境研究",
+        "teachers": [
+            "董貞吟"
+        ],
+        "department": "EM05",
+        "code": "HEC0016",
+        "credit": 2,
+        "serial": 431,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 3,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "誠505"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎課程開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 2,
+        "name": "安全教育專題研究",
+        "teachers": [
+            "余坤煌"
+        ],
+        "department": "EM05",
+        "code": "HEC0025",
+        "credit": 2,
+        "serial": 432,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 10,
+                "to": 11,
+                "campus": "本部",
+                "classroom": "誠504"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎課程開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 2,
+        "name": "衛生統計與實驗設計",
+        "teachers": [
+            "陳政友"
+        ],
+        "department": "EM05",
+        "code": "HEC0029",
+        "credit": 2,
+        "serial": 433,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 3,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "誠602"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎課程開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 2,
+        "name": "老化與身體活動專題研究",
+        "teachers": [
+            "廖邕"
+        ],
+        "department": "EM05",
+        "code": "HEC0036",
+        "credit": 3,
+        "serial": 434,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 5,
+                "from": 10,
+                "to": 12,
+                "campus": "本部",
+                "classroom": "誠505"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎課程開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 2,
+        "name": "健康促進政策專題研究",
+        "teachers": [
+            "張鳳琴"
+        ],
+        "department": "EM05",
+        "code": "HEC0049",
+        "credit": 3,
+        "serial": 436,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 2,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "誠505"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎課程開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 2,
+        "name": "健康促進與衛生教育倫理學",
+        "teachers": [
+            "黃松元"
+        ],
+        "department": "EM05",
+        "code": "HEC8002",
+        "credit": 2,
+        "serial": 437,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 1,
+                "to": 2,
+                "campus": "本部",
+                "classroom": "誠504"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎課程開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 2,
+        "name": "多變項統計方法論",
+        "teachers": [
+            "李子奇"
+        ],
+        "department": "EM05",
+        "code": "HEC8007",
+        "credit": 2,
+        "serial": 438,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 8,
+                "to": 9,
+                "campus": "本部",
+                "classroom": "誠505"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎課程開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 2,
+        "name": "健康促進與衛生教育研究計畫設計",
+        "teachers": [
+            "陳政友"
+        ],
+        "department": "EM05",
+        "code": "HEC8013",
+        "credit": 2,
+        "serial": 439,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 1,
+                "to": 2,
+                "campus": "本部",
+                "classroom": "誠602"
+            }
+        ],
+        "programs": [],
+        "comment": "授課教師：陳政友",
+        "restrict": "◎課程開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 2,
+        "name": "健康促進與衛生教育媒體研究",
+        "teachers": [
+            "吳文琪"
+        ],
+        "department": "EM05",
+        "code": "HEC8016",
+        "credit": 2,
+        "serial": 440,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 5,
+                "to": 6,
+                "campus": "本部",
+                "classroom": "誠505"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎課程開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 2,
+        "name": "公共衛生教育研討",
+        "teachers": [
+            "劉潔心",
+            "吳文琪"
+        ],
+        "department": "EM05",
+        "code": "HEM0002",
+        "credit": 2,
+        "serial": 441,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 1,
+                "to": 2,
+                "campus": "本部",
+                "classroom": "誠602"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎課程開放上修",
+        "form_s": "1",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 2,
+        "name": "健康促進與衛生教育專題研究",
+        "teachers": [
+            "賴香如"
+        ],
+        "department": "EM05",
+        "code": "HEM0107",
+        "credit": 2,
+        "serial": 442,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 8,
+                "to": 9,
+                "campus": "本部",
+                "classroom": "誠602"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎課程開放上修",
+        "form_s": "1",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 2,
+        "name": "健康行為科學研究",
+        "teachers": [
+            "劉潔心"
+        ],
+        "department": "EM05",
+        "code": "HEM0110",
+        "credit": 2,
+        "serial": 443,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 3,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "誠602"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎課程開放上修",
+        "form_s": "1",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 2,
+        "name": "學校衛生研討",
+        "teachers": [
+            "郭鐘隆"
+        ],
+        "department": "EM05",
+        "code": "HEM0192",
+        "credit": 2,
+        "serial": 444,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 6,
+                "to": 7,
+                "campus": "本部",
+                "classroom": "誠602"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎課程開放上修",
+        "form_s": "1",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 2,
+        "name": "預防保健服務與實務",
+        "teachers": [
+            "李子奇"
+        ],
+        "department": "EU05",
+        "code": "HEC9003",
+        "credit": 3,
+        "serial": 707,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 6,
+                "to": 8,
+                "campus": "本部",
+                "classroom": "正104"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎必須先修過(也可以同時修)【HEU0156  健康促進與衛生教育導論】、【HEU0011  個人衛生】",
+        "form_s": "",
+        "classes": "9",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 2,
+        "name": "醫療服務與健康保險",
+        "teachers": [
+            "張芳維"
+        ],
+        "department": "EU05",
+        "code": "HEC9004",
+        "credit": 2,
+        "serial": 708,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 10,
+                "to": 11,
+                "campus": "本部",
+                "classroom": "誠204"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "",
+        "classes": "9",
+        "dept_group": ""
+    }
+]

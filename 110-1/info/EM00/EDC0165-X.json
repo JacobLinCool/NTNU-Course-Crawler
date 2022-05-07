@@ -1,0 +1,80 @@
+{
+    "year": 110,
+    "term": 1,
+    "name": "教育經濟學研究",
+    "teachers": [
+        "余穎麒"
+    ],
+    "department": "EM00",
+    "code": "EDC0165",
+    "credit": 3,
+    "serial": 382,
+    "group": "",
+    "quota": {
+        "limit": 30,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 4,
+            "from": 2,
+            "to": 4,
+            "campus": "本部",
+            "classroom": "教801"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程不開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "",
+    "goals": [
+        "認識經濟學的概念與分析方法",
+        "理解投入於教育生產的要素及其影響力",
+        "檢視教育產出",
+        "熟悉教育投資的成本效益分析",
+        "運用經濟學的觀點分析教育的議題並提出具體的改進建議"
+    ],
+    "syllabus": "Week\n\nTopic\n\n#1\n\nWelcome and Introductions\n\n#2\n\nEconomics as the Foundation: Key Concepts\n\n#3\n\nEducation as an Investment: Theories\n\n#4\n\nEducation as an Investment: Cost-benefit Analysis\n\n#5\n\nEducation as a Production: The Role of Families\n\n#6\n\nEducation as a Production: The Role of Schools\n\n#7\n\nAnalytical Methods in Economics of Education\n\n#8\n\nPreparation for Mid-term Papers\n\n#9\n\nMid-term Presentations\n\n#10\n\nGuest Lecture\n\n#11\n\nSchool Choice\n\n#12\n\nCollege Choice\n\n#13\n\nTuition Policy & Student Financial Aid in Higher Education\n\n#14\n\nEducation & Wages\n\n#15\n\nPreparation for Final Papers\n\n#16\n\nFinal Presentations and End of Semester Celebration\n\n#17\n\nIndependent Study I\n\n#18\n\nIndependent Study II",
+    "methodologies": [
+        {
+            "type": "Formal lecture",
+            "note": "Lectures delivered based on weekly topics."
+        },
+        {
+            "type": "Group discussion",
+            "note": "Class participation and in-class discussions."
+        },
+        {
+            "type": "Case studies",
+            "note": "Mid-term and final research papers."
+        }
+    ],
+    "grading": [
+        {
+            "type": "Class discussion involvement",
+            "weight": 10,
+            "note": "Participation in class discussions."
+        },
+        {
+            "type": "Presentation",
+            "weight": 25,
+            "note": "Research paper presentation."
+        },
+        {
+            "type": "Case study reports",
+            "weight": 50,
+            "note": "Mid-term and final research papers."
+        },
+        {
+            "type": "other:",
+            "weight": 15,
+            "note": "Leading class discussions."
+        }
+    ],
+    "prerequisite": "◎Unavailable for M.A. program students (M.A. program courses excepted) and B.A. program students.",
+    "general_core": []
+}

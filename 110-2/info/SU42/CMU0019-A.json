@@ -1,0 +1,63 @@
+{
+    "year": 110,
+    "term": 2,
+    "name": "群論之化學應用",
+    "teachers": [
+        "張一知"
+    ],
+    "department": "SU42",
+    "code": "CMU0019",
+    "credit": 2,
+    "serial": 2843,
+    "group": "A",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 1,
+            "to": 2,
+            "campus": "公館",
+            "classroom": "Ｃ102"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "2",
+    "classes": "",
+    "dept_group": "",
+    "hours": 2,
+    "description": "Capable of applying group theory to molecular symmetry and spectroscopic properties of molecules.",
+    "goals": [
+        "Capable of applying group theory to molecular symmetry and spectroscopic properties of molecules."
+    ],
+    "syllabus": " 110 學年度採「16+2週」授課模式：\n\n1\\. General group definition (2 weeks).\n\n2\\. Point group (2 weeks).\n\n3\\. Assign individual molecule\\`s point group (2 weeks).\n\n4\\. Character table (3 weeks).\n\n5\\. Vibrational spectroscopy (3 weeks).\n\n6\\. Molecular orbital theory (3 weeks).\n\n7\\. Final (16th week)\n\n8\\. Extra Home work (2 weeks)\n\nMake an puzzle associated with the course content",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "期中考",
+            "weight": 50,
+            "note": "期中考為兩次"
+        },
+        {
+            "type": "期末考",
+            "weight": 25,
+            "note": ""
+        },
+        {
+            "type": "其他",
+            "weight": 25,
+            "note": "隨堂小考"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

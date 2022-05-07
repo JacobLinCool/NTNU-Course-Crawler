@@ -1,0 +1,78 @@
+{
+    "year": 110,
+    "term": 1,
+    "name": "管理會計",
+    "teachers": [
+        "陳慧玲"
+    ],
+    "department": "OU57",
+    "code": "BAU0022",
+    "credit": 3,
+    "serial": 2528,
+    "group": "",
+    "quota": {
+        "limit": 60,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 5,
+            "from": 2,
+            "to": 4,
+            "campus": "本部",
+            "classroom": "誠102"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎必須先修過【BAU0036  會計學（一）】、【BAU0037  會計學（二）】",
+    "form_s": "2",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "1.\t本課程介紹管理會計理論與實務，包括經理人員如何運用管理會計資訊進行產品訂價、規劃、控制等決策\n2.\t本課程介紹責任會計及績效評估\n3.  本課程介紹管理會計在動態企業環境所扮演之角色",
+    "goals": [
+        "使學生瞭解經理人員如何運用管理會計資訊進行產品訂價、規劃、控制、考核等決策，以培養解決問題能力",
+        "使學生能準備經理人員進行決策所需之會計資訊 使學生瞭解責任會計及績效評估",
+        "使學生瞭解會計資訊對產品訂價、規劃、控制、考核等決策之影響"
+    ],
+    "syllabus": "  【授課方式：16+2週】\n\nWeeks 1 & 2: Managerial Accounting and Cost Concepts\n\nWeeks 3 & 4: Job-Order Costing: Calculating Unit Product Costs/Job-Order Costing: Cost Flows  and External Reporting \n\nWeeks 5:  Activity-Based Costing\n\nWeeks 6-7: Process Costing \n\nWeek 8: Mid-term exam\n\nWeeks 9 & 10: Cost-Volume-Profit Relationships \n\nWeek 11: Variable Costing and Segment Reporting: Tools for Management\n\nWeeks 12-14+第1次自主學習: Master Budgeting\n\nWeeks 15+第2次自主學習: Flexible Budges, Standard Costs, and Variance Analysis\n\nWeek16 Final exam",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "講述管理會計理論與實務"
+        },
+        {
+            "type": "討論法",
+            "note": "全班於課堂中討論重要管理會計議題"
+        },
+        {
+            "type": "實驗/實作",
+            "note": "引導學生於課堂有系統編製預算及進行差異分析"
+        }
+    ],
+    "grading": [
+        {
+            "type": "期中考",
+            "weight": 35,
+            "note": "計算題與問答題"
+        },
+        {
+            "type": "期末考",
+            "weight": 30,
+            "note": "計算題與問答題"
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 5,
+            "note": "出席並參與課堂討論的情形"
+        },
+        {
+            "type": "其他",
+            "weight": 30,
+            "note": "兩次小考，自主學習練習"
+        }
+    ],
+    "prerequisite": "◎必須先修過【BAU0036  會計學（一）】、【BAU0037  會計學（二）】",
+    "general_core": []
+}

@@ -1,0 +1,78 @@
+{
+    "year": 109,
+    "term": 1,
+    "name": "普通化學甲（一）",
+    "teachers": [
+        "林嘉和"
+    ],
+    "department": "SU42",
+    "code": "CMU0176",
+    "credit": 3,
+    "serial": 2940,
+    "group": "C",
+    "quota": {
+        "limit": 70,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 4,
+            "from": 2,
+            "to": 4,
+            "campus": "公館",
+            "classroom": "理圖003"
+        }
+    ],
+    "programs": [],
+    "comment": "預先代入物一甲及物一乙學生",
+    "restrict": "",
+    "form_s": "1",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "Understand Basic Chemical Principles.",
+    "goals": [
+        "訓練學生了解分子軌道理論",
+        "以分子軌道理論探討配位錯合物的電子結構"
+    ],
+    "syllabus": "Objectives:\n\nThe goal is to let students acquiring fundamental concepts in the field of chemistry.\n\nChemistry of bonding and molecule.\n\nChemical Principles\n\nTABLE OF CONTENTS\n\n1\\. Chemists and Chemistry.\n\n2\\. Atoms, Molecules, and Ions.\n\n3\\. Stoichiometry.\n\n4\\. Types of Chemical Reactions and Solution Stoichiometry.\n\n5\\. Gases.\n\n6\\. Chemical Equilibrium.\n\n7\\. Acids and Bases.\n\n8\\. Applications of Aqueous Equilibria.\n\n9\\. Energy, Enthalpy, and Thermochemistry.\n\n10\\. Spontaneity, Entropy, and Free Energy.\n\n11\\. Electrochemistry.\n\n12\\. Quantum Mechanics and Atomic Theory.\n\n13\\. Bonding: General Concepts.\n\n14\\. Covalent Bonding: Orbitals.\n\n15\\. Chemical Kinetics.\n\n16\\. Liquids and Solids.\n\n17\\. Properties of Solutions.\n\n18\\. The Representative Elements.\n\n19\\. Transition Metals and Coordination Chemistry.\n\n20\\. The Nucleus: A Chemist’s View.\n\n21\\. Organic and Biochemical Molecules.",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "課程內容講述。"
+        },
+        {
+            "type": "討論法",
+            "note": "課中與課後討論。"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 10,
+            "note": "章節練習作業"
+        },
+        {
+            "type": "期中考",
+            "weight": 30,
+            "note": "第二次考試"
+        },
+        {
+            "type": "期末考",
+            "weight": 30,
+            "note": "第三次考試"
+        },
+        {
+            "type": "出席",
+            "weight": 5,
+            "note": "點名出席；課堂出席練習紀錄。"
+        },
+        {
+            "type": "其他",
+            "weight": 25,
+            "note": "第一次考試"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

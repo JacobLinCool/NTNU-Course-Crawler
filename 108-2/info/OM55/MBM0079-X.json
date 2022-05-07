@@ -1,0 +1,86 @@
+{
+    "year": 108,
+    "term": 2,
+    "name": "應用計量經濟",
+    "teachers": [
+        "徐美"
+    ],
+    "department": "OM55",
+    "code": "MBM0079",
+    "credit": 3,
+    "serial": 2337,
+    "group": "",
+    "quota": {
+        "limit": 30,
+        "additional": 0
+    },
+    "schedule": [
+        {
+            "day": 4,
+            "from": 7,
+            "to": 9,
+            "campus": "本部",
+            "classroom": "教404"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "The main purpose of this course is to establish the essential foundations for the\nempirical Econometrics and its applications. This course is designed for the Master\nstudents in the institute of Management. Therefore, the degree of difficulties would be\nadjusted to the needs of students. The purpose of the course is twofold. On the one hand,\nthe students should obtain a basic idea of model specifications, and develop quantitative\nand analytical skills as well. On the other hand, data analysis, software package\napplicationsin SAS, and empirical techniques and basic coding skill will be emphasized\nin the class. A small empirical research project would be required and should be\npresented at the end of semester. Basic contents in the class as follows:\n1. How to collect data, read data, the meanings of data, TEJ data and other source of\ndata sets. Introduction of the source of data. (TEJ data, 國泰安資料、中央研究院\n調查中心資料(需先加入會員，下載資料前先寫一頁計劃綱要申請通過，但是\n資料非常豐富)、網路建構資料、世界銀行、IMF、ILO 等世界資料。\n2. Programming and data, basic concepts.\n3. Apply the programming to the setup model\n4. Coding for the regressions\n5. Interpretation of the regression results",
+    "goals": [
+        "the students should obtain a basic idea of model specifications, and develop quantitative",
+        "data analysis, software package applicationsin SAS, and empirical techniques and basic coding skill will be emphasized in the class."
+    ],
+    "syllabus": "  \n[教學進度與主題附件](https://ap.itc.ntnu.edu.tw/NtnuFileShare/file.do?action=dl&gno=f4910d5c890e40488a103011b3281855&fno=911a74895eb548a28a45a431a97d399b)",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "問題解決教學",
+            "note": ""
+        },
+        {
+            "type": "實驗/實作",
+            "note": ""
+        },
+        {
+            "type": "專題研究",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 15,
+            "note": "資料來源說明、敘述統計分析 上台報告"
+        },
+        {
+            "type": "期中考",
+            "weight": 25,
+            "note": "上傳PPT、紙本報告、研究目的，上台報告"
+        },
+        {
+            "type": "期末考",
+            "weight": 30,
+            "note": "上傳PPT、紙本報告、研究結果，上台報告"
+        },
+        {
+            "type": "出席",
+            "weight": 10,
+            "note": "上課次數"
+        },
+        {
+            "type": "報告",
+            "weight": 20,
+            "note": "上台報告與評論期刊論文"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

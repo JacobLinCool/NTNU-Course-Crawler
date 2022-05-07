@@ -1,0 +1,83 @@
+{
+    "year": 109,
+    "term": 1,
+    "name": "結構方程模式導論",
+    "teachers": [
+        "林志鴻"
+    ],
+    "department": "SM45",
+    "code": "SEC8011",
+    "credit": 3,
+    "serial": 2754,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 1,
+            "from": 2,
+            "to": 4,
+            "campus": "公館",
+            "classroom": "科教大樓202"
+        }
+    ],
+    "programs": [],
+    "comment": "修課同學須具備科學教育或數學教育基礎",
+    "restrict": "◎課程不開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "1. 本課程介紹結構方程模式(SEM)的理論與應用。結構方程模式一種結合了迴歸分析、路徑分析、因素分析的高階統計方法學。SEM框架中包含了測量模式與結構模式，具有很好的彈性，能應用在多種資料分析。如：實驗或是問卷資料、橫斷面資料集、長期性(多時間點)資料。常見應用包含探索性因素分析(EFA)與驗證性因素分析(CFA)、理論架構驗證、測量衡等性、準因果模式、多層次模型、多群組比較、以及成長曲線的建模。\n2. 本課程以SEM實際應用為主，僅包含最少量的數學公式。主要說明各種模型適用的情境，以軟體(如：Mplus 或 AMOS) 來分析真實資料集(如TIMSS或PISA)的程序，以及輸出結果的詮釋。",
+    "goals": [
+        "了解結構方程模式的基本概念",
+        "能夠使用SEM軟體建立模型",
+        "能夠詮釋適配指標與模型參數",
+        "能夠基於統計結果來撰寫研究報告"
+    ],
+    "syllabus": "week\n\ndate\n\ntopic\n\n1\n\n9/14 Mon\n\nIntroduction\n\n2\n\n9/21 Mon\n\nSEM Estimation & evaluation\n\n3\n\n9/28 Mon\n\nSEM framework：\n\n*   Measurement model\n*   The covariance structure model\n\n4\n\n10/5 Mon\n\nhow to use software\n\n5\n\n10/12 Mon\n\nApplication: exploratory and confirmatory factor analysis\n\n6\n\n10/19 mon\n\nApplication: exploratory and confirmatory factor analysis\n\n7\n\n10/26 Mon\n\nApplication: path analysis\n\n8\n\n11/2 Mon\n\nApplication: Multiple group comparison\n\n9\n\n11/9 Mon\n\nApplication: Multiple group comparison\n\n10\n\n11/16 Mon\n\nApplication: Measurement invariance\n\n11\n\n11/23 Mon\n\nApplication: Mediation and moderation\n\n12\n\n11/30 Mon\n\nApplication: Mediation and moderation\n\n13\n\n12/7 Mon\n\nApplication: Causal inference\n\n14\n\n12/14 Mon\n\nApplication: Causal inference\n\n15\n\n12/21 Mon\n\nApplication: Multilevel modeling\n\n16\n\n12/28 Mon\n\nApplication: Multilevel modeling\n\n17\n\n1/4/2021 Mon\n\nApplication: Mean structure, and latent growth model\n\n18\n\n1/11/2021 Mon\n\nFinal in-class representation",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": ""
+        },
+        {
+            "type": "問題解決教學",
+            "note": ""
+        },
+        {
+            "type": "實驗/實作",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 40,
+            "note": "作業1: SEM統計分析練習。依照給定的模擬情境以及資料集，練習撰寫匯入資料，撰寫SEM分析的程式。並排除程式執行異常的狀況。\n作業2: SEM建模結果詮釋。依照作業一分析的結果，撰寫報告並詮釋結果當中的數據。\n作業3: 尋找使用SEM方法的期刊論文，閱讀後分析所使用的SEM方法。"
+        },
+        {
+            "type": "期末考",
+            "weight": 30,
+            "note": "期末報告請利用所學SEM完成第一個分析。應包含4個部份(1)計劃介紹(2)研究方法(3)研究結果(4)討論。工作包含(資料蒐集、資料分析、撰寫報告、上台分享等)。"
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 10,
+            "note": "參與課堂討論並提出/回答問題"
+        },
+        {
+            "type": "出席",
+            "weight": 20,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

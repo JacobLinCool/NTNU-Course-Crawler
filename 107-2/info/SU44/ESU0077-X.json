@@ -1,0 +1,84 @@
+{
+    "year": 107,
+    "term": 2,
+    "name": "觀測地震學",
+    "teachers": [
+        "陳卉瑄"
+    ],
+    "department": "SU44",
+    "code": "ESU0077",
+    "credit": 3,
+    "serial": 2930,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 1,
+            "from": 2,
+            "to": 4,
+            "campus": "公館",
+            "classroom": "Ｓ202"
+        }
+    ],
+    "programs": [],
+    "comment": "修過大一之主要課程地球物理通論後，才適合修習本門課程。",
+    "restrict": "◎限大二大三大四修習",
+    "form_s": "2",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "讓學生了解地震為什麼會發生、地震和斷層的關係、地震觀測的基本原理、種類、和應用。內容包含:1.地震動強度與地震規模 ; 2.地震儀之理論; 3.波傳理論4.震源特性; 5 統計地震學.; 6.工業活動誘發地震; 7.城市地震學; 8.應力觸發; 9.慢地震; 10.深震特論。",
+    "goals": [
+        "增加學生認識地震觀測之基本知識及技能。"
+    ],
+    "syllabus": "1.Tsunamis earthquakes   \n2\\. Stress and strain   \n3\\. The seismic wave equation   \n4\\. Ray theory   \n5\\. Inversion of travel time data   \n6\\. Source theory   \n7\\. Mid-term   \n8\\. Deep earthquake   \n9\\. Fault zone drilling   \n10\\. Stress triggering   \n11\\. Dynamic triggering   \n12\\. Earthquake prediction   \n13\\. Episodic aseismic slip at plate boundaries   \n14\\. Earthquake hazard mitigation   \n15\\. Fracture and Frictional Mechanics   \n16\\. Dynamic Shear Rupture in Frictional Interfaces   \n17\\. Final",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "提供講義、投影片、錄影帶及地體構造模型等，讓修課者獲得充分的知識、深刻的認知"
+        },
+        {
+            "type": "討論法",
+            "note": "請學生分享資料搜尋心得"
+        },
+        {
+            "type": "合作學習",
+            "note": "將修課同學分為若干組別,共同進行儀器操作、小組討論與報告"
+        },
+        {
+            "type": "實驗/實作",
+            "note": "利用SeisGram2K進行地震資料處理"
+        },
+        {
+            "type": "其他",
+            "note": "課程實作:增加課堂、課後及電腦實作時間,加深學習層次、有利問題之自發性與自我解決能力培養"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 30,
+            "note": "每星期作業"
+        },
+        {
+            "type": "期中考",
+            "weight": 20,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 20,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

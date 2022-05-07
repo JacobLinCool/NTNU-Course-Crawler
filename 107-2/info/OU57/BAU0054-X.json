@@ -1,0 +1,91 @@
+{
+    "year": 107,
+    "term": 2,
+    "name": "物流管理",
+    "teachers": [
+        "陳敦基"
+    ],
+    "department": "OU57",
+    "code": "BAU0054",
+    "credit": 3,
+    "serial": 2416,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 4,
+            "from": 7,
+            "to": 9,
+            "campus": "本部",
+            "classroom": "誠207"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎必須先修過【BAU0021  行銷管理】",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程係以物流管理與營運為主題之授課內容，介紹、探討現代企業物流中所面臨之重要課題及發展趨勢，並從全球物流與供應鏈範疇切入，說明陸、海、空各類國際物流之運作流程及營運型態。此外，本課程內容係以實務為導向，將透過當前物流管理之實例解說及案例探討，讓同學從中學習物流營運管理之基本知能，了解實務運作經驗。本課程將可奠定同學在未來職場上具備從事物流營運管理之專業知識及能力。",
+    "goals": [
+        "增進企業物流營運知識及探討全球物流議題",
+        "學習物流管理與供應鏈之知能及實務",
+        "了解企業物流價值與倫理議題"
+    ],
+    "syllabus": "週別\n\n日期\n\n主題\n\n方式\n\n1\n\n2/21\n\nIntroduction of Course Outline\n\nTopic 01 **Introduction to logistics**\n\n上課\n\n2\n\n2/28\n\nNational holiday\n\n3\n\n3/07\n\nTopic 02 **Integrated logistics and the supply chain**\n\n上課\n\n4\n\n3/14\n\nTopic 03 **Customer service and logistics**\n\n上課\n\n5\n\n3/21\n\nTopic 04 **Channels of distribution**\n\n上課\n\n6\n\n3/28\n\nTopic 05 **Planning framework for logistics**\n\n上課\n\n7\n\n4/04\n\nSprint vacation\n\n上課\n\n8\n\n4/11\n\nTeam work for assigned article review & Report writing\n\n上課\n\n9\n\n4/18\n\nMiddle-term exam : PPT presentation of article review by teams\n\n分組報告\n\n10\n\n4/25\n\nTopic 06 **Logistics processes**\n\n上課\n\n11\n\n5/02\n\nTopic 07 **Supply chain segmentation**\n\n上課\n\n12\n\n5/09\n\nTopic 08 **Logistics network planning**\n\n上課\n\n13\n\n5/16\n\nTopic 09 **Manufacturing and materials management** \n\n上課\n\n14\n\n5/23\n\nTopic 10 **Basic inventory planning and management**\n\n上課\n\n15\n\n5/30\n\nLecture: Current development of Intelligent logistics\n\n演講\n\n16\n\n6/06\n\nTopic 11 **International logistics: modal choice**\n\n上課\n\n17\n\n6/13\n\nTopic 12 **Cost and performance monitoring**\n\n上課\n\n18\n\n6/20\n\nFinal exam: Test",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "教材上課講授、實務界人士演講"
+        },
+        {
+            "type": "討論法",
+            "note": "議題分組討討論"
+        },
+        {
+            "type": "合作學習",
+            "note": "個案分析分組報告"
+        },
+        {
+            "type": "媒體融入教學",
+            "note": "企業物流實例"
+        },
+        {
+            "type": "專題研究",
+            "note": "分組專題報告"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 15,
+            "note": "個案分析分組報告及作業"
+        },
+        {
+            "type": "期中考",
+            "weight": 30,
+            "note": "指定論文閱讀期中報告~paper review分組報告25%;\t告~分組專題報告30%"
+        },
+        {
+            "type": "期末考",
+            "weight": 30,
+            "note": "考試(選擇題及問答題)"
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 15,
+            "note": "上課分組討論"
+        },
+        {
+            "type": "出席",
+            "weight": 10,
+            "note": "上課點名"
+        }
+    ],
+    "prerequisite": "◎必須先修過【BAU0021  行銷管理】",
+    "general_core": []
+}

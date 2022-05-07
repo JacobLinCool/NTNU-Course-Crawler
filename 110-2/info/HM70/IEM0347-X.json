@@ -1,0 +1,92 @@
+{
+    "year": 110,
+    "term": 2,
+    "name": "生產與作業管理研究",
+    "teachers": [
+        "黃啟祐"
+    ],
+    "department": "HM70",
+    "code": "IEM0347",
+    "credit": 2,
+    "serial": 1068,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 4,
+            "from": 5,
+            "to": 6,
+            "campus": "本部",
+            "classroom": "研討一"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 2,
+    "description": "The field of production and operations management (POM) is concerned with the design, management, and improvement of operating systems and processes. An understanding of the POM theories as well as practices is essential for a management of technology (MOT) students. Thus, this course is designed as an introductory course aiming at assisting the MOT students understand the state of the arts of POM. Major emphasis will be placed on operations management and strategy, supply chain management, managing innovation and new product development, organizational learning and process improvement as well as leveraging operational capabilities to create and sustain competitive advantage. The course includes lectures, readings, case discussion, presentations, field visits, and term project.",
+    "goals": [
+        "協助學生瞭解生產與作業管理之理論、進展與方法"
+    ],
+    "syllabus": "Week 1:Introduction\n\nWeek 2:Innovation and Operations Management\n\nWeek 3:Strategy, Products and Capacity (1)\n\nWeek 4:Strategy, Products and Capacity (1I)\n\nWeek 5:Manufacturing and Service Process (I)\n\nWeek 6:Manufacturing and Service Process (II)\n\nWeek 7:Supply Chain Process\n\nWeek 8:Supply, Demand and Control (I)\n\nWeek 9:Supply, Demand and Control (II)\n\nWeek 10:Supply, Demand and Control (III)\n\nWeek 11:Industry 4.0 (I)\n\nWeek12: Industry 4.0 (II)\n\nWeek13: IoT (I)\n\nWeek14: IoT (II)\n\nWeek15: Big Data (I)\n\nWeek16: Big Data (II)\n\nWeek17: Data Mining and Big Data Analysis\n\nWeek 18: Final ProjectPresentation",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "Lecture"
+        },
+        {
+            "type": "討論法",
+            "note": "In-class discussion, case discussion, paper discussion"
+        },
+        {
+            "type": "問題解決教學",
+            "note": "Case study"
+        },
+        {
+            "type": "合作學習",
+            "note": "Team projects"
+        },
+        {
+            "type": "實地考察、參訪",
+            "note": "Field visits"
+        },
+        {
+            "type": "專題研究",
+            "note": "Project reports"
+        },
+        {
+            "type": "其他",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "期中考",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "出席",
+            "weight": 10,
+            "note": ""
+        },
+        {
+            "type": "報告",
+            "weight": 30,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

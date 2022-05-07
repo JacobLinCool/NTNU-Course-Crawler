@@ -1,0 +1,71 @@
+{
+    "year": 109,
+    "term": 2,
+    "name": "電腦在地球科學上之應用",
+    "teachers": [
+        "曾莉珊"
+    ],
+    "department": "SU44",
+    "code": "ESU0150",
+    "credit": 3,
+    "serial": 2963,
+    "group": "",
+    "quota": {
+        "limit": 40,
+        "additional": 0
+    },
+    "schedule": [
+        {
+            "day": 5,
+            "from": 7,
+            "to": 9,
+            "campus": "公館",
+            "classroom": "理圖802"
+        }
+    ],
+    "programs": [],
+    "comment": "中階課程，適合大三以上學生修習",
+    "restrict": "",
+    "form_s": "3",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "在UNIX作業系統的環境之下，以Fortran 90/95程式語言為教學主幹，介紹電腦在地球科學上的應用。",
+    "goals": [
+        "在UNIX作業系統的環境之下，以Fortran 90/95程式語言為教學主幹，介紹電腦在地球科學上的應用。"
+    ],
+    "syllabus": "在UNIX作業系統的環境之下，以Fortran 95/2003程式語言為教學主幹，介紹電腦在地球科學上的應用。  \n1\\. Introduction to Computing  \n2\\. Basic UNIX/Linux operating system  \n3\\. Fortran 95/2003\n\n4\\. Brief introduction to:\n\n   (1) Data formats: NetCDF (Network Common Data Form), GRIB (GRIdded Binary)\n\n   (2) Command line operators: NCO (NetCDF Operators), CDO (Climate Data Operators)\n\n   (3) Graphics and Visulization: GrADS (Grid Analysis Display System), NCL (NCAR Command Language), Python\n\n   (4) Shell scripting",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "實驗/實作",
+            "note": "程式設計"
+        },
+        {
+            "type": "媒體融入教學",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 55,
+            "note": ""
+        },
+        {
+            "type": "期中考",
+            "weight": 30,
+            "note": "兩次"
+        },
+        {
+            "type": "期末考",
+            "weight": 15,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

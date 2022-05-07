@@ -1,0 +1,72 @@
+{
+    "year": 109,
+    "term": 2,
+    "name": "影像處理與分析（一）",
+    "teachers": [
+        "陳建隆"
+    ],
+    "department": "SU40",
+    "code": "MAC9022",
+    "credit": 3,
+    "serial": 4545,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 4,
+            "from": 6,
+            "to": 8,
+            "campus": "公館",
+            "classroom": "教室自排"
+        }
+    ],
+    "programs": [
+        "理工實作學程",
+        "科學計算學程"
+    ],
+    "comment": "",
+    "restrict": "",
+    "form_s": "",
+    "classes": "9",
+    "dept_group": "",
+    "hours": 3,
+    "description": "這是一門處理影像噪訊與模糊問題的應用課程。在「影像處理與分析（一）」中，我們將介紹幾個經典的影像去噪與影像清晰化方法及其相關數學模型。",
+    "goals": [
+        "培養數學專業能力",
+        "培養應用數學解決問題的能力",
+        "提升抽象思考層次",
+        "以高觀點詮釋數學與其他學科連結"
+    ],
+    "syllabus": "(1)介紹影像處理的相關基本內容(如影像去：模糊/影像強化/影像去雜訊/影像邊界偵測/影像重建與分類等等)的相關數學演算法與實作。  \n(2)上課與演習期間，我們預計從下述有趣的數學影像處理選取幾個有趣主題學習後，請同學們(分組)可從其中或相關主題挑選你們感興趣的主題之一來實際實作與上台報告：  \n(A)數據照片中的旋轉/平移/放大縮小及其色彩補點增強。  \n(B)數據影像邊界偵測與應用/照片去模糊/去雜訊與顏色增強。  \n(C)車牌辨識的基本演算法與實作。  \n(D)照片浮水印的基本演算法與實作。  \n(E)影像壓縮相關演算法。  \n(F)基的本數位密碼/影像密碼之演算法與實作。  \n(G)相關數學影像處理的主題實作等等。  \n同學們的實作討論與報告是我們此「影像處理與分析」課程的重要學習成效與成績。  \n(3)有時間我們會從下列其中主題來選取學習數學影像處理：利用建模方式(Modelling)，如，基本的矩陣分解計算，基本常態分配與統計概念，傅立葉計算，基本變分法，微分方程等應用與影像處理的相關演算法。\n\n1.        Introduction to Image Processing Problems by Examples (two weeks)\n\n2.        Stochastic Models of Noises (two weeks)\n\n3.        Random Signals from Stochastic Differential Equation (two weeks)\n\n4.        Total Variation Denoising (two weeks)\n\n5.        Denoising via Nonlinear Diffusion (two weeks)\n\n6.        Students' Midterm Reports (one week)\n\n7.        Models of Blurs (two weeks)\n\n8.        Image Deblurring by Wiener Filters (two weeks)\n\n9.        Deblurring of Bounded Variation Images (one weeks)\n\n10.     Students' Final Reports (two week)",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "講授課程內容"
+        },
+        {
+            "type": "討論法",
+            "note": "由同學分組討論報告內容重點"
+        },
+        {
+            "type": "實驗/實作",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 40,
+            "note": ""
+        },
+        {
+            "type": "報告",
+            "weight": 60,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

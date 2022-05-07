@@ -1,0 +1,141 @@
+[
+    {
+        "year": 107,
+        "term": 1,
+        "name": "IB哲學與實作（IB）",
+        "teachers": [
+            "劉美慧"
+        ],
+        "department": "EU",
+        "code": "IBU0001",
+        "credit": 3,
+        "serial": 634,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 6,
+                "to": 8,
+                "campus": "本部",
+                "classroom": "樸301"
+            }
+        ],
+        "programs": [
+            "國際教師學程-華語文",
+            "國際教師學程-數學",
+            "國際教師學程-物理",
+            "國際教師學程-國際"
+        ],
+        "comment": "",
+        "restrict": "◎第一階段限 國際教師學程-國際◎限國際教師學程-國際選修",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 1,
+        "name": "迴歸分析（IB）",
+        "teachers": [
+            "呂翠珊"
+        ],
+        "department": "SU40",
+        "code": "MAC9026",
+        "credit": 3,
+        "serial": 2723,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 2,
+                "to": 4,
+                "campus": "公館",
+                "classroom": "教室自排"
+            }
+        ],
+        "programs": [
+            "國際教師學程-數學"
+        ],
+        "comment": "",
+        "restrict": "",
+        "form_s": "",
+        "classes": "9",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 1,
+        "name": "數學教學解題（一）（IB）",
+        "teachers": [
+            "游森棚"
+        ],
+        "department": "SU40",
+        "code": "MAC9027",
+        "credit": 3,
+        "serial": 2724,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 6,
+                "to": 8,
+                "campus": "公館",
+                "classroom": "教室自排"
+            }
+        ],
+        "programs": [
+            "國際教師學程-數學"
+        ],
+        "comment": "",
+        "restrict": "",
+        "form_s": "",
+        "classes": "9",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 1,
+        "name": "數學史",
+        "teachers": [
+            "洪萬生"
+        ],
+        "department": "SU40",
+        "code": "MAU0077",
+        "credit": 3,
+        "serial": 2784,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 6,
+                "to": 8,
+                "campus": "公館",
+                "classroom": "教室自排"
+            }
+        ],
+        "programs": [
+            "國際教師學程-數學"
+        ],
+        "comment": "",
+        "restrict": "",
+        "form_s": "4",
+        "classes": "",
+        "dept_group": ""
+    }
+]

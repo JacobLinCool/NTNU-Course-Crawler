@@ -1,0 +1,103 @@
+{
+    "year": 110,
+    "term": 1,
+    "name": "數學與電腦專題（一）",
+    "teachers": [
+        "左台益"
+    ],
+    "department": "SM40",
+    "code": "MAC0045",
+    "credit": 3,
+    "serial": 2668,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 7,
+            "to": 9,
+            "campus": "公館",
+            "classroom": "數學館417教學實驗室"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "培養學生對使用相關教學軟體的認識，並利用數學知識進行數學教育研究設計。",
+    "goals": [
+        "能了解相關軟體的基本功能及操作",
+        "能運用軟體的特性進行數學教育研究"
+    ],
+    "syllabus": "1.  研習計算機科學之基礎數學理論。\n2.  研習電腦應用在數學上之科學計算。\n3.  研習計算幾何與電腦繪圖。\n4.  研習相關的數學軟體應用在數學教育上。",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": ""
+        },
+        {
+            "type": "問題解決教學",
+            "note": ""
+        },
+        {
+            "type": "合作學習",
+            "note": ""
+        },
+        {
+            "type": "實驗/實作",
+            "note": ""
+        },
+        {
+            "type": "媒體融入教學",
+            "note": ""
+        },
+        {
+            "type": "專題研究",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 15,
+            "note": ""
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 15,
+            "note": ""
+        },
+        {
+            "type": "出席",
+            "weight": 10,
+            "note": ""
+        },
+        {
+            "type": "報告",
+            "weight": 15,
+            "note": ""
+        },
+        {
+            "type": "成果展覽",
+            "weight": 25,
+            "note": ""
+        },
+        {
+            "type": "專題",
+            "weight": 20,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

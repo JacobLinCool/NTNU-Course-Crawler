@@ -1,0 +1,260 @@
+[
+    {
+        "year": 107,
+        "term": 2,
+        "name": "教育統計學（一）",
+        "teachers": [
+            "余穎麒"
+        ],
+        "department": "E",
+        "code": "E0U0001",
+        "credit": 2,
+        "serial": 355,
+        "group": "A",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 8,
+                "to": 9,
+                "campus": "本部",
+                "classroom": "樸301"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "教育統計學（一）",
+        "teachers": [
+            "謝建成"
+        ],
+        "department": "E",
+        "code": "E0U0001",
+        "credit": 2,
+        "serial": 356,
+        "group": "B",
+        "quota": {
+            "limit": 30,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 3,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "教室自排"
+            }
+        ],
+        "programs": [],
+        "comment": "上課教室：圖資所研討A教室    須自備筆電",
+        "restrict": "",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "教育統計學（二）",
+        "teachers": [
+            "郭郡羽"
+        ],
+        "department": "E",
+        "code": "E0U0002",
+        "credit": 2,
+        "serial": 357,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 5,
+                "from": 9,
+                "to": 10,
+                "campus": "本部",
+                "classroom": "誠207"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎必須先修過【E0U0001  教育統計學（一）】",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "教育統計學（二）",
+        "teachers": [
+            "盧雪梅"
+        ],
+        "department": "E",
+        "code": "E0U0002",
+        "credit": 2,
+        "serial": 358,
+        "group": "A",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 3,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "正301"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎限心輔系（學）選修◎必須先修過【E0U0001  教育統計學（一）】",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "教育統計學（二）",
+        "teachers": [
+            "吳清麟"
+        ],
+        "department": "E",
+        "code": "E0U0002",
+        "credit": 2,
+        "serial": 359,
+        "group": "B",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 3,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "特115"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎限特教系（學）選修◎必須先修過【E0U0001  教育統計學（一）】",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "教育統計學（二）",
+        "teachers": [
+            "吳清麟"
+        ],
+        "department": "E",
+        "code": "E0U0002",
+        "credit": 2,
+        "serial": 360,
+        "group": "C",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 9,
+                "to": 10,
+                "campus": "本部",
+                "classroom": "誠207"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎限學習科學學位學程（學選修◎必須先修過【E0U0001  教育統計學（一）】",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "社區高齡者服務實習",
+        "teachers": [
+            "李育齊"
+        ],
+        "department": "E",
+        "code": "E0U0006",
+        "credit": 2,
+        "serial": 4328,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 16,
+                "to": 10,
+                "campus": "本部",
+                "classroom": "誠105"
+            }
+        ],
+        "programs": [
+            "高齡學程"
+        ],
+        "comment": "◎進階服務學習",
+        "restrict": "",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "產業實習",
+        "teachers": [
+            "郭鐘隆"
+        ],
+        "department": "E",
+        "code": "E0C9001",
+        "credit": 2,
+        "serial": 367,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 16,
+                "to": 10,
+                "campus": "本部",
+                "classroom": "誠602"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎限大三大四 ◎限碩一碩二碩三以上◎限博一博二博三博四博五以上修習",
+        "form_s": "",
+        "classes": "9",
+        "dept_group": ""
+    }
+]

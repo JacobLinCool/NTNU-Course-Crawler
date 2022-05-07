@@ -1,0 +1,102 @@
+{
+    "year": 109,
+    "term": 2,
+    "name": "德育原理與實踐（教）",
+    "teachers": [
+        "林建福"
+    ],
+    "department": "EU",
+    "code": "00UE095",
+    "credit": 2,
+    "serial": 607,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 8,
+            "to": 9,
+            "campus": "本部",
+            "classroom": "教315"
+        }
+    ],
+    "programs": [
+        "國際教師學程-華語文",
+        "國際教師學程-數學",
+        "國際教師學程-物理",
+        "國際教師學程-國際"
+    ],
+    "comment": "",
+    "restrict": "",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 2,
+    "description": "本課程旨在教導主要道德哲學思想，同時協助學習者熟識主要道德教育學說，譬如Aristotle德行倫理學(Virtue Ethics)、I. Kant義務論倫理學(Deontological Ethics)、J. S. Mill效益主義(Utilitarianism)倫理學與當代品格教育思想等，並結合相關的道德實踐活動，進而能夠關心教育事務的道德意義，實踐道德教育原理。",
+    "goals": [
+        "能認識主要道德哲學思想",
+        "能熟識主要道德教育學說",
+        "能實踐道德教育原理",
+        "能關心教育事務的道德意義"
+    ],
+    "syllabus": " 日期 (各週 )               授課內容      I             緒論(教學計畫說明);\n\n               「道德」、「倫理」、「德育原理與實務」的主要意義\n\n   II              「道德」、「倫理」、「德育原理與實務」的主要意義 III             Aristotle德行思想【德行倫理學(Virtue Ethics)】\n\n   IV             (同上)\n\n   V              (同上)                       \n\n   VI              Aristotle德行教育思想\n\n   VII             (同上)  (報告一：教育實踐與德行倫理學)\n\n   VIII         I. Kant德行思想【義務論倫理學(Deontological Ethics)】                              \n\n   IX          期中考            (日期彈性前後調整)\n\n   X           I. Kant德行思想【義務論倫理學(Deontological Ethics)】\n\n   XI           (同上)\n\n   XII          I. Kant德行教育思想\n\n   XIII        (同上) (報告二：教育實踐與義務論倫理學)\n\n   XIV         J. S. Mill德行思想【效益主義(Utilitarianism)倫理學】\n\n   XV         J. S. Mill德行教育思想\n\n   XVI         (同上) (報告三：教育實踐與效益論倫理學)\n\n   XVII        品格教育(報告四：課程教學/教育行政與品格教育)\n\n   XVIII        期末考",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "講述道德哲學及道德教育重要學説與概念"
+        },
+        {
+            "type": "討論法",
+            "note": "討論重要教學重點與議題"
+        },
+        {
+            "type": "問題解決教學",
+            "note": "運用所學原理檢視正式與非正式教育活動"
+        },
+        {
+            "type": "合作學習",
+            "note": "分組蒐集資料與報告"
+        },
+        {
+            "type": "媒體融入教學",
+            "note": "運用Moodle平台"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 10,
+            "note": "平時作業一次"
+        },
+        {
+            "type": "期中考",
+            "weight": 30,
+            "note": "命題形式包括選擇題、名詞解釋、簡答題與問答題"
+        },
+        {
+            "type": "期末考",
+            "weight": 30,
+            "note": "命題形式包括選擇題、名詞解釋、簡答題與問答題"
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 10,
+            "note": "參與課堂討論的情形"
+        },
+        {
+            "type": "出席",
+            "weight": 10,
+            "note": "出席情形"
+        },
+        {
+            "type": "報告",
+            "weight": 10,
+            "note": "參與分組報告情形"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

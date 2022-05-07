@@ -1,0 +1,72 @@
+{
+    "year": 110,
+    "term": 1,
+    "name": "空間資料庫",
+    "teachers": [
+        "周學政"
+    ],
+    "department": "LM23",
+    "code": "GEC0070",
+    "credit": 2,
+    "serial": 1682,
+    "group": "",
+    "quota": {
+        "limit": 25,
+        "additional": 5
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 8,
+            "to": 9,
+            "campus": "本部",
+            "classroom": "地理系電腦教室"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 2,
+    "description": "空間資料庫是大型地理資訊系統的核心，雲端運算發展後，空間資料庫的重要性更為重要。 \n本課程目的為瞭解空間資料的特性，空間資料庫的原理，常見空間資料庫特性，並熟悉至少一種空間資料庫的使用。",
+    "goals": [
+        "瞭解空間資料的特性、空間資料庫的原理、常見空間資料庫特性。",
+        "熟悉至少一種空間資料庫的使用。"
+    ],
+    "syllabus": "本課程講授空間資料庫原理與實務，需有地理資訊基礎。以圖層及繪圖的概念為起始，進階為如何設計多用途的空間資料庫。主要建構模式為Object Relational 資料庫。主要資料庫軟體為 PostGIS，次要為SQLite，主要GIS軟體為QGIS及ArcGIS。以下為主要涵蓋內容，並非課堂章節。\n\n1.  Introduction to spatial database\n2.  Representation of Spatial Object\n3.  Relational data model\n4.  SQL\n5.  Normal Form \n6.  OGC Standards\n7.  KML, GeoJson及GeoRSS\n8.  Spatial Data Type Extension of Relational Database\n9.  SQLite, Spatialite ＆ GeoPackage\n10.  PostgreSQL及 PostGIS\n11.  Database Design & UML\n12.  Spatial Database Design- Network Model\n13.  Spatial Database Design- OpenStreetMap\n14.  Spatial Database Design- Parcel Data\n15.  Space-Time Data Model\n16.  NoSQL database & Big Data\n\n### 網址：\n\n*   110年本課程台灣師大Moodle (修課資源、作業及討論，需修課帳號）: [https://moodle3.ntnu.edu.tw/course/view.php?id=20634](https://moodle3.ntnu.edu.tw/course/view.php?id=20634)\n*   講義網頁（開放資源及講義，不需帳號）：[https://sites.google.com/view/spatialdb](https://sites.google.com/view/spatialdb)\n*   台灣師大Google Meet (遠距上課時使用，師大G-suit帳號可直接加入，其他需核准):[https://meet.google.com/xjt-humk-ggh](https://meet.google.com/xjt-humk-ggh)",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": ""
+        },
+        {
+            "type": "實驗/實作",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 40,
+            "note": ""
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "報告",
+            "weight": 30,
+            "note": "空間資料庫範例設計"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

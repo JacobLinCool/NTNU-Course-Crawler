@@ -1,0 +1,71 @@
+{
+    "year": 108,
+    "term": 2,
+    "name": "計算共形幾何（二）",
+    "teachers": [
+        "樂美亨"
+    ],
+    "department": "SU40",
+    "code": "MAC9021",
+    "credit": 3,
+    "serial": 2653,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 4,
+            "from": 6,
+            "to": 8,
+            "campus": "公館",
+            "classroom": "數學館M211"
+        }
+    ],
+    "programs": [
+        "科學計算學程"
+    ],
+    "comment": "",
+    "restrict": "",
+    "form_s": "",
+    "classes": "9",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程探討基於共形幾何所發展的數值演算法。在「計算共形幾何（二）」中，我們將介紹共形幾何及其相關數值演算法，以及三維流形中的計算問題。",
+    "goals": [
+        "培養數學專業能力",
+        "培養應用數學解決問題的能力",
+        "提升抽象思考層次",
+        "以高觀點詮釋數學與其他學科連結"
+    ],
+    "syllabus": "1.        Curve Theory (two weeks)\n\n2.        Local Theory of Surface (two weeks)\n\n3.        Theories of Compact Riemann Surface (two weeks)\n\n4.        Harmonic Forms and Holomorphic Forms (two weeks)\n\n5.        Quasi-Conformal Mappings (two weeks)\n\n6.        Students' Midterm Reports (one week)\n\n7.        Discrete Three-Manifolds (two weeks)\n\n8.        Optimal Mass Transportation (two weeks)\n\n9.        Students'Final Reports (one week)\n\n註：為配合延後開學，安排第十六週期末報告，第十七、十八週由學生閱讀指定論文自主學習。",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "講授課程內容"
+        },
+        {
+            "type": "討論法",
+            "note": "由同學分組討論報告內容重點"
+        },
+        {
+            "type": "實驗/實作",
+            "note": "講授課程內容並讓學生同步實作程式"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 60,
+            "note": ""
+        },
+        {
+            "type": "報告",
+            "weight": 40,
+            "note": "研讀相關書籍、近期及重要相關論文"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

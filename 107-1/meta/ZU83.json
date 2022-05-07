@@ -1,0 +1,139 @@
+[
+    {
+        "year": 107,
+        "term": 1,
+        "name": "管理科學模式",
+        "teachers": [
+            "施人英"
+        ],
+        "department": "OU57",
+        "code": "BAU0006",
+        "credit": 3,
+        "serial": 2433,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 15
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 10,
+                "to": 12,
+                "campus": "本部",
+                "classroom": "教401"
+            }
+        ],
+        "programs": [
+            "基礎管理學程"
+        ],
+        "comment": "",
+        "restrict": "◎限外系修習    ◎第一階段限 基礎管理學程◎必須先修過【BAU0049  管理數學】",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 1,
+        "name": "管理學",
+        "teachers": [
+            "陳敦基"
+        ],
+        "department": "ZU83",
+        "code": "PGUA002",
+        "credit": 3,
+        "serial": 3156,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 7,
+                "to": 9,
+                "campus": "本部",
+                "classroom": "誠302"
+            }
+        ],
+        "programs": [
+            "基礎管理學程"
+        ],
+        "comment": "",
+        "restrict": "◎第一階段限 基礎管理學程",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 1,
+        "name": "行銷管理",
+        "teachers": [
+            "周世玉"
+        ],
+        "department": "ZU83",
+        "code": "PGUA004",
+        "credit": 3,
+        "serial": 3157,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 5,
+                "from": 7,
+                "to": 9,
+                "campus": "本部",
+                "classroom": "誠402"
+            }
+        ],
+        "programs": [
+            "基礎管理學程",
+            "藝術產業學程"
+        ],
+        "comment": "",
+        "restrict": "◎第一階段限 基礎管理學程",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 1,
+        "name": "經濟學",
+        "teachers": [
+            "徐美"
+        ],
+        "department": "ZU83",
+        "code": "PGUA006",
+        "credit": 3,
+        "serial": 3158,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 7,
+                "to": 9,
+                "campus": "本部",
+                "classroom": "正405"
+            }
+        ],
+        "programs": [
+            "基礎管理學程"
+        ],
+        "comment": "",
+        "restrict": "◎第一階段限 基礎管理學程",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    }
+]

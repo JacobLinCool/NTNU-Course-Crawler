@@ -1,0 +1,89 @@
+{
+    "year": 109,
+    "term": 1,
+    "name": "兒童英語教學",
+    "teachers": [
+        "孔繁偉"
+    ],
+    "department": "LU21",
+    "code": "ENU0215",
+    "credit": 3,
+    "serial": 1884,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 3,
+            "from": 6,
+            "to": 8,
+            "campus": "本部",
+            "classroom": "樸205"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎限大二大三大四修習",
+    "form_s": "2",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "This course intends to familiarize students with both theoretical and pedagogical knowledge to teach young children. A varieties of teaching activities and techniques suitable for children will be introduced. Each week, the class will discuss a specific topic related to teaching English to young learners. In this course, students will have opportunities to design activities as well as conduct relevant child or class observations to facilitate the learning process and deepen the understanding of class materials.",
+    "goals": [
+        "1.\tto familiarize students with major principles, teaching techniques and types of activities for teaching children.",
+        "to provide opportunities for students to practice designing teaching activities and utilizing authentic materials based on learners’ individual profiles and needs."
+    ],
+    "syllabus": "Week 1 Introduction and orientation\n\nWeek 2 Teaching English to young learners around the world: an introduction\n\nWeek 3 Basic principles of teaching English to young learners (TEYL)\n\nWeek 4 Contextualizing instruction: creating thematic units and lesson plans\n\nWeek 5 Teaching listening\n\nWeek 6 Teaching speaking\n\nWeek 7 Teaching reading \n\nWeek 8 Teaching writing\n\nWeek 9 Midterm presentation I \n\nWeek 10 Midterm presentation II\n\nWeek 11 Storytelling\n\nWeek 12 Assessment \n\nWeek 13 Classroom management\n\nWeek 14 Twenty-first-century skills in teaching English to young learners (TEYL)\n\nWeek 15 Professional development\n\nWeek 16 Review and discussion of current TEYL issues in Taiwan\n\nWeek 17 Final presentation I \n\nWeek 18 Final presentation II",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "Weekly thematic lecture"
+        },
+        {
+            "type": "討論法",
+            "note": "Student-led discussion after thematic discussion"
+        },
+        {
+            "type": "問題解決教學",
+            "note": "Problem-based learning from the questions raised in class"
+        },
+        {
+            "type": "合作學習",
+            "note": "Collaborative learning among students from the class activities"
+        },
+        {
+            "type": "媒體融入教學",
+            "note": "Multimedia resources used to enhance understanding"
+        },
+        {
+            "type": "專題研究",
+            "note": "Individual project relevant to student's interest"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 10,
+            "note": "Class observation report"
+        },
+        {
+            "type": "期中考",
+            "weight": 30,
+            "note": "Midterm presentation"
+        },
+        {
+            "type": "期末考",
+            "weight": 40,
+            "note": "Final presentation"
+        },
+        {
+            "type": "出席",
+            "weight": 20,
+            "note": "Attendance"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

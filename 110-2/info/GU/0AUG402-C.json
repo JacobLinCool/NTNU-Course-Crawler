@@ -1,0 +1,79 @@
+{
+    "year": 110,
+    "term": 2,
+    "name": "心理學",
+    "teachers": [
+        "楊諮燕"
+    ],
+    "department": "GU",
+    "code": "0AUG402",
+    "credit": 2,
+    "serial": 994,
+    "group": "C",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 4,
+            "from": 3,
+            "to": 4,
+            "campus": "本部",
+            "classroom": "誠202"
+        }
+    ],
+    "programs": [
+        "音樂輔教學程"
+    ],
+    "comment": "心輔系學士班學生修習通識課程「心理學」、「統計學」不計入畢業學分。",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 2,
+    "description": "",
+    "goals": [
+        "協助修課同學瞭解心理學，對於人類的心理歷程、思考、與行為有更多的認識。",
+        "藉由對於人的基本瞭解，增進自我的瞭解，與別人的互動，以及培養對人的尊重與同理心。"
+    ],
+    "syllabus": "**上課要求**：歷次出缺勤成績占10%\n\n**個人報告****：**請於規定時間內將作業上傳至Moodle系統，兩次作業各占20%\n\n**期中、末考試****：**以遠距、限時、open book方式進行測驗，兩次測驗各占25%\n\n**上課用書**：王震武, 林文瑛, 林烘煜, 張郁雯, 陳學志, 卓淑玲(2020)。心理學簡明版(三版)。台北市：學富文化。\n\n**停課因應**：請同學至Moodle線上課程上課，依據線上課程要求繳交作業\n\n  \n[教學進度與主題附件](https://ap.itc.ntnu.edu.tw/NtnuFileShare/file.do?action=dl&gno=2cbf9c8356b441dca157c2c4791254aa&fno=3bd3c8077d3f41d4b7681aa2ec69c3ed)\n\n  \n[教學進度與主題附件](https://ap.itc.ntnu.edu.tw/NtnuFileShare/file.do?action=dl&gno=872ca69443a148bdace80333268a7c25&fno=002f3aff4d4b4f83a6c7cb2b39d2c1fa)",
+    "methodologies": [
+        {
+            "type": "Formal lecture",
+            "note": "ppt"
+        },
+        {
+            "type": "Group discussion",
+            "note": "授課內容思考"
+        },
+        {
+            "type": "Problem base learning",
+            "note": "授課內容思考"
+        }
+    ],
+    "grading": [
+        {
+            "type": "Midterm Exam",
+            "weight": 25,
+            "note": "線上測驗"
+        },
+        {
+            "type": "Final exam",
+            "weight": 25,
+            "note": "線上測驗"
+        },
+        {
+            "type": "Attendances",
+            "weight": 10,
+            "note": ""
+        },
+        {
+            "type": "Presentation",
+            "weight": 40,
+            "note": "線上報告"
+        }
+    ],
+    "prerequisite": "◎Available for junior and senior year B.A. program students (Doctoral program courses excepted) and M.A. program students.",
+    "general_core": []
+}

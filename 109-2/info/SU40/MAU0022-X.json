@@ -1,0 +1,68 @@
+{
+    "year": 109,
+    "term": 2,
+    "name": "圖形學",
+    "teachers": [
+        "朱亮儒"
+    ],
+    "department": "SU40",
+    "code": "MAU0022",
+    "credit": 3,
+    "serial": 2774,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 3,
+            "from": 6,
+            "to": 8,
+            "campus": "公館",
+            "classroom": "Ｃ005"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "2",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "圖形學是探討有關點與邊所形成之圖形的各種性質，看似專門討論圖形性質的學問，事實上，非常多領域的問題，都可以轉成圖形的問題來討論，如：群論、集合論、拓樸學、李群、分子生物學、代數學、密碼學、動態系統、混沌……等。",
+    "goals": [
+        "瞭解圖形學的基本理論及應用",
+        "培養轉換數學模型並解決相關問題的能力"
+    ],
+    "syllabus": "**教材內容：**\n\n**第一章：圖形學簡介** **(3****小時****)**\n\n**第二章：****Euler****握手定理、****Havel****可劃定理** **(3****小時****)**\n\n             **Euler****圖、中國郵差問題** **(3****小時****)**\n\n**第三章：****Hamilton** **圖、最短路徑問題** **(6****小時****)**\n\n**第四章：樹圖、最小連通管問題** **(6****小時****)**\n\n**第五章：平面圖、****Euler****公式** **(6****小時****)**\n\n**第六章：著色問題、四色問題** **(9****小時****)**\n\n**第七章：有向圖形** **(3****小時****)**\n\n**第八章：競賽中的圖論問題** **(6****小時****)**\n\n             **朗賽理論****、****Schur****定理****、****配對問題、****Hall****定理**\n\n**圖 形 理 論 Course Syllabus**\n\n**圖形理論**(Graph Theory)起源於18世紀的『康城七橋問題』。康城(Konigsberg)是德國北部東普魯士(Eastern Prussia)內一個風景優美的大城，市內有很多的山川河流，\n\n其中Pregel河將康城分成四個小鎮，其間的通路僅依賴七座橋。著名的『康城七橋問題』是指：能否找出一條通路，由某一小鎮出發，並通過每一座橋恰好一次後，\n\n又回到原出發點？這個問題流傳了半個世紀始終無法獲得滿意的解答，直到西元1736年，才由著名的數學家Euler透過圖形學的簡單理論而獲得解決；之後，\n\n就有許多有趣的問題、演算法及數學模型孕育而生. 修讀圖形學將有助於學生提升其解題思維及論證能力, 本課程內容的主要概念發展如下：\n\n      1736年Konigsberg Bridge Problem, Euler圖, Hamilton圖, 簡單圖、連通圖,  平面圖, 四色問題 (1976 Apple & Haken)、二部圖、正則圖形、加權圖、有向圖, 樹圖的特徵, 生成樹, \n\n Cayley定理, Euler握手定理, Havel可劃定理, Euler定理, 最短路徑問題, Ore-Dirac定理,  Redei 定理、Knight Tour Problem, Eule 公式,  Cauchy定理（Only 5 regular convex polyhedra）,\n\n可平面化圖形充要條件：Kuratowski定理, Ramsey Theory, Schur 定理 , Matching theory ,  Hall Principle , marriage 定理.\n\n**應 用：**\n\n1\\. Bracing Rectangular Frameworks\n\n2\\. Four-Cubes Problem\n\n3\\. Chinese postman problem\n\n4\\. Rotating Drum Problem\n\n5\\. Minimum Connector Problem\n\n6\\. World Wide Web Communities\n\n7\\. Four-color problem\n\n8\\. Job Assignments",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 40,
+            "note": ""
+        },
+        {
+            "type": "期中考",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 30,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

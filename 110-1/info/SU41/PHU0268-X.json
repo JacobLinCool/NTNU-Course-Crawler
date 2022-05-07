@@ -1,0 +1,73 @@
+{
+    "year": 110,
+    "term": 1,
+    "name": "基礎量子力學（一）",
+    "teachers": [
+        "陸健榮"
+    ],
+    "department": "SU41",
+    "code": "PHU0268",
+    "credit": 3,
+    "serial": 2911,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 3,
+            "from": 6,
+            "to": 8,
+            "campus": "公館",
+            "classroom": "Ｓ401"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "4",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "介紹量子力學的基本原理、觀念、計算方法和主要應用，使學生更深入了解近代物理。",
+    "goals": [
+        "了解量子力學的基本原理、觀念",
+        "加強理性思維能力",
+        "簡介物理新知"
+    ],
+    "syllabus": "內容與進度：\n\n【授課方式：16+2週】\n\n彈性授課: 居家自主量子力學發展與應用論文研讀與報告。\n\nCH1 Mathematical Introduction: 4 weeks  12 Hrs\n\n1\\. Liner vector spaces\n\n2\\. Linear operators\n\n3\\. The eigenvalue problem\n\n4\\. Generalization to infinite dimensions\n\nCH2 Review of Classical Mechanics: 3(7) weeks 9Hrs\n\n5\\. The Lagrangian mechanics\n\n6\\. The Halmiltonian mechanics\n\n7\\. Symmetries and their consequences\n\nCH3 All is not well with classical mechanics: 1(8) week 3hrs\n\n8\\. All is not well with classical mechanics\n\n9\\. Mid-term examination\n\nCH4 The Postulates—A general discussion: 3 (11)weeks 9hrs\n\n10\\. The postulates\n\n11\\. Discussion of postulates\n\n12\\. The Schrodinger equation\n\nCH5 Simple Problems in One Dimension: 3 (14) weeks 9Hrs\n\n13\\. The free particle\n\n14\\. The particle in a box\n\n15\\. The single-step potential\n\n16\\. The final examination",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "挑選重要基礎主題講授"
+        },
+        {
+            "type": "討論法",
+            "note": "課堂提問討論"
+        },
+        {
+            "type": "問題解決教學",
+            "note": "解決特選問題"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 30,
+            "note": "以隨堂小考、論文探討報告"
+        },
+        {
+            "type": "期中考",
+            "weight": 35,
+            "note": "3小時閉書測驗"
+        },
+        {
+            "type": "期末考",
+            "weight": 35,
+            "note": "3小時閉書測驗"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

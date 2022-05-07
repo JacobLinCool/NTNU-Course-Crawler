@@ -1,0 +1,88 @@
+{
+    "year": 110,
+    "term": 1,
+    "name": "族群遺傳與演化甲",
+    "teachers": [
+        "李壽先",
+        "林仲平"
+    ],
+    "department": "SD50",
+    "code": "DIC8042",
+    "credit": 3,
+    "serial": 2662,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 2,
+            "to": 4,
+            "campus": "公館",
+            "classroom": "Ｓ604"
+        }
+    ],
+    "programs": [],
+    "comment": "第一週先於師大上課，其餘時間依上課需求至中研院或在師大上課。",
+    "restrict": "◎課程不開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "",
+    "goals": [
+        "Acquire the fundamental concepts of population genetics and evolution",
+        "Learn how to critically read and evaluate scientific publications",
+        "Identify interesting research questions and propose experimental tests in the"
+    ],
+    "syllabus": "Week 1 Class organization/Introduction/Thinking like a population geneticist\n\nWeek 2 Genotype frequencies\n\nWeek 3 Genetic drift and effective population size 1\n\nWeek 4 Genetic drift and effective population size 2\n\nWeek 5 Population structure and gene flow1\n\nWeek 6 Population structure and gene flow 2\n\nWeek 7 Mutation\n\nWeek 8 Natural selection 1\n\nWeek 9 Natural selection 2 (Midterm exam due)\n\nWeek 10 Molecular evolution 1\n\nWeek 11 Molecular evolution 2\n\nWeek 12 Clades/Trees\n\nWeek 13 Sexual selection\n\nWeek 14 Cooperation and conflict\n\nWeek 15 Speciation\n\nWeek 16 Evo-devo\n\nWeek 17 Co-evolution\n\nWeek 18 Final exam/”Grant reading committee”",
+    "methodologies": [
+        {
+            "type": "Formal lecture",
+            "note": "Lectures occur for some of the classes and is generally minimal."
+        },
+        {
+            "type": "Group discussion",
+            "note": "Students must discuss reading material from text book and primary literature as well as homework problems"
+        },
+        {
+            "type": "Problem base learning",
+            "note": "Students must complete weekly problem sets"
+        },
+        {
+            "type": "Case studies",
+            "note": "Midterm is refereeing a paper; final is grant proposal"
+        }
+    ],
+    "grading": [
+        {
+            "type": "Assignments",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "Midterm Exam",
+            "weight": 15,
+            "note": ""
+        },
+        {
+            "type": "Final exam",
+            "weight": 25,
+            "note": ""
+        },
+        {
+            "type": "Class discussion involvement",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "Attendances",
+            "weight": 30,
+            "note": ""
+        }
+    ],
+    "prerequisite": "◎Unavailable for M.A. program students (M.A. program courses excepted) and B.A. program students.",
+    "general_core": []
+}

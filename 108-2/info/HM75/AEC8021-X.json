@@ -1,0 +1,84 @@
+{
+    "year": 108,
+    "term": 2,
+    "name": "隨機程序",
+    "teachers": [
+        "黃政吉"
+    ],
+    "department": "HM75",
+    "code": "AEC8021",
+    "credit": 3,
+    "serial": 1110,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 5,
+            "from": 8,
+            "to": 10,
+            "campus": "本部",
+            "classroom": "工511"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎必須先修過【AEC8025  工程機率與統計】 ◎課程開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程首先介紹多個隨機變數的相關知識，然後探討隨機變數之間的相關性，最後討論假說測試、估測理論、隨機程序等應用。",
+    "goals": [
+        "介紹隨機程序的相關工程應用。",
+        "培養學生處理多個隨機變數的能力。",
+        "培養學生利用隨機變數之間的相關性，進行估測或預測。",
+        "培養學生利用假說測試等理論，解決相關工程問題。"
+    ],
+    "syllabus": "Introductions (Week 1)  \nDerived random variables  (Week 2)  \nSum of two random variables (Week 3)  \nConditional expected value (Week 4)  \nConditioning by a random variable (Week 5)  \nExpected value of sums (Week 6)  \nMoment generating function (Week 7)  \nMidterm (Week 8)  \nHypothesis test (Week 9)  \nMinimum mean square error estimation (Week 10)  \nMAP and ML estimate (Week 11)  \nStochastic process (Week 11)  \nExpected value and correlation (Week 12)  \nWide sense stationary (Week 13)  \nPoisson process (Week 14)  \nAutocorrelation function (Week 15)  \nFinal exam (Week 16)  \nTerm project I (Week 17)  \nTerm project II (Week 18)",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "投影片PPT"
+        },
+        {
+            "type": "討論法",
+            "note": "小組討論"
+        },
+        {
+            "type": "專題研究",
+            "note": "小組討論"
+        }
+    ],
+    "grading": [
+        {
+            "type": "期中考",
+            "weight": 30,
+            "note": "筆試"
+        },
+        {
+            "type": "期末考",
+            "weight": 30,
+            "note": "筆試"
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 10,
+            "note": "回答問題或提問"
+        },
+        {
+            "type": "出席",
+            "weight": 10,
+            "note": "點名"
+        },
+        {
+            "type": "專題",
+            "weight": 20,
+            "note": "書面報告"
+        }
+    ],
+    "prerequisite": "◎必須先修過【AEC8025  工程機率與統計】",
+    "general_core": []
+}

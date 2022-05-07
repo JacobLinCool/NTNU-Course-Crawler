@@ -1,0 +1,76 @@
+{
+    "year": 110,
+    "term": 1,
+    "name": "圖形學",
+    "teachers": [
+        "郭君逸"
+    ],
+    "department": "SU40",
+    "code": "MAU0022",
+    "credit": 3,
+    "serial": 2823,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 3,
+            "from": 6,
+            "to": 8,
+            "campus": "公館",
+            "classroom": "Ｃ002"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "2",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "圖形學是探討有關點與邊所形成之圖形的各種性質，看似專門討論圖形性質的學問，事實上，非常多領域的問題，都可以轉成圖形的問題來討論，如：群論、集合論、拓樸學、李群、分子生物學、代數學、密碼學、動態系統、混沌……等。",
+    "goals": [
+        "瞭解圖形學的基本理論及應用",
+        "培養轉換數學模型並解決相關問題的能力"
+    ],
+    "syllabus": "1.    圖形與部份圖形(4週)\n\n*   圖的模型\n*   同構\n*   平面圖\n\n2.    覆蓋及著色(4週)\n\n*   一筆畫問題\n*   七橋問題\n*   著色問題\n\n3.    樹(4週)\n\n*   搜尋\n*   排序\n*   郵差問題\n\n4.    網路(4週)\n\n*   最短路徑\n*   最小覆蓋樹\n*   流量\n*   配對",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "以上課講授為主"
+        },
+        {
+            "type": "問題解決教學",
+            "note": "有些主題，會請自願的學生查資料，並上台報告。"
+        },
+        {
+            "type": "媒體融入教學",
+            "note": ""
+        },
+        {
+            "type": "其他",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "期中考",
+            "weight": 60,
+            "note": "兩次"
+        },
+        {
+            "type": "期末考",
+            "weight": 30,
+            "note": "一次"
+        },
+        {
+            "type": "其他",
+            "weight": 10,
+            "note": "平時成績"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

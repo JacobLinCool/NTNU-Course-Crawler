@@ -1,0 +1,83 @@
+{
+    "year": 108,
+    "term": 1,
+    "name": "學習理論",
+    "teachers": [
+        "王力億"
+    ],
+    "department": "EU00",
+    "code": "EDU0117",
+    "credit": 2,
+    "serial": 682,
+    "group": "",
+    "quota": {
+        "limit": 40,
+        "additional": 0
+    },
+    "schedule": [
+        {
+            "day": 1,
+            "from": 3,
+            "to": 4,
+            "campus": "本部",
+            "classroom": "教9樓綜合教室"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "2",
+    "classes": "",
+    "dept_group": "",
+    "hours": 2,
+    "description": "學習理論是學校學生學習和教師教學的重要基礎知識。本課程不僅有系統的介紹行為主義的、認知主義的和自然主義的學習理論內容並注重理論的應用層面，以便從事教育工作時能選擇和採用多元策略。",
+    "goals": [
+        "能認識學習理論的基本派典",
+        "能依歷史發展順序，熟悉重要的學習理論支派",
+        "能統整各重要學習理論在教育上的應用策略",
+        "能調查學習理論在教育上的應用實例"
+    ],
+    "syllabus": "[教學進度與主題附件](https://ap.itc.ntnu.edu.tw/NtnuFileShare/file.do?action=dl&gno=d70067a6204b4cfbad36d15d06347c56&fno=eb791a8841f147978be8d63706a6c0bd)",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "講述學習的理論及在教學上的應用"
+        },
+        {
+            "type": "討論法",
+            "note": "討論學習理論在教學應用上的議題"
+        },
+        {
+            "type": "合作學習",
+            "note": "討論及設計小組教學計畫"
+        },
+        {
+            "type": "實驗/實作",
+            "note": "說明及演示小組教學計畫"
+        }
+    ],
+    "grading": [
+        {
+            "type": "期末考",
+            "weight": 30,
+            "note": "根據課程教材回答相關問題"
+        },
+        {
+            "type": "出席",
+            "weight": 20,
+            "note": "課堂參與程度"
+        },
+        {
+            "type": "報告",
+            "weight": 20,
+            "note": "期中個人反思報告"
+        },
+        {
+            "type": "成果展覽",
+            "weight": 30,
+            "note": "期末小組口頭報告"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

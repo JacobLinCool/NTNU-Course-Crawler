@@ -1,0 +1,68 @@
+{
+    "year": 110,
+    "term": 2,
+    "name": "優選理論",
+    "teachers": [
+        "陳界山"
+    ],
+    "department": "SU40",
+    "code": "MAU0082",
+    "credit": 3,
+    "serial": 2776,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 4,
+            "from": 6,
+            "to": 8,
+            "campus": "公館",
+            "classroom": "Ｓ201"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "4",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程介紹一般最佳化問題的結構，並簡介最佳題解的優選條件與相關演算法。",
+    "goals": [
+        "瞭解一般最佳化問題的理論背景",
+        "瞭解一般最佳化問題的實際應用"
+    ],
+    "syllabus": "16+2 周方式進行。\n\n**Office Hours** \n\nYou are welcomed to drop by my office whenever I am in  my office (I am almost available in the morning of weekdays)  or please feel free to make an appointment with me.\n\n**Textbook** \n\nNo textbook is required, some lectures notes will be handed out.  You are also expected to take class notes on your own.  Here are two references:\n\n 1. The Mathematics of Nonlinear Programming, by A. Peressini, F. Sullivan and J. Uhl, Springer-Verlag, 1988.  \n\n2\\. An Introduction to Optimization, 4th edition, by E. Chong and S. Zak, Wiley, 2013.  \n\n**Homework** \n\nAs you are probably aware, most learning in a math course takes place  when you do your homework. I will assign biweekly homework for  your practice. \n\n**Exam** \n\nThere are no in-class exams. I will ask everyone to have a  30-minutes presentation whose topic is up to your choice (anything  related to optimization is fine) at the end of the semester which  is counted as the final. More details will be announced when it  is approaching.\n\n**Grades** \n\nYour final grade for this course will be determined as follows:  \n\nHomework  30 %     \n\nAttendance  30 %       \n\nFinal             40 %   \n\nSometimes you will be asked to attend conferences or workshops related to this  course, and attendance of such cases is also counted.\n\n**Topics**\n\nMathematical Preliminaries      \n\n      Vector space and Matrices         \n\n      Differentiation in R^n       \n\nConvex Sets and Cones       \n\n      Convex sets       \n\n      Separation Theorems        \n\n      Convex cones       \n\nConvex Functions       \n\n      Characterizations of convex functions         \n\n      Conjugate and support functions       \n\nUnconstrained Minimization         \n\n      Sufficient and necessary conditions     \n\n      Least squares minimization       \n\n      Linear system $Ax=b$       \n\nIterative Gradient Methods       \n\n      Rules for stepsize       \n\n      Steepest descent method       \n\n      Newton methods       \n\n      Quasi-Newton methods       \n\nConjugate Gradient Method and Trust Region Method       \n\n      Conjugate gradient method       \n\n      Trust region method     \n\nConstrained Minimization\n\n       KKT conditions\n\n       Penaly method\n\n       Barrier method",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "上課以課堂講演為主，多提供實例以印證理論。"
+        },
+        {
+            "type": "討論法",
+            "note": "對特定主題輔以電腦教學，以增進學生對課程內容之瞭解。"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 30,
+            "note": "指定習題練習、補充材料的閱讀。"
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 30,
+            "note": "出席並參與課堂討論、聆聽相關研討會演講的情形。"
+        },
+        {
+            "type": "其他",
+            "weight": 40,
+            "note": "期末評量方式將由考試、繳交報告、或專題報告擇一方式進行。"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

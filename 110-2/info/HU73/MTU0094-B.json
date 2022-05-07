@@ -1,0 +1,84 @@
+{
+    "year": 110,
+    "term": 2,
+    "name": "應用電子學實驗",
+    "teachers": [
+        "吳順德"
+    ],
+    "department": "HU73",
+    "code": "MTU0094",
+    "credit": 1,
+    "serial": 1255,
+    "group": "B",
+    "quota": {
+        "limit": 30,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 4,
+            "from": 10,
+            "to": 12,
+            "campus": "本部",
+            "classroom": "CAD/CAM"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎必須先修過【MTU0013  電路學】 ◎課程開放上修",
+    "form_s": "2",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "搭配電子學課程, 讓同學了解各種電子元件的運作原理與相關的應用",
+    "goals": [
+        "使學生了解電子學理論與其應用",
+        "合作解決問題的能力"
+    ],
+    "syllabus": "第1週 / 分組，規定事項、課程介紹及工具自備宣導  \n第2週 / NI Elvis 設備使用介紹  \n第3週 / Introduction to MultiSim& Spice第4-5週 / Diodes, Clamper, Limiter第6-7週 / Rectifier & Power Supply第8週 / Characters of BJT Transistor第9週 / Amplifier Configuration第10週 / Darlington Pair第11週 / Introduction to OP Amplifer第12週 / Inverting and Noniverting Amplifer第13-14週 / Difference Amplifer, Instrumentation Amplifier第15週 / Differentiator, Integrator, Filter第16-17週 / Final Project第18週 /實驗補做",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "講述前的相關準備工作：     提供教學投影片以及相關的補充教材讓學生預習。 講述方式：     每一章節均以『揭示綱要』、『詳述內容』、『綜述要點』此三步驟來進行。"
+        },
+        {
+            "type": "討論法",
+            "note": "講述完畢後，以問題討論、口頭發問與分組討論的方式檢核學習者的理解。"
+        },
+        {
+            "type": "合作學習",
+            "note": "每個章節均會有相關的實驗，學生將以分組合作的方式，完成每週的實驗進度。"
+        },
+        {
+            "type": "實驗/實作",
+            "note": "本課程將搭配以下兩件套裝軟體來進行理論學習 1.\tMultiSim 2.\tSpice"
+        },
+        {
+            "type": "媒體融入教學",
+            "note": "本課程除了使用板書進行教學外，也將製作投影片與相關的影片，幫讓學生對理論與實驗能充分了解。"
+        },
+        {
+            "type": "專題研究",
+            "note": "實作電源供應器，並以研討會論文的格式呈現研究過程與心得。"
+        }
+    ],
+    "grading": [
+        {
+            "type": "報告",
+            "weight": 40,
+            "note": "實施方式： 撰寫實驗筆記，記錄研究過程與心得。 欲培養之核心能力： 具備團隊合作之精神，以及表達、溝通、創新思考及解決問題之能力。"
+        },
+        {
+            "type": "專題",
+            "weight": 20,
+            "note": "實施方式： 期末專題 欲培養之核心能力： 設計與執行機電相關實務，以及分析、解釋、撰寫報告之能力"
+        },
+        {
+            "type": "其他",
+            "weight": 40,
+            "note": "實施方式： 每週依主題進行相關實作，並依執行進度給予評分 欲培養之核心能力： 執行機電工程實務所需之知識與技能。"
+        }
+    ],
+    "prerequisite": "◎必須先修過【MTU0013  電路學】",
+    "general_core": []
+}

@@ -1,0 +1,82 @@
+{
+    "year": 107,
+    "term": 2,
+    "name": "衛生統計與實驗設計",
+    "teachers": [
+        "陳政友"
+    ],
+    "department": "EM05",
+    "code": "HEC0029",
+    "credit": 2,
+    "serial": 465,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 4,
+            "from": 3,
+            "to": 4,
+            "campus": "本部",
+            "classroom": "誠602"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 2,
+    "description": "1.學習實驗設計研究方法。\n2.學習用於各種實驗設計研究方法的統計模型。\n3.閱讀與討論各種實驗設計研究的英文文獻。",
+    "goals": [
+        "學習實驗設計的研究方法",
+        "學習用於各種實驗設計研究方法的統計模型。",
+        "閱讀與討論各種實驗設計研究的英文文獻。"
+    ],
+    "syllabus": "週次\n\n**課程內容****(****中文****)**\n\n**課程內容****(****英文****)**\n\n1\n\n課程介紹\n\nIntroduction\n\n2\n\n簡單比較實驗\n\nSimple comparative experiments\n\n3\n\n變異數分析(一)\n\nAnalysis of variance (ANOVA) (I)\n\n4\n\n變異數分析(二)\n\nAnalysis of variance (ANOVA) (II)\n\n5\n\n資料轉換\n\nData Transformation\n\n6\n\n完全隨機設計(一)\n\nCompletely Randomized Design, CRD (I)\n\n7\n\n完全隨機設計(二) \n\nCompletely Randomized Design, CRD (II)\n\n8\n\n隨機完全區集設計(一)\n\nRandomized Completely Block Design, RCBD (I)\n\n9\n\n期中考\n\nMid-term Examination\n\n10\n\n隨機完全區集設計(二)\n\nRandomized Completely Block Design, RCBD (II)\n\n11\n\n交叉設計(一)\n\nCross-over design (I)\n\n12\n\n交叉設計(二)\n\nCross-over design (II)\n\n13\n\n複因子試驗(一)\n\nFactorial experiment (I)\n\n14\n\n複因子試驗(二)\n\nFactorial experiment (II)\n\n15\n\n複因子試驗(三)\n\nFactorial experiment (III)\n\n16\n\n變積分析(一)\n\nAnalysis of covariance, ANCOVA (I)\n\n17\n\n變積分析(二)\n\nAnalysis of covariance, ANCOVA (II)\n\n18\n\n期末考\n\nFinal-term Examination",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": ""
+        },
+        {
+            "type": "合作學習",
+            "note": ""
+        },
+        {
+            "type": "實驗/實作",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 30,
+            "note": "書面報告"
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 10,
+            "note": ""
+        },
+        {
+            "type": "報告",
+            "weight": 20,
+            "note": "口頭報告"
+        },
+        {
+            "type": "其他",
+            "weight": 40,
+            "note": "書面報告"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

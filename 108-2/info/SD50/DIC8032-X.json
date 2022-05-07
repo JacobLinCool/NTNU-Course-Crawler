@@ -1,0 +1,71 @@
+{
+    "year": 108,
+    "term": 2,
+    "name": "分子演化甲",
+    "teachers": [
+        "陳仲吉",
+        "洪志銘",
+        "町田龍二",
+        "王忠信"
+    ],
+    "department": "SD50",
+    "code": "DIC8032",
+    "credit": 3,
+    "serial": 2538,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 3,
+            "from": 2,
+            "to": 4,
+            "campus": "校外",
+            "classroom": "校外教室"
+        }
+    ],
+    "programs": [],
+    "comment": "中研院B204 BRC,AS/B15,Green house(中研院生物多樣性大樓B204教室，以及新溫室B15)",
+    "restrict": "◎課程不開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "Evolutionary analyses are increasingly important in many different fields of biological research, particularly as advances in molecular genetic techniques have made large DNA sequence data sets readily available. This course covers the basic concepts of evolutionary analysis and their application in fields such as systematics, comparative biology, and molecular evolution. Lectures will emphasize the logical basis and computational details of various algorithms and associated methods of hypothesis testing, as well as novel applications of phylogenetic analysis in various fields of biology.",
+    "goals": [
+        "Students will learn the dynamics of evolutionary change at the molecular level, the driving forces govern the evolutionary process, the effects of the various molecular mechanisms on the structure of genes, proteins, and genomes, the methodology involved in dealing with molecular data from an evolutionary perspective, and the logic of molecular hypothesis testing.",
+        "Students will identify an area of interest and propose research to answer an outstanding question in that area."
+    ],
+    "syllabus": "​\n\nWeek 1: Genes, genetic codes, and mutation\n\nThis chapter provides some basic background in molecular biology that is required for evolutionary process at the DNA level.\n\nWeek 2: Dynamics of genes in population I\n\nUnderstand the genetics changes and its evolution patter in population. Introduce the neo-Darwinian theory and the neutral mutation hypotheses.\n\nWeek 3: Dynamics of genes in population II\n\nExamples and papers associated with population genetics for discussion.\n\nWeek 4: Evolutionary change in nucleotide sequences\n\nIntroduce nucleotide substitution in a DNA sequence. In this lecture, we will study the Jukes and Cantor’s on parameter model and Kimura’s Two parameter model.\n\nWeek 5: Estimating the number of nucleotide substitutions between sequences\n\nIn this lecture, we will study different models in calculating substitution rate.\n\nWeek 6: Molecular phylogenetics I\n\nAfter understanding the first section, we will discuss some theoretical problems associated with molecular phylogenetic reconstruction.\n\nWeek 7: Molecular phylogenetics II\n\nThis lecture will introduce the vocabulary of phylogenetics, explain how to reconstruct a phylogenetic tree from molecular data.\n\nWeek 8: Discussion\n\nWeek 9: Mid-term exam\n\nWeek 10: Molecular clocks\n\nWe will introduce the definition of molecular clock and relative rate test.\n\nWeek 11: DNA polymorphism in populations\n\nIntroduce the methods to measure DNA polymorphism and how to detect natural selection.\n\nWeek 12: Gene duplication, exon shuffling I\n\nGene duplication has been recognized to be the main role in evolution. In the lecturer we will introduce 5 different types of gene duplication. Also, we will study the definition of Exon and types of domain, and discuss the mutation meaning in evolution.\n\nWeek 13: Gene duplication, exon shuffling II\n\nIntroducing recent papers associated with gene duplication. \n\nWeek 14: Concerted evolution\n\nBy using some powerful soft ware, we will study the alignment of sequence and discuss the meaning conserved sequence.\n\nWeek 15: Evolution by transposition\n\nIn this lecture, we will describe the myriad of transposable genetic elements that facilitate the movement of genetic material from on genomic location to another. We will study the impacts that may have had on the evolutionary process.\n\nWeek 16: Genome evolution\n\nWeek 17: Discussion\n\nWeek 18: Final examWeek 18: Lab experiments",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "期中考",
+            "weight": 40,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 40,
+            "note": ""
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 20,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

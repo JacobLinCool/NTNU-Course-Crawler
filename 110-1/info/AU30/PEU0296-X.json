@@ -1,0 +1,70 @@
+{
+    "year": 110,
+    "term": 1,
+    "name": "運動傷害評估學",
+    "teachers": [
+        "李恆儒"
+    ],
+    "department": "AU30",
+    "code": "PEU0296",
+    "credit": 2,
+    "serial": 123,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 8,
+            "to": 9,
+            "campus": "本部",
+            "classroom": "樸106"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎必須先修過【PEU2001  運動解剖學】、【PEU0067  運動傷害與防護】",
+    "form_s": "3",
+    "classes": "",
+    "dept_group": "",
+    "hours": 2,
+    "description": "透過課程使學生理解運動傷害之評估的基本知識，且學習如何評估運動傷害。",
+    "goals": [
+        "指出與稱呼身體主要的骨頭、肌肉、連接組織",
+        "根據解剖來比較脊椎與四肢之正常與不正常",
+        "探討最新運動醫學文獻，並了解其應用",
+        "使用量角器測量關節之活動範圍"
+    ],
+    "syllabus": "第一週 Introduction and Evaluation Principle\n\n第二週 Foot and Ankle functional anatomy and injuries\n\n第三週 Foot and Ankle palpation\n\n第四週 Foot and Ankle evaluation\n\n第五週 Knee and lower extremity functional anatomy and injuries\n\n第六週 Knee palpation\n\n第七週 Knee injury evaluation\n\n第八週 Thigh and Hip joint functional anatomy and injuries\n\n第九週 Lumbar functional anatomy and injuries\n\n第十週 Hip and lumbar palpation and evaluation\n\n第十一週Shoulder functional anatomy and injuries\n\n第十二週 Shoulder palpation and evaluation\n\n第十三週 Head palpation and evaluation\n\n第十四週 Trunk evaluation\n\n第十五週 Posture evaluation\n\n第十六週 Clinical exam\n\n第十七週 Clinical exam",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "請學生擔任自願者，並由老師示範評估步驟"
+        },
+        {
+            "type": "合作學習",
+            "note": "學生們互相練習評估技巧"
+        }
+    ],
+    "grading": [
+        {
+            "type": "期中考",
+            "weight": 40,
+            "note": "筆試，第一次與第二次考試各佔20%"
+        },
+        {
+            "type": "期末考",
+            "weight": 55,
+            "note": "Clinical exam：技術考試佔55%"
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 5,
+            "note": "小組討論"
+        }
+    ],
+    "prerequisite": "◎必須先修過【PEU2001  運動解剖學】、【PEU0067  運動傷害與防護】",
+    "general_core": []
+}

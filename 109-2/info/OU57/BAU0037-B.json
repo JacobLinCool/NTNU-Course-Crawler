@@ -1,0 +1,80 @@
+{
+    "year": 109,
+    "term": 2,
+    "name": "會計學（二）",
+    "teachers": [
+        "陳慧玲"
+    ],
+    "department": "OU57",
+    "code": "BAU0037",
+    "credit": 3,
+    "serial": 2469,
+    "group": "B",
+    "quota": {
+        "limit": 60,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 1,
+            "from": 7,
+            "to": 9,
+            "campus": "本部",
+            "classroom": "誠102"
+        }
+    ],
+    "programs": [],
+    "comment": "企管系大一學生學號末碼為單數號請選修會計學(二)A班;學號末碼為雙數號請選修會計學(二)B班。 非企管系同學需待全校加退選階段，才得進行線上選課和利用授課碼選課方式。如需要授權碼，請在全校加退選階段開始後再跟授課老師索取，其它時間一律不發放。",
+    "restrict": "◎必須先修過【BAU0036  會計學（一）】",
+    "form_s": "1",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "學生藉由本課程可以學習：\n1.\t瞭解如何編製及分析現金流量表；\n2.\t瞭解如何解釋及記錄應收款項、固定資產、負債及投資；\n3.\t瞭解如何報導及分析權益及保留盈餘。",
+    "goals": [
+        "能編製財務報表，並根據會計資訊做決策",
+        "能夠瞭解會計人員面對企業倫理的兩難",
+        "能夠瞭解倫理的議題",
+        "使同學學習真實且允當地表達企業財務狀況、經營績效及財務狀況變動，以提供高品質財務資訊",
+        "能利用會計提供決策相關之財務資訊進行決策"
+    ],
+    "syllabus": "因應學校於109學年第2學期16+2週課程設計，其中一週為數位學習，另一週課程則由16週分別補課\n\n第1-2週：Accounting for Receivables (第2週為數位學習)\n\n第3-4週：Plant Assets, Natural Resources, and Intangible Assets\n\n第5-6週：Current Liabilities\n\n第7-8週：Non-current Liabilities\n\n第9週：Mid-term exam\n\n第10-12週：Corporations: Organization, Share Transactions, and Equity\n\n第13-15週：Statement of Cash Flows\n\n第16週：Final Exam",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "講述會計理論與實務，並教導學生有系統地記錄交易，並編製財務報表。"
+        },
+        {
+            "type": "討論法",
+            "note": "全班於課堂中討論重要會計議題"
+        },
+        {
+            "type": "實驗/實作",
+            "note": "引導學生於課堂有系統記錄交易"
+        }
+    ],
+    "grading": [
+        {
+            "type": "期中考",
+            "weight": 35,
+            "note": "計算題(包含分錄及編製財務報表)"
+        },
+        {
+            "type": "期末考",
+            "weight": 30,
+            "note": "計算題(包含分錄及編製財務報表)"
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 5,
+            "note": "出席並參與課堂討論的情形"
+        },
+        {
+            "type": "其他",
+            "weight": 30,
+            "note": "小考及自主學習，其中，小考佔29%，自主學習佔1%"
+        }
+    ],
+    "prerequisite": "◎必須先修過【BAU0036  會計學（一）】",
+    "general_core": []
+}

@@ -1,0 +1,84 @@
+{
+    "year": 107,
+    "term": 1,
+    "name": "光電半導體",
+    "teachers": [
+        "楊承山"
+    ],
+    "department": "HU77",
+    "code": "OEC9105",
+    "credit": 3,
+    "serial": 1344,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 7,
+            "to": 9,
+            "campus": "公館",
+            "classroom": "綜合館202"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "",
+    "classes": "9",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程是是針對師大光電工程學系學生的進階課程，從基礎學理出發，透過基礎物理了解光電半導體元件之工作原理，包括基礎量子物理、能階構造及能帶結構、載子的統計分析與遷移、載子能帶間的傳輸與躍遷、特殊載子形成（電漿、聲子、激子等），最後延伸至產業界常用之異質結構半導體結構（量子井、量子點與奈米線等等），讓修習的學生不僅具有光電半導體基本學理涵養，並能與產業應用接軌。",
+    "goals": [
+        "藉由光電半導體，培育學生運用物理數學與光電電子工程知識與技術，以解決光電電子工程相關之問題。",
+        "藉由光電半導體，使學生具備執行光電電子工程實務所需技術、技巧及使用儀器工具之能力。",
+        "從光電半導體教學過程，培養學生獨立思考與分析問題並解決問題之能力，奠定學生終生學習之基礎。",
+        "以實作討論方式培養學生團隊合作態度。",
+        "藉由指導教師指導，培養學生專業倫理之態度及具備國際觀及服務社會之信念。"
+    ],
+    "syllabus": "週次\n\n教學大綱及進度\n\n1\n\n課程簡介 (Introduction of This Class)\n\n固態＆量子物理複習 (Review of Solid State and Quantum Physics)\n\n2\n\n半導體元件物理複習I (Review of Semiconductor Device Physics)\n\n3\n\n半導體元件物理複習II (Review of Semiconductor Device Physics)\n\n4\n\n固體的光學性質 (Optical Properties of Solids)\n\n5\n\n電子的傳輸理論 (Electron Transport Theory)\n\n6\n\nP-N接面 (P-N Junction)\n\n7\n\nP-N接面二極體 (P-N Junction Diodes)\n\n8\n\n半導體發光二極體 (Semiconductor Light Emitting Diodes)\n\n9\n\n期中考 (Midterm)\n\n10\n\n雷射放大與雷射震盪介紹 (Laser Amplification and Oscillation)\n\n11\n\n半導體雷射 (Semiconductor Lasers)\n\n12\n\n光二極體 (Photodiodes)\n\n13\n\n累崩光二極體 (Avalanche Photodiodes, APDs)\n\n14\n\n光偵測器 (Photodetectors)\n\n15\n\n光電晶體 (Phototransisters)\n\n16\n\n量子井 (Quantum Well)\n\n17\n\n太陽能電池 (Photovoltaic Devices)\n\n18\n\n期末考 (Final Exam)",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "講述光電半導體重要概念與理論。"
+        },
+        {
+            "type": "討論法",
+            "note": "開放課堂討論增加學生互動與交流，增加學生學習效益。"
+        },
+        {
+            "type": "問題解決教學",
+            "note": "利用習題與作業，讓學生課後練習，活用課堂講授內容，解決問題。"
+        },
+        {
+            "type": "媒體融入教學",
+            "note": "與課程相關之期刊或最新科技雜誌介紹。"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 40,
+            "note": "學生撰寫課後作業，由學生之繳交與得分情況評量作業成績。"
+        },
+        {
+            "type": "期中考",
+            "weight": 25,
+            "note": "測驗學生對學科的了解與熟悉程度，命題形式為計算與簡答題。內容大部分會由上課筆記內容與作業範圍出題。"
+        },
+        {
+            "type": "期末考",
+            "weight": 25,
+            "note": "測驗學生對學科的了解與熟悉程度，命題形式為計算與簡答題。內容大部分會由上課筆記內容與作業範圍出題。"
+        },
+        {
+            "type": "出席",
+            "weight": 10,
+            "note": "由學生上課出席狀況與不定期隨堂問答評量。"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

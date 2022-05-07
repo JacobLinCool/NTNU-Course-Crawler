@@ -1,0 +1,90 @@
+{
+    "year": 108,
+    "term": 2,
+    "name": "地理程式設計應用",
+    "teachers": [
+        "張國楨"
+    ],
+    "department": "LU23",
+    "code": "GEU0128",
+    "credit": 3,
+    "serial": 1816,
+    "group": "",
+    "quota": {
+        "limit": 25,
+        "additional": 0
+    },
+    "schedule": [
+        {
+            "day": 5,
+            "from": 3,
+            "to": 5,
+            "campus": "本部",
+            "classroom": "地理系電腦教室"
+        }
+    ],
+    "programs": [
+        "學習與資訊學程",
+        "空間學程"
+    ],
+    "comment": "上課教室：文學院勤10F地理系電腦教室。",
+    "restrict": "",
+    "form_s": "1",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程之目標在於教授學生程式設計之觀念以及演算法，以及如何撰寫與地理領域相關知應用程式。引導學生學習VB之基本語法，尤其在與空間分布有關的課題上。學生完成本課程後能獨立完成VB應用程式，瞭解地理資訊系統相關的技術及演算法，作為進一步研發的基礎。",
+    "goals": [
+        "教授學生程式設計之觀念以及演算法，以及如何撰寫與地理領域相關知應用程式。",
+        "引導學生學習VB之基本語法，尤其在與空間分布有關的課題上。",
+        "學生完成本課程後能獨立完成VB應用程式，瞭解地理資訊系統相關的技術及演算法，作為進一步研發的基礎。"
+    ],
+    "syllabus": "WEEK 01 - Getting Started with MS VS\n\nWEEK 02 - Write your first .NET code -- Event-driven programming\n\nWEEK 03 - Variables and Data types\n\nWEEK 04 - Graphics – vector v.s. raster\n\nWEEK 05 - Vector Coordinates – graphic coordinates v.s. world coordinate\n\nWEEK 06 - Conditional Logic\n\nWEEK 07 - Loops\n\nWEEK 08 - Array (1): One-Dimensional Array\n\nWEEK 09 - Mid-Term Examine\n\nWEEK 10 - Array (2): Multi-Dimensional Array\n\nWEEK 11 - String\n\nWEEK 12 - Text Files\n\nWEEK 13 - Display GIS Data\n\nWEEK 14 - Rotation and Animation\n\nWEEK 15 - Functions and Subs\n\nWEEK 16 - Events\n\nWEEK 17 - VB NET and Multiple Forms\n\nWEEK 18 - Final Examine",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "即時遠距視訊會議講述物件導向概念與基本演算法"
+        },
+        {
+            "type": "討論法",
+            "note": "講述與實機CODING同步"
+        },
+        {
+            "type": "實驗/實作",
+            "note": "即時遠距視訊會議實機操作 程式碼撰寫與執行/偵錯/除錯"
+        },
+        {
+            "type": "其他",
+            "note": "課前指定研讀教材章節"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 20,
+            "note": "每周都有依據當周進度的程式設計作業! 當周繳交逾期不收不計分 繳交內容包括上課筆記 程式碼與執行碼"
+        },
+        {
+            "type": "期中考",
+            "weight": 30,
+            "note": "即時遠距視訊會議上機考 當場coding 當場繳交 上傳到雲端群組 -- close book"
+        },
+        {
+            "type": "期末考",
+            "weight": 40,
+            "note": "即時遠距視訊會議上機考 當場coding 當場繳交 上傳到雲端群組 -- close book"
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 5,
+            "note": "即時遠距視訊會議中參與討論 列入作業一部分"
+        },
+        {
+            "type": "出席",
+            "weight": 5,
+            "note": "列入作業一部分"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

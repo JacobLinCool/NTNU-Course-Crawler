@@ -1,0 +1,78 @@
+{
+    "year": 107,
+    "term": 1,
+    "name": "社會科學程式設計",
+    "teachers": [
+        "柯皓仁"
+    ],
+    "department": "EM15",
+    "code": "ISM0636",
+    "credit": 3,
+    "serial": 509,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 2,
+            "to": 4,
+            "campus": "本部",
+            "classroom": "教室自排"
+        }
+    ],
+    "programs": [],
+    "comment": "上課教室：圖資所研討室A",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "隨著資訊科技進步，網際網路或科技媒介成為伴隨社會大眾生活中不可或缺的一部分。而社會科學領域亦意識到，以個體使用資訊技術所伴隨產生的資料作為研究材料，可用以分析或理解個體的行為與動機。因此，在進行相關研究時，資料處理與分析能力成為探索相關議題的決定性因素。\n\n本課程的著眼點現在雲端服務、巨量資料、開放性資料等逐漸受工商業與政府機關所重視，而資訊服務業亦逐漸成為產業的主流之一，然而本所學生與社會科學領域的研究生普遍缺乏資料分析的經驗與基本能力。因此，本課程欲簡化程式設計學習過程來作為學生分析資料能力的基礎，減少資訊原理、資料結構與演算法等方面的進階內容，改以新聞、訪談、BBS、社交網站等資料作為範例與案例探討，強調即學即用，以期提高本課程的實用性質，增進本所（或相關人文社會科學系所研究生）的資料分析能力，並與其研究或未來就業需求接軌。",
+    "goals": [
+        "讓社會科學領域之學習者具有基本程式設計能力",
+        "瞭解如何使用程式進行統計、視覺化、以及資料分析",
+        "透過案例教學，讓學習者不僅能夠理解，更能夠實用"
+    ],
+    "syllabus": "*   以下為初步規劃的課綱，但會因應教師的資料蒐集而改變，請從此連結找到最新課綱：  \n    [https://docs.google.com/document/d/1P7mol9Pu0wrIwKI6p8jpL1DXfk\\_vTuCRzYcikozlNFg/edit?usp=sharing](https://docs.google.com/document/d/1Ff4Bzufrc-kw40OQmUQsSwE5cPKdQH3e0Uh4VL_E9Fo/edit?usp=sharing)\n*   本課程中你將擷取並操作以下幾種資料：台北市Youbike站點資訊、空污資訊與地理圖資、近20年登革熱疫情個案資料、台北市公車動態資訊、2016年總統大選社群資訊、Twitter資料擷取、網站爬蟲設計、Gensim相似文本處理函式庫（探測文本主題、探測文本相似度）。\n*   誠摯邀請完全不會寫程式的你來一起設計資料處理與視覺化專案。\n*   授課採用教師現場Live Coding，並可搭配影片進行複習。\n*   欲修課的同學為了安裝軟體與函式庫，即使在電腦教室上課仍需全學期自行攜帶筆電。\n\n**#**\n\n**Topics**\n\n**Activities & Assignments**\n\n1\n\n**Introduction**\n\n*   Installing Python environment and setting development environment\n    \n*   Pre-course practice: Coding with Elsa and Anna\n    \n\n2\n\n**Counting the frequency;**\n\n**Python basic**\n\n**計量**\n\n*   Fruit-Counting-1: Counting the fruit frequency\n    \n*   Python: Variable, value, operation, for-loop, and list\n    \n*   Python practice #1: Submitting before next week\n    \n*   以計量的案例介紹程式的基本概念包含變數、值、運算和List結構。計量是看似簡單，但最會影響後續學習效果的案例。\n    \n\n3\n\n**Counting**\n\n**Python basic**  \n**計量**\n\n*   Counting frequency of words stored in files.\n    \n*   Python: Dictionary,revisiting  for-loop\n    \n*   Python practice #2\n    \n\n4\n\n**Getting Open data**\n\n**加總、讀檔**\n\n*   Getting and reading YouBike open data\n    \n*   Introduction to JSON format\n    \n*   Assignment #1: Getting air quality or water quality data\n    \n*   從最容易存取、理解的典型開放資料Youbike做為案例，邊介紹案例、邊介紹程式邏輯、邊介紹各種視覺化方法。\n    \n\n5\n\n**Plotting I: Chart**\n\n*   Plotting the number of Youbike, full or empty?\n    \n*   Python Practice #3: Plotting Youbike data by Matplotlib.\n    \n*   Ploting  histogram and line chart, time package, cran and scheduler\n    \n\n6\n\n**Plotting II: trend (list and dict)**\n\n*   Getting Youbike data per 10 mins repeatedly 透過這個練習以全面瞭解list和dict兩種重要的資料型態。\n    \n*   **Python practice #3:** Plotting the number of youbike hour by hour by line graph\n    \n\n7\n\n**Plotting III: on the map**\n\n*   Plotting the “Fullness” of Youbike on the google map\n    \n*   Python: google map wrapper, file operations\n    \n*   Case study: getting Degue fever data and ploting on map\n    \n\n8\n\n**Getting data by API: 資料結構、函式**\n\n*   Getting Twitter data, Tweet hashtag\n    \n*   Getting more hashtags by recursive query\n    \n*   Building hashtags co-occurrence relationship\n    \n*   Building network data format\n    \n*   Python: string operations, tuple as dictionary key, function\n    \n\n9\n\n**Network visualization**\n\n**檔案儲存**\n\n*   Drawing network data by google fusion table\n    \n*   Storing network data as JSON format and visualizing by d3.js\n    \n*   Storing network data as Gephi format\n    \n*   Python: file operations\n    \n\n10\n\n**Midterm**\n\n11\n\n**Hackthon on Open data**\n\n*   Using open data to design information services\n    \n\n12\n\n**Crawling data I**\n\n*   **Crawling table data from the web: Yahoo! Stock as an example**\n    \n*   Storing crawled data in hierarchical list and json format\n    \n*   Introduction to Network technology, [HTTP standard response code](https://en.wikipedia.org/wiki/List_of_HTTP_status_codes), Post and get, XPath and CSS path\n    \n*   **Proposing** your idea of final project\n    \n*   本週開始教學生如何從線上擷取資料，透過連續三週的操作，學生的資料獲取不用再倚賴開放的資料介接，而可以自行撰寫程式撈取網頁資料，會大為提升學生獲取資料的能力，並了解網頁與瀏覽器技術的設計原理。\n    \n\n13\n\n**Crawling data II**\n\n*   **Crawling ChinaTime, ptt web**\n    \n*   Python: urllib2, sqlite3 and database, Set-Cookie, User-Agent, Referer\n    \n\n14\n\n**Detecting keywords in text**\n\n*   **IR process: Detecting keywords  in articles**\n    \n*   Building co-occurrence relations among keywords\n    \n*   Cleaning the data and Filtering stop-word\n    \n\n15\n\n**String procesing**\n\n*   **IR process: Detecting keywords  in articles** (cont.)\n    \n\n16\n\n**Language model**\n\n*   Using gensim to applying topic modeling and word2vec on data\n    \n*   Sring processing\n    \n\n17\n\n**News hackthon**\n\n*   Parsing the news\n    \n\n18\n\n**Final presentation**",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "本課程上課活動以講述程式設計與邏輯思考為主。"
+        },
+        {
+            "type": "實驗/實作",
+            "note": "本課程十分著重學生的個人練習，因此每次上課將給予學生一簡要課題於課堂中確實練習，並包含五次以上的作業。"
+        },
+        {
+            "type": "專題研究",
+            "note": "學生需以其研究上所需要分析的資料作為專題題目，利用本課所教的方法與工具進行分析並提出具體成果。以達到本課程的「研究應用與實用」的目的。"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 40,
+            "note": "程式設計課重在實作與練習，因此在課程中包含5次以上的程式作業以敦促學生進行練習。"
+        },
+        {
+            "type": "期中考",
+            "weight": 20,
+            "note": "程式設計有部分需要內化的邏輯概念，可經由考試來進行驗收。考題將以填充與簡答為主，了解學生是否習得程式設計基本概念。"
+        },
+        {
+            "type": "出席",
+            "weight": 5,
+            "note": "出缺席情形將做為最後評分參考。"
+        },
+        {
+            "type": "專題",
+            "weight": 35,
+            "note": "包含在期中提出期末專題計畫，學生可利用其感興趣的資料，使用Python進行處理後，輸出成適合視覺化的格式，結合視覺化相關工具進行視覺化。"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

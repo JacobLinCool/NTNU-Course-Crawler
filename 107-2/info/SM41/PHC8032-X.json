@@ -1,0 +1,88 @@
+{
+    "year": 107,
+    "term": 2,
+    "name": "新物理－大型強子對撞機",
+    "teachers": [
+        "高鐘"
+    ],
+    "department": "SM41",
+    "code": "PHC8032",
+    "credit": 1,
+    "serial": 2630,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 10,
+            "to": 11,
+            "campus": "公館",
+            "classroom": "Ｂ101"
+        },
+        {
+            "day": 4,
+            "from": 10,
+            "to": 11,
+            "campus": "公館",
+            "classroom": "Ｂ101"
+        }
+    ],
+    "programs": [],
+    "comment": "1.密集授課。  2.上課時間更改為：5/28(二)、5/30(四)、6/4(二)、6/6(四)、6/11(二)、6/13(四)、6/18(二)、6/20(四)、6/25(二)第A~B節課，每次2小時，共9次。    3.停修申請時間：5/29(三)~6/24(一)。",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 1,
+    "description": "This course covers (a) the Standard Mode (SM) of particle physics as well as new physics with elementary particles and fundamental interactions beyond the SM, and (b) parton model for proton-proton collisions to test the Standard Model and to search for new physics at hadron colliders. In addition, we will introduce tools such as MadGraph and skills such as root analysis to search for new physics at the Large Hadron Collider (LHC) and future colliders.",
+    "goals": [
+        "Build up student’s ability to predict production rate and decay branching ratio of particles",
+        "Train student to apply root analysis to study simulated data for new physics search at the Large Hadron Collider"
+    ],
+    "syllabus": "第一週 Introduction of theStandard Model\n\n第二週 Quantum Electrodynamics\n\n第三週 Introduction to SU(2)\n\n第四週 Non-Abelian Gauge Theory\n\n第五週 Electroweak theory\n\n第六週 Strong Interaction and Quantum Chromodynamics\n\n第七週 Green Function and Wick’s Theorem\n\n第八週 Feynman Diagrams and Feynman Rules\n\n第九週 Cross Section and Decay Width",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": ""
+        },
+        {
+            "type": "問題解決教學",
+            "note": ""
+        },
+        {
+            "type": "媒體融入教學",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 40,
+            "note": ""
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 10,
+            "note": ""
+        },
+        {
+            "type": "出席",
+            "weight": 10,
+            "note": ""
+        },
+        {
+            "type": "報告",
+            "weight": 40,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

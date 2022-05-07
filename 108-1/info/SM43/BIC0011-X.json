@@ -1,0 +1,85 @@
+{
+    "year": 108,
+    "term": 1,
+    "name": "實驗設計與資料分析",
+    "teachers": [
+        "許鈺鸚"
+    ],
+    "department": "SM43",
+    "code": "BIC0011",
+    "credit": 3,
+    "serial": 2709,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 3,
+            "from": 8,
+            "to": 10,
+            "campus": "公館",
+            "classroom": "Ｃ302"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程不開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "In this course, we will cover major applications of statistical data analysis in the field of biological sciences. We will emphasize on the experimental/sampling designs that are appropriate for each data analysis approach. Students are expected to actively participate in group discussion and lab exercises (using R), and each student will present an independent final project demonstrating her/his ability to apply appropriate statistical analyses to a real-world data set, given the scientific questions being posted and the experimental design used to collect the data.",
+    "goals": [
+        "use commercial statistical packages"
+    ],
+    "syllabus": "1\\. Course Introduction \n\n2\\. Statistics and Data, Introduction to using JMP\n\n3\\. Normal distribution\n\n4\\. Sampling distribution \n\n5\\. Testing Hypotheses \n\n6\\. One-Sample \n\n7\\. Two-Sample\n\n8\\. Paired-Sample\n\n9\\. Single-factor ANOVA I\n\n10\\. Single-factor ANOVA II – Multiple comparisons\n\n11\\. Two-factor ANOVA I\n\n12\\. Two-factor ANOVA II – Multiple comparisons\n\n13\\. Two-factor ANOVA without replication\n\n14\\. Randomized Block Designs \n\n15\\. Repeated Measures and Related Design \n\n16\\. Nested Designs, Analysis of Covariance \n\n17\\. Project presentation\n\n18\\. Project presentation",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "問題解決教學",
+            "note": ""
+        },
+        {
+            "type": "實驗/實作",
+            "note": ""
+        },
+        {
+            "type": "媒體融入教學",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 10,
+            "note": ""
+        },
+        {
+            "type": "期中考",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 5,
+            "note": ""
+        },
+        {
+            "type": "報告",
+            "weight": 25,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

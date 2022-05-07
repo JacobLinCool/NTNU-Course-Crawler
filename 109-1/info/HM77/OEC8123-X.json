@@ -1,0 +1,72 @@
+{
+    "year": 109,
+    "term": 1,
+    "name": "高等光電工程",
+    "teachers": [
+        "張俊傑"
+    ],
+    "department": "HM77",
+    "code": "OEC8123",
+    "credit": 3,
+    "serial": 3336,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 5,
+            "from": 7,
+            "to": 9,
+            "campus": "公館",
+            "classroom": "綜合館2F交誼廳"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎必須先修過【OEC8122  高等光電固態物理】 ◎課程開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程是OEC 8122光子學高級固態課程的延續；該課程的暫定每週時間表如課程進度表所示。",
+    "goals": [
+        "Understand the fundamental physics of semiconductor optoelectronics."
+    ],
+    "syllabus": "This course is the continuation of OEC 8122 Advanced Solid State in Photonics. Tentative weekely schedule of this course is indicated below.\n\nweek 1-2: Tight-binding method & Gaphene bandstructure calculation  \n\nweek 3-4: Density of states & Distribution function \n\nweek 5: Semiconductor tunneling devices \n\nweek 6: Semiconductor optics I: Lorentz and Drude model; Optical constants\n\nweek 7: Semiconductor optics II: Interband transition\n\nweek 8: Midterm exam\n\nweek 9: Semiconductor optics III: Time-dependent perturbation theory; Fermi golden rule\n\nweek 10: Semiconductor optics IV: Intersubband transition \n\nweek 11: Excition\n\nweek 12: Phonon\n\nweek 13-14: Polariton; Microcavities\n\nweek 15: Semiconductor light emitting diodes\n\nweek 16-17: Semiconductor lasers\n\nweek 18: Semiconductor photodetectors\n\nweek 19: Final exam & Presentation",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "期中考",
+            "weight": 30,
+            "note": "Written exam"
+        },
+        {
+            "type": "期末考",
+            "weight": 30,
+            "note": "Written exam"
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 10,
+            "note": "In-class discussion; attendance; class performance"
+        },
+        {
+            "type": "報告",
+            "weight": 30,
+            "note": "Final presentation"
+        }
+    ],
+    "prerequisite": "◎必須先修過【OEC8122  高等光電固態物理】",
+    "general_core": []
+}

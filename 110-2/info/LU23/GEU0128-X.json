@@ -1,0 +1,91 @@
+{
+    "year": 110,
+    "term": 2,
+    "name": "地理程式設計應用",
+    "teachers": [
+        "張國楨"
+    ],
+    "department": "LU23",
+    "code": "GEU0128",
+    "credit": 3,
+    "serial": 1904,
+    "group": "",
+    "quota": {
+        "limit": 25,
+        "additional": 5
+    },
+    "schedule": [
+        {
+            "day": 5,
+            "from": 6,
+            "to": 8,
+            "campus": "本部",
+            "classroom": "地理系電腦教室"
+        }
+    ],
+    "programs": [
+        "學習與資訊學程",
+        "數位人文與藝術學程",
+        "空間學程"
+    ],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "3",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程之目標在於教授學生程式設計之觀念以及演算法，以及如何撰寫與地理領域相關知應用程式。引導學生學習VB之基本語法，尤其在與空間分布有關的課題上。學生完成本課程後能獨立完成VB應用程式，瞭解地理資訊系統相關的技術及演算法，作為進一步研發的基礎。",
+    "goals": [
+        "教授學生程式設計之觀念以及演算法，以及如何撰寫與地理領域相關知應用程式。",
+        "引導學生學習VB之基本語法，尤其在與空間分布有關的課題上。",
+        "學生完成本課程後能獨立完成VB應用程式，瞭解地理資訊系統相關的技術及演算法，作為進一步研發的基礎。"
+    ],
+    "syllabus": "WEEK 01 - Getting Started with MS VS\n\nWEEK 02 - Write your first .NET code -- Event-driven programming\n\nWEEK 03 - Variables and Data types\n\nWEEK 04 - Graphics – vector v.s. raster\n\nWEEK 05 - Vector Coordinates – graphic coordinates v.s. world coordinate\n\nWEEK 06 - Conditional Logic\n\nWEEK 07 - Loops\n\nWEEK 08 - Array (1): One-Dimensional Array\n\nWEEK 09 - Mid-Term Examine\n\nWEEK 10 - Array (2): Multi-Dimensional Array\n\nWEEK 11 - String\n\nWEEK 12 - Text Files\n\nWEEK 13 - Display GIS Data\n\nWEEK 14 - Rotation and Animation\n\nWEEK 15 - Functions and Subs\n\nWEEK 16 - Events\n\nWEEK 17 - VB NET and Multiple Forms\n\nWEEK 18 - Final Examine",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "On-line remote conference / physical instruction of concepts and techniques of Object Oriented programming  and data structure / application in spatial information"
+        },
+        {
+            "type": "討論法",
+            "note": "instruction and CODING at the same time"
+        },
+        {
+            "type": "實驗/實作",
+            "note": "Based of topic, students will be assigned weekly homework due the day before the next class"
+        },
+        {
+            "type": "其他",
+            "note": "There will be weekly reading material before class."
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 20,
+            "note": "There will be weekly homework based of topi discussed in the class"
+        },
+        {
+            "type": "期中考",
+            "weight": 30,
+            "note": "Mid-term will be in-class / on-line remote conference and close book, based on the topics covered in the first half of the quarter."
+        },
+        {
+            "type": "期末考",
+            "weight": 40,
+            "note": "Final will be in-class and close book, based on the topics covered in the whole quarter."
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 5,
+            "note": "participation of the classroom discussion."
+        },
+        {
+            "type": "出席",
+            "weight": 5,
+            "note": "列入作業一部分"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

@@ -1,0 +1,92 @@
+{
+    "year": 110,
+    "term": 2,
+    "name": "物理光學",
+    "teachers": [
+        "邱爾德"
+    ],
+    "department": "HU77",
+    "code": "OEC9002",
+    "credit": 3,
+    "serial": 1308,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 1,
+            "from": 2,
+            "to": 4,
+            "campus": "公館",
+            "classroom": "理圖002"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "9",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程銜接第1學期幾何光學課程內容,介紹與建立學生基礎的物理光學知識，使學生了解物理光學基本原理和應用，並作為未來光學實作與應用之入門工具與知識",
+    "goals": [
+        "光的特性",
+        "光學原理",
+        "光學元件簡介",
+        "光學儀器簡介"
+    ],
+    "syllabus": "【授課方式:16+2週】\n\n**Week****週次**\n\n**Content & Class Schedule (****教學進度****)**\n\n1 (2/14)\n\nCourse Introduction and Overview (課程簡介與導覽)\n\nBasic Mathematics & Physics of Optical Waves\n\n(光波的基本數學與物理)\n\n2 (2/21)\n\nCoherence, Interference of Planewaves, and Dispersion\n\n(同調性、平面波干涉、與色散)\n\n3 (2/8)\n\n**National Holliday**\n\n4 (3/07)\n\nOptical Interferometry, Interferometers, & Applications\n\n(光波干涉學、干涉儀、與其應用)\n\n5 (3/14)\n\n**測驗** **(1):** **\\[Test (1), 2 hours\\];  Q&A on Test Problems {1 hour}**\n\n6 (3/21)\n\nDiffraction (I): Basic Concepts & Mathematics\n\n(繞射的基本原理與數學)\n\n7 (3/28)\n\nDiffraction (II): Point-Spread Function and Diffraction–Limited Two-Point Resolution, Diffraction Gratings & Applications\n\n繞射(二): 繞射極限解析度、繞射光柵、與其應用\n\n8 (4/4)\n\n**National Holliday**\n\n9 (4/11)\n\n**Mid-Term Exam (****期中測驗評量****)       \\[3 hours\\]**\n\n10 (4/18)\n\nPolarization Optics (I): Mathematical & Graphical\n\nRepresentations of Polarization States (光波偏振態)\n\n11 (4/25)\n\nPolarization Optics (II): Jones Calculus & Polarizations Transformation (光波偏振態之調控轉換)\n\n12 (5/02)\n\nPolarization Optics (III): Applications (光波偏振態的應用)\n\n13 (5/09)\n\n**測驗** **(2):** **\\[Test (2), 2 hours\\];  Q&A on Test Problems {1 hour}**\n\n14 (5/16)\n\nIntroduction to Photon Optics  光子學簡介\n\nElementary Laser Theory 雷射原理簡介(二)\n\n15 (5/23)\n\nIntroduction to Holography  全像學簡介\n\n16 (5/30)\n\n**Final Exam (****期末測驗評量****)      \\[3 hours\\]**\n\n17 -18(6/06、06/13)\n\n**Reading Assignment & Report**  **論文導讀與報告**",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": ""
+        },
+        {
+            "type": "問題解決教學",
+            "note": ""
+        },
+        {
+            "type": "合作學習",
+            "note": ""
+        },
+        {
+            "type": "媒體融入教學",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 5,
+            "note": ""
+        },
+        {
+            "type": "期中考",
+            "weight": 25,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 45,
+            "note": ""
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 20,
+            "note": "課堂考試"
+        },
+        {
+            "type": "出席",
+            "weight": 5,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

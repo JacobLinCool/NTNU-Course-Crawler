@@ -1,0 +1,80 @@
+{
+    "year": 109,
+    "term": 2,
+    "name": "計算語言學",
+    "teachers": [
+        "陳正賢"
+    ],
+    "department": "LM21",
+    "code": "ENC2045",
+    "credit": 3,
+    "serial": 1597,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 5,
+            "from": 2,
+            "to": 4,
+            "campus": "本部",
+            "classroom": "雲201"
+        }
+    ],
+    "programs": [],
+    "comment": "教室位於雲和街大樓2樓（地址：雲和街1號），外校學生需申請門禁權限。",
+    "restrict": "◎課程不開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "B",
+    "hours": 3,
+    "description": "Computational Linguistics (CL) is now a very active sub-discipline in applied linguistics. Its main focus is on computational text analytics, which is essentially about leveraging computational tools, techniques, and algorithms to process and understand natural language data (in spoken or textual formats). Therefore, this course aims to introduce useful strategies and common workflows that have been widely adopted by data scientists to extract useful insights from natural language data. In this course, we will focus on textual data. A selective collection of potential topics may include:\n\n•\tA Pipeline for Natural Language Processing\n•\tText Normalization\n•\tText Tokenization\n•\tParsing and Chunking\n•\tIssues for Chinese Language Processing (Word Segmentation)\n•\tFeature Engineering and Text Vectorization\n•\tTraditional Machine Learning\n•\tClassification Models (Naive Bayes, SVM, Logistic Regression)\n•\tCommon Computational Tasks (Sentiment Analysis, Text Clustering, Topic Modeling)\n•\tDeep Learning and Neural Network\n•\tNeural Language Model\n•\tSequence Models (RNN, LSTM/GRU, Sequence-to-sequence Model, Attention-based Models)\n•\tExplainable Artificial Intelligence and Computational Linguistics\n\nThis course is extremely hands-on and will guide the students through classic examples of many task-oriented implementations via in-class theme-based tutorial sessions. The main coding language used in this course is Python. We will make extensive use of the language. It is assumed that you know or will quickly learn how to code in Python. (If you are not sure if you fulfill the prerequisite, please contact the instructor first.)",
+    "goals": [
+        "to meet the need for a genuinely theoretical introduction and basic programming techniques for linguistic purpose"
+    ],
+    "syllabus": "  \n\n**ENC2045: Computational Linguistics**\n======================================\n\n* * *\n\n**<Important!! >**\n==================\n\n*   This course is designed for linguistics majors. If you are NOT a linguistics major, please contact the instructor for course enrollment.\n    ----------------------------------------------------------------------------------------------------------------------------------------\n    \n*   This course has **prerequisites**.  Please visit the [course website](https://alvinntnu.github.io/NTNU_ENC2045/) and read the [FAQ](https://alvinntnu.github.io/NTNU_ENC2045/FAQ.html) very carefully if you are considering taking this course.\n    ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------\n    \n\n* * *\n\n Course Description\n===================\n\nComputational Linguistics (CL) is now a very active sub-discipline in applied linguistics. Its main focus is on the computational text analytics, which is essentially about leveraging computational tools, techniques, and algorithms to _process_ and _understand_ natural language data (in spoken or textual formats). Therefore, this course aims to introduce useful strategies and common workflows that have been widely adopted by data scientists to extract useful insights from natural language data. In this course, we will focus on textual data.\n\nA selective collection of potential topics may include:\n\n*   A Pipeline for Natural Language Processing\n*   Text Normalization\n*   Text Tokenization\n*   Parsing and Chunking\n*   Issues for Chinese Language Processing (Word Segmentation)\n*   Feature Engineering and Text Vectorization\n*   Traditional Machine Learning\n*   Classification Models (Naive Bayes, SVM, Logistic Regression)\n*   Common Computational Tasks:\n    *   Sentiment Analysis\n    *   Tex Clustering and Topic Modeling\n*   Deep Learning and Neural Network\n*   Neural Language Model\n*   Sequence Models\n    *   RNN\n    *   LSTM/GRU\n    *   Sequence-to-sequence Model\n    *   Attention-based Models\n*   Explainable Artificial Intelligence and Computational Linguistics\n\nThis course is extremely hands-on and will guide the students through classic examples of many task-oriented implementations via in-class theme-based tutorial sessions. The main coding language used in this course is Python . We will make extensive use of the language. It is assumed that you know or will quickly learn how to code in Python. In fact, this course assumes that every enrolled student has **working knowledge** of Python. (If you are not sure if you fulfill the prerequisite, please contact the instructor first.)\n\nA test on Python Basics will be conducted on the second week of the class to ensure that every enrolled student fulfills the prerequisite. (To be more specific, you are assumed to have already had working knowledge of all the concepts included in the book, [Lean Python: Learn Just Enough Python to Build Useful Tools](https://www.amazon.com/Lean-Python-Learn-Enough-Useful/dp/1484223845)). Those who fail on the Python basics test are NOT advised to take this course.\n\nPlease note that this course is designed specifically for **linguistics majors** in humanities. For computer science majors, please note that this course will not feature a thorough description of the mathematical operations behind the algorithms. We focus more on the practical implementation.\n\n* * *\n\n Course Schedule\n================\n\n(_The schedule is tentative and subject to change. Please pay attention to the announcements made during the class._)\n\nWeek\n\nTopic\n\nWeek 1\n\nComputational Linguistics Overview + Python Quiz\n\nWeek 2\n\nNLP Pipeline\n\nWeek 3\n\nMachine Learning Basics: Regression and Classification\n\nWeek 4\n\nNaïve Bayes, Logistic Regression\n\nWeek 5\n\nFeature Engineering and Text Vectorization\n\nWeek 6\n\nText Clustering and Topic Modeling\n\nWeek 7\n\nSenitment Analysis\n\nWeek 8\n\nMidterm Exam\n\nWeek 9\n\nNeural Network: A Primer\n\nWeek 10\n\nDeep Learning NLP and Word/Doc Embeddings\n\nWeek 11\n\nSequence Model I: RNN and Neural Language Model\n\nWeek 12\n\nSequence Model II: LSTM and GRU\n\nWeek 13\n\nSequence Model III: Sequence-to-Sequence Model\n\nWeek 14\n\nSeqeunce Model IV: Attention\n\nWeek 15\n\nTransformer, BERT, Transfer Learning, and Explainable AI\n\nWeek 16\n\nFinal Exam\n\nWeek 17\n\nProject-based Assignment\n\nWeek 18\n\nProject-based Assignment\n\n* * *\n\n Course Requirement  \n![](https://alvinntnu.github.io/NTNU_ENC2045/index_files/figure-html/unnamed-chunk-2-1.png)\n=================================================================================================================\n\n* * *\n\n Course Materials\n=================\n\nAll the course materials are available on the course website. Please consult the instructor for the direct link to the course materials. They will be provided as a series of online packets (i.e., handouts, script source codes etc.) on the course website.\n\n* * *\n\n Logistics\n==========\n\n*   Course Website: [ENC2045 Computational Linguistics](https://alvinntnu.github.io/NTNU_ENC2045/)\n*   Instructor’s Email Address: [alvinchen@ntnu.edu.tw](mailto:alvinchen@ntnu.edu.tw)\n*   Instructor’s Name: Alvin Chen\n*   Office Hours: By appointment\n\nIf you have any further questions related to the course, please consult [FAQ](https://alvinntnu.github.io/NTNU_ENC2045/FAQ.html) on our course website or write me at any time at [alvinchen@ntnu.edu.tw](mailto:alvinchen@ntnu.edu.tw).\n\n Disclaimer & Agreement\n=======================\n\nWhile I have made every attempt to ensure that the information contained on the Website is correct, I am not responsible for any errors or omissions, or for the results obtained from the use of this information. All information on the Website is provided “as is”, with no guarantee of completeness, accuracy, timeliness or of the results obtained from the use of this information, and without warranty of any kind, express or implied.\n\nYou may print a copy of any part of this website for your personal or non-commercial use. Without the author’s prior written consent, you cannot disclose confidential information of the website (e.g., log-in username and password) to any third party.",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": ""
+        },
+        {
+            "type": "問題解決教學",
+            "note": ""
+        },
+        {
+            "type": "實驗/實作",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 30,
+            "note": "Programming Assignments"
+        },
+        {
+            "type": "期中考",
+            "weight": 30,
+            "note": "Midterm"
+        },
+        {
+            "type": "期末考",
+            "weight": 30,
+            "note": "Final"
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 10,
+            "note": "Attendance and Class Participation"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

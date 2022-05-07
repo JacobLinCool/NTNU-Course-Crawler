@@ -1,0 +1,67 @@
+{
+    "year": 110,
+    "term": 1,
+    "name": "蛋白質工程",
+    "teachers": [
+        "李冠群"
+    ],
+    "department": "SM43",
+    "code": "BIC0186",
+    "credit": 3,
+    "serial": 3331,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 7,
+            "to": 9,
+            "campus": "公館",
+            "classroom": "Ｓ302"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程不開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程將介紹蛋白質工程的原理、方法、與應用。包括藉遺傳工程的技術，改進天然蛋白質的穩定性與功能、或是改變蛋白質與其配位體結合特性，以創造新的具有優良特性的蛋白質分子，製造出在醫學或工業上有用的蛋白質或藥物。\n課程主要是以文獻討論與報告的方式進行，我會提供幾篇關於蛋白質工程最新的綜述論文 (會置於Moodle)給修課同學來閱讀，每一篇的內容我會先導讀，每一位修課同學必須選擇一篇(或兩人一篇)來精讀，要輪流做報告，並且與大家一起來討論。\n\n因為蛋白質屬於生物化學範疇，因此修此門課的同學應該要修過生物化學，除了生物化學，如果還修過分子生物學則更佳，修習本課程才能得心應手，有所獲益。請同學斟酌修課。",
+    "goals": [
+        "介紹蛋白質工程的原理、方法、與應用"
+    ],
+    "syllabus": "1 /      Guidelines for the Functional Analysis of Engineered and Mutant Enzymes\n\n2 /            Engineering Enantioselectivity in Enzyme-Catalyzed Reactions\n\n3 /      Protein Dynamics and the Evolution of Novel Protein Function\n\n4 /      Structural Frameworks Suitable for Engineering\n\n5 /      Inteins in Protein Engineering\n\n6 /      From prospecting to Product – Industrial Metagenomics Is Coming of Age\n\n7 /      Computational Protein Design\n\n8 /      Assessing and Exploiting the Persistence of Substrate Ambiguity In Modern Protein Catalysts\n\n9 /      Designing Programmable Protein Switches\n\n10 /    The Cyclization of Peptides and Proteins with Inteins\n\n11 /    A Method for Rapid Directed Evolution\n\n12 /       Circular Permutation of Proteins\n\n13 /    Chimeragenesis in Protein Engineering\n\n14 /       Protein Generation Using a Reconstituted System\n\n15 /    Yeast Surface Display in Protein Engineering and Analysis\n\n16 /       In Vitro Compartmentalization (IVC) and other High-Throughput Screens of Enzyme Libraries\n\n17 /    Confocal and Conventional Fluorescence-Based High Throughput Screening in Protein Engineering\n\n18 /    Altering Enzyme Substrate and Cofactor Specificity via Protein Engineering",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "期中考",
+            "weight": 40,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 40,
+            "note": ""
+        },
+        {
+            "type": "報告",
+            "weight": 20,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

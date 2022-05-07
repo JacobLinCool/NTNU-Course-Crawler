@@ -1,0 +1,106 @@
+{
+    "year": 110,
+    "term": 1,
+    "name": "英文（一）",
+    "teachers": [
+        "李金安"
+    ],
+    "department": "CU",
+    "code": "00UB7A2",
+    "credit": 2,
+    "serial": 252,
+    "group": "G",
+    "quota": {
+        "limit": 35,
+        "additional": 0
+    },
+    "schedule": [
+        {
+            "day": 5,
+            "from": 1,
+            "to": 2,
+            "campus": "本部",
+            "classroom": "正202"
+        }
+    ],
+    "programs": [],
+    "comment": "文學院(國文系、歷史系、地理系)、科技學院(工教系、科技系、圖傳系、機電系、電機系)、藝術學院(美術系、設計系)、體育系、台文系、華語系(國華組)、車能學位學程",
+    "restrict": "◎第一階段需人工加選◎第二階段需人工加選◎加退選階段需人工加選",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 2,
+    "description": "共同科英文（一）課程為一學年課程，每學期兩學分，係為非英語系學生所開設的課程。目標在幫助大一學生活用中學時期所累積的英語知識，提昇英語聽、說、讀、寫整體的溝通能力。為達此目標，本課程要求教師盡量用英語上課，努力營造一個豐富的英語環境，讓學生不但有充分機會以英語參與課堂活動，且樂於使用英語與同學及老師溝通。",
+    "goals": [
+        "增進學生英語溝通表達能力",
+        "透過參與課程活動促進團隊精神",
+        "透過多面向英語閱讀促使學生了解多元文化，拓展學生國際化視野",
+        "透過課堂討論培養批判精神",
+        "提升學生英語學習動機及自主學習興趣"
+    ],
+    "syllabus": "**本學期實施【16+2週】課程安排，實際上課內容，將視教學成效調整修正。**\n\n**Quality talk +Lexile / Scholastic Literacy Pro 為本課程學習重點。**\n\n**因應疫情，配合學校政策，本學期，本課程，目前採取 moodle + google meet 遠距教學模式。**\n\nWeek\n\nDate\n\nTopic\n\nAssignment (due)\n\nW1\n\n0924\n\nOrientation\n\nW2\n\n1001\n\nIntroduction & grouping\n\nW3\n\n1008\n\nUnit 1 + quiz\n\nW4\n\n1015\n\nQuality talk\n\nBBC\n\nW5\n\n1022\n\nBook club (Lexile test)\n\nW6\n\n1029\n\nUnit 2 + quiz\n\nW7\n\n1105\n\nQuality talk\n\nVOA\n\nW8\n\n1112\n\nBook club\n\nW9\n\n1119\n\nUnit 3 + quiz\n\nW10\n\n1126\n\nQuality talk\n\nCNN\n\nW11\n\n1203\n\nCultural exchange\n\nW12\n\n1210\n\nSports Day\n\nW13\n\n1217\n\nUnit 4 + quiz\n\nW14\n\n1224\n\nQuality talk\n\nReuters\n\nW15\n\n1231\n\nBridge Holiday\n\nW16\n\n0107\n\nBook club\n\nW17\n\n0114\n\nFlexible\n\nW18\n\n0121\n\nFlexible",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "lecture"
+        },
+        {
+            "type": "討論法",
+            "note": "discussion"
+        },
+        {
+            "type": "合作學習",
+            "note": "group work"
+        },
+        {
+            "type": "實驗/實作",
+            "note": "on-line reading"
+        },
+        {
+            "type": "媒體融入教學",
+            "note": "Scholastic Literacy Pro"
+        },
+        {
+            "type": "專題研究",
+            "note": "book club"
+        },
+        {
+            "type": "其他",
+            "note": "lexile"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 20,
+            "note": "on-line news reading"
+        },
+        {
+            "type": "期中考",
+            "weight": 10,
+            "note": "lexile test"
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 20,
+            "note": "quality talk + discussion"
+        },
+        {
+            "type": "出席",
+            "weight": 10,
+            "note": "moodle sign-in"
+        },
+        {
+            "type": "報告",
+            "weight": 20,
+            "note": "book club"
+        },
+        {
+            "type": "其他",
+            "weight": 20,
+            "note": "vocabulary quiz"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

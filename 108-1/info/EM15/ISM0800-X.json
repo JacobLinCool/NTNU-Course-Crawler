@@ -1,0 +1,85 @@
+{
+    "year": 108,
+    "term": 1,
+    "name": "資訊檢索原理與應用",
+    "teachers": [
+        "曾元顯"
+    ],
+    "department": "EM15",
+    "code": "ISM0800",
+    "credit": 3,
+    "serial": 540,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 3,
+            "from": 7,
+            "to": 9,
+            "campus": "本部",
+            "classroom": "教室自排"
+        }
+    ],
+    "programs": [],
+    "comment": "圖資所研討室A",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "資訊檢索所涵蓋的意義與範疇十分廣泛，就圖書資訊學角度，資訊檢索是一門銜接圖書資訊學與現代資訊科技的領域知識；就資訊學角度，資訊檢索已擴展到知識管理、資料科學、自然語言處理、人工智慧等領域，成為必須具備的知識與技能。資訊檢索研究不斷嘗試運用電腦及網路科技對資訊在篩選、擷取、儲存、分類、索引、摘要、檢索、傳播、及分享等進行提昇。資訊檢索的原理與應用不僅是跨領域的基礎知識，也是各種產業應用、學術研究的重要方向。\n本課程將以搜尋引擎系統為主體，介紹其相關技術與應用，讓學生建立資訊檢索之相關基礎知識概念。同時，課程中也將針對近年來一些重要資訊檢索趨勢進行研討，特別是主流國際學術性會議所包涵之研究議題，如深度學習、文本自動生成（如對話系統）。此外，課程也將安排網路搜尋引擎、文件分類、主題歸類、自動摘要、意見分析、關聯詞擷取、文本生成之實作，希望同學除熟悉資訊檢索之相關理論外，也能學會實際應用。",
+    "goals": [
+        "瞭解資訊檢索之重要相關理論‧ 瞭解資訊使用者之檢索行為模式‧ 具備資訊檢索系統之實作與評鑑技能‧ 掌握資訊檢索研究發展趨勢"
+    ],
+    "syllabus": "週次\n\n課程內容\n\n備註\n\n一\n\nCourse Overview\n\n二\n\nSearch Engines and Information Retrieval\n\nChap.1\n\n三\n\nArchitecture of a Search Engine\n\nChap. 2\n\n四\n\n系統實作指導 I\n\n五\n\nCrawls and Feeds; Crawler Implementation\n\n Chap. 3\n\n六\n\nProcessing Text, Term Extraction, Word Embedding\n\n Chap. 4\n\n七\n\n系統實作指導 II\n\n \n\n八\n\nRanking with Indexes, Page Ranking\n\nChap. 5\n\n九\n\nQueries and Interfaces, Chatbot Q&A Systems\n\nChap. 6\n\n十\n\nRetrieval Models, Knowledge Graph Reasoning\n\nChap. 7\n\n十一\n\n系統實作指導 III\n\n十二\n\nEvaluating Search Engines, Evaluation Metrics\n\nChap. 8\n\n十三\n\nClassification and Clustering, Machine Learning\n\nChap. 9\n\n十四\n\nSocial Search and Human Factors\n\nChap. 10\n\n十五\n\nBeyond Bag of Words, Deep Learning\n\nChap. 11\n\n十六\n\n演講：User Information Retrieval Behavior\n\n十七\n\n演講：Mobile User Interface\n\n十八\n\n期末系統展示",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "以投影片講述課程內容"
+        },
+        {
+            "type": "討論法",
+            "note": "以即時回應系統（IRS：http://pro.ccr.tw/）詢問同學反應，並激發討論"
+        },
+        {
+            "type": "實驗/實作",
+            "note": "給予搜尋引擎、文件分類、主題歸類等工具，請同學安裝使用"
+        },
+        {
+            "type": "其他",
+            "note": "論文研讀"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 20,
+            "note": "會有幾次作業，如安裝相關系統並呈現結果、線上隨堂考、線上遠距小考"
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 10,
+            "note": "課堂發問、回應、討論情形"
+        },
+        {
+            "type": "出席",
+            "weight": 10,
+            "note": "課堂出席情形"
+        },
+        {
+            "type": "報告",
+            "weight": 30,
+            "note": "依每次上課指定閱讀章節內容，進行口頭報告及討論"
+        },
+        {
+            "type": "專題",
+            "weight": 30,
+            "note": "課程中將教授相關Open Source Software。每位同學需規劃一主題，利用所學習到的工具，實際完成一小型網路搜尋引擎、文件分類、主題歸類、自動摘要、文本生成，並於期末展示成果。"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

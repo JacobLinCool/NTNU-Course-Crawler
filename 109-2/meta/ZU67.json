@@ -1,0 +1,173 @@
+[
+    {
+        "year": 109,
+        "term": 2,
+        "name": "密碼學",
+        "teachers": [
+            "李華介"
+        ],
+        "department": "SU40",
+        "code": "MAC9016",
+        "credit": 3,
+        "serial": 2741,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 2,
+                "to": 4,
+                "campus": "公館",
+                "classroom": "數學館M210"
+            }
+        ],
+        "programs": [
+            "科學計算學程"
+        ],
+        "comment": "",
+        "restrict": "",
+        "form_s": "",
+        "classes": "9",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 2,
+        "name": "影像處理與分析（一）",
+        "teachers": [
+            "陳建隆"
+        ],
+        "department": "SU40",
+        "code": "MAC9022",
+        "credit": 3,
+        "serial": 4545,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 6,
+                "to": 8,
+                "campus": "公館",
+                "classroom": "教室自排"
+            }
+        ],
+        "programs": [
+            "理工實作學程",
+            "科學計算學程"
+        ],
+        "comment": "",
+        "restrict": "",
+        "form_s": "",
+        "classes": "9",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 2,
+        "name": "程式設計",
+        "teachers": [
+            "楊青育"
+        ],
+        "department": "SU40",
+        "code": "MAU0032",
+        "credit": 3,
+        "serial": 2758,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 6,
+                "to": 8,
+                "campus": "公館",
+                "classroom": "理圖807"
+            }
+        ],
+        "programs": [
+            "科學計算學程"
+        ],
+        "comment": "",
+        "restrict": "",
+        "form_s": "1",
+        "classes": "1",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 2,
+        "name": "程式設計",
+        "teachers": [
+            "樂美亨"
+        ],
+        "department": "SU40",
+        "code": "MAU0032",
+        "credit": 3,
+        "serial": 2763,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 5,
+                "from": 6,
+                "to": 8,
+                "campus": "公館",
+                "classroom": "理圖807"
+            }
+        ],
+        "programs": [
+            "科學計算學程"
+        ],
+        "comment": "",
+        "restrict": "",
+        "form_s": "1",
+        "classes": "2",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 2,
+        "name": "程式設計",
+        "teachers": [
+            "范洪源"
+        ],
+        "department": "SU40",
+        "code": "MAU0032",
+        "credit": 3,
+        "serial": 2768,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 6,
+                "to": 8,
+                "campus": "公館",
+                "classroom": "理圖807"
+            }
+        ],
+        "programs": [
+            "科學計算學程"
+        ],
+        "comment": "",
+        "restrict": "",
+        "form_s": "1",
+        "classes": "3",
+        "dept_group": ""
+    }
+]

@@ -1,0 +1,79 @@
+{
+    "year": 108,
+    "term": 2,
+    "name": "分散式處理系統",
+    "teachers": [
+        "葉耀明"
+    ],
+    "department": "SM47",
+    "code": "CSC0020",
+    "credit": 3,
+    "serial": 2628,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 8,
+            "to": 10,
+            "campus": "公館",
+            "classroom": "Ｃ003"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程討論分散式系統的基本理論與實務。透過分散式系統運作模型、程序間通訊、遠端呼叫技術、資訊網服務技術、群播技術、網路工作流程技術等重要分散式系統技術的研討來建立研究探討分散式系統的能力。並對時間同步、分散式事件排序、資料複製等技術做深入討論。",
+    "goals": [
+        "熟習分散式系統的基本理論",
+        "精熟分散式系統開發實務",
+        "建立分散式系統研究基礎",
+        "研討分散式系統未來發展"
+    ],
+    "syllabus": "一、基本概念：\n\n1.      Introduction\n\n2.      System Model\n\n3.      Inter-process Communication\n\nRemote Procedure Call: Client/Server\n\nObject-oriented Remote Procedure Call: CORBA\n\nXML-Based Remote Procedure Call: SOAP\n\n4.      Multicasting\n\n5.      Internet Workflow\n\n6.      Cloud Computing\n\n二、專題技術\n\n1.      Time Synchronization\n\n2.      Ordering of Events\n\nData Replication",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "課堂講授"
+        },
+        {
+            "type": "討論法",
+            "note": "學生報告研讀的論文，並做即時討論"
+        },
+        {
+            "type": "實驗/實作",
+            "note": "學生實作系統作業"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 30,
+            "note": "開發分散式Web Services服務作業"
+        },
+        {
+            "type": "期末考",
+            "weight": 30,
+            "note": "測驗分散式系統基本概念"
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 20,
+            "note": "討論分散式系統未來趨勢"
+        },
+        {
+            "type": "報告",
+            "weight": 20,
+            "note": "報告分散式系統論文，並分享心得"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

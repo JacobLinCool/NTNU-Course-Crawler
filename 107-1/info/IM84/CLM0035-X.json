@@ -1,0 +1,63 @@
+{
+    "year": 107,
+    "term": 1,
+    "name": "學術議題研討 （一）",
+    "teachers": [
+        "陳振宇"
+    ],
+    "department": "IM84",
+    "code": "CLM0035",
+    "credit": 1,
+    "serial": 1375,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 5,
+            "from": 8,
+            "to": 8,
+            "campus": "本部",
+            "classroom": "教室自排"
+        }
+    ],
+    "programs": [],
+    "comment": "上課教室：綜10樓華語系教室",
+    "restrict": "允許重複修 ◎課程不開放上修",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 1,
+    "description": "此門課是華語教學系主辦的平均兩週一次的學術研討會 (次數通常會更多，但盡量避開期末時間舉行)，每次1.5-2小時。每次邀請一位專家學者前來進行學術演講。",
+    "goals": [
+        "To be able to understand the basic principles and themes in linguistics, psychology, second language acquisition.",
+        "To be able to develop a research hypothesis on a particular domain of language teaching, learning, and second language acquisition."
+    ],
+    "syllabus": "9/13第一週師生相互認識、課程介紹  \n9/20第二週（彈性時間）  \n9/27第三週（邀請中）  \n10/4第四週（邀請中）  \n10/11 第五週（邀請中）  \n10/18 第六週（邀請中）  \n10/25 第七週（邀請中）  \n11/1第八週（邀請中）  \n11/8第九週（邀請中）  \n11/15 第十週（邀請中）  \n11/22 第十一週（邀請中）  \n11/29 第十二週（邀請中）  \n12/6第十三週（邀請中）  \n12/13 第十四週（邀請中）  \n12/20 第十五週（邀請中）  \n12/27 第十六週（邀請中）  \n1/3 第十七週（彈性時間）  \n1/10第十八週（彈性時間）",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "由學者專家以特定主題進行演講"
+        },
+        {
+            "type": "討論法",
+            "note": "學生於演講中或演講後提問並討論"
+        }
+    ],
+    "grading": [
+        {
+            "type": "出席",
+            "weight": 50,
+            "note": "準時出席至少8次演講，並全程聆聽參與。完成8次者得分50%，未完成8次者得分0%。"
+        },
+        {
+            "type": "報告",
+            "weight": 50,
+            "note": "每次聆聽演講後繳交一頁心得報告，共8份心得報告。全部繳交者得分50%，未全部繳交者得分0%。"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

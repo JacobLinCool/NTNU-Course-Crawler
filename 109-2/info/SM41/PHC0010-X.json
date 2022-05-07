@@ -1,0 +1,64 @@
+{
+    "year": 109,
+    "term": 2,
+    "name": "古典力學",
+    "teachers": [
+        "李沃龍"
+    ],
+    "department": "SM41",
+    "code": "PHC0010",
+    "credit": 3,
+    "serial": 2650,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 3,
+            "from": 2,
+            "to": 4,
+            "campus": "公館",
+            "classroom": "理圖002"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "熟悉力學的經典理論與基本技術，以為日後學習進階理論物理的基礎。",
+    "goals": [
+        "瞭解古典力學基本觀念與理論",
+        "加強物理思維與解題能力"
+    ],
+    "syllabus": "1\\. Hamilton’s Variational Principle  \n2\\. Symmetry and Conservation Laws  \n3\\. Central Force Fields  \n4\\. Kepler’s Problem  \n5\\. Scattering  \n6\\. Motions in a Non-Inertial Frame of Reference  \n7\\. Hamiltons Canonical Equations  \n8. Poisson’s Bracket & Generating Functions  \n9. Canonical Transformations  \n10\\. Small Oscillations",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "期中考",
+            "weight": 35,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 35,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

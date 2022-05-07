@@ -1,0 +1,71 @@
+{
+    "year": 109,
+    "term": 1,
+    "name": "計算機在物理的應用（一）",
+    "teachers": [
+        "高賢忠"
+    ],
+    "department": "SU41",
+    "code": "PHU0029",
+    "credit": 2,
+    "serial": 2896,
+    "group": "",
+    "quota": {
+        "limit": 40,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 1,
+            "from": 9,
+            "to": 10,
+            "campus": "公館",
+            "classroom": "理圖801"
+        }
+    ],
+    "programs": [
+        "天文重力學程"
+    ],
+    "comment": "",
+    "restrict": "",
+    "form_s": "1",
+    "classes": "2",
+    "dept_group": "",
+    "hours": 2,
+    "description": "提供網路資訊科技相關資訊,培養物理學習所需相關資訊科技。",
+    "goals": [
+        "學習數值分析方法及計算基本的物理問題",
+        "學習使用試算表",
+        "學習使用數學套裝軟體"
+    ],
+    "syllabus": "介紹與物理相關的計算機基本使用和觀念，使學生能夠有效利用計算機做為學習物理的工具。  \n1.個人電腦及主機的基本操作、作業系統的基本觀念  \n2.一些與物理工作相關的常用應用軟體的介紹  \n3.計算機的原理和結構的基本觀念  \n4.電腦語言基本認識-程式結構、變數運算、使用、程式流程的控制和輸入輸出等  \n  \n1.每週上課  \n2.交作業  \n3.期中/期末考",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "實驗/實作",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "期中考",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 40,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

@@ -1,0 +1,515 @@
+[
+    {
+        "year": 108,
+        "term": 2,
+        "name": "書報討論（一）",
+        "teachers": [
+            "許陳鑑"
+        ],
+        "department": "HM75",
+        "code": "AEC8001",
+        "credit": 1,
+        "serial": 1104,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 3,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "教202會議廳"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "允許重複修 ◎課程開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 2,
+        "name": "書報討論（二）",
+        "teachers": [
+            "王嘉斌"
+        ],
+        "department": "HM75",
+        "code": "AEC8002",
+        "credit": 1,
+        "serial": 1105,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 3,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "教202會議廳"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "允許重複修 ◎課程開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 2,
+        "name": "數位控制系統",
+        "teachers": [
+            "蔣欣翰"
+        ],
+        "department": "HM75",
+        "code": "AEC8004",
+        "credit": 3,
+        "serial": 1106,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 3,
+                "to": 5,
+                "campus": "本部",
+                "classroom": "研討六"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎必須先修過【AEU0043  控制系統】 ◎課程開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 2,
+        "name": "模糊控制",
+        "teachers": [
+            "王偉彥"
+        ],
+        "department": "HM75",
+        "code": "AEC8014",
+        "credit": 3,
+        "serial": 1107,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 5,
+                "from": 2,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "電機系4F會議室"
+            }
+        ],
+        "programs": [],
+        "comment": "上課教室：4F會議室。",
+        "restrict": "◎必須先修過【AEU0043  控制系統】、【AEC8006  線性系統理論】 ◎課程開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 2,
+        "name": "智慧型人形機器人",
+        "teachers": [
+            "包傑奇"
+        ],
+        "department": "HM75",
+        "code": "AEC8017",
+        "credit": 3,
+        "serial": 4517,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 2,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "電機系4F會議室"
+            }
+        ],
+        "programs": [],
+        "comment": "教室：4F會議室",
+        "restrict": "◎課程開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 2,
+        "name": "圖形識別",
+        "teachers": [
+            "葉家宏"
+        ],
+        "department": "HM75",
+        "code": "AEC8020",
+        "credit": 3,
+        "serial": 1109,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 7,
+                "to": 9,
+                "campus": "本部",
+                "classroom": "工511"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎課程開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 2,
+        "name": "隨機程序",
+        "teachers": [
+            "黃政吉"
+        ],
+        "department": "HM75",
+        "code": "AEC8021",
+        "credit": 3,
+        "serial": 1110,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 5,
+                "from": 8,
+                "to": 10,
+                "campus": "本部",
+                "classroom": "工511"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎必須先修過【AEC8025  工程機率與統計】 ◎課程開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 2,
+        "name": "通訊系統電腦模擬",
+        "teachers": [
+            "黃政吉"
+        ],
+        "department": "HM75",
+        "code": "AEC8023",
+        "credit": 3,
+        "serial": 1111,
+        "group": "",
+        "quota": {
+            "limit": 40,
+            "additional": 16
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 7,
+                "to": 9,
+                "campus": "本部",
+                "classroom": "多媒體與通訊實驗室"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎課程開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 2,
+        "name": "類比數位及數位類比轉換電路",
+        "teachers": [
+            "郭建宏"
+        ],
+        "department": "HM75",
+        "code": "AEC8029",
+        "credit": 3,
+        "serial": 1112,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 6,
+                "to": 8,
+                "campus": "本部",
+                "classroom": "電機系電子實驗室"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎課程開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 2,
+        "name": "電腦網路",
+        "teachers": [
+            "王嘉斌"
+        ],
+        "department": "HM75",
+        "code": "AEC8035",
+        "credit": 3,
+        "serial": 1113,
+        "group": "",
+        "quota": {
+            "limit": 40,
+            "additional": 16
+        },
+        "schedule": [
+            {
+                "day": 5,
+                "from": 2,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "多媒體與通訊實驗室"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎課程開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 2,
+        "name": "積體電路與靜電放電防護設計實務",
+        "teachers": [
+            "林群祐"
+        ],
+        "department": "HM75",
+        "code": "AEC8041",
+        "credit": 3,
+        "serial": 1114,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 6,
+                "to": 8,
+                "campus": "本部",
+                "classroom": "多媒體與通訊實驗室"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎課程開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 2,
+        "name": "類神經網路",
+        "teachers": [
+            "洪欽銘",
+            "陳瑄易"
+        ],
+        "department": "HM75",
+        "code": "AEC8044",
+        "credit": 3,
+        "serial": 1115,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 7,
+                "to": 9,
+                "campus": "本部",
+                "classroom": "電機系4F會議室"
+            }
+        ],
+        "programs": [],
+        "comment": "上課教室：4F會議室。",
+        "restrict": "◎課程開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 2,
+        "name": "多媒體網路",
+        "teachers": [
+            "戴建耘"
+        ],
+        "department": "HM75",
+        "code": "AEC8050",
+        "credit": 3,
+        "serial": 1116,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 2,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "工209"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎課程開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 2,
+        "name": "演化式計算",
+        "teachers": [
+            "許陳鑑"
+        ],
+        "department": "HM75",
+        "code": "AEC8057",
+        "credit": 3,
+        "serial": 1118,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 7,
+                "to": 9,
+                "campus": "本部",
+                "classroom": "研討六"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎課程開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 2,
+        "name": "機器人視覺",
+        "teachers": [
+            "包傑奇"
+        ],
+        "department": "HM75",
+        "code": "AEC8060",
+        "credit": 3,
+        "serial": 1119,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 7,
+                "to": 9,
+                "campus": "本部",
+                "classroom": "研討六"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎課程開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 2,
+        "name": "智慧型移動機器人",
+        "teachers": [
+            "蔣欣翰"
+        ],
+        "department": "HM75",
+        "code": "AEC8061",
+        "credit": 3,
+        "serial": 1120,
+        "group": "",
+        "quota": {
+            "limit": 40,
+            "additional": 16
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 9,
+                "to": 10,
+                "campus": "本部",
+                "classroom": "多媒體與通訊實驗室"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎課程開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    }
+]

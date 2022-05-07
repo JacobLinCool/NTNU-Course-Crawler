@@ -1,0 +1,73 @@
+{
+    "year": 107,
+    "term": 2,
+    "name": "電子計算機之應用",
+    "teachers": [
+        "劉秀嫚"
+    ],
+    "department": "EM07",
+    "code": "CEC0058",
+    "credit": 2,
+    "serial": 489,
+    "group": "",
+    "quota": {
+        "limit": 25,
+        "additional": 5
+    },
+    "schedule": [
+        {
+            "day": 3,
+            "from": 10,
+            "to": 11,
+            "campus": "本部",
+            "classroom": "教404"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 2,
+    "description": "本課程為碩士班研究方法之共同選修課程。教師將以講述法引導學生認識各種主要統計方法的使用目的與適用時機以及社會科學統計套裝軟體（SPSS）。另一方面，則希冀藉由教師講述與示範以及學生模擬演練，幫助學生學習並熟悉以SPSS統計軟體進行資料的處理、分析與解釋。",
+    "goals": [
+        "認識各種統計方法的適用時機，並能運用社會科學統計套裝軟體（SPSS）進行量化資料的分析。",
+        "依據論文寫作格式呈現並與人溝通資料分析結果。",
+        "省思量化資料分析的倫理議題。"
+    ],
+    "syllabus": "1.  Introduction to SPSS   \n    \n2.   Data Preparation   \n    \n3.  Bivariate Correlations   \n    \n4.  t test   \n    \n5.  One-way ANOVA   \n    \n6.  Factorial ANOVA   \n    \n7.  ANCOVA   \n    \n8.  MANOVA   \n    \n9.  Multiple Regression   \n    \n10.  Item Analysis and reliability analysis  \n    \n11.  Factor Analysis",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "以講述法引導學生認識統計方法的使用目的與適用時機以及社會科學統計套裝軟體（SPSS）"
+        },
+        {
+            "type": "合作學習",
+            "note": "3-4人一組，進行研究問題的資料蒐集與統計分析，並運用至少六種課堂上所授統計方法（至少三種推論統計）進行資料的統計分析與報告（含口頭與書面）。"
+        },
+        {
+            "type": "實驗/實作",
+            "note": "學生上機實習、作業實作。"
+        }
+    ],
+    "grading": [
+        {
+            "type": "期中考",
+            "weight": 40,
+            "note": "紙筆測驗與上機測試。"
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 20,
+            "note": "上課準時出席（遲到一次扣學期總分1分；除病假與公假外，缺席一次扣學期總分2分）、於課堂進行時專注傾聽、投入各項班級與小組活動。"
+        },
+        {
+            "type": "報告",
+            "weight": 40,
+            "note": "每組3-4人，運用至少六種課堂上所授統計方法（至少三種推論統計）進行資料分析與全文報告撰寫（參考架構詳moodle之說明檔），格式依APA第六版，並在最後一週進行口頭報告。可使用現成資料檔案或另行擬定研究問題並蒐集資料。"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

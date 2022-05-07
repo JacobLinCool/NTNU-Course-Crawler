@@ -1,0 +1,66 @@
+{
+    "year": 107,
+    "term": 2,
+    "name": "財務管理",
+    "teachers": [
+        "林建榮"
+    ],
+    "department": "ZU83",
+    "code": "PGUA003",
+    "credit": 3,
+    "serial": 3149,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 5,
+            "from": 6,
+            "to": 8,
+            "campus": "本部",
+            "classroom": "誠207"
+        }
+    ],
+    "programs": [
+        "基礎管理學程"
+    ],
+    "comment": "",
+    "restrict": "◎第一階段限 基礎管理學程",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程目的在於研究公司的投資決策。其主要目標在於教導學生，如何利用財務資訊與理論，來對公司做出決策。",
+    "goals": [
+        "提升企業商管方面的知識與認知",
+        "具備職能導向的能力"
+    ],
+    "syllabus": "**Week Date Topic**\n\n1.      Orientation to the class and Introduction to Financial Management.\n\n**Ch1:**\n\ndiscuss syllabus and course assignments, explore student’s expectation about this course\n\n2.      Financial Statement and Financial Cash Flow\n\n**Ch2:**\n\n   Review of important concepts in financial statements\n\n   The calculation of cash flow\n\n3.      Financial Statement Analysis\n\n**Ch3:**\n\n   Review of important financial ratios\n\n4.      Time Value of Money\n\n**Ch4:**\n\n   The present value and future value for cash flow and annuity\n\n5.      Valuation of Bonds\n\n**Ch5:**\n\n   The characteristics of bonds\n\nThe valuation of various bonds\n\n   Term structure of interest rate\n\n6.      Valuation of Stocks\n\n**Ch6:**\n\n   The valuation of common stock under different assumption\n\nThe characteristics of common stocks\n\n7.      NPV and other criteria of Investing Decisions\n\n**Ch7:**\n\n   NPV, Payback period, AAR, IRR, and PI\n\n8.      Capital Budgeting\n\n**Ch8**\n\nHow to evaluate a project based on NPV rule\n\n9.      Mid-term Exam\n\n10.  Strategic Analysis in NPV\n\n**Ch9:**\n\nSensitivity analysis, decision tree, break-even analysis and real options\n\n11.  Risk and Return in Capital Market \n\n**Ch10:**\n\nIntroduce the basic concept of risk and return\n\n12.  The CAPM\n\n**Ch11:**\n\nIntroduce portfolio and derive the relation between risk and return\n\n13.  Cost of Capital\n\n**Ch12:**\n\nHow the cost of capital is decided\n\nEvaluate a risky project\n\n14.  Introduction to Efficient Markets\n\n**Ch13:**\n\nThe concept of efficient markets\n\n15.  Introduction to Capital Structure\n\n**Ch14:**\n\nAnalyze a firm’s financing choice\n\nThe MM theorem with no taxes\n\nThe MM theorem with corporate taxes\n\n16.  Capital Structure under imperfect Markets\n\n**Ch15:**\n\nIntroduce the agency cost, bankruptcy cost, personal taxes and information asymmetry to corporate financing decision\n\n17.  Dividend Policy\n\n**Ch16:**\n\n   The cash payout decision\n\n   Cash dividend, stock dividend and share repurchase\n\n18.Final Exam.",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "詳細講述教材內容，探討理論和實務之議題，從公司的基本介紹到各種工具和評價模式的運用，課堂中針對不同議題互動討論、提出不同觀點和解決方案，再藉由個案的討論分析達到訓練學生思辨、增進溝通能力。\nExplain textbook content and discuss different methods and viewpoints for any given scenario."
+        }
+    ],
+    "grading": [
+        {
+            "type": "期中考",
+            "weight": 40,
+            "note": "Problems solving and/or short essay and/or Multiple choice."
+        },
+        {
+            "type": "期末考",
+            "weight": 40,
+            "note": "Problems solving and/or short essay and/or Multiple choice."
+        },
+        {
+            "type": "其他",
+            "weight": 20,
+            "note": "Problems solving and short essay(含隨堂測驗,課堂討論,出席)"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

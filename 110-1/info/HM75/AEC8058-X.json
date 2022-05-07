@@ -1,0 +1,61 @@
+{
+    "year": 110,
+    "term": 1,
+    "name": "深度學習",
+    "teachers": [
+        "康立威"
+    ],
+    "department": "HM75",
+    "code": "AEC8058",
+    "credit": 3,
+    "serial": 1205,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 14
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 7,
+            "to": 9,
+            "campus": "本部",
+            "classroom": "電機系電子實驗室"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "",
+    "goals": [
+        "Let students understand the theories, latest developments, and applications of deep learning.",
+        "Let students understand how to apply deep learning network techniques to solve engineering problems.",
+        "Let students have the ability to write deep learning programs.",
+        "Let students have the ability of project design in terms of problem description, problem analysis, and problem solving."
+    ],
+    "syllabus": "【授課方式：16+2週】\n\n第一週   深度學習簡介\n\n第二週   捲積神經網路簡介\n\n第三週   捲積神經網路訓練與測試\n\n第四週   經典深度學習模型-LeNet及AlexNet及其於數字辨識及影像分類之應用\n\n第五週   經典深度學習模型-GoogleNet及VGG Net及其於影像分類之應用\n\n第六週   經典深度學習模型-ResNet及DenseNet及其於影像分類之應用\n\n第七週   深度學習實務(I)\n\n第八週   期中考\n\n第九週   生成對抗網絡 (Generative Adversarial Network) 及其應用(I)\n\n第十週   深度學習實務(II)\n\n第十一週 生成對抗網絡 (Generative Adversarial Network) 及其應用(II)\n\n第十二週 深度學習於機器視覺之應用(I): 物件偵測及辨識\n\n第十三週 深度學習於機器視覺之應用(II): 人臉辨識\n\n第十四週 深度學習於機器視覺之應用(III): 影像/視訊品質強化\n\n第十五週 深度學習之進階應用\n\n第十六週 期末考\n\n第十七週 專題研討(I)\n\n第十八週 專題研討(II)",
+    "methodologies": [
+        {
+            "type": "Formal lecture",
+            "note": "以投影片或影音數位教材講述課程內容"
+        }
+    ],
+    "grading": [
+        {
+            "type": "Midterm Exam",
+            "weight": 50,
+            "note": "請修課同學研讀相關研究論文、製作投影片並上台進行簡報"
+        },
+        {
+            "type": "Final exam",
+            "weight": 50,
+            "note": "請修課同學實作相關深度學習系統，上台進行簡報及demo"
+        }
+    ],
+    "prerequisite": "◎Available for junior and senior year B.A. program students (Doctoral program courses excepted) and M.A. program students.",
+    "general_core": []
+}

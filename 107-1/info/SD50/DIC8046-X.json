@@ -1,0 +1,71 @@
+{
+    "year": 107,
+    "term": 1,
+    "name": "生物地理學甲",
+    "teachers": [
+        "徐堉峰",
+        "沈聖峰",
+        "端木茂甯",
+        "鍾國芳"
+    ],
+    "department": "SD50",
+    "code": "DIC8046",
+    "credit": 3,
+    "serial": 2592,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 4,
+            "from": 7,
+            "to": 9,
+            "campus": "校外",
+            "classroom": "教室自排"
+        }
+    ],
+    "programs": [],
+    "comment": "上課地點:中研院B208,BRC,AS",
+    "restrict": "◎課程不開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "Study the patterns and processes of Biogeography. Students will be introduced to both evolutionary and ecological processes that shapes the current and historical patterns of species distribution.",
+    "goals": [
+        "Lectures and reading assignments will introduce students to some of the main topics in behavioral ecology",
+        "In-class discussion of research papers will improve students’ ability to think critically"
+    ],
+    "syllabus": "week\n\n1\n\nCourse introduction\n\n2\n\nThe History of Biogeography\n\n3\n\nPhylogenetic inferences\n\n4\n\nMolecular Phylogenetics (The Voyage of Charles Darwin-V)\n\n5\n\nInferring and Reconstructing Histories within and among closely-related Species— Phylogeography (The Voyage of Charles Darwin-VI)\n\n6\n\nThe Geography of Communities;\n\nDispersal and Migration\n\n7\n\nSpeciation and Extinction\n\n8\n\nThe Changing Earth;\n\nGlaciation and Biogeographic Dynamics of the Pleistocene\n\n9\n\nThe Geography of Diversification\n\n10\n\nReconstructing the History of Biotas\n\n11\n\nIsland Biogeography: Patterns in Species Richness;\n\nIsland Biogeography: Assembly and Evolution of Insular Communities\n\n12\n\nAreography, Ecogeographic Rules, and Diversity Gradients;\n\nBiodiversity and the Geography of Extinctions\n\n13\n\nConservation Biogeography and the Biogeography of Humanity\n\n14\n\nThe Frontiers of Biogeography\n\n15\n\nSpecial topic: Gene flow and range limits\n\n16\n\nSpecial topic: range size and richness",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "課堂討論參與",
+            "weight": 40,
+            "note": ""
+        },
+        {
+            "type": "出席",
+            "weight": 10,
+            "note": ""
+        },
+        {
+            "type": "報告",
+            "weight": 50,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

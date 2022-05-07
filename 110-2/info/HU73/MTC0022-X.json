@@ -1,0 +1,69 @@
+{
+    "year": 110,
+    "term": 2,
+    "name": "電腦輔助光學設計",
+    "teachers": [
+        "鄧敦建"
+    ],
+    "department": "HU73",
+    "code": "MTC0022",
+    "credit": 3,
+    "serial": 1236,
+    "group": "",
+    "quota": {
+        "limit": 30,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 2,
+            "to": 4,
+            "campus": "本部",
+            "classroom": "CAD/CAM"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "9",
+    "dept_group": "",
+    "hours": 3,
+    "description": "1. 利用電腦模擬軟體進行光學系統/元件的幾何模型建構。\n2. 瞭解光學元件的作用原理與材料性質的參數設定。\n3. 瞭解各種光源的特性並建構合適的光源模型。\n4. 能夠實際利用軟體進行光學系統/元件的設計與模擬分析。\n5. 讓修課學生具有業界所需的基礎光學設計之專業能力。",
+    "goals": [
+        "學習如何使用光學模擬軟體。",
+        "藉由電腦模擬的輔助來分析光學系統中複雜的幾何光學行為。",
+        "設計各種非成像的光學元件與系統。"
+    ],
+    "syllabus": "1.幾何模型建構 Geometric model construction\n\n2\\. Introduction to Point and shoot, texture\n\n3\\. Example and excercise\n\n4.光源介紹(照明模組) Light source module\n\n5.內建光源使用以及切趾法運用 Built-in light source and apodization\n\n6\\. How to use Ray data、LED library\n\n7.範例講解與練習 Example and excercise\n\n8.接收器概念介紹與設置 How to build a receiver\n\n9.基本照度學原理介紹 Introduction to photometry\n\n10.軟體中的照度計、強度計、空間輝度和角度輝度設定 Setting of luminance, illuminance, and intensity meter for spatial and angular measure\n\n11.各類分析圖表介紹與應用 Analysis tools\n\n12.範例講解與練習 Example and excercise\n\n13.先進模組的應用：有限度地進行物理光學性質設定、散射模式的自行定義 Advanced physic module I\n\n14.先進模組的應用：偏極化設定、多層膜、鍍膜性質設定 Advanced physic module II\n\n15.範例講解與練習 Example and excercise\n\n16.最佳化介紹：最佳化的參數、限制條件與目標函數的設定 Optimization\n\n17~18. 期末報告線上繳交 Final-term report 影音檔製作上傳youtube後，將網址連結與ppt傳送至Moodle網頁。",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "講述應用光學設計重要基本概念與軟體操作方法"
+        },
+        {
+            "type": "實驗/實作",
+            "note": "討論重要應用例，讓學員實際操作軟體參與設計"
+        }
+    ],
+    "grading": [
+        {
+            "type": "期中考",
+            "weight": 20,
+            "note": "mid-term exam"
+        },
+        {
+            "type": "期末考",
+            "weight": 40,
+            "note": "期末報告與實做測試"
+        },
+        {
+            "type": "其他",
+            "weight": 40,
+            "note": "隨堂上機實做測試"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

@@ -1,0 +1,74 @@
+{
+    "year": 109,
+    "term": 2,
+    "name": "生物統計學",
+    "teachers": [
+        "李子奇"
+    ],
+    "department": "EU05",
+    "code": "HEU0181",
+    "credit": 3,
+    "serial": 744,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 1,
+            "from": 2,
+            "to": 4,
+            "campus": "本部",
+            "classroom": "正103"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎必須先修過(也可以同時修)【HEU0156  健康促進與衛生教育導論】、【HEU0011  個人衛生】",
+    "form_s": "1",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程旨在使學生認識統計的內含與過程、描述性統計及推論統計的方法與其應用，以便日後能運用於健康促進與衛生教育的工作之中。",
+    "goals": [
+        "描述性統計及推論統計的方法與其應用",
+        "運用於健康促進與衛生教育的工作之中",
+        "認識統計的內含與過程"
+    ],
+    "syllabus": "本課程是統計學的入門課程，介紹基礎的統計學概念與方法，包括描述性統計、機率與機率分布、抽樣分布、估計、假設檢定、平均值差異比較、變異數分析、迴歸分析、卡方檢定與關聯表分析等。\n\n週次/Week\n\n**課程內容****(****中文****)**\n\n**Content**\n\n1\n\n課程簡介、緒論、資料蒐集與衡量、統計表與統計圖\n\nIntroduction, data collection, statistics table and figure\n\n2\n\n統計量\n\nStatistic\n\n3\n\n機率\n\nProbability\n\n4\n\n間斷隨機變數機率分配\n\nDiscrete random variable probability distribution\n\n5\n\n連續隨機變數機率分配\n\nContinuous random variable probability distribution\n\n6\n\n估計\n\nEstimation\n\n7\n\n假設檢定\n\nHypothesis testing\n\n8\n\n假設檢定\n\nHypothesis testing\n\n9\n\n期中考\n\nMid-term test\n\n10\n\n兩母體的估計與假設檢定\n\nTwo-group population estimation and testing\n\n11\n\n兩母體的估計與假設檢定\n\nTwo-group population estimation and testing\n\n12\n\n卡方檢定\n\nChi-square test\n\n13\n\n變異數分析\n\nAnalysis of variance (ANOVA)\n\n14\n\n變異數分析\n\nAnalysis of variance (ANOVA)\n\n15\n\n簡單迴歸分析與簡單相關分析\n\nSimple linear regression and simple correlation\n\n16\n\n複迴歸分析與複相關分析\n\nMultiple linear regression and multiple correlation\n\n17\n\n複迴歸分析與複相關分析\n\nMultiple linear regression and multiple correlation\n\n18\n\n期末考\n\nFinal-term test",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "教科書內容導讀與講解"
+        },
+        {
+            "type": "討論法",
+            "note": "疑難問題課堂討論"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 20,
+            "note": "個人回家作業"
+        },
+        {
+            "type": "期中考",
+            "weight": 30,
+            "note": "紙筆測驗"
+        },
+        {
+            "type": "期末考",
+            "weight": 30,
+            "note": "紙筆測驗"
+        },
+        {
+            "type": "其他",
+            "weight": 20,
+            "note": "隨堂測驗"
+        }
+    ],
+    "prerequisite": "◎必須先修過(也可以同時修)【HEU0156  健康促進與衛生教育導論】、【HEU0011  個人衛生】",
+    "general_core": []
+}

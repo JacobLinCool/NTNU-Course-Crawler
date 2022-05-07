@@ -1,0 +1,67 @@
+{
+    "year": 110,
+    "term": 2,
+    "name": "現代化學專論（二）",
+    "teachers": [
+        "李位仁"
+    ],
+    "department": "SM42",
+    "code": "CMC8003",
+    "credit": 1,
+    "serial": 2643,
+    "group": "B",
+    "quota": {
+        "limit": 180,
+        "additional": 7
+    },
+    "schedule": [
+        {
+            "day": 1,
+            "from": 7,
+            "to": 7,
+            "campus": "公館",
+            "classroom": "Ｅ302"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "允許重複修 ◎課程開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 1,
+    "description": "讓學生熟悉現代化學各研究領域最新發展，提升閱讀化學英文期刊的能力，厚實化學基本知識及概念，並深入瞭解化學研究領域在相關產業的關聯性。",
+    "goals": [
+        "拓展化學知識領域視野，了解相關技術發展在產業上應用，訓練英文論文寫作能力，並具備統整資料、意見評論、及口頭表達能力。"
+    ],
+    "syllabus": "1.      透過專題討論，學習現代化學相關領域最新的發展\n\n2.      透過文獻資料閱讀討論，瞭解化學各相關領域技術發展\n\n3.   學習化學技術實驗在化學及相關產業上的應用",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "探討化學各相關領域發展"
+        },
+        {
+            "type": "其他",
+            "note": "相關論文資料之查詢閱讀"
+        }
+    ],
+    "grading": [
+        {
+            "type": "出席",
+            "weight": 70,
+            "note": ""
+        },
+        {
+            "type": "報告",
+            "weight": 20,
+            "note": ""
+        },
+        {
+            "type": "其他",
+            "weight": 10,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

@@ -1,0 +1,66 @@
+{
+    "year": 110,
+    "term": 2,
+    "name": "古典電動力學（二）",
+    "teachers": [
+        "張明哲"
+    ],
+    "department": "SM41",
+    "code": "PHC0014",
+    "credit": 3,
+    "serial": 2622,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 1,
+            "from": 2,
+            "to": 4,
+            "campus": "公館",
+            "classroom": "Ｓ701"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "",
+    "goals": [
+        "Familiarize students with the fundamental principles of electrodynamics",
+        "Strengthen rational thinking skills",
+        "Introduction to Physics News",
+        "Physical research ability development"
+    ],
+    "syllabus": "【16+2 Weeks】\n\nMaxwell Equations, Macroscopic Electromagnetism, Conservation Laws  \nPlane Electromagnetic Waves and Wave Propagation.  \nRadiating Systems, Multipole Fields and Radiation.  \nScattering and Diffraction.  \nCollisions, Energy Loss, and Scattering of Charged Particles, Cherenkov and Transition Radiation (selected topics).  \nRadiation by Moving Charges (selected topics)",
+    "methodologies": [
+        {
+            "type": "Formal lecture",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "Assignments",
+            "weight": 40,
+            "note": ""
+        },
+        {
+            "type": "Midterm Exam",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "Presentation",
+            "weight": 30,
+            "note": ""
+        }
+    ],
+    "prerequisite": "◎Available for junior and senior year B.A. program students (Doctoral program courses excepted) and M.A. program students.",
+    "general_core": []
+}

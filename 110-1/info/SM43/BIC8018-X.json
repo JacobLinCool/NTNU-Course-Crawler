@@ -1,0 +1,68 @@
+{
+    "year": 110,
+    "term": 1,
+    "name": "動物生理學特論（一）",
+    "teachers": [
+        "鄭劍廷"
+    ],
+    "department": "SM43",
+    "code": "BIC8018",
+    "credit": 2,
+    "serial": 2713,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 5,
+            "from": 8,
+            "to": 9,
+            "campus": "公館",
+            "classroom": "Ｃ302"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程不開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 2,
+    "description": "透過系列臨床應用實際案例的講授，讓學員將生理學基礎知識與臨床應用交互驗證，提高學員對生理學的學習興趣，活用生理學知識，並啟發與養成學員對於運用生理學在實際應用面的思考習慣與模式。以進階生理學之角色探究其在生命科學之重要性。",
+    "goals": [
+        "增進針對人體生理學概念的臨床應用",
+        "培養學生論文選讀之報告能力"
+    ],
+    "syllabus": "Introduction\n\nReactive oxygen signaling\n\nTechniques for Animal Physiology (I) microarray and RNAIi\n\nTechniques for Animal Physiology (II) proteomics\n\nTechniques for Animal Physiology (III) real-time PCR and flow cytometry\n\nTechniques for Animal Physiology (IV) free radical analyzer\n\nApoptosis, autophagy, necrosis\n\nTechniques and equipment for cell behavior\n\nAnimal Model for Research\n\nOral presentation (I)\n\nOral presentation (II)\n\nOral presentation (III)\n\nOral presentation (IV)\n\nOral presentation (V)\n\nMid-term Test\n\nOral presentation (VI)\n\nOral presentation (VII)\n\nSummary",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "內容包括血液學、血清學、尿液與體液檢查的基礎研究與臨床應用、身體電流量測的基礎研究與臨床應用、放射線的基礎研究與臨床應用、超音波的基礎研究與臨床應用、腹膜透析與血液透析治療的原理及臨床應用、標靶治療之生理基礎與應用與幹細胞與再生醫學之知識。"
+        },
+        {
+            "type": "媒體融入教學",
+            "note": "使用自編媒材與簡報授課"
+        }
+    ],
+    "grading": [
+        {
+            "type": "期中考",
+            "weight": 40,
+            "note": "1-1具備探究生命科學專業知識(90%)\n2-1能運用相關科技並精熟儀器操作，以多元方法進行獨立研究，解決生命科學問題(10%)"
+        },
+        {
+            "type": "出席",
+            "weight": 10,
+            "note": "1-1具備探究生命科學專業知識(50%)\n3-1具備針對實驗之預期結果，選擇正確分析方法、歸納並發表研究成果的能力(50%)"
+        },
+        {
+            "type": "報告",
+            "weight": 50,
+            "note": "指定論文口頭報告(40%)：\n1-1具備探究生命科學之專業知識(25%)。\n2-1能運用相關科技並精熟儀器操作，以多元方法進行獨立研究，解決生命科學問題(25%)。\n3-1具備針對實驗結果，進行正確分析、歸納並發表研究成果的能力(25%)。\n4-1具備正確的科學態度，瞭解遵守科學倫理之重要性(25%)。\n研究設計書面報告(10%)：\n1-1具備探究生命科學之專業知識(20%)\n2-1能運用相關科技並精熟儀器操作，以多元方法進行獨立研究，解決生命科學問題(30%)\n3-1具備針對實驗之預期結果，選擇正確分析方法、歸納並發表研究成果的能力(40%)\n4-1具備正確的科學態度，瞭解遵守科學倫理之重要性(10%)"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

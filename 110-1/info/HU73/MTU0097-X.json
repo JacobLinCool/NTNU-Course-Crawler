@@ -1,0 +1,84 @@
+{
+    "year": 110,
+    "term": 1,
+    "name": "材料科學",
+    "teachers": [
+        "程金保"
+    ],
+    "department": "HU73",
+    "code": "MTU0097",
+    "credit": 3,
+    "serial": 1331,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 4,
+            "from": 2,
+            "to": 4,
+            "campus": "本部",
+            "classroom": "工501"
+        }
+    ],
+    "programs": [
+        "太陽能源與工程學程"
+    ],
+    "comment": "",
+    "restrict": "",
+    "form_s": "1",
+    "classes": "",
+    "dept_group": "A",
+    "hours": 3,
+    "description": "讓學生從原子之排列、結構、顯微組織瞭解起，進一步認識材料之各種機械性質、測試方法及材料之電特性等，以做為進一步研究材料相關理論之基礎。",
+    "goals": [
+        "增進學生在材料科學方面的知識與觀念，並瞭解範圍內相關技術應用及推導重要公式。",
+        "課程中提出類似或延伸問題抽點學生思考與解決"
+    ],
+    "syllabus": "【授課方式：16+2週】，即「課堂授課16週＋2週彈性教學（第17、18週）」\n\n第一週︰簡介 (Introduction)、原子結構與固體之鍵結 (Atomic structure and bonding in solids)\n\n第二週︰原子結構與固體之鍵結 (Atomic structure and bonding in solids)\n\n第三、四週︰結晶固體的結構 (The Structure of Crystalline Solids)\n\n第五、六週︰固體中之缺陷 (Imperfections in Solids)\n\n第七週︰擴散 (Diffusion)\n\n第八週︰期中考 (Midterm)\n\n第九週︰金屬之機械性質 (Mechanical Properties of Metals)\n\n第十週 : 自主學習 (機械性質測試方法)\n\n第十一、十二週︰差排及金屬的強化機制 (Dislocations and strengthening mechanisms in metals)\n\n第十三週︰破損 (Failure)\n\n第十四週︰相圖與相變化(Phase Diagrams、Phase Transformations: Development of Microstructure and Alteration of Mechanical Properties)\n\n第十五、十六週︰合金的應用與製程(Applications and Processing of Metal Alloys)\n\n第十七週︰期末考\n\n第十八週︰自主學習(實務案例探究)\n\n(課程內容與進度可能隨學生學習成效作適時調整)",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "課堂講述重要理論基礎與觀念、推導重要公式"
+        },
+        {
+            "type": "問題解決教學",
+            "note": "課程中提出類似或延伸問題抽點學生思考與解決"
+        },
+        {
+            "type": "媒體融入教學",
+            "note": "結合影片與數位媒體，並透過學校之數位學習平台(Moodle)輔助教學"
+        }
+    ],
+    "grading": [
+        {
+            "type": "期中考",
+            "weight": 30,
+            "note": "考題約20分屬於延伸題(考量鑑別度)"
+        },
+        {
+            "type": "期末考",
+            "weight": 30,
+            "note": "考題約20分屬於延伸題(考量鑑別度)"
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 10,
+            "note": "課程中均會按照學生修課名單提問(增強學生表達、創新思考及解決問題之能力)"
+        },
+        {
+            "type": "出席",
+            "weight": 20,
+            "note": "上課出席狀況及學習態度"
+        },
+        {
+            "type": "其他",
+            "weight": 10,
+            "note": "小考試題與上課例題或作業類似(提高學習動機)"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

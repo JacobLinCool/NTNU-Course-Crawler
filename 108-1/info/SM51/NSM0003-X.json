@@ -1,0 +1,93 @@
+{
+    "year": 108,
+    "term": 1,
+    "name": "營養研究設計",
+    "teachers": [
+        "謝佳倩"
+    ],
+    "department": "SM51",
+    "code": "NSM0003",
+    "credit": 3,
+    "serial": 2780,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 3,
+            "from": 2,
+            "to": 4,
+            "campus": "本部",
+            "classroom": "勤102"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程不開放上修",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程提供新進研究所學生具備初步的研究概念，主要內容包括: 科研概念與倫理、研究計畫撰寫、實驗方法的介紹: 涵蓋細胞模型、動物模型與臨床試驗的考量與進行。另外，新穎的營養相關科學研究也會在課程中介紹，以提供學生具備研究與創新之能力。",
+    "goals": [
+        "了解研究的理念，理論和實踐。",
+        "通過細胞模型，動物模型，個體和群體模型以了解營養相關的研究方法",
+        "了解臨床試驗的基礎概念與方法",
+        "了解當今營養相關的研究問題"
+    ],
+    "syllabus": "週次    主題\n\n第一週     課程介紹 Introduction\n\n第二週     科學研究的基本概念Science research basic concept\n\n第三週     研究的性質與類別Similarity and differences of research methods in various field of nutrition\n\n第四週     心理學與健康概念Health psychology\n\n第五週     實驗室使用規則與考量Lab Rules、Good Laboratory practice considerations\n\n第六週     實驗設計方法介紹  Experimental design\n\n第七週     實驗性研究計畫書  Experimental research proposal\n\n第八週     期中考\n\n第九週     細胞實驗I  Cell culture\n\n第十一週 細胞實驗II  Cell culture\n\n第十二週 動物實驗I  Animal research\n\n第十三週 動物實驗II  Animal research\n\n第十四週 臨床實驗I  Clinical trial\n\n第十五週 臨床實驗II  Clinical trial\n\n第十六週 期末考\n\n第十七週 期末報告I (國外營養系所課程介紹) Oral presentation\n\n第十八週 期末報告II (國外營養系所課程介紹) Oral presentation",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "自編教材，提供上課講義"
+        },
+        {
+            "type": "問題解決教學",
+            "note": "提問與回答"
+        },
+        {
+            "type": "媒體融入教學",
+            "note": "相關研究資訊網頁介紹，同學須找資料報告"
+        },
+        {
+            "type": "專題研究",
+            "note": "專題資料搜尋，整理與口頭報告"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 5,
+            "note": ""
+        },
+        {
+            "type": "期中考",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 5,
+            "note": ""
+        },
+        {
+            "type": "出席",
+            "weight": 5,
+            "note": ""
+        },
+        {
+            "type": "專題",
+            "weight": 25,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

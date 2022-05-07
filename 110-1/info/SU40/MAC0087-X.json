@@ -1,0 +1,60 @@
+{
+    "year": 110,
+    "term": 1,
+    "name": "實變分析（一）",
+    "teachers": [
+        "孟悟理"
+    ],
+    "department": "SU40",
+    "code": "MAC0087",
+    "credit": 3,
+    "serial": 2781,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 5,
+            "from": 2,
+            "to": 4,
+            "campus": "公館",
+            "classroom": "數學館M210"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "",
+    "classes": "9",
+    "dept_group": "",
+    "hours": 3,
+    "description": "介紹高等分析理論，作為進階分析學之必備基礎",
+    "goals": [
+        "培養數學專業能力",
+        "銜接高等分析課程",
+        "提升抽象思考層次",
+        "以高觀點詮釋數學與其他學科連結"
+    ],
+    "syllabus": "**Course outline** In part I, after establishing the necessary basics from point-set topology, measures and measurable sets (including numerical summation and measurable hulls), Borel sets (Borel families, the space of sequences of positive integers, images of Borel sets, and Borel functions), Borel regular measures (approximation by closed sets, nonnmeasurable sets, Radon measures, and their images), measurable functions (approximation theorems and spaces of measurable functions), and Lebesgue integration (up to and including limit theorems) shall be treated. In part II in the following term, after establishing the necessary background on tensor products and functional analysis, Lebesgue integration shall be completed (Lebesgue spaces), linear functionals (lattices of functions, Daniell integrals, linear functionals on Lebesgue spaces, Riesz’s representation theorem, curve length, and Riemann-Stieltjes integration), and product measures (Fubini’s theorem and Lebesgue measure) shall be covered. Some of the material on topology and functional analysis will be relegated to the two self-study phases.\n\n**Details of the course** The main reference text will be the instructor’s weekly-updated lecture notes written in LATEX. They are based on and expand the relevant parts of Federer’s treatise \\[Fed69\\] and, concerning topology, Kelley’s book \\[Kel75\\].  Grading is solely determined by individual oral examinations conducted in English; to be admitted to these examinations, at least 50% of the possible credits need to be obtained in weekly exercises. _The course will be accompanied by a tutorial conducted in Mandarin_ to review these exercises and to provide assistance with the study of the course and repetition of relevant prerequisites material (see below). The course is conducted in the format 16 weeks of lectures plus 2 weeks of self-study.\n\n**Prerequisites** The course is largely self-contained. We mainly assume some basics on metric and Banach spaces (see, e.g., \\[GG99, Chapter 1\\]) to be known.\n\n**Distance learning** For this purpose, the course will use the social gathering platform Wonder.  It allows for both broadcasting (lecturing) and free interactions of participants (in lecture breaks).  We employ the room at <[https://www.wonder.me/r?id=f21e6d5a-ad6f-4b1f-9b9d-8eb657cddb06](https://www.wonder.me/r?id=f21e6d5a-ad6f-4b1f-9b9d-8eb657cddb06)\\>.  Additionally to the lecture notes, audio and PDF files of the instructor's writing to the virtual board will be made available.  Please send an email to [Cathy Li](https://cantor.math.ntnu.edu.tw/index.php/en/staff-en/) to be added to the course email list (for the room password and further course related information).  Currently, distance learning is required till 12 October 2021; thereafter, the method may be adapted to best fit the needs of the local, remote, and asynchronous students who have enrolled.\n\n**Tutorial in Mandarin** This weekly tutorial starts in the second week of the lecture period.  Its time will be discussed with the participants in the first lecture.",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "Lecture with weekly updated lecture notes written in LaTeX, both in English."
+        },
+        {
+            "type": "問題解決教學",
+            "note": "Weekly exercises in English and tutorial conducted in Mandarin."
+        }
+    ],
+    "grading": [
+        {
+            "type": "期末考",
+            "weight": 100,
+            "note": "Grading is solely determined by individual oral examinations conducted in English; to be admitted to these examinations, at least 50% of the possible credits need to be obtained in weekly exercises."
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

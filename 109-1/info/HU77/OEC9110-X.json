@@ -1,0 +1,78 @@
+{
+    "year": 109,
+    "term": 1,
+    "name": "材料光學",
+    "teachers": [
+        "李亞儒"
+    ],
+    "department": "HU77",
+    "code": "OEC9110",
+    "credit": 3,
+    "serial": 1393,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 3,
+            "from": 7,
+            "to": 9,
+            "campus": "公館",
+            "classroom": "Ｓ101"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "",
+    "classes": "9",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程將介紹固態材料中的物理光學，由基本光波的行進與反射開始介紹，再利用量子理論來介紹吸收與輻射放光的機制。這些光學現象也會在半導體與金屬中作更深入的討論，最後介紹非線性晶體的光學特性。從古典材料光學理論的強化，進而探討微小化的量子材料光學理論，及次世代光學材料、元件及系統應用發展與趨勢。",
+    "goals": [
+        "強化古典材料光學理論的基礎，進而深入學習量子材料光學領域",
+        "由量子理論來介紹吸收與輻射放光的機制，並在半導體與金屬中作更深入的光學現象討論",
+        "透過介紹次世代光學材料、元件及系統應用發展與趨勢，提升學生學有所用的啟發"
+    ],
+    "syllabus": "第1-2週    Introduction, the complex refractive index\n\n第3-6週      電磁輻射原理/Lorentz oscillators, dispersion, birefringence\n\n第7-10週    Interband absorption, excitons\n\n第11週      期中測驗\n\n第12-13週   半導體材料發光原理/Luminescence\n\n第14-15週   半導體晶體基本概念/Quantum confined structures\n\n第16~17週  材料光譜量測技術及光譜儀原理/Metals, doped semiconductors\n\n第18-19週  前瞻低維度近場光學材料、元件及系統應用發展與趨勢\n\n第20週       期末測驗",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "講述材料光學重要概念與理論。從建立學生基礎的古典材料光學理論，引導學生自行學習微小化的量子材料光學理論，及次世代光學材料、元件及系統應用技術與知識，加強思考未來應用領域。"
+        },
+        {
+            "type": "討論法",
+            "note": "開放課堂討論增加學生互動與交流，增加學生學習效益。"
+        },
+        {
+            "type": "問題解決教學",
+            "note": "指定習題與作業，讓學生課後練習，活用課堂講授內容，解決問題。"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 20,
+            "note": "學生撰寫課後作業，由學生之繳交與得分情況評量作業成績。"
+        },
+        {
+            "type": "期中考",
+            "weight": 35,
+            "note": "測驗學生對材料光學學科的了解與熟悉程度，命題形式為計算與簡答題。"
+        },
+        {
+            "type": "期末考",
+            "weight": 35,
+            "note": "測驗學生對材料光學學科的了解與熟悉程度，命題形式為計算與簡答題。"
+        },
+        {
+            "type": "出席",
+            "weight": 10,
+            "note": "由學生上課出席狀況評量。"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

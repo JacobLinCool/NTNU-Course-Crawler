@@ -1,0 +1,67 @@
+{
+    "year": 109,
+    "term": 2,
+    "name": "系統演化學特論",
+    "teachers": [
+        "徐堉峰"
+    ],
+    "department": "SD43",
+    "code": "BID0069",
+    "credit": 3,
+    "serial": 2618,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 4,
+            "from": 10,
+            "to": 12,
+            "campus": "公館",
+            "classroom": "Ｃ303B"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程不開放上修",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "This is a topical course, focusing on understanding the basic concepts, principles and skills of systematics, how to design a feasible study plan, set up experiments and obtain data, and how to analyze data. It will also include lectures on how current methodologies and techniques are applied to solve systematic problems.",
+    "goals": [
+        "The major objectives of this course are to provide basic background in systematics and to deliver the most updated knowledge, skills and applications of genomics to systematic problems."
+    ],
+    "syllabus": "​\n\nWeek 1:   Introduction to systematics\n\nWeek 2:   Nomenclature\n\nWeek 3:   Species concepts\n\nWeek 4:   Application of species concepts\n\nWeek 5:   Speciation\n\nWeek 6:   Approaches in speciation study\n\nWeek 7:   Phenetics: cluster analyses and PCA\n\nWeek 8:   Phenetics: morphometrics\n\nWeek 9:  Mid-term report\n\nWeek 10:  Cladistics: general backgroud\n\nWeek 11:  Cladistics: current methodologies\n\nWeek 12:  Cladistics: softwares for analyses\n\nWeek 13:  Case studies\n\nWeek 14:  strategies in systematics\n\nWeek 15:  Phylogenetic systematics\n\nWeek 16:  Phylogeography\n\nWeek 17:  Additional applications\n\nWeek 18:  Final report",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 40,
+            "note": ""
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "報告",
+            "weight": 30,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

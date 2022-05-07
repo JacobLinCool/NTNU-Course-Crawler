@@ -1,0 +1,68 @@
+{
+    "year": 108,
+    "term": 1,
+    "name": "強化式學習",
+    "teachers": [
+        "包傑奇"
+    ],
+    "department": "HM75",
+    "code": "AEC8059",
+    "credit": 3,
+    "serial": 1210,
+    "group": "",
+    "quota": {
+        "limit": 35,
+        "additional": 5
+    },
+    "schedule": [
+        {
+            "day": 1,
+            "from": 2,
+            "to": 4,
+            "campus": "本部",
+            "classroom": "教室自排"
+        }
+    ],
+    "programs": [],
+    "comment": "上課教室：電機系會議室",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "傳統機器人學習課程多偏重資料分類，而本課程著重於強化學習；這是一種無人監控的學習機制，可使系統學會循序執行不同任務（或為達成一特定目標所需要的各步驟，包括從撿起一個瓶子到下贏一場圍棋比賽）。",
+    "goals": [
+        "實現三維自我運動估測於移動機器人，使用教育機器人中心的機器人取得的資料進行分析 。(例如：Bibot 機器人影像標籤)",
+        "機械手臂機器人抓住行為的學習，使用教育機器人中心的機器人取得的資料進行分析。"
+    ],
+    "syllabus": "Week 1: Introduction\n\nWeek 2: Markov processes\n\nWeek 3: Bellman equations  \nWeek 4: From value functions to Q-learning. SARSA.\n\nWeek 5: Exploration and exploitation trade-offs\n\nWeek 6: Exploration and exploitation trade-offs. Lectures and practical exercises. Students implement key components of the algorithm in Jupyter notebooks.  \nWeek 7: Temporal difference learning and TD-lambda  \nWeek 8: Function approximation in reinforcement learning.  \nWeek 9: Function approximation in reinforcement learning. Midterm  \nWeek 10: Recurrent neural networks and LSTM networks.  \nWeek 11: Recurrent neural networks and LSTM networks..Lectures and practical exercises. Students implement key components of the algorithm in Jupyter notebooks  \nWeek 12: Deep reinforcement learning. Lectures  \nWeek 13: Deep reinforcement learning. Lectures and practical exercises. Students implement key components of the algorithm in Jupyter notebooks. Examples will use robot manipulation and navigation domains from the Education Robotics Center and OpenAI.  \nWeek 14: Imitation learning  \nWeek 15: Reinforcement learning in Games.\n\nWeek 16: Monte Carlo Tree Search . Lectures\n\nWeek 17: Monte Carlo Tree Search . Lectures and practical exercises. Students implement key components of the algorithm in Jupyter notebooks  \nWeek 18: OpenAI Atari benchmark problem. Jupyter notebooks. Final Exam",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "實驗/實作",
+            "note": "實做部分則包含2 個作業，每個各佔總成績的15%。"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 30,
+            "note": "實做部分則包含2 個作業，每個各佔總成績的15%。在作業中，學生們可使用已習得的知識來解決現實生活中發生的問題。"
+        },
+        {
+            "type": "期中考",
+            "weight": 20,
+            "note": "隨堂考（5%）、期中考（15%）理論部分確認學生對基礎概念及技術的理解"
+        },
+        {
+            "type": "期末考",
+            "weight": 50,
+            "note": "理論部分確認學生對基礎概念及技術的理解"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

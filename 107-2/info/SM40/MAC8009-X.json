@@ -1,0 +1,56 @@
+{
+    "year": 107,
+    "term": 2,
+    "name": "分析專題研究",
+    "teachers": [
+        "孟悟理"
+    ],
+    "department": "SM40",
+    "code": "MAC8009",
+    "credit": 3,
+    "serial": 2611,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 2,
+            "to": 4,
+            "campus": "公館",
+            "classroom": "教室自排"
+        }
+    ],
+    "programs": [],
+    "comment": "授課教師Ulrich Menne",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "The goal of this course is to develop the theory of pointwise differentiation in the simplest case of real valued functions defined on Euclidean space.",
+    "goals": [
+        "培養數學專業能力以銜接高等分析課程",
+        "提升抽象思考層次",
+        "以高觀點詮釋數學與其他學科連結",
+        "培養數學專業能力以銜接高等分析課程"
+    ],
+    "syllabus": "The goal of this course is to develop the theory of pointwise differentiation in the simplest case of real valued functions defined on Euclidean space. A function is _k_ times pointwise differentiable at a point if and only if it may be approximated by a polynomial function of degree at most _k_ to _k_\\-th order at that point; in particular, derivatives of order _k − 1_ need not exist in a neighbourhood of the point. Such derivatives for instance occur in the study of Sobolev functions, convex functions (_k = 2_), and viscosity solutions to fully nonlinear elliptic equations of second order (_k = 2_). Our motivation however is mainly from geometry: the theory presented acts both as a model case and a toolbox for recent characterisations of rectifiability of order _k_ which essentially is the weakest possible sense in which a set (or, a function) may be considered to have k-th order differentials almost everywhere.\n\nSome knowledge of linear algebra, first order differentials, measure, and Lebesgue integration is prerequisite for this course, but the treatment is selfcontained with regard to all those topics in descriptive set theory, multilinear algebra, and higher order differentiation, that occur. A particular feature of our approach is the development of the concept of symmetric algebra of a vectorspace to effectively treat polynomial functions. The topics covered are as follows.\n\n1.  Descriptive set theory: Lipschitzian maps, Suslin sets, Borel functions (see \\[Fed69, 2.2.7–2.2.14\\]).\n    \n2.  Multilinear algebra: tensor algebras, graded algebras, the symmetric algebra of a vectorspace, symmetric forms, and polynomial functions (see \\[Fed69, Sections 1.2, 1.3, 1.9, 1.10\\]).\n    \n3.  Higher order differentiation: higher differentials, partitions of unity, differentiable extensions of functions (see \\[Fed69, 3.1.11–3.1.15\\]).\n    \n4.  Approximate differentiation and rectifiability of higher order (see \\[Isa87\\]).\n    \n5.  Pointwise differentiation of higher order (see \\[Men19, Sections 2, 4\\]).\n    \n\n[PDF file of this course description including references.](https://ap.itc.ntnu.edu.tw/NtnuFileShare/file.do?action=dl&gno=9c96e0d03b0e4ec7ad8739a597bdec6e&fno=f6add8f681244eb8a62dd9f7641c806b)",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "Lecture in English with weekly updated lecture notes (LaTeX) in English."
+        }
+    ],
+    "grading": [
+        {
+            "type": "期末考",
+            "weight": 100,
+            "note": "Individual oral exam conducted in English determining pass or fail as well as the grade for the course."
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

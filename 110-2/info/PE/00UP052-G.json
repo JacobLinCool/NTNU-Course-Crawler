@@ -1,0 +1,67 @@
+{
+    "year": 110,
+    "term": 2,
+    "name": "體育（健康體適能）",
+    "teachers": [
+        "卓俊辰"
+    ],
+    "department": "PE",
+    "code": "00UP052",
+    "credit": 1,
+    "serial": 2482,
+    "group": "G",
+    "quota": {
+        "limit": 45,
+        "additional": 5
+    },
+    "schedule": [
+        {
+            "day": 5,
+            "from": 3,
+            "to": 4,
+            "campus": "本部",
+            "classroom": "重量訓練室一"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "允許重複修 ◎課程開放上修",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 2,
+    "description": "教導學生以健康體適能四大要素為根據之健身運動觀念認知與技能方法，期使有助於學生盡早養成規律之健身運動習慣並持續終身。",
+    "goals": [
+        "教導學生以健康體適能四大要素為根據之健身運動觀念認知與技能方法，期使有助於學生盡早養成規律之健身運動習慣並持續終身。"
+    ],
+    "syllabus": "Week 1:課程總說明介紹  \nWeek 2~Week 4: 如此維持關節柔軟度─靜性伸展操  \nWeek 5~Week 8: 如何促進肌肉功能─重量訓練  \nWeek 9~Week 12: 如何增進心肺循環功能─有氧運動  \nWeek 13: 如何有效健康作好體重管理  \nWeek 14~Week 15 三大類型健康體適能運動組合實作  \nWeek 16: Final exam",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "一、講解健康體適能四大要素的重要性及個別有效之運動方法與條件\n二、運動醫學相關知識與應用"
+        },
+        {
+            "type": "實驗/實作",
+            "note": "具體健康體適能四大要素相關之運動方法實際操作學習"
+        }
+    ],
+    "grading": [
+        {
+            "type": "期末考",
+            "weight": 40,
+            "note": "伸展操/重量訓練動作測驗"
+        },
+        {
+            "type": "出席",
+            "weight": 50,
+            "note": "出席率與實作學習努力程度"
+        },
+        {
+            "type": "報告",
+            "weight": 10,
+            "note": "健身運動作息規劃"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

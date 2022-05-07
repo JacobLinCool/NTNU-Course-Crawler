@@ -1,0 +1,71 @@
+{
+    "year": 109,
+    "term": 2,
+    "name": "進階程式設計",
+    "teachers": [
+        "蔣宗哲"
+    ],
+    "department": "SU47",
+    "code": "CSU0030",
+    "credit": 3,
+    "serial": 2987,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 13
+    },
+    "schedule": [
+        {
+            "day": 4,
+            "from": 2,
+            "to": 4,
+            "campus": "公館",
+            "classroom": "理圖801"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎限大三大四 ◎限碩一碩二碩三以上修習",
+    "form_s": "3",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程旨在培養學生撰寫簡潔、易讀且高效率 C++ 程式之能力，並深入了解 C++ 程式語言之特色。課程中首先回顧程式設計(一)(二) 課程中較困難的部份（如指標），接著利用編程法則講授良好的編程風格，並進入C++ 語言較高階的主題，如建構/解構、繼承、多型、樣板等等。",
+    "goals": [
+        "能深入了解C++程式語言之特色並撰寫簡潔、易讀、高效率之程式。"
+    ],
+    "syllabus": "本課程將講授 C++ 程式設計，建議大三以上修習，課程進度如下：\n\nWeek 1: Warm-up  \nWeek 2: Pointers and References: Review  \nWeek 3: Class Design: Review  \nWeek 4: Coding Style  \nWeek 5: Class Design: A Practice  \nWeek 6: Spring Break (no class)  \nWeek 7: Coding Rules  \nWeek 8: Operator Overloading  \nWeek 9-10: Function Pointers, Function Templates, and Algorithms  \nWeek 11: std::string  \nWeek 12-13: Constructors, Destructors, and Assignment  \nWeek 14: Inheritance  \nWeek 15: Team Project  \nWeek 16: Inheritance: Rules  \nWeek 17: Class Templates and Containers  \nWeek 18: Review of Team Project",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "以自編教材講述。"
+        },
+        {
+            "type": "合作學習",
+            "note": "課程中有數次多人合作的作業。"
+        },
+        {
+            "type": "實驗/實作",
+            "note": "課程中有多項實作作業。"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 75,
+            "note": "共有五次作業，份量繁重。"
+        },
+        {
+            "type": "出席",
+            "weight": 5,
+            "note": ""
+        },
+        {
+            "type": "其他",
+            "weight": 20,
+            "note": "課堂練習與小考"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

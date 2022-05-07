@@ -1,0 +1,70 @@
+{
+    "year": 110,
+    "term": 2,
+    "name": "微積分乙（二）",
+    "teachers": [
+        "陳慧如"
+    ],
+    "department": "SU40",
+    "code": "MAU0181",
+    "credit": 3,
+    "serial": 2732,
+    "group": "I",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 3,
+            "from": 6,
+            "to": 8,
+            "campus": "本部",
+            "classroom": "正304"
+        }
+    ],
+    "programs": [],
+    "comment": "工教一",
+    "restrict": "◎必須先修過【MAU0180  微積分乙（一）】 ◎課程開放上修",
+    "form_s": "1",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "",
+    "goals": [
+        "Improve understanding of basic concepts of mathematical analysis",
+        "Improve the ability of logical reasoning and induction",
+        "Improve mathematical and critical thinking skills",
+        "Enhance professional knowledge and attitude towards truth"
+    ],
+    "syllabus": "註1：依 \"臺灣大學系統\" 三校採行110學年度授課方式「16+2週」，即「授課16週＋2週彈性教學」，本課程彈性教學暫訂為自主學習方式，時間於第17、18週實行 (以開學時老師宣佈為主)。\n\n註2：配合學校 \"科學基礎科目 微積分乙\" 現行共同授課評量與集中考試制度，本授課班級參與其中。\n\n註3：如因疫情需要調整，本課程配合學校規定之授課方式進行。\n\n一、無窮級數 Infinite Series\n\n(1) 級數的意義及其斂散性質 Definiition and Convergence of Series\n\n(2) 冪級數 Power Series、泰勒級數 Taylor Series、馬克勞林級數 Maclaurin Series\n\n二、向量值函數 Vector-Valued Functions\n\n(1) 平面曲線 Plane Curves、參數方程式 Parametric Equations\n\n(2) 極坐標 Polar Coordinates、圓柱坐標 Cylindrical Coordinates、球面坐標 Spherical Coordinates\n\n(3) 切向量 Tangent Vectors、法向量 Normal Vectors、弧長 Arc Length 及曲率 Curvature\n\n三、多變數函數的微分 Differentiation for Functions of Several Variables\n\n(1) 極限與連續 Limits and Continuity\n\n(2) 偏導數 Partial Derivatives\n\n(3) 方向導數與梯度 Directional Derivatives、鏈鎖法則 Chain Rules\n\n(4) 切平面與法平面 Tangent Planes and Normal Planes\n\n(5) 極值 Extrema 、 拉格朗日乘子法 Lagrange Multipliers Method\n\n四、多變數函數的積分 Integration Functions of Several Variables\n\n(1) 二重積分的意義與應用 Definition of Double Integrals and Applications\n\n(2) 二重積分的計算 Evaluation for Double Integrals、極坐標變數代換法 Change of Variables using Polar Coordinates、Fubini 定理 Theorem\n\n(3) 三重積分的計算 Evaluation for Triple Integrals\n\n\\---",
+    "methodologies": [
+        {
+            "type": "Formal lecture",
+            "note": "以上課講授為主，並輔以習題研討(主要於習演課時間進行)。"
+        },
+        {
+            "type": "Problem base learning",
+            "note": "每週排定一節習演課(由班級助教代理非親授)。"
+        }
+    ],
+    "grading": [
+        {
+            "type": "Midterm Exam",
+            "weight": 40,
+            "note": "參考題型：指定教科書中各週課堂講解例題與指定習題、考古題等(Moodle元課程有提供相關資訊)；考題依命題老師為主。"
+        },
+        {
+            "type": "Final exam",
+            "weight": 40,
+            "note": "參考題型：指定教科書中各週課堂講解例題與指定習題、考古題等(Moodle元課程有提供相關資訊)；考題依命題老師為主。"
+        },
+        {
+            "type": "other:",
+            "weight": 20,
+            "note": "除期中末兩次考試須依照微乙課程共同評分標準規定之百分比外，剩餘之百分比(預定20%)列於其他項目計分，由班級授課老師評量，此項目含作業、出席、小考等等。如有小考，依實際教學狀況另安排。(此項計分方式以開學時老師宣佈為主)"
+        }
+    ],
+    "prerequisite": "Prerequisite course: 【MAU0180  Calculus B (I)】 ◎Available for junior and senior year B.A. program students (Doctoral program courses excepted) and M.A. program students.",
+    "general_core": []
+}

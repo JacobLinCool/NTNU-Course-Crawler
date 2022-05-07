@@ -1,0 +1,87 @@
+{
+    "year": 108,
+    "term": 2,
+    "name": "學習評量",
+    "teachers": [
+        "王力億"
+    ],
+    "department": "EU00",
+    "code": "EDU0220",
+    "credit": 2,
+    "serial": 645,
+    "group": "",
+    "quota": {
+        "limit": 40,
+        "additional": 0
+    },
+    "schedule": [
+        {
+            "day": 1,
+            "from": 3,
+            "to": 4,
+            "campus": "本部",
+            "classroom": "教802"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "3",
+    "classes": "",
+    "dept_group": "",
+    "hours": 2,
+    "description": "本科目旨在使學生了解學習評量的基本學理與實施方法，探討學習評量的最新發展，並能將所學理論與技術應用於學習實務。",
+    "goals": [
+        "了解學習目標的內容、意義、與種類",
+        "通曉學習評量的內容與方法",
+        "因應不同的目標, 能設計適當的學習評量方式"
+    ],
+    "syllabus": "  \n[教學進度與主題附件](https://ap.itc.ntnu.edu.tw/NtnuFileShare/file.do?action=dl&gno=7232c07c76b74af6a1d0af80a0df9467&fno=51734142e20d42959b3079046d4002ae)",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "講述學習評量的理論及實務應用"
+        },
+        {
+            "type": "討論法",
+            "note": "討論學習評量在實務應用的議題"
+        },
+        {
+            "type": "合作學習",
+            "note": "學生參與課堂分組討論活動"
+        },
+        {
+            "type": "實驗/實作",
+            "note": "學生編製設計學習評量方法"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 10,
+            "note": "期中個人心得報告"
+        },
+        {
+            "type": "期末考",
+            "weight": 30,
+            "note": "針對教材內容回答相關問題"
+        },
+        {
+            "type": "出席",
+            "weight": 20,
+            "note": "上課出席情形"
+        },
+        {
+            "type": "報告",
+            "weight": 10,
+            "note": "期末個人反思報告"
+        },
+        {
+            "type": "成果展覽",
+            "weight": 30,
+            "note": "期末小組口頭報告"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

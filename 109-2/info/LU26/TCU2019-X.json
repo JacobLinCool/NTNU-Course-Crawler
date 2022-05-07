@@ -1,0 +1,87 @@
+{
+    "year": 109,
+    "term": 2,
+    "name": "句法學",
+    "teachers": [
+        "劉承賢"
+    ],
+    "department": "LU26",
+    "code": "TCU2019",
+    "credit": 2,
+    "serial": 1946,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 3,
+            "from": 6,
+            "to": 7,
+            "campus": "本部",
+            "classroom": "正403"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "4",
+    "classes": "",
+    "dept_group": "",
+    "hours": 2,
+    "description": "本課程以介紹⽣成語法理論為主，輔以跨語言的語料比較及練習材料，並儘量涵括台語及華語的實例，以幫助學⽣能將所學應⽤於其所熟悉的語⾔之上。希望透過淺⽩的說明及例⼦，使學⽣能了解句法現象及對應的分析⼯具。",
+    "goals": [
+        "了解普遍語法的基本觀念與錯誤觀念",
+        "了解語詞與詞組的結構異同",
+        "能辨識詞組標記並分析結構",
+        "能分析名詞組及其他詞組"
+    ],
+    "syllabus": "\\[華文\\]\n\n本課程以介紹**生成語法理論**並培養學生具備句法學分析能力為目標，語料及練習材料會儘量涵括台語及華語，以幫助學生能將所學應用於其所熟悉的語言之上。\n\n課程講解**以台語為主**，必要時輔以英語及華語，透過淺白的說明及例子，使學生能了解語言現象及對應的分析工具。\n\n課堂中各段落會有開書的測驗，確認學習情況及進度，課堂中的測驗結果為本課程主要的評分依據，因此課堂中的參與十分重要。\n\n除了講解，課中也會透過分組討論及問題解決，提供學生們剖析語料與練習語言分析的機會。\n\n\\[台文\\]\n\n**週數**\n\n**主題**\n\n**1**\n\n**課程簡介**\n\n**紹介生成句法學（Generative Grammar）**\n\n**詞類（parts of speech）佮徵性**\n\n**2**\n\n**述語佮論元（predicates and arguments）**\n\n**3**\n\n**結構成份（constituency）佮句法樹**\n\n**C統制（C-command）、M統制（M-command）佮管轄（government）**\n\n**4**\n\n**題元理論（Theta Theory）**\n\n**格位理論（Case Thoery）**\n\n**5**\n\n**X-bar理論（X’-theory）**\n\n**6**\n\n**功能投射（functional categories）**\n\n**製圖理論（Cartography）**\n\n**7**\n\n**約束理論（Binding Theory）**\n\n**綜合複習**\n\n**8**\n\n**期中考試**\n\n**9**\n\n**主要語徙位（head movement）**\n\n**疑問詞徙位（wh-movement）**\n\n**10**\n\n**徙位制限（locality constraints）/ 島嶼效應（island effects）**\n\n**相對性徙位原則（relativized minimality）**\n\n**語段理論（phase theory）**\n\n**11**\n\n**徵性：對徙位去指示語到對協（AGREE）和匹配（MATCH）**\n\n**無選擇約束（unselective binding）**\n\n**疑問詞的句法**\n\n**12**\n\n**提升結構（raising）佮控制結構（control）**\n\n**13**\n\n**空語類（empty categories）**\n\n**代詞甪去（pro-drop）**\n\n**14**\n\n**運算元（operator）**\n\n**關係句（relative clauses）佮主題句**\n\n**15**\n\n**邏輯形式（LF; locical form）佮解讀精差**\n\n**量化詞（quantifiers）**\n\n**16**\n\n**期尾考試**\n\n**17**\n\n**(自學) 閱讀練習：提出問題佮揣答案**\n\n**18**\n\n**(自學) 閱讀練習：思考佮批評**",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "老師儘量講白話"
+        },
+        {
+            "type": "討論法",
+            "note": "分組討論"
+        },
+        {
+            "type": "問題解決教學",
+            "note": "透過實例練習問題思考佮解決"
+        },
+        {
+            "type": "實驗/實作",
+            "note": "第17、18週透過文本自學並且實作"
+        },
+        {
+            "type": "媒體融入教學",
+            "note": "使用影片和教學軟體"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 10,
+            "note": "第17佮18週的自學實作練習，一禮拜5%，攏總10%"
+        },
+        {
+            "type": "期中考",
+            "weight": 20,
+            "note": "開冊測驗，會對提早公佈的題庫出題"
+        },
+        {
+            "type": "期末考",
+            "weight": 20,
+            "note": "開冊測驗，會對提早公佈的題庫出題"
+        },
+        {
+            "type": "其他",
+            "weight": 50,
+            "note": "課堂測驗佮心得作業，取其中較懸的3/4算平均，佔40%；另外10%是佇Moodle參與討論，1擺1分。"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

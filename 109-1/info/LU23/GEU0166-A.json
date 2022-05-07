@@ -1,0 +1,74 @@
+{
+    "year": 109,
+    "term": 1,
+    "name": "地理資訊系統",
+    "teachers": [
+        "張國楨"
+    ],
+    "department": "LU23",
+    "code": "GEU0166",
+    "credit": 3,
+    "serial": 2024,
+    "group": "A",
+    "quota": {
+        "limit": 25,
+        "additional": 4
+    },
+    "schedule": [
+        {
+            "day": 5,
+            "from": 3,
+            "to": 5,
+            "campus": "本部",
+            "classroom": "地理系電腦教室"
+        }
+    ],
+    "programs": [
+        "學習與資訊學程",
+        "數位人文與藝術學程",
+        "環境監測學程",
+        "空間學程"
+    ],
+    "comment": "",
+    "restrict": "",
+    "form_s": "2",
+    "classes": "2",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程為介紹地理資訊系統的入門課程, 以修習後能勝任高中地理課程中GIS單元的教學或具備續修進階GIS課程的基礎為目標, 課程內容包括介紹地理資訊系統的基本原理與其如何支援對真實世界問題的空間決策, 並實機操作ArcGIS軟體以熟悉地理資訊系統的運作。",
+    "goals": [
+        "認識地理資訊科學",
+        "學習地理資訊系統的知識",
+        "熟練操作地理資訊系統的技能",
+        "培養解決空間問題的能力"
+    ],
+    "syllabus": "引導學生學習地理資訊系統之基礎理論與技術，利用電腦科技來輔助地理資料輸入，儲存、處理、分析及展示的空間資訊。隨著電腦科技之發展，使以往較複雜之各種空間分析，藉地理資訊系統軟體功能之助，變得更加經濟且有效率，也進而使資訊的取用滿足多元化、模式化之需求。學生完成本課程後能獨立處理分析與空間相關之議題，瞭解地理資訊系統相關的技術及演算法，作為進一步研發的基礎。\n\n  \n\n**Week**\n\n**Chapters**\n\n**1**\n\n**1 Introduction**\n\n**2**\n\n**2 Coordinate Systems**\n\n**3**\n\n**3 Georelational Vector Data Model**\n\n**4~5**\n\n**4 Object-Based Vector Data Model**\n\n**5 Raster Data Model**\n\n**6~8**\n\n**6 Data Input**\n\n**7 Geometric Transformation**\n\n**8 Spatial Data Editing**\n\n**9**\n\n**期中考**\n\n**10**\n\n**9 Attribute Data Input and Management**\n\n**11**\n\n**10 Data Display and Cartography**\n\n**12**\n\n**11 Data Exploration**\n\n**13**\n\n**12 Vector Data Analysis** **(1)**\n\n**14**\n\n**12 Vector Data Analysis** **(2)**\n\n**15**\n\n**13 Raster Data Analysis** **(1)**\n\n**16**\n\n**13 Raster Data Analysis** **(2)**\n\n**17**\n\n**期末考**\n\n  \n課前指定參考教材，課堂講授及上機操作  \n期中考 (50%)  \n• 筆試(15%)  \n• 上機考(35%)  \n期末考(50%)  \n• 筆試(15%)  \n• 上機考(35%)  \n  \n主要教科書:  \nKang-tsung Chang, “Geographic Information System”, McGraw-Hill, 4th edition  \n輔助教材:  \nClarke, “Analytical and Computer Cartography”  \nCromley, “Digital Cartography”  \nIntroduction to GIS ─ NCGIA Core Curriculum, 1991.  \nTechical Issues in GIS ─ NCGIA Core Curriculum, 1991.",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "​引導學生學習地理資訊系統之基礎理論與技術，利用電腦科技來輔助地理資料輸入，儲存、處理、分析及展示的空間資訊。"
+        },
+        {
+            "type": "問題解決教學",
+            "note": "以實際例子進行空間問題分析與解決"
+        },
+        {
+            "type": "實驗/實作",
+            "note": "隨著電腦科技之發展，使以往較複雜之各種空間分析，藉地理資訊系統軟體功能之助，變得更加經濟且有效率，也進而使資訊的取用滿足多元化、模式化之需求。"
+        }
+    ],
+    "grading": [
+        {
+            "type": "期中考",
+            "weight": 50,
+            "note": "筆試(15%) 上機考(35%)"
+        },
+        {
+            "type": "期末考",
+            "weight": 50,
+            "note": "筆試(15%) 上機考(35%)"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

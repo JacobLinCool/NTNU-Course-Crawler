@@ -1,0 +1,95 @@
+{
+    "year": 109,
+    "term": 1,
+    "name": "高級統計資料處理與分析",
+    "teachers": [
+        "邱皓政"
+    ],
+    "department": "E",
+    "code": "E0C8003",
+    "credit": 3,
+    "serial": 369,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 4,
+            "from": 10,
+            "to": 12,
+            "campus": "本部",
+            "classroom": "教403"
+        }
+    ],
+    "programs": [
+        "學習與資訊學程"
+    ],
+    "comment": "",
+    "restrict": "◎課程不開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程係以教授電腦統計套裝軟體為主要內容，主要目的為強化研究生對於量化資料數據處理的能力，以及能運用不同軟體熟練資料分析的方法與技術。",
+    "goals": [
+        "1.\t暸解資料分析的原理原則",
+        "2.\t掌握資料檔案的建立與管理技能",
+        "3.\t熟悉各類統計軟體的操作技能",
+        "4.\t瞭解如何連結研究目的與資料性質之合宜分析",
+        "5.\t瞭解如何在研究中應用資料分析的知能與規範"
+    ],
+    "syllabus": "**課程背景**\n\n統計（statistics）是一門關於0與1的學問，因為是0與1，因此統計以數學（mathematics）為基礎，因為電腦只認0與1，因此統計是資料科學（data science）的核心。想要從小看大（small/big data）、想要調查實驗（survey/experimental data）、想要縱橫時空（longitudinal/cross-sectional data）、想要上天下地（multilevel data）、想要潛顯亦懂探詢看不到的世界（latent/manifest data），一切都要靠統計來對0與1這些數據仔細梳理、讓電腦來演算分析、提供學者專家來解決問題。本門課作為大學統計進階課程，將從數據整理與問題解決的流程觀點，探究統計如何處理社會科學領域當中各式各樣的資料與研究問題，掌握各環節的進退之道，原理上能知其所以，技術上求落實巧用。適合具有量化研究經驗與統計背景知識者修習，或有相關統計方法論文研究及寫作需求者。\n\n* * *\n\n資料建置專題        creating data: 資料蒐集、清理、轉換、備便\n\n樣本遺漏專題        missing data: 隨機遺漏、資料插補、多重插補\n\n嵌套資料專題\\*      nested data: 固定效果、隨機效果、多層次模式\n\n縱貫數據專題\\*      panel data: 時間序列、自我相關、自我迴歸、交叉延宕\n\n第三變數專題        third variable: 控制、中介、調節、路徑、因果\n\n潛在變數專題\\*      latent variable: 信度、效度、因素分析、結構方程模式\n\n貝氏統計專題        Bayes’s era: 貝氏估計、概似、先驗、小樣本、MCMC\n\n**\\*****為視狀況彈性調整略過之專題**\n\n課程進度\n\nweek/date content event\n\n1\\. 09/17  Introduction to course\n\n2\\. 09/24 Research design, data, analysis, and methodology Text#1\n\n3\\. 10/01 Creating/missing data Text#1, Lab1\n\n4\\. 10/08 Review of statistical methods Text#2, Lab2\n\n5\\. 10/15 Multilevel data analysis I Text#3\n\n6\\. 10/22 Multilevel data analysis II Text#3, Lab3\n\n7\\. 10/29 Panel data analysis I Text#3\n\n8\\. 11/05 Panel data analysis II Text#3, Lab4\n\n9\\. 11/12 Mediation and Moderation I Text#3\n\n10\\. 11/19 Mediation and Moderation II Text#3, Lab5\n\n11\\. 11/26 Structural Equation Modeling I Text#4\n\n12\\. 12/03 Structural Equation Modeling II Text#4, Lab6\n\n13\\. 12/10 Bayesian statistics I Text#5\n\n14\\. 12/17 Bayesian statistics II Text#5, Lab8\n\n15\\. 12/24 Bayesian statistics III Text#5, Lab8\n\n16\\. 12/31 Open-book at home Examination\n\n17\\. 01/07 Final Review and Report I\n\n18\\. 01/14 Final Review and Report II",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "課堂講授"
+        },
+        {
+            "type": "討論法",
+            "note": "共同討論重要議題與相關提問"
+        },
+        {
+            "type": "問題解決教學",
+            "note": "實際資料的處理分析"
+        },
+        {
+            "type": "合作學習",
+            "note": "同學得共同完成報告"
+        },
+        {
+            "type": "專題研究",
+            "note": "取真實資料分析，以期刊論文格式撰寫"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 20,
+            "note": "以習作資料或自有資料進行分析，以書面形式繳交，並於課堂隨機抽點進行口頭報告"
+        },
+        {
+            "type": "期末考",
+            "weight": 30,
+            "note": "Openbook機上測試評量（1-2 hours in lab/home）"
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 10,
+            "note": "課程參與出缺席狀況，個人學習態度與互動表現"
+        },
+        {
+            "type": "報告",
+            "weight": 10,
+            "note": "自行選擇內容進行議題報告與帶領討論"
+        },
+        {
+            "type": "專題",
+            "weight": 30,
+            "note": "每組（1至3人）乙篇。取真實資料分析，以期刊論文格式撰寫，以書面形式繳交，並於期末進行口頭報告"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

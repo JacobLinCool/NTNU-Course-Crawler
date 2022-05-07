@@ -1,0 +1,77 @@
+{
+    "year": 107,
+    "term": 1,
+    "name": "機器學習",
+    "teachers": [
+        "包傑奇"
+    ],
+    "department": "HM75",
+    "code": "AEC8018",
+    "credit": 3,
+    "serial": 1164,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 1,
+            "from": 2,
+            "to": 4,
+            "campus": "本部",
+            "classroom": "研討二"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "This course covers methods that computer programs can use to adapt themselves to perform better on similar problems in the future, that is they learn from their experience. Special emphasis is given for machine learning techniques useful for intelligent robotics systems. Lectures will use python and matplotlib for most sample code.",
+    "goals": [
+        "Understanding fundamental issues in machine learning including overfitting,local vs global methods, and inductive bias.",
+        "Use of programming to simulate and analyze complex learning problems that arise in the area of intelligent robotics.",
+        "Evaluate performance of machine learning algorithms on robot control systems."
+    ],
+    "syllabus": "Week 1: Concept Learning: version spaces inductive bias  \nWeek 2: learning of disjunctions, the overfitting problem., case-based meta learning  \nWeek 3: Decision trees: ID3 and C4.5  \nWeek 4: Gradient descent, linear regression  \nWeek 5: Neural nets, backpropagation  \nWeek 6: Deep learning  \nWeek 7: Instance-based learning, k-nearest neighbor algorithm,  \nWeek 8: Case-based reasoning, Locally weighted regression  \nWeek 9: Midterm  \nWeek 10:. Learning sets of rules: sequential covering algorithm,  \nWeek 11: Recommender systems  \nWeek 12: Logistic Regression  \nWeek 13: Support vector machines  \nWeek 14: Advanced support vector machines  \nWeek 15: Genetic algorithms: classification using genetic algorithms  \nWeek 16: Genetic Programming  \nWeek 17: Dynamic programming, Reinforcement learning  \nWeek 18: Final Exam",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": ""
+        },
+        {
+            "type": "問題解決教學",
+            "note": ""
+        },
+        {
+            "type": "實驗/實作",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 40,
+            "note": ""
+        },
+        {
+            "type": "期中考",
+            "weight": 20,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 40,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

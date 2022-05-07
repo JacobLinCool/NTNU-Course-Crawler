@@ -1,0 +1,80 @@
+{
+    "year": 108,
+    "term": 2,
+    "name": "音樂分析",
+    "teachers": [
+        "趙菁文"
+    ],
+    "department": "MM91",
+    "code": "EMM0076",
+    "credit": 2,
+    "serial": 1970,
+    "group": "",
+    "quota": {
+        "limit": 30,
+        "additional": 2
+    },
+    "schedule": [
+        {
+            "day": 3,
+            "from": 8,
+            "to": 9,
+            "campus": "本部",
+            "classroom": "樂研201"
+        }
+    ],
+    "programs": [],
+    "comment": "上課地點：民音所教室(師大路31號2樓)",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 2,
+    "description": "An intensive graduate level course in music analysis in preparation for further independent study on the part of the students.",
+    "goals": [
+        "了解東西方曲式結構之不同，並能相互應用 To understand the difference of music forms between Eastern and Western music and be able to apply the analysis methods.",
+        "具備分析任一樂曲之能力 Be able to analyze any piece."
+    ],
+    "syllabus": "UNIT 1 – Fundamentals (including Shenkerian analysis)\n\nUNIT 2 – Early music through the Renaissance\n\nUNIT 3 – The Sonata Form and Symphony\n\nUNIT 4 – Advanced Studies in Form (including 12-tone technique)",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": ""
+        },
+        {
+            "type": "問題解決教學",
+            "note": ""
+        },
+        {
+            "type": "實驗/實作",
+            "note": ""
+        },
+        {
+            "type": "媒體融入教學",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "課堂討論參與",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "出席",
+            "weight": 20,
+            "note": ""
+        },
+        {
+            "type": "成果展覽",
+            "weight": 50,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

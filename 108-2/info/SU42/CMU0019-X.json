@@ -1,0 +1,63 @@
+{
+    "year": 108,
+    "term": 2,
+    "name": "群論之化學應用",
+    "teachers": [
+        "蔡明剛"
+    ],
+    "department": "SU42",
+    "code": "CMU0019",
+    "credit": 2,
+    "serial": 2779,
+    "group": "",
+    "quota": {
+        "limit": 100,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 5,
+            "from": 6,
+            "to": 7,
+            "campus": "公館",
+            "classroom": "Ｅ302"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "2",
+    "classes": "",
+    "dept_group": "",
+    "hours": 2,
+    "description": "Capable of applying group theory to molecular symmetry and spectroscopic properties of molecules.",
+    "goals": [
+        "Capable of applying group theory to molecular symmetry and spectroscopic properties of molecules."
+    ],
+    "syllabus": "1.General group definition (3 weeks).\n\n2.Point group (3 weeks).\n\n3.Assign individual molecule\\`s point group (2 weeks).\n\n4.Character table (4 weeks).\n\n5.Vibrational spectroscopy (3 weeks).\n\n6.Molecular orbital theory (3 weeks).",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "期中考",
+            "weight": 50,
+            "note": "期中考為兩次"
+        },
+        {
+            "type": "期末考",
+            "weight": 25,
+            "note": ""
+        },
+        {
+            "type": "其他",
+            "weight": 25,
+            "note": "隨堂小考"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

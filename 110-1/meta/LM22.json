@@ -1,0 +1,585 @@
+[
+    {
+        "year": 110,
+        "term": 1,
+        "name": "高行健的文學與藝術",
+        "teachers": [
+            "石曉楓",
+            "李志宏",
+            "蘇子中",
+            "白適銘",
+            "梁志民",
+            "吳義芳"
+        ],
+        "department": "L",
+        "code": "L0C9006",
+        "credit": 2,
+        "serial": 1612,
+        "group": "",
+        "quota": {
+            "limit": 80,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 3,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "誠201"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "",
+        "classes": "9",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 1,
+        "name": "文學與文化老年學專題討論",
+        "teachers": [
+            "蘇榕"
+        ],
+        "department": "LM21",
+        "code": "ENC1120",
+        "credit": 3,
+        "serial": 1655,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 7,
+                "to": 9,
+                "campus": "本部",
+                "classroom": "勤302"
+            }
+        ],
+        "programs": [
+            "高齡學程"
+        ],
+        "comment": "",
+        "restrict": "◎課程開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 1,
+        "name": "人文及社會科學領域專業學術英文寫作與口語表達技巧",
+        "teachers": [
+            "張妙霞"
+        ],
+        "department": "LM21",
+        "code": "ENC2059",
+        "credit": 3,
+        "serial": 1661,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 3,
+                "to": 5,
+                "campus": "本部",
+                "classroom": "勤302"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎課程不開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 1,
+        "name": "臺灣研究",
+        "teachers": [
+            "林芳玫"
+        ],
+        "department": "LM26",
+        "code": "TCC0010",
+        "credit": 3,
+        "serial": 1724,
+        "group": "",
+        "quota": {
+            "limit": 30,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 7,
+                "to": 9,
+                "campus": "本部",
+                "classroom": "雲306會議室"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎課程開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 1,
+        "name": "臺灣二十世紀歷史學研究中的個人文獻",
+        "teachers": [
+            "賀安娟"
+        ],
+        "department": "LM26",
+        "code": "TCC1016",
+        "credit": 3,
+        "serial": 1726,
+        "group": "",
+        "quota": {
+            "limit": 30,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 5,
+                "from": 2,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "雲306會議室"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎課程開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 1,
+        "name": "故宮檔案專題研究",
+        "teachers": [
+            "葉高樹"
+        ],
+        "department": "LM22",
+        "code": "HIC0014",
+        "credit": 2,
+        "serial": 1665,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 3,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "歷史系研究生第1教室"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎課程不開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 1,
+        "name": "東亞經濟史中的臺灣、中國、日本與世界",
+        "teachers": [
+            "林滿紅"
+        ],
+        "department": "LM22",
+        "code": "HIC0040",
+        "credit": 2,
+        "serial": 1666,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 7,
+                "to": 8,
+                "campus": "本部",
+                "classroom": "歷史系研究生第2教室"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎課程不開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 1,
+        "name": "中國族群關係史專題研究（一）",
+        "teachers": [
+            "呂春盛"
+        ],
+        "department": "LM22",
+        "code": "HIC8004",
+        "credit": 2,
+        "serial": 1667,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 3,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "歷史系研究生第2教室"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎課程不開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 1,
+        "name": "精英與現代中國專題研究",
+        "teachers": [
+            "陳惠芬"
+        ],
+        "department": "LM22",
+        "code": "HIC8015",
+        "credit": 3,
+        "serial": 1668,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 2,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "歷史系研究生第1教室"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎課程不開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 1,
+        "name": "日治時期臺灣教育與學術專題研究",
+        "teachers": [
+            "吳文星"
+        ],
+        "department": "LM22",
+        "code": "HIC8016",
+        "credit": 2,
+        "serial": 1669,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 7,
+                "to": 8,
+                "campus": "本部",
+                "classroom": "歷史系研究生第1教室"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎課程不開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 1,
+        "name": "歷史領域產業實習",
+        "teachers": [
+            "林欣宜"
+        ],
+        "department": "LM22",
+        "code": "HIC8018",
+        "credit": 3,
+        "serial": 1670,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 6,
+                "to": 10,
+                "campus": "本部",
+                "classroom": "歷史系視聽教室"
+            }
+        ],
+        "programs": [],
+        "comment": "因已實習單位簽訂合作備忘錄，將由實習企業與本系甄選符合實習條件之同學前往實習單位實習，故本課程不開放系統選課，由老師於課堂發放授權碼，請於選課前徵詢任課教師意見。",
+        "restrict": "◎課程開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 1,
+        "name": "明清社會史專題研究",
+        "teachers": [
+            "邱仲麟"
+        ],
+        "department": "LM22",
+        "code": "HIC8114",
+        "credit": 3,
+        "serial": 1671,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 7,
+                "to": 9,
+                "campus": "本部",
+                "classroom": "歷史系研究生第1教室"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎課程不開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 1,
+        "name": "中國上古史專題研究",
+        "teachers": [
+            "石蘭梅"
+        ],
+        "department": "LM22",
+        "code": "HIC8115",
+        "credit": 3,
+        "serial": 1672,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 2,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "歷史系研究生第3教室"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎課程不開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 1,
+        "name": "歷史學研究法（一）",
+        "teachers": [
+            "楊彥彬"
+        ],
+        "department": "LM22",
+        "code": "HIM0133",
+        "credit": 2,
+        "serial": 1673,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 3,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "歷史系研究生第1教室"
+            }
+        ],
+        "programs": [],
+        "comment": "本系碩士班「歷史學研究法」限定碩二必修，其他年級不得上修，於本系《研究生手冊》頁10即明文規定。茲因碩士班一年級初入學尚未進入擬訂研究主題階段，「歷史學研究法」課程設計即為針對已訂定研究主題(即論文題目)同學，就同學資料蒐集、研究架構及研究方法等問題進行研討，故宜以訂定論文題目之碩二同學修習為宜。",
+        "restrict": "◎課程不開放上修",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 1,
+        "name": "滿文文獻選讀研討",
+        "teachers": [
+            "林士鉉"
+        ],
+        "department": "LU22",
+        "code": "HIC9012",
+        "credit": 2,
+        "serial": 1956,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 10,
+                "to": 11,
+                "campus": "本部",
+                "classroom": "誠307"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "",
+        "classes": "9",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 1,
+        "name": "5至16世紀法蘭西王權專題",
+        "teachers": [
+            "陳秀鳳"
+        ],
+        "department": "LU22",
+        "code": "HIC9015",
+        "credit": 3,
+        "serial": 1957,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 6,
+                "to": 8,
+                "campus": "本部",
+                "classroom": "正403"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "",
+        "classes": "9",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 1,
+        "name": "全球化與近代中國變遷專題",
+        "teachers": [
+            "吳翎君"
+        ],
+        "department": "LU22",
+        "code": "HIC9016",
+        "credit": 3,
+        "serial": 3350,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 9,
+                "to": 10,
+                "campus": "本部",
+                "classroom": "歷史系研究生第1教室"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "",
+        "classes": "9",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 1,
+        "name": "西方漢學專題",
+        "teachers": [
+            "李宗翰"
+        ],
+        "department": "LU22",
+        "code": "HIC9018",
+        "credit": 3,
+        "serial": 1958,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 2,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "正406"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "",
+        "classes": "9",
+        "dept_group": ""
+    }
+]

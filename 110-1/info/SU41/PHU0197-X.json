@@ -1,0 +1,75 @@
+{
+    "year": 110,
+    "term": 1,
+    "name": "計算物理（一）",
+    "teachers": [
+        "江府峻"
+    ],
+    "department": "SU41",
+    "code": "PHU0197",
+    "credit": 3,
+    "serial": 2897,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 6,
+            "to": 8,
+            "campus": "公館",
+            "classroom": "理圖807"
+        }
+    ],
+    "programs": [],
+    "comment": "◎數位課程",
+    "restrict": "",
+    "form_s": "3",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "在此課程中學生將學習如何利用程式語言及計算機(電腦)來處理常見的物理問題。",
+    "goals": [
+        "培養學生有分析及解決問題的能力",
+        "培養學生有表達觀念的能力",
+        "培養學生有程式寫作的能力",
+        "培養學生有數據分析的能力"
+    ],
+    "syllabus": "**授課方式：16+2週. 彈性授課為第17週及第18週**, **進行方式為自主學習**\n\n**這是數位課程, 授課教師的電腦螢幕會錄影起來放到 moodle 上以利同學們複習**\n\nIn this course, we will introduce many useful numerical techniques and methods. In particular, we will apply these methods to solve physical problems. We will use python to implement the introduced techniques and methods. Based on the progress (and feedback) of (from) the registered students, we might skip some listed topics and (or) introduce other (new) techniques.\n\nWeek 1: Installation of anaconda and symbolic python (sympy) for root finding, limit and so on.\n\nWeek 2: Sympy for differential, integration, eigenvalue and ordinary differential equations.\n\nWeek 3: Introduction to python:  \" for \", \" range \", \" while \", and \" if - else \", list and array.\n\nWeeks 4 and 5: Plotting in python: plot, density plot and animation.  \n\nWeek 6: Data analysis in python: \" loadtxt \", \"open\", \" write \", and \" close \".\n\nWeek 7: Finite difference for numerical differential (forward, backward, central, five points and so on).\n\nWeek 8: Numerical integration: Trapezoidal and Simpson methods.\n\nWeek 9: In class (or take home) midterm exam.\n\nWeek 10: Numerical integration: Gaussian quadrature and multidimensional integrals.\n\nWeek 11: Application of numerical integration in Physics: classical mechanics, optic, and thermal physics.\n\nWeeks 12 and 13: Nonlinear equations (single variable): fixed point method, binary search method, Newton (and secant) method(s), and the associated\n\napplications. \n\nWeek 14: Ordinary differential equations (ODEs, initial values problems): Euler and improved Euler methods, mid-point method.\n\nWeek 15: Runge Kutta and other methods for initial valued problems .\n\nWeek 16; Applications of numerical ODEs, double pendulum, SIR model, chaos.\n\nWeeks 17 and 18: presentation by students and self-learning (vpython).",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "Each week the instructor will introduce several numerical methods."
+        },
+        {
+            "type": "實驗/實作",
+            "note": "Each week there will be a 50 minutes lab. Students are required to implement the numerical methods taught during the lectures of that week."
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 25,
+            "note": "in class quizzes"
+        },
+        {
+            "type": "期中考",
+            "weight": 30,
+            "note": "There will be one in class or take home (midterm) exams. During the exam the students can consult their \"  OWN \" codes and notes."
+        },
+        {
+            "type": "出席",
+            "weight": 20,
+            "note": ""
+        },
+        {
+            "type": "報告",
+            "weight": 25,
+            "note": "Students will give some assigned presentations near the end of the semester."
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

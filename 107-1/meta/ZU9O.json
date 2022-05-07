@@ -1,0 +1,276 @@
+[
+    {
+        "year": 107,
+        "term": 1,
+        "name": "冷凍空調原理（一）",
+        "teachers": [
+            "莫懷恩"
+        ],
+        "department": "HU70",
+        "code": "IEU3154",
+        "credit": 3,
+        "serial": 1201,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 10,
+                "to": 12,
+                "campus": "本部",
+                "classroom": "冷凍場"
+            }
+        ],
+        "programs": [
+            "室內設計學程"
+        ],
+        "comment": "",
+        "restrict": "",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": "H"
+    },
+    {
+        "year": 107,
+        "term": 1,
+        "name": "展示設計",
+        "teachers": [
+            "耿",
+            "剛"
+        ],
+        "department": "HU71",
+        "code": "ITU0051",
+        "credit": 3,
+        "serial": 1237,
+        "group": "",
+        "quota": {
+            "limit": 30,
+            "additional": 11
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 16,
+                "to": 11,
+                "campus": "本部",
+                "classroom": "科310"
+            }
+        ],
+        "programs": [
+            "室內設計學程"
+        ],
+        "comment": "",
+        "restrict": "◎限大三修習",
+        "form_s": "3",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 1,
+        "name": "人因工程",
+        "teachers": [
+            "簡佑宏"
+        ],
+        "department": "HU71",
+        "code": "ITU2035",
+        "credit": 3,
+        "serial": 1238,
+        "group": "",
+        "quota": {
+            "limit": 35,
+            "additional": 7
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 7,
+                "to": 9,
+                "campus": "本部",
+                "classroom": "科311"
+            }
+        ],
+        "programs": [
+            "室內設計學程"
+        ],
+        "comment": "",
+        "restrict": "◎限大三修習",
+        "form_s": "3",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 1,
+        "name": "行銷管理",
+        "teachers": [
+            "王仕茹"
+        ],
+        "department": "OU57",
+        "code": "BAU0021",
+        "credit": 3,
+        "serial": 2445,
+        "group": "",
+        "quota": {
+            "limit": 60,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 2,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "綜508會議室"
+            }
+        ],
+        "programs": [
+            "室內設計學程",
+            "社團領導學程"
+        ],
+        "comment": "",
+        "restrict": "◎必須先修過【BAU0048  企業管理概論】",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 1,
+        "name": "色彩學",
+        "teachers": [
+            "施令紅"
+        ],
+        "department": "TU68",
+        "code": "VDU0006",
+        "credit": 2,
+        "serial": 3100,
+        "group": "",
+        "quota": {
+            "limit": 45,
+            "additional": 5
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 7,
+                "to": 8,
+                "campus": "本部",
+                "classroom": "設計系2A教室"
+            }
+        ],
+        "programs": [
+            "室內設計學程"
+        ],
+        "comment": "",
+        "restrict": "◎限本系(含雙主修)修習",
+        "form_s": "1",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 1,
+        "name": "室內設計圖學",
+        "teachers": [
+            "劉大章"
+        ],
+        "department": "TU68",
+        "code": "VDU0211",
+        "credit": 2,
+        "serial": 3116,
+        "group": "",
+        "quota": {
+            "limit": 30,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 1,
+                "to": 2,
+                "campus": "本部",
+                "classroom": "設計系2A教室"
+            }
+        ],
+        "programs": [
+            "室內設計學程"
+        ],
+        "comment": "",
+        "restrict": "◎必須先修過【VDU0217  基礎模型製作】",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 1,
+        "name": "施工圖",
+        "teachers": [
+            "劉大章"
+        ],
+        "department": "TU68",
+        "code": "VDU0157",
+        "credit": 2,
+        "serial": 3130,
+        "group": "",
+        "quota": {
+            "limit": 30,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 3,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "設計系2A教室"
+            }
+        ],
+        "programs": [
+            "室內設計學程"
+        ],
+        "comment": "",
+        "restrict": "◎必須先修過【VDU0217  基礎模型製作】",
+        "form_s": "3",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 1,
+        "name": "商業空間設計（一）",
+        "teachers": [
+            "陸正宇"
+        ],
+        "department": "TU68",
+        "code": "VDU0251",
+        "credit": 2,
+        "serial": 3136,
+        "group": "",
+        "quota": {
+            "limit": 30,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 8,
+                "to": 9,
+                "campus": "本部",
+                "classroom": "設計系3A教室"
+            }
+        ],
+        "programs": [
+            "室內設計學程"
+        ],
+        "comment": "",
+        "restrict": "",
+        "form_s": "3",
+        "classes": "",
+        "dept_group": ""
+    }
+]

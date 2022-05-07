@@ -1,0 +1,64 @@
+{
+    "year": 108,
+    "term": 1,
+    "name": "固態物理（一）",
+    "teachers": [
+        "吳文欽"
+    ],
+    "department": "SM41",
+    "code": "PHC0023",
+    "credit": 3,
+    "serial": 2685,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 2,
+            "to": 4,
+            "campus": "公館",
+            "classroom": "Ｓ701"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "Solid state physics is a BIG subject. The more you know about its various topics, the better. Therefore, I'll try to cover as many topics as possible. The elementary topics, such as crystal structure, phonons, band structure, and Fermi surface, should be covered in undergraduate course already. \nConsequently, I'll review them in a concise manner.",
+    "goals": [
+        "瞭解固態物理的重要理論與實驗",
+        "簡介固態物理的新發展"
+    ],
+    "syllabus": "**Periodic Crystal Structure (Chapter 4–7)**\n\n*   Crystal lattices, the Reciprocal Lattice, and Brillouin zones\n*   X-ray and Neutron diffraction from crystals lattices\n*   Point groups and space groups\n\n**Electron States (Chapter 1–3, 8–11)**\n\n*   Drude theory of electrons\n*   Electrons in solids\n*   Bloch's theorem\n*   Properties of Bloch state electrons\n*   Nearly free and tight binding models\n*   OPW and pseudo-potential theory density functional theory, and other approaches\n\n**Electron Dynamics (Chapter 12–16)**\n\n*   Semiclassical Theoy\n*   Nonequilibrium distribution function\n*   Measuring the Fermi surface: dHvA effect\n*   Band structures: metals, semiconductors, and insulators\n*   Boltzmann Equation\n\n**Electron Interactions (Chapter 17)**\n\n*   Hartree and Hatree-Fock approximations\n*   Screening\n*   Quasiparticles (Landau Fermi liquid theory)",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "以講述授課為主"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "期中考",
+            "weight": 35,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 35,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

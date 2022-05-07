@@ -1,0 +1,80 @@
+{
+    "year": 107,
+    "term": 1,
+    "name": "適應與天擇",
+    "teachers": [
+        "廖培鈞"
+    ],
+    "department": "SM43",
+    "code": "BIC0185",
+    "credit": 3,
+    "serial": 2643,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 3,
+            "from": 10,
+            "to": 12,
+            "campus": "公館",
+            "classroom": "Ｅ201"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程不開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "This course will discuss on the perspectives of adaptation and selection at the interface of ecology and evolution. In general, Adaptation and selection considers how organisms have evolved to become adapted to their abiotic and biotic environments and how current ecological processes interact with evolutionary process. The field stresses the use of genetic tools in understanding evolutionary and ecological theory. The goal of this course is to understand the adaptive significance and evolutionary potential of phenotypic variation in natural populations. The format of the course will be a combination of lecture and discussion. Instructors will give background lectures, and students will lead discussion sessions on a variety of topics covered each week. Lectures and assigned readings are designed to provide a foundation in adaptation and selection in relation to phenotypic and genetic variation in natural populations.",
+    "goals": [
+        "Lectures and assigned readings are designed to provide a foundation in adaptation and selection in relation to phenotypic and genetic variation in natural populations.",
+        "Students will identify an area of interest and propose research to answer an outstanding question in that area."
+    ],
+    "syllabus": "1\\. 授課方式主要以討論、文獻閱讀及分析軟體實作為主\n\n2\\. 資料分析及方法介紹的部分以研討的方式進行，進行這部分的授課時，修課學生須帶筆記型電腦來上課，並須先行摸索操作軟體於課堂時先做討論再做練習。歡迎學生攜帶自己的data進行實作練習。\n\n3\\. 上課主題涵括生態面向(Eco-oriented)及演化面向(Evol-oriented)的適應天擇議題為主，並在演化面向著重在基因層次上，近源種雜交/基因滲入下的適應、競爭機制；生態層面將著重在物種共存、競爭、合作等交互作用的關係。\n\n4\\. 授課方式隨時依進度調整。\n\n5\\. 設置facebook社群\"適應與天擇\"以便隨時進行作業的討論。\n\n**Week 1**\n\nIntroductions and Course Overview\n\nAdaptation and selection: A Historical Perspective\n\n**Week 2**\n\nGenetic Basis of Evolutionary Change  (1): Evolutionary rates\n\nIntroduction of PAML\n\n**Week 3**\n\nGenetic Basis of Evolutionary Change  (2): Recombination\n\nIntroduction of HyPhy and GeneConv\n\n**Week 4**\n\nEvolution of Communities (1): How different species coexist in a community?\n\nIntroduction of R\n\n**Week 5**\n\nEvolution of Communities (2): Generalist, Specialist, and Rare\n\nExercise: package vegan\n\n**Week 6** \n\nEvolution of Communities (3): Functional group\n\nExercise: vegan\n\n**Week 7**\n\nClimatic effects: Biogeographic range expansions and contractions  \n\nIntroduction of BEAST and package ape in R\n\nExercise: ape\n\n**Week 8**\n\nPhenotypic Plasticity I: Ecological Genetics and Genotype x Environment\n\nExercise: packages MultiPhen & MultiMeta\n\n**Week 9**\n\nPhenotypic Plasticity II: Selection and Adaptation\n\n**Week 10**\n\nMidterm\n\n**Week 11**\n\nSexual Selection and Mating Systems\n\nEstimating the outcrossing/inbreeding/selfing rate\n\nExercise: GeneAlex and package OneMap\n\n**Week 12**\n\nSpeciation: Evolution of Reproductive Isolation  \n\nIntroduction of IM, IMa, and IMa2\n\n**Week 13**\n\nSpeciation: Ecological Speciation  \n\nIntroduction of approximate Bayesian computation (ABC)\n\nExercise: DIYABC\n\n**Week 14**\n\nEvolutionary Consequences of Species Interactions\n\nHybridization and introgression\n\n**Week 15**\n\nDoes natural selection shape biodiversity?\n\nAdaptive introgression\n\n**Week 16**\n\nApplied Evolutionary Ecology and Evolutionary Conservation Biology\n\n**Week 17** \n\nFinal Discussion, Class Evaluation, and Review Paper Deadline\n\n**Week 18**\n\nFinal exam",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "介紹遺傳學在適應與演化的應用"
+        },
+        {
+            "type": "討論法",
+            "note": "針對各個主題進行討論"
+        },
+        {
+            "type": "問題解決教學",
+            "note": "重新分析閱讀文獻的資料，以課堂中介紹的分析方法及概念重新闡述結果、比較原文獻的討論內容，並重新發掘問題"
+        },
+        {
+            "type": "合作學習",
+            "note": "分組討論及報告"
+        },
+        {
+            "type": "實驗/實作",
+            "note": "重新分析閱讀文獻的資料，軟體分析"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 20,
+            "note": "1-1具備探究生命科學之專業知識 3-1具備針對實驗結果，進行正確分析、歸納並發表研究成果的能力"
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 40,
+            "note": "3-1具備針對實驗結果，進行正確分析、歸納並發表研究成果的能力"
+        },
+        {
+            "type": "報告",
+            "weight": 40,
+            "note": "1-1具備探究生命科學之專業知識 3-1具備針對實驗結果，進行正確分析、歸納並發表研究成果的能力"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

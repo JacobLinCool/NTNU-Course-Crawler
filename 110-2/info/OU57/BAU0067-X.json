@@ -1,0 +1,83 @@
+{
+    "year": 110,
+    "term": 2,
+    "name": "金融科技",
+    "teachers": [
+        "董夢雲"
+    ],
+    "department": "OU57",
+    "code": "BAU0067",
+    "credit": 3,
+    "serial": 2433,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 3,
+            "from": 7,
+            "to": 9,
+            "campus": "本部",
+            "classroom": "誠207"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎必須先修過【BAU0007  財務管理】 ◎課程開放上修",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "金融科技的發展與應用已經成為金融業未來的重要趨勢，不論是由金融業增加科技的應用以擴大服務範圍，或是由科技業跨足金融服務範疇，金融業和科技業必須要相互學習與交流。\n本課程將從不同的金融服務領域應用，幫助同學瞭解金融科技的技術內容、應用領域及商業模式，並透過專題介紹讓修課同學了解金融科技的底層技術，希望達到了解並運用此新興科技的目的。\n課程內容包括三大部分，第一部分由教師說明金融科技的主要趨勢與應用，包含金融科技創新應用的發展趨勢、群眾募資與資金融通、第三方支付與行動支付、金融業金融科技與監理、大數據應用、加密貨幣與區塊鍊、物聯網與人工智慧，等主題。\n第二部分由教師展示目前在區塊鍊與物聯網應用中，最為重要的基本知識。教師將以Python說明區塊鍊的結構與工作原理，讓學生可以在有限數理基礎知識下，了解區塊鍊的底層知識，包括加密技術、加密貨幣的產生、錢包的創造等。\n第三部分由學生分組報告，針對國外一些金融科技的創新應用，由學生分組討論，並在課堂上報告。使學生對創新應用的方向有更具體的認知。",
+    "goals": [
+        "Apply methods, tools, and software for acquiring, managing/storing, and accessing structured and unstructured data",
+        "Prepare data for statistical analysis, perform basic exploratory and descriptive analysis, and apply statistical techniques to analyze data",
+        "Apply descriptive, predictive and prescriptive analytics to business modeling and decision-making",
+        "Demonstrate orally, and in writing, the ability to explain complex analytical models and results"
+    ],
+    "syllabus": "week 1: 科技與金融\n\nweek 2: 群眾募資與資金融通\n\nweek 3: 第三方支付\n\nweek 4: 行動支付\n\nweek 5: 金融業科技發展\n\nweek 6: 金融監理\n\nweek 7: 金融大數據應用\n\nweek 8: 加密貨幣\n\nweek 9: 區塊鍊\n\nweek 10: AI與物聯網\n\nweek 11: Python介紹\n\nweek 12:區塊鍊構成技術\n\nweek 13:區塊、錢包的產生\n\nweek 14:區塊鍊交易\n\nweek 15:Proof of Work\n\nweek 16:創建區塊鍊\n\nweek 17:分組期末報告(上)\n\nweek 18:分組期末報告(下)",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "課程內容講述"
+        },
+        {
+            "type": "討論法",
+            "note": "金融科技案例小組報告"
+        },
+        {
+            "type": "問題解決教學",
+            "note": "傳統金融機構痛點與科技導入解決方案"
+        },
+        {
+            "type": "實驗/實作",
+            "note": "使用Python展示區塊鍊技術實作"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 20,
+            "note": ""
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 20,
+            "note": ""
+        },
+        {
+            "type": "出席",
+            "weight": 20,
+            "note": "(凡在學期期間內考取金融數位力證照者，加總平均分數5分)"
+        },
+        {
+            "type": "報告",
+            "weight": 40,
+            "note": "金融科技競賽小組報告"
+        }
+    ],
+    "prerequisite": "◎必須先修過【BAU0007  財務管理】",
+    "general_core": []
+}

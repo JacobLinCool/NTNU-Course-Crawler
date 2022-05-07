@@ -1,0 +1,66 @@
+{
+    "year": 109,
+    "term": 1,
+    "name": "統計計算專題（二）",
+    "teachers": [
+        "張少同"
+    ],
+    "department": "SM40",
+    "code": "MAC0040",
+    "credit": 3,
+    "serial": 2678,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 4,
+            "from": 2,
+            "to": 4,
+            "campus": "公館",
+            "classroom": "數學館311研討室"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本科目為數值方法應用於統計學的專門課程，主要研究有效而正確程式設計方法，內容包括積分法，直交矩陣演算法，亂數之產生與模擬方法，並包含探討套裝程式之使用與限制。",
+    "goals": [
+        "讓學生能將數值方法應用於統計學上，並進行資料分析與實務上的應用"
+    ],
+    "syllabus": "每週主題(各一週，期中和期末報告各一週，共18週)  \n1\\. Multivariate normal distributions  \n2\\. Hierarchical models  \n3\\. Markov chains of discrete state space  \n4\\. Markov chains of continuous state space  \n5\\. Poisson processes  \n6\\. Monte Carlo estimates  \n7\\. Applications to statistical inference  \n8\\. The Metropolis–Hastings method  \n9\\. Convergence of Markov Chain Monte Carlo methods  \n10\\. Applications to Bayesian inference  \n11\\. The Gibbs sampler  \n12\\. Reversible Jump Markov Chain Monte Carlo  \n13\\. Approximate Bayesian Computation  \n14\\. Resampling methods  \n15\\. Continuous-time models  \n16\\. Brownian motion",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": ""
+        },
+        {
+            "type": "專題研究",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 50,
+            "note": ""
+        },
+        {
+            "type": "報告",
+            "weight": 50,
+            "note": "期中、期末各1次"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

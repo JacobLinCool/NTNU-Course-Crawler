@@ -1,0 +1,69 @@
+{
+    "year": 107,
+    "term": 2,
+    "name": "近世代數（二）",
+    "teachers": [
+        "劉家新"
+    ],
+    "department": "SU40",
+    "code": "MAC0094",
+    "credit": 3,
+    "serial": 2710,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 4,
+            "from": 6,
+            "to": 8,
+            "campus": "公館",
+            "classroom": "教室自排"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "",
+    "classes": "9",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程讓學生瞭解抽象代數的理論，以作為學生未來修習其他進階課程的基礎。",
+    "goals": [
+        "訓練學生掌握抽象代數的知識",
+        "訓練學生可以用代數的語言進行溝通、表達、寫作",
+        "培養學生的直覺、欣賞與應用代數至其他學科的能力"
+    ],
+    "syllabus": "   \n1\\. Rings, ideals and modules. (1 week)  \n2\\. Simple modules and primitive rings. (2 weeks)  \n3\\. Field extensions. (2 weeks)  \n4\\. Galois theory. (3 weeks)  \n5\\. Separable and inseparable.(2 weeks)  \n6\\. Cyclotomy and geometric constructions.(1 week)  \n7\\. Finite fields.(1 week)  \n8\\. Roots, radicals and real numbers.(1 week)  \n9\\. Norms, traces and discriminants.(2 weeks)  \n10\\. Ideal theory, Noetherian rings.(2 weeks)  \n11\\. Integrality. (1 week)",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 20,
+            "note": ""
+        },
+        {
+            "type": "期中考",
+            "weight": 40,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 40,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

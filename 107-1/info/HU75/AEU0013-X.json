@@ -1,0 +1,80 @@
+{
+    "year": 107,
+    "term": 1,
+    "name": "程式設計",
+    "teachers": [
+        "林政宏"
+    ],
+    "department": "HU75",
+    "code": "AEU0013",
+    "credit": 3,
+    "serial": 1320,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 15
+    },
+    "schedule": [
+        {
+            "day": 5,
+            "from": 7,
+            "to": 9,
+            "campus": "本部",
+            "classroom": "教401"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "1",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本科目旨在使學生能以程式設計語言C語言為基礎，於熟習基本程式語法後，再導入C++程式語言。內容著重邏輯思考與程式設計能力之訓練及其在工程上之應用，同時輔以程式設計過程所應注意之程式結構、偵錯、可攜性、軟體工程的基本概念，使修習者得以建立設計程式語言之基礎。",
+    "goals": [
+        "本門課程在使學生熟悉C語言程式的語法,並能以C語言完成程式設計技巧。",
+        "具備程式語言與設計邏輯知識",
+        "具備利用程式設計於相關領域的能力",
+        "具備抽象思考與推理能力",
+        "培養專業工作能力"
+    ],
+    "syllabus": "Learn the C programming language and its fundamental programming concepts. Gain the knowledge to write simple C language applications and undertake future courses that assume some background in computer programming. The course covers the following topics.\n\nIntroduction to C and its advanced applications\n\nStructured Program  \nC control flow  \nFunctions  \nArray  \nCharacters and strings  \nInput and output  \nC structure, union, Bit Manipulations and Enumeration  \nFile processing  \nData structure  \nPreprocessor",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": ""
+        },
+        {
+            "type": "問題解決教學",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 20,
+            "note": ""
+        },
+        {
+            "type": "期中考",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "其他",
+            "weight": 20,
+            "note": "課堂小考"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

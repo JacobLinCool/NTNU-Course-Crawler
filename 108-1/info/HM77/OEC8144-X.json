@@ -1,0 +1,69 @@
+{
+    "year": 108,
+    "term": 1,
+    "name": "傅氏光學",
+    "teachers": [
+        "鄭超仁"
+    ],
+    "department": "HM77",
+    "code": "OEC8144",
+    "credit": 3,
+    "serial": 1215,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 3,
+            "from": 2,
+            "to": 4,
+            "campus": "公館",
+            "classroom": "綜合館201"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程不開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程為傅立葉光學簡介，使學生能運用訊號與系統的觀念了解光波繞射傳播、透鏡成像、同調與非同調成像系統特性及其頻率響應，並作為光學資訊處理與全像術應用研究之學科基礎。",
+    "goals": [
+        "瞭解光的特性、光學原理及光學影像的特性",
+        "學習光學系統成像特性、原理與應用，學習光學影像處理相關方法與技術。",
+        "認識光學影像處理應用個案研究。"
+    ],
+    "syllabus": "週次\n\n教學大綱及進度\n\n1\n\n1.  什麼是傅立葉光學\n\n2\n\n1.  資訊光學的發展史\n\n3\n\n1.  傅立葉光學的數學基礎\n\n2.  常用函數及其傅立葉轉換\n\n4\n\n1.  傅立葉轉換\n\n2.  函數的卷積與相關運算\n\n5\n\n1.  系統之基本觀念\n\n2.  線性系統的性質\n\n6\n\n1.  Kirchhoff Diffraction Formula\n\n2.  Rayleigh-Sommerfeld Diffraction Formula\n\n7\n\n1.  光波在自由空間中傳播\n\n2.  由角譜的觀念看Fresnel繞射傳播\n\n8\n\n1.  Fresnel繞射\n\n2.  Fraunhofer繞射\n\n9\n\n期中測驗評量\n\n10\n\n1.  薄透鏡對光波之作用\n\n2.  薄透鏡的傅立葉變換性質\n\n11\n\n1.   理想薄透鏡成像\n\n2.   一般成像系統及多色光源照明之成像系統\n\n12\n\n1.  繞射受限的同調光學成像系統的頻譜響應\n\n2.  繞射受限的非同調光學成像系統的頻譜響應\n\n13\n\n1.  同調與非同調光成像系統比較\n\n2.  兩點分辨力之比較\n\n14\n\n1.  像差對成像頻率響應之影響\n\n2.  光學成像系統之空間解析度\n\n15\n\n1.  全像術\n\n2.  現代全像術\n\n16\n\n數位全像術\n\n17      \n\n電腦全像術\n\n18\n\n期末測驗評量",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "媒體融入教學",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 40,
+            "note": ""
+        },
+        {
+            "type": "期中考",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 30,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

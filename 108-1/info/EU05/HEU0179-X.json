@@ -1,0 +1,92 @@
+{
+    "year": 108,
+    "term": 1,
+    "name": "人體解剖生理學",
+    "teachers": [
+        "古宏海"
+    ],
+    "department": "EU05",
+    "code": "HEU0179",
+    "credit": 3,
+    "serial": 753,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 1,
+            "from": 2,
+            "to": 4,
+            "campus": "本部",
+            "classroom": "正103"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "1",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "人體解剖生理學的教學目的在於使本系學生瞭解人體各器官系統的組成構造與功能，進而瞭解人體系統整合恆定作用的機制。為學生在往後修習與衛生學門相關的科目打下深厚的基礎，在從事衛生保健、健康促進或公衞工作時能得心應手，也能讓有志從事基礎醫學研究的同學具備相當的學識。為達成上述教學目標，除了教授正常結構、系統生理內容外，會佐以相當份量的臨床症狀，說明本課程與日後應用的密切關係。",
+    "goals": [
+        "學生瞭解人體各器官系統的組成構造與功能",
+        "瞭解人體系統整合恆定作用的機制",
+        "為學生在往後修習與衛生學門相關的科目打下深厚的基礎"
+    ],
+    "syllabus": "Week                      Topic                        Chapter\n--------------------------------------------------------------\n\n1                     Organization and General Plan of The Body           1\n\n2                     The Tissues and Membranes                                   4\n\n_3_                     The Integument                                                       5\n\n4                     The Skeletal System                                                 6\n\n5                     The Muscular System                                               7\n\n**_6                    The 1st Midterm Examination_**\n\n7                     The Nervous System                                                8\n\n8                     The Senses, Eye and Ear                                           9\n\n9                     The Endocrine System                                            10\n\n10                   The Cardiovascular System                                     12, 13\n\n11                   The Blood and Lymphatic Systems                         11, 14\n\n**_12                   The 2nd Midterm Examination_**\n\n13                    The Respiratory Systems                                        15\n\n14                    Digestion, Nutrition and Metaboilism   (I)             16, 17\n\n15                    Digestion, Nutrition and Metabolism  (II)              16, 17\n\n16                    The Urinary System and The Body Fluid                18, 19\n\n17                    The Reprodutive System                                         20\n\n**_18                   The Final Examination_**",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "以主要教科書為本，相關參考書為輔；依預計ˋ進度講解各課目解剖、生理及常見臨床症狀。"
+        },
+        {
+            "type": "討論法",
+            "note": "預先釋出各課目相關問題，讓同學查閱資料，在課堂上討論。"
+        },
+        {
+            "type": "問題解決教學",
+            "note": "同學提問題，個別或全班共同討論。"
+        },
+        {
+            "type": "其他",
+            "note": "隨機提供參訪、旁聽參與研討資訊。"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 10,
+            "note": "不定期提出家庭作業，擴充學習內容。"
+        },
+        {
+            "type": "期中考",
+            "weight": 35,
+            "note": "依進度內容，定期檢測，驗收學習成果。連同期末學習總檢驗，共佔總成績70%。"
+        },
+        {
+            "type": "期末考",
+            "weight": 35,
+            "note": "期末學習總檢驗 (併入期中考考評)。"
+        },
+        {
+            "type": "出席",
+            "weight": 10,
+            "note": "不定時點名，檢視同學對課程的參與態度。"
+        },
+        {
+            "type": "報告",
+            "weight": 5,
+            "note": "擬訂特定研習題材，提出報告。"
+        },
+        {
+            "type": "其他",
+            "weight": 5,
+            "note": "紀錄課堂表現，匯入考評成績。"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

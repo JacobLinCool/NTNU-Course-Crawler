@@ -1,0 +1,76 @@
+{
+    "year": 109,
+    "term": 2,
+    "name": "高等微積分（二）",
+    "teachers": [
+        "林延輯"
+    ],
+    "department": "SU40",
+    "code": "MAU0163",
+    "credit": 4,
+    "serial": 2779,
+    "group": "B",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 1,
+            "from": 3,
+            "to": 4,
+            "campus": "公館",
+            "classroom": "Ｂ103"
+        },
+        {
+            "day": 4,
+            "from": 6,
+            "to": 7,
+            "campus": "公館",
+            "classroom": "Ｂ103"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎必須先修過【MAU0162  高等微積分（一）】",
+    "form_s": "2",
+    "classes": "",
+    "dept_group": "",
+    "hours": 4,
+    "description": "深入探討微積分所需之理論，並為往後之數學分析建立紮實的基礎。",
+    "goals": [
+        "瞭解微積分的理論基礎",
+        "增進抽象理論思考能力",
+        "提升邏輯論證層次"
+    ],
+    "syllabus": "歐氏空間中的函數與映射\n\n1.   歐氏空間(3週)：歐氏空間之內積空間結構，歐氏空間的距離函數，開集，閉集，(路徑)連通集，緊緻集，Bolzano-Weierstrass定理，Heine-Borel定理。\n\n2.   歐氏空間的連續函數(3週)：歐氏空間函數極限定義，拓樸空間與賦距空間中連續函數之定義與比較，連通集與中間值定理，緊緻集與極值定理，均勻連續函數之關係。\n\n3.   多變數函數之微分(6週)：全微分的線性變換觀點，微分的連鎖律，偏導數，方向導數，反函數定理，隱函數定理，Jacobian矩陣，多變數函數之均值定理，Taylor展開式，二階微分判斷函數之臨界值與極值，Lagrange乘子法。\n\n4. 多變數函數之積分(4週)：多變數的 Riemann 積分，連續函數之 Fubini 定理，積分之變數變換規則，線積分， Green 定理。",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "講述基本理論與示例"
+        },
+        {
+            "type": "其他",
+            "note": "習題研討"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 10,
+            "note": "每週乙次紙筆作業"
+        },
+        {
+            "type": "期中考",
+            "weight": 60,
+            "note": "期中評量二回"
+        },
+        {
+            "type": "期末考",
+            "weight": 30,
+            "note": "期末評量乙回"
+        }
+    ],
+    "prerequisite": "◎必須先修過【MAU0162  高等微積分（一）】",
+    "general_core": []
+}

@@ -1,0 +1,81 @@
+{
+    "year": 108,
+    "term": 2,
+    "name": "高等微積分（二）",
+    "teachers": [
+        "謝世峰"
+    ],
+    "department": "SU40",
+    "code": "MAU0163",
+    "credit": 4,
+    "serial": 2690,
+    "group": "B",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 1,
+            "from": 3,
+            "to": 4,
+            "campus": "公館",
+            "classroom": "Ｅ102"
+        },
+        {
+            "day": 4,
+            "from": 6,
+            "to": 7,
+            "campus": "公館",
+            "classroom": "Ｅ102"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎必須先修過【MAU0162  高等微積分（一）】",
+    "form_s": "2",
+    "classes": "",
+    "dept_group": "",
+    "hours": 4,
+    "description": "深入探討微積分所需之理論，並為往後之數學分析建立紮實的基礎。",
+    "goals": [
+        "瞭解微積分的理論基礎",
+        "增進抽象理論思考能力",
+        "提升邏輯論證層次"
+    ],
+    "syllabus": "1\\. Euclidean Spaces\n\n2\\. Metric Spaces\n\n3\\. Compact Sets\n\n4\\. Connected Sets\n\n5\\. Continuous Functions\n\n  \n\n6\\. Partial Derivatives\n\n7\\. Differentiability\n\n8\\. Derivatives and Tangent Planes\n\n9\\. The Chain Rule\n\n10 MVT and Taylor\\`s Formula\n\n11\\. The Inverse Function Theorem\n\n  \n\n12\\. Remann Integrals on R^n\n\n13\\. Iterated Integrals\n\n14\\. Change of Variable\n\n  \n\n15\\. Curves and Oriented Curves\n\n16\\. Surfaces and Oriented Surfaces\n\n17\\. Green\\`s Theorem\n\n18\\. Stoke\\`s Theorem",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "問題解決教學",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "期中考",
+            "weight": 60,
+            "note": "於第6週及第12週舉行，分別占30%"
+        },
+        {
+            "type": "期末考",
+            "weight": 30,
+            "note": "於第18週舉行"
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 5,
+            "note": ""
+        },
+        {
+            "type": "出席",
+            "weight": 5,
+            "note": ""
+        }
+    ],
+    "prerequisite": "◎必須先修過【MAU0162  高等微積分（一）】",
+    "general_core": []
+}

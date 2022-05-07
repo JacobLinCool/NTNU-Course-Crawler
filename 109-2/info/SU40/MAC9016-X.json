@@ -1,0 +1,76 @@
+{
+    "year": 109,
+    "term": 2,
+    "name": "密碼學",
+    "teachers": [
+        "李華介"
+    ],
+    "department": "SU40",
+    "code": "MAC9016",
+    "credit": 3,
+    "serial": 2741,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 1,
+            "from": 2,
+            "to": 4,
+            "campus": "公館",
+            "classroom": "數學館M210"
+        }
+    ],
+    "programs": [
+        "科學計算學程"
+    ],
+    "comment": "",
+    "restrict": "",
+    "form_s": "",
+    "classes": "9",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程主要是運用我們了解的數學知識到處理現實世界的資訊問題。主要論及編碼的三大課題：經濟性(資訊壓縮)，可用性(除錯)以及隱密性(密碼)。\n本課程處理密碼部分。",
+    "goals": [
+        "瞭解編碼的基本性質。",
+        "瞭解近年來編碼及密碼的重要結果。",
+        "能將所學運用在未來相關的研究上。"
+    ],
+    "syllabus": "The development of cryptography 2 Weeks\n\nCryptography in theory and practice 3 weeks\n\nThe RSA cryptosystem 3 weeks\n\nCryptography and calculation 4 weeks\n\nElliptic curve cryptography 4 weeks",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "講述重要概念與理論"
+        },
+        {
+            "type": "討論法",
+            "note": "不時提出問題與學生互動討論, 學生需參與問題討論"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 30,
+            "note": "平時作業包括課堂上所提問的問題"
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 30,
+            "note": "參與討論及提問的次數為依據"
+        },
+        {
+            "type": "出席",
+            "weight": 10,
+            "note": ""
+        },
+        {
+            "type": "報告",
+            "weight": 30,
+            "note": "對所學內容報告"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

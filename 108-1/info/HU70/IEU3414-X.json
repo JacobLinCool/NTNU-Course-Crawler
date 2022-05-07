@@ -1,0 +1,75 @@
+{
+    "year": 108,
+    "term": 1,
+    "name": "電工學",
+    "teachers": [
+        "翁上錦"
+    ],
+    "department": "HU70",
+    "code": "IEU3414",
+    "credit": 3,
+    "serial": 1223,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 5,
+            "from": 10,
+            "to": 12,
+            "campus": "本部",
+            "classroom": "工401"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "傳授學生電機學之基本知識，培養學生具備電器元件、電學名詞與定理、磁的認識與特性、電學、波形等對電的基本相關知識。",
+    "goals": [
+        "了解電的之基本知識",
+        "了解電在能源及車輛的應用",
+        "增加主動邏輯思考及演算能力",
+        "了解使用電的安全及倫理觀念"
+    ],
+    "syllabus": "1.          電的基本概念\n\n2.          直流基本電路\n\n3.          直流基本電路\n\n4.          磁的基本概念\n\n5.          電磁效應\n\n6.          交流電\n\n7.          交流基本電路\n\n8.          交流基本電路\n\n9.          期中測驗\n\n10.      電機基本原理\n\n11.      變壓器\n\n12.      三相感應電動機\n\n13.      單相交流電動機\n\n14.      同步電機\n\n15.      直流電機分類及特性\n\n16.      直流電機控制\n\n17.      電機維護\n\n18.      期末測驗",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "理論授課"
+        },
+        {
+            "type": "討論法",
+            "note": "課堂演練試題"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 20,
+            "note": ""
+        },
+        {
+            "type": "期中考",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "出席",
+            "weight": 20,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

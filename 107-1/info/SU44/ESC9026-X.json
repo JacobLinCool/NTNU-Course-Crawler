@@ -1,0 +1,89 @@
+{
+    "year": 107,
+    "term": 1,
+    "name": "海洋物理學概論",
+    "teachers": [
+        "鄭志文"
+    ],
+    "department": "SU44",
+    "code": "ESC9026",
+    "credit": 3,
+    "serial": 2949,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 4,
+            "from": 7,
+            "to": 9,
+            "campus": "公館",
+            "classroom": "Ｃ403"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎限大三大四 ◎限碩一碩二碩三以上修習",
+    "form_s": "",
+    "classes": "9",
+    "dept_group": "",
+    "hours": 3,
+    "description": "海洋物理學概論旨在向同學們介紹基礎物理海洋環境概念以及不同尺度下海水運動型態以及相關物理過程，並配合課程教材以及學習成效評估等方式，促進同學對海洋物理能有更進一步之了解、認識，並建構其日後進行海洋相關研究之基礎。",
+    "goals": [
+        "了解海洋基本特性，物理性質",
+        "了解海洋之不同運動型態",
+        "中大尺度海洋物理現象",
+        "區域海洋物理現象",
+        "海洋環境中物理現象之觀察"
+    ],
+    "syllabus": "第一週       Introduction\n\n第二~三週    Properties of seawater\n\n第四週       Large-scale ocean characteristics (including distributions of temperature, salinity, density, etc.)\n\n第五~六週    Major dynamical concepts (Coriolis force, geostrophy, dynamical balances, etc.)\n\n第七週           Ocean stratification, mixed layer and thermocline\n\n第八週       Midterm exam\n\n第九~十週    Ocean circulation\n\n第十一週       Coastal and equatorial upwelling\n\n第十二週    Thermohaline circulation\n\n第十三週    Wind-driven waves and tides\n\n第十四~十六週 Modern observational, theoretical and numerical techniques used to study the ocean\n\n第十七周   Term project exhibition\n\n第十八週    Final exam",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "教師藉由講述介紹海洋之基本物理海洋基礎以及相關海洋現象、及其運動型態"
+        },
+        {
+            "type": "討論法",
+            "note": "以課堂上提及之海洋物理現象與過程作為報告之題目，讓同學透過資料檢索，歸納統整加深對該現象之理解"
+        },
+        {
+            "type": "實驗/實作",
+            "note": "藉由資料分析，包含現場觀測資料、衛星遙測資料、以及數值模式輸出資料等實作，加深學生對課程內容介紹到之相關海洋物理現象之印象"
+        },
+        {
+            "type": "專題研究",
+            "note": "讓同學自己挑選感興趣之現象為主題，配合資料分析，文獻回顧，針對該主題完成一專題研究報告，藉此提升同學對海洋物理環境之認識"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 10,
+            "note": "檢視學生對上課內容之理解、課堂上介紹之知識之應用、資料檢索能力"
+        },
+        {
+            "type": "期中考",
+            "weight": 20,
+            "note": "命題形式包括名詞解釋、簡答題、問答題與計算題。"
+        },
+        {
+            "type": "期末考",
+            "weight": 20,
+            "note": "命題形式包括名詞解釋、簡答題、問答題與計算題。"
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 20,
+            "note": "出席以及課堂參與、發言討論情形"
+        },
+        {
+            "type": "報告",
+            "weight": 30,
+            "note": "檢視學生對上課內容之理解，並透過資料檢索，歸納統整與資料分析呈現其對於課堂學習內容理解之程度"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

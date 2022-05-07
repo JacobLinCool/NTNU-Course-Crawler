@@ -1,0 +1,90 @@
+{
+    "year": 110,
+    "term": 1,
+    "name": "嵌入式系統程式設計",
+    "teachers": [
+        "洪國勳"
+    ],
+    "department": "HM75",
+    "code": "AEC8051",
+    "credit": 3,
+    "serial": 1202,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 5,
+            "from": 6,
+            "to": 8,
+            "campus": "本部",
+            "classroom": "多媒體與通訊實驗室"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程透過講授、閱讀、討論及問題解決教學與實作方式的設計，介紹下列數種嵌入式系統的結構/概念，\n．在CentOS（Linux）下操作Wiscore Arm7 嵌入式系統（三星4510+Xilix CPLD）\n．Keil C與Silab實驗板\n．Microblaze嵌入式系統\n來培養學生對應系所所需的核心能力。",
+    "goals": [
+        "具備嵌入式系統的基礎知識",
+        "具備嵌入式系統程式設計實作與測試分析的能力",
+        "具備嵌入式系統軟/ 硬體協同設計規劃/ 模擬與下載驗證能力",
+        "培養描述問題能力，能獨立思考",
+        "培養電路與程式偵錯能力",
+        "能自我學習"
+    ],
+    "syllabus": "**第一週**\n\n**Unity開發環境與資源：**\n\n**Unity介面、GameObject、Component、AssetStore**\n\n**第二週**\n\n**Unity UI系統：**\n\n**文字系統、圖形系統、文字系統、輸入系統、按鈕與Toggle、Slider、ScrollView**\n\n**第三週**\n\n**C# 程式語言架構：**\n\n**MonoBehavior、變數、資料型態、Function**\n\n**第四週**\n\n**C# 程式語言架構：**\n\n**邏輯判斷、迴圈、事件、Prefab**\n\n**第五週**\n\n**2D物件製作：**\n\n**UI/UX設計理論、2D物件製作與應用**\n\n**第六週**\n\n**3D物件製作與動畫：**\n\n**Probuilder、Particle System、Unity物理引擎、動畫引擎、Dotween**\n\n**第七週**\n\n**資料庫設計：**\n\n**Unity與local端資料庫應用**\n\n**第八週**\n\n**Android App實作**\n\n**第九週**\n\n**期中報告**\n\n**第十週**\n\n**計步器App(一)：**\n\n**套件安裝、步數顯示**\n\n**第十一週**\n\n**計步器App(二)：**\n\n**步數重置與紀錄**\n\n**第十二週**\n\n**擴增實境產品製作(一)：**\n\n**Vuforia介紹與安裝**\n\n**第十三週**\n\n**擴增實境產品製作(二)：**\n\n**Vuforia開發**\n\n**第十四週**\n\n**OpenPose人體姿態辨識(一)**\n\n**第十五週**\n\n**OpenPose人體姿態辨識(二)**\n\n**第十六週**\n\n**期末專題製作**\n\n**第十七週**\n\n**期末報告**\n\n**第十八週**\n\n**期末報告**",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "本課程主要知識，均以講述法傳授"
+        },
+        {
+            "type": "問題解決教學",
+            "note": "1. 學生將根據使用者需求，設計App流程；2. 教師將提供開發小任務，讓學生練習解決"
+        },
+        {
+            "type": "合作學習",
+            "note": "期末專題將以小組為單位，合作進行專案開發"
+        },
+        {
+            "type": "實驗/實作",
+            "note": "課程中將提供程式練習任務，並於同學嘗試後由老師解答"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 15,
+            "note": "3次課後作業，於次堂課前繳交"
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 10,
+            "note": "課堂中積極參與討論並發表意見者加分"
+        },
+        {
+            "type": "出席",
+            "weight": 15,
+            "note": "無故未到者扣分"
+        },
+        {
+            "type": "報告",
+            "weight": 20,
+            "note": "同學將於期中專題提案中說明欲開發之App功能與同質性產品優劣分析"
+        },
+        {
+            "type": "成果展覽",
+            "weight": 40,
+            "note": "每組將有15分鐘進行期末專題報告，分享期末專題之開發功能與開發過程"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

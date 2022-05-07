@@ -1,0 +1,77 @@
+{
+    "year": 108,
+    "term": 1,
+    "name": "個體經濟學",
+    "teachers": [
+        "張可盈"
+    ],
+    "department": "OU57",
+    "code": "BAU0032",
+    "credit": 3,
+    "serial": 2519,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 1,
+            "from": 6,
+            "to": 8,
+            "campus": "本部",
+            "classroom": "誠204"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎必須先修過【BAU0038  經濟學（一）】、【BAU0039  經濟學（二）】",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "個體經濟學是針對消費者、廠商等個別經濟行為者，基於其對特定目標的追求，而研究其決策過程，以及其所導致的市場價格與資源配置。承續經濟學之課程，本課程旨在介紹個體經濟學的基礎理論與工具應用，為同學奠定最根本的個體經濟學基礎。除了重要個體經濟學概念的講授外，亦將搭配有趣而生活化的相關議題進行討論，以期兼顧個體經濟學的觀念傳授與應用說明。本課程歡迎各主修背景之同學修習，學習過經濟學或微積分者尤佳。為強化學生學習效能，本課程將視狀況進行數學輔助教學。",
+    "goals": [
+        "使學生認識個體經濟的理論",
+        "學生將瞭解如何運用理論分析應用於實際工作事務"
+    ],
+    "syllabus": "1\\. 經濟模型介紹 Introduction to Economic Modeling\n\n2\\. 效用與選擇        Utility and Choices\n\n3\\. 需求曲線  Demand\n\n4\\. 需求曲線 與小考 Demand and Quiz 1\n\n5\\. 不確定性 Uncertainty\n\n6\\. 賽局理論 Game Theory\n\n7\\. 生產函數 Production Function\n\n8\\. 生產函數 與小考 Production Function and Quiz 2\n\n9\\. 期中考 Midterm Exam\n\n10\\. 成本 Cost\n\n11\\. 利潤最大化與供給 Profit Maximization and Supply\n\n12\\. 完全競爭 Perfect Competition\n\n13\\. 完全競爭 Perfect Competition\n\n14\\. 一般均衡、福利 與小考 Welfare and General Equilibrium Quiz 3\n\n15\\. 獨佔市場 Monopoly\n\n16\\. 非完全競爭 Imperfect Competition\n\n17\\. 原料市場的定價 Resource Market and Pricing\n\n18\\. 期末考 Final Exam",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "按照課綱進度，講述基礎理論，並介紹相關應用分析 Lecturing on basic theory according to the planned schedule. Relevant applications are to be discussed."
+        },
+        {
+            "type": "討論法",
+            "note": "經濟理論衍申之問題的討論、解答、與解釋。Issues arose from economic theory are to be discussed, explained, and resolved."
+        },
+        {
+            "type": "合作學習",
+            "note": "分組討論習題、或個案問題解決。Problem solving and case discussion in group."
+        }
+    ],
+    "grading": [
+        {
+            "type": "期中考",
+            "weight": 30,
+            "note": "學期中的會考，範圍包含上半學期的上課內容。 Midterm exam that covers the materials taught in the first half of the semester is to be included as part of the final course grade."
+        },
+        {
+            "type": "期末考",
+            "weight": 30,
+            "note": "學期末的會考，範圍包含下半學期的上課內容。 Final exam that covers the materials taught in the second half of the semester is to be included as part of the final course grade."
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 30,
+            "note": "課堂上將有不定期的問題討論、個案研究的參與。 Case study or related economic policy issues are to be discussed"
+        },
+        {
+            "type": "出席",
+            "weight": 10,
+            "note": "出席次數等比例做為成績考核項目。Class participation is included as part of the final course grade."
+        }
+    ],
+    "prerequisite": "◎必須先修過【BAU0038  經濟學（一）】、【BAU0039  經濟學（二）】",
+    "general_core": []
+}

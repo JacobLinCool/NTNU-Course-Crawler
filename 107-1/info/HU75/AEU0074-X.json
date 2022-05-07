@@ -1,0 +1,77 @@
+{
+    "year": 107,
+    "term": 1,
+    "name": "資訊理論與編碼技巧",
+    "teachers": [
+        "葉家宏"
+    ],
+    "department": "HU75",
+    "code": "AEU0074",
+    "credit": 3,
+    "serial": 1316,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 6,
+            "to": 8,
+            "campus": "本部",
+            "classroom": "工501"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "1. Basics of information theory\n2. Lossless compression techniques\n3. Lossy compression techniques\n4. Multimedia data compression techniques\n5. Overview of coding standards",
+    "goals": [
+        "使學習者認識現今的資訊理論",
+        "使學習者認識現今的編碼技巧"
+    ],
+    "syllabus": "Week 1 – Course introduction: goals and requirements  \nWeek 2 – Introduction to the concepts of image, video and audio  \nWeek 3 – Rate distortion lossless compression concept  \nWeek 4 – Source coding  \nWeek 5 – Huffman codes & Arithmetic coding  \nWeek 6 – Dictionary codes and Lempel-Ziv coding  \nWeek 7 – Transform coding  \nWeek 8 – Discrete cosine transform & image data compression  \nWeek 9 – Still image compression  \nWeek 10 – Mid-term exam  \nWeek 11 – Entropy, relative entropy and mutual Information  \nWeek 12 – Channel and channel capacity (1/2)  \nWeek 13 – Channel and channel capacity (2/2)  \nWeek 14 – Vector quantization coding  \nWeek 15 – Motion estimation for video coding standards  \nWeek 16 – An overview of video coding standards (1/2)  \nWeek 17 – An overview of video coding standards (2/2)  \nWeek 18 – Final oral report",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "講解現今多媒體資訊理論的發展與應用。"
+        },
+        {
+            "type": "討論法",
+            "note": "以專題報告方式進行專業知識討論與交流。"
+        },
+        {
+            "type": "合作學習",
+            "note": "以分組報告方式進行合作學習。"
+        }
+    ],
+    "grading": [
+        {
+            "type": "期中考",
+            "weight": 40,
+            "note": "課程專業知識之期中測驗。"
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 10,
+            "note": "課堂參與與上課表現。"
+        },
+        {
+            "type": "出席",
+            "weight": 10,
+            "note": "出席狀況。"
+        },
+        {
+            "type": "報告",
+            "weight": 40,
+            "note": "課程專業知識之口頭報告。"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

@@ -1,0 +1,96 @@
+{
+    "year": 110,
+    "term": 1,
+    "name": "基礎儀器治療學",
+    "teachers": [
+        "黃昱倫"
+    ],
+    "department": "AU30",
+    "code": "PEU0295",
+    "credit": 2,
+    "serial": 104,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 1,
+            "from": 6,
+            "to": 7,
+            "campus": "本部",
+            "classroom": "樸106"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎必須先修過【PEU0193  人體解剖生理學】",
+    "form_s": "2",
+    "classes": "",
+    "dept_group": "",
+    "hours": 2,
+    "description": "使學生了解各種物理治療儀器例如冷療、水療、熱療、電療及機械儀器在治療運動傷害的學理以及應用。",
+    "goals": [
+        "了解人體組織受傷之後的生理反應及修補機轉",
+        "了解疼痛及解除疼痛的機轉與理論",
+        "了解冷療、水療、熱療對於治療運動傷害的理論以及應用",
+        "了解電療、機械儀器對於治療運動傷害的理論及應用"
+    ],
+    "syllabus": "【授課方式：16+2週】彈性授課周將進行校外參訪與數位多媒體學習\n\n*   Week 1 (9/27)： Introduction/ Therapeutic Modalities: What are they (Chapter 1); EBP/General Application Procedures/ Injury Record Keeping (Chapters 2 - 4)\n*   Week 2 (10/4)：Tissue Response to Injury (Chapter 5), **_Lab 1: General Lab Procedure_s**\n*   Week 3 (10/11)：國慶日遇例假日補假\n*   Week 4 (10/18)：Immediate Care of Acute Orthopedic Injuries(Chapter 6);The Healing Process (Chapter 7)\n*   Week 5 (10/25)：Pain and Orthopedic Injuries - 1 (Chapters 8 & 9), **_Lab 2: Compression_**\n*   Week 6 (11/1)：Pain and Orthopedic Injuries - 2 (Chapters 8 & 9), **Group assignment 1**: Healing Process\n*   Week 7 (11/8)：Thermotherapy (Chapter 10 & 11), **_Lab 4: Thermotherapy /Massage,_** **Group assignment 2**: Pain Control Theory\n*   Week 8 (11/15)：Cryotherapy Beyond Immediate Care and Thermotherapy (Chapters 12 & 13)\n*   Week 9 (11/22)：**期中考**\n*   Week 10 (11/29)：Basic Principles of Electricity (Chapter 16)\n*   Week 11 (12/6)：Basic Principles of Electricity (Chapter 16)\n*   Week 12 (12/13)：Clinical Applications of Electrical Stimulating Currents (Chapter 17), **Group assignment 3:** Electrical Stimulation\n*   Week 13 (12/20)：E-stim Case Studies, Therapeutic Ultrasound (Chapter 14)\n*   Week 14 (12/27)：Clinical Applications of Ultrasound (Chapter 14)/ Ultrasound Case Studies\n*   Week 15 (1/3/2021)：Diathermy (Chapter 15), Spinal Traction (Chapters 19), **Group assignment 4:** Putting it All Together\n    *   校外參訪與實驗課：1/8/2022 6:00 – 8:00 pm (Saturday) **_Lab 5: Electrical Stimulating Currents_****_＆_** **_Ultrasound at_** **_超越復健診所_**\n*   Week 16 (1/10/2021)：**期末考**",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "教師課堂搭配投影片講解課程內容。"
+        },
+        {
+            "type": "討論法",
+            "note": "在課程中穿插問題與討論，促進學生間與教師之互動。"
+        },
+        {
+            "type": "問題解決教學",
+            "note": "依據模擬情境給予的資訊，以實證研究證據與課程學習內容，針對運動員/病人之需求設計治療課表。"
+        },
+        {
+            "type": "合作學習",
+            "note": "以分組作業 (Group assignment) 促進學生間交流學習機會。"
+        },
+        {
+            "type": "實驗/實作",
+            "note": "儀器操作實驗/實作/觀摩"
+        },
+        {
+            "type": "實地考察、參訪",
+            "note": "參訪運動防護中心與復健診所"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 20,
+            "note": "四個 Group assignments，各5％ (X peer review %)"
+        },
+        {
+            "type": "期中考",
+            "weight": 25,
+            "note": "期中考"
+        },
+        {
+            "type": "期末考",
+            "weight": 30,
+            "note": "期末考 (cumulative exam)"
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 5,
+            "note": "In-class assignment (隨機)"
+        },
+        {
+            "type": "其他",
+            "weight": 20,
+            "note": "隨堂小考(隨機)"
+        }
+    ],
+    "prerequisite": "◎必須先修過【PEU0193  人體解剖生理學】",
+    "general_core": []
+}

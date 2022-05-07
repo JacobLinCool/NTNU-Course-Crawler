@@ -1,0 +1,86 @@
+{
+    "year": 110,
+    "term": 2,
+    "name": "應用計量經濟",
+    "teachers": [
+        "徐美"
+    ],
+    "department": "OM55",
+    "code": "MBM0079",
+    "credit": 3,
+    "serial": 2412,
+    "group": "",
+    "quota": {
+        "limit": 30,
+        "additional": 0
+    },
+    "schedule": [
+        {
+            "day": 1,
+            "from": 7,
+            "to": 9,
+            "campus": "本部",
+            "classroom": "教404"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "",
+    "goals": [
+        "the students should obtain a basic idea of model specifications, and develop quantitative",
+        "data analysis, software package applicationsin SAS, and empirical techniques and basic coding skill will be emphasized in the class."
+    ],
+    "syllabus": "  \n[教學進度與主題附件](https://ap.itc.ntnu.edu.tw/NtnuFileShare/file.do?action=dl&gno=f4910d5c890e40488a103011b3281855&fno=911a74895eb548a28a45a431a97d399b)\n\n  \n[教學進度與主題附件](https://ap.itc.ntnu.edu.tw/NtnuFileShare/file.do?action=dl&gno=8cf8c2fb80f44f6e9c6f027e3b5d9415&fno=3c9d7bd823204a188e7095cc02d4ef14)",
+    "methodologies": [
+        {
+            "type": "Formal lecture",
+            "note": "Professor' lecturenotes"
+        },
+        {
+            "type": "Problem base learning",
+            "note": ""
+        },
+        {
+            "type": "Lab/Studio",
+            "note": "computer works"
+        },
+        {
+            "type": "Case studies",
+            "note": "Literature study, paper-reading"
+        }
+    ],
+    "grading": [
+        {
+            "type": "Assignments",
+            "weight": 10,
+            "note": "Two homework from textbooks for teamwork."
+        },
+        {
+            "type": "Midterm Exam",
+            "weight": 30,
+            "note": "Written examination. (week 9)"
+        },
+        {
+            "type": "Final exam",
+            "weight": 35,
+            "note": "No written final exam. The final examination is “Final term paper: research project by an individual”\nThe PPT presentation in class during the final week, week 16, is on 5/30. The at least 10-page completed report will be due on 6/10. )"
+        },
+        {
+            "type": "Attendances",
+            "weight": 5,
+            "note": "Class discussion involvement"
+        },
+        {
+            "type": "Presentation",
+            "weight": 20,
+            "note": "Paper-reading report: Choosing one empirical paper to study and report by a team. The timing is about the week between midterm and final week. (The paper-reading report should be uploaded one day ahead of the presentation in class )"
+        }
+    ],
+    "prerequisite": "◎Available for junior and senior year B.A. program students (Doctoral program courses excepted) and M.A. program students.",
+    "general_core": []
+}

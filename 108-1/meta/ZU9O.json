@@ -1,0 +1,309 @@
+[
+    {
+        "year": 108,
+        "term": 1,
+        "name": "冷凍空調原理（一）",
+        "teachers": [
+            "莫懷恩"
+        ],
+        "department": "HU70",
+        "code": "IEU3154",
+        "credit": 3,
+        "serial": 1231,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 10,
+                "to": 12,
+                "campus": "本部",
+                "classroom": "冷凍場"
+            }
+        ],
+        "programs": [
+            "室內設計學程"
+        ],
+        "comment": "",
+        "restrict": "",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 1,
+        "name": "展示設計",
+        "teachers": [
+            "耿剛"
+        ],
+        "department": "HU71",
+        "code": "ITU0051",
+        "credit": 3,
+        "serial": 1258,
+        "group": "",
+        "quota": {
+            "limit": 30,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 8,
+                "to": 10,
+                "campus": "本部",
+                "classroom": "科310"
+            }
+        ],
+        "programs": [
+            "室內設計學程"
+        ],
+        "comment": "",
+        "restrict": "◎限大三修習",
+        "form_s": "3",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 1,
+        "name": "人因工程",
+        "teachers": [
+            "簡佑宏"
+        ],
+        "department": "HU71",
+        "code": "ITU2035",
+        "credit": 3,
+        "serial": 1260,
+        "group": "",
+        "quota": {
+            "limit": 35,
+            "additional": 5
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 7,
+                "to": 9,
+                "campus": "本部",
+                "classroom": "科311"
+            }
+        ],
+        "programs": [
+            "室內設計學程"
+        ],
+        "comment": "",
+        "restrict": "◎限大三修習",
+        "form_s": "3",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 1,
+        "name": "行銷管理",
+        "teachers": [
+            "王仕茹"
+        ],
+        "department": "OU57",
+        "code": "BAU0021",
+        "credit": 3,
+        "serial": 2529,
+        "group": "",
+        "quota": {
+            "limit": 60,
+            "additional": 30
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 2,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "教202會議廳"
+            }
+        ],
+        "programs": [
+            "室內設計學程",
+            "社團領導學程"
+        ],
+        "comment": "",
+        "restrict": "◎必須先修過【BAU0048  企業管理概論】",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 1,
+        "name": "色彩學",
+        "teachers": [
+            "施令紅"
+        ],
+        "department": "TU68",
+        "code": "VDU0006",
+        "credit": 2,
+        "serial": 3172,
+        "group": "",
+        "quota": {
+            "limit": 45,
+            "additional": 5
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 3,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "設計系2A教室"
+            }
+        ],
+        "programs": [
+            "室內設計學程"
+        ],
+        "comment": "",
+        "restrict": "",
+        "form_s": "1",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 1,
+        "name": "室內設計圖學",
+        "teachers": [
+            "劉大章"
+        ],
+        "department": "TU68",
+        "code": "VDU0211",
+        "credit": 2,
+        "serial": 3187,
+        "group": "",
+        "quota": {
+            "limit": 30,
+            "additional": 5
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 1,
+                "to": 2,
+                "campus": "本部",
+                "classroom": "設計系2A教室"
+            }
+        ],
+        "programs": [
+            "室內設計學程"
+        ],
+        "comment": "",
+        "restrict": "",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 1,
+        "name": "空間構成",
+        "teachers": [
+            "莊澤光"
+        ],
+        "department": "TU68",
+        "code": "VDU0250",
+        "credit": 2,
+        "serial": 3192,
+        "group": "",
+        "quota": {
+            "limit": 30,
+            "additional": 5
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 11,
+                "to": 12,
+                "campus": "本部",
+                "classroom": "設計系2B教室"
+            }
+        ],
+        "programs": [
+            "室內設計學程"
+        ],
+        "comment": "",
+        "restrict": "",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 1,
+        "name": "施工圖",
+        "teachers": [
+            "劉大章"
+        ],
+        "department": "TU68",
+        "code": "VDU0157",
+        "credit": 2,
+        "serial": 3200,
+        "group": "",
+        "quota": {
+            "limit": 30,
+            "additional": 5
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 3,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "設計系2A教室"
+            }
+        ],
+        "programs": [
+            "室內設計學程"
+        ],
+        "comment": "",
+        "restrict": "",
+        "form_s": "3",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 1,
+        "name": "商業空間設計（一）",
+        "teachers": [
+            "陸正宇"
+        ],
+        "department": "TU68",
+        "code": "VDU0251",
+        "credit": 2,
+        "serial": 3207,
+        "group": "",
+        "quota": {
+            "limit": 30,
+            "additional": 5
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 8,
+                "to": 9,
+                "campus": "本部",
+                "classroom": "設計系3B教室"
+            }
+        ],
+        "programs": [
+            "室內設計學程"
+        ],
+        "comment": "",
+        "restrict": "",
+        "form_s": "3",
+        "classes": "",
+        "dept_group": ""
+    }
+]

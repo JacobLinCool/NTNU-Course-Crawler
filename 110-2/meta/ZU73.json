@@ -1,0 +1,377 @@
+[
+    {
+        "year": 110,
+        "term": 2,
+        "name": "人體解剖生理學",
+        "teachers": [
+            "國訓教師"
+        ],
+        "department": "9U77",
+        "code": "FPU0001",
+        "credit": 2,
+        "serial": 8042,
+        "group": "",
+        "quota": {
+            "limit": 0,
+            "additional": 0
+        },
+        "schedule": [
+            {
+                "day": 0,
+                "from": -1,
+                "to": -1,
+                "campus": "",
+                "classroom": ""
+            }
+        ],
+        "programs": [
+            "運動傷害防護學程"
+        ],
+        "comment": "",
+        "restrict": "",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 2,
+        "name": "健康管理",
+        "teachers": [
+            "陳勇志"
+        ],
+        "department": "AU30",
+        "code": "PEU0293",
+        "credit": 2,
+        "serial": 66,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 6,
+                "to": 7,
+                "campus": "本部",
+                "classroom": "樸402"
+            }
+        ],
+        "programs": [
+            "運動傷害防護學程"
+        ],
+        "comment": "",
+        "restrict": "◎第一階段限 運動傷害防護學程 ◎課程開放上修",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 2,
+        "name": "肌力與體能運動處方設計",
+        "teachers": [
+            "李恆儒"
+        ],
+        "department": "AU30",
+        "code": "PEC9001",
+        "credit": 3,
+        "serial": 67,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 15
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 7,
+                "to": 9,
+                "campus": "公館",
+                "classroom": "Ｓ602"
+            }
+        ],
+        "programs": [
+            "運動傷害防護學程"
+        ],
+        "comment": "",
+        "restrict": "◎必須先修過【PEU0193  人體解剖生理學】、【PEU0015  運動生理學】 ◎課程開放上修",
+        "form_s": "",
+        "classes": "9",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 2,
+        "name": "運動防護導論",
+        "teachers": [
+            "黃昱倫"
+        ],
+        "department": "AU30",
+        "code": "PEU0291",
+        "credit": 2,
+        "serial": 84,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 15
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 8,
+                "to": 9,
+                "campus": "本部",
+                "classroom": "金牌講堂"
+            }
+        ],
+        "programs": [
+            "運動傷害防護學程"
+        ],
+        "comment": "",
+        "restrict": "◎第一階段限 運動傷害防護學程 ◎課程開放上修",
+        "form_s": "1",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 2,
+        "name": "運動解剖學",
+        "teachers": [
+            "王宏豪"
+        ],
+        "department": "AU30",
+        "code": "PEU2001",
+        "credit": 2,
+        "serial": 85,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 5,
+                "from": 3,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "誠201"
+            }
+        ],
+        "programs": [
+            "運動傷害防護學程"
+        ],
+        "comment": "跨校雙主修、輔系同學，請於本校加退選階段，至課堂上向授課教師索取授權碼。",
+        "restrict": "◎課程開放上修",
+        "form_s": "1",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 2,
+        "name": "運動心理學",
+        "teachers": [
+            "洪聰敏"
+        ],
+        "department": "AU30",
+        "code": "PEU0007",
+        "credit": 2,
+        "serial": 86,
+        "group": "",
+        "quota": {
+            "limit": 70,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 1,
+                "to": 2,
+                "campus": "本部",
+                "classroom": "誠302"
+            }
+        ],
+        "programs": [
+            "運動傷害防護學程"
+        ],
+        "comment": "",
+        "restrict": "◎課程開放上修",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 2,
+        "name": "運動生物力學",
+        "teachers": [
+            "張家豪"
+        ],
+        "department": "AU30",
+        "code": "PEU0030",
+        "credit": 2,
+        "serial": 88,
+        "group": "",
+        "quota": {
+            "limit": 70,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 3,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "誠202"
+            }
+        ],
+        "programs": [
+            "運動傷害防護學程"
+        ],
+        "comment": "",
+        "restrict": "◎課程開放上修",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 2,
+        "name": "運動推拿指壓學",
+        "teachers": [
+            "黃昱倫"
+        ],
+        "department": "AU30",
+        "code": "PEU0294",
+        "credit": 2,
+        "serial": 104,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 8,
+                "to": 9,
+                "campus": "本部",
+                "classroom": "樸106"
+            }
+        ],
+        "programs": [
+            "運動傷害防護學程"
+        ],
+        "comment": "",
+        "restrict": "◎第一階段限 運動傷害防護學程◎必須先修過【PEU2001  運動解剖學】 ◎課程開放上修",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 2,
+        "name": "運動保健之經營與管理",
+        "teachers": [
+            "黃昱倫"
+        ],
+        "department": "AU30",
+        "code": "PEU0298",
+        "credit": 2,
+        "serial": 126,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 1,
+                "to": 2,
+                "campus": "本部",
+                "classroom": "樸106"
+            }
+        ],
+        "programs": [
+            "運動傷害防護學程"
+        ],
+        "comment": "",
+        "restrict": "◎第一階段限 運動傷害防護學程 ◎課程開放上修",
+        "form_s": "3",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 2,
+        "name": "運動與營養",
+        "teachers": [
+            "劉宏文"
+        ],
+        "department": "AU30",
+        "code": "PEU2006",
+        "credit": 2,
+        "serial": 128,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 5,
+                "from": 8,
+                "to": 9,
+                "campus": "公館",
+                "classroom": "Ｅ202"
+            }
+        ],
+        "programs": [
+            "運動傷害防護學程",
+            "高齡學程"
+        ],
+        "comment": "",
+        "restrict": "◎課程開放上修",
+        "form_s": "3",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 2,
+        "name": "人體解剖生理學",
+        "teachers": [
+            "鄭景峰"
+        ],
+        "department": "AU32",
+        "code": "FPU0001",
+        "credit": 2,
+        "serial": 165,
+        "group": "",
+        "quota": {
+            "limit": 60,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 6,
+                "to": 7,
+                "campus": "公館",
+                "classroom": "Ｅ302"
+            }
+        ],
+        "programs": [
+            "運動傷害防護學程"
+        ],
+        "comment": "",
+        "restrict": "◎課程開放上修",
+        "form_s": "1",
+        "classes": "",
+        "dept_group": ""
+    }
+]

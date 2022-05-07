@@ -1,0 +1,90 @@
+{
+    "year": 109,
+    "term": 1,
+    "name": "人員數據分析",
+    "teachers": [
+        "孫弘岳"
+    ],
+    "department": "HU71",
+    "code": "ITC9011",
+    "credit": 3,
+    "serial": 1262,
+    "group": "",
+    "quota": {
+        "limit": 30,
+        "additional": 5
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 2,
+            "to": 4,
+            "campus": "本部",
+            "classroom": "教403"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎限大四 ◎限碩一碩二碩三以上修習",
+    "form_s": "",
+    "classes": "9",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程在強化同學使用人力資源相關的數據分析工具，運用簡單的統計與量化評鑑模型分析和預測組織人力與人力資源管理的成熟度。透過本課程，學員將期望能有信心地使用統計和預測分析來診斷和預測組織人力與人力資源理管理的議題，以作為相關管理決策的依據。",
+    "goals": [
+        "瞭解大數據分析與相關工具",
+        "瞭解人力與人力資源計分卡",
+        "瞭解人力成熟度模式及應用",
+        "瞭解如何設計人力預測模型"
+    ],
+    "syllabus": "第01週:  課程介紹 Introduction to HR Analytics  \n第02週:  HR數據分析的概念 Essentials of HR analytics  \n第03週:  HR數據的整理方式 HR data cleaning  \n第04週:  HR數據的視覺呈現 HR Data Visualization  \n第05週:  HR數據的統計分析 Excel Data Analysis  (Part A)  \n第06週:  HR數據的統計分析 Excel Data Analysis (Part B)  \n第07週:  HR數據的分析實例 HR Analytics in Practice (Part A)  \n第08週:  HR數據的分析實例 HR Analytics in Practice (Part B)  \n第09週:  HR的程式腦與實作 Python for HR Analytics (Part A)  \n第10週:  HR的程式腦與實作 Python for HR Analytics (Part B)  \n第11週:  HR數據的個案研究 Cast study for HR Analytics  \n第12週:  HR的程式腦與實作 Python for HR Analytics (Part C)  \n第13週:  商業智慧軟體實作 MS POWER BI (Part A)  \n第14週:  商業智慧軟體實作MS POWER BI (Part B)  \n第15週:  多變量HR數據分析 JASP – R based (Part A)  \n第16週:  多變量HR數據分析 JASP – R based (Part B)  \n第17週:  期末報告 Final Presentation (Group)  \n第18週:  期末報告 Final Presentation (Group)",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "以口頭講授，搭配相關影片詳述每週主題理論與實務操作"
+        },
+        {
+            "type": "討論法",
+            "note": "在課程中問答，透過說、聽與觀察的過程當中學習主題內容"
+        },
+        {
+            "type": "問題解決教學",
+            "note": "透過學期報告，運用數據分析解決企業可能面臨的人力問題"
+        },
+        {
+            "type": "合作學習",
+            "note": "課堂討論與報告以分組進行，學習與他人協同合作完成任務"
+        },
+        {
+            "type": "實驗/實作",
+            "note": "電腦實作，由老師引導學生進行人力資源數據分析"
+        },
+        {
+            "type": "媒體融入教學",
+            "note": "搭配講述，運用影片、APP、數位學習平台，強化學習效果"
+        },
+        {
+            "type": "專題研究",
+            "note": "討論大數據與數據分析在人力研究上的應用"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 50,
+            "note": "個人作業在期限內繳交且正確得90分, 若遲交且正確(限在下一個上課前)得70分, 否則該次作業0分。 老師得視作業品質，自行評估加減分。分組作業，則在課堂中進行並同時完成簡報，先由同儕互評，最後由老師決定分數。"
+        },
+        {
+            "type": "出席",
+            "weight": 10,
+            "note": "缺席/請假(非公喪假)/或遲到15分鐘以上，每次扣20分，達六次(含)以上，學期成績以零分計。若全勤者，此項目得滿分100分。"
+        },
+        {
+            "type": "報告",
+            "weight": 40,
+            "note": "1.以小組為單位. 2.找到一個實際的dataset, 3.發掘到一個關鍵預測的問題, 4.運用上課教的數據分析來預測答案, 5.詮譯統計數背後的意義, 6. 並用視覺化方式呈現數據。(註: 限用EXCEL, Python, 或JASP進行分析)"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

@@ -1,0 +1,85 @@
+{
+    "year": 109,
+    "term": 2,
+    "name": "管理學入門",
+    "teachers": [
+        "王妙如"
+    ],
+    "department": "GU",
+    "code": "03UG041",
+    "credit": 2,
+    "serial": 947,
+    "group": "A",
+    "quota": {
+        "limit": 70,
+        "additional": 0
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 11,
+            "to": 12,
+            "campus": "本部",
+            "classroom": "誠401"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 2,
+    "description": "管理學討論管理工作的基礎循環，包含計畫、組織、領導、控制等四大功能。除此之外，管理學亦包含企業管理實務，包涵企業策略的設定、內外部資源分析與相關管理工具。宗旨在於協助學生理解管理的基礎。",
+    "goals": [
+        "培養學生以評估企業外部環境，找到可能機會，並且以企業組織作為解決問題的可能性",
+        "培養學生以管理循環為基礎的問題解決能力",
+        "透過分組與團隊協作，增強溝通協調與團隊合作之能力"
+    ],
+    "syllabus": "W1 課程介紹、分組與管理者的日常工作\n\nW2 決策與創業 \n\nW3 經營環境與組織文化\n\nW4 規劃\n\nW5 策略管理\n\nW6 專題演講(I)-創業之路\n\nW7 校際活動日(放假)\n\nW8 倫理與社會責任\n\nW9 期中考\n\nW10 組織結構與文化\n\nW11 人力資源管理\n\nW12 管理控制\n\nW13 專題演講(II)\n\nW14 彈性補充教學(從日劇看管理)\n\nW15 領導與溝通\n\nW16 激勵與團隊\n\nW17 期末考\n\nW18 彈性補充教學\n\n* * *\n\nW1 Course Overview (& Managers in the Workplace)\n\nW2 Making Decisions & Entrepreneurships\n\nW3 Organizational Environment \n\nW4 Planning Work Activities\n\nW5 Managing Strategy\n\nW6 Guest Speech (I)\n\nW7 Holiday      \n\nW8 Managing Social Responsibility and Ethics  \n\nW9 Mid-term exam\n\nW10 Organizational Structure & Culture    \n\nW11 Human Resource Management \n\nW12 Monitoring and Controlling\n\nW13 Guest Speech (II)\n\nW14 Flexible learning\n\nW15 Leadership & Communication\n\nW16 Managing Teams & Motivating Employees\n\nW17 Final exam\n\nW18 Flexible learning",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "由教師講授課程內容"
+        },
+        {
+            "type": "討論法",
+            "note": "由教師引導，學生組成異質性團體討論，並鼓勵學生分享思考與分析結果。"
+        },
+        {
+            "type": "合作學習",
+            "note": "透過團隊合作與反思了解管理循環"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 20,
+            "note": "1. 演講心得(不超過A4紙張兩頁，單行行距12級字，標準邊界， 頁首註明系級學號姓名)\n2. 從日劇看管理(日劇半澤直樹，每人挑選一集，對應課程內管理議題，進行問題界定、分析、與討論，繳交紙本三頁內，規格同上，並於Ｗ15隨機挑選同學進行分享)\n透過以上作業，培養學生社會關懷與公民實踐之基本素養。"
+        },
+        {
+            "type": "期中考",
+            "weight": 20,
+            "note": "考試內容包含本學期教授及討論之內容"
+        },
+        {
+            "type": "期末考",
+            "weight": 30,
+            "note": "考試內容包含本學期教授及討論之內容"
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 20,
+            "note": "透過分組個案討論(每周章節個案)，培養學生具備創新、創意與問題解決之基本素養。"
+        },
+        {
+            "type": "出席",
+            "weight": 10,
+            "note": "依出席狀況斟酌計分"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": [
+        "社會科學"
+    ]
+}

@@ -1,0 +1,100 @@
+{
+    "year": 109,
+    "term": 1,
+    "name": "統計學（一）",
+    "teachers": [
+        "邱皓政"
+    ],
+    "department": "OU57",
+    "code": "BAU0040",
+    "credit": 3,
+    "serial": 2534,
+    "group": "B",
+    "quota": {
+        "limit": 60,
+        "additional": 30
+    },
+    "schedule": [
+        {
+            "day": 4,
+            "from": 6,
+            "to": 8,
+            "campus": "本部",
+            "classroom": "綜508會議室"
+        }
+    ],
+    "programs": [],
+    "comment": "企管系大二學生學號為單數號請選修統計學(一)A班;學號為雙數號請選修統計學(一)B班。    非企管系同學需待全校加退選開始後，才得進行線上選課和利用授課碼選課方式。",
+    "restrict": "",
+    "form_s": "2",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程是為主修管理的學生所設計的一門統計課程，內容涵蓋基本統計概念與操作技術。學生除了需要熟悉統計的原理與相關知識之外，也必須能夠活用課堂所學習到的統計方法，將其應用於日常生活或專業活動中。在實際應用部分，本課程將進行專題研究並搭配EXCEL來進行演練，因此學生必須準時完成所規定的作業，以利跟隨課程進度。",
+    "goals": [
+        "瞭解統計原理與相關衍生概念",
+        "連結統計方法與企業與商業經營實中的相關活動",
+        "具備判斷統計資料的分析能力，正確解讀資料並了解統計分析結果的意義。",
+        "透過團隊合作，熟悉並能利用現代電腦軟體，如SPSS與EXCEL等，來分析統計資料。"
+    ],
+    "syllabus": "1\\. 變數與測量 variable and measurement\n\n2\\. 次數分配與統計圖表 frequency distribution and statistical figures\n\n3\\. 描述統計量數 descriptive statistics\n\n4\\. 相對量數與標準分數 relative measures and standard scores\n\n5\\. 機率原理與機率分配 principle of probability and distribution\n\n6\\. 抽樣與估計 sampling and estimation\n\n7\\. 平均數的假設檢定 hypothesis testing of the means\n\n  \n[教學進度與主題附件](https://ap.itc.ntnu.edu.tw/NtnuFileShare/file.do?action=dl&gno=da2caf6d03184bedbfb5852aa5cdeda7&fno=d921a9d31d9647f48eee978d87a95ad4)\n\n  \n[教學進度與主題附件](https://ap.itc.ntnu.edu.tw/NtnuFileShare/file.do?action=dl&gno=a76445a130e04911a3a17bc5e0a34147&fno=f3f9558f943c467f8f6b71e8fece934a)",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "解釋並說明統計原理與基本特性。推導相關數學與統計公式，使學生能夠瞭解每一個統計概念的邏輯與關聯性。"
+        },
+        {
+            "type": "討論法",
+            "note": "針對特定議題讓學生來討論其異同。鼓勵學生表達其想法，並對應其他學生的意見，藉由交叉比對與講師說明來呈現統計方法背後的原理與概念。"
+        },
+        {
+            "type": "問題解決教學",
+            "note": "提出可操作的課間習作或課外作業，讓學生能夠具體操作統計方法，得到具有啟發性的解答。"
+        },
+        {
+            "type": "合作學習",
+            "note": "透過團隊合作，集體討論，共同解決與課堂進度有關的統計課題。"
+        },
+        {
+            "type": "實驗/實作",
+            "note": "透過實際數據的搜集與分析過程，瞭解統計方法應用在實際資料分析操作方法，並習得解釋統計分析的策略與技巧。"
+        },
+        {
+            "type": "媒體融入教學",
+            "note": "配合教學進度，鼓勵或指定學生利用統計軟體(SPSS)或文書處理軟體（EXCEL）進行教材範例或每章習作的實際演練，使學生不僅能夠理解基本原理，也能夠實際進行軟體的應用分析。"
+        },
+        {
+            "type": "專題研究",
+            "note": "由授課老師指定特定的研究題材，實際進行議題研究與數據分析，藉以瞭解統計原理應用在實際議題的操作方法。"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 10,
+            "note": "課堂中老師所規定的作業依時限繳交。"
+        },
+        {
+            "type": "期中考",
+            "weight": 30,
+            "note": "檢視期中學生課堂知識吸收與概念學習的具體成果。測驗形式為紙筆測驗。"
+        },
+        {
+            "type": "期末考",
+            "weight": 40,
+            "note": "檢視學生課堂知識吸收與概念學習的具體成果"
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 10,
+            "note": "包括出缺席狀況（依校方規定執行出缺席考核），課堂討論，活動參與，提問與答問，學習態度，團隊合作表現等等。"
+        },
+        {
+            "type": "報告",
+            "weight": 10,
+            "note": "期中簡報:調查結果的期中簡報，將各組調查所得到的資料進行分組報告。"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

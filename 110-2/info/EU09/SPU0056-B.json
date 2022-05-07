@@ -1,0 +1,84 @@
+{
+    "year": 110,
+    "term": 2,
+    "name": "資優教育概論",
+    "teachers": [
+        "陳偉仁"
+    ],
+    "department": "EU09",
+    "code": "SPU0056",
+    "credit": 2,
+    "serial": 833,
+    "group": "B",
+    "quota": {
+        "limit": 25,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 4,
+            "from": 3,
+            "to": 4,
+            "campus": "本部",
+            "classroom": "特103"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "1",
+    "classes": "",
+    "dept_group": "",
+    "hours": 2,
+    "description": "",
+    "goals": [
+        "認識與瞭解智能與資優的意涵",
+        "探討資優者的特質",
+        "認識與瞭解資優教育的鑑定、課程設計、教學與資優方案",
+        "培養對資優教育實務與研究的態度與知能"
+    ],
+    "syllabus": "【16+2 Weeks】  \nW1: Overview of the course  \nW2~3: Foundation and myth of gifted education  \nW4~5: Nature & Needs of the Gifted Characteristics  \n            Definition of Giftedness & Methods of Identification  \nW6: Curriculum Approaches in Gifted Education: Enrichment  \nW7: Curriculum Approaches in Gifted Education: Enrichment  \nW8: Midterm evaluation and discussion  \nW9: Gifted education programming and implementation  \nW10: Curriculum Approaches in Gifted Education: Differentiation  \nW11: Curriculum Approaches in Gifted Education: Creativity and leadership  \nW12: The Learning Environment at Home: Parents and Families  \nW13: Policy in Gifted Education  \nW14: University-based gifted program for talent development  \nW15: Meeting the Needs of Students Who Are Twice-Exceptional or Culturally Diverse  \nW16: Application of Learning Through Product Development",
+    "methodologies": [
+        {
+            "type": "Formal lecture",
+            "note": "The instructor would give short lecture on topics listed above."
+        },
+        {
+            "type": "Group discussion",
+            "note": "The students would work collaboratively in group on reading assignment and discussion."
+        },
+        {
+            "type": "Cooperative learning",
+            "note": "The students would work in group or individuality on research topics and compose a project."
+        }
+    ],
+    "grading": [
+        {
+            "type": "Assignments",
+            "weight": 20,
+            "note": "Task in class"
+        },
+        {
+            "type": "Class discussion involvement",
+            "weight": 15,
+            "note": "Participation and discussion."
+        },
+        {
+            "type": "Presentation",
+            "weight": 20,
+            "note": "Introduce a G/T center website connecting to the chapter, and try to contact the website for the issues that your group is interested in."
+        },
+        {
+            "type": "Case study reports",
+            "weight": 25,
+            "note": "Represent the knowledge gained from investigating an interested topic and present it to the class in a creative poster session format (the story of the investigation, findings, and references)."
+        },
+        {
+            "type": "other:",
+            "weight": 20,
+            "note": "Reading notes."
+        }
+    ],
+    "prerequisite": "◎Available for junior and senior year B.A. program students (Doctoral program courses excepted) and M.A. program students.",
+    "general_core": []
+}

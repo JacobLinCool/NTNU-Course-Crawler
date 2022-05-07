@@ -1,0 +1,81 @@
+{
+    "year": 109,
+    "term": 2,
+    "name": "智慧型人形機器人",
+    "teachers": [
+        "包傑奇"
+    ],
+    "department": "HM75",
+    "code": "AEC8017",
+    "credit": 3,
+    "serial": 1148,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 1,
+            "from": 2,
+            "to": 4,
+            "campus": "本部",
+            "classroom": "多媒體與通訊實驗室"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "This course covers methods that computer programs can use to adapt themselves to perform better on similar problems in the future, that is they learn from their experience. Special emphasis is given for machine learning techniques useful for intelligent robotics systems. Lectures will use python and matplotlib for most sample code.",
+    "goals": [
+        "Understand fundamentals of human and humanoid robotics walking",
+        "Use of programming to simulate and analyze complex control problems that arise in the area of humanoid robotics",
+        "Evaluate performance of several push recovery methods."
+    ],
+    "syllabus": "Week 1: Basic control theory: Servo motors, PID control  \nWeek 2: Homogeneous coordinates, affine transformations in 2D and 3D.  \nWeek 3: Kinematics for Humanoid Robots:  \nWeek 4: Forward and inverse kinematics of humanoid robots. Denavit-Hartenberg convention  \nand similar approaches.  \nWeek 5: Human locomotion: walking, jogging, running. Static and dynamically stable motions.  \nWeek 6: Dynamics of locomotion: Inverted pendulum models.  \nWeek 7: Walking gait generation using open loop control: Keyframe animation, cyclical pattern  \ngenerators (CPG), parameterized motions, zero moment point (ZMP) control,  \nWeek 8: Sensors for humanoid robots: accelerometers, gyroscopes, and force sensors.  \nWeek 9: Midterm  \nWeek 10: Feedback control and active balancing: centre of mass (CoM) and centre of pressure  \n(CoP) based approaches.  \nWeek 11: Walking on uneven surfaces.  \nWeek 12:Push recovery: footstep planning and adaptation, and capture steps.  \nWeek 13: Motion planning: complex motion planning for humanoid robots. Quadtree  \ndecomposition. Rapidly exploring random trees (RRT) planning.  \nWeek 14: Computer vision for humanoid robots: image processing, colour models,  \nWeek 15: Filter cascades  \nWeek 16: Optical flow analysis,  \nWeek 17: Ego-motion estimation, visual servoing  \nWeek 18: Final Exam",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": ""
+        },
+        {
+            "type": "問題解決教學",
+            "note": ""
+        },
+        {
+            "type": "合作學習",
+            "note": ""
+        },
+        {
+            "type": "實驗/實作",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 40,
+            "note": ""
+        },
+        {
+            "type": "期中考",
+            "weight": 20,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 40,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

@@ -1,0 +1,75 @@
+{
+    "year": 108,
+    "term": 1,
+    "name": "進階生物統計學",
+    "teachers": [
+        "李子奇"
+    ],
+    "department": "EM05",
+    "code": "HEC8014",
+    "credit": 2,
+    "serial": 479,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 8,
+            "to": 9,
+            "campus": "本部",
+            "classroom": "誠504"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 2,
+    "description": "本課程主要是針對大學期間已修過統計課程之研究生而設計，課程內容主要是以統計分析模式為主，強調針對統計分析結果能夠作正確解讀及進行專業報告。 1.了解進階統計分析方法之原理與基本概念。2.訓練研究所學生能具有獨立執行統計分析之能力。3.在面對各種資料時能做正確之統計分析判斷。4.針對統計分析結果作正確解讀及撰寫專業報告。",
+    "goals": [
+        "了解進階統計分析方法之原理與基本概念",
+        "訓練研究所學生能具有獨立執行統計分析之能力",
+        "在面對各種資料時能做正確之統計分析判斷",
+        "針對統計分析結果作正確解讀及撰寫專業報告"
+    ],
+    "syllabus": "本課程銜接基礎統計學與進階統計學，課程內容先複習基礎統計學概念，再介紹統計分析模式，學習統計基礎概念與統計方法的應用，以及能夠正確解讀及進行專案報告。\n\n*   (上課進度將依據課程安排情況做適度調整)： \n\n週次 (Week)\n\n**課程內容****(****中文****)**\n\n**Content**\n\n1\n\n課程介紹\n\nIntroduction\n\n2\n\n資料分析簡介\n\nIntroduction to data analysis\n\n3\n\n機率簡介\n\nIntroduction to probability\n\n4\n\n機率分布\n\nProbability distribution\n\n5\n\n機率分布\n\nProbability distribution\n\n6\n\n抽樣分布\n\nSampling distributions\n\n7\n\n假設檢定\n\nHypothesis testing\n\n8\n\n假設檢定\n\nHypothesis testing\n\n9\n\n期中考\n\nMid-term Examination\n\n10\n\n單一母體平均值檢定\n\nOne-sample tests of hypothesis\n\n11\n\n兩母體平均值檢定\n\nTests of hypothesis involving two samples\n\n12\n\n兩母體平均值檢定\n\nTests of hypothesis involving two samples\n\n13\n\nK個母體平均值檢定:變異數分析\n\nk-sample tests of hypothesis: The Analysis of Variance\n\n14\n\nK個母體平均值檢定:變異數分析\n\nk-sample tests of hypothesis: The Analysis of Variance\n\n15\n\n兩因子試驗資料分析\n\nTwo-factor analysis\n\n16\n\n線性迴歸與相關\n\nLinear regression and correlation\n\n17\n\n適合度檢定\n\nGoodness of fit tests\n\n18\n\n期末考\n\nFinal-term Examination",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "期中考",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "出席",
+            "weight": 10,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

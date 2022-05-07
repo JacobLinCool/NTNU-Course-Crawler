@@ -1,0 +1,74 @@
+{
+    "year": 107,
+    "term": 2,
+    "name": "阻力運動訓練生理學",
+    "teachers": [
+        "何仁育"
+    ],
+    "department": "AM32",
+    "code": "FPM0068",
+    "credit": 3,
+    "serial": 55,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 2,
+            "to": 4,
+            "campus": "公館",
+            "classroom": "研002"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "課程內容分為兩部分，第一部分主要在介紹阻力運動的內容與訓練方法(Overview of Resistance Exercise and Training)；第二部分則提供阻力運動與訓練所需的生理學基礎之探討，包括肌肉系統、神經系統、骨骼系統、心肺系統、內分泌系統與能量系統等，並探討阻力運動與訓練所引起之生理反應與適應的現象及生理機轉。",
+    "goals": [
+        "了解阻力運動與訓練的原則(Principles)與變項(Acute Program Variables)",
+        "了解阻力運動後，各生理系統的反應與適應",
+        "了解不同族群的阻力運動訓練原則"
+    ],
+    "syllabus": "**日期**\n\n**主題**\n\n**章節**\n\n**內容**\n\n2/19\n\nCourse Introduction\n\n分組 / 確認報告順序\n\n2/26\n\nOverview of Resistance Exercise and Training (I)\n\nCh17\n\n阻力訓練內容介紹\n\n3/05\n\nOverview of Resistance Exercise and Training (II)\n\nCh14, Ch15\n\n**分組報告**\n\n(暖身活動 / 重訓技巧)\n\n3/12\n\nTypes of Resistance Training (I)\n\nDCER / Isometric / Isokinetic\n\nTraining\n\n3/19\n\nTypes of Resistance Training (II)\n\n**分組報告**\n\n(其它阻力訓練方法介紹)\n\n3/26\n\n**Exam (****一)**\n\nBioenergetics of Resistance Exercise and Training\n\nCh3\n\n阻力訓練時的能量代謝\n\n4/02\n\nHoliday (NO CLASS)\n\n4/09\n\nNeuromuscular Anatomy\n\nNeuromuscular Adaptations to Resistance Training (I)\n\nCh1\n\n神經肌肉解剖學\n\n阻力訓練後的肌肥大現象\n\n4/16\n\nNeuromuscular Adaptations to Resistance Training (II)\n\n**Presentation (****一)**\n\nCh5\n\n**個人報告**\n\n(阻力訓練後的神經肌肉適應現象)\n\n4/23\n\n**Exam (****二)**\n\n4/30\n\nOverview of Endocrinology\n\nEndocrine Responses to Resistance Exercise and Training (I)\n\nCh4\n\n內分泌系統的介紹\n\n阻力訓練後的內分泌反應與適應現象\n\n5/07\n\nEndocrine Responses to Resistance Exercise and Training (II)\n\nCh5\n\n5/14\n\nMake Up Session\n\n**Presentation (****二)**\n\n**個人報告**\n\n(阻力訓練後的內分泌反應與適應現象)\n\n5/21\n\nCardiovascular Responses to Resistance Exercise\n\nCh1\n\nCh5\n\n阻力訓練後的心血管適應現象\n\n5/28\n\n**Exam (****三)**\n\n6/04\n\nNutritional Factors in Resistance Training\n\n**Presentation (****三)**\n\nCh9-11\n\n**個人報告**\n\n(營養增補在阻力訓練中扮演的角色介紹)\n\n6/11\n\nMonitoring Resistance Training & Recovery in Resistance Training\n\n阻力訓練的監控與恢復策略介紹\n\n6/18\n\nResistance Training for Special Populations\n\nCh7\n\n**分組報告**\n\n(阻力運動與年齡、性別差異)",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "講述阻力運動與訓練所需的生理學基礎"
+        },
+        {
+            "type": "討論法",
+            "note": "討論阻力訓練相關重要議題"
+        }
+    ],
+    "grading": [
+        {
+            "type": "期中考",
+            "weight": 30,
+            "note": "2次隨堂考試：命題形式包括選擇題與簡答題"
+        },
+        {
+            "type": "期末考",
+            "weight": 15,
+            "note": "期未考：命題形式包括選擇題與簡答題"
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 15,
+            "note": "出席並參與課堂討論的情形"
+        },
+        {
+            "type": "報告",
+            "weight": 40,
+            "note": "指定文獻引言報告"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

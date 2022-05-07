@@ -1,0 +1,85 @@
+{
+    "year": 109,
+    "term": 1,
+    "name": "人類發展",
+    "teachers": [
+        "聶西平"
+    ],
+    "department": "EU06",
+    "code": "HGU0004",
+    "credit": 3,
+    "serial": 821,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 6,
+            "to": 8,
+            "campus": "本部",
+            "classroom": "誠204"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "1",
+    "classes": "",
+    "dept_group": "E",
+    "hours": 3,
+    "description": "本課程內容以生命歷程（Life-Span）的觀點，探討個人從胎兒、嬰兒、幼兒、學齡兒童、青少年、成年、中年、老年各時期的生理、智力和心理社會等各項發展。介紹發展心理學有關的理論、研究、以及人生各階段的實際問題，企盼學生認識人類的成長與發展歷程，以瞭解自我，並為未來的人生旅程建立正確信念，做好生涯規畫，迎接快活老年。教學活動以講解為主，並輔以視聽媒體、報告等方式進行。",
+    "goals": [
+        "探討個人由出生至老年的發展變化",
+        "認識人類發展心理學的理論及研究方法",
+        "學習人類發展各領域發展的內涵",
+        "認識人類發展的重要影響因素",
+        "建立正確的自我信念與生命價值觀"
+    ],
+    "syllabus": "09/15：課程說明\n\n09/22：Basic concepts, methods, and theories of development\n\n09/29：Prenatal development and birth\n\n10/06：Physical, sensory, and perceptual development in infancy\n\n10/13：Cognitive development in infancy\n\n10/20：Social and personality development in infancy\n\n10/27：Physical and cognitive development in early childhood\n\n10/30：Social and personality development in early childhood\n\n11/10：期中考試\n\n11/17：Physical and cognitive development in middle childhood\n\n11/24：Social and personality development in middle childhood\n\n12/01：Physical and cognitive, development in adolescence\n\n12/08：Social and personality development in adolescence\n\n12/15：Development in early adulthood\n\n12/22：Development in middle adulthood\n\n12/29：Development in late adulthood\n\n01/05：Death, dying, and bereavement\n\n01/12：期末考",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "教師講述當週主題"
+        },
+        {
+            "type": "討論法",
+            "note": "安排學生小組討論並於課堂分享討論的結果"
+        },
+        {
+            "type": "媒體融入教學",
+            "note": "使用投影片及搭配影片等補充教材融入教學"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 20,
+            "note": "學期中會指定五份作業，作業格式與主題配合課程進度另行公布。"
+        },
+        {
+            "type": "期中考",
+            "weight": 30,
+            "note": "Open-book exam。"
+        },
+        {
+            "type": "期末考",
+            "weight": 30,
+            "note": "Open-book exam。"
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 10,
+            "note": "每週課堂會依當週主題安排學生進行小組討論並於課堂分享討論的結果，參與討論的程度將作為評分參考。"
+        },
+        {
+            "type": "出席",
+            "weight": 10,
+            "note": "課堂點名紀錄。"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

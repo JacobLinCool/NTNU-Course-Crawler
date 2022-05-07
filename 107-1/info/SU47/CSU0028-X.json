@@ -1,0 +1,75 @@
+{
+    "year": 107,
+    "term": 1,
+    "name": "軟體工程",
+    "teachers": [
+        "紀博文"
+    ],
+    "department": "SU47",
+    "code": "CSU0028",
+    "credit": 3,
+    "serial": 2983,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 3,
+            "to": 4,
+            "campus": "公館",
+            "classroom": "Ｂ101"
+        },
+        {
+            "day": 4,
+            "from": 3,
+            "to": 3,
+            "campus": "公館",
+            "classroom": "Ｂ101"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "3",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程旨在探討與介紹大型軟體發展中所遇到的實際問題。課程設計以軟體發展過程為主軸，探討軟體發展過程每一個環節的理論與實際的問題。課程內容涵蓋軟體需求分析，軟體規格訂定，軟體設計與規劃，架構分析，品質分析，軟體測試與除錯。課程除了對各軟體工程層面進行介紹之外，並重視實做。團隊合作(team work)為本課程的重點，除了讓學生瞭解合作的重要與必要之外，透過實做一個連慣性的project，讓學生親自瞭解teamwork 的困難以及困難之排解。",
+    "goals": [
+        "熟悉不同的軟體開發環境(Integrated development environment)",
+        "學習軟體開發的標準及基礎理論",
+        "整合不同系統和程式語言的基礎",
+        "了解現今大型軟體計畫常見的合作方法",
+        "學習軟體開發上的說明文件和注解碼(comment code)",
+        "了解現今系統(Android, iOS, etc.) 對於軟體開發的優點",
+        "對於軟體著作權和開放原始碼(Open Source) 授權條款的了解"
+    ],
+    "syllabus": "1.  What is Software Engineering.\n2.  Software Process.\n3.  Agile Software Development.\n4.  Requirement Engineering.\n5.  System Modeling.\n6.  Architecture Design.\n7.  Design and Implementation.\n8.  Software Testing.\n9.  Software Evolution.\n10.  Security Engineering.\n11.  Project Management.\n12.  License.\n13.  Mythical Man-Month.",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "實驗/實作",
+            "note": "學生組隊實際進行軟體專案開發"
+        }
+    ],
+    "grading": [
+        {
+            "type": "期中考",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "專題",
+            "weight": 70,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

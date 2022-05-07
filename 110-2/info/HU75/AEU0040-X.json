@@ -1,0 +1,87 @@
+{
+    "year": 110,
+    "term": 2,
+    "name": "電子儀表",
+    "teachers": [
+        "呂成凱"
+    ],
+    "department": "HU75",
+    "code": "AEU0040",
+    "credit": 3,
+    "serial": 1283,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 2,
+            "to": 4,
+            "campus": "本部",
+            "classroom": "電機系電子實驗室"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "3",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "使修習此課的學子們能了解到當前或未來輔助其進行電子電路設計的各式儀表之原理與操作方式，透過觀念講述與實例操作，來獲得電路實際運作的感覺與自行除錯更正的能力。",
+    "goals": [
+        "量測實務",
+        "儀表學理",
+        "上機操作",
+        "除錯更正"
+    ],
+    "syllabus": "(16+2 Weeks)\n\n1\\. 緒論- 儀表與量測\n\n   Introduction: Electronic Instruments and Measurement\n\n2\\. 放大器及回授與穩定度\n\n   Review on Op-amps and Feedback and Stability\n\n3\\. 振盪器\n\n   Oscillators\n\n4\\. 萬用電表原理\n\n   Working Principles of Multimeters\n\n5\\. 電源供應器原理\n\n   Working Principles of Power Supplies\n\n6\\. 信號產生器原理\n\n   Working Principles of Function Generators\n\n7\\. 示波器原理\n\n   Working Principles of Oscilloscopes\n\n8\\. 信號分析儀\n\n   Signal Analyzers\n\n9\\. 電橋電路與儀表\n\n   Bridge Circuits and Instruments\n\n10.數位儀表\n\n   Digital Meters\n\n11.感知器與轉換器原理\n\n   Introduction to sensors and converters\n\n12.射頻(RF)量測概念\n\n   RF Measurement Concepts\n\n13\\. 電子產品安規(FCC與CE)認證簡介\n\n   Introduction to Federal Communications Commission and Conformitè Europëenne\n\n14.安規實驗室實地參訪/業師講座\n\n   Field trips/Mentor Lecturing\n\n\\* 表可能會有所變動。\n\n\\* The schedule is subject to change.",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "電子儀表概念講座Lectures on concepts of Electronic Instruments"
+        },
+        {
+            "type": "討論法",
+            "note": "小組討論Small group discussions"
+        },
+        {
+            "type": "問題解決教學",
+            "note": "問題解決和設計驗證Problem-Solving and design validation"
+        },
+        {
+            "type": "實驗/實作",
+            "note": "判別、分析和解決問題Identify, analyze, and solve problems"
+        },
+        {
+            "type": "實地考察、參訪",
+            "note": "實地參訪了解業界需求Field trips to companies"
+        }
+    ],
+    "grading": [
+        {
+            "type": "期中考",
+            "weight": 30,
+            "note": "理論檢視Test understanding of fundamental concepts"
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 10,
+            "note": "課堂參與(出席與上課態度) Involvement"
+        },
+        {
+            "type": "報告",
+            "weight": 30,
+            "note": "小組報告Presentation and Group Report"
+        },
+        {
+            "type": "其他",
+            "weight": 30,
+            "note": "實作Practice"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

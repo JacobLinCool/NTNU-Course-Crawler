@@ -1,0 +1,85 @@
+{
+    "year": 110,
+    "term": 2,
+    "name": "建築節能設計",
+    "teachers": [
+        "陳韋任"
+    ],
+    "department": "HU76",
+    "code": "VEU0053",
+    "credit": 3,
+    "serial": 1300,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 1,
+            "from": 6,
+            "to": 8,
+            "campus": "本部",
+            "classroom": "工209"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程著重於節能技術在不同建築類型上的相關應用。課堂上將透過實際案例探討的方式，來幫助同學了解建築節能專案的概觀與標準流程，目標是希望讓同學在修完本課程後，能夠對本領域有更深的認識。",
+    "goals": [
+        "具備建築節能設計所需之知識與理解力。",
+        "具備建築節能設計所需之問題解決能力。",
+        "具備建築節能設計之設備操作與檢修實務技能。",
+        "具備主動積極與終身學習之人格特質。",
+        "具備良好的溝通與表達能力。",
+        "具備職場專業倫理與社會服務的理解與行動。",
+        "具備尊重智慧財產權的認知與態度。"
+    ],
+    "syllabus": "1      Syllabus\n\n2      Building energy conservation overview\n\n3      Building 3D modeling I\n\n4      Building 3D modeling II\n\n5      Building HVAC systems I\n\n6      Building HVAC systems II \n\n7      Building load calculations I\n\n8      Building load calculations II\n\n9      Midterm exam\n\n10    Advanced settings\n\n11    Building model calibration\n\n12    Energy efficient measures I\n\n13    Energy efficient measures II\n\n14    Case studies I\n\n15    Case studies II\n\n16    Term project\n\n17    Alternative curriculum\n\n18    Alternative curriculum",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "講述方式： 每一章節均以『揭示綱要』、『詳述內容』、『綜述要點』此三步驟來進行。"
+        },
+        {
+            "type": "討論法",
+            "note": "在課堂的原理講述過程中，鼓勵同學踴躍思考提出問題。"
+        },
+        {
+            "type": "問題解決教學",
+            "note": "利用實際的工程案例，幫助同學演練應用課堂學到的知識。"
+        },
+        {
+            "type": "媒體融入教學",
+            "note": "使用PPT教學檔案"
+        },
+        {
+            "type": "其他",
+            "note": "教師另運用示範、練習等教學方法，培養學生認知方面素養"
+        }
+    ],
+    "grading": [
+        {
+            "type": "期中考",
+            "weight": 40,
+            "note": ""
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 20,
+            "note": "課堂練習"
+        },
+        {
+            "type": "報告",
+            "weight": 40,
+            "note": "期末報告"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

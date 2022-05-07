@@ -1,0 +1,89 @@
+{
+    "year": 109,
+    "term": 1,
+    "name": "數學教材教法（教）",
+    "teachers": [
+        "亞霈琪",
+        "莫希蒙"
+    ],
+    "department": "SU40",
+    "code": "MAUE001",
+    "credit": 2,
+    "serial": 4675,
+    "group": "C",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 1,
+            "from": 6,
+            "to": 7,
+            "campus": "公館",
+            "classroom": "數學館M210"
+        }
+    ],
+    "programs": [],
+    "comment": "本課程為「雙語教學師資培育課程」數學領域數學專長之必修課程。",
+    "restrict": "",
+    "form_s": "3",
+    "classes": "",
+    "dept_group": "",
+    "hours": 2,
+    "description": "本課程主要培養學生進行中學數學教學時理論與實務相連結的知能，除了讓學生具備中學數學教學的技巧、方法、理論，也實施數學例子的教學。",
+    "goals": [
+        "瞭解中學數學教學的基本理念與教學理論",
+        "發展中學數學教學的技巧",
+        "熟悉中學數學教學常用的教學法"
+    ],
+    "syllabus": "3 weeks) Principles of CLIL for Mathematics andSTEM\n\n(3 weeks) International standards and materialsup to algebra and basic geometry.\n\n(3 weeks) International standards and materialsup to Pre-calculus\n\n(3 weeks) International standards and materialsCalculus\n\n(2 weeks) Literature case studies andpresentations on CLIL for mathematics\n\n(4 weeks) Deep case study of applying differenttechniques to a topic\n\n本課程包含以下雙語教學師資職前教育課程之課程核心內容：\n\n1\\. 何為雙語教學\n\n2\\. 雙語教學之語言使用\n\n3\\. 雙語課程教學與評量\n\n4\\. 認識雙語教學現場概況與運作\n\n5\\. 雙語教學實例分析\n\n6\\. 雙語教學教案設計\n\n7\\. 雙語教學活動設計\n\n8\\. 跨領域雙語教學共備\n\n9\\. 微型教學與回饋",
+    "methodologies": [
+        {
+            "type": "討論法",
+            "note": "Students will explain and discuss their ideas and solutions to prob-lems with other students. In English as well as Chinese"
+        },
+        {
+            "type": "問題解決教學",
+            "note": "Students will write high school mathematics problems and produce solutions in English"
+        },
+        {
+            "type": "其他",
+            "note": "They will demonstrate ability to explain and discuss mathematics education issues in individual face to face assessments with the in-structor."
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 20,
+            "note": ""
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 15,
+            "note": ""
+        },
+        {
+            "type": "出席",
+            "weight": 5,
+            "note": ""
+        },
+        {
+            "type": "報告",
+            "weight": 20,
+            "note": ""
+        },
+        {
+            "type": "專題",
+            "weight": 20,
+            "note": ""
+        },
+        {
+            "type": "其他",
+            "weight": 20,
+            "note": "Contribute to online tasks"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

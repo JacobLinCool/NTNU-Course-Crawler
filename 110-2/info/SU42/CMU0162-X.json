@@ -1,0 +1,90 @@
+{
+    "year": 110,
+    "term": 2,
+    "name": "儀器分析實驗（二）",
+    "teachers": [
+        "呂家榮"
+    ],
+    "department": "SU42",
+    "code": "CMU0162",
+    "credit": 2,
+    "serial": 2868,
+    "group": "",
+    "quota": {
+        "limit": 40,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 4,
+            "from": 7,
+            "to": 10,
+            "campus": "公館",
+            "classroom": "Ｄ401"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "4",
+    "classes": "",
+    "dept_group": "",
+    "hours": 4,
+    "description": "本課程以實際儀器的操作搭配部分儀器硬體功能的組裝，使學生能在實作中更深刻理解化學分析儀器之功能與原理，同時對本科系畢業生在未來繼續升學或進入相關領域職場所需具備之儀器專業知識作準備。",
+    "goals": [
+        "學習儀器原理",
+        "儀器與實驗操作",
+        "實驗報告撰寫",
+        "儀器功能硬體組裝",
+        "新穎與貴重儀器觀摩"
+    ],
+    "syllabus": "Exp1. 雷射講解及樣品分析\n\nExp 2. X-Ray Single Crystal Diffraction Spectrometry\n\nX光繞射晶體儀器講解及樣品分析\n\nExp 3. AA及ICP-MS儀器講解及實驗數據處理教學\n\nExp 4. High performance Liquid Chromatography 高效能液體層析\n\nExp 5. Displayer and Oscillator七段顯示器與振盪器       \n\nExp 6. 定時器4098 — 聲音的感應\n\nExp 7. GC-MS 氣相層析質譜儀\n\nExp 8Supercritical Fluid Extraction 超臨界流體萃取\n\nExp 9. 反相器4069 —黑暗中自動亮的燈\n\nExp10.紅外線感應 —自動閃避障礙的車子\n\nExp11. Atomic Absorption Spectrophotometry 原子吸收光譜",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "由教授與助教針對特定子題進行講述，以電腦投影輔助。"
+        },
+        {
+            "type": "討論法",
+            "note": "觀摩或實作過程中由學生與助教進行Q&A交流。"
+        },
+        {
+            "type": "實驗/實作",
+            "note": "根據各儀器特性，設計並進行專屬實驗。"
+        }
+    ],
+    "grading": [
+        {
+            "type": "期中考",
+            "weight": 15,
+            "note": "以書面方式進行。"
+        },
+        {
+            "type": "期末考",
+            "weight": 15,
+            "note": "以書面方式進行。"
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 15,
+            "note": "實驗中與助教問答討論，了解學生是否切實預習。"
+        },
+        {
+            "type": "出席",
+            "weight": 10,
+            "note": "每次由助教點名，無故缺席會影響同組學生學習。"
+        },
+        {
+            "type": "報告",
+            "weight": 40,
+            "note": "審視預報與結報是否反映學生之專業成長。"
+        },
+        {
+            "type": "其他",
+            "weight": 5,
+            "note": "實驗精神分數及值日生工作"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

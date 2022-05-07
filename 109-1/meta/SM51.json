@@ -1,0 +1,162 @@
+[
+    {
+        "year": 109,
+        "term": 1,
+        "name": "營養研究設計",
+        "teachers": [
+            "謝佳倩"
+        ],
+        "department": "SM51",
+        "code": "NSM0003",
+        "credit": 3,
+        "serial": 2783,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 5,
+                "from": 2,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "勤103"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎課程不開放上修",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 1,
+        "name": "營養生理生化研究",
+        "teachers": [
+            "蘇純立"
+        ],
+        "department": "SM51",
+        "code": "NSM0004",
+        "credit": 3,
+        "serial": 2784,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 7,
+                "to": 9,
+                "campus": "本部",
+                "classroom": "人發系會議室B"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎課程開放上修",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 1,
+        "name": "專題討論（一）",
+        "teachers": [
+            "蘇純立"
+        ],
+        "department": "SM51",
+        "code": "NSM0001",
+        "credit": 2,
+        "serial": 2785,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 3,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "勤102"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎課程不開放上修",
+        "form_s": "1",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 1,
+        "name": "營養與癌症",
+        "teachers": [
+            "蘇純立"
+        ],
+        "department": "SU51",
+        "code": "NSC9001",
+        "credit": 3,
+        "serial": 3081,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 2,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "樸407"
+            }
+        ],
+        "programs": [],
+        "comment": "研究生欲選修請向授課老師取得授權碼",
+        "restrict": "◎必須先修過【HGU0345  生物化學】、【NSU0009  生物化學】其中一門",
+        "form_s": "",
+        "classes": "9",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 1,
+        "name": "營養與免疫",
+        "teachers": [
+            "謝佳倩"
+        ],
+        "department": "SU51",
+        "code": "NSC9003",
+        "credit": 3,
+        "serial": 3082,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 6,
+                "to": 8,
+                "campus": "本部",
+                "classroom": "樸402"
+            }
+        ],
+        "programs": [],
+        "comment": "研究生欲選修請向授課老師取得授權碼",
+        "restrict": "◎必須先修過【HGU0383  營養學（二）】、【NSU0007  營養學（二）】其中一門",
+        "form_s": "",
+        "classes": "9",
+        "dept_group": ""
+    }
+]

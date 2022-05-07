@@ -1,0 +1,74 @@
+{
+    "year": 110,
+    "term": 2,
+    "name": "次世代電子元件技術",
+    "teachers": [
+        "李敏鴻"
+    ],
+    "department": "HM77",
+    "code": "OEC8134",
+    "credit": 3,
+    "serial": 1134,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 6,
+            "from": 2,
+            "to": 4,
+            "campus": "公館",
+            "classroom": "應用科學大樓B1演講廳"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎必須先修過【OEC9107  半導體物理】 ◎課程不開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "",
+    "goals": [
+        "1. Understand the working principle and concept of MOS capacitor thorough the basic physics.",
+        "2. Discuss advanced process technology of CMOS for the state-of-the-art technology node.",
+        "3. Visit the laboratory and understand the measurement operations and skills.",
+        "4. Possibilities and introduction of future processes, as well as novel nanoelectronics technology with new materials and manufactures."
+    ],
+    "syllabus": "【Teaching method: 16+2 weeks】  \nThis course will be introduced about the technology of nano-electronics in the future. The technology node of Moore's law and manufacturing of CMOS will be introduced. As well as the advanced material and emerging technology will be mentioned. The modeling and experimental method for advanced nano-scale CMOS process technology and any possibility of future process is also presented in this course.\n\nThe topic for each week is listed below.   \nweek Outline & Progress  \n1 Class Introduction  \n2 MOS Capacitor  \n3 MOSFET operation and principle  \n4 Non-ideal MOSFET Characteristics and Improvement  \n5 MOSFET Scaling-down  \n6 Strained-Si Technology  \n7 High-K and Metal Gate  \n8 FinFET  \n9 GAA Nanosheet FET  \n10 High mobility material & channel  \n11 Negative Capacitance concept and FET  \n12 Tunneling FET  \n13 Other Emerging Technologies  \n14 VLSI symp. & IEDM paper survey  \n15 Electrical Measurement Lab. Tour  \n16 Exam  \n17-18 Self-learning",
+    "methodologies": [
+        {
+            "type": "Formal lecture",
+            "note": "Concepts and principles of nanoelectronics technologies will be introduced in the lecture."
+        },
+        {
+            "type": "Group discussion",
+            "note": "Important applications related to the topics will be covered in the class. Students are encouraged to ask questions and discuss the advantages and limitations with each other."
+        },
+        {
+            "type": "Case studies",
+            "note": "During the semester, the students will choose a topic from recently published research papers and share his/her own opinions from studying this paper."
+        }
+    ],
+    "grading": [
+        {
+            "type": "Final exam",
+            "weight": 20,
+            "note": "The final exam will be in an open book fashioned. The range includes all the topics appeared in the lecture."
+        },
+        {
+            "type": "Class discussion involvement",
+            "weight": 40,
+            "note": "The students will be asked to present a research paper that is related to the next-electronics technology. The presentation should include a brief introduction to the research and his/her own comment/discoveries through the studying."
+        },
+        {
+            "type": "Presentation",
+            "weight": 40,
+            "note": "The students will need to write a report based on their study of the research paper for the oral presentation. The report should include three chapters: introduction, discussion, and conclusion. The report should be written in English."
+        }
+    ],
+    "prerequisite": "Prerequisite course: 【OEC9107  Semiconductor Devices Physics】 ◎Unavailable for M.A. program students (M.A. program courses excepted) and B.A. program students.",
+    "general_core": []
+}

@@ -1,0 +1,85 @@
+{
+    "year": 108,
+    "term": 2,
+    "name": "多變量分析",
+    "teachers": [
+        "鄒蘊欣"
+    ],
+    "department": "OM56",
+    "code": "IAM0044",
+    "credit": 3,
+    "serial": 2343,
+    "group": "",
+    "quota": {
+        "limit": 25,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 5,
+            "from": 7,
+            "to": 9,
+            "campus": "本部",
+            "classroom": "教402"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎必須先修過【PGUA007  統計學】、【BAU0040  統計學（一）】其中一門 ◎課程不開放上修",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "This course is designed to introduce the quantitative methodologies frequently used in the data analysis for marketing decisions. Quantitative marketing research tools and the utility of applying these tools to problem solving and decision-making are introduced. The underlying meaning, constraint, and possible bias stemming from the procedure of data collection and the output of data analysis are emphasized such that class participants are less likely to be subject to the misleading of seemingly scientific data output. The primary topics discussed include regression, factor analysis, discriminant analysis, logit analysis, conjoint analysis, ANOVA/MANOVA, multidimensional scaling, cluster analysis, structural equation modeling and path analysis. All the class discussions/presentations and paper writings are required in English.",
+    "goals": [
+        "High proficiency in the use of quantitative methodologies to facilitate marketing-relevant decision makings"
+    ],
+    "syllabus": "**Week**\n\n**Content**\n\nWeek 1\n\nCourse introduction\n\nWeek 2\n\nOverview of multivariate methods\n\nWeek 3\n\nExamining your data\n\nWeek 4\n\nT-test and Anova\n\nWeek 5\n\n_Public holiday \\_No class_\n\nWeek 6\n\nExploratory factor analysis\n\nWeek 7\n\nCluster analysis\n\nWeek 8\n\n_Midterm exam week\\_No class_\n\nWeek 9\n\nMultiple regression analysis\n\nWeek 10\n\nLogistics regression & Discriminant analysis\n\nWeek 11\n\nConfirmatory factor analysis and structural equation models\n\nWeek 12\n\nIn class practice- data analysis for term project\n\nWeek 13\n\nIn class practice-data analysis for term project\n\nWeek 14\n\nIn class exam\n\nWeek 15\n\nFinal presentation\n\nWeek 16\n\nFinal presentation\n\nWeek 17\n\n_Public holiday \\_No class_\n\nWeek 18\n\n_Final exam week\\_No class_",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "以投影片講述各週主題的基本內容"
+        },
+        {
+            "type": "討論法",
+            "note": "配合每週主題融入決策問題與決策資料"
+        },
+        {
+            "type": "問題解決教學",
+            "note": "配合每週主題講解分析軟體的操作步驟"
+        },
+        {
+            "type": "專題研究",
+            "note": "本課程要求學生完成研究報告或調查研究分析報告書乙份。"
+        }
+    ],
+    "grading": [
+        {
+            "type": "期末考",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 15,
+            "note": ""
+        },
+        {
+            "type": "出席",
+            "weight": 15,
+            "note": ""
+        },
+        {
+            "type": "報告",
+            "weight": 15,
+            "note": ""
+        },
+        {
+            "type": "專題",
+            "weight": 25,
+            "note": ""
+        }
+    ],
+    "prerequisite": "◎必須先修過【PGUA007  統計學】、【BAU0040  統計學（一）】其中一門",
+    "general_core": []
+}

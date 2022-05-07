@@ -1,0 +1,78 @@
+{
+    "year": 107,
+    "term": 2,
+    "name": "學習理論概論",
+    "teachers": [
+        "籃玉如"
+    ],
+    "department": "IU84",
+    "code": "CLU1071",
+    "credit": 3,
+    "serial": 1530,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 0
+    },
+    "schedule": [
+        {
+            "day": 3,
+            "from": 6,
+            "to": 8,
+            "campus": "本部",
+            "classroom": "教室自排"
+        }
+    ],
+    "programs": [],
+    "comment": "教室：綜10樓華語系教室",
+    "restrict": "",
+    "form_s": "4",
+    "classes": "",
+    "dept_group": "B",
+    "hours": 3,
+    "description": "本課程旨在透過課堂講解、小組討論、分組報告，帶領學生\n了解學習理論、學習歷程的基本概念，內容包含不同學派的學習理論、學習心理學、認知學習理論、社會認知論、訊息處理論等，並且探討學習理論之於華語教學的實際應用。",
+    "goals": [
+        "能瞭解學習理論的基本概念與理論",
+        "能應用學習理論於華語文教學領域",
+        "能透過小組合作培養合作學習的能力"
+    ],
+    "syllabus": "第1 週(02/20)：課程介紹 Introduction to the course\n\n第2 週(02/27)：學習研究介紹 Introduction to the study of learning\n\n第3 週(03/06)：學習的神經科學 Neuroscience of learning\n\n第4 週(03/13)：行為主義 Behaviorism\n\n第5 週(03/20)：社會認知理論(一) Social cognitive theory\\_1\n\n第6 週(03/27)：社會認知理論(二) Social cognitive theory\\_2\n\n第7 週(04/03)：春假\n\n第8 週(04/10)：訊息處理理論 Information processing theory\n\n第9 週(04/17)：期中報告 Midterm\n\n第10週(04/24)：認知學習歷程(一) Cognitive learning process\\_1\n\n第11週(05/01)：認知學習歷程(二) Cognitive learning process\\_2\n\n第12週(05/08)：建構主義(一) Constructivism\\_1\n\n第13週(05/15)：建構主義(二) Constructivism\\_2\n\n第14週(05/22)：動機(一) Motivation\\_1 (非同步)\n\n第15週(05/29)：動機(二) Motivation\\_2\n\n第16週(06/05)：自我監控學習Self-regulated learning\n\n第17週(06/12)：情境的影響Contextual influences\n\n第18週(06/19)：期末報告Final\n\n  \n[教學進度與主題附件](https://ap.itc.ntnu.edu.tw/NtnuFileShare/file.do?action=dl&gno=8e16b6f4b77c4c75b0f7ae8d03f41af8&fno=8987d956826046cbbd40137a8cee77c4)",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "實體課堂講學習理論"
+        },
+        {
+            "type": "討論法",
+            "note": "小組討論學習理論在教學現場的實踐"
+        },
+        {
+            "type": "合作學習",
+            "note": "小組討論學習理論在教學現場的實踐"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 25,
+            "note": "(課前)每週作業"
+        },
+        {
+            "type": "期中考",
+            "weight": 25,
+            "note": "評量各項學習理論之論述與應用+隨堂小考"
+        },
+        {
+            "type": "期末考",
+            "weight": 20,
+            "note": "評量各項學習理論之論述與應用"
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 30,
+            "note": "課堂講述與討論"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

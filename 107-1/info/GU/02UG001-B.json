@@ -1,0 +1,72 @@
+{
+    "year": 107,
+    "term": 1,
+    "name": "哲學入門",
+    "teachers": [
+        "吳豐維"
+    ],
+    "department": "GU",
+    "code": "02UG001",
+    "credit": 2,
+    "serial": 921,
+    "group": "B",
+    "quota": {
+        "limit": 70,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 3,
+            "from": 3,
+            "to": 4,
+            "campus": "公館",
+            "classroom": "綜合館B1小型演講廳"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎公領系（學）不得選修",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 2,
+    "description": "本課程旨在由認知西方哲學體系出發，導引學生具備哲學基本認知後，養成批判思考及道德判斷能力，並進一步建立責任倫理素養，使學習者能在日常生活中面對多元價值議題時，善用認知哲學概念後所養成的批判思考習慣和態度，確立個人道德判斷依據與自我生命價值。",
+    "goals": [
+        "養成運用哲學思辯方法和生活態度，具備邏輯思考與批判思考能力。"
+    ],
+    "syllabus": "第一週：9/12 課程介紹：哲學是什麼？\n\n讀物：Warburton, Ch. 1\n\n第二週：9/19 對與錯：我們如何決定行動？\n\n讀物：Warburton, Ch. 20, 21, 37\n\n第三週：9/26 善與惡：這世界上為何會有惡？\n\n讀物：Warburton, Ch. 6, 16, 35\n\n第四週：10/3 美與醜：我們如何進行品味的判斷？\n\n讀物：Blackburn, Ch. 16\n\n第五週：10/10 放假\n\n第六週：10/17我與眾：我們需要政治社會嗎？\n\n讀物：Warburton, Ch. 10, 18\n\n第七週：10/24得與施：我們有分配財富的義務嗎？\n\n讀物：Warburton, Ch. 27, 38\n\n第八週：10/31罪與罰：我們為何需要刑罰？\n\n讀物：Mill, \"Speech in favour of capital punishment\"\n\n第九週：11/7 期中考\n\n第十週：11/14自由與責任：人有行動的自由嗎?\n\n讀物：Blackburn, Ch. 3\n\n第十一週：11/21真實與幻象：我如何確定事物是真實存在的？\n\n讀物：Warburton, Ch. 11, 15\n\n第十二週：11/28心與腦：我有肉身之外的心靈嗎？\n\n讀物：Blackburn, Ch. 1\n\n第十三週：12/5同與異：我如何確定自己具有人格同一性？\n\n讀物：Warburton, Ch. 14\n\n第十四週：12/12生與死（一）：死亡也有倫理嗎？\n\n讀物：Blackburn, Ch. 20\n\n第十五週：12/19 生與死（二）：安樂死合乎道德嗎？\n\n讀物： Hume, \"Of suicide\"\n\n第十六週：12/26存有與虛無（一）：為何是有而不是無？\n\n讀物：Blackburn, Ch. 14\n\n第十七週：1/2存有與虛無（二）：生存的價值從何而來？\n\n讀物：Warburton, Ch. 29, 33\n\n第十八週：1/9 期末考",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "教師授課"
+        },
+        {
+            "type": "討論法",
+            "note": "課堂問答"
+        }
+    ],
+    "grading": [
+        {
+            "type": "期中考",
+            "weight": 35,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 35,
+            "note": ""
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 10,
+            "note": ""
+        },
+        {
+            "type": "出席",
+            "weight": 20,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

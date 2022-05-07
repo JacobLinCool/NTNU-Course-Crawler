@@ -1,0 +1,68 @@
+{
+    "year": 108,
+    "term": 1,
+    "name": "電磁學（一）",
+    "teachers": [
+        "張俊傑"
+    ],
+    "department": "HU77",
+    "code": "OEU0005",
+    "credit": 3,
+    "serial": 1372,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 3,
+            "from": 7,
+            "to": 9,
+            "campus": "公館",
+            "classroom": "綜合館201"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "2",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "The course in an introduction to electrostatics and magnetostatics primarily for the second-year undergraduate students of the Undergraduate Program of Electro-Optical Engineering as well as others from any other departments in the College of Technology and Engineering.",
+    "goals": [
+        "The goal of this course is to enable students to acquire the fundamental understanding of electrostatics and magnetostatics, and to develop their ability to calculate the basic physical quantities such as electric field, electric potential, energy, electric polarization, magnetization, etc."
+    ],
+    "syllabus": "**1\\. Vector Analysis**: vector algebra, differential and integral calculus, cuvilinear coordinates\n\n**2\\. Electrostatics**: electric field, electric potential, work and energy\n\n**3\\. Special techniques for solving electric potentials**: Laplace's equation, the method of images, separation of variables, multipole expansion\n\n**4\\. Electric fields in matters**: polarization, electric displacement, linear dielectrics\n\n**5\\. Magnetostatics**: Lorentz force, Bio-Savart law, the divergence and curl of the magnetic field, Ampere's law, magnetic dipole moment, multipole expansion\n\n**6\\. Magnetic field in matters**: magnetization, magnetic susceptibility and permeability",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 30,
+            "note": "Weekly HW assignment"
+        },
+        {
+            "type": "期中考",
+            "weight": 30,
+            "note": "Midterm written exam"
+        },
+        {
+            "type": "期末考",
+            "weight": 35,
+            "note": "Final written exam"
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 5,
+            "note": "Attendance/In-class discussion"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

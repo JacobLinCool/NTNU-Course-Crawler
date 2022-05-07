@@ -1,0 +1,79 @@
+{
+    "year": 110,
+    "term": 2,
+    "name": "體育（籃球初級）",
+    "teachers": [
+        "石明宗"
+    ],
+    "department": "PE",
+    "code": "00UP104",
+    "credit": 1,
+    "serial": 2490,
+    "group": "D",
+    "quota": {
+        "limit": 50,
+        "additional": 5
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 6,
+            "to": 7,
+            "campus": "公館",
+            "classroom": "體育館二3樓"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "允許重複修 ◎課程開放上修",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 2,
+    "description": "認識籃球運動之起源、歷史發展現況及籃球運動傷害之防治",
+    "goals": [
+        "認識籃球運動之起源、歷史發展現況及籃球運動傷害之防治",
+        "瞭解籃球規則",
+        "培養學生各項籃球基本技能",
+        "培養對籃球運動之興趣及欣賞能力"
+    ],
+    "syllabus": "一、基本動作介紹\n\n1.投籃\n\n2.傳球\n\n3.運球\n\n4.防守\n\n二、小組配合\n\n1.二人進攻：Screen, Give-and-go, Hand-off\n\n2.三人進攻：切傳、傳切、擋人、後門\n\n3.二人防守：守傳球(Deny),守切入(關門)，守高吊(在前)\n\n4.三人防守：守球位置，Deny 位置，Help位置\n\n三、戰術介紹  \n1.二人快攻練習\n\n2.三人快攻練習\n\n3.五人快攻練習\n\n4.區域防守練習\n\n5.盯人防守練習\n\n四、籃球美學\n\n1.觀賞球賽\n\n2.位置風格\n\n3.球迷現象",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "問題解決教學",
+            "note": ""
+        },
+        {
+            "type": "合作學習",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "期中考",
+            "weight": 25,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 25,
+            "note": ""
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 20,
+            "note": ""
+        },
+        {
+            "type": "出席",
+            "weight": 30,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

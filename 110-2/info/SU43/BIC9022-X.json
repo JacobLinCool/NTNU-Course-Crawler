@@ -1,0 +1,77 @@
+{
+    "year": 110,
+    "term": 2,
+    "name": "內分泌學",
+    "teachers": [
+        "林炎壽"
+    ],
+    "department": "SU43",
+    "code": "BIC9022",
+    "credit": 3,
+    "serial": 2882,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 1,
+            "from": 7,
+            "to": 9,
+            "campus": "公館",
+            "classroom": "Ｓ203"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "9",
+    "dept_group": "",
+    "hours": 3,
+    "description": "於生理學中內分泌學為一重要範疇，舉凡神經內分泌學、一般內分泌學、或是分子內分泌學等等，此教學目標為使修習者熟悉內分泌學之基礎知識及研究新知，另外使其對研究新知具思考之能力；也希望研究生於修習此課程後除了達成上述兩項目標外，能更具備創新的思考。這將對有興趣於內分泌學本身或是想建構完整之生理學知識者極有助益。",
+    "goals": [
+        "增進內分泌生理學基本概念的理解",
+        "發展學生科學思維能力",
+        "培養學生問題導向的思維和研究之能力"
+    ],
+    "syllabus": "16+2週\n\n第一週 Introduction of endocrinology\n\n第二週 General principle & Paper 1 discussion\n\n第三週 Hypothalamus and pituitary I\n\n第四週 Hypothalamus and pituitary II\n\n第五週 Thyroid gland\n\n第六週 Parathyroid gland\n\n第七週 Adrenal gland - cortex\n\n第八週 Adrenal gland - medulla\n\n第九週 期中考\n\n第十週 Metabolism and Students’presentation\n\n第十一週 Pancreas and Students’presentation\n\n第十二週 Paper discussion and Students’presentation\n\n第十三週 Reproduction/Male\n\n第十四週 Reproduction/Female\n\n第十五週 Adipose tissue\n\n第十六週 期末考\n\n第十七週 自主學習\n\n第十八週 自主學習",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "使用一般課本、自編講義媒材授課"
+        },
+        {
+            "type": "討論法",
+            "note": "依據paper之實驗結果來討論結論之確實性"
+        },
+        {
+            "type": "問題解決教學",
+            "note": "也依據paper之實驗編排來探討邏輯之運用"
+        },
+        {
+            "type": "媒體融入教學",
+            "note": "運用數位平台與自製簡報檔案教學"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 25,
+            "note": "1-1具備生命科學之專業知識 (30%) 2-1具備運用生命科學相關研究方法與技術的能力(30%) 3-1具備正確的科學態度，能主動探索生命科學之相關議題 (20%) 。期末以一篇綜論整理授課內容中特定知識之深入了解"
+        },
+        {
+            "type": "期中考",
+            "weight": 50,
+            "note": "1-1具備生命科學之專業知識 (30%) 2-1具備運用生命科學相關研究方法與技術的能力(30%) 3-1具備正確的科學態度，能主動探索生命科學之相關議題 (20%) 。亦即以Open book 考試評量對於授課內容融會貫通之能力"
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 25,
+            "note": "1-1具備生命科學之專業知識 (30%) 2-1具備運用生命科學相關研究方法與技術的能力(30%) 3-1具備正確的科學態度，能主動探索生命科學之相關議題 (20%) 4-1具備以多元表徵轉化生命科學概念之溝通與表達能力(20%)"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

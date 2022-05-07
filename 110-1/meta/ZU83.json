@@ -1,0 +1,105 @@
+[
+    {
+        "year": 110,
+        "term": 1,
+        "name": "企業概論",
+        "teachers": [
+            "林舒柔"
+        ],
+        "department": "ZU83",
+        "code": "PGUA001",
+        "credit": 3,
+        "serial": 3276,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 25
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 10,
+                "to": 12,
+                "campus": "本部",
+                "classroom": "誠302"
+            }
+        ],
+        "programs": [
+            "基礎管理學程",
+            "藝術產業學程"
+        ],
+        "comment": "",
+        "restrict": "◎第一階段限 基礎管理學程",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 1,
+        "name": "經濟學",
+        "teachers": [
+            "徐美"
+        ],
+        "department": "ZU83",
+        "code": "PGUA006",
+        "credit": 3,
+        "serial": 3277,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 2,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "誠402"
+            }
+        ],
+        "programs": [
+            "基礎管理學程"
+        ],
+        "comment": "",
+        "restrict": "◎第一階段限 基礎管理學程",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 1,
+        "name": "資訊管理",
+        "teachers": [
+            "黃浩霆"
+        ],
+        "department": "ZU83",
+        "code": "PGUA008",
+        "credit": 3,
+        "serial": 3278,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 5,
+                "from": 7,
+                "to": 9,
+                "campus": "本部",
+                "classroom": "樸401"
+            }
+        ],
+        "programs": [
+            "基礎管理學程"
+        ],
+        "comment": "",
+        "restrict": "◎第一階段限 基礎管理學程",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    }
+]

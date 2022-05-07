@@ -1,0 +1,93 @@
+{
+    "year": 110,
+    "term": 1,
+    "name": "天文觀測（含實習）",
+    "teachers": [
+        "曾瑋玲",
+        "李悅寧"
+    ],
+    "department": "SU44",
+    "code": "ESU0183",
+    "credit": 3,
+    "serial": 3032,
+    "group": "",
+    "quota": {
+        "limit": 16,
+        "additional": 2
+    },
+    "schedule": [
+        {
+            "day": 3,
+            "from": 16,
+            "to": 11,
+            "campus": "公館",
+            "classroom": "Ｂ413"
+        }
+    ],
+    "programs": [
+        "天文重力學程"
+    ],
+    "comment": "",
+    "restrict": "",
+    "form_s": "2",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "To learn operation of small telescopes fundamental ideas and definitions in astronomical methods using archival data for research projects how to connect the observations and astronomical/astrophysical knowledge.",
+    "goals": [
+        "Operation of small telescopes",
+        "Fundamental ideas and definitions in astronomical methods",
+        "Using archival data for research projects",
+        "Connect the observations and astronomical/astrophysical knowledge"
+    ],
+    "syllabus": "課程進度: 將依學生學習進度隨時做調整;  且因參加鹿林山天文台的觀測活動, 將會調整部分時間停課; 且視Covid-19疫情最新發展, 調整課程進度\n\n注意事項: \n\n1.  強烈建議: **需先修畢地科系的”天文學”課程**, 才能跟得上此課程的安排內容\n2.  鹿林山天文台觀測活動: 2021/11/19-2021/11/21期間的三天兩夜行程;\n\n4.  費用: 來回交通費用+保險+天文台食宿費用; 扣除系上的校外教學經費補助後, 學生們仍自行負擔部分(天文台食宿費用:共1,400元)\n\n週數\n\n日期\n\n課程內容\n\n附註(上課地點)\n\n1\n\n9/22\n\n1.  課程內容簡介\n2.  學生分組\n\n 每一次上課每一組要有一台筆記型電腦\n\n2\n\n9/29\n\n星空運動: 天球與天球座標 + 恆星時\n\n實習: 星座盤 & FunSKY & Stellarium作業單\n\n \n\n3\n\n10/6\n\n小望遠鏡原理(功能)\n\n光學系統Ｉ(dark current, bandpass, color index, atmospheric effect)\n\n實習: 小望遠鏡操作觀測\n\n4\n\n10/13\n\n光學系統II: (image analysis, flatfield)\n\n簡易星空攝影\n\n實習: 小望遠鏡操作觀測\n\n5\n\n10/20\n\n平頂天文台C16望遠鏡操作觀測\n\n6\n\n10/27\n\n1.  天體的物理性質與可觀測的結果\n2.  如何撰寫觀測計畫\n3.  光譜觀測\n\n7\n\n11/3\n\n鹿林天文台影像資料分析(一)\n\n1.  繳交小望遠鏡觀測/攝影作業\n2.  繳交C16望遠鏡觀測作業\n\n8\n\n11/10\n\n鹿林山天文台觀測I (停課)\n\n 繳交鹿林山天文台觀測計畫書\n\n9\n\n11/17\n\n期中考\n\n 11/19-11/21鹿林山天文台觀測\n\n10\n\n11/24\n\n鹿林天文台影像資料分析(二)\n\n11\n\n12/1\n\n分析鹿林山天文台觀測資料II(停課)\n\n12\n\n12/8\n\n分析鹿林山天文台觀測資料III(停課)\n\n 繳交鹿林山天文台影像分析作業(3)\n\n13\n\n12/15\n\nRadio Astronomy – ALMA data analysis (1)\n\n14\n\n12/22\n\nRadio Astronomy – ALMA data analysis (2)\n\n15\n\n12/29\n\nRadio Astronomy – ALMA data analysis (3)\n\n16\n\n1/5\n\n期末報告:  ALMA data analysis\n\n17\n\n學生自主學習(1)\n\n18\n\n學生自主學習(2)\n\n計分方式與比例:\n\n期末考(個人成績)\n\n35%\n\n小望遠鏡&C16望遠鏡觀測作業(小組成績)\n\n15%\n\n鹿林山天文台觀測計畫書與影像分析作業(小組成績)\n\n25%\n\n期末報告(小組成績)\n\n25%\n\n出席率, 課堂參與程度, Q&A\n\n額外加分",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "老師講授"
+        },
+        {
+            "type": "討論法",
+            "note": ""
+        },
+        {
+            "type": "問題解決教學",
+            "note": ""
+        },
+        {
+            "type": "合作學習",
+            "note": ""
+        },
+        {
+            "type": "實驗/實作",
+            "note": "操作望遠鏡、使用數位化天文資料庫"
+        },
+        {
+            "type": "實地考察、參訪",
+            "note": ""
+        },
+        {
+            "type": "專題研究",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 40,
+            "note": "小望遠鏡及鹿林天文台觀測資料"
+        },
+        {
+            "type": "期中考",
+            "weight": 35,
+            "note": ""
+        },
+        {
+            "type": "報告",
+            "weight": 25,
+            "note": "ALMA data abalysis"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

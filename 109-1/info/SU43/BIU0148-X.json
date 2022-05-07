@@ -1,0 +1,69 @@
+{
+    "year": 109,
+    "term": 1,
+    "name": "免疫學",
+    "teachers": [
+        "王麗婷"
+    ],
+    "department": "SU43",
+    "code": "BIU0148",
+    "credit": 3,
+    "serial": 3015,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 5,
+            "from": 6,
+            "to": 8,
+            "campus": "公館",
+            "classroom": "Ｓ505"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "4",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "This course will enable the student to gain a broad foundation base and build upon that base for understanding the defense mechanisms of the human body. These topics will include innate and adaptive immunity, antigen capture and recognition, mechanisms of immune reactions, immunological tolerance, immunological diseases, vaccine and immunological assays.",
+    "goals": [
+        "Demonstrate a comprehensive and practical understanding of basic immunological principles involved in research and clinical/applied science.",
+        "Discuss current immunology news and issues"
+    ],
+    "syllabus": "第一週 課程介紹\n\n第二週 Basic Concepts in Immunology\n\n第三週 Innate Immunity and inflammation\n\n第四週 Antigen Recognition by B-cell and T-cell Receptors\n\n第五週 Antigen Presentation to T Lymphocytes\n\n第六週 Lymphocyte Receptor Signaling\n\n第七週 The Development and of B and T Lymphocytes\n\n第八週 T Cell-Mediated Immunity\n\n第九週 期中考\n\n第十週 The Humoral Immune Response\n\n第十一週 Integrated Dynamics of Innate and Adaptive Immunity\n\n第十二週 The Mucosal Immune System\n\n第十三週 Failures of Host Defense Mechanisms\n\n第十四週 Allergy and Allergic Diseases\n\n第十五週 Autoimmunity and Transplantation\n\n第十六週  Manipulation of the Immune Response\n\n第十七週 Cancer immunity\n\n第十八週 期末考",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "課堂中除了老師講述外，在課堂上也可以互相討論"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 30,
+            "note": "每週課堂上課內容筆記，於下次上課前繳交"
+        },
+        {
+            "type": "期中考",
+            "weight": 30,
+            "note": "於課堂中小考完成"
+        },
+        {
+            "type": "期末考",
+            "weight": 30,
+            "note": "於課堂中小考完成"
+        },
+        {
+            "type": "出席",
+            "weight": 10,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

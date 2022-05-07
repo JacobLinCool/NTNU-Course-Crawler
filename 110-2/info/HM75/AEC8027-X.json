@@ -1,0 +1,86 @@
+{
+    "year": 110,
+    "term": 2,
+    "name": "類比積體電路設計",
+    "teachers": [
+        "郭建宏"
+    ],
+    "department": "HM75",
+    "code": "AEC8027",
+    "credit": 3,
+    "serial": 1125,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 1,
+            "from": 6,
+            "to": 8,
+            "campus": "本部",
+            "classroom": "電機系電子實驗室"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程著重在CMOS元件的基本操作原理，透過實例講解，可以讓學員清楚瞭解類比積體電路的組成應用，以及電路分析上的考量，和電路設計上的技巧，強調基礎與應用知識以符合學生將來就業上的需求。",
+    "goals": [
+        "增進微電子電路基本概念的理解",
+        "藉由作業及專案計畫的執行，培養學生電路模擬與信號分析的能力",
+        "學習積體電路設計所需的知識、工具、與電路技術",
+        "從作業的練習中培養獨立思考與解決問題的能力",
+        "培養問題導向的思維與處理的能力。",
+        "從專案研究資料的蓃集，訓練學生積極的學習態度"
+    ],
+    "syllabus": "第一週 Introduction\n\n第二週  Basic MOS Device Physics\n\n第三週  Single-Stage Amplifiers I\n\n第四週  Single-Stage Amplifiers II\n\n第五週  Differential Amplifiers I\n\n第六週  Differential Amplifiers II         \n\n第七週  test\n\n第八週  Passive and Active Current Mirrors\n\n第九週  Midterm Exam\n\n第十週  Frequency Response of Amplifiers I\n\n第十一週 Frequency Response of Amplifiers II\n\n第十二週  Noise\n\n第十三週  Feedback I\n\n第十四週  Feedback II\n\n第十五週  Operational Amplifiers I\n\n第十六週  Operational Amplifiers II\n\n第十七週  Stability and Frequency Compensation\n\n第十八週  Final Exam",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "投影片及講義教學"
+        },
+        {
+            "type": "討論法",
+            "note": "適時提出問題，課堂上討論與解答"
+        },
+        {
+            "type": "問題解決教學",
+            "note": "針對上課遇到的電路問題，個別提出觀念上的看法"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 20,
+            "note": "各個章節的作業練習"
+        },
+        {
+            "type": "期中考",
+            "weight": 30,
+            "note": "設計題與問答題"
+        },
+        {
+            "type": "期末考",
+            "weight": 35,
+            "note": "設計題與問答題"
+        },
+        {
+            "type": "出席",
+            "weight": 5,
+            "note": "出缺席紀錄"
+        },
+        {
+            "type": "其他",
+            "weight": 10,
+            "note": "小考"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

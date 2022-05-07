@@ -1,0 +1,968 @@
+[
+    {
+        "year": 109,
+        "term": 1,
+        "name": "儒學與全球政經脈絡",
+        "teachers": [
+            "陳文政"
+        ],
+        "department": "IU83",
+        "code": "EAC9005",
+        "credit": 3,
+        "serial": 1485,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 9,
+                "to": 10,
+                "campus": "本部",
+                "classroom": "誠106"
+            }
+        ],
+        "programs": [],
+        "comment": "文化與應用領域，大一與大二不可上修",
+        "restrict": "◎限大三大四 ◎限碩一碩二碩三以上修習",
+        "form_s": "",
+        "classes": "9",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 1,
+        "name": "瞭解南海爭端",
+        "teachers": [
+            "王冠雄"
+        ],
+        "department": "IU83",
+        "code": "EAC9007",
+        "credit": 3,
+        "serial": 1486,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 6,
+                "to": 8,
+                "campus": "本部",
+                "classroom": "正203"
+            }
+        ],
+        "programs": [],
+        "comment": "政經與區域發展領域，大一與大二不可上修",
+        "restrict": "◎限大三大四 ◎限碩一碩二碩三以上修習",
+        "form_s": "",
+        "classes": "9",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 1,
+        "name": "中共對亞洲政策",
+        "teachers": [
+            "林賢參"
+        ],
+        "department": "IU83",
+        "code": "EAC9010",
+        "credit": 3,
+        "serial": 1487,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 2,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "正306"
+            }
+        ],
+        "programs": [],
+        "comment": "政經與區域發展領域，大一與大二不可上修",
+        "restrict": "◎限大三大四 ◎限碩一碩二碩三以上修習",
+        "form_s": "",
+        "classes": "9",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 1,
+        "name": "體育",
+        "teachers": [
+            "余建霖"
+        ],
+        "department": "IU83",
+        "code": "00UP001",
+        "credit": 1,
+        "serial": 1489,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 1,
+                "to": 2,
+                "campus": "本部",
+                "classroom": "操場一"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "1",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 1,
+        "name": "初級韓語（一）",
+        "teachers": [
+            "李圭旼"
+        ],
+        "department": "IU83",
+        "code": "EAU0075",
+        "credit": 2,
+        "serial": 1490,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 9,
+                "to": 10,
+                "campus": "本部",
+                "classroom": "誠305"
+            }
+        ],
+        "programs": [],
+        "comment": "初級語言課程限本系修習，外系生如希望修課，請務必於開學第一週到班上課，並需經授課老師同意後，方可用授權碼加選",
+        "restrict": "◎限本系(含雙主修)修習",
+        "form_s": "1",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 1,
+        "name": "初級日語（一）",
+        "teachers": [
+            "林賢參"
+        ],
+        "department": "IU83",
+        "code": "EAU0076",
+        "credit": 2,
+        "serial": 1491,
+        "group": "",
+        "quota": {
+            "limit": 36,
+            "additional": 19
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 3,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "正405"
+            }
+        ],
+        "programs": [],
+        "comment": "初級語言課程限本系修習，外系生如希望修課，請務必於開學第一週到班上課，並需經授課老師同意後，方可用授權碼加選",
+        "restrict": "◎限本系(含雙主修)修習",
+        "form_s": "1",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 1,
+        "name": "臺灣政治與經濟",
+        "teachers": [
+            "關弘昌"
+        ],
+        "department": "IU83",
+        "code": "EAU0120",
+        "credit": 3,
+        "serial": 1492,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 6,
+                "to": 8,
+                "campus": "本部",
+                "classroom": "誠305"
+            }
+        ],
+        "programs": [
+            "社會與傳播學程"
+        ],
+        "comment": "政經與區域發展領域",
+        "restrict": "",
+        "form_s": "1",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 1,
+        "name": "東亞社會變遷",
+        "teachers": [
+            "張碧君"
+        ],
+        "department": "IU83",
+        "code": "EAU0126",
+        "credit": 3,
+        "serial": 1493,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 6,
+                "to": 8,
+                "campus": "本部",
+                "classroom": "樸407"
+            }
+        ],
+        "programs": [],
+        "comment": "政經與區域發展領域",
+        "restrict": "",
+        "form_s": "1",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 1,
+        "name": "統計學",
+        "teachers": [
+            "林昌平"
+        ],
+        "department": "IU83",
+        "code": "EAU0131",
+        "credit": 3,
+        "serial": 1495,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 9,
+                "to": 10,
+                "campus": "本部",
+                "classroom": "教402"
+            }
+        ],
+        "programs": [],
+        "comment": "政經與區域發展領域",
+        "restrict": "",
+        "form_s": "1",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 1,
+        "name": "東亞現代化城市發展",
+        "teachers": [
+            "金恩美"
+        ],
+        "department": "IU83",
+        "code": "EAU0156",
+        "credit": 3,
+        "serial": 1496,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 6,
+                "to": 8,
+                "campus": "本部",
+                "classroom": "正405"
+            }
+        ],
+        "programs": [],
+        "comment": "文化與應用領域",
+        "restrict": "",
+        "form_s": "1",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 1,
+        "name": "中日文化比較",
+        "teachers": [
+            "李育娟"
+        ],
+        "department": "IU83",
+        "code": "EAU0158",
+        "credit": 3,
+        "serial": 1497,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 6,
+                "to": 8,
+                "campus": "本部",
+                "classroom": "樸303"
+            }
+        ],
+        "programs": [],
+        "comment": "文化與應用領域",
+        "restrict": "",
+        "form_s": "1",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 1,
+        "name": "政治學",
+        "teachers": [
+            "曲兆祥"
+        ],
+        "department": "IU83",
+        "code": "EAU0175",
+        "credit": 3,
+        "serial": 1498,
+        "group": "",
+        "quota": {
+            "limit": 60,
+            "additional": 50
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 2,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "教202會議廳"
+            }
+        ],
+        "programs": [],
+        "comment": "大一共同必修，本系大一學生皆需修習。",
+        "restrict": "",
+        "form_s": "1",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 1,
+        "name": "全球化政經概論",
+        "teachers": [
+            "陳文政"
+        ],
+        "department": "IU83",
+        "code": "EAU0195",
+        "credit": 3,
+        "serial": 1499,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 6,
+                "to": 8,
+                "campus": "本部",
+                "classroom": "樸304"
+            }
+        ],
+        "programs": [
+            "社會與傳播學程"
+        ],
+        "comment": "政經與區域發展領域",
+        "restrict": "",
+        "form_s": "1",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 1,
+        "name": "美國外交政策",
+        "teachers": [
+            "徐筱琦"
+        ],
+        "department": "IU83",
+        "code": "EAU0206",
+        "credit": 3,
+        "serial": 1500,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 6,
+                "to": 8,
+                "campus": "本部",
+                "classroom": "樸407"
+            }
+        ],
+        "programs": [],
+        "comment": "政經與區域發展領域",
+        "restrict": "",
+        "form_s": "1",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 1,
+        "name": "東北亞區域文化",
+        "teachers": [
+            "張崑將"
+        ],
+        "department": "IU83",
+        "code": "EAU0207",
+        "credit": 3,
+        "serial": 1501,
+        "group": "",
+        "quota": {
+            "limit": 60,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 2,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "綜508會議室"
+            }
+        ],
+        "programs": [],
+        "comment": "大一共同必修，不開放大二、大三、大四下修，修過「東北亞民族源流與發展(EAU0147)不可修習」。",
+        "restrict": "",
+        "form_s": "1",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 1,
+        "name": "東亞政經模擬理論",
+        "teachers": [
+            "邵軒磊"
+        ],
+        "department": "IU83",
+        "code": "EAU0213",
+        "credit": 3,
+        "serial": 1502,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 9,
+                "to": 10,
+                "campus": "本部",
+                "classroom": "誠305"
+            }
+        ],
+        "programs": [],
+        "comment": "政經與區域發展領域",
+        "restrict": "",
+        "form_s": "1",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 1,
+        "name": "中級韓語（一）",
+        "teachers": [
+            "金恩美"
+        ],
+        "department": "IU83",
+        "code": "EAU0083",
+        "credit": 2,
+        "serial": 1503,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 6,
+                "to": 7,
+                "campus": "本部",
+                "classroom": "正202"
+            }
+        ],
+        "programs": [],
+        "comment": "大一不可上修。",
+        "restrict": "◎限大二大三大四修習",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 1,
+        "name": "中級日語（一）",
+        "teachers": [
+            "陳順益"
+        ],
+        "department": "IU83",
+        "code": "EAU0085",
+        "credit": 2,
+        "serial": 1504,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 3,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "誠105"
+            }
+        ],
+        "programs": [],
+        "comment": "大一不可上修。如具備初級日語（二）同等能力證明者，請經教師同意後以授權碼選課。",
+        "restrict": "◎限大二大三大四修習◎必須先修過【EAU0072  初級日語（二）】",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 1,
+        "name": "個體經濟學",
+        "teachers": [
+            "田正利"
+        ],
+        "department": "IU83",
+        "code": "EAU0122",
+        "credit": 3,
+        "serial": 1505,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 9,
+                "to": 10,
+                "campus": "本部",
+                "classroom": "誠204"
+            }
+        ],
+        "programs": [],
+        "comment": "政經與區域發展領域",
+        "restrict": "◎限大二大三大四修習",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 1,
+        "name": "國際政治",
+        "teachers": [
+            "關弘昌"
+        ],
+        "department": "IU83",
+        "code": "EAU0124",
+        "credit": 3,
+        "serial": 1506,
+        "group": "",
+        "quota": {
+            "limit": 60,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 2,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "綜508會議室"
+            }
+        ],
+        "programs": [],
+        "comment": "大二共同必修",
+        "restrict": "◎限大二大三大四修習",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 1,
+        "name": "東亞宗教概論",
+        "teachers": [
+            "潘鳳娟"
+        ],
+        "department": "IU83",
+        "code": "EAU0148",
+        "credit": 3,
+        "serial": 1507,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 6,
+                "to": 8,
+                "campus": "本部",
+                "classroom": "樸407"
+            }
+        ],
+        "programs": [],
+        "comment": "文化與應用領域",
+        "restrict": "◎限大二大三大四修習",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 1,
+        "name": "文化理論導讀",
+        "teachers": [
+            "張碧君"
+        ],
+        "department": "IU83",
+        "code": "EAU0177",
+        "credit": 3,
+        "serial": 1508,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 9,
+                "to": 10,
+                "campus": "本部",
+                "classroom": "誠109"
+            }
+        ],
+        "programs": [],
+        "comment": "文化與應用領域",
+        "restrict": "◎限大二大三大四修習",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 1,
+        "name": "經濟力量與外交政策",
+        "teachers": [
+            "徐筱琦"
+        ],
+        "department": "IU83",
+        "code": "EAU0202",
+        "credit": 3,
+        "serial": 1510,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 2,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "正405"
+            }
+        ],
+        "programs": [],
+        "comment": "政經與區域發展領域",
+        "restrict": "◎限大二大三大四修習",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 1,
+        "name": "文化創意經營與行銷",
+        "teachers": [
+            "張志源"
+        ],
+        "department": "IU83",
+        "code": "EAU0212",
+        "credit": 3,
+        "serial": 1511,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 9,
+                "to": 10,
+                "campus": "本部",
+                "classroom": "誠205"
+            }
+        ],
+        "programs": [],
+        "comment": "文化與應用領域",
+        "restrict": "◎限大二大三大四修習",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 1,
+        "name": "法治與人權：內國、跨國與全球觀點",
+        "teachers": [
+            "陳文政"
+        ],
+        "department": "IU83",
+        "code": "EAU0222",
+        "credit": 3,
+        "serial": 1512,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 6,
+                "to": 8,
+                "campus": "本部",
+                "classroom": "正405"
+            }
+        ],
+        "programs": [],
+        "comment": "政經與區域發展領域",
+        "restrict": "◎限大二大三大四修習",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 1,
+        "name": "東亞的傳統與現代性對話",
+        "teachers": [
+            "江柏煒"
+        ],
+        "department": "IU83",
+        "code": "EAU0226",
+        "credit": 3,
+        "serial": 1513,
+        "group": "",
+        "quota": {
+            "limit": 55,
+            "additional": 35
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 6,
+                "to": 8,
+                "campus": "本部",
+                "classroom": "誠302"
+            }
+        ],
+        "programs": [],
+        "comment": "大二共同必修，不開放大一上修，亦不開放大三與大四下修",
+        "restrict": "◎限大二修習",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 1,
+        "name": "臺灣企業的東亞經營",
+        "teachers": [
+            "田正利"
+        ],
+        "department": "IU83",
+        "code": "EAU0051",
+        "credit": 3,
+        "serial": 1514,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 9,
+                "to": 10,
+                "campus": "本部",
+                "classroom": "誠102"
+            }
+        ],
+        "programs": [
+            "社會與傳播學程"
+        ],
+        "comment": "政經與區域發展領域，大一、大二不可上修",
+        "restrict": "◎限大三大四修習",
+        "form_s": "3",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 1,
+        "name": "中國大陸政經發展",
+        "teachers": [
+            "范世平"
+        ],
+        "department": "IU83",
+        "code": "EAU0203",
+        "credit": 3,
+        "serial": 1516,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 2,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "正106"
+            }
+        ],
+        "programs": [],
+        "comment": "政經與區域發展領域，大一不可上修",
+        "restrict": "◎限大二大三大四修習",
+        "form_s": "3",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 1,
+        "name": "文學、電影中的東亞城市與文化",
+        "teachers": [
+            "鄭怡庭"
+        ],
+        "department": "IU83",
+        "code": "EAU0225",
+        "credit": 3,
+        "serial": 1517,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 6,
+                "to": 8,
+                "campus": "本部",
+                "classroom": "誠106"
+            }
+        ],
+        "programs": [],
+        "comment": "文化與應用領域，大一不可上修",
+        "restrict": "◎限大二大三大四修習",
+        "form_s": "3",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 1,
+        "name": "文化產業實務",
+        "teachers": [
+            "張志源"
+        ],
+        "department": "IU83",
+        "code": "EAU0188",
+        "credit": 3,
+        "serial": 1518,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 9,
+                "to": 10,
+                "campus": "本部",
+                "classroom": "誠106"
+            }
+        ],
+        "programs": [],
+        "comment": "文化與應用領域，大一不可上修",
+        "restrict": "◎限大二大三大四修習",
+        "form_s": "4",
+        "classes": "",
+        "dept_group": ""
+    }
+]

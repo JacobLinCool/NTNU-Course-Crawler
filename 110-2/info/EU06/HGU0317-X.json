@@ -1,0 +1,59 @@
+{
+    "year": 110,
+    "term": 2,
+    "name": "基礎人體生理學",
+    "teachers": [
+        "李明忠"
+    ],
+    "department": "EU06",
+    "code": "HGU0317",
+    "credit": 3,
+    "serial": 745,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 1,
+            "from": 6,
+            "to": 8,
+            "campus": "公館",
+            "classroom": "綜合館B1小型演講廳"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "1",
+    "classes": "",
+    "dept_group": "B",
+    "hours": 3,
+    "description": "本課程目標為介紹人體生理學之基本概念，使學生瞭解動物各系統的功能，與運作機制。",
+    "goals": [
+        "能熟悉並認知人體生理系統的功能及機制。",
+        "能體認人體生理學的內涵，並以人體生理學為基礎探討相關議題。",
+        "能夠吸收專業知識並且將其轉化與表達"
+    ],
+    "syllabus": " \n\n週次   章節   授課內容                              1     6      Interactions between cells and envrionment    \n\n2     7      Nervous system                        \n\n3     8      Central nervous system               4     9      Autonomic nervous system             \n\n5     10     Sensory system                       \n\n6            1st Exam                              \n\n7     11     Endocrine glands                     \n\n8     12     Muscle                               \n\n9     13     Circulatory systems                  \n\n10    14     Circulatory systems                  \n\n11    15     Immune system                        \n\n12           2nd Exam                              \n\n13    16     Respiratory system                    \n\n14    17     Physiology of Kidenys                \n\n15    18     Digestive system                      \n\n16    19     Regulation of metabolish              \n\n17    20     Reproduction                          \n\n18           3rd Exam",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "使用一般課本、自編講義媒材授課"
+        },
+        {
+            "type": "媒體融入教學",
+            "note": "運用數位平台與自製簡報檔案教學"
+        }
+    ],
+    "grading": [
+        {
+            "type": "期末考",
+            "weight": 100,
+            "note": "選擇題(30%)\n簡答題(20%)\n問答題(40%)"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

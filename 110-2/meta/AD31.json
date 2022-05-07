@@ -1,0 +1,228 @@
+[
+    {
+        "year": 110,
+        "term": 2,
+        "name": "量化研究法",
+        "teachers": [
+            "陳美燕"
+        ],
+        "department": "AD31",
+        "code": "SRD0002",
+        "credit": 3,
+        "serial": 5,
+        "group": "",
+        "quota": {
+            "limit": 30,
+            "additional": 2
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 6,
+                "to": 8,
+                "campus": "本部",
+                "classroom": "綜603"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎課程開放上修",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 2,
+        "name": "實證性研究之文獻評析與統整",
+        "teachers": [
+            "林儷蓉"
+        ],
+        "department": "AD31",
+        "code": "SRD0008",
+        "credit": 3,
+        "serial": 6,
+        "group": "",
+        "quota": {
+            "limit": 30,
+            "additional": 1
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 2,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "綜603"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎課程開放上修",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 2,
+        "name": "期刊投稿研究",
+        "teachers": [
+            "王國欽"
+        ],
+        "department": "AD31",
+        "code": "SRD0010",
+        "credit": 3,
+        "serial": 7,
+        "group": "",
+        "quota": {
+            "limit": 30,
+            "additional": 2
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 2,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "綜602"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎課程開放上修",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 2,
+        "name": "社區休閒",
+        "teachers": [
+            "李晶"
+        ],
+        "department": "AD31",
+        "code": "SRD0013",
+        "credit": 3,
+        "serial": 8,
+        "group": "",
+        "quota": {
+            "limit": 30,
+            "additional": 2
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 6,
+                "to": 8,
+                "campus": "本部",
+                "classroom": "綜602"
+            }
+        ],
+        "programs": [
+            "高齡學程"
+        ],
+        "comment": "",
+        "restrict": "◎課程開放上修",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 2,
+        "name": "運動休閒與餐旅管理專題討論",
+        "teachers": [
+            "廖邕"
+        ],
+        "department": "AD31",
+        "code": "SRD0024",
+        "credit": 1,
+        "serial": 9,
+        "group": "",
+        "quota": {
+            "limit": 30,
+            "additional": 0
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 11,
+                "to": 11,
+                "campus": "本部",
+                "classroom": "綜508會議室"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "允許重複修 ◎必須先修過【SRD0001  質性研究法】、【SRD0002  量化研究法】其中一門 ◎課程不開放上修",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 2,
+        "name": "休閒、健康與適能研究",
+        "teachers": [
+            "廖邕"
+        ],
+        "department": "AM31",
+        "code": "SRC8004",
+        "credit": 3,
+        "serial": 52,
+        "group": "",
+        "quota": {
+            "limit": 30,
+            "additional": 2
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 3,
+                "to": 5,
+                "campus": "本部",
+                "classroom": "綜603"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎課程開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 2,
+        "name": "餐旅業策略資訊系統管理",
+        "teachers": [
+            "雷芷卉"
+        ],
+        "department": "AM31",
+        "code": "SRC8005",
+        "credit": 3,
+        "serial": 53,
+        "group": "",
+        "quota": {
+            "limit": 30,
+            "additional": 5
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 3,
+                "to": 5,
+                "campus": "本部",
+                "classroom": "綜603"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎課程不開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    }
+]

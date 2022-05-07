@@ -1,0 +1,93 @@
+{
+    "year": 107,
+    "term": 1,
+    "name": "神經心理學",
+    "teachers": [
+        "王曉嵐"
+    ],
+    "department": "EM09",
+    "code": "SPC0008",
+    "credit": 2,
+    "serial": 500,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 1,
+            "to": 2,
+            "campus": "本部",
+            "classroom": "特230"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 2,
+    "description": "本課程旨在了解近代神經心理學的理論與技術，探討人類各項認知行為運作所對應的神經生理基礎。課程中介紹各種神經科學與實驗心理學方法的基本假設與運用，以及目前累積的研究成果。透過對於神經心理學指定教科書的閱讀與討論，瞭解該領域的重要研究成果與研究方法（包括技術原理與實驗設計邏輯等），以培養同學邏輯思考的能力，並應用於未來特殊教育的教學或評量。\nHow do our brains give rise to our minds? Specifically, how are mental processes related to neural activity? This course will explore these questions, as well as the methods by which neuropsychology seeks to answer them. We will focus on processes within perception, attention, memory, language, emotion, and social cognition, and methods including neuroimaging, neuropsychology, and electrophysiology.",
+    "goals": [
+        "瞭解神經心理學的起源、發展簡史、發展脈絡及未來研究目標",
+        "了解認知心理與神經系統的歷程與結構",
+        "認識研究神經科學的研究方法",
+        "瞭解神經心理學與特殊教育的關係"
+    ],
+    "syllabus": "**第一週： Course overview and introduction 課程簡介**\n\n**第二週： Neuroanatomy: Meet your brain: Neurons, major brain areas and structures 神經解剖學簡介**\n\n**第三週： Methods: Peeking inside minds: Cognitive neuroscience methods 神經影像學介紹**\n\n**第四週：Frontier Science in Education: NeuroEducation 教育神經科學**\n\n**第五週：Memory 記憶**\n\n**第六週： Attention 注意力**\n\n**第七週： The Adolescent Brain**\n\n**第八週：Sensation and Perception 感覺與知覺**\n\n**第九週： Language I 語言**\n\n**第十週： Language II 語言(中文聲韻和閱讀發展)**\n\n**第十一週： Midterm Exam 期中考**\n\n**第十二週： Emotion and the Amygdala 情緒與杏仁核**\n\n**第十三週： Social Cognition 社會認知**\n\n**第十四週： Consciousness 意識**\n\n**第十五週： Decision Making 決策**\n\n**第十六週：Number and numerosity 數字感**\n\n**第十七週：停課**\n\n**第十八週：Recap and Final Exam 複習與期末考**\n\n（教學進度以上述教學大綱為原則，唯得視實際需要予以調整）",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "解釋神經心理學各學派知識、概念與研究方法"
+        },
+        {
+            "type": "討論法",
+            "note": "藉由全班討論或小組討論來表達獨力想法與立場"
+        },
+        {
+            "type": "實驗/實作",
+            "note": "課後參與神經心理學相關實驗以實際了解研究過程"
+        },
+        {
+            "type": "專題研究",
+            "note": "融合已知文獻發展個人研究計畫和實驗"
+        }
+    ],
+    "grading": [
+        {
+            "type": "期中考",
+            "weight": 30,
+            "note": "The Midterm Exam is to assess your basic factual knowledge of topics covered in lectures and readings, to review critical concepts and theories that are important in the field of Neuropsychology. Several short answer questions may be designed to address basic knowledge about topics presented both in lecture and in readings"
+        },
+        {
+            "type": "期末考",
+            "weight": 30,
+            "note": "The Final Exam will require you to synthesize information across diverse areas and perhaps think about topics in novel ways. Essay questions may be designed to assess in depth knowledge and to integrate information across lectures or readings."
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 10,
+            "note": "Students will be grouped and perform a debate regarding the issues of neuroethics. Details should be discussed before the meeting with the TA and Lecturer. Performance will be graded based on speech content, clarity of expression and organization of ideas."
+        },
+        {
+            "type": "出席",
+            "weight": 10,
+            "note": "Full-attendance is strongly encouraged."
+        },
+        {
+            "type": "報告",
+            "weight": 10,
+            "note": "Students must hand in a Short Paper by the end of the term. For the Short Paper, they must select two related primary (empirical) papers that fall under the assigned topic within the field of neuropsychology. The Short Paper can NOT exceed 1000 words (about 3-4 double-spaced pages). The Short Paper should contain the following three elements: (i) an introduction of the problem or issue that the two papers address; (ii) for each study, a brief summary of the methods and most significant findings, as well as any shortcomings or limitations; (iii) an integration of the two findings."
+        },
+        {
+            "type": "其他",
+            "weight": 10,
+            "note": "To volunteer attending any funded psychological research is recommended. This will help students to actually understand the procedure of experiments."
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

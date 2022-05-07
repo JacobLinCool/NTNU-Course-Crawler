@@ -1,0 +1,61 @@
+{
+    "year": 109,
+    "term": 1,
+    "name": "力學（一）",
+    "teachers": [
+        "江府峻"
+    ],
+    "department": "SU41",
+    "code": "PHU0230",
+    "credit": 3,
+    "serial": 2907,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 7,
+            "to": 9,
+            "campus": "公館",
+            "classroom": "Ｅ302"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "2",
+    "classes": "2",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程提供物理系大學部理論力學一般的題材。",
+    "goals": [
+        "培養學生物理的歸納及推演能力",
+        "訓練學生解析的計算能力",
+        "令學生了解力學的發展歷史",
+        "使學生注意最新的發展"
+    ],
+    "syllabus": "We will follow closely the topics outlined in \" Classical Dynamics of Particles and Systems \"  by Marion and Thornton.\n\nSpecifically, the topics covered for each week is as follows (Based on the progress and the requests from the students, these topics may be subject to modification).\n\nWeeks 1,2,3,4: Matrix, Vector Calculus and Ordinary Differential Equation.\n\nWeeks 4,5: Newtonian Mechanics: Newton's laws of motion of a single particle. \n\nWeek 6: Work, Energy, and Momentum of a single particle. Simple Harmonic oscillations.\n\nWeek 7: First midterm exam.\n\nWeek 8: Simple Harmonics Oscillator (cont).\n\nWeek 9: Pendulum and Brief on Nonlinear Dynamics and Chaos..\n\nWeek 10: Gravitation.\n\nWeeks 11, 12: Calculus of Variations.\n\nWeek 13: Second midterm.\n\nWeeks 14, 15, 16: Hamilton's principle: Lagrangian and Hamiltonian dynamics. \n\nWeeks 16, 17: Coupled Oscillations.\n\nWeeks 18: Final exam.",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "期中考",
+            "weight": 60,
+            "note": "Two midterm exams (Both are open book in class exams). Each counts 30 percent toward the semester grade."
+        },
+        {
+            "type": "期末考",
+            "weight": 40,
+            "note": "One final exams (open book in class exam)"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

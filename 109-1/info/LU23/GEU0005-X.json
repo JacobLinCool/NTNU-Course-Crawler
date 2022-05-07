@@ -1,0 +1,80 @@
+{
+    "year": 109,
+    "term": 1,
+    "name": "生物地理",
+    "teachers": [
+        "陳瑩"
+    ],
+    "department": "LU23",
+    "code": "GEU0005",
+    "credit": 3,
+    "serial": 2013,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 4
+    },
+    "schedule": [
+        {
+            "day": 1,
+            "from": 7,
+            "to": 9,
+            "campus": "本部",
+            "classroom": "樸401"
+        }
+    ],
+    "programs": [
+        "環境監測學程",
+        "空間學程"
+    ],
+    "comment": "",
+    "restrict": "",
+    "form_s": "2",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "生物地理學主要是探討動、植物的分佈及與其環境間的關係，包括生物分佈的歷史變遷、人類的影響。本課程希望與同學探討的課題除了與生物地理學相關的傳統生態學觀念外，也加入巨觀生態學(macroecology)和親緣生物地理學(phylogeography)等研究觀點。修習的學生能從本課程獲得生物地理學研究領域所需具備的基本知識與研究技術。",
+    "goals": [
+        "獲得生物地理學研究領域所需具備的基本知識與研究技術"
+    ],
+    "syllabus": "### 預計各週授課內容\n\n上課週次\n\n主題\n\n主要內容\n\n第一週: 14 September\n\n課程介紹\n\n授課模式、課程內容及評量方式說明、加退選作業\n\n第二週: 21 September\n\n生物地理學發展史\n\n生物地理學發想與先驅巨擘們\n\n第三週: 28 September\n\n生物種化機制 (I)\n\n物種-空間關係、中性理論、哈溫平衡\n\n第四週: 5 October\n\n生物種化機制 (II)\n\n形態、生理及行為限制\n\n第五週: 12 October\n\n生物地理區形成機制 (I)\n\n板塊理論、地理隔離演化、親緣地理\n\n第六週: 19 October\n\n生物地理區形成機制 (II)\n\n二次接觸、競爭、滅絕\n\n第七週: 26 October\n\n生物地理群聚模式 (I)\n\n全球氣候模式、生態系、生物多樣性分布模式、生物多樣性熱點\n\n第八週: 2 November\n\n生物地理群聚模式 (II)\n\n今日全球生物地理區各地特色\n\n第九週: 9 November\n\n期中考試\n\n \n\n第十週: 16 November\n\n島嶼生物地理學 (I)\n\n特有種化、輻射適應、趨同演化、島嶼法則\n\n第十一週: 23 November\n\n島嶼生物地理學 (II)\n\n島嶼案例分析\n\n第十二週: 30 November\n\n海洋生物地理學\n\n水體結構、洋流、海底地形、物種/群聚交互作用\n\n第十三週: 7 December\n\n保育生物地理學\n\n入侵種，人類世，保育經營案例\n\n第十四週: 14 December\n\n人類生物地理學\n\n人類的起源，分布與多樣性\n\n第十五週: 21 December\n\n古生物地理學\n\n邀請專家演講\n\n第十六週: 28 December\n\n台灣生物地理學研究案例：動物\n\n邀請專家演講\n\n第十七週: 4 January\n\n台灣生物地理學研究案例：植物\n\n邀請專家演講\n\n第十八週: 11 January\n\n期末考試，期末報告繳交",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "開課教師及邀請講者講授知識"
+        },
+        {
+            "type": "其他",
+            "note": "學生須閱讀指定讀物"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 15,
+            "note": "三次邀請專家演講心得報告"
+        },
+        {
+            "type": "期中考",
+            "weight": 25,
+            "note": "考試範圍為上半學期授課內容"
+        },
+        {
+            "type": "期末考",
+            "weight": 30,
+            "note": "考試範圍為全學期授課內容，含專題演講及指定讀物內容"
+        },
+        {
+            "type": "出席",
+            "weight": 10,
+            "note": "隨堂點名小考"
+        },
+        {
+            "type": "報告",
+            "weight": 20,
+            "note": "指定讀物閱讀心得報告"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

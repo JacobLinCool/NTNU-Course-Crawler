@@ -1,0 +1,68 @@
+{
+    "year": 110,
+    "term": 1,
+    "name": "強化式學習",
+    "teachers": [
+        "包傑奇"
+    ],
+    "department": "HM75",
+    "code": "AEC8059",
+    "credit": 3,
+    "serial": 1206,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 1,
+            "from": 7,
+            "to": 9,
+            "campus": "本部",
+            "classroom": "多媒體與通訊實驗室"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "",
+    "goals": [
+        "Task-level learning and Sim2Real reinforcement learning.\nExperiments use the robots in the Education Robot Center for analysis. (Example: Bibot robot image tag)",
+        "Learning of complex motion plans (e.g., grasping behavior of a robotic arm) are analyzed using the data obtained by the robot of the Educational Robot Center."
+    ],
+    "syllabus": "授課方式：16+2\n\nWeek 1: Introduction\n\nWeek 2: Markov processes\n\nWeek 3: Bellman equations  \nWeek 4: From value functions to Q-learning. SARSA.\n\nWeek 5: Exploration and exploitation trade-offs\n\nWeek 6: Exploration and exploitation trade-offs. Lectures and practical exercises. Students implement key components of the algorithm in Jupyter notebooks.  \nWeek 7: Temporal difference learning and TD-lambda  \nWeek 8: Function approximation in reinforcement learning.  \nWeek 9: Function approximation in reinforcement learning. Midterm  \nWeek 10: Recurrent neural networks and LSTM networks.  \nWeek 11: Recurrent neural networks and LSTM networks..Lectures and practical exercises. Students implement key components of the algorithm in Jupyter notebooks  \nWeek 12: Deep reinforcement learning. Lectures  \nWeek 13: Deep reinforcement learning. Lectures and practical exercises. Students implement key components of the algorithm in Jupyter notebooks. Examples will use robot manipulation and navigation domains from the Education Robotics Center and OpenAI.  \nWeek 14: Imitation learning  \nWeek 15: Reinforcement learning in Games.\n\nWeek 16: Monte Carlo Tree Search . Lectures\n\nWeek 17: Monte Carlo Tree Search . Lectures and practical exercises. Students implement key components of the algorithm in Jupyter notebooks  \nWeek 18: OpenAI Atari benchmark problem. Jupyter notebooks. Final Exam",
+    "methodologies": [
+        {
+            "type": "Formal lecture",
+            "note": ""
+        },
+        {
+            "type": "Lab/Studio",
+            "note": "實做部分則包含2 個作業，每個各佔總成績的15%。"
+        }
+    ],
+    "grading": [
+        {
+            "type": "Assignments",
+            "weight": 30,
+            "note": "實做部分則包含2 個作業，每個各佔總成績的15%。在作業中，學生們可使用已習得的知識來解決現實生活中發生的問題。"
+        },
+        {
+            "type": "Midterm Exam",
+            "weight": 20,
+            "note": "隨堂考（5%）、期中考（15%）理論部分確認學生對基礎概念及技術的理解"
+        },
+        {
+            "type": "Final exam",
+            "weight": 50,
+            "note": "理論部分確認學生對基礎概念及技術的理解"
+        }
+    ],
+    "prerequisite": "◎Available for junior and senior year B.A. program students (Doctoral program courses excepted) and M.A. program students.",
+    "general_core": []
+}

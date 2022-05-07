@@ -1,0 +1,80 @@
+{
+    "year": 108,
+    "term": 2,
+    "name": "程式設計（二）",
+    "teachers": [
+        "蔡孟蓉"
+    ],
+    "department": "EU11",
+    "code": "LSU0002",
+    "credit": 3,
+    "serial": 867,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 1,
+            "from": 6,
+            "to": 8,
+            "campus": "本部",
+            "classroom": "教402"
+        }
+    ],
+    "programs": [
+        "學習與資訊學程",
+        "資訊科技應用學程"
+    ],
+    "comment": "",
+    "restrict": "",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "此課程為程式設計(一)的延續課程，此課程的目標是要培養學生程式設計的進階觀念及能力，在此課程中，學生將會學習到不同的程式函式庫及整合不同函式庫解決問題及開發應用程式。",
+    "goals": [
+        "能了解 Python程式設計的基本概念及技能並撰寫程式",
+        "能根據指定的方法步驟，規畫程式架構、流程並據以實作。",
+        "能熟悉不同的函式庫，及整合函式庫解決問題及發展應用程式"
+    ],
+    "syllabus": "**教學目標**\n\n本課程為跨領域學習大學生之程式設計進階課程，目的在培養學生應用進階程式設計概念，內容包含物件導向程式設計和更多抽象資料型態，並透過Python分析Excel資料和進行圖形化資料分析，並透過設計小遊戲以促進自我導向學習能力和程式設計自我效能。本課程將強調為主修學習科學學士學位學程之必修課程，先修課程為程式設計(一)。\n\n**教學進度**\n\n週次\n\n日期\n\n主      題\n\n作業\n\n上課方式\n\n1\n\n3/2\n\nIntroduction\n\n 402電腦教室\n\n2\n\n3/9\n\nAbstract Data Type\n\n 402電腦教室\n\n3\n\n3/16\n\nObject-Oriented Programming\n\nHW1-1\n\n 402電腦教室\n\n4\n\n3/23\n\nAnaconda and Jupyter Notebook\n\nHW1-2,1-3\n\n Zoom視訊同步線上教學\n\n5\n\n3/30\n\nArray Data with NumPy\n\n Zoom視訊同步線上教學\n\n6\n\n4/6\n\nArray Data with NumPy\n\nHW2-1\n\n Zoom視訊同步線上教學\n\n7\n\n4/13\n\nSpreadsheet Data\n\nHW2-2\n\n WebEx視訊同步線上教學\n\n8\n\n4/20\n\nMatrix Data with Pandas\n\nHW3\n\n WebEx視訊同步線上教學\n\n9\n\n4/27\n\nMatrix Data with Pandas\n\nHW4-1\n\n WebEx視訊同步線上教學\n\n10\n\n5/4\n\nData Visualization with Matplotlib\n\nHW4-2\n\n WebEx視訊同步線上教學\n\n11\n\n5/11\n\nData Visualization with Matplotlib\n\nHW5-1\n\n WebEx視訊同步線上教學\n\n12\n\n5/18\n\nDesign Games with Pygame 1\n\nHW5-2\n\n Moodle非同步影片\n\n13\n\n5/25\n\nDesign Games with Pygame 2\n\n Moodle非同步影片\n\n14\n\n6/1\n\nDesign Games with Pygame 3\n\n Moodle非同步影片\n\n15\n\n6/8\n\nDesign Games with Pygame 4\n\n Moodle非同步影片\n\n16\n\n6/15\n\n期末專題繳交\n\n Moodle繳交",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "進階程式設計概念介紹"
+        },
+        {
+            "type": "問題解決教學",
+            "note": "以解決問題為導向的程式設計，強調自我導向學習"
+        },
+        {
+            "type": "實驗/實作",
+            "note": "前半學期程式設計以個人上機實作為主"
+        },
+        {
+            "type": "專題研究",
+            "note": "以專題研究的方式進行"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 50,
+            "note": "HW1-1到HW5-2，共10個"
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 10,
+            "note": ""
+        },
+        {
+            "type": "專題",
+            "weight": 40,
+            "note": "期末專題(平時練習20% ，遊戲設計創意20%)"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

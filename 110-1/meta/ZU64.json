@@ -1,0 +1,208 @@
+[
+    {
+        "year": 110,
+        "term": 1,
+        "name": "影像處理",
+        "teachers": [
+            "陳皇利"
+        ],
+        "department": "HU72",
+        "code": "GCU0027",
+        "credit": 2,
+        "serial": 3425,
+        "group": "A",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 10,
+                "to": 11,
+                "campus": "本部",
+                "classroom": "教402"
+            }
+        ],
+        "programs": [
+            "知識轉譯學程"
+        ],
+        "comment": "",
+        "restrict": "",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 1,
+        "name": "影像處理",
+        "teachers": [
+            "彭雅芳"
+        ],
+        "department": "HU72",
+        "code": "GCU0027",
+        "credit": 2,
+        "serial": 3426,
+        "group": "B",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 10,
+                "to": 11,
+                "campus": "本部",
+                "classroom": "教401"
+            }
+        ],
+        "programs": [
+            "知識轉譯學程"
+        ],
+        "comment": "",
+        "restrict": "◎限外系修習",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 1,
+        "name": "數位媒體技術與應用",
+        "teachers": [
+            "邱于平"
+        ],
+        "department": "HU72",
+        "code": "GCU0156",
+        "credit": 2,
+        "serial": 1284,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 5,
+                "from": 6,
+                "to": 7,
+                "campus": "本部",
+                "classroom": "視聽教室"
+            }
+        ],
+        "programs": [
+            "科技藝術學程",
+            "知識轉譯學程"
+        ],
+        "comment": "",
+        "restrict": "",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 1,
+        "name": "動畫實務基礎",
+        "teachers": [
+            "張晏榕"
+        ],
+        "department": "HU72",
+        "code": "GCU0186",
+        "credit": 3,
+        "serial": 1285,
+        "group": "",
+        "quota": {
+            "limit": 38,
+            "additional": 2
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 9,
+                "to": 10,
+                "campus": "本部",
+                "classroom": "教403"
+            }
+        ],
+        "programs": [
+            "科技藝術學程",
+            "知識轉譯學程"
+        ],
+        "comment": "",
+        "restrict": "",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 1,
+        "name": "走讀神社",
+        "teachers": [
+            "蔡錦堂"
+        ],
+        "department": "LM27",
+        "code": "THU0001",
+        "credit": 2,
+        "serial": 1739,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 0
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 8,
+                "to": 9,
+                "campus": "本部",
+                "classroom": "誠304"
+            }
+        ],
+        "programs": [
+            "知識轉譯學程"
+        ],
+        "comment": "",
+        "restrict": "",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 1,
+        "name": "臺灣歷史的公眾寫作",
+        "teachers": [
+            "陳志豪"
+        ],
+        "department": "LM27",
+        "code": "THC9003",
+        "credit": 3,
+        "serial": 1740,
+        "group": "",
+        "quota": {
+            "limit": 60,
+            "additional": 0
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 2,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "樸306"
+            }
+        ],
+        "programs": [
+            "知識轉譯學程"
+        ],
+        "comment": "",
+        "restrict": "",
+        "form_s": "",
+        "classes": "9",
+        "dept_group": ""
+    }
+]

@@ -1,0 +1,76 @@
+{
+    "year": 110,
+    "term": 2,
+    "name": "高級教育統計學（甲）",
+    "teachers": [
+        "郭郡羽"
+    ],
+    "department": "E",
+    "code": "E0C8001",
+    "credit": 3,
+    "serial": 334,
+    "group": "C",
+    "quota": {
+        "limit": 55,
+        "additional": 5
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 2,
+            "to": 4,
+            "campus": "本部",
+            "classroom": "教402"
+        }
+    ],
+    "programs": [
+        "學習與資訊學程",
+        "大數據學程"
+    ],
+    "comment": "",
+    "restrict": "◎課程不開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "",
+    "goals": [
+        "1.\t了解常用統計檢定方法的原理及其適用時機",
+        "2.\t選擇適切的分析方法解決問題和解釋分析結果",
+        "3.\t運用統計軟體執行資料分析並撰寫分析結果報告"
+    ],
+    "syllabus": "**\\*\\*本課程需要上機操作SPSS(統計軟體)，考試也會考，抗拒使用統計軟體者請勿選課\\*\\***\n\n**【授課方式：16+2週】自主學習週安排於6/7、6/14，修課同學自行進行資料庫分析練習**\n\n課程大綱\n\n統計軟體與資料分析\n\n2/15\n\n為什麼要學統計?\n\n統計學的基本概念：資料和統計概論\n\n操作介面介紹\n\n2/22\n\n描述統計：集中量數、變異量數\n\n資料整理與描述性統計\n\n3/1\n\n中央極限定理、常態分配、標準分數\n\n標準分數\n\n3/8\n\n相關：變項與變項間的關係\n\n簡單迴歸：多變項間的關係\n\n相關、直線迴歸、多元迴歸、階層迴歸\n\n3/15\n\n迴歸的變型：中介與調節效果分析I\n\n中介與調節分析\n\n3/22\n\n迴歸的變型：中介與調節效果分析II\n\n中介調節混合模型\n\n3/29\n\n問卷資料處理：信度分析、因素分析\n\n信度分析、因素分析\n\n4/5\n\n民族掃墓節放假一日\n\n4/12\n\n期中考\n\n4/19\n\n機率、二項分配與假設檢定\n\n基本作圖\n\n4/26\n\n符號檢定、z檢定\n\n5/3\n\n我有特別聰明嗎？一個樣本的評估：z檢定、t檢定\n\n單一樣本t檢定\n\n5/10\n\n性別差異到底存不存在？兩個樣本的比較：t檢定\n\n差異性檢定：t檢定 (獨立、相依)\n\n5/17\n\n不同國家防疫成效有沒有差異？單因子變異數分析\n\n單因子變異數分析 (獨立、相依)\n\n5/24\n\n多因子變異數分析\n\n多因子變異數分析\n\n5/31\n\n期末考\n\n6/7\n\n自主學習\n\n6/14\n\n自主學習",
+    "methodologies": [
+        {
+            "type": "Formal lecture",
+            "note": "課堂講授、中文授課"
+        },
+        {
+            "type": "Problem base learning",
+            "note": "資料分析"
+        },
+        {
+            "type": "Lab/Studio",
+            "note": "課堂中將提供資料供同學操作軟體練習使用"
+        }
+    ],
+    "grading": [
+        {
+            "type": "Assignments",
+            "weight": 20,
+            "note": "課堂練習"
+        },
+        {
+            "type": "Midterm Exam",
+            "weight": 40,
+            "note": "期中考"
+        },
+        {
+            "type": "Final exam",
+            "weight": 40,
+            "note": "期末考"
+        }
+    ],
+    "prerequisite": "◎Unavailable for M.A. program students (M.A. program courses excepted) and B.A. program students.",
+    "general_core": []
+}

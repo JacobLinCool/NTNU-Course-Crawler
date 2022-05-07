@@ -1,0 +1,73 @@
+{
+    "year": 110,
+    "term": 2,
+    "name": "邏輯概論",
+    "teachers": [
+        "侯文娟"
+    ],
+    "department": "SU47",
+    "code": "CSU0012",
+    "credit": 3,
+    "serial": 2953,
+    "group": "",
+    "quota": {
+        "limit": 70,
+        "additional": 15
+    },
+    "schedule": [
+        {
+            "day": 4,
+            "from": 2,
+            "to": 4,
+            "campus": "公館",
+            "classroom": "Ｂ101"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "1",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本門課程首先介紹Propositional logic，以建立Boolean expression的基本模式；接下來介紹Predicate logic，或稱First-order logic，以更為豐富的表示法，陳述推理的過程。最後，配合以上各種邏輯基本原理，應用在程式的正確性及執行時間的證明上。",
+    "goals": [
+        "了解何為Propositional logic",
+        "了解何為Predicate logic",
+        "建立學生邏輯推理之能力"
+    ],
+    "syllabus": "【授課方式：16+2週】：彈性教學2週以自主學習方式辦理。\n\n1.邏輯與其他電腦科學關係之基本概論介紹\n\n2.命題邏輯(Propositional logic)之介紹\n\n 2.1 The Language of Propositional Logic\n\n 2.2 Truth Assignments\n\n 2.3 A Parsing Algorithm\n\n 2.4 Propositional Connectives\n\n 2.5 Completeness and Effectiveness\n\n3.初階邏輯( First-order logic)之介紹\n\n 3.1 First-Order Languages\n\n 3.2 Truth and Models\n\n 3.3 A Parsing Algorithm\n\n 3.4 A Deductive Calculus\n\n 3.5 Soundness and Completeness Theorems\n\n4.邏輯之推理與演算\n\n5.不可判定性(Undecidability)之介紹\n\n 5.1 Number Theory\n\n 5.2 Natural Numbers with Successor\n\n 5.3 Other Reducts of Number Theory\n\n 5.4 A Subtheory of Number Theory\n\n 5.5 Arithmetization of Syntax\n\n 5.6 Incompleteness and Undecidability",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "媒體融入教學",
+            "note": ""
+        },
+        {
+            "type": "其他",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "期中考",
+            "weight": 35,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 35,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

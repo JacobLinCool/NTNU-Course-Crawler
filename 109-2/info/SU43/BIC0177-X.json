@@ -1,0 +1,75 @@
+{
+    "year": 109,
+    "term": 2,
+    "name": "生物技術",
+    "teachers": [
+        "沈林琥"
+    ],
+    "department": "SU43",
+    "code": "BIC0177",
+    "credit": 3,
+    "serial": 2902,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 22
+    },
+    "schedule": [
+        {
+            "day": 4,
+            "from": 10,
+            "to": 12,
+            "campus": "公館",
+            "classroom": "理圖807"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "",
+    "classes": "9",
+    "dept_group": "",
+    "hours": 3,
+    "description": "課程實施對象主要為本校大學部及研究所預修過生物學概論或普通生物學之學生，預期學生在修習本課程後，對生物技術及其應用有一基本認識，並學習分析DNA及蛋白質分子的基本實驗技巧，及動物細胞培養、觀察及基因功能分析的基本能力。",
+    "goals": [
+        "本課程教學目標，在使同學了解目前生物技術領域相關基礎知識，以深入淺出的方式引導同學修習課程，使同學能掌握時代的脈動，以培育生物技術科技人才，促進國家生技產業發展。"
+    ],
+    "syllabus": "**本課程深入淺出地以實體授課與遠距數位教學介紹生物技術。**\n\n*   Introduction\n*   Recombinant DNA Technology\n*   Proteins\n*   Microbial Biotechnology\n*   Plant Biotechnology and Food Biotechnology\n*   Animal Biotechnology\n*   Medical Biotechnology I\n*   Medical Biotechnology II\n*   Environmental Biotechnology\n*   Marine Biotechnology\n*   Nano Biotechnology\n*   Post‐genomic Era\n*   Functional genomics\n*   Proteomics\n*   Bioinformatics\n*   Biochip",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "實體授課與遠端數位影音教學"
+        },
+        {
+            "type": "討論法",
+            "note": "分組分批至教室以線上會議/直播"
+        },
+        {
+            "type": "媒體融入教學",
+            "note": "多媒體影音，線上非同步與同步會議直播錄影"
+        },
+        {
+            "type": "專題研究",
+            "note": "分組分批期末報告與討論"
+        }
+    ],
+    "grading": [
+        {
+            "type": "期中考",
+            "weight": 30,
+            "note": "Moodle平台線上測驗一週"
+        },
+        {
+            "type": "出席",
+            "weight": 30,
+            "note": "出席/課堂表現/實習"
+        },
+        {
+            "type": "報告",
+            "weight": 40,
+            "note": "原規劃的期末報告討論將會因應防疫改為分組分批至教室以線上會議/直播方式進行，沒報告的同學在線上聆聽同學報告，以表單回饋意見。"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

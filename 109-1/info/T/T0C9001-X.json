@@ -1,0 +1,88 @@
+{
+    "year": 109,
+    "term": 1,
+    "name": "知性漫步＠臺師大輕旅",
+    "teachers": [
+        "杉浦一德"
+    ],
+    "department": "T",
+    "code": "T0C9001",
+    "credit": 1,
+    "serial": 3337,
+    "group": "",
+    "quota": {
+        "limit": 25,
+        "additional": 5
+    },
+    "schedule": [
+        {
+            "day": 3,
+            "from": 9,
+            "to": 10,
+            "campus": "本部",
+            "classroom": "教室自排"
+        },
+        {
+            "day": 6,
+            "from": 2,
+            "to": 4,
+            "campus": "本部",
+            "classroom": "教室自排"
+        }
+    ],
+    "programs": [],
+    "comment": "本課程係屬密集課程，主要上課時間暫定於12月份，為期4周，每周上課5小時。",
+    "restrict": "◎限大三大四 ◎限碩一碩二碩三以上修習",
+    "form_s": "",
+    "classes": "9",
+    "dept_group": "",
+    "hours": 1,
+    "description": "邀請日本慶應義塾大學杉浦一德教授與同研究室林凱元研究員至本院1個月密集課程開設「知性漫步@臺師大輕旅」科技藝術工作坊，為1學分之微學分工作坊，融合數位媒體、ACG創作，將校園古蹟、生態資訊結合音樂互動之複合型課程。應用數位科技結合藝術化介面讓訪客或社區民眾個人化體驗漫遊臺師大的知性輕旅。",
+    "goals": [
+        "讓學生接觸不同領域可應用的資源",
+        "讓學生熟悉跨領域合作模式"
+    ],
+    "syllabus": "**課程主旨** **(Goal)**:\n\nOur goal is to develop the computing environment that links our lifestyles, experiences and the Internet together: building the network to engage experience sharing in our daily life. We leverage the Internet to create and share our activities in addition, analyze and predict trends. These activities will develop a way to improve way to share our daily experiences. This unrestricted global environment will improve communication between and within the Internet and the real world, promoting the creation of new products and services. This intensive course set the field inside NTNU, we expect students to rediscover the campus and pull out the hidden touch point for newcomers. The key elements for the lecture will be HCI, J-ACG (included music), and Media design.\n\n**進度** **(schedule)**:\n\n1.  Innovation pipeline 1 Media DesignWhat is Media and design? We will explore the concept of design in the first class. In addition, we will also understand how the Internet are being incorporated into modern design.\n2.  Innovation pipeline 2 TechnologyModern Media Design requires a technology to realize. We will learn how technology are being put together to implement a design concept: making it into reality. Such software and hardware tools like Arduino or Unity are encouraged to learn in advance, this lecture will focus on application and design but not limits in skill itself. We also welcome different aspect of expression.\n3.  Innovation pipeline 3 J-ACG\"Anime\", \"Game\", \"Comic\", and \"Cosplay\" are some of the aggressive and innovative forms of pop culture found in Japan and now spreading worldwide. So called “Otaku” culture are now focused throughout the globe and giving Japan an important role to enhance innovative creativity. We explore the roots of these otaku cultural activities in Japan, considering these contents as a material, Class seeks the international expansion as one of Simulacra delivered by creators, and activists of these fields: How the technology has been created, and knowing its real motivation to drive these sub-cultural activities.\n4.  Innovation pipeline 4 Project managementLearn management-related skills which will be necessary and important for projects to realize. This includes business strategy and model, coordination and behavioral economics.\n5.  Design research: Fieldwork and observationDesign Thinking Introduction, Philosophy, Vision, How to do Fieldwork, Fieldwork Analysis, Mental Model, Target Persona discussion\n6.  Design research: Prototyping\n7.  ImplementationCarrying ideas and concepts generated during ethnography phase into the physical form will require several iterations of prototyping. You will be experiencing Structured Design Process and how to identify your prototype idea(s). Identify what are the features and needs of your product.\n8.  Final Presentation",
+    "methodologies": [
+        {
+            "type": "討論法",
+            "note": "Experiencing design and implementation will be held based on groups. 4 to 6 members per group."
+        },
+        {
+            "type": "合作學習",
+            "note": "You will be asked to collaborate with students from different disciplines."
+        },
+        {
+            "type": "實地考察、參訪",
+            "note": "NTNU campus and surrounded environment"
+        },
+        {
+            "type": "媒體融入教學",
+            "note": "Web application, experience device, interactive projection, Others"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 40,
+            "note": "個人或小組創作（針對目標歷史建築或生態）"
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 10,
+            "note": "希望修課同學可以多與不同領域的人交流並從對方角度思考合作模式"
+        },
+        {
+            "type": "出席",
+            "weight": 10,
+            "note": "盡可能參與全部課程，缺課是自己的損失"
+        },
+        {
+            "type": "報告",
+            "weight": 40,
+            "note": "課程目標為一個可實際供師大來訪者使用的數位互動或介面設計服務，其表現形式不限"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

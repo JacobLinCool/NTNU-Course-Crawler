@@ -1,0 +1,81 @@
+{
+    "year": 110,
+    "term": 2,
+    "name": "健康管理",
+    "teachers": [
+        "陳勇志"
+    ],
+    "department": "AU30",
+    "code": "PEU0293",
+    "credit": 2,
+    "serial": 66,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 6,
+            "to": 7,
+            "campus": "本部",
+            "classroom": "樸402"
+        }
+    ],
+    "programs": [
+        "運動傷害防護學程"
+    ],
+    "comment": "",
+    "restrict": "◎第一階段限 運動傷害防護學程 ◎課程開放上修",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 2,
+    "description": "",
+    "goals": [
+        "To understand the meaning of health and health management",
+        "To understand health-beneficial effects of taking part in physical activity and regular exercise",
+        "To understand how to apply exercise related knowledge in the daily life",
+        "To understand exercise and health management related topics of different populations"
+    ],
+    "syllabus": "Week 1 (2/15) Introduction \n\nWeek 2 (2/22) Energy (im)balance and health \n\nWeek 3 (3/1) Energy (im)balance and health \n\nWeek 4 (3/8) Healthcare management for athlete \n\nWeek 5 (3/15) Addictive behaviour and (un)healthy management\n\nWeek 6 (3/22) Ageing and healthy ageing \n\nWeek 7 (3/29) Obesity prevention \n\n**_Week 8 (4/5) A day off_** \n\nWeek 9 (4/12) Chronic diseases (e.g., cardiovascular diseases) prevention \n\nWeek 10 (4/19) Midterm examination (20%)\n\nWeek 11 (4/26) Promotion of regular execise \n\nWeek 12 (5/3) Female health management\n\nWeek 13 (5/10) Mental health management\n\nWeek 14 (5/17) Presentation (Case study)\n\nWeek 15 (5/24) Presentation (Case study)\n\nWeek 16 (5/31) Presentation (Case study)\n\nWeek 17 (6/17) Self-directed learning \n\nWeek 18 (6/24) Self-directed learning",
+    "methodologies": [
+        {
+            "type": "Formal lecture",
+            "note": "Presentation via literature review"
+        },
+        {
+            "type": "Group discussion",
+            "note": "Discussion between lecturer and students"
+        },
+        {
+            "type": "Cooperative learning",
+            "note": "Team work"
+        }
+    ],
+    "grading": [
+        {
+            "type": "Midterm Exam",
+            "weight": 20,
+            "note": "Midterm exam"
+        },
+        {
+            "type": "Class discussion involvement",
+            "weight": 20,
+            "note": "Discussions during lecture"
+        },
+        {
+            "type": "Attendances",
+            "weight": 30,
+            "note": "Attendance rate"
+        },
+        {
+            "type": "Presentation",
+            "weight": 30,
+            "note": "Essay"
+        }
+    ],
+    "prerequisite": "◎First phase Exclusive for students within The Program of Injury Prevention and Athletic Training ◎Available for junior and senior year B.A. program students (Doctoral program courses excepted) and M.A. program students.",
+    "general_core": []
+}

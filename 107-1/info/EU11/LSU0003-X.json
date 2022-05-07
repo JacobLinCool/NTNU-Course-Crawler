@@ -1,0 +1,81 @@
+{
+    "year": 107,
+    "term": 1,
+    "name": "資料結構",
+    "teachers": [
+        "李良一"
+    ],
+    "department": "EU11",
+    "code": "LSU0003",
+    "credit": 3,
+    "serial": 889,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 3,
+            "from": 6,
+            "to": 8,
+            "campus": "本部",
+            "classroom": "教404"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "此課程主要讓學生具備資料結構的基本知識，及應用所學到的知識處理演算法問題。課程內容將包括陣列、串列、堆疊、佇列、樹、圖形，排序、搜尋等。",
+    "goals": [
+        "此課程主要讓學生具備資料結構的基本知識，及應用所學到的知識處理演算法問題。課程內容將包括陣列、串列、堆疊、佇列、樹、圖形，排序、搜尋等。"
+    ],
+    "syllabus": "1.  課程介紹及資料結構簡介 (09/12)\n2.  程式語法複習 (09/19)\n3.  Arrays (09/26)\n4.  Stacks and Queues (10/03)\n5.  國慶日(放假1日) (10/10)\n6.  Linked Lists (10/17)\n7.  Linked Lists (10/24)\n8.  Trees (10/31)\n9.  Trees (11/07)\n10.  期中考(範圍為期中考前的所有內容) (11/14)\n11.  Graphs (11/27)\n12.  Graphs (11/28)\n13.  Sorting (12/05)\n14.  Sorting (12/12)\n15.  Hashing (12/19)\n16.  Searching (12/26)\n17.  Searching (01/02)\n18.  期末考(範圍為期末考前的所有內容) (01/09)",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "老師講授自編教材及教科書內容"
+        },
+        {
+            "type": "討論法",
+            "note": "對於需深對學習及思考的內容，會進行小組討論。"
+        },
+        {
+            "type": "媒體融入教學",
+            "note": "使用線上學習系統進行作業繳交、線上討論及其他線上教學活動"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 20,
+            "note": "練習老師指定的練習題/隨堂考"
+        },
+        {
+            "type": "期中考",
+            "weight": 30,
+            "note": "期中考前老師上課的內容"
+        },
+        {
+            "type": "期末考",
+            "weight": 30,
+            "note": "期末考前老師上課的內容"
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 10,
+            "note": "課堂討論參及線上活動參與的積極度"
+        },
+        {
+            "type": "出席",
+            "weight": 10,
+            "note": "學生出席的次數"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

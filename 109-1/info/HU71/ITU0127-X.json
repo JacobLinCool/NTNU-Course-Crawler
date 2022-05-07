@@ -1,0 +1,76 @@
+{
+    "year": 109,
+    "term": 1,
+    "name": "程式語言",
+    "teachers": [
+        "周遵儒"
+    ],
+    "department": "HU71",
+    "code": "ITU0127",
+    "credit": 3,
+    "serial": 1271,
+    "group": "",
+    "quota": {
+        "limit": 35,
+        "additional": 5
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 2,
+            "to": 4,
+            "campus": "本部",
+            "classroom": "科510"
+        }
+    ],
+    "programs": [],
+    "comment": "學習與科技組優先選課",
+    "restrict": "◎限大二修習",
+    "form_s": "2",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "Introductory course to C language programming. The topics include basic syntax and semantics of C language. The course emphasizes problem solving methodology and modular programming techniques.",
+    "goals": [
+        "Understand syntax and semantics of C language",
+        "Problem solving using C language"
+    ],
+    "syllabus": "Introduction\n\nIntroduction to C and the development tools\n\nBasic I/O\n\nControl flow\n\nSelection\n\nRepeat\n\nArray\n\nFunction\n\nFile\n\nData structure",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "內容講解"
+        },
+        {
+            "type": "討論法",
+            "note": "主題討論"
+        },
+        {
+            "type": "問題解決教學",
+            "note": "進階難題挑戰"
+        },
+        {
+            "type": "實驗/實作",
+            "note": "主題設計開發"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 40,
+            "note": "每週隨堂或課後作業"
+        },
+        {
+            "type": "期中考",
+            "weight": 30,
+            "note": "上機程式設計測驗"
+        },
+        {
+            "type": "期末考",
+            "weight": 30,
+            "note": "上機程式設計測驗"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

@@ -1,0 +1,81 @@
+{
+    "year": 110,
+    "term": 1,
+    "name": "品牌管理",
+    "teachers": [
+        "蕭中強"
+    ],
+    "department": "OM55",
+    "code": "MBM0038",
+    "credit": 3,
+    "serial": 2490,
+    "group": "",
+    "quota": {
+        "limit": 30,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 1,
+            "from": 2,
+            "to": 4,
+            "campus": "本部",
+            "classroom": "綜210展覽廳"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "",
+    "goals": [
+        "Understand Branding Theories and Practices",
+        "Understand Branding Relevant Issues and Develop Corresponding Solutions",
+        "Participate in Branding Relevant Case Competition"
+    ],
+    "syllabus": "本課程的主要目標旨在提高參與者鑑別問題、分析問題、制定策略和製定品牌管理決策的能力。學生還將學習行銷人員如何創造品牌資產、如何衡量品牌資產以及如何通過掌握持續的商業機會來維持品牌資產。期望學生能夠建立一個相對結構化的框架來識別與品牌相關的核心問題，並啟動獨特的行銷策略來應對品牌問題。 1. 品牌管理概論 2. 基於客戶的品牌資產 3. 品牌定位 4. 選擇品牌元素建立品牌資產 5. 設計行銷計劃以建立品牌資產 6. 整合行銷傳播以建立品牌資產 7. 利用二級品牌聯結建立品牌資產 8. 開發品牌資產衡量和管理系統 9. 衡量品牌資產的來源：掌握客戶心態 10、中期報告 11. 衡量品牌資產的結果：掌握市場表現 12. 設計和實施品牌策略 13. 新產品和品牌延伸的介紹和命名 14. 長期管理品牌 15. 期末報告 16. 期末報告 17. 自我學習 18. 自我學習",
+    "methodologies": [
+        {
+            "type": "Formal lecture",
+            "note": "Lecture"
+        },
+        {
+            "type": "Group discussion",
+            "note": "Case Study"
+        },
+        {
+            "type": "Problem base learning",
+            "note": "Case Study"
+        },
+        {
+            "type": "Cooperative learning",
+            "note": "Team Work in Case Study"
+        },
+        {
+            "type": "Field work",
+            "note": "Company Visit"
+        }
+    ],
+    "grading": [
+        {
+            "type": "Class discussion involvement",
+            "weight": 10,
+            "note": "1-1 Familiar with business operation knowledge"
+        },
+        {
+            "type": "Presentation",
+            "weight": 40,
+            "note": "1-2 Being able to make decision and deal with problems"
+        },
+        {
+            "type": "Case study reports",
+            "weight": 50,
+            "note": "2-1 Being able to lead and communicate with the team members"
+        }
+    ],
+    "prerequisite": "◎Available for junior and senior year B.A. program students (Doctoral program courses excepted) and M.A. program students.",
+    "general_core": []
+}

@@ -1,0 +1,78 @@
+{
+    "year": 108,
+    "term": 2,
+    "name": "基礎電子學",
+    "teachers": [
+        "王超"
+    ],
+    "department": "SU47",
+    "code": "CSU0007",
+    "credit": 3,
+    "serial": 2888,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 1,
+            "from": 2,
+            "to": 4,
+            "campus": "公館",
+            "classroom": "Ｃ007"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "1",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程的目的在使學生對電子零件和電路有基本的認識。",
+    "goals": [
+        "瞭解電子零件和電路有基本動作原理",
+        "瞭解電子零件如何地使用於在資訊系統中"
+    ],
+    "syllabus": "本課程為資工系入學第一門介紹電機資訊相關硬體原理的課，內容涵蓋重要的電子電路元件原理及分析，以及其在當今各項電子計算機資訊系統的根本角色。冀望學生能習得扎實基礎，預備未來修習進階的各項軟硬體科目。\n\n課程涵蓋以下主題 (因應新型冠狀病毒疫情調整):\n\n1\\. Circuit Abstraction\n\n2\\. Resistive Networks and Basic Analysis\n\n3\\. Nonlinear Elements, Circuits, and Analysis\n\n4\\. Digital Abstraction\n\n5\\. MOSFET Switch and Amplifier\n\n6\\. The Small-Signal Model\n\n7\\. Energy Storage Elements\n\n8\\. Selected Topics\n\n完整課程內容登載於課程網頁: https://wangc86.github.io/csu0007/",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "問題解決教學",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 40,
+            "note": ""
+        },
+        {
+            "type": "期中考",
+            "weight": 25,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 25,
+            "note": ""
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 5,
+            "note": ""
+        },
+        {
+            "type": "出席",
+            "weight": 5,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

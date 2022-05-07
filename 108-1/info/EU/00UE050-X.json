@@ -1,0 +1,77 @@
+{
+    "year": 108,
+    "term": 1,
+    "name": "資訊教育（教）",
+    "teachers": [
+        "侯文娟"
+    ],
+    "department": "EU",
+    "code": "00UE050",
+    "credit": 2,
+    "serial": 603,
+    "group": "",
+    "quota": {
+        "limit": 35,
+        "additional": 5
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 1,
+            "to": 2,
+            "campus": "公館",
+            "classroom": "理圖807"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 2,
+    "description": "本課程先介紹計算機概論的基本概論，再介紹數種應用軟體以應用於資訊教育方面",
+    "goals": [
+        "培養學生能利用電腦應用軟體的能力",
+        "培養學生將科技應用在教育中的能力"
+    ],
+    "syllabus": "1.資訊教育課程簡介\n\n2.電腦發展史\n\n3.電腦基本架構介紹\n\n4.網際網路簡介\n\n5.整數二進制表示法\n\n6.電腦週邊設備之介紹\n\n7.影像處理基本原理介紹\n\n8.電腦軟體簡介\n\n9.文書處理軟體\n\n10.電子試算表軟體\n\n11.簡報軟體\n\n12.影像處理軟體",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "問題解決教學",
+            "note": ""
+        },
+        {
+            "type": "媒體融入教學",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 25,
+            "note": ""
+        },
+        {
+            "type": "期中考",
+            "weight": 35,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 35,
+            "note": ""
+        },
+        {
+            "type": "出席",
+            "weight": 5,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

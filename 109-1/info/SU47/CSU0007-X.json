@@ -1,0 +1,85 @@
+{
+    "year": 109,
+    "term": 1,
+    "name": "基礎電子學",
+    "teachers": [
+        "王超"
+    ],
+    "department": "SU47",
+    "code": "CSU0007",
+    "credit": 3,
+    "serial": 3065,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 2,
+            "to": 2,
+            "campus": "公館",
+            "classroom": "Ｅ302"
+        },
+        {
+            "day": 5,
+            "from": 8,
+            "to": 9,
+            "campus": "公館",
+            "classroom": "Ｅ302"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "1",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程的目的在使學生對電子零件和電路有基本的認識。",
+    "goals": [
+        "瞭解電子零件和電路有基本動作原理",
+        "瞭解電子零件如何地使用於在資訊系統中"
+    ],
+    "syllabus": "**This is an all-English class.** 此學期開始本課程為**全英語授課**。\n\n本課程為資工系入學第一門介紹電機資訊相關硬體原理的課，有兩大目標:\n\n(1) 介紹基礎電子電路元件原理及分析 <--- 當今各項資訊系統 (e.g., 物聯網) 的根基；\n\n(2) 以電子學作為載體 (vehicle) 來借題發揮，引出資訊系統工程領域廣見的設計及實務概念，預備同學們未來修習各項進階科目。\n\n課程進度涵蓋以下主題:\n\n1\\. Circuit Abstraction\n\n2\\. Resistive Networks and Basic Analysis\n\n3\\. Nonlinear Elements and Graphical Analysis\n\n4\\. Digital Systems Abstraction\n\n5\\. MOSFET Switch and Amplifier\n\n6\\. The Small-Signal Model\n\n7\\. Selected Topics\n\n完整內容將更新於課程網頁: [https://wangc86.github.io/courses/](https://wangc86.github.io/courses/)",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "問題解決教學",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 45,
+            "note": ""
+        },
+        {
+            "type": "期中考",
+            "weight": 20,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 25,
+            "note": ""
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 5,
+            "note": ""
+        },
+        {
+            "type": "出席",
+            "weight": 5,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

@@ -1,0 +1,85 @@
+{
+    "year": 108,
+    "term": 1,
+    "name": "無機化學實驗",
+    "teachers": [
+        "李位仁"
+    ],
+    "department": "SU42",
+    "code": "CMU0011",
+    "credit": 2,
+    "serial": 2962,
+    "group": "",
+    "quota": {
+        "limit": 28,
+        "additional": 2
+    },
+    "schedule": [
+        {
+            "day": 3,
+            "from": 7,
+            "to": 10,
+            "campus": "公館",
+            "classroom": "Ｄ409"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "4",
+    "classes": "",
+    "dept_group": "",
+    "hours": 4,
+    "description": "1. To train students to have the basic concepts of inorganic reactions. \n2. Learn the Schlenk Techniques. \n3. The basic concept of geometric isomerism of inorganic complexes. \n4. The basic concept of solvent binding \n5. The basic concept of oxidation addition of complexes.",
+    "goals": [
+        "To train students to have the basic concepts of inorganic reactions.",
+        "Learn the Schlenk Techniques.",
+        "The basic concept of geometric isomerism of inorganic complexes.",
+        "The basic concept of solvent binding",
+        "The basic concept of oxidation addition of complexes"
+    ],
+    "syllabus": "Exp.1 鎳錯合物\\[Ni(CH3CN)6\\](ClO4)2的合成  \nExp2 鈷錯合物cis/trans-\\[Co(en)2Cl2\\]Cl的合成  \nExp3 銅錯合物\\[Cu(H2O)6\\](BF4)2/\\[Cu(CH3CN)4\\](BF4)之製備  \nExp4 鐵錯合物Ferrocene的製備  \nExp.5 鐵錯合物\\[Fe(CO)4H\\](PPN)的合成  \nExp.6鐵錯合物\\[Fe(CO)3(SePh)3\\](PPN)的合成",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "實驗/實作",
+            "note": ""
+        },
+        {
+            "type": "媒體融入教學",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "期中考",
+            "weight": 10,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 20,
+            "note": ""
+        },
+        {
+            "type": "報告",
+            "weight": 20,
+            "note": ""
+        },
+        {
+            "type": "其他",
+            "weight": 20,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

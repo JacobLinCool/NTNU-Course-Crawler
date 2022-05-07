@@ -1,0 +1,73 @@
+{
+    "year": 107,
+    "term": 1,
+    "name": "體育",
+    "teachers": [
+        "林岱樵"
+    ],
+    "department": "SU40",
+    "code": "00UP001",
+    "credit": 1,
+    "serial": 2752,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 3,
+            "from": 9,
+            "to": 10,
+            "campus": "公館",
+            "classroom": "操場二"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "1",
+    "classes": "3",
+    "dept_group": "",
+    "hours": 2,
+    "description": "體適能知能學習與檢測\n體驗各項運動\n參與術科操作與評量\n參與分組練習與討論\n學習體育常識與運動規則",
+    "goals": [
+        "了解運動與健康之關係",
+        "了解相關運動知識與規則",
+        "學習相關的運動技能",
+        "提升運動參與興趣，培養良好運動習慣"
+    ],
+    "syllabus": " 課程介紹與師生溝通；相見歡  \n體適能檢測  \n運動與健康  \n體能遊戲  \n球類運動  \n韻律活動  \n運動影片欣賞  \n體育常識與運動規則介紹",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": ""
+        },
+        {
+            "type": "合作學習",
+            "note": ""
+        },
+        {
+            "type": "實驗/實作",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "出席",
+            "weight": 40,
+            "note": "出席勤惰"
+        },
+        {
+            "type": "其他",
+            "weight": 60,
+            "note": "依授課教師調整測驗內容與分數比重 出席和參與投入程度 項目測驗:運動技能測驗 依授課教師調整測驗內容與分數比重 出席和參與投入程度 項目測驗:運動技能測驗"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

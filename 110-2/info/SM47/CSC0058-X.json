@@ -1,0 +1,66 @@
+{
+    "year": 110,
+    "term": 2,
+    "name": "專題討論：通訊網路（二）",
+    "teachers": [
+        "黃冠寰"
+    ],
+    "department": "SM47",
+    "code": "CSC0058",
+    "credit": 1,
+    "serial": 2700,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 3,
+            "from": 5,
+            "to": 6,
+            "campus": "公館",
+            "classroom": "應用科學大樓B1演講廳"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "允許重複修 ◎課程開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 2,
+    "description": "This is a weekly seminar class. Professors or researchers with different expertise will be invited to lecture on their research topics and contributions. Main focuses are general topics relating to the area of communication and network research.\n\n本專題討論課程每週一次。課程中會邀請不同專業領域的教授和學者進行演講，演講的主題主要與通訊與網路研究有關。",
+    "goals": [
+        "能培養學生獨立思考能力",
+        "能建立學生的專業領域知識",
+        "能擴增學術領域知識",
+        "能培養學生正確思考及批判的能力"
+    ],
+    "syllabus": "The general scope of topics includes, but is not limited to:  \n    Wireless communications and networks,  \n    Mobile ad hoc networks  \n    Sensor networks,  \n    Cellular networks,  \n    Vehicular ad hoc networks  \n    Optical networks.",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "Lecture"
+        }
+    ],
+    "grading": [
+        {
+            "type": "課堂討論參與",
+            "weight": 20,
+            "note": ""
+        },
+        {
+            "type": "出席",
+            "weight": 40,
+            "note": ""
+        },
+        {
+            "type": "報告",
+            "weight": 40,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

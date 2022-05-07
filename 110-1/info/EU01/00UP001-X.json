@@ -1,0 +1,79 @@
+{
+    "year": 110,
+    "term": 1,
+    "name": "體育",
+    "teachers": [
+        "蔡舜璽"
+    ],
+    "department": "EU01",
+    "code": "00UP001",
+    "credit": 1,
+    "serial": 693,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 4,
+            "from": 6,
+            "to": 7,
+            "campus": "本部",
+            "classroom": "操場一"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "允許重複修",
+    "form_s": "1",
+    "classes": "",
+    "dept_group": "",
+    "hours": 2,
+    "description": "體適能知能學習與檢測\n體驗各項運動\n參與術科操作與評量\n參與分組練習與討論\n學習體育常識與運動規則",
+    "goals": [
+        "了解運動與健康之關係",
+        "了解相關運動知識與規則",
+        "學習相關的運動技能",
+        "提升運動參與興趣，培養良好運動習慣"
+    ],
+    "syllabus": "  \n[教學進度與主題附件](https://ap.itc.ntnu.edu.tw/NtnuFileShare/file.do?action=dl&gno=6b04d5480c254f329f7cae2d857fea13&fno=229155b0fc504f398ef00398e6b4b5f5)",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "教師示範及講述動作技能。"
+        },
+        {
+            "type": "合作學習",
+            "note": "與同學互助合作完成練習。"
+        },
+        {
+            "type": "媒體融入教學",
+            "note": "以影片拍攝方式進行動作分析。"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 20,
+            "note": "身體組成分析前後測報告(10%)、課程心得(10%)"
+        },
+        {
+            "type": "期末考",
+            "weight": 20,
+            "note": "重量訓練器材實務操作"
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 30,
+            "note": "學習態度、課堂表現、課程參與、運動服裝。"
+        },
+        {
+            "type": "出席",
+            "weight": 30,
+            "note": "全勤總成績加2分；缺曠課3次或任何原因未出席課程，本課程學期出席成績將以0分計算。"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

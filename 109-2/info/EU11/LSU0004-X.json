@@ -1,0 +1,82 @@
+{
+    "year": 109,
+    "term": 2,
+    "name": "演算法",
+    "teachers": [
+        "李良一"
+    ],
+    "department": "EU11",
+    "code": "LSU0004",
+    "credit": 3,
+    "serial": 898,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 1,
+            "from": 2,
+            "to": 4,
+            "campus": "本部",
+            "classroom": "正101"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "此課程主要讓學生具備演算法的基本知識，能分析及驗證演算法的特性及效率，並能應用所學到的知識設計演算法來解決計算機問題。課程內容將包括演算法分析、Divide-and-Conquer、Dynamic Programming、Greedy Algorithms、Graph Algorithms、NP-completeness等。",
+    "goals": [
+        "演算法設計及分析的基本知識",
+        "應用所學到的演算法設計及分析知識處理計算問題",
+        "為計算問題設計演算法並分析其效能"
+    ],
+    "syllabus": "【授課方式：16+2週】\n\n預定教學進度如下(會依據學生程度及上課狀況調整)：\n\n1.  課程介紹及演算法簡介、演算法設計與分析(02/22)\n2.  和平紀念日遇例假日補假1日 (03/01)\n3.  Backtracking and Branch-and-Bound(03/08)\n4.  Divide-and-Conquer(1) (03/15)\n5.  Divide-and-Conquer(2) (03/22)\n6.  Dynamic Programming(1)(03/29)\n7.  民族掃墓節遇例假日補假1日(彈性授課：觀看教學影片：Dynamic Programming(2)) (04/05)\n8.  期中考(彈性授課：觀看教學影片：Greedy Algorithms (1)) (04/12)\n9.  Greedy Algorithms (2) (04/19)\n10.  Graph Algorithms(1) (04/26)\n11.  Graph Algorithms(2) (05/03)\n12.  Graph Algorithms(3) (05/10)\n13.  Graph Algorithms(4) (05/17)\n14.  NP-completeness(1) (05/24)\n15.  NP-completeness(2) (05/31)\n16.  期末考(觀看教學影片：Approximation Algorithm) (06/07)",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "老師講授自編教材及教科書內容。"
+        },
+        {
+            "type": "問題解決教學",
+            "note": "老師會在上課時給予學生學習單及在課後給予作業，學習單及作業內容為程式問題，學生需找出解法。"
+        },
+        {
+            "type": "實驗/實作",
+            "note": "課中學習單及課後作業需撰寫程式碼"
+        },
+        {
+            "type": "媒體融入教學",
+            "note": "使用線上學習系統進行作業繳交、線上討論及其他線上教學活動"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 25,
+            "note": "練習老師上課指定的練習題及課後作業"
+        },
+        {
+            "type": "期中考",
+            "weight": 30,
+            "note": "期中考前老師上課的內容"
+        },
+        {
+            "type": "期末考",
+            "weight": 30,
+            "note": "期末考前老師上課的內容"
+        },
+        {
+            "type": "出席",
+            "weight": 15,
+            "note": "學生出席及線上活動參與狀況"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

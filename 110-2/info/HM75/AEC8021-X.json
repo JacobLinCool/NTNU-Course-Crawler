@@ -1,0 +1,71 @@
+{
+    "year": 110,
+    "term": 2,
+    "name": "隨機程序",
+    "teachers": [
+        "黃政吉"
+    ],
+    "department": "HM75",
+    "code": "AEC8021",
+    "credit": 3,
+    "serial": 1121,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 3,
+            "from": 7,
+            "to": 9,
+            "campus": "本部",
+            "classroom": "工501"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "",
+    "goals": [
+        "Understanding conditional probability and mean.",
+        "Studying binary hypothesis testing techniques.",
+        "Comparing estimation techniques.",
+        "Understanding stochastic processes."
+    ],
+    "syllabus": "Introduction (Week 1)\n\nDerived random variables  (Week 2)\n\nSum of two random variables (Week 3)\n\nConditional expected value (Week 4)\n\nConditioning by a random variable (Week 5)\n\nExpected value of sums (Week 6)\n\nMoment generating function (Week 7)\n\nMidterms (Week 8)\n\nHypothesis test (Week 9)\n\nMinimum mean square error estimation (Week 10)\n\nMAP and ML estimate (Week 11)\n\nLinear estimation (Week 12)\n\nStochastic process (Week 13)\n\nExpected value and correlation (Week 14)\n\nWide sense stationary (Week 15)\n\nFinal exam (Week 16)\n\n\\*Linear filtering (Week 17)\n\n\\*Power spectral density (Week 18)",
+    "methodologies": [
+        {
+            "type": "Formal lecture",
+            "note": "PPT slides"
+        }
+    ],
+    "grading": [
+        {
+            "type": "Assignments",
+            "weight": 10,
+            "note": "exercises"
+        },
+        {
+            "type": "Midterm Exam",
+            "weight": 40,
+            "note": "problems"
+        },
+        {
+            "type": "Final exam",
+            "weight": 40,
+            "note": "problems"
+        },
+        {
+            "type": "Attendances",
+            "weight": 10,
+            "note": "presence & participation"
+        }
+    ],
+    "prerequisite": "◎Available for junior and senior year B.A. program students (Doctoral program courses excepted) and M.A. program students.",
+    "general_core": []
+}

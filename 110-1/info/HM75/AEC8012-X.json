@@ -1,0 +1,82 @@
+{
+    "year": 110,
+    "term": 1,
+    "name": "數位相機設計",
+    "teachers": [
+        "高文忠"
+    ],
+    "department": "HM75",
+    "code": "AEC8012",
+    "credit": 3,
+    "serial": 1190,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 4,
+            "from": 7,
+            "to": 9,
+            "campus": "本部",
+            "classroom": "教室自排"
+        }
+    ],
+    "programs": [],
+    "comment": "◎數位課程",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "",
+    "goals": [
+        "Color processing in digital cameras",
+        "To develop analytical and problem-solving skills to think outside of the box",
+        "To learn how to apply data structure in actual digital camera system design for projects"
+    ],
+    "syllabus": "**課程網址: https://meet.google.com/zgr-yqjn-zgg**\n==============================================\n\n週次\n\n**單元名稱**\n\n**單元目標**\n\n**(****簡要說明)**\n\n**教學互動設計**\n\n**(****如:議題討論、同儕互評等)**\n\n**測驗/評量活動**\n\n**(****若該週無此設計，則該週免填****)**\n\n授課方式及時數\n\n**(****請填時數，無則免填)**\n\n面授\n\n遠距教學\n\n非同步\n\n同步\n\n1\n\n數位攝影機系統簡介\n\n瞭解本課程的學習目標與相關技術\n\n分組討論\n\n研究相機的效能與規格，心得報告\n\n3\n\n2\n\n影像感測器\n\n研究影像感測器的感測原理與規格\n\n分組討論\n\n整理分析影像感測器的規格與應用限制，撰寫心得報告\n\n3\n\n3\n\n自動曝光控制\n\n情境亮度分析與曝光控制原理\n\n分組實作討論\n\n撰寫曝光控制程式\n\n3\n\n4\n\n自動對焦控制\n\n鏡頭控制原理與光學變焦控制法\n\n分組實作討論\n\n撰寫對焦控制程式\n\n3\n\n5\n\n自動白平衡\n\n光源色溫偵測與補償法\n\n分組實作討論\n\n撰寫白平衡程式\n\n3\n\n6\n\n影像處理流程設計（I）\n\n影像前處理演算法設計\n\n分組實作討論\n\n撰寫影像前處理程式\n\n3\n\n7\n\n數位相機系統晶片與嵌入式軟體系統\n\n數位相機之系統晶片與軟體架構\n\n分組討論\n\n讀書心得報告\n\n3\n\n8\n\n期中專題報告\n\n期中專題實作報告\n\n3\n\n9\n\n光學鏡頭與解析度\n\n鏡頭設計與規格\n\n分組實作討論\n\n鏡頭控制程式實作\n\n3\n\n10\n\n系統校正原理\n\n相機系統各項參數校正\n\n分組實作討論\n\n系統校正程式實作\n\n3\n\n11\n\n色彩學導論\n\n色彩學基礎知識介紹\n\n分組實作討論\n\n色彩處理實作\n\n3\n\n12\n\n放射線量測法\n\n理解光線輻射的量測法\n\n分組討論\n\n讀書心得報告\n\n3\n\n13\n\n光度學\n\n理解光度量測法與理論\n\n分組討論\n\n讀書心得報告\n\n3\n\n14\n\n色彩量測法（I）\n\n理解色彩量測法與理論\n\n分組討論\n\n讀書心得報告\n\n3\n\n15\n\n色彩量測法（I）\n\n理解色彩量測法與理論\n\n分組討論\n\n讀書心得報告\n\n3\n\n16\n\n期末論文研討報告與\n\n專題實作報告\n\n期末專題實作報告\n\n3\n\n17\n\n自主學習\n\n閱讀一篇論文\n\n論文導讀\n\n撰寫心得報告\n\n3\n\n18\n\n自主學習\n\n閱讀一篇論文\n\n論文導讀\n\n撰寫心得報告\n\n3",
+    "methodologies": [
+        {
+            "type": "Formal lecture",
+            "note": "講義"
+        },
+        {
+            "type": "Group discussion",
+            "note": "面授"
+        },
+        {
+            "type": "Problem base learning",
+            "note": "每周的作業"
+        },
+        {
+            "type": "Lab/Studio",
+            "note": "每周的作業"
+        }
+    ],
+    "grading": [
+        {
+            "type": "Assignments",
+            "weight": 50,
+            "note": "每周的作業"
+        },
+        {
+            "type": "Attendances",
+            "weight": 5,
+            "note": "offline/online 上線情形"
+        },
+        {
+            "type": "Presentation",
+            "weight": 25,
+            "note": "論文研讀報告"
+        },
+        {
+            "type": "Case study reports",
+            "weight": 20,
+            "note": "期末專題"
+        }
+    ],
+    "prerequisite": "◎Available for junior and senior year B.A. program students (Doctoral program courses excepted) and M.A. program students.",
+    "general_core": []
+}

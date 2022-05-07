@@ -1,0 +1,72 @@
+{
+    "year": 110,
+    "term": 2,
+    "name": "線性代數",
+    "teachers": [
+        "李良一"
+    ],
+    "department": "EU11",
+    "code": "LSU0058",
+    "credit": 3,
+    "serial": 869,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 3,
+            "from": 6,
+            "to": 8,
+            "campus": "本部",
+            "classroom": "正204"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "",
+    "goals": [
+        "此課程主要讓學生具備線性代數的基本知識，及應用所學到的知識處理向量空間問題。課程內容將包括矩陣、向量、線性方程式、線性轉換、行列式、子空間、特徵值、特徵向量、正交及向量空間等。"
+    ],
+    "syllabus": "【授課方式：16+2週】\n\n預定教學進度如下(會依據學生程度及上課狀況調整)：\n\n1.  課程介紹及線性代數簡介 (02/16)\n2.  Matrixes and Systems of Equations(1) (02/23)\n3.  Matrixes and Systems of Equations(2) (03/02)\n4.  Determinants (1)(03/09)\n5.  小考一(自主學習1：線上觀看Determinants (2)) (03/16)\n6.  Vector Spaces(1) (03/23)\n7.  Vector Spaces(2) (03/30)\n8.  Vector Spaces(3) (04/06)\n9.  期中考(04/13)\n10.  Linear Transformations(1) (04/20)\n11.  Linear Transformations(2) (04/27)\n12.  Linear Transformations(3) (05/04)\n13.  小考二(自主學習二：線上觀看影片Orthogonality(1))(05/11)\n14.  Orthogonality(2) (05/18)\n15.  Orthogonality(3) (05/25)\n16.  期末考(06/01)",
+    "methodologies": [
+        {
+            "type": "Formal lecture",
+            "note": "老師講授自編教材及教科書內容"
+        },
+        {
+            "type": "Media, audio, visual materials",
+            "note": "使用線上學習系統進行作業繳交、線上討論及其他線上教學活動"
+        }
+    ],
+    "grading": [
+        {
+            "type": "Midterm Exam",
+            "weight": 25,
+            "note": "期中考前老師上課的內容"
+        },
+        {
+            "type": "Final exam",
+            "weight": 25,
+            "note": "期末考前老師上課的內容"
+        },
+        {
+            "type": "Attendances",
+            "weight": 10,
+            "note": "學生出席次數及線上影片觀看的完整度"
+        },
+        {
+            "type": "other:",
+            "weight": 40,
+            "note": "小考一(20%)、小考二(20%)"
+        }
+    ],
+    "prerequisite": "◎Available for junior and senior year B.A. program students (Doctoral program courses excepted) and M.A. program students.",
+    "general_core": []
+}

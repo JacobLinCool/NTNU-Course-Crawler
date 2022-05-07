@@ -1,0 +1,65 @@
+{
+    "year": 109,
+    "term": 2,
+    "name": "多變量分析專題（一）",
+    "teachers": [
+        "張少同"
+    ],
+    "department": "SM40",
+    "code": "MAC0110",
+    "credit": 3,
+    "serial": 2644,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 4,
+            "from": 6,
+            "to": 8,
+            "campus": "公館",
+            "classroom": "數學館311研討室"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程介紹運用於分析多變量資料時常用的統計方法。內容包括主成份分析、因素分析判別分析、群集分析、多變量變異數分析等主題。",
+    "goals": [
+        "認識多變量分析方法的理論基礎",
+        "進行資料分析應用實務",
+        "能利用統計軟體進行資料分析"
+    ],
+    "syllabus": "1: Matrix Algebra and Random Vectors\n\n2: Sample Geometry and Random Sampling\n\n3-4: The Multivariate Normal Distribution\n\n5-6: Inferences About a Mean Vector\n\n7-8: Comparisons of Several Multivariate Means\n\n9-10: Multivariate Linear Regression Models\n\n11-12: Principal Components\n\n13-14: Factor Analysis and Inference for Structured Covariance Matrices\n\n15: Canonical Correlation Analysis\n\n16:  專題報告\n\n17,18: 學生自主學習與探究",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 60,
+            "note": ""
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 20,
+            "note": ""
+        },
+        {
+            "type": "報告",
+            "weight": 20,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

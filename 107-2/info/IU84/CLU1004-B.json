@@ -1,0 +1,93 @@
+{
+    "year": 107,
+    "term": 2,
+    "name": "語言學概論",
+    "teachers": [
+        "官英華"
+    ],
+    "department": "IU84",
+    "code": "CLU1004",
+    "credit": 2,
+    "serial": 1503,
+    "group": "B",
+    "quota": {
+        "limit": 50,
+        "additional": 5
+    },
+    "schedule": [
+        {
+            "day": 3,
+            "from": 9,
+            "to": 10,
+            "campus": "本部",
+            "classroom": "正402A"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "1",
+    "classes": "",
+    "dept_group": "B",
+    "hours": 2,
+    "description": "This course will provide students basic knowledge of different domains in linguistics, which include the knowledge of general linguistics (phonetics, phonology, morphology, syntax, semantics, and pragmatics), the knowledge of psycholinguistics, and the knowledge of sociolinguistics. That is, students will learn IPA, and how to analyze the morphological and syntactic structures of certain languages in the world. In addition, they will learn the relationship between brain and language and its relevant research methods and technologies. Preparation before each class and review thereafter is strongly recommended for students who attend this course.",
+    "goals": [
+        "提供學生紮實的語言學基礎知識",
+        "提升學生在華語教學時，對華語以及學習者母語特質的敏感度",
+        "訓練學生閱讀英文教科書以及以英文寫作業和作答的能力",
+        "培養學生在跨語言和跨文化方面的知識與涵養"
+    ],
+    "syllabus": "2/20\n\nWhat is language?\n\n2/27\n\nBrain and language I\n\n3/06\n\nBrain and language II\n\n3/13\n\nMorphology: The words of language I\n\n3/20\n\nMorphology: The words of language II\n\n3/27\n\nSyntax: The sentence patterns of language I\n\n4/03\n\nHoliday, no class\n\n4/10\n\nSyntax: The sentence patterns of language II\n\n4/17\n\nMidterm exam\n\n4/24\n\nThe meaning of language I\n\n5/01\n\nPresentations G1-3\n\n5/08\n\nThe meaning of language II\n\n5/15\n\nPresentations G4-6\n\n5/22\n\nPhonetics: The sounds of language I\n\n5/29\n\nPhonetics: The sounds of language II\n\n6/05\n\nPresentations G7-9\n\n6/12\n\nFinal exam\n\n6/19\n\nPhonology\n\n  \n[教學進度與主題附件](https://ap.itc.ntnu.edu.tw/NtnuFileShare/file.do?action=dl&gno=c0198f43214c45638944f01ec8475630&fno=6e451ac390dc439c83ffc488922810aa)",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "講述語言學各領域的重要基礎理論"
+        },
+        {
+            "type": "討論法",
+            "note": "在課堂上提出問題與學生共同討論"
+        },
+        {
+            "type": "實驗/實作",
+            "note": "習題實作：語料分析、句子結構分析"
+        },
+        {
+            "type": "媒體融入教學",
+            "note": "使用moodle學習平台與學生分享資源，並利用PPT和影片輔助教學"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 25,
+            "note": "課後練習題加強學生運用所學理論和分析方法的能力"
+        },
+        {
+            "type": "期中考",
+            "weight": 25,
+            "note": "命題形式包括填充題、簡答題和問答題，以檢視學生的學習成效"
+        },
+        {
+            "type": "期末考",
+            "weight": 25,
+            "note": "命題形式包括填充題、簡答題和問答題，以檢視學生的學習成效"
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 5,
+            "note": "鼓勵學生參與課堂討論"
+        },
+        {
+            "type": "出席",
+            "weight": 5,
+            "note": "基本監控學生出席率"
+        },
+        {
+            "type": "報告",
+            "weight": 15,
+            "note": "口頭報告"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

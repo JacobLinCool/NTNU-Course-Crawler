@@ -1,0 +1,87 @@
+{
+    "year": 109,
+    "term": 1,
+    "name": "傳播應用統計",
+    "teachers": [
+        "林慧斐"
+    ],
+    "department": "IM88",
+    "code": "MCM0009",
+    "credit": 3,
+    "serial": 1468,
+    "group": "",
+    "quota": {
+        "limit": 30,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 4,
+            "from": 3,
+            "to": 5,
+            "campus": "本部",
+            "classroom": "教404"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程不開放上修",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程旨在介紹統計方法的基本概念與SPSS軟體分析統計資料的操作與解讀分析結果，課程目標在於讓同學們瞭解量化研究與統計基本概念、熟悉統計方法、以及具有解讀與詮釋統計分析結果的能力。本課程將協助同學們透過統計套裝軟體進行量化研究與分析。",
+    "goals": [
+        "介紹統計學基本觀念",
+        "介紹傳播研究常用傳統方法"
+    ],
+    "syllabus": "**平時作業****:  \n**每堂課將會提供同學們相關作業，請完成後列印並於隔週上課繳交，當日將會批改、算分並發回。  \n\n**小組統計檢定導讀**此門課一共有10項統計檢定：T檢定、卡方檢定、ANOVA、Repeated Measures、MANOVA、ANCOVA、Correlation、Regression、Factor analysis、SEM，請各組挑選一項檢定，於當周進行15分鐘報告，報告內容包含該檢定基本原理、相關概念、以及於研究之運用。請於中文期刊或者英文期刊中挑選一篇運用該統計之傳播研究，與大家分享此研究如何進行此檢定與分析，需要包含圖表說明。\n\n  \n**期中考****：  \n**考試內容為上課所講述相關概念並進行SPSS上機實例操作。  \n  \n**期末統計報告****：  \n**各組選一個研究主題，針對既有的data進行統計檢定、分析與詮釋資料。報告內容分為三個部分，包含第一部分為緒論（包含研究動機、目的、研究問題、理論基礎）、第二部分為研究方法、以及第三部分為統計檢定、分析與詮釋。  \n  \n**課堂參與****、出席：  \n**此門課鼓勵同學們踴躍回答問題，請同學們務必每堂課準時抵達上課教室。  \n  \nWeek 1  課程介紹、基本概念講解、分組、學生狀況瞭解  \nWeek 2  Data管理、假設檢定  \nWeek 3  描述統計  \nWeek 4  T檢定  \nWeek 5  卡方檢定  \nWeek 6  變異數分析ANOVA  \nWeek 7  變異數分析ANOVA  \nWeek 8  Repeated Measures 重複測量變異數分析  \nWeek 9  **期中考  \n**Week 10  MANOVA、ANCOVA 多變量共變異數分析、共變數分析  \nWeek 11  Correlation 相關  \nWeek 12  Regression 迴歸  \nWeek 13  Regression、分組期末報告討論  \nWeek 14  Factor analysis 因素分析  \nWeek 15  Factor analysis、分組期末報告討論  \nWeek 16  SEM  \nWeek 17  期末報告  \nWeek 18  期末報告與繳交報告",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": ""
+        },
+        {
+            "type": "問題解決教學",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 15,
+            "note": "平時作業"
+        },
+        {
+            "type": "期中考",
+            "weight": 25,
+            "note": ""
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 5,
+            "note": ""
+        },
+        {
+            "type": "出席",
+            "weight": 10,
+            "note": ""
+        },
+        {
+            "type": "報告",
+            "weight": 25,
+            "note": "期末統計報告"
+        },
+        {
+            "type": "其他",
+            "weight": 20,
+            "note": "小組統計檢定導讀"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

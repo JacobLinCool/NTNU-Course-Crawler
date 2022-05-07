@@ -1,0 +1,86 @@
+{
+    "year": 110,
+    "term": 1,
+    "name": "網路輔助學習系統研究",
+    "teachers": [
+        "李啟龍"
+    ],
+    "department": "HM71",
+    "code": "ITM0081",
+    "credit": 3,
+    "serial": 1170,
+    "group": "",
+    "quota": {
+        "limit": 30,
+        "additional": 5
+    },
+    "schedule": [
+        {
+            "day": 4,
+            "from": 10,
+            "to": 12,
+            "campus": "本部",
+            "classroom": "科技系TB213"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程不開放上修",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "數位學習(e-Learning)提升教學效率與彌補傳統教育中可能的不足之處，以網路為基礎的數位學習早已成了各級學校教學的潮流，顯示數位學習時代的來臨，逐漸影響全球的教學與學習方式，也可得知數位學習的無窮發展潛力。本課程探討數位學習之演進與趨勢、數位內容與版權管理、數位學習系統、同步與非同步網路學習活動、網路學習之學習面、網路學習之教學面、電腦化測驗與評量、電腦化心智工具、適性化學習、行動與無所不在學習、遊戲式學習…等。",
+    "goals": [
+        "介紹數位學習現階段以及未來的重要發展趨勢。",
+        "介紹數位學習的專業技能與知識",
+        "鼓勵學生實際動作操作現有數位學習平台與了解數位學習相關議題"
+    ],
+    "syllabus": "1.  The development of e-learning\n2.  Digital content management\n3.  Digital rights management\n4.  The e-learning system\n5.  Instructional design\n6.  Synchronized e-learning\n7.  Non-synchronized e-learning\n8.  The pedagogic aspect of e-learning\n9.  The learning aspect of e-learning\n10.  Computer-based testing\n11.  Computer-based mind tools\n12.  Adaptive learning\n13.  Mobile learning\n14.  Ubiquitous learning\n15.  Game-based learning\n16.  The trend of e-learning",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "講述數位學習的相關理論與應用。"
+        },
+        {
+            "type": "討論法",
+            "note": "透過分組討論協助學生應用課堂所學的相關知識與技能。"
+        },
+        {
+            "type": "問題解決教學",
+            "note": "經由問題的解決協助學生培養問題解決能力。"
+        },
+        {
+            "type": "合作學習",
+            "note": "提供學生合作學習的機會以激發彼此的創意。"
+        },
+        {
+            "type": "媒體融入教學",
+            "note": "運用網路多媒體資源以提升學生的學習動機與興趣。"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 20,
+            "note": "作業包含平時作業與課堂報告。"
+        },
+        {
+            "type": "期中考",
+            "weight": 30,
+            "note": "數位學習平台小組報告。"
+        },
+        {
+            "type": "期末考",
+            "weight": 40,
+            "note": "數位學習論文閱讀個人報告。"
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 10,
+            "note": "學生平時的出缺席狀況、在課堂中參與討論的表現。"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

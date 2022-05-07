@@ -1,0 +1,81 @@
+{
+    "year": 110,
+    "term": 2,
+    "name": "大氣動力學（二）",
+    "teachers": [
+        "簡芳菁"
+    ],
+    "department": "SU44",
+    "code": "ESC9027",
+    "credit": 3,
+    "serial": 2922,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 1,
+            "from": 7,
+            "to": 9,
+            "campus": "公館",
+            "classroom": "Ｃ409"
+        }
+    ],
+    "programs": [],
+    "comment": "中階以上課程，適合大三以上學生修習，以作為探究研究所之先修課程，同時也開放碩士班無此課程基礎之學生選修。",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "9",
+    "dept_group": "",
+    "hours": 3,
+    "description": "介紹主宰地球大氣運動與結構特性的理論基礎，從基本的觀念與數學方法，解釋大氣之基本方程式及運用。第二部份的重點在運用準地轉分析理論於綜觀尺度天氣系統運動與預測，探討線性擾動理論以及大氣中的各種波動，並分析斜壓不穩定與中緯度綜觀尺度天氣系統的發展。",
+    "goals": [
+        "介紹主宰地球大氣運動與結構特性的理論基礎，從基本的觀念與數學方法，解釋大氣之基本方程式及運用",
+        "運用準地轉分析理論於綜觀尺度天氣系統運動與預測，探討線性擾動理論以及大氣中的各種波動，並分析斜壓不穩定與中緯度綜觀尺度天氣系統的發展。"
+    ],
+    "syllabus": "【16+2週】，彈性週為自主學習。\n\n大氣動力學(二)為大氣動力學(一)的延續課程，建議有修過大氣動力學(一)的同學再來選修。\n\n上課內容將涵蓋Holton and Hakim (2012)課本的第6, 7, 8, 10章。\n\n教材內容：\n\n教科書：\n\nHolton, J. R. and G. J. Hakim, 2012: An introduction to dynamic meteorology. 5th Ed., Academic Press, 532pp.\n\n1\\. Quasi-geostrophic Analysis (Chapter 6)\n\n2\\. Baroclinic Development (Chapter 7)\n\n3\\. Planetary Boundary Layer (Chapter 8)\n\n4\\. The Genreal Circulation (Chapter 10)",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": ""
+        },
+        {
+            "type": "實驗/實作",
+            "note": ""
+        },
+        {
+            "type": "其他",
+            "note": "由數位學習平台 http://moodle.ntnu.edu.tw 進入大氣動力學（二）"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 20,
+            "note": ""
+        },
+        {
+            "type": "期中考",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "其他",
+            "weight": 20,
+            "note": "隨堂小考"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

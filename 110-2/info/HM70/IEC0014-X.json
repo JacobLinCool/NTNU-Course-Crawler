@@ -1,0 +1,84 @@
+{
+    "year": 110,
+    "term": 2,
+    "name": "多變項統計分析",
+    "teachers": [
+        "李懿芳"
+    ],
+    "department": "HM70",
+    "code": "IEC0014",
+    "credit": 2,
+    "serial": 1074,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 3,
+            "from": 9,
+            "to": 10,
+            "campus": "本部",
+            "classroom": "研討二"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 2,
+    "description": "",
+    "goals": [
+        "Understand the basic concepts of statistical methods for multivariate analysis.",
+        "Identify the timing and approach to correctly use the multivariate techniques.",
+        "Cultivate the ability to conduct the statistical software.",
+        "Be able to correctly analyze data, explain results, and writing reports."
+    ],
+    "syllabus": "週次     主題  \n1\\. Introduction, Review of basic statistics/SPSS\n\n2\\. Multiple regression 1\n\n3\\. Multiple regression 2\n\n4\\. SPSS1\n\n5\\. Logistic regression\n\n6\\. Discriminant analysis\n\n7\\. SPSS2\n\n8\\. Principal components analysis\n\n9\\. Common factor analysis\n\n10\\. SPSS 3\n\n11\\. **Midterm Exam**\n\n12\\. SEM1\n\n13\\. SEM2\n\n14\\. SEM3\n\n15\\. SEM4\n\n16. **Final Exam**\n\n17\\. Research paper review1 (self-learning activities)\n\n18\\. Research paper review 2 (self-learning activities)",
+    "methodologies": [
+        {
+            "type": "Formal lecture",
+            "note": "Lecture on the concepts of statistical methods for multivariate analysis."
+        },
+        {
+            "type": "Group discussion",
+            "note": "Discuss the ideas of data collection and analysis."
+        },
+        {
+            "type": "Lab/Studio",
+            "note": "Demonstrate how to run the SPSS software and guide students to operate it."
+        }
+    ],
+    "grading": [
+        {
+            "type": "Assignments",
+            "weight": 20,
+            "note": "Assignment and highlight of each topic"
+        },
+        {
+            "type": "Midterm Exam",
+            "weight": 25,
+            "note": "SPSS operation, output explanation, and result generation"
+        },
+        {
+            "type": "Final exam",
+            "weight": 25,
+            "note": "SPSS operation, output explanation, and result generation"
+        },
+        {
+            "type": "Class discussion involvement",
+            "weight": 10,
+            "note": "Class attendance and participation in class discussion"
+        },
+        {
+            "type": "Presentation",
+            "weight": 20,
+            "note": "1. Search a journal article for each topic, introduce its statistical technique, and criticize the findings. \n2. Use one of the statistical techniques taught in this class to conduct a study and write an academic article."
+        }
+    ],
+    "prerequisite": "◎Available for junior and senior year B.A. program students (Doctoral program courses excepted) and M.A. program students.",
+    "general_core": []
+}

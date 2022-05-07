@@ -1,0 +1,71 @@
+{
+    "year": 107,
+    "term": 2,
+    "name": "電腦在地球科學上之應用",
+    "teachers": [
+        "曾莉珊"
+    ],
+    "department": "SU44",
+    "code": "ESU0150",
+    "credit": 3,
+    "serial": 2932,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 15
+    },
+    "schedule": [
+        {
+            "day": 5,
+            "from": 6,
+            "to": 8,
+            "campus": "公館",
+            "classroom": "理圖801"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎限大三大四修習",
+    "form_s": "3",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "在UNIX作業系統的環境之下，以Fortran 90/95程式語言為教學主幹，介紹電腦在地球科學上的應用。",
+    "goals": [
+        "在UNIX作業系統的環境之下，以Fortran 90/95程式語言為教學主幹，介紹電腦在地球科學上的應用。"
+    ],
+    "syllabus": "在UNIX作業系統的環境之下，以Fortran 95/2003程式語言為教學主幹，介紹電腦在地球科學上的應用。  \n1\\. Introduction to Computing  \n2\\. Basic UNIX/Linux  \n3\\. Fortran 95/2003\n\n4. Introduction to shell scripting",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "實驗/實作",
+            "note": "程式設計"
+        },
+        {
+            "type": "媒體融入教學",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 55,
+            "note": ""
+        },
+        {
+            "type": "期中考",
+            "weight": 30,
+            "note": "兩次"
+        },
+        {
+            "type": "期末考",
+            "weight": 15,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

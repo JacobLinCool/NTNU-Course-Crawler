@@ -1,0 +1,82 @@
+{
+    "year": 108,
+    "term": 2,
+    "name": "計算組合",
+    "teachers": [
+        "游森棚"
+    ],
+    "department": "SM40",
+    "code": "MAC0064",
+    "credit": 3,
+    "serial": 2544,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 6,
+            "to": 8,
+            "campus": "公館",
+            "classroom": "數學館M210"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "In this one-semester course we will introduce the symmetric functions. Symmetric function plays a core topic in modern enumerative and algebraic combinatorics.  \nTopics to be covered:\n1. Symmetric functions\n2. Various basis\n3. Hall product\n4. Tableaux and skew tableaux\n5. RSK algorithm\n6. Plane partitions\n7. Connections with representation theory and others",
+    "goals": [
+        "能解決計量的應用問題",
+        "能運用組合數學解決相關領域的問題",
+        "轉換數學模型的能力"
+    ],
+    "syllabus": "In this one-semester course we will introduce Coxeter combinatorics, focusing on Eulerian numbers, permutations and other connections. We will cover most of the following topics:\n\nEulerian numbers/ Coxeter groups/ Coxeter complex/ Catalan numbers/ Narayana numbers/ Euler numbers/ permutations statistics/ paper reading\n\nIf time allowed, we will introduce some basic concepts in combinatorial topology. \n\nEach week students are required to lecture a portion of the assigned topic alternatively, with set of exercises. In final weeks each student will be assigned a research paper to read and report.\n\n\\[Notice for the Wuhan-epidemic\\]\n\nTo cope with the 16-week semester, our space will somewhat accelerate. Some materials will be assigned as \"self study\".\n\nIn-class discussions and presentation are required, no prerequisite is required.",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": ""
+        },
+        {
+            "type": "問題解決教學",
+            "note": ""
+        },
+        {
+            "type": "合作學習",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 40,
+            "note": ""
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 20,
+            "note": ""
+        },
+        {
+            "type": "出席",
+            "weight": 20,
+            "note": ""
+        },
+        {
+            "type": "報告",
+            "weight": 20,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

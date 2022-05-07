@@ -1,0 +1,83 @@
+{
+    "year": 107,
+    "term": 1,
+    "name": "教育行政",
+    "teachers": [
+        "黃乃熒"
+    ],
+    "department": "EU00",
+    "code": "EDU0005",
+    "credit": 2,
+    "serial": 656,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 4,
+            "from": 6,
+            "to": 7,
+            "campus": "本部",
+            "classroom": "教310"
+        }
+    ],
+    "programs": [],
+    "comment": "限本班",
+    "restrict": "◎限大二◎限乙班修習",
+    "form_s": "2",
+    "classes": "2",
+    "dept_group": "",
+    "hours": 2,
+    "description": "政府為教育人民，就必需辦理教育，而要辦理教育，就得有一群人來負責推動教育相關工作，才能達成任務，所以，所謂教育行政即是對教育相關工作的管理及對教育相關人員的領導，以成就教育目的的一連串過程與行為。本課程希冀以閱讀、講授、討論等方式，帶領同學進行教育行政基礎理論之探究，並參照國內教育行政相關研究發現，透過理論與實務的結合，為同學日後行政相關知能的學習，奠定穩固紮實的基礎。",
+    "goals": [
+        "了解教育行政基本理論及近期發展重點。",
+        "探討國內教育行政研究成果",
+        "能確實實踐依法行政及行政以服務教學為核心之理念及作為",
+        "奠定從事教育行政研究之基礎"
+    ],
+    "syllabus": "1.    課程介紹\n\n2.    跌倒就站起來/鳥類標本（Wademan, ch 1 & 2）\n\n3.    管理是執行與完成的藝術（Ghoshal & Bruch, ch 1）\n\n4.    區別目標導向行動與積極無為（Ghoshal & Bruch, ch 2）\n\n5.    提振活力與培養專注力（Ghoshal & Bruch, ch 3）\n\n6.    發揮意志力（Ghoshal & Bruch, ch 4-5）\n\n7.    克服三種無為陷阱（Ghoshal & Bruch, ch 6）\n\n8.    公司職責與合力發揮組織能量（Ghoshal & Bruch, ch 7-8）\n\n9.    領導者的使命（Ghoshal & Bruch, ch 9）\n\n10.   電影欣賞\n\n11.   期中分享\n\n12.   定義卓越（Collins, ch 1）\n\n13.   第五級領導人（Collins, ch 2）\n\n14.   先找對人（Collins, ch 3）\n\n15.   刺蝟原則（Collins, ch 4）\n\n16.   轉動飛輪（Collins, ch 5）\n\n17.   期末分享\n\n18.   打造自己的卓越特區，結語與檢討",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": ""
+        },
+        {
+            "type": "問題解決教學",
+            "note": ""
+        },
+        {
+            "type": "合作學習",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "期末考",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 20,
+            "note": ""
+        },
+        {
+            "type": "出席",
+            "weight": 20,
+            "note": ""
+        },
+        {
+            "type": "報告",
+            "weight": 30,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

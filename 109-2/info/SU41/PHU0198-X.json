@@ -1,0 +1,75 @@
+{
+    "year": 109,
+    "term": 2,
+    "name": "計算物理（二）",
+    "teachers": [
+        "江府峻"
+    ],
+    "department": "SU41",
+    "code": "PHU0198",
+    "credit": 3,
+    "serial": 2845,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 4,
+            "from": 6,
+            "to": 8,
+            "campus": "公館",
+            "classroom": "理圖801"
+        }
+    ],
+    "programs": [],
+    "comment": "◎數位課程",
+    "restrict": "",
+    "form_s": "3",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "在此課程中學生將學習如何利用程式語言及計算機(電腦)來處理常見的物理問題。",
+    "goals": [
+        "培養學生有分析及解決問題的能力",
+        "培養學生有表達觀念的能力",
+        "培養學生有程式寫作的能力",
+        "培養學生有數據分析的能力"
+    ],
+    "syllabus": "這是遠距課程, 詳細的進度及上課方式請見學校相關網站. 授課老師上課的電腦螢幕會錄影起來,放到 moodle 上以讓學生有機會複習.\n\nDepending on the progress, the feedback as well as the requests from the registered students, we may skip some topics listed below and introduce others.  \n\nWeek 1: Review of the use of python --> Review of numpy and pylab, Romberg method for integration, adaptive-size methods for integration, various quadrature methods for integration (scipy).. \n\nWeek 2: Review of the use of python --> Continuation of numerical ODEs : Multi-steps method, backward method, and method of Numerov.                             \n\nWeek 3: Review of the use of python  --> Solving linear equations : Gauss elimination and LU decomposition.                                                                             \n\nWeek 4: Iteration methods for solving linear equations (CG, BiCGSTAB,and so on), the use scipy and numpy to solve linear equations.\n\nWeeks 5,6,7 : Methods for solving boundary value problems including finite difference, fsolve of scipy, and shooting.\n\nWeek 8: Eigenvalues and Eigenvector.                                                                                                       \n\nWeek 9: Optmizations.                                                                                           \n\nWeek 10: Midterm exam.                                                                                                                                                                             \n\nWeek 11: Partial differential equations: Laplace and Poisson equations (Gauss-Seidel and ADI).\n\nWeeks 12 and 13: Partial differential equations: Diffusion, Convection, and Burgers  equations.\n\nWeeks 14 and 15: Partial differential equations: Wave equations and Schrodinger equations.\n\nWeek 16: Random process and Monte Carlo\n\nRemaining weeks: Presentation.",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "實驗/實作",
+            "note": "For practicing purpose, there might be weekly or biweekly assignments"
+        }
+    ],
+    "grading": [
+        {
+            "type": "期中考",
+            "weight": 30,
+            "note": "There will be one in class exams. Students can use their own notes and codes for the exams, but  no internet is allowed when taking these exams."
+        },
+        {
+            "type": "期末考",
+            "weight": 20,
+            "note": "There will be an oral presentation as the final exam."
+        },
+        {
+            "type": "出席",
+            "weight": 25,
+            "note": ""
+        },
+        {
+            "type": "其他",
+            "weight": 25,
+            "note": "In class quizzes"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

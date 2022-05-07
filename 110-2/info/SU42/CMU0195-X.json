@@ -1,0 +1,70 @@
+{
+    "year": 110,
+    "term": 2,
+    "name": "儀器分析化學",
+    "teachers": [
+        "呂家榮"
+    ],
+    "department": "SU42",
+    "code": "CMU0195",
+    "credit": 3,
+    "serial": 2865,
+    "group": "",
+    "quota": {
+        "limit": 60,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 1,
+            "from": 7,
+            "to": 9,
+            "campus": "公館",
+            "classroom": "Ｓ102"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎必須先修過【CMU0141  分析化學（一）】、【CMU0142  分析化學（二）】 ◎課程開放上修",
+    "form_s": "3",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "介紹各類型分析儀器原理與結構，包含:電路與訊號處理、粒徑分析、原子光譜、紫外-可見光譜、紅外光譜、原子質譜、表面分析方法。",
+    "goals": [
+        "學習分析原理",
+        "學習儀器結構與流程",
+        "儀器問題討論與反思",
+        "瞭解各型態儀器分析應用"
+    ],
+    "syllabus": "Ch 1 Introduction\n\nCh 2 Electrical Components\n\nCh 2 – Ch 3 Operational Amplifier\n\nCh 3 – Ch 4 Digital Electronics\n\nCh 4 – Ch 5 Signal & Noise\n\n Exam1 Ch 1~ 5\n\nCh 8 Introduction to Atomic Spectrometry\n\nCh 9 Atomic Absorbance & Fluorescence\n\nCh 10 Atomic Emission Spectrometry\n\nCh 11 Atomic Mass Spectrometry\n\nExam 2 Ch8~Ch11\n\nCh 21 Surface Characterization\n\nCh 30 Capillary Electrophoresis\n\nCh 31 Thermal Method\n\nCh 34 Particle Size Determination\n\nExam 3 Ch21、Ch30、Ch31、Ch34",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "以電腦輔助教材配合講解"
+        },
+        {
+            "type": "問題解決教學",
+            "note": "作業與習題討論與報告"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 20,
+            "note": "須收集資料自行判讀作出結論"
+        },
+        {
+            "type": "期中考",
+            "weight": 40,
+            "note": "以一般筆試方式進行"
+        },
+        {
+            "type": "期末考",
+            "weight": 40,
+            "note": "以一般筆試方式進行"
+        }
+    ],
+    "prerequisite": "◎必須先修過【CMU0141  分析化學（一）】、【CMU0142  分析化學（二）】",
+    "general_core": []
+}

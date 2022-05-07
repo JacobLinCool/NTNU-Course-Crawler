@@ -1,0 +1,71 @@
+{
+    "year": 107,
+    "term": 2,
+    "name": "微生物生態與多樣性",
+    "teachers": [
+        "林思民",
+        "江殷儒",
+        "湯森林",
+        "蔡怡陞"
+    ],
+    "department": "SD50",
+    "code": "DIC8047",
+    "credit": 3,
+    "serial": 2596,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 2,
+            "to": 4,
+            "campus": "校外",
+            "classroom": "校外教室"
+        }
+    ],
+    "programs": [],
+    "comment": "上課地點:中研院B204 BRC,AS。",
+    "restrict": "◎課程不開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "It is hard to understand an ecosystem without understanding the metabolism of microorganisms living there. The main aim of this course to lead students to know the background knowledge of microbial diversity and the relevant research fields, including the phylogenetic and functional diversity of eukaryotic and prokaryotic microorganisms, metagenomics, microbial physiology and metabolism, biogeochemistry, and oceanography. The techniques and approaches related to microbial ecology have been significantly advanced in the past decade; thus, the relevant tools will be introduced in the course. Moreover, the oral presentation and discussion of students will be the important parts in this course that will facilitate students to have more understanding of microbial diversity.",
+    "goals": [
+        "Learn about the background of microbial ecology, including microbial diversity, evolution, physiology and metabolism, biogeochemistry and oceanography.",
+        "Study classical and emerging techniques related to microbial ecology."
+    ],
+    "syllabus": "Week 1. Bacterial diversity\n\nWeek 2. Archaeal diversity\n\nWeek 3. Algal diversity\n\nWeek 4. Fungal diversity\n\nWeek 5. Microbe-host interactions\n\nWeek 6. Functional diversity of microorganisms\n\nWeek 7. Biogeochemistry and biodegradation\n\nWeek 8. Isolation and cultivation of microorganisms\n\nWeek 9. Genomics of microorganisms\n\nWeek 10. Metagenomics\n\nWeek 11~16. Oral presentation and discussion of students",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "The introduction of the background knowledge of microbial diversity and the relevant research fields, including the phylogenetic and functional diversity of microorganisms, metagenomics, microbial physiology and metabolism, biogeochemistry, and oceanography."
+        },
+        {
+            "type": "討論法",
+            "note": "Oral presentation and discussion of students"
+        }
+    ],
+    "grading": [
+        {
+            "type": "課堂討論參與",
+            "weight": 25,
+            "note": ""
+        },
+        {
+            "type": "出席",
+            "weight": 25,
+            "note": ""
+        },
+        {
+            "type": "報告",
+            "weight": 50,
+            "note": "Oral presentation (25%) and document report (25%)"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

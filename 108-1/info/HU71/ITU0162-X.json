@@ -1,0 +1,92 @@
+{
+    "year": 108,
+    "term": 1,
+    "name": "工程設計",
+    "teachers": [
+        "林坤誼"
+    ],
+    "department": "HU71",
+    "code": "ITU0162",
+    "credit": 3,
+    "serial": 1252,
+    "group": "",
+    "quota": {
+        "limit": 30,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 4,
+            "from": 7,
+            "to": 9,
+            "campus": "本部",
+            "classroom": "科212"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎限大二大三修習",
+    "form_s": "2",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "工程設計課程透過專題設計方式進行，活動以車輛設計為主題，實際體驗工程設計流程，包含：界定問題、蒐集資訊、發展方案、預測分析、測試修正、最佳化等。每週授課，由關鍵問題的引導，探討工程設計相關知識的應用，與車輛動力學在車輛設計的設計思考，深化工程設計思考能力的學習。實作活動的關鍵技術，涵蓋3D建模與數位加工技術的綜合運用、數位模型的有限元素分析、工程實驗量測技術、金屬成型與加工技術、模具複合成型技術…等。",
+    "goals": [
+        "使學生能夠理解、分析工程設計與系統。",
+        "使學生能夠學習與應用設計思考程序，學生將會更有效率的學習在任何領域中解決問題。",
+        "使學生能夠具備完整的工程設計歷程，以使創意分析更具效益。",
+        "使學生能夠接受、組織、領導、實踐與評估不同工程領域的成功專案。"
+    ],
+    "syllabus": "1\\. Introduction 2. 10 Step Design Process; Dieter Rams 3. Research; Stakeholder Analysis: Case study 4. Articulating Design: Case study 5. Psychology and usability: Case study 6. Dialogue System Design: Case study 7. Branding and creativity: Case study 8. Project Management: Case study 9. Innovation and Ethics: Case study 10. Buy or Build; Process Improvement: Case study 11. Midterm exam 12. Guest Lecture: Engineering design process in electronic products 13. Guest Lecture: Engineering design process in engineering design products 14-15. Individual Presentations 16-18. Group Project: Engineering design process application 19. Group Project Review Session 20. Final exam",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "介紹有關工程設計的重要知識性內涵。"
+        },
+        {
+            "type": "討論法",
+            "note": "針對每週主題進行小組討論。"
+        },
+        {
+            "type": "實驗/實作",
+            "note": "針對工程領域進行工程設計建模的成果。"
+        },
+        {
+            "type": "實地考察、參訪",
+            "note": "安排實地考察以利了解相關工程設計的應用情形。"
+        },
+        {
+            "type": "專題研究",
+            "note": "針對工程設計進行專題實作，並實際設計與製作出工程設計專題。"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 30,
+            "note": "每週上課所需繳交的平時作業。"
+        },
+        {
+            "type": "期中考",
+            "weight": 20,
+            "note": "針對授課內容進行知識測驗。"
+        },
+        {
+            "type": "出席",
+            "weight": 5,
+            "note": "每週的出席率，以及課堂參與討論的情形。"
+        },
+        {
+            "type": "報告",
+            "weight": 20,
+            "note": "針對各週主題進行報告的實際表現。"
+        },
+        {
+            "type": "專題",
+            "weight": 25,
+            "note": "應用工程設計歷程所製作的專題成果。"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

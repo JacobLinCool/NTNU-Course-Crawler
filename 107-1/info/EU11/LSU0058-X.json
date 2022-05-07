@@ -1,0 +1,77 @@
+{
+    "year": 107,
+    "term": 1,
+    "name": "線性代數",
+    "teachers": [
+        "李良一"
+    ],
+    "department": "EU11",
+    "code": "LSU0058",
+    "credit": 3,
+    "serial": 894,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 4,
+            "from": 6,
+            "to": 8,
+            "campus": "本部",
+            "classroom": "樸306"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "此課程主要讓學生具備線性代數的基本知識，及應用所學到的知識處理向量空間問題。課程內容將包括矩陣、向量、線性方程式、線性轉換、行列式、子空間、特徵值、特徵向量、正交及向量空間等。",
+    "goals": [
+        "此課程主要讓學生具備線性代數的基本知識，及應用所學到的知識處理向量空間問題。課程內容將包括矩陣、向量、線性方程式、線性轉換、行列式、子空間、特徵值、特徵向量、正交及向量空間等。"
+    ],
+    "syllabus": "1.  課程介紹及線性代數簡介 (09/13)\n2.  Matrixes and Systems of Equations(1) (09/20)\n3.  Matrixes and Systems of Equations(2) (09/27)\n4.  Matrixes and Systems of Equations(3) (10/04)\n5.  Determinants (10/11)\n6.  Vector Spaces(1) (10/18)\n7.  Vector Spaces(2) (10/25)\n8.  Vector Spaces(3)(11/01)\n9.  期中考(範圍為期中考前的所有內容) (11/08)\n10.  Linear Transformations(1) (11/15)\n11.  Linear Transformations(2) (11/22)\n12.  Orthogonality(1) (11/29)\n13.  Orthogonality(2) (12/06)\n14.  Orthogonality(3) (12/13)\n15.  Eigenvalues and Eigenvectors(1) (12/20)\n16.  Eigenvalues and Eigenvectors(2) (12/27)\n17.  Eigenvalues and Eigenvectors(3) (01/03)\n18.  期末考(範圍為期末考前的所有內容) (01/10)",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "老師講授自編教材及教科書內容"
+        },
+        {
+            "type": "媒體融入教學",
+            "note": "使用線上學習系統進行作業繳交、線上討論及其他線上教學活動"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 20,
+            "note": "練習老師指定的練習題/隨堂考"
+        },
+        {
+            "type": "期中考",
+            "weight": 30,
+            "note": "期中考前老師上課的內容"
+        },
+        {
+            "type": "期末考",
+            "weight": 30,
+            "note": "期末考前老師上課的內容"
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 10,
+            "note": "課堂討論參及線上活動參與的積極度"
+        },
+        {
+            "type": "出席",
+            "weight": 10,
+            "note": "學生出席的次數"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

@@ -1,0 +1,90 @@
+{
+    "year": 107,
+    "term": 1,
+    "name": "資料分析（一）",
+    "teachers": [
+        "譚克平"
+    ],
+    "department": "SM45",
+    "code": "SEC0039",
+    "credit": 3,
+    "serial": 2672,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 1,
+            "from": 10,
+            "to": 12,
+            "campus": "公館",
+            "classroom": "教室自排"
+        }
+    ],
+    "programs": [
+        "大數據學程"
+    ],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "What will be covered in this class will depend on the background of the participants as well as their interests. Basically, the following topics are intended to be covered to a certain extent. However, the technicality that we will go through will again be dependent on the background of the participants. Participants will be required to review the basics in hypothesis testing up to the level covered in a typical elementary statistics course. This course will emphasize on the conceptual understanding as well as the technicality behind the statistical concepts. Various data analyses procedures by means of SAS will be discussed in classes. Emphasis will be on the interpretation of the printouts. Course grade will be determined based on class attendance record, an exam, several exercises and one project.",
+    "goals": [
+        "具備基礎統計概念",
+        "具備基礎資料分析能力",
+        "具備批判研究分析方法的能力與態度",
+        "具備研究與教學之實務能力"
+    ],
+    "syllabus": "1.      Basic ideas of statistics, review of hypothesis testing, tests of normality and detection of outliers, tests of single proportion and the equality of two proportions\n\n2.      Nonparametric or distribution free tests: differences between parametric and nonparametric tests; Mann-Whitney U test, Wilcoxon’s matched pairs signed-rank test\n\n3.      Power: the concept of type I error, type II error and power; how to compute power for z tests; factors that affect power; power curves for 1-tailed z test and 2-tailed z test; computation of sample sizes; power tables\n\n4.      Escalation of type I errors when conducting multiple tests\n\n5.      Introduction to one way ANOVA: why test variances when the null concerns only means; basic concepts about sum of squares and degrees of freedom; SS between, SS within, SS total; mean squares, F test, follow-up test\n\n6.      Fisher’s conceptualization of ANOVA, further concepts about sum of squares\n\n7.      Linear model approach to ANOVA\n\n8.      Planned comparisons: linear contrasts; degree of freedom of contrast; test of contrasts; trend analysis\n\n9.      Follow-up tests, multiple comparison, multiplicity: Tukey test, Tukey-Kramer test; Scheffe’s test; Dunnett’s test, Bonferroni’s procedure, Sidak’s procedure, Holm’s procedure\n\n10.  Two way ANOVA: factorial design; main effects; interaction effect; meaning of interaction; test of interaction and interpretation; simple main effect; fixed model; random model; mixed model\n\n11.  Repeated measures: one way repeated measures; the meaning and test of sphericity; adjustment of the degrees of freedom by means of the Huynh-Feldt approach and the Greenhouse-Geisser approach; introduction to the multivariate approach, ANOVA approach to reliability of test instrument\n\n12.  Analysis of covariance: basic assumptions, rationale, and interpretation of printout, Johnson-Neyman approach",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "說明基礎統計與量化資料分析方法"
+        },
+        {
+            "type": "問題解決教學",
+            "note": "問題範例說明"
+        },
+        {
+            "type": "實驗/實作",
+            "note": "分析方法實作練習"
+        },
+        {
+            "type": "媒體融入教學",
+            "note": "分析軟體操作"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 20,
+            "note": "回家作業"
+        },
+        {
+            "type": "期中考",
+            "weight": 25,
+            "note": "主題1-6"
+        },
+        {
+            "type": "期末考",
+            "weight": 25,
+            "note": "主題7-12"
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 10,
+            "note": "課堂參與討論"
+        },
+        {
+            "type": "出席",
+            "weight": 20,
+            "note": "出席情況"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

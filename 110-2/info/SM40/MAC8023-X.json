@@ -1,0 +1,68 @@
+{
+    "year": 110,
+    "term": 2,
+    "name": "李代數專題",
+    "teachers": [
+        "劉家新",
+        "孫維良"
+    ],
+    "department": "SM40",
+    "code": "MAC8023",
+    "credit": 3,
+    "serial": 2616,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 3,
+            "from": 2,
+            "to": 4,
+            "campus": "公館",
+            "classroom": "數學館310研討室"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "李代數在許多領域如微分幾何和物理上面，都有重要的角色。本課程建立在李代數的基礎下，進一步探討semisimple Lie algebras、Lie groups ，以及Lie groups 和 Lie algebras的關係。希望學生習得李代數相關進階知識，作為學生從事相關領域研究時之基礎。",
+    "goals": [
+        "李代數在許多領域如微分幾何和物理上面，都有重要的角色。本課程建立在李代數的基礎下，進一步探討semisimple Lie algebras、Lie groups ，以及Lie groups 和 Lie algebras的關係。希望學生習得李代數相關進階知識，作為學生從事相關領域研究時之基礎。"
+    ],
+    "syllabus": "  \nRoot systems  \n1\\. Classification of root systems (2 weeks)  \n2\\. Construction of root systems and automorphisms (1 week)  \n3\\. Abstract theory of weights (1 week)  \n  \nIsomorphism theorems and conjugacy theorems  \n4\\. Isomorphism theorems (1 week)  \n5\\. Cartan subalgebras (1 week)  \n6\\. conjugacy theorems (2 weeks)  \n  \nClassification of finite dimensional semisimple Lie algebras  \n7\\. Universal enveloping algebras (2 weeks)  \n8\\. Generators and relations (2 weeks)  \n9\\. The simple algebras (1 week)  \n  \nRepresentation theory of finite dimensional semisimple Lie algebras  \n10\\. Weights and maximal vectors (1 week)  \n11\\. Finite dimensional modules (1 week)  \n12\\. Multiplicity formula (1 week)  \n13\\. Characters (1 week)  \n14\\. Formula of Weyl, Kostant and Steinberg (1 week)",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "課堂討論參與",
+            "weight": 20,
+            "note": ""
+        },
+        {
+            "type": "出席",
+            "weight": 20,
+            "note": ""
+        },
+        {
+            "type": "報告",
+            "weight": 60,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

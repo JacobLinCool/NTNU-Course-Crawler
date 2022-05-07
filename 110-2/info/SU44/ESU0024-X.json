@@ -1,0 +1,72 @@
+{
+    "year": 110,
+    "term": 2,
+    "name": "應用數學（二）",
+    "teachers": [
+        "陳賢修"
+    ],
+    "department": "SU44",
+    "code": "ESU0024",
+    "credit": 3,
+    "serial": 2936,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 2,
+            "to": 4,
+            "campus": "公館",
+            "classroom": "Ｓ602"
+        }
+    ],
+    "programs": [],
+    "comment": "修過微積分及應用數學(一)後，較適合修習本門課程。",
+    "restrict": "◎課程開放上修",
+    "form_s": "2",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程主要教導地科系同學認識多變數微積分的觀念、線性代數、Fourier分析、微分方程之各種計算基本技巧，並加強分析的能力，使得同學們瞭解數學在物理、化學、工程與其他各方面的應用。本課程偏重在計算層面。",
+    "goals": [
+        "本課程主要教導地科系同學認識多變數微積分的觀念、線性代數、Fourier分析、微分方程之各種計算基本技巧，並加強分析的能力，使得同學們瞭解數學在物理、化學、工程與其他各方面的應用。本課程偏重在計算層面。"
+    ],
+    "syllabus": "16+2. 最後兩周將指定教材讓學生自主學習\n\n教學目標:  本課程主要教導地科系同學認識 多變數微積分的觀念、Fourier分析、微分方程之各種計算基本技巧，並加強分析的能力，使得同學們瞭解數學在物理、化學、工程與其他各方面的應用。本課程偏重在計算層面。  \n\n1.  線性代數-線性系統(3-4週)：矩陣基本運算，Gauss消去法，Gauss-Jordan Elimination，線性系統的存在唯一的條件。\n2.  線性代數-特徵值問題(3-4週)︰特徵根，特徵向量，對稱矩陣，垂直矩陣，skew-symmetric matrices。\n3.  向量微積分(3-4週)：多變量函數，曲線弧長，函數梯度，雙重積分，Green’s theorem，曲面積分，散度，Stokes’s Theorem。\n4.  傅立葉分析(3-4週)： 傅立葉級數，傅立葉Integral，傅立葉Cosine 以及Sine變換，分離變數法，熱方程與傅立葉級數。",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 10,
+            "note": ""
+        },
+        {
+            "type": "期中考",
+            "weight": 40,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 40,
+            "note": ""
+        },
+        {
+            "type": "出席",
+            "weight": 10,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

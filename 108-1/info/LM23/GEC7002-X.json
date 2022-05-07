@@ -1,0 +1,68 @@
+{
+    "year": 108,
+    "term": 1,
+    "name": "社會經濟地理資訊系統",
+    "teachers": [
+        "周學政"
+    ],
+    "department": "LM23",
+    "code": "GEC7002",
+    "credit": 2,
+    "serial": 1669,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 0
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 6,
+            "to": 7,
+            "campus": "本部",
+            "classroom": "教室自排"
+        }
+    ],
+    "programs": [],
+    "comment": "上課教室：文學院勤10F地理系電腦教室。",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 2,
+    "description": "近年來，人文地理、社會、經濟、歷史等社會及人文科學開始採用地理資訊系統作為研究工具，也發展出一些新的概念與分析工具。本課程目的有二：\n1.介紹社會經濟現象的空間特性及分析方法。\n2.學習在GIS系統中，建立社經現象資料庫與分析社經資料",
+    "goals": [
+        "介紹社會經濟現象的空間特性及分析方法",
+        "學習在GIS系統中，建立社經現象資料庫與分析社經資料"
+    ],
+    "syllabus": "本課程將包含GIS、統計及空間分析等內容，因考慮 修課同學的背景差異，將根據修課同學狀況，調整授課內容。  \n也歡迎有意修課同學，暑期先來討論，預作準備。  \n  \n1\\. Introduction  \n2\\. Ontology of Socio-economic geographic data 人文社經資料的特性  \n3\\. Scale of Socio-economic Analysis    人文社經資料與理論的空間尺度  \n4\\. Ecological Fallacy and Modifiable Area Unity Problem  空間統計單元的重要性  \n5\\. Linking Spatial Location and Socio-Economic data  如何將社經資料空間化  \n6\\. Visualizing Socio-economic Data  人文社經空間資料的呈現     \n7\\. Designing Socio-economic GIS database  人文社經資料庫的設計  \n8\\. Government and Private Socio-Economic Databases  現有資料庫的應用  \n9\\. Spatial Autocorrelation principle  空間自相關原理  \n10.Spatial Autocorrelation Appication  空間自相關應用  \n11.Spatial Sampling and Interpolation for Social-Economic Data  人文社經資料的空間抽樣與空間推估  \n12\\. Spatio-Temporal data 時空資料  \n13\\. Big Data  巨量資料的探討  \n14.Application – Market Analysis  案例─市場分析  \n15.Application – Crime      案例─犯罪分析  \n16.Application – Urban geography  案例─都市地理  \n17.Application – Election  案例─選舉  \n18.Application – Medical geography  案例─醫學地理",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "其他",
+            "note": "文獻閱讀，學期報告"
+        }
+    ],
+    "grading": [
+        {
+            "type": "課堂討論參與",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "報告",
+            "weight": 40,
+            "note": ""
+        },
+        {
+            "type": "其他",
+            "weight": 30,
+            "note": "指定論文評讀"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

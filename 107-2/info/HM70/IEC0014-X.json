@@ -1,0 +1,84 @@
+{
+    "year": 107,
+    "term": 2,
+    "name": "多變項統計分析",
+    "teachers": [
+        "李懿芳"
+    ],
+    "department": "HM70",
+    "code": "IEC0014",
+    "credit": 2,
+    "serial": 1123,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 3,
+            "from": 10,
+            "to": 11,
+            "campus": "本部",
+            "classroom": "研討四"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 2,
+    "description": "多變項分析是當前分析研究資料的重要方法之一。本課程旨在協助學生瞭解各種多變量分析方法之基本概念，辨識適用問題及使用時機，以及各項方法當前的應用現況；並透過實作練習培養學生應用相關分析軟體的能力，且能正確解釋、分析及報告結果之能力。",
+    "goals": [
+        "瞭解各種多變量分析方法之基本概念",
+        "辨識各種多變量分析方法適用問題及使用時機",
+        "培養操作相關分析軟體的能力",
+        "具備正確解釋、分析結果及撰寫報告之能力"
+    ],
+    "syllabus": "主題 (每週3小時)  \n1. Introduction of statistical methods for multivariate analysis\n\n2. Review of basic statistics/ SPSS\n\n3. Multiple regression\n\n4. Logistic regression\n\n5. Discriminant analysis\n\n6. Canonical correlation analysis\n\n7. Midterm exam\n\n8. Principal components analysis\n\n9. Common factor analysis\n\n10. Cluster analysis\n\n11. MANOVA\n\n12. Final exam",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "講述多變項分析方法與概念"
+        },
+        {
+            "type": "實驗/實作",
+            "note": "教師示範操作與學生實際操作SPSS"
+        },
+        {
+            "type": "其他",
+            "note": "學生報告運用多變量方法進行研究之相關文獻"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 30,
+            "note": "包括課堂實作練習及課後實作作業"
+        },
+        {
+            "type": "期中考",
+            "weight": 25,
+            "note": "上機操作與統計結果解釋"
+        },
+        {
+            "type": "期末考",
+            "weight": 25,
+            "note": "上機操作與統計結果解釋"
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 10,
+            "note": "出席與參與課堂討論情形"
+        },
+        {
+            "type": "報告",
+            "weight": 10,
+            "note": "學生根據每次介紹之主題找尋一篇研究文章，介紹其內容與統計方法之運用，並進行評析。"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

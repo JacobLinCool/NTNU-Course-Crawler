@@ -1,0 +1,84 @@
+{
+    "year": 108,
+    "term": 2,
+    "name": "語料庫語言學",
+    "teachers": [
+        "陳正賢"
+    ],
+    "department": "LM21",
+    "code": "ENC2036",
+    "credit": 3,
+    "serial": 1528,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 1,
+            "from": 5,
+            "to": 7,
+            "campus": "本部",
+            "classroom": "雲201"
+        }
+    ],
+    "programs": [],
+    "comment": "上課教室在雲和街大樓二樓，地址為雲和街1號(位於雲和小火鍋斜對面、Cafe a la mode正對面)，從師大側門右轉看見Starbucks右轉進入巷子步行約2分鐘(130公尺)，右手邊就會看到雲和街大樓，亦可使用Google Maps APP查詢位置。請同學使用學生證感應，進出雲和街上課教室。",
+    "restrict": "◎課程不開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "This course aims to introduce theories and practices of Corpus Linguistics as a scientific discipline of its own. Corpus Linguistics has now been considered an interdisciplinary subject, requiring knowledge of linguistic theories, quantitative statistics and data processing. Therefore, this course will provide not only the necessary theoretical foundation but also practical computational skills for students who are interested in conducting corpus-based linguistic research or language-related research. This course is extremely hands-on and will lead the students through classic examples of these corpus-based applications via in-class theme-based tutorial sessions. Unlike most of the corpus linguistic courses offered in other universities, we do not introduce you to ready-made applications or software packages (e.g., Wordsmith, AntConc, Sketch Engine, LancBox, etc.). We hope to point you to the power of coding in computational text analytics. By the end of this course, students should be expected to have achieved the necessary computational proficiency and be able to perform comparable corpus-based analyses on their own data or research questions. In particular, the weekly tutorials will stress the issues of computational text analytics (e.g., web crawling, regular expression, tokenization, segmentation, concordances, collocations, keyword analysis) and statistical processing (e.g., parametric statistical analyses) via hands-on implementation with the language. This course will be a prerequisite for more advanced courses such as ENC2045 Computational Linguistics and ENC2056 Topics on Quantitative Corpus Linguistics.",
+    "goals": [
+        "This course offers an introduction of corpus linguistics for graduate students, including the necessary tools and techniques for doing corpus-based studies and annotation projects."
+    ],
+    "syllabus": "若需更多課程相關訊息，請參考課程網頁<[https://alvinntnu.github.io/NTNU\\_ENC2036/](https://alvinntnu.github.io/NTNU_ENC2036/)\\>，考慮修課同學，請務必先行閱讀[FAQ](https://alvinntnu.github.io/NTNU_ENC2036/FAQ.html)。此課程有先修課程要求。\n-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------\n\nENC2036: Corpus Linguistics\n===========================\n\n_This site is last-updated on 2020-02-22_\n\n* * *\n\n Annoucements\n=============\n\nImportant course information will be posted on this web page and announced in class. You are responsible for all material that appears here and should check this page for updates frequently.\n\n*   **2020-02-22**: The course materials will be updated on a weekly basis. Please note that not all the materials have been complete and make sure that you visit this website regularly to get the most up-to-date materials/information.\n*   **2020-02-24**: Due to the outbreak of the coronavirus disease (COVID-19), the course schedule has been updated in response to the change of the semester start.\n*   **2020-01-15**: For those who are considering taking this course, please read the [FAQ](https://alvinntnu.github.io/NTNU_ENC2036/FAQ.html) first before you make the decision. Thank you very much.\n\n* * *\n\n Course Description\n===================\n\nThis course aims to introduce theories and practices of Corpus Linguistics as a scientific discipline of its own. Corpus Linguistics has now been considered an interdisciplinary subject, requiring knowledge of linguistic theories, quantitative statistics and data processing. Therefore, this course will provide not only the necessary theoretical foundation but also practical computational skills for students who are interested in conducting corpus-based linguistic research or language-related research. Students are expected to learn:\n\n*   the methodological foundations of Corpus Linguistics\n*   the theoretical bases of Corpus Linguistics\n*   the technical designs and configuration of standard corpora construction\n*   the common applications of corpus-linguistic methodology:\n    *   concordances\n    *   frequency lists\n    *   collocations\n    *   keywords\n    *   lexical bundles (n-grams)\n    *   wordclouds\n    *   multi-dimensional vector-space representation of words and texts\n*   the adequate knowledge for how to make use of existing structured corpora (e.g., BNC, CHILDES, COCA, Sinica Corpus, NCCU Spoken Corpus, ICNALE)\n\nThis course is extremely hands-on and will lead the students through classic examples of these corpus-based applications via in-class theme-based tutorial sessions. Unlike most of the corpus linguistic courses offered in other universities, we do not introduce you to ready-made applications or software packages (e.g., Wordsmith, AntConc, Sketch Engine, LancBox, etc.). We hope to point you to the power of coding in computational text analytics. By the end of this course, students should be expected to have achieved the necessary computational proficiency and be able to perform comparable corpus-based analyses on their own data or research questions. In particular, the weekly tutorials will stress the issues of computational text analytics (e.g., web crawling, regular expression, tokenization, segmentation, concordances, collocations, keyword analysis) and statistical processing (e.g., parametric statistical analyses) via hands-on implementation with the language . This course will be a prerequisite for more advanced courses such as _ENC2045 Computational Linguistics_ and _ENC2056 Topics on Quantitative Corpus Linguistics_.\n\n* * *\n\n Course Schedule\n================\n\nWeek\n\nDate\n\nTopic\n\nWeek 1\n\n2020-03-02\n\nCorpus Linguistics: Fundamentals\n\nWeek 2\n\n2020-03-09\n\nR Fundamentals I\n\nWeek 3\n\n2020-03-16\n\nR Fundamentals II\n\nWeek 4\n\n2020-03-23\n\nData Collection and Corpus Creation: HTML and Web Crawler\n\nWeek 5\n\n2020-03-30\n\nConcordances, Frequency Lists, Collocations\n\nWeek 6\n\n2020-04-06\n\nTokenization\n\nWeek 7\n\n2020-04-13\n\nMidterm Exam\n\nWeek 8\n\n2020-04-20\n\nKeywords and Lexical Bundles (N-grams)\n\nWeek 9\n\n2020-04-27\n\nParts-of-Speech Tagging\n\nWeek 10\n\n2020-05-04\n\nData Retrieval and Coding: Regular Expressions\n\nWeek 11\n\n2020-05-11\n\nData Retrieval and Coding: Experimental Design\n\nWeek 12\n\n2020-05-18\n\nInferential Statistics and Significance Test\n\nWeek 13\n\n2020-05-25\n\nChinese Text Analytics\n\nWeek 14\n\n2020-06-01\n\nStructured Corpora Processing and XML\n\nWeek 15\n\n2020-06-08\n\nMultidimensional Vector-space Representation\n\nWeek 16\n\n2020-06-15\n\nFinal Exam\n\nWeek 17\n\n2020-06-22\n\nProject-based Assignment I\n\nWeek 18\n\n2020-06-29\n\nProject-based Assignment II\n\n* * *\n\n Course Requirement\n===================\n\n![](https://alvinntnu.github.io/NTNU_ENC2036/index_files/figure-html/unnamed-chunk-2-1.png)\n\n* * *\n\n Course Materials\n=================\n\nAll the course materials are available on the course website. Please consult the instructor for the direct link to the course materials. They will be provided as a series of online packets (i.e., handouts, script source codes etc.) on the course website. These teaching materials are based on the following recommended readings.\n\n1.  Stefanowitsch, A. (2019). Corpus Linguistics: A Guide to the Methodology. (In Press)\n2.  Gries, Stefan T. (2017) Quantitative Corpus Linguistics with R: A Practical Introduction. Second Edition. Routledge.\n3.  Winter, Bodo. (2019). Statistics for Linguists: An Introduction Using R. NY:Routledge.\n4.  Desagulier, Guillaume. (2018). Corpus Linguistics and Statistics with R. Cham, Switzerland: Springer.\n5.  Brezina, Vaclav. (2018). Statistics in Corpus Linguistics: A Practical Guide. Cambridge: Cambridge University Press.\n\n* * *\n\n Course Website\n===============\n\n*   [ENC2036 Corpus Linguistics](https://alvinntnu.github.io/NTNU_ENC2036/)\n\n Email Address\n==============\n\nYou can reach me at [alvinchen@ntnu.edu.tw](mailto:alvinchen@ntnu.edu.tw).\n\n Office Hours\n=============\n\nBy appointment.\n\n Questions?\n===========\n\nIf you have any further questions related to the course, please consult [FAQ](https://alvinntnu.github.io/NTNU_ENC2036/FAQ.html) on our course website or write me at any time at [alvinchen@ntnu.edu.tw](mailto:alvinchen@ntnu.edu.tw).",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": ""
+        },
+        {
+            "type": "問題解決教學",
+            "note": ""
+        },
+        {
+            "type": "實驗/實作",
+            "note": ""
+        },
+        {
+            "type": "媒體融入教學",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "期中考",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 10,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

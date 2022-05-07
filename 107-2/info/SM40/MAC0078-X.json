@@ -1,0 +1,73 @@
+{
+    "year": 107,
+    "term": 2,
+    "name": "解析數論（二）",
+    "teachers": [
+        "許志農"
+    ],
+    "department": "SM40",
+    "code": "MAC0078",
+    "credit": 3,
+    "serial": 2602,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 6,
+            "to": 8,
+            "campus": "公館",
+            "classroom": "教室自排"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "讓學生瞭解利用解析工具處理數論的方法，以作為將來研究高深數論的準備。",
+    "goals": [
+        "訓練學生掌握解析方法處理數論的原理",
+        "可以用解析數論的語言進行溝通與表達",
+        "培養學生直覺，欣賞與應用解析數論至其它領域的能力"
+    ],
+    "syllabus": "1\\. Gauss Reciprocity law, Quadratic extension over Q(4週)。 2. P-adic fields(4週)。 3. Algebraic Number Fields and Algebraic Function Fields (4週)。 4. Elliptic Curves(4週)。",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": ""
+        },
+        {
+            "type": "問題解決教學",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "期中考",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 40,
+            "note": ""
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 30,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

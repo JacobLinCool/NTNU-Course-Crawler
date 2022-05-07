@@ -1,0 +1,66 @@
+{
+    "year": 108,
+    "term": 1,
+    "name": "人體生理學",
+    "teachers": [
+        "呂國棟",
+        "林豊益",
+        "張孜菁"
+    ],
+    "department": "SU43",
+    "code": "BIU0039",
+    "credit": 3,
+    "serial": 2988,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 32
+    },
+    "schedule": [
+        {
+            "day": 1,
+            "from": 2,
+            "to": 4,
+            "campus": "公館",
+            "classroom": "綜合館3F國際會議廳"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎必須先修過【BIU0168  普通生物學甲（一）】、【BIU0169  普通生物學甲（二）】、【BIU0170  普通生物學乙】其中一門",
+    "form_s": "2",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程目標為介紹人體生理學之基本概念，使學生瞭解動物各系統的功能，與運作機制。",
+    "goals": [
+        "能熟悉並認知人體生理系統的功能及機制。",
+        "能體認人體生理學的內涵，並以人體生理學為基礎探討相關議題。",
+        "能夠吸收專業知識並且將其轉化與表達"
+    ],
+    "syllabus": "週次   章節   授課內容                              授課教授\n\n1     6      Interactions between cells and envrionment    曾庸哲\n\n2     7      Nervous system                        曾庸哲\n\n3     8      Central nervous system                曾庸哲\n\n4     9      Autonomic nervous system              曾庸哲\n\n5     10     Sensory system                        曾庸哲\n\n6            1st Exam                               曾庸哲\n\n7     11     Endocrine glands                      呂國棟\n\n8     12     Muscle                                呂國棟\n\n9     13     Circulatory systems                   呂國棟\n\n10    14     Circulatory systems                   呂國棟\n\n11    15     Immune system                         呂國棟\n\n12           2nd Exam                               呂國棟\n\n13    16     Respiratory system                    林豊益\n\n14    17     Physiology of Kidenys                 林豊益\n\n15    18     Digestive system                      林豊益\n\n16    19     Regulation of metabolish              林豊益\n\n17    20     Reproduction                          林豊益\n\n18      3rd Exam 林豊益",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "使用一般課本、自編講義媒材授課"
+        },
+        {
+            "type": "媒體融入教學",
+            "note": "運用數位平台與自製簡報檔案教學"
+        }
+    ],
+    "grading": [
+        {
+            "type": "期中考",
+            "weight": 50,
+            "note": "選擇題(30%) 簡答題(20%) 問答題(40%)"
+        },
+        {
+            "type": "期末考",
+            "weight": 50,
+            "note": "選擇題(30%) 簡答題(20%) 問答題(40%)"
+        }
+    ],
+    "prerequisite": "◎必須先修過【BIU0168  普通生物學甲（一）】、【BIU0169  普通生物學甲（二）】、【BIU0170  普通生物學乙】其中一門",
+    "general_core": []
+}

@@ -1,0 +1,84 @@
+{
+    "year": 108,
+    "term": 2,
+    "name": "運動解剖學",
+    "teachers": [
+        "李恆儒"
+    ],
+    "department": "AU30",
+    "code": "PEU2001",
+    "credit": 2,
+    "serial": 77,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 5,
+            "from": 8,
+            "to": 9,
+            "campus": "本部",
+            "classroom": "誠302"
+        }
+    ],
+    "programs": [
+        "運動傷害防護學程"
+    ],
+    "comment": "",
+    "restrict": "",
+    "form_s": "1",
+    "classes": "",
+    "dept_group": "",
+    "hours": 2,
+    "description": "本課程為解剖學的應用課程，藉由不同的動作模式來瞭解身體肌肉如何來協助完成動作、身體的肌肉如何來拮抗力量過大的動作、身體的肌肉如何在運動中來維持姿勢與平衡。透過這課程，可以協助體育系學生在動作模式的認知以及肌肉骨骼功能的認識，未來不論是教學或自我訓練皆可將所學有所運用。",
+    "goals": [
+        "瞭解自己的身體，包含肌肉骨骼系統",
+        "瞭解身體肌肉組織在運動時的功能與重要性",
+        "能夠將所學用於教學與運動訓練"
+    ],
+    "syllabus": "一\n\n課程介紹 \n\n二\n\nChap 1 解剖學術語  Chap 2 骨骼、關節、肌肉及其相關結構\n\n三\n\nChap 3 活體解剖學技巧  Chap 4 肩部\n\n四\n\nChap 5 肘部\n\n五\n\nChap 6 前臂、手腕和手掌\n\n六\n\nChap 7 上肢的神經、動脈和靜脈\n\n七\n\nChap 8 脊椎和頭部結構\n\n八\n\nChap 9 呼吸器官\n\n九\n\n期中考\n\n十\n\nChap 10 軀幹結構、胸部和腹部的神經、動脈和靜脈\n\n十一\n\nChap 11 髖部\n\n十二\n\nChap 12 膝部(1)\n\n十三\n\nChap 12 膝部(2)\n\n十四\n\nChap 13 踝和足部\n\n十五\n\nChap 14 下肢的神經、動脈和靜脈\n\n十六\n\n肌肉功能綜合複習\n\n十七\n\n期末考\n\n十八\n\n自主學習",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "教師課堂授課"
+        },
+        {
+            "type": "討論法",
+            "note": "教師與學生課堂討論"
+        },
+        {
+            "type": "問題解決教學",
+            "note": "動作分析理論之應用"
+        },
+        {
+            "type": "實地考察、參訪",
+            "note": "運動傷害防護室實地參訪"
+        }
+    ],
+    "grading": [
+        {
+            "type": "期中考",
+            "weight": 30,
+            "note": "筆試"
+        },
+        {
+            "type": "期末考",
+            "weight": 30,
+            "note": "筆試"
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 20,
+            "note": "課堂互動"
+        },
+        {
+            "type": "出席",
+            "weight": 20,
+            "note": "基本要求"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

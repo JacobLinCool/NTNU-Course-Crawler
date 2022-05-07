@@ -1,0 +1,71 @@
+{
+    "year": 108,
+    "term": 2,
+    "name": "近代物理",
+    "teachers": [
+        "廖書賢"
+    ],
+    "department": "HU77",
+    "code": "OEU0011",
+    "credit": 3,
+    "serial": 1270,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 5,
+            "from": 7,
+            "to": 9,
+            "campus": "公館",
+            "classroom": "Ｃ004"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "2",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程旨在古典物理進入近代物理世界，介紹20世紀以後所發展的物理學。強調近代物理與早先古典物理的不同觀念，以及應用實驗結果而得到正確的理論。",
+    "goals": [
+        "簡介古典物理及回顧，討論無法解釋之現象",
+        "20世紀以後所發展的物理學解釋諸多之物理現象",
+        "近代物理實驗介紹",
+        "實作示範或演示"
+    ],
+    "syllabus": "週次/教學大綱及進度  \n1\\. Introduction  \n2\\. Relativity (1)  \n3\\. Relativity (2)  \n4\\. Particle Properties of Waves (1)  \n5\\. Particle Properties of Waves (2)  \n6\\. Wave Properties of Particles  \n7\\. Atomic Structure (1)  \n8\\. Atomic Structure (2)  \n9\\. Midterm exam  \n10\\. Quantum Mechanics (1)  \n11\\. Quantum Mechanics (2)  \n12\\. Quantum Mechanics (3)  \n13\\. Quantum Theory of Hydrogen Atom (1)  \n14\\. Quantum Theory of Hydrogen Atom (2)  \n15\\. Many-Electron Atoms  \n16\\. Molecules  \n17\\. Self learning for exercise  \n18\\. Final exam",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "講述近代物理發展歷程，相關概念之原理、推導過程以及其應用實例。"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 30,
+            "note": "學生撰寫課後作業，由學生之繳交與得分情況評量作業成績。"
+        },
+        {
+            "type": "期中考",
+            "weight": 30,
+            "note": "測驗學生對近代物理學科的了解與熟悉程度，命題形式為簡答題。"
+        },
+        {
+            "type": "期末考",
+            "weight": 30,
+            "note": "測驗學生對近代物理學科的了解與熟悉程度，命題形式為簡答題。"
+        },
+        {
+            "type": "出席",
+            "weight": 10,
+            "note": "由學生上課出席狀況評量。"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

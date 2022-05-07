@@ -1,0 +1,67 @@
+{
+    "year": 109,
+    "term": 1,
+    "name": "固態物理導論（一）",
+    "teachers": [
+        "游至仕"
+    ],
+    "department": "SU41",
+    "code": "PHC9001",
+    "credit": 3,
+    "serial": 2873,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 6,
+            "to": 8,
+            "campus": "公館",
+            "classroom": "Ｓ304"
+        }
+    ],
+    "programs": [
+        "太陽能源與工程學程"
+    ],
+    "comment": "",
+    "restrict": "",
+    "form_s": "",
+    "classes": "9",
+    "dept_group": "",
+    "hours": 3,
+    "description": "介紹晶體各種物理性質.期望學生了解固態物理基本概念及其應用基礎.",
+    "goals": [
+        "物理思辨與討論能力",
+        "口語表達及簡報能力",
+        "熟悉各固態物理相關次領域之研究內容",
+        "研究討論過程中的資料收集與統整"
+    ],
+    "syllabus": "1\\. 課程介紹:\n\n固態物理 (或是更廣義來說，凝聚態物理) 是物理的主要分支。固態材料包含了金屬，絕緣體，半導體，超導，磁性材料等等。雖然固態物理系統五花八門，但我們依然能從材料的原子空間結構，電子的能帶結構與電性，對稱性 (symmetry)和序參量 (order parameter)，或是拓樸性 (topology)，給出普適性(Universal)的理解。在理解材料的特性後，我們希望能更進一步有實際的應用 (像是創造新的量子元件)。本門學科其主要目的是從微觀角度，來理解固態材料的宏觀熱力學特性。這裡指的微觀角度，是量子物理與統計力學。所以本門導論課的對象，建議需具備基礎的量子物理及熱統計知識。  \n  \n  \n2\\. 教學進度:\n\n固態物理導論有上下學期。目前我的計畫是，第一學期的上課內容，主要是依據 The Oxford Solid State Basics 這本書，預計一週會講授一至二章。因為時間關係，會省略一些章節，但仍然希望第一學期過後，能涵蓋這本書大部分的內容。  \n  \n因為固態物理的內容非常廣，所以 The Oxford Solid State Basics 這本書，也省略許多重要的題目 ，像是超導物理，二維材料，整數與分數霍爾效應，拓樸絕緣體與外爾半金屬，光與物質的交互作用等等。  \n  \n在第二學期，我們會用更普適的角度，去理解固態物理。第二學期的課程會包含: 線性響應 (Linear response, fluctuation-dissipation theorem)， 朗道費米液體理論 (Landau Fermi Liquid theory)，朗道相變理論 (Landau theory of phase transitions ) ,  安德森局域化 (Anderson localization) 等等 。\n\n這是目前的計畫，如果大家很有野心，我們也能嘗試更難的主題。  \n  \n3\\. 評分: 目前暫定沒有期中考，但大約會有4-5次作業 (50%)。期末需繳交期末報告 (50%)。期末報告：請從下面選取一個 Physics Today 的文章來撰寫報告。\n\n**1\\. The diverse world of liquid crystals, page 54, Sept. 2007.  \n2\\. When fermions become bosons: pairing in ultra-cold gases, Oct. 2008.  \n3\\. Do quantum spin liquids exist?, page 30, Aug. 2016.  \n4\\. Geometrical frustration, page 24, Feb. 2006.**  \n**5\\. The physics of boron nitride nanotubes, page 34, Nov. 2010.   \n6\\. Two-dimensional Van der Waals materials, page 38, Sept 2016.  \n7\\. The graphene-semiconductor Schottky junction, page 46, Sept 2016.  \n8\\. Viscous electron fluids, page 28, June 2020.  \n9\\. Graphene: Exploring carbon flatland, page 35, Aug. 2007.  \n10\\. Machine learning meets quantum physics, page 48, March 2019.  \n11\\. Topological phases and quasiparticle braiding, page 38, July 2012.  \n12\\. Artificial gauge fields with ultracold atoms,  page 38, Jan. 2019.  \n13\\. Time crystals in periodically driven systems,  page 40, Sept. 2018.  \n14\\. Quantum optomechanics, page 29, July 2012.**  \n**15\\. Spin polarized supercurrents for spintronics, Jan 2011.  \n16\\. Phase-transition dynamics in the lab and the universe, page 47 Sept. 2007.**  \n**17\\. Quantum Criticality, page 29, Feb 2011.  \n18\\. The nearly perfect Fermi gas, page 34, May 2010.  \n19\\. The emergence of magnetic skyrmions, page 44, Mar. 2020.**  \n**20. Iron-based superconductors, page 36, August 2009; Iron-based superconductors, seven years later, page 46, Jun. 2015.  \n21\\. Quantum computing with semiconductor spins, page 38, Aug. 2019.**  \n**22\\. The two-fluid theory and second sound in liquid helium, page 34, Oct. 2009.  \n23. What every physicist should know about string theory, page 38 Nov 2015.  \n24\\. Anderson localization of ultracold atoms page 30, Aug. 2009; Fifty years of Anderson localization, page 24, Aug. 2009.  \n25\\. Atom-like crystal defects: From quantum computers to biological sensors, page 38, Oct. 2014.  \n26\\. Acoustic metamaterials, page 42, Jun. 2016.  \n27\\. Probing physical properties at the nanoscale, June 2008.  \n28. The quantum spin Hall effect and topological insulators, page 33, Jan. 2010.  \n29. Surprises from the spin Hall effect, page 38, Jul. 2017.  \n30\\. Atomic spins on surfaces, page 42, March 2015.  \n31\\. Ultrafast spectroscopy of quantum materials,  page 44, Sept. 2012.**  \n**32\\. Polariton condensates, page 42, Aug. 2010; The new era of polariton condensates, page 54, Oct. 2017.  \n33. A half century of density functional theory, page 34, July, 2015.  \n34\\. Majorana qubits for topological quantum computing, page 44, June, 2020.**",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 50,
+            "note": "5次作業，請於期限前繳交。"
+        },
+        {
+            "type": "報告",
+            "weight": 50,
+            "note": "期末報告。是否有口頭報告由修課人數決定。"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

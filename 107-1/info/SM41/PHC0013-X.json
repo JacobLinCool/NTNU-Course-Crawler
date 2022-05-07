@@ -1,0 +1,66 @@
+{
+    "year": 107,
+    "term": 1,
+    "name": "古典電動力學（一）",
+    "teachers": [
+        "張明哲"
+    ],
+    "department": "SM41",
+    "code": "PHC0013",
+    "credit": 3,
+    "serial": 2610,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 1,
+            "from": 2,
+            "to": 4,
+            "campus": "公館",
+            "classroom": "Ｅ202"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "熟悉電動力學的基本原理及其應用",
+    "goals": [
+        "使學生熟悉電動力學的基本原理",
+        "加強理性思維能力",
+        "簡介物理新知",
+        "物理研究能力培養"
+    ],
+    "syllabus": "1\\. Mathematical preliminaries\n\n2\\. The Maxwell equations\n\n3\\. Electrostatics\n\n4\\. Electric multipoles\n\n5\\. Conducting matter\n\n6\\. Dielectric matter\n\n7\\. Laplace's Equation\n\n8\\. Poisson's Equation\n\n9\\. Steady current\n\n10\\. Magnetostatics\n\n11\\. Magnetic multipoles\n\n12\\. Magnetic force and energy\n\n13\\. Magnetic matter\n\n14\\. Dynamic and quasistatic fields",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "核心課程，故以教師講授為主"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 30,
+            "note": "每 1-2 周交一次"
+        },
+        {
+            "type": "期中考",
+            "weight": 35,
+            "note": "3小時"
+        },
+        {
+            "type": "期末考",
+            "weight": 35,
+            "note": "3小時"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

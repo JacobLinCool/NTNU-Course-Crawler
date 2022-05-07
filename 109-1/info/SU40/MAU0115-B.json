@@ -1,0 +1,74 @@
+{
+    "year": 109,
+    "term": 1,
+    "name": "高等線性代數（一）",
+    "teachers": [
+        "劉容真"
+    ],
+    "department": "SU40",
+    "code": "MAU0115",
+    "credit": 3,
+    "serial": 2857,
+    "group": "B",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 4,
+            "from": 2,
+            "to": 4,
+            "campus": "公館",
+            "classroom": "Ｃ002"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "3",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程希望透過講授、閱讀、討論與實作等方式，引導學生如何利用過去所學的代數及分析課程，對線性代數的理論與應用有更深入的了解。",
+    "goals": [
+        "訓練學生掌握抽象代數的基本知識",
+        "訓練學生可以用代數的語言進行溝通、表達、寫作",
+        "培養學生的直覺、欣賞與應用高等代數至其他學科的能力"
+    ],
+    "syllabus": "1.      Vector Spaces over fields.\n\n2.      Linear Transformations and Matrices.\n\n3.      Diagonalizable, Jordan forms, Rational forms.\n\n4.      Inner Product Spaces.\n\n5.      Bilinear Forms.",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 15,
+            "note": ""
+        },
+        {
+            "type": "期中考",
+            "weight": 28,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 42,
+            "note": ""
+        },
+        {
+            "type": "其他",
+            "weight": 15,
+            "note": "小考"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

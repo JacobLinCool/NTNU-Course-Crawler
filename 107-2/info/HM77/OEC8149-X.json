@@ -1,0 +1,77 @@
+{
+    "year": 107,
+    "term": 2,
+    "name": "奈米光電子學",
+    "teachers": [
+        "蕭惠心"
+    ],
+    "department": "HM77",
+    "code": "OEC8149",
+    "credit": 3,
+    "serial": 1191,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 5
+    },
+    "schedule": [
+        {
+            "day": 3,
+            "from": 7,
+            "to": 9,
+            "campus": "公館",
+            "classroom": "Ｃ004"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "奈米光電子學是在探討奈米尺度之下的一種光電現象與技術之研究，近年在奈米科學與奈米製程技術上快速發展，奈米光電子系統在光學通訊、光學存儲、光電顯示、光電元件及積體奈米光電整合上有需多的應用，此課程講授內容包括光電子學的基本原理與相關實驗的介紹，以及利用聲、光、電、磁等效應在光電元件調製上的原理與應用。此課程可作為欲進入奈米光電子學相關研究領域之碩博士研究生的基本研修課程",
+    "goals": [
+        "了解半導體光電元件的物理、工作原理及應用"
+    ],
+    "syllabus": "1\\. Overview of the course\n\n2\\. Review of EM\n\n3. Using Labview for the visualization of EM wave property including polarization, diffraction, Jones calculus, Fabry-perot etalon, etc.\n\n4\\. Optical interference\n\n5\\. Gaussian modes\n\n6\\. Waveguide modes\n\n7\\. Optical anisotropy (reciprocal, nonreciprocal, and birefringence media)\n\n8. Eletro-optic effect and devices\n\n9. Midterm exam\n\n10. Magneto\\-optic effect and devices\n\n11\\. Acoustic-optic effect and devices\n\n12. Company or research institute visit\n\n13\\. Nonlinear optical devices\n\n14. Nonlinear optical devices\n\n15. metamaterials and metasurfaces\n\n   16-17. Final presentation  \n   18.Final exam",
+    "methodologies": [
+        {
+            "type": "實地考察、參訪",
+            "note": "Company or research institute visit"
+        },
+        {
+            "type": "媒體融入教學",
+            "note": "Using Labview for the visualization of EM wave property"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 20,
+            "note": ""
+        },
+        {
+            "type": "期中考",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 25,
+            "note": ""
+        },
+        {
+            "type": "報告",
+            "weight": 20,
+            "note": ""
+        },
+        {
+            "type": "其他",
+            "weight": 5,
+            "note": "Class notes"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

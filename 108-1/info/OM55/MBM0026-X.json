@@ -1,0 +1,83 @@
+{
+    "year": 108,
+    "term": 1,
+    "name": "顧客關係管理",
+    "teachers": [
+        "周世玉"
+    ],
+    "department": "OM55",
+    "code": "MBM0026",
+    "credit": 3,
+    "serial": 2496,
+    "group": "",
+    "quota": {
+        "limit": 30,
+        "additional": 12
+    },
+    "schedule": [
+        {
+            "day": 5,
+            "from": 7,
+            "to": 9,
+            "campus": "本部",
+            "classroom": "雲508"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "The purpose of customer relationship management (CRM) is to establish long-term relationships with customers with a customer-centric and profit-oriented thinking. A good interactive mechanism between a firm and its customers relies on the in-depth knowledge about every single individual customer. In this class, necessary techniques and tools for CRM, customer evaluation metrics, relationship marketing theory will be covered. Database marketing will be emphasized. Some important data mining tools will also be introduced students.",
+    "goals": [
+        "知識與認知層面",
+        "職能導向層面",
+        "個人特質層面",
+        "價值與倫理層面"
+    ],
+    "syllabus": " 本課程目的在於教導如何建立基於顧客為主及獲利導向的長期顧客關係.\n\n每週教學主題如下\n\n1.  Introduction (09/20)\n2.  Overview of Customer Relationships Management (09/27)\n3.  CRM, Database Marketing and Customer Value (10/4)\n4.  Implementing the CRM Strategy (10/18)\n5.  Introduction to Customer-based Marketing Metric (10/25)\n6.  Customer Value Metric – Concepts and Practices (11/1)\n7.  Mid-term (11/8, no class meeting)\n8.  CRM Articles Presentation (11/22)\n9.  CRM Articles Presentation (11/29)\n10.  Designing Loyalty Programs (12/6)\n11.  Effectiveness of Loyalty Programs (12/13)\n12.  Term project presentation (1/3)\n13.  Final exam (1/10, no class meeting)",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "每次授課先由教師講述該次單元主要內容"
+        },
+        {
+            "type": "討論法",
+            "note": "分為每次授課間討論、期刊論文報告討論、個案討論"
+        },
+        {
+            "type": "合作學習",
+            "note": "分組進行期末專題研究、撰寫報告、口頭報告"
+        },
+        {
+            "type": "專題研究",
+            "note": "分組進行期末專題研究"
+        }
+    ],
+    "grading": [
+        {
+            "type": "課堂討論參與",
+            "weight": 5,
+            "note": ""
+        },
+        {
+            "type": "出席",
+            "weight": 5,
+            "note": ""
+        },
+        {
+            "type": "報告",
+            "weight": 40,
+            "note": "CRM paper reading and presentation"
+        },
+        {
+            "type": "專題",
+            "weight": 50,
+            "note": "Term Project"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

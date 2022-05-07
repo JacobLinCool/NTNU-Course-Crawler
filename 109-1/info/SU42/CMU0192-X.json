@@ -1,0 +1,86 @@
+{
+    "year": 109,
+    "term": 1,
+    "name": "科學實例操作（一）",
+    "teachers": [
+        "陳焜銘"
+    ],
+    "department": "SU42",
+    "code": "CMU0192",
+    "credit": 2,
+    "serial": 2970,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 16,
+            "to": 10,
+            "campus": "公館",
+            "classroom": "Ｃ107"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "4",
+    "classes": "",
+    "dept_group": "",
+    "hours": 2,
+    "description": "增進及加強學生對於化學相關知識瞭解與分析",
+    "goals": [
+        "增進學生對於相關化學實驗的瞭解。",
+        "增進學生對於相關化學反應機構的瞭解。",
+        "提高學生對於化學反應催化劑合成的經驗。",
+        "提高學生對於應用催化劑在各種化學反應上的瞭解。",
+        "加強學生對於化學反應後產物的分析能力。",
+        "加強學生對於化學反應速率的分析能力。"
+    ],
+    "syllabus": "第 1~ 2週 Introduction\n\n第 3~ 6週Basic ChemicalTransformations\n\n第 7~12週Reaction Mechanisms\n\n第13~18週Chemistry Reactions in the Lab",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "授課教師在講台上說明並解釋"
+        },
+        {
+            "type": "討論法",
+            "note": "上課學生在講台上發表意見和想法"
+        },
+        {
+            "type": "實驗/實作",
+            "note": "實驗室內進行化學實驗"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 20,
+            "note": "每次實驗前收集資料並提交合理反應步驟"
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 20,
+            "note": "每次實驗前整理已收集資料並於課堂上討論"
+        },
+        {
+            "type": "出席",
+            "weight": 10,
+            "note": "如非重大事故請假，上課時間皆須出席"
+        },
+        {
+            "type": "報告",
+            "weight": 20,
+            "note": "每次實驗完畢撰寫並繳交實驗報告"
+        },
+        {
+            "type": "成果展覽",
+            "weight": 30,
+            "note": "學期結束前，將所有進行的實驗所獲得之結果整理成簡報並上台報告"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

@@ -1,0 +1,89 @@
+{
+    "year": 108,
+    "term": 2,
+    "name": "智慧型移動機器人",
+    "teachers": [
+        "蔣欣翰"
+    ],
+    "department": "HM75",
+    "code": "AEC8061",
+    "credit": 3,
+    "serial": 1120,
+    "group": "",
+    "quota": {
+        "limit": 40,
+        "additional": 16
+    },
+    "schedule": [
+        {
+            "day": 4,
+            "from": 9,
+            "to": 10,
+            "campus": "本部",
+            "classroom": "多媒體與通訊實驗室"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "使學生瞭解移動機器人(Mobile Robot)馬達驅動組件，及整合感測與控制演算法之設計與製作，瞭解移動機器人控制策略，培養具備智慧型移動機器人所需之機電整合與程式設計能力，使學生能夠在實作實驗中，利用各種傳動裝置及編寫驅動及控制程式，讓移動機器人表現出具有智慧之決策與安全動作。",
+    "goals": [
+        "瞭解移動機器人動力傳輸組件之設計與製作",
+        "瞭解移動機器人之控制方法，能夠撰寫程式以控制機器人",
+        "熟悉移動機器人所需之機電整合所需技術",
+        "培養問題導向的思維和研究之能力",
+        "提升工程問題理解之能力，能夠分析移動機器人相關問題及設計解決方案",
+        "能夠搜尋及研讀國內外相關技術之文獻，提升自我學習之能力"
+    ],
+    "syllabus": "本課程目的為讓學生瞭解智慧型移動機器人所需之馬達驅動組件，及整合感測與控制演算法之設計與製作，瞭解移動機器人控制策略，培養具備智慧型移動機器人所需之機電整合與程式設計能力，使學生能夠在實作實驗中，利用各種傳動裝置及編寫驅動及控制程式，讓移動機器人表現出具有智慧之決策與安全動作。課程內容首先介紹移動機器人的基本內容，包含機器人機構設計、資料獲取、動作控制、感應、以及機器人導航與路徑規劃等進階主題。學生可以從本課程中學習如何設計各種實際上廣泛應用的移動式機器人，以及搭配實驗內容機器人軟硬體模組來實現控制與導航相關功能設計。本課程的每週教學進度如下：\n\nWeek 1.\n\nIntroduction to Robots\n\nWeek 2.\n\nMobile Robots (I)\n\nWeek 3.\n\nMobile Robots (II)\n\nWeek 4.\n\nLinear Systems Overview (I)\n\nWeek 5.\n\nLinear Systems Overview (II)\n\nWeek 6.\n\nMotion Control Design (I)\n\nWeek 7.\n\nMotion Control Design (II)\n\nWeek 8.\n\nMobile Robotics Lab #1\n\nWeek 9.\n\nMidterm\n\nWeek 10.\n\nMobile Robotics Lab #2\n\nWeek 11.\n\nPath Planning and Tracking\n\nWeek 12.\n\nMobile Robotics Lab #3\n\nWeek 13.\n\nThe Navigation Problem (I)\n\nWeek 14.\n\nMobile Robotics Lab #4\n\nWeek 15.\n\nThe Navigation Problem (II)\n\nWeek 16.\n\nMobile Robotics Lab #5\n\nWeek 17.\n\nMobile Robotics Lab #6 (Flexible)\n\nWeek 18.\n\nFinal and Project (Flexible)",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "課程投影片及參考書目"
+        },
+        {
+            "type": "問題解決教學",
+            "note": "課程內容搭配實驗及導入Problem-based learning實際解決問題的方式，來達到自主學習的目的。"
+        },
+        {
+            "type": "合作學習",
+            "note": "實驗進行與課程內容討論"
+        },
+        {
+            "type": "實驗/實作",
+            "note": "搭配機器人開發之軟硬體進行實驗實作"
+        },
+        {
+            "type": "專題研究",
+            "note": "期末專題"
+        }
+    ],
+    "grading": [
+        {
+            "type": "期中考",
+            "weight": 20,
+            "note": "Midterm Exam"
+        },
+        {
+            "type": "期末考",
+            "weight": 20,
+            "note": "Final Exam"
+        },
+        {
+            "type": "報告",
+            "weight": 40,
+            "note": "Lab Reports after Lab Classes"
+        },
+        {
+            "type": "專題",
+            "weight": 20,
+            "note": "Final Project"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

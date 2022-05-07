@@ -1,0 +1,69 @@
+{
+    "year": 108,
+    "term": 1,
+    "name": "近世代數（一）",
+    "teachers": [
+        "劉容真"
+    ],
+    "department": "SU40",
+    "code": "MAC0093",
+    "credit": 3,
+    "serial": 2793,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 5,
+            "from": 2,
+            "to": 4,
+            "campus": "公館",
+            "classroom": "教室自排"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "",
+    "classes": "9",
+    "dept_group": "",
+    "hours": 3,
+    "description": "Review undergraduate group and ring theory.\nBasic group theory.",
+    "goals": [
+        "訓練學生掌握抽象代數的知識",
+        "訓練學生可以用代數的語言進行溝通、表達、寫作。",
+        "培養學生的直覺、欣賞與應用代數至其他學科的能力。"
+    ],
+    "syllabus": "1\\. Modules, Homomorphisms, and Exact Sequences  \n2\\. Free Modules and Vector Spaces  \n3\\. Projective and Injective Modules  \n4\\. Hom and Duality  \n5\\. Tensor Product  \n6\\. Moudles over a Principla Ideal Domain",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "期中考",
+            "weight": 40,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 40,
+            "note": ""
+        },
+        {
+            "type": "其他",
+            "weight": 20,
+            "note": "Quiz every week"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

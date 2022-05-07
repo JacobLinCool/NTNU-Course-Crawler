@@ -1,0 +1,88 @@
+{
+    "year": 107,
+    "term": 1,
+    "name": "族群遺傳與演化甲",
+    "teachers": [
+        "李壽先",
+        "林仲平"
+    ],
+    "department": "SD50",
+    "code": "DIC8042",
+    "credit": 3,
+    "serial": 2591,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 2,
+            "to": 4,
+            "campus": "校外",
+            "classroom": "校外教室"
+        }
+    ],
+    "programs": [],
+    "comment": "中研院B204,BRC,AS",
+    "restrict": "◎課程不開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "Population genetics is a discipline of genetics that studies the mechanism of gene frequency changes through time in a population and among populations.  It is the fundamental basis of biological evolution. It also has been widely applied to the fields of medicine and agriculture. This course aims to introduce basic concepts of population genetics from causes of gene frequency changes to molecular evolution. Key topics in evolution will also be covered. This course should provide a solid base for other special topics in evolutionary biology and conservation, such as conservation genetics, molecular evolution, and evolutionary genomics.",
+    "goals": [
+        "Acquire the fundamental concepts of population genetics and evolution",
+        "Learn how to critically read and evaluate scientific publications",
+        "Identify interesting research questions and propose experimental tests in the"
+    ],
+    "syllabus": "Week 1 Class organization/Introduction/Thinking like a population geneticist\n\nWeek 2 Genotype frequencies\n\nWeek 3 Genetic drift and effective population size 1\n\nWeek 4 Genetic drift and effective population size 2\n\nWeek 5 Population structure and gene flow1\n\nWeek 6 Population structure and gene flow 2\n\nWeek 7 Mutation\n\nWeek 8 Natural selection 1\n\nWeek 9 Natural selection 2 (Midterm exam due)\n\nWeek 10 Molecular evolution 1\n\nWeek 11 Molecular evolution 2\n\nWeek 12 Clades/Trees\n\nWeek 13 Sexual selection\n\nWeek 14 Cooperation and conflict\n\nWeek 15 Speciation\n\nWeek 16 Evo-devo\n\nWeek 17 Co-evolution\n\nWeek 18 Final exam/”Grant reading committee”",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "Lectures occur for some of the classes and is generally minimal."
+        },
+        {
+            "type": "討論法",
+            "note": "Students must discuss reading material from text book and primary literature as well as homework problems"
+        },
+        {
+            "type": "問題解決教學",
+            "note": "Students must complete weekly problem sets"
+        },
+        {
+            "type": "專題研究",
+            "note": "Midterm is refereeing a paper; final is grant proposal"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "期中考",
+            "weight": 15,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 25,
+            "note": ""
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "出席",
+            "weight": 30,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

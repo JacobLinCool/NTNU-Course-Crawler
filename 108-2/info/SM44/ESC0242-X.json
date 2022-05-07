@@ -1,0 +1,97 @@
+{
+    "year": 108,
+    "term": 2,
+    "name": "高等天氣學",
+    "teachers": [
+        "王重傑"
+    ],
+    "department": "SM44",
+    "code": "ESC0242",
+    "credit": 3,
+    "serial": 2590,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 3,
+            "from": 6,
+            "to": 7,
+            "campus": "公館",
+            "classroom": "Ｃ409"
+        },
+        {
+            "day": 5,
+            "from": 6,
+            "to": 6,
+            "campus": "公館",
+            "classroom": "Ｃ409"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程不開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程目標在介紹研究所等級之天氣學知識，以了解大氣環流，特別是中緯度綜觀天氣系統之行為。課程內容主要介紹進階之原理與分析方法，以了解並解釋如中緯度氣旋與反氣旋、噴流、鋒面、以及鋒生等現象與天氣系統之演變。同時，本課程也對台灣地區顯著之天氣系統，例如梅雨與颱風進行介紹。除了例行之課堂教學外，本課程包括重要學術論文之選讀與討論，以加強學生未來進行研究之基礎。\nThe objective of this course is to gain an understanding, at the graduate level, of the observed behavior of the atmosphere, with an emphasis on mid-latitude synoptic-scale weather systems. The more advanced analysis techniques and theoretical principles in synoptic-dynamic meteorology will be introduced, and used to help the interpretation of the structure and evolution of systems including extra-tropical cyclones and anti-cyclones, jet/front systems, and frontogenesis in a diagnostic context. The structure and dynamics of significant synoptic to meso-scale weather systems in the Taiwan area, such as Mei-yu fronts and typhoons are also introduced. In addition to regular lectures, selected research papers from the literature will be reviewed and discussed throughout the course.",
+    "goals": [
+        "講授進階之大氣運行原理，瞭解天氣系統之發展、演變及其伴隨天氣變化之物理過程，進而驗證天氣變化與氣象預測之學理，並加強學生進行研究之基礎與專業知識。"
+    ],
+    "syllabus": "第一週  General review and useful concepts\n\n第二週  Basic equations and their application\n\n第三週  Atmospheric stability and precipitation processes\n\n第四週  Relationship of pressure and wind fields\n\n第五週  Review of basic kinematics\n\n第六週  Quasi-geostrophic theory and its applications\n\n第七週  Front and frontogenesis\n\n第八週  Extratropical cyclone and cyclogenesis\n\n第九週  期中考\n\n第十週  學生期中論文選讀報告\n\n第十一週  Upper-level divergence and jet stream\n\n第十二週  Potential vorticity (PV) and its applications\n\n第十三週  Tropical atmosphere and tropical cyclone\n\n第十四週  Vertical motion and its calculation\n\n第十五週  Monsoon and Mei-yu systems\n\n第十六週  Energetics of synoptic weather systems\n\n第十七週  學生期末論文選讀報告\n\n第十八週  期末考",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "上課以課堂講述為主，配合學術論文之選讀、報告、及課堂討論。"
+        },
+        {
+            "type": "討論法",
+            "note": ""
+        },
+        {
+            "type": "合作學習",
+            "note": ""
+        },
+        {
+            "type": "專題研究",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 10,
+            "note": ""
+        },
+        {
+            "type": "期中考",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 10,
+            "note": ""
+        },
+        {
+            "type": "出席",
+            "weight": 10,
+            "note": ""
+        },
+        {
+            "type": "報告",
+            "weight": 10,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

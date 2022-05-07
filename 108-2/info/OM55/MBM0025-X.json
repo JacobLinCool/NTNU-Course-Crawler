@@ -1,0 +1,93 @@
+{
+    "year": 108,
+    "term": 2,
+    "name": "行銷研究",
+    "teachers": [
+        "王仕茹"
+    ],
+    "department": "OM55",
+    "code": "MBM0025",
+    "credit": 3,
+    "serial": 2333,
+    "group": "",
+    "quota": {
+        "limit": 30,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 4,
+            "from": 7,
+            "to": 9,
+            "campus": "本部",
+            "classroom": "雲508"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎必須先修過【MBM0002  行銷管理】 ◎課程不開放上修",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "介紹行銷研究的方法,包含資料收集以及資料分析的方法.Introduce methodologies in marketing research, including data collection and data analysis.",
+    "goals": [
+        "教授行銷研究的量化與質化資料收集與分析技術Cover data collection and data analysis in quantative and qualitative methodologies of marketing research",
+        "團體分組作業與課堂即席討論問題Team work assignments and class discussion",
+        "團體分組作業Team work assignments and class discussion",
+        "期中期末執行大型行銷研究計畫Final project in marketing research"
+    ],
+    "syllabus": "1.      Course Introduction\n\n2.      A Decision-Making Perspective on Marketing Intelligence\n\nMarketing Research in Practice\n\n3.      The Marketing Research Process\n\n4.      Research Design and Implementation\n\n5.      Secondary Sources of Marketing Data\n\n6.      Standardized Sources of Marketing Data\n\n7.      Information Collection\n\n8.      Information Collection\n\n9.      期中考\n\n10.  Information from Respondents\n\n11.  Attitude Measurement\n\n12.  Attitude Measurement\n\n13.  Designing the Questionnaire\n\n14.  Designing the Questionnaire\n\n15.  Sampling Fundamentals\n\n16.  Experimentation\n\n17.  Experimentation\n\n18.期末考",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "涵蓋教科書內容重要專業主題"
+        },
+        {
+            "type": "討論法",
+            "note": "個案討論及腦力激盪"
+        },
+        {
+            "type": "合作學習",
+            "note": "經由小組討論完成個案及期末專題報告"
+        },
+        {
+            "type": "實驗/實作",
+            "note": "指定相關實作作業及期末專題報告"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 5,
+            "note": ""
+        },
+        {
+            "type": "期中考",
+            "weight": 30,
+            "note": "1-1.嫻熟企業營運知識"
+        },
+        {
+            "type": "期末考",
+            "weight": 30,
+            "note": "1-1.嫻熟企業營運知識"
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 20,
+            "note": "1-1.嫻熟企業營運知識"
+        },
+        {
+            "type": "出席",
+            "weight": 5,
+            "note": ""
+        },
+        {
+            "type": "報告",
+            "weight": 10,
+            "note": "2-1具備溝通、協調與談判的能力"
+        }
+    ],
+    "prerequisite": "◎必須先修過【MBM0002  行銷管理】",
+    "general_core": []
+}

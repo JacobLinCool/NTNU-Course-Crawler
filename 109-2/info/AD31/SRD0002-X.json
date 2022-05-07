@@ -1,0 +1,88 @@
+{
+    "year": 109,
+    "term": 2,
+    "name": "量化研究法",
+    "teachers": [
+        "陳美燕"
+    ],
+    "department": "AD31",
+    "code": "SRD0002",
+    "credit": 3,
+    "serial": 7,
+    "group": "",
+    "quota": {
+        "limit": 15,
+        "additional": 3
+    },
+    "schedule": [
+        {
+            "day": 4,
+            "from": 6,
+            "to": 8,
+            "campus": "本部",
+            "classroom": "綜603"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程不開放上修",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "The course begins with an overview of social research, and of several quantitative research methods frequently used in social science research.  Next, it focuses on learning statistical concepts needed to answer specific quantitative research questions. Thereafter it focuses on survey research, including survey administration. It then reviews the elements of quantitative research design, and in the end requires the students to conduct statistical analysis of the data obtained through the methods, and to present the research findings to the class.",
+    "goals": [
+        "To become familiar with the characteristics, language and logic of quantitative research",
+        "To understand the available techniques for designing a quantitative research study",
+        "To understand the available techniques for quantitative data analysis",
+        "To be able to recognize and assess quality and rigor in evaluating a quantitative research"
+    ],
+    "syllabus": "Session 1 (week1-2): Overview of Course\n\n• Understanding the characteristics, language and contributions of quantitative research \n\n• Distinctions between quantitative and quantitative research approaches and methods\n\n• Session overview, assignments, expectations, etc.\n\n• Student introductions and research interests\n\nSession 2 (week3-6): research Design and Data Collection\n\n• Designing research questions\n\n• Sampling\n\n• IRB issues \n\n• Designing an interview guide and interview questions \n\n• Interviewing\n\n• Brief overview of field observation and other methods \n\nSession 3 (week7-9): Quantitative Data Collection Theory and Codebook Development\n\n• Quantitative schools of thought\n\n• Initial thoughts on quantitative analysis \n\n•Codebook development\n\nSession 4 (week10-12): Writing About Quantitative Research \n\n• Publishing quantitative research (Guest Lecturer: Bob Arnold)\n\n• Writing up the quantitative data collection methods\n\nSession 5 (week12-14): Quantitative Data Analysis\n\n• Coding\n\n• Building analysis/theory \n\n• Working with teams\n\n•reliability\n\nSession 6 (week15-16): Mixed Methods and Quantitative software\n\n• Combining quantitative and quantitative methods \n\n• Software tools, data tracking and management \n\n• Writing up the thematic analysis section of an article\n\nSession 7 (week17-18) Overview and assessment of course\n\n• Discussion of final papers",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "量化研究理論與概念講述"
+        },
+        {
+            "type": "討論法",
+            "note": "探討相關量化研究文獻"
+        },
+        {
+            "type": "問題解決教學",
+            "note": "規劃相關議題，進行分組活動與討論"
+        },
+        {
+            "type": "專題研究",
+            "note": "分組實證型論文寫作並輔導其投稿"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 30,
+            "note": "閱讀文獻（具有主動學習新知的精神；具有獨立思考及批判能力）"
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 20,
+            "note": "針對相關文獻和上課內容進行討論，期待從經驗中提升專業思考層次的能力"
+        },
+        {
+            "type": "出席",
+            "weight": 10,
+            "note": ""
+        },
+        {
+            "type": "報告",
+            "weight": 20,
+            "note": "分組專題口頭報告，培養獨立思考及陳述能力"
+        },
+        {
+            "type": "專題",
+            "weight": 20,
+            "note": "分組專題書面報告，強化獨立思考及批判反省能力"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

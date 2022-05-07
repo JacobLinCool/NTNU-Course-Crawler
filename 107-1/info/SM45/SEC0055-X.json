@@ -1,0 +1,83 @@
+{
+    "year": 107,
+    "term": 1,
+    "name": "科學文本分析",
+    "teachers": [
+        "楊文金"
+    ],
+    "department": "SM45",
+    "code": "SEC0055",
+    "credit": 3,
+    "serial": 2675,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 3,
+            "from": 7,
+            "to": 9,
+            "campus": "公館",
+            "classroom": "教室自排"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程旨在介紹系統功能語法，並配合科學教育關於科學文本閱讀理解之相關文獻，分析科學文本的體裁(Genre)、主述位 (Theme-Rhyme analysis)、圖文整合、蘊含序列、名物化(nominalization)、文法隱喻(grammatical metaphors)、深度階與精度階、科學術語的定義、CKIP及其應用、多模態文本等。",
+    "goals": [
+        "了解科學教科書文本的特性",
+        "了解漢語科學的優勢與潛在困難",
+        "具分析漢語文本分析的能力",
+        "能進行文本重構"
+    ],
+    "syllabus": "週次\n\n主題\n\n附註\n\n1\n\n導論  科學英語的發展史\n\n說明課程大綱\n\n2-4\n\n文本分析的語言學基礎：系統功能語言學\n\n5-8\n\n文本分析實例\n\n1.  類別組成關係\n2.  光合作用\n3.  能量塔\n4.  溫度與熱\n\n9-12\n\n圖形分析基礎：視覺語法與實例\n\n1.  視覺語法\n2.  月相\n3.  神經系統\n4.  其他\n\n13-14\n\n漢英科學文本分析比較\n\n1.  觀念物理(1)\n2.  英漢新聞科學\n3.  Hypothesis, hypothesize, assumption, assume\n4.  Explanation, positivism, empirical study\n5.  Prove, confirm, show\n6.  Libra, balance\n\n15-16\n\n科學文本與邏輯\n\n1.  「或」\n2.  「而」\n3.  punctuations\n\n17-18\n\n同學作品發表、討論與分享。",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "陳述科學語言、漢語特性、以及教科學文本的分析理論與技術。"
+        },
+        {
+            "type": "討論法",
+            "note": "師生與生生討論文本/科學文本的相關議題"
+        },
+        {
+            "type": "合作學習",
+            "note": "小組組員相互閱讀及分析彼此的文本"
+        },
+        {
+            "type": "實驗/實作",
+            "note": "重構科學文本並以視動儀或SmartReader進行閱讀理解實驗"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 10,
+            "note": "課後作業的品質"
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 30,
+            "note": "提問、參與討論、對討論的貢獻度。"
+        },
+        {
+            "type": "報告",
+            "weight": 20,
+            "note": "分享作業及專題等。"
+        },
+        {
+            "type": "專題",
+            "weight": 40,
+            "note": "重構文本並進行實驗"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

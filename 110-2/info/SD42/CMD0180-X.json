@@ -1,0 +1,84 @@
+{
+    "year": 110,
+    "term": 2,
+    "name": "高等有機光譜學",
+    "teachers": [
+        "林文偉"
+    ],
+    "department": "SD42",
+    "code": "CMD0180",
+    "credit": 3,
+    "serial": 2590,
+    "group": "",
+    "quota": {
+        "limit": 30,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 4,
+            "from": 2,
+            "to": 4,
+            "campus": "公館",
+            "classroom": "Ｆ318"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "針對化學研究所學生，教授有機化學相關之光譜學知識以及對有機未知物進行結構的鑑定及分析",
+    "goals": [
+        "針對化學研究所學生，教授有機化學相關之光譜學知識以及對有機未知物進行結構的鑑定及分析"
+    ],
+    "syllabus": "Section 1: Mass spectrometry, Infrared spectroscopy, Proton (1H) magnetic resonance spectroscopy, Carbon (13C)NMR spectroscopy, Two-dimensional NMRspectroscopy, Multinuclear magneticresonance spectroscopy, \n\nSection 2: LRMS (EI), HRMS (ESIor EI), 1H NMR, 13C NMR, 2D NMR, Multinuclear magneticresonance spectra; analysis of the data and characterization of new compounds(presentation)\n\nSection 3: Ultravioletspectroscopy (optional)、EA: elemental analysis (optional)",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": ""
+        },
+        {
+            "type": "問題解決教學",
+            "note": ""
+        },
+        {
+            "type": "合作學習",
+            "note": ""
+        },
+        {
+            "type": "實驗/實作",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 35,
+            "note": ""
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 20,
+            "note": ""
+        },
+        {
+            "type": "出席",
+            "weight": 10,
+            "note": ""
+        },
+        {
+            "type": "報告",
+            "weight": 35,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

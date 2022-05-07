@@ -1,0 +1,83 @@
+{
+    "year": 108,
+    "term": 2,
+    "name": "大氣動力學（二）",
+    "teachers": [
+        "陳正達"
+    ],
+    "department": "SU44",
+    "code": "ESC9027",
+    "credit": 3,
+    "serial": 2860,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 1,
+            "from": 5,
+            "to": 6,
+            "campus": "公館",
+            "classroom": "Ｃ409"
+        },
+        {
+            "day": 4,
+            "from": 6,
+            "to": 6,
+            "campus": "公館",
+            "classroom": "Ｃ409"
+        }
+    ],
+    "programs": [],
+    "comment": "中階以上課程，適合大三以上學生修習，以作為探究研究所之先修課程，同時也開放碩士班無此課程基礎之學生選修。",
+    "restrict": "◎限大三大四 ◎限碩一碩二碩三以上修習",
+    "form_s": "",
+    "classes": "9",
+    "dept_group": "",
+    "hours": 3,
+    "description": "介紹主宰地球大氣運動與結構特性的理論基礎，從基本的觀念與數學方法，解釋大氣之基本方程式及運用。第二部份的重點在運用準地轉分析理論於綜觀尺度天氣系統運動與預測，探討線性擾動理論以及大氣中的各種波動，並分析斜壓不穩定與中緯度綜觀尺度天氣系統的發展。",
+    "goals": [
+        "介紹主宰地球大氣運動與結構特性的理論基礎，從基本的觀念與數學方法，解釋大氣之基本方程式及運用",
+        "運用準地轉分析理論於綜觀尺度天氣系統運動與預測，探討線性擾動理論以及大氣中的各種波動，並分析斜壓不穩定與中緯度綜觀尺度天氣系統的發展。"
+    ],
+    "syllabus": "教材內容：\n\n教科書：Holton, James R., 2004: An Introduction to Dynamic Meteorology, 4th Edition, Elservier Academic Press, 535pp.\n\n（中譯本，朱仲謀譯，大氣動力學，國立編譯館出版）\n\n1\\. Synoptic-Scale Motions I: Quasi-geostrophic Analysis (Chapter 6)\n\n2\\. Atmospheric Oscillations: Linear Perturbation Theory (Chapter 7)\n\n3\\. Synoptic-Scale Motions II: Baroclinic Instability (Chapter 8.1-8.3)\n\n如果還有時間，將由下列主題中選出重要子題加以說明：\n\n4\\. The Genreal Circulation (Chapter 10)",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": ""
+        },
+        {
+            "type": "實驗/實作",
+            "note": ""
+        },
+        {
+            "type": "其他",
+            "note": "由數位學習平台 http://moodle.ntnu.edu.tw 進入大氣動力學（二）"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "期中考",
+            "weight": 40,
+            "note": "第一次期中考(20%)；第二次期中考(20%)"
+        },
+        {
+            "type": "期末考",
+            "weight": 30,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

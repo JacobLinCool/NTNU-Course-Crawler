@@ -1,0 +1,83 @@
+{
+    "year": 107,
+    "term": 1,
+    "name": "數位影像處理",
+    "teachers": [
+        "王希俊"
+    ],
+    "department": "HM72",
+    "code": "GCM0075",
+    "credit": 3,
+    "serial": 1145,
+    "group": "",
+    "quota": {
+        "limit": 30,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 3,
+            "from": 2,
+            "to": 4,
+            "campus": "本部",
+            "classroom": "教404"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎限碩一碩二碩三以上修習 ◎課程不開放上修",
+    "form_s": "1",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "In this course, the fundamental theories and computer implementation of digital image processing would be introduced.  The digital image system will give students the overall picture of the important academic areas for the modern graphic arts and communications.  Review of some recent journal papers will be also covered.  Students can choose either image sequence processing or digital halftoning-related research topic as his/her term project.",
+    "goals": [
+        "fundamental theories of digital image processing",
+        "computer implementation of digital image processing",
+        "the overall picture of the important academic areas for the modern graphic arts and communications",
+        "review of some recent journal papers will be also covered."
+    ],
+    "syllabus": "一、教學目標:  \n介紹數位影像處理之基本原理，培養學生對於影像與數值之間的敏銳感覺；並了解數位半色調演算法之基礎原理及應用實例Introduction to the fundamentals of digital image processing and digital halftoning）。  \n  \n二、教材內容:  \n1\\. 數位影像系統簡介  \n2\\. 數位影像檔案結構 (digital image file format)  \n3\\. 攝取影像 (imaging)  \n4\\. 影像強化 (image enhancement)  \n5\\. 雜訊去除 (noise removal)  \n6\\. 邊界加強 (edge enhancement)與邊界搜尋 (edge detection)  \n7\\. 幾何轉換 (geometrical transformation)  \n8\\. 影像形態處理 (morphological processing)  \n9\\. 影像辨認 (recognition)  \n10\\. 數位過網(一) –AM (amplitude modulation)  \n11\\. 數位過網(二) –FM (frequency modulation)  \n12\\. 數位過網(三) –Printer Model & Eye Model  \n13\\. 電腦視覺簡介 (computer vision)",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "講解原理 實例說明 並配合電腦實作"
+        },
+        {
+            "type": "合作學習",
+            "note": "分組作業"
+        },
+        {
+            "type": "實驗/實作",
+            "note": "電腦模擬實作"
+        },
+        {
+            "type": "媒體融入教學",
+            "note": "moodle 數位學習平台"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "期中考",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "報告",
+            "weight": 10,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

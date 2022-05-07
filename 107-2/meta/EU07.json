@@ -1,0 +1,2032 @@
+[
+    {
+        "year": 107,
+        "term": 2,
+        "name": "教育統計學（一）",
+        "teachers": [
+            "余穎麒"
+        ],
+        "department": "E",
+        "code": "E0U0001",
+        "credit": 2,
+        "serial": 355,
+        "group": "A",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 8,
+                "to": 9,
+                "campus": "本部",
+                "classroom": "樸301"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "教育統計學（一）",
+        "teachers": [
+            "謝建成"
+        ],
+        "department": "E",
+        "code": "E0U0001",
+        "credit": 2,
+        "serial": 356,
+        "group": "B",
+        "quota": {
+            "limit": 30,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 3,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "教室自排"
+            }
+        ],
+        "programs": [],
+        "comment": "上課教室：圖資所研討A教室    須自備筆電",
+        "restrict": "",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "教育統計學（二）",
+        "teachers": [
+            "郭郡羽"
+        ],
+        "department": "E",
+        "code": "E0U0002",
+        "credit": 2,
+        "serial": 357,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 5,
+                "from": 9,
+                "to": 10,
+                "campus": "本部",
+                "classroom": "誠207"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎必須先修過【E0U0001  教育統計學（一）】",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "教育統計學（二）",
+        "teachers": [
+            "盧雪梅"
+        ],
+        "department": "E",
+        "code": "E0U0002",
+        "credit": 2,
+        "serial": 358,
+        "group": "A",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 3,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "正301"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎限心輔系（學）選修◎必須先修過【E0U0001  教育統計學（一）】",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "教育統計學（二）",
+        "teachers": [
+            "吳清麟"
+        ],
+        "department": "E",
+        "code": "E0U0002",
+        "credit": 2,
+        "serial": 359,
+        "group": "B",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 3,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "特115"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎限特教系（學）選修◎必須先修過【E0U0001  教育統計學（一）】",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "教育統計學（二）",
+        "teachers": [
+            "吳清麟"
+        ],
+        "department": "E",
+        "code": "E0U0002",
+        "credit": 2,
+        "serial": 360,
+        "group": "C",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 9,
+                "to": 10,
+                "campus": "本部",
+                "classroom": "誠207"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎限學習科學學位學程（學選修◎必須先修過【E0U0001  教育統計學（一）】",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "社區高齡者服務實習",
+        "teachers": [
+            "李育齊"
+        ],
+        "department": "E",
+        "code": "E0U0006",
+        "credit": 2,
+        "serial": 4328,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 16,
+                "to": 10,
+                "campus": "本部",
+                "classroom": "誠105"
+            }
+        ],
+        "programs": [
+            "高齡學程"
+        ],
+        "comment": "◎進階服務學習",
+        "restrict": "",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "產業實習",
+        "teachers": [
+            "郭鐘隆"
+        ],
+        "department": "E",
+        "code": "E0C9001",
+        "credit": 2,
+        "serial": 367,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 16,
+                "to": 10,
+                "campus": "本部",
+                "classroom": "誠602"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎限大三大四 ◎限碩一碩二碩三以上◎限博一博二博三博四博五以上修習",
+        "form_s": "",
+        "classes": "9",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "服務學習（二）－公領系學會",
+        "teachers": [
+            "楊智元"
+        ],
+        "department": "EU07",
+        "code": "0000013",
+        "credit": 0,
+        "serial": 828,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 0,
+                "from": -1,
+                "to": -1,
+                "campus": "",
+                "classroom": ""
+            }
+        ],
+        "programs": [],
+        "comment": "公領營。",
+        "restrict": "◎第一階段需人工加選◎第二階段需人工加選◎加退選階段需人工加選",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "學校環境與學生發展",
+        "teachers": [
+            "蔡昕璋"
+        ],
+        "department": "EU07",
+        "code": "CEU0463",
+        "credit": 2,
+        "serial": 829,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 16,
+                "to": 10,
+                "campus": "本部",
+                "classroom": "誠106"
+            }
+        ],
+        "programs": [],
+        "comment": "兼任教師：蔡昕璋老師",
+        "restrict": "",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "童軍教育原理",
+        "teachers": [
+            "吳崇旗"
+        ],
+        "department": "EU07",
+        "code": "CEU0001",
+        "credit": 2,
+        "serial": 830,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 8,
+                "to": 9,
+                "campus": "本部",
+                "classroom": "誠大樓公團部"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "1",
+        "classes": "1",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "公民教育",
+        "teachers": [
+            "呂啟民"
+        ],
+        "department": "EU07",
+        "code": "CEU0002",
+        "credit": 2,
+        "serial": 831,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 1,
+                "to": 2,
+                "campus": "本部",
+                "classroom": "誠301"
+            }
+        ],
+        "programs": [
+            "PASSION偏鄉教育學程"
+        ],
+        "comment": "",
+        "restrict": "",
+        "form_s": "1",
+        "classes": "1",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "經濟學",
+        "teachers": [
+            "周有熙"
+        ],
+        "department": "EU07",
+        "code": "CEU0011",
+        "credit": 2,
+        "serial": 832,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 26
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 6,
+                "to": 7,
+                "campus": "本部",
+                "classroom": "誠401"
+            }
+        ],
+        "programs": [
+            "財金學程"
+        ],
+        "comment": "",
+        "restrict": "",
+        "form_s": "1",
+        "classes": "1",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "民法（一）",
+        "teachers": [
+            "林安邦"
+        ],
+        "department": "EU07",
+        "code": "CEU0332",
+        "credit": 2,
+        "serial": 833,
+        "group": "",
+        "quota": {
+            "limit": 190,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 6,
+                "to": 7,
+                "campus": "本部",
+                "classroom": "教201演講廳"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "1",
+        "classes": "1",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "民主政治",
+        "teachers": [
+            "黃信豪"
+        ],
+        "department": "EU07",
+        "code": "CEU0366",
+        "credit": 2,
+        "serial": 834,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 3,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "誠402"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "1",
+        "classes": "1",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "戶外體驗教育",
+        "teachers": [
+            "吳崇旗",
+            "謝宜蓉"
+        ],
+        "department": "EU07",
+        "code": "CEU0480",
+        "credit": 2,
+        "serial": 835,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 0
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 6,
+                "to": 7,
+                "campus": "本部",
+                "classroom": "誠大樓公團部"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "1",
+        "classes": "1",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "童軍教育原理",
+        "teachers": [
+            "吳崇旗"
+        ],
+        "department": "EU07",
+        "code": "CEU0001",
+        "credit": 2,
+        "serial": 836,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 6,
+                "to": 7,
+                "campus": "本部",
+                "classroom": "誠大樓公團部"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "1",
+        "classes": "2",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "公民教育",
+        "teachers": [
+            "呂啟民"
+        ],
+        "department": "EU07",
+        "code": "CEU0002",
+        "credit": 2,
+        "serial": 837,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 3,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "誠402"
+            }
+        ],
+        "programs": [
+            "PASSION偏鄉教育學程"
+        ],
+        "comment": "",
+        "restrict": "",
+        "form_s": "1",
+        "classes": "2",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "經濟學",
+        "teachers": [
+            "周有熙"
+        ],
+        "department": "EU07",
+        "code": "CEU0011",
+        "credit": 2,
+        "serial": 838,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 9,
+                "to": 10,
+                "campus": "本部",
+                "classroom": "誠401"
+            }
+        ],
+        "programs": [
+            "財金學程"
+        ],
+        "comment": "",
+        "restrict": "",
+        "form_s": "1",
+        "classes": "2",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "民法（一）",
+        "teachers": [
+            "林安邦"
+        ],
+        "department": "EU07",
+        "code": "CEU0332",
+        "credit": 2,
+        "serial": 839,
+        "group": "",
+        "quota": {
+            "limit": 190,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 8,
+                "to": 9,
+                "campus": "本部",
+                "classroom": "教201演講廳"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "1",
+        "classes": "2",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "民主政治",
+        "teachers": [
+            "黃信豪"
+        ],
+        "department": "EU07",
+        "code": "CEU0366",
+        "credit": 2,
+        "serial": 840,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 6,
+                "to": 7,
+                "campus": "本部",
+                "classroom": "誠402"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "1",
+        "classes": "2",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "戶外體驗教育",
+        "teachers": [
+            "吳崇旗",
+            "謝宜蓉"
+        ],
+        "department": "EU07",
+        "code": "CEU0480",
+        "credit": 2,
+        "serial": 841,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 0
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 8,
+                "to": 9,
+                "campus": "本部",
+                "classroom": "誠大樓公團部"
+            }
+        ],
+        "programs": [],
+        "comment": "兼任教師：謝宜蓉老師",
+        "restrict": "",
+        "form_s": "1",
+        "classes": "2",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "行政學",
+        "teachers": [
+            "曾冠球"
+        ],
+        "department": "EU07",
+        "code": "CEU0032",
+        "credit": 2,
+        "serial": 842,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 10,
+                "to": 11,
+                "campus": "本部",
+                "classroom": "誠307"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "政治發展",
+        "teachers": [
+            "黃信豪"
+        ],
+        "department": "EU07",
+        "code": "CEU0036",
+        "credit": 2,
+        "serial": 843,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 6,
+                "to": 7,
+                "campus": "本部",
+                "classroom": "正105"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "投資學",
+        "teachers": [
+            "楊智元"
+        ],
+        "department": "EU07",
+        "code": "CEU0317",
+        "credit": 3,
+        "serial": 844,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 30
+        },
+        "schedule": [
+            {
+                "day": 5,
+                "from": 10,
+                "to": 12,
+                "campus": "本部",
+                "classroom": "誠102"
+            }
+        ],
+        "programs": [
+            "財金學程"
+        ],
+        "comment": "",
+        "restrict": "",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "刑法（二）",
+        "teachers": [
+            "林佳範"
+        ],
+        "department": "EU07",
+        "code": "CEU0335",
+        "credit": 2,
+        "serial": 845,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 23
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 6,
+                "to": 7,
+                "campus": "本部",
+                "classroom": "誠401"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "自然體驗活動",
+        "teachers": [
+            "徐秀婕"
+        ],
+        "department": "EU07",
+        "code": "CEU0381",
+        "credit": 2,
+        "serial": 846,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 5,
+                "from": 8,
+                "to": 9,
+                "campus": "本部",
+                "classroom": "誠大樓公團部"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "財務管理",
+        "teachers": [
+            "朱文增"
+        ],
+        "department": "EU07",
+        "code": "CEU0399",
+        "credit": 3,
+        "serial": 847,
+        "group": "",
+        "quota": {
+            "limit": 35,
+            "additional": 3
+        },
+        "schedule": [
+            {
+                "day": 5,
+                "from": 6,
+                "to": 8,
+                "campus": "本部",
+                "classroom": "誠401"
+            }
+        ],
+        "programs": [
+            "財金學程"
+        ],
+        "comment": "",
+        "restrict": "",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "綜合活動學習領域概論",
+        "teachers": [
+            "徐秀婕"
+        ],
+        "department": "EU07",
+        "code": "CEU0411",
+        "credit": 2,
+        "serial": 848,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 8,
+                "to": 9,
+                "campus": "本部",
+                "classroom": "童技室"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "性別教育",
+        "teachers": [
+            "何慧卿"
+        ],
+        "department": "EU07",
+        "code": "CEU0413",
+        "credit": 2,
+        "serial": 849,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 1,
+                "to": 2,
+                "campus": "本部",
+                "classroom": "誠401"
+            }
+        ],
+        "programs": [
+            "PASSION偏鄉教育學程"
+        ],
+        "comment": "",
+        "restrict": "",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "民法（三）",
+        "teachers": [
+            "林安邦"
+        ],
+        "department": "EU07",
+        "code": "CEU0434",
+        "credit": 2,
+        "serial": 850,
+        "group": "",
+        "quota": {
+            "limit": 110,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 3,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "教202會議廳"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "學生事務原理",
+        "teachers": [
+            "蔡昕璋"
+        ],
+        "department": "EU07",
+        "code": "CEU0460",
+        "credit": 2,
+        "serial": 851,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 16,
+                "to": 10,
+                "campus": "本部",
+                "classroom": "誠106"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "童軍露營活動（二）",
+        "teachers": [
+            "徐秀婕"
+        ],
+        "department": "EU07",
+        "code": "CEU0470",
+        "credit": 2,
+        "serial": 852,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 5,
+                "from": 6,
+                "to": 7,
+                "campus": "本部",
+                "classroom": "誠大樓公團部"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "戶外基本裝備",
+        "teachers": [
+            "謝宜蓉"
+        ],
+        "department": "EU07",
+        "code": "CEU0477",
+        "credit": 2,
+        "serial": 853,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 1,
+                "to": 2,
+                "campus": "本部",
+                "classroom": "誠大樓公團部"
+            }
+        ],
+        "programs": [],
+        "comment": "兼任教師：謝宜蓉老師",
+        "restrict": "",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "戶外急救與安全管理",
+        "teachers": [
+            "蕭如軒"
+        ],
+        "department": "EU07",
+        "code": "CEU0478",
+        "credit": 2,
+        "serial": 854,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 6,
+                "to": 7,
+                "campus": "本部",
+                "classroom": "誠401"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "戶外活動（二）",
+        "teachers": [
+            "蕭如軒"
+        ],
+        "department": "EU07",
+        "code": "CEU0482",
+        "credit": 2,
+        "serial": 855,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 8,
+                "to": 9,
+                "campus": "本部",
+                "classroom": "誠401"
+            }
+        ],
+        "programs": [],
+        "comment": "兼任教師：蕭如軒老師",
+        "restrict": "",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "總體經濟學",
+        "teachers": [
+            "曾永清"
+        ],
+        "department": "EU07",
+        "code": "CEU0073",
+        "credit": 2,
+        "serial": 856,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 8,
+                "to": 9,
+                "campus": "本部",
+                "classroom": "誠401"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "2",
+        "classes": "1",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "活動規劃原理",
+        "teachers": [
+            "陳永龍"
+        ],
+        "department": "EU07",
+        "code": "CEU0369",
+        "credit": 2,
+        "serial": 857,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 1,
+                "to": 2,
+                "campus": "本部",
+                "classroom": "誠大樓公團部"
+            }
+        ],
+        "programs": [
+            "社團領導學程"
+        ],
+        "comment": "",
+        "restrict": "",
+        "form_s": "2",
+        "classes": "1",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "總體經濟學",
+        "teachers": [
+            "曾永清"
+        ],
+        "department": "EU07",
+        "code": "CEU0073",
+        "credit": 2,
+        "serial": 858,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 6,
+                "to": 7,
+                "campus": "本部",
+                "classroom": "誠401"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "2",
+        "classes": "2",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "活動規劃原理",
+        "teachers": [
+            "陳永龍"
+        ],
+        "department": "EU07",
+        "code": "CEU0369",
+        "credit": 2,
+        "serial": 859,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 3,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "誠大樓公團部"
+            }
+        ],
+        "programs": [
+            "社團領導學程"
+        ],
+        "comment": "",
+        "restrict": "",
+        "form_s": "2",
+        "classes": "2",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "行政法",
+        "teachers": [
+            "劉恆妏"
+        ],
+        "department": "EU07",
+        "code": "CEU0046",
+        "credit": 3,
+        "serial": 860,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 3,
+                "to": 5,
+                "campus": "本部",
+                "classroom": "誠401"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "3",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "商事法",
+        "teachers": [
+            "李元德"
+        ],
+        "department": "EU07",
+        "code": "CEU0055",
+        "credit": 3,
+        "serial": 861,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 5,
+                "from": 6,
+                "to": 8,
+                "campus": "本部",
+                "classroom": "樸301"
+            }
+        ],
+        "programs": [],
+        "comment": "兼任教師：李元德老師",
+        "restrict": "",
+        "form_s": "3",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "民事訴訟法",
+        "teachers": [
+            "劉恆妏"
+        ],
+        "department": "EU07",
+        "code": "CEU0063",
+        "credit": 2,
+        "serial": 862,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 3,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "誠401"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "3",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "刑事訴訟法",
+        "teachers": [
+            "林佳範"
+        ],
+        "department": "EU07",
+        "code": "CEU0064",
+        "credit": 2,
+        "serial": 863,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 1,
+                "to": 2,
+                "campus": "本部",
+                "classroom": "誠401"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "3",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "國際金融",
+        "teachers": [
+            "周有熙"
+        ],
+        "department": "EU07",
+        "code": "CEU0313",
+        "credit": 3,
+        "serial": 864,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 22
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 8,
+                "to": 10,
+                "campus": "本部",
+                "classroom": "誠401"
+            }
+        ],
+        "programs": [
+            "財金學程"
+        ],
+        "comment": "",
+        "restrict": "",
+        "form_s": "3",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "合作學習",
+        "teachers": [
+            "蔡居澤"
+        ],
+        "department": "EU07",
+        "code": "CEU0377",
+        "credit": 2,
+        "serial": 865,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 22
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 6,
+                "to": 7,
+                "campus": "本部",
+                "classroom": "教室自排"
+            }
+        ],
+        "programs": [],
+        "comment": "上課教室：誠大樓10樓教材教具室",
+        "restrict": "",
+        "form_s": "3",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "環境教育",
+        "teachers": [
+            "方偉達"
+        ],
+        "department": "EU07",
+        "code": "CEU0379",
+        "credit": 2,
+        "serial": 866,
+        "group": "",
+        "quota": {
+            "limit": 40,
+            "additional": 5
+        },
+        "schedule": [
+            {
+                "day": 5,
+                "from": 3,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "樸407"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "3",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "多元文化教育",
+        "teachers": [
+            "何慧卿"
+        ],
+        "department": "EU07",
+        "code": "CEU0430",
+        "credit": 2,
+        "serial": 867,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 3,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "誠401"
+            }
+        ],
+        "programs": [
+            "PASSION偏鄉教育學程"
+        ],
+        "comment": "兼任教師：何慧卿老師",
+        "restrict": "",
+        "form_s": "3",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "戶外領導",
+        "teachers": [
+            "謝智謀"
+        ],
+        "department": "EU07",
+        "code": "CEU0484",
+        "credit": 2,
+        "serial": 868,
+        "group": "",
+        "quota": {
+            "limit": 20,
+            "additional": 0
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 3,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "教室自排"
+            }
+        ],
+        "programs": [],
+        "comment": "第一、二、三、五週上課地點誠10樓 教材教具室。本課程五天2019年3月30~2019年4月3日以北二段戶外體驗方式實際執行戶外領導的教學。課程需要耗費大量體力，5000公尺需達特定標準才能選課，避免造成危險。",
+        "restrict": "◎第一階段需人工加選◎第二階段需人工加選◎加退選階段需人工加選",
+        "form_s": "3",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "公民專題實作",
+        "teachers": [
+            "楊智元"
+        ],
+        "department": "EU07",
+        "code": "CEU0489",
+        "credit": 3,
+        "serial": 869,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 0,
+                "to": 0,
+                "campus": "本部",
+                "classroom": "教室自排"
+            },
+            {
+                "day": 4,
+                "from": 0,
+                "to": 0,
+                "campus": "本部",
+                "classroom": "教室自排"
+            },
+            {
+                "day": 5,
+                "from": 0,
+                "to": 0,
+                "campus": "本部",
+                "classroom": "教室自排"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎限大三大四修習",
+        "form_s": "3",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "團體動力學",
+        "teachers": [
+            "劉秀嫚"
+        ],
+        "department": "EU07",
+        "code": "CEU0356",
+        "credit": 2,
+        "serial": 870,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 8,
+                "to": 9,
+                "campus": "本部",
+                "classroom": "誠大樓公團部"
+            }
+        ],
+        "programs": [
+            "社團領導學程"
+        ],
+        "comment": "",
+        "restrict": "",
+        "form_s": "3",
+        "classes": "1",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "道德教育原理",
+        "teachers": [
+            "李琪明"
+        ],
+        "department": "EU07",
+        "code": "CEU0364",
+        "credit": 2,
+        "serial": 871,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 6,
+                "to": 7,
+                "campus": "本部",
+                "classroom": "誠402"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "3",
+        "classes": "1",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "多元文化通論",
+        "teachers": [
+            "陳素秋"
+        ],
+        "department": "EU07",
+        "code": "CEU0367",
+        "credit": 2,
+        "serial": 872,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 6,
+                "to": 7,
+                "campus": "本部",
+                "classroom": "誠402"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "3",
+        "classes": "1",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "公民與社會（公民）教學實習（教）",
+        "teachers": [
+            "陳素秋"
+        ],
+        "department": "EU07",
+        "code": "CEUE011",
+        "credit": 2,
+        "serial": 873,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 6,
+                "to": 9,
+                "campus": "本部",
+                "classroom": "誠大樓公團部"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎限大三修習",
+        "form_s": "3",
+        "classes": "1",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "團體動力學",
+        "teachers": [
+            "劉秀嫚"
+        ],
+        "department": "EU07",
+        "code": "CEU0356",
+        "credit": 2,
+        "serial": 874,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 6,
+                "to": 7,
+                "campus": "本部",
+                "classroom": "誠大樓公團部"
+            }
+        ],
+        "programs": [
+            "社團領導學程"
+        ],
+        "comment": "",
+        "restrict": "",
+        "form_s": "3",
+        "classes": "2",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "道德教育原理",
+        "teachers": [
+            "李琪明"
+        ],
+        "department": "EU07",
+        "code": "CEU0364",
+        "credit": 2,
+        "serial": 875,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 8,
+                "to": 9,
+                "campus": "本部",
+                "classroom": "誠402"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "3",
+        "classes": "2",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "多元文化通論",
+        "teachers": [
+            "陳素秋"
+        ],
+        "department": "EU07",
+        "code": "CEU0367",
+        "credit": 2,
+        "serial": 876,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 8,
+                "to": 9,
+                "campus": "本部",
+                "classroom": "誠402"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "3",
+        "classes": "2",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "公民與社會（公民）教學實習（教）",
+        "teachers": [
+            "徐秀婕"
+        ],
+        "department": "EU07",
+        "code": "CEUE011",
+        "credit": 2,
+        "serial": 877,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 6,
+                "to": 9,
+                "campus": "本部",
+                "classroom": "童技室"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎限大三修習",
+        "form_s": "3",
+        "classes": "2",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "童軍團實務",
+        "teachers": [
+            "徐秀婕"
+        ],
+        "department": "EU07",
+        "code": "CEU0255",
+        "credit": 2,
+        "serial": 878,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 3,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "誠大樓公團部"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "4",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "公民教育思潮",
+        "teachers": [
+            "王錦雀"
+        ],
+        "department": "EU07",
+        "code": "CEU0348",
+        "credit": 2,
+        "serial": 879,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 3,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "正105"
+            }
+        ],
+        "programs": [
+            "哲學學程"
+        ],
+        "comment": "◎進階服務學習",
+        "restrict": "",
+        "form_s": "4",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "童軍教育教學實習（教）",
+        "teachers": [
+            "陳素秋"
+        ],
+        "department": "EU07",
+        "code": "CEUE110",
+        "credit": 2,
+        "serial": 880,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 6,
+                "to": 9,
+                "campus": "本部",
+                "classroom": "教室自排"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎限大四修習",
+        "form_s": "4",
+        "classes": "1",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "童軍教育教學實習（教）",
+        "teachers": [
+            "徐秀婕"
+        ],
+        "department": "EU07",
+        "code": "CEUE110",
+        "credit": 2,
+        "serial": 881,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 6,
+                "to": 9,
+                "campus": "本部",
+                "classroom": "童技室"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎限大四修習",
+        "form_s": "4",
+        "classes": "2",
+        "dept_group": ""
+    }
+]

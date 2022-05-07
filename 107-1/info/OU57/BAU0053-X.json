@@ -1,0 +1,90 @@
+{
+    "year": 107,
+    "term": 1,
+    "name": "投資學",
+    "teachers": [
+        "安用吉"
+    ],
+    "department": "OU57",
+    "code": "BAU0053",
+    "credit": 3,
+    "serial": 2455,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 1,
+            "from": 2,
+            "to": 4,
+            "campus": "本部",
+            "classroom": "正405"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎必須先修過【BAU0038  經濟學（一）】、【BAU0039  經濟學（二）】、【BAU0036  會計學（一）】、【BAU0037  會計學（二）】、【BAU0040  統計學（一）】、【BAU0041  統計學（二）】、【BAU0007  財務管理】",
+    "form_s": "3",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "在金融市場日益創新、理財需求日趨殷切之今日，能夠成熟多樣化的投資工具與市場發展，並掌握市場動態以洞燭投資先機，無論對個人理財規劃或企業財務決策均是重要課題。特別地，2007年美國爆發次級房貸風暴，2008年全球性的金融危機，引起全球金融市場的震撼，亦使投資思維逐漸地改變。因此，本課程旨在探討投資學相關理論及其推導，並佐以國內外實務範例或個案說明，使學生了解（1）哪些資產可以進行投資；（2）瞭解資產的風險與預期報酬率；（3）評估資產價值；（4）分析影響資產價格的因素；（5）瞭解各種投資策略，以提升投資的報酬或控制投資風險。",
+    "goals": [
+        "1.\tUnderstand the fundamental principles of investment in financial markets:",
+        "Gain a quantitative understanding of:a.Portfolio choice decisions b.Equity and bond pricingc.Rationale for use of derivatives",
+        "3.Acquire a basic understanding of:a.Common investment vehicles b.Risk and return analysis"
+    ],
+    "syllabus": "Week 1: introduction (Ch. 1, 2)\n\n•Week 2: review of statistical concepts (lecture note)\n\n•Week 3: review of mathematical concepts (lecture note)\n\n•Week 4: how securities are traded (Ch.3)\n\n•Week 5: portfolio theory and practice (Ch. 7, 8)\n\n•Week 6: portfolio theory and practice (Ch. 7, 8)\n\n•Week 7: equilibrium in capital markets (Ch.11, 12)\n\n•Week 8: equilibrium in capital markets (Ch.11, 12), case study 1\n\n•Week 9: midterm exam\n\n•Week 10: equities (Ch.18)\n\n•Week 11: equities (Ch.18)\n\n•Week 12: fixed income analysis (Ch.14, 16)\n\n•Week 13: fixed income analysis (Ch.14, 16)\n\n•Week 14: fixed income analysis (Ch.14, 16)\n\n•Week 15: applied portfolio management (Ch.24), case study 2\n\n•Week 16: mini-conference\n\n•Week 17: mini-conference, final review\n\n•Week 18: final exam",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "48 hours per semester"
+        },
+        {
+            "type": "討論法",
+            "note": "6 hours for mini conference and group project"
+        },
+        {
+            "type": "問題解決教學",
+            "note": "2 self-study problem sets per semester"
+        },
+        {
+            "type": "實驗/實作",
+            "note": "4 lab sessions per semester"
+        },
+        {
+            "type": "專題研究",
+            "note": "2~3 business cases"
+        },
+        {
+            "type": "其他",
+            "note": "I will use Socrative quite extensively. You will share your understanding by answering assessment questions such as quizzes or quick question polls."
+        }
+    ],
+    "grading": [
+        {
+            "type": "期中考",
+            "weight": 30,
+            "note": "The exam will cover all the topics discussed up to the time. The exam will consist of multiple choice questions and quantitative problems. Unless I indicate otherwise, everything discussed in class may appear in the exam."
+        },
+        {
+            "type": "期末考",
+            "weight": 40,
+            "note": "The final exam will take place during the final exam week. It is cumulative and will cover the entire course materials. The final exam will be more challenging than the midterm exam."
+        },
+        {
+            "type": "報告",
+            "weight": 20,
+            "note": "The purpose of group project is to get familiar with recent developments of international financial markets to make up the under-coverage of them in the lectures. Groups of two people must be formed and should stay together until the end of semester. Each group could choose a topic by themselves. I welcome any “dangerous ideas”, so please do feel free to choose any topics. My emphasis is on economic insight and inspiration, not on popularity or formality.\nThe project will be judged by your report (no more than 10 pages, one-half spaced with times new roman 11 points) and presentation. Don’t make your introduction any longer than two pages. If you go on much more than two pages, you may tire out your readers. You should discuss what inspires you to choose your topic. The next section, the main body of your report, is where you tell your audience. This section should be at least five pages long, perhaps six or seven. Before going on to your conclusion, I urge you to discuss some practical implications. The last page of your report should be a bibliography section. List up all your references such as books, journal papers, news sources, and websites."
+        },
+        {
+            "type": "專題",
+            "weight": 10,
+            "note": "You place yourselves in the role of the decision maker as you read through the situation and identify the problem you are faced with. The next step is to perform the necessary analysis - examining the causes and considering alternative courses of actions to come to a set of recommendations. I expect every student to come to class prepared to discuss the assigned readings. I will call on every student, and I will expect each of you to discuss ideas from each assigned reading and consistently throughout each class."
+        }
+    ],
+    "prerequisite": "◎必須先修過【BAU0038  經濟學（一）】、【BAU0039  經濟學（二）】、【BAU0036  會計學（一）】、【BAU0037  會計學（二）】、【BAU0040  統計學（一）】、【BAU0041  統計學（二）】、【BAU0007  財務管理】",
+    "general_core": []
+}

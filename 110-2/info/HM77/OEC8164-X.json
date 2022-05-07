@@ -1,0 +1,78 @@
+{
+    "year": 110,
+    "term": 2,
+    "name": "材料光學",
+    "teachers": [
+        "李亞儒"
+    ],
+    "department": "HM77",
+    "code": "OEC8164",
+    "credit": 3,
+    "serial": 1139,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 2,
+            "to": 4,
+            "campus": "公館",
+            "classroom": "Ｓ305"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "",
+    "goals": [
+        "To understand the classical theory of light propagation in solid state materials.",
+        "To understand the quantum theory of absorption and emission in solids.",
+        "To discuss next generation of optical materials, devices and systems application development and trends"
+    ],
+    "syllabus": "【Teaching method: 16+2 weeks】\n\n  \n\nWeek1-2      Introduction, the complex refractive index\n\nWeek3-5      Lorentz oscillators, dispersion, birefringence\n\nWeek6-7      Interband absorption, excitons\n\nWeek8         Midterm Exam\n\nWeek9-10     Luminescence\n\nWeek11-12   Quantum confined structures\n\nWeek13-14   Metals, doped semiconductors\n\nWeek15        Prospective application development and trend of low-dimensional near-field optical materials, components and systems\n\nWeek16        Final Exam\n\nWeek17-18   Self-learning",
+    "methodologies": [
+        {
+            "type": "Formal lecture",
+            "note": "Introduce important concepts and theories of materials optics. From the classical material optics theory that establishes the student's foundation, guide students to learn the miniaturized quantum material optics theory by themselves, as well as the application technology and knowledge of next-generation optical materials, components and systems, and strengthen their thinking about future application fields."
+        },
+        {
+            "type": "Group discussion",
+            "note": "Open class discussions increase student interaction, communication, and student learning benefits."
+        },
+        {
+            "type": "Problem base learning",
+            "note": "Provide exercises and homework for students to practice after class, make use of classroom teaching content, and solve problems."
+        }
+    ],
+    "grading": [
+        {
+            "type": "Assignments",
+            "weight": 20,
+            "note": "Students write homework assignments, and the students' submission and scores will be used to evaluate the assignments."
+        },
+        {
+            "type": "Midterm Exam",
+            "weight": 35,
+            "note": "To test students' understanding and familiarity with the subject, the propositions are in the form of calculation and short answer questions."
+        },
+        {
+            "type": "Final exam",
+            "weight": 35,
+            "note": "To test students' understanding and familiarity with the subject, the propositions are in the form of calculation and short answer questions."
+        },
+        {
+            "type": "Attendances",
+            "weight": 10,
+            "note": "Assessed by students' class attendance."
+        }
+    ],
+    "prerequisite": "◎Available for junior and senior year B.A. program students (Doctoral program courses excepted) and M.A. program students.",
+    "general_core": []
+}

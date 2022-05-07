@@ -1,0 +1,74 @@
+{
+    "year": 107,
+    "term": 1,
+    "name": "應用統計學",
+    "teachers": [
+        "李子奇"
+    ],
+    "department": "EU05",
+    "code": "HEC9007",
+    "credit": 2,
+    "serial": 717,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 1,
+            "to": 2,
+            "campus": "本部",
+            "classroom": "誠105"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎必須先修過(也可以同時修)【HEU0156  健康促進與衛生教育導論】",
+    "form_s": "",
+    "classes": "9",
+    "dept_group": "",
+    "hours": 2,
+    "description": "本課程是生物統計學的進階課程，介紹變異數分析、迴歸分析與存活分析。",
+    "goals": [
+        "描述性統計及推論統計的方法與其應用",
+        "運用於健康促進與衛生教育的工作之中",
+        "認識統計的內含與過程"
+    ],
+    "syllabus": "本課程是生物統計學的延伸課程，介紹卡方檢定、變異數分析、迴歸分析、無母數統計。\n\n週次/Week\n\n**課程內容****(****中文****)**\n\n**Content**\n\n1\n\n課程簡介\n\nIntroduction\n\n2\n\n卡方檢定(Daniel Ch12)\n\nChi-square test (Daniel Ch12)\n\n3\n\n卡方檢定(Daniel Ch12)\n\nChi-square test (Daniel Ch12)\n\n4\n\n單向變異數分析 (Daniel Ch8)\n\nOne-way ANOVA (Daniel Ch8)\n\n5\n\n單向變異數分析 (Daniel Ch8)\n\nOne-way ANOVA (Daniel Ch8)\n\n6\n\n雙向變異數分析 (Daniel Ch8)\n\nTwo-way ANOVA (Daniel Ch8)\n\n7\n\n雙向變異數分析 (Daniel Ch8)\n\nTwo-way ANOVA (Daniel Ch8)\n\n8\n\n重複測量設計  (Daniel Ch8)\n\nRepeated measures design (Daniel Ch8)\n\n9\n\n期中考\n\nMid-term Examination\n\n10\n\n簡單迴歸分析與簡單相關 (Daniel Ch9)\n\nSimple linear regression and simple correlation (Daniel Ch9)\n\n11\n\n簡單迴歸分析與簡單相關 (Daniel Ch9)\n\nSimple linear regression and simple correlation (Daniel Ch9)\n\n12\n\n多元迴歸分析 (Daniel Ch10)\n\nMultiple linear regression (Daniel Ch10)\n\n13\n\n多元迴歸分析 (Daniel Ch10)\n\nMultiple linear regression (Daniel Ch10)\n\n14\n\n多元迴歸分析 (Daniel Ch10)\n\nMultiple linear regression (Daniel Ch10)\n\n15\n\n邏輯斯迴歸分析 (Daniel Ch11)\n\nLogistic regression (Daniel Ch11)\n\n16\n\n邏輯斯迴歸分析 (Daniel Ch11)\n\nLogistic regression (Daniel Ch11)\n\n17\n\n無母數統計(Daniel Ch13)\n\nNon-parametric statistics (Daniel Ch13)\n\n18\n\n期末考\n\nFinal-term Examination",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "教科書內容導讀與講解"
+        },
+        {
+            "type": "討論法",
+            "note": "疑難問題課堂討論"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 30,
+            "note": "個人回家作業"
+        },
+        {
+            "type": "期中考",
+            "weight": 30,
+            "note": "紙筆測驗"
+        },
+        {
+            "type": "期末考",
+            "weight": 30,
+            "note": "紙筆測驗"
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 10,
+            "note": ""
+        }
+    ],
+    "prerequisite": "◎必須先修過(也可以同時修)【HEU0156  健康促進與衛生教育導論】",
+    "general_core": []
+}

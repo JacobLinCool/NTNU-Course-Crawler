@@ -1,0 +1,85 @@
+{
+    "year": 107,
+    "term": 1,
+    "name": "電腦輔助產品設計",
+    "teachers": [
+        "陳佳宏"
+    ],
+    "department": "TU68",
+    "code": "VDU0223",
+    "credit": 3,
+    "serial": 3118,
+    "group": "",
+    "quota": {
+        "limit": 30,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 10,
+            "to": 12,
+            "campus": "本部",
+            "classroom": "設計系2B教室"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎必須先修過【VDU0217  基礎模型製作】",
+    "form_s": "2",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "1、AutoCAD圖層顏色等及環境規劃與編輯、直線、修剪、延伸、線段等分、文字輸入、存檔等(Line、Layer、Trim、Extend、Point Type 、Divide、Offset、Erase、Explode、Zoom、Undo、Redo、F1、F3、F7、F8、F9、Text、Tedit、DDedit、Save…)。 2、AutoCAD圓、圓弧、直線相切等幾何圖形的繪製與編修(Circle、Arc、Osnap、、Line type、Style、…)。 3、AutoCAD多邊形、倒角、圓角等幾何圖形的繪製與編修(Polygon、Chamfer、Fillet、Copy、Move、Mirror…)。 4、AutoCAD插入圖塊與影像、尺度標註與編輯(Insert、Block、Wblock、Imageframe、DDIM…)。 5、AutoCAD填入顏色剖面線應用與出圖(BHATCH、Hatchedit、Plot…)。 6、Inventor視窗介紹、環境規劃與編輯、限制條件、繪製草圖、特徵之擠出除料與圓孔。 7、Inventor實體編修(圓角、去角、薄殼、面拔模) 建立工作平面、工作軸、實體建構(旋轉、圓孔與螺旋、螺紋、斷面混成、掃掠、補強肋)。 8、Inventor特徵複製（陣列、鏡射）實體編修(分割、浮雕等)。 9、期中考 10、實體與板金。 11、Inventor 3D實體工程圖的投影(圖框、標題欄、型式編輯器的設定、基準視圖、投影視圖、編輯視圖、對齊視圖、圖層設定、實體模型與尺度標註)。 12、工程圖投影與編修(全剖與局部視圖，草圖應用、尺度標註與出圖)。 13、實體組合（置入構建、限制條件、零件庫之使用、動作限制條件）。 14、實體總組合、次組合與設計中心的使用。 15、組合之簡報立體系統圖。 16、動態Avi檔案的展示與機構模擬。 17、Inventor 3D組合投影出視圖中插入件號與零件表的編修，工程圖轉AutoCAD後圖層、線型、顏色等設定與編輯。 18、期末考",
+    "goals": [
+        "學習AutoCAD基本操作",
+        "學習Inventor基礎操作"
+    ],
+    "syllabus": "1、AutoCAD圖層顏色等及環境規劃與編輯、直線、修剪、延伸、線段等分、文字輸入、存檔等(Line、Layer、Trim、Extend、Point Type 、Divide、Offset、Erase、Explode、Zoom、Undo、Redo、F1、F3、F7、F8、F9、Text、Tedit、DDedit、Save…)。\n\n2、AutoCAD圓、圓弧、直線相切等幾何圖形的繪製與編修(Circle、Arc、Osnap、、Line type、Style、…)。\n\n3、AutoCAD多邊形、倒角、圓角等幾何圖形的繪製與編修(Polygon、Chamfer、Fillet、Copy、Move、Mirror…)。\n\n4、AutoCAD插入圖塊與影像、尺度標註與編輯(Insert、Block、Wblock、Imageframe、DDIM…)。\n\n5、AutoCAD填入顏色剖面線應用與出圖(BHATCH、Hatchedit、Plot…)。\n\n6、Inventor視窗介紹、環境規劃與編輯、限制條件、繪製草圖、特徵之擠出除料與圓孔。\n\n7、Inventor實體編修(圓角、去角、薄殼、面拔模) 建立工作平面、工作軸、實體建構(旋轉、圓孔與螺旋、螺紋、斷面混成、掃掠、補強肋)。\n\n8、Inventor特徵複製（陣列、鏡射）實體編修(分割、浮雕等)。\n\n9、期中考\n\n10、實體與板金。\n\n11、Inventor 3D實體工程圖的投影(圖框、標題欄、型式編輯器的設定、基準視圖、投影視圖、編輯視圖、對齊視圖、圖層設定、實體模型與尺度標註)。\n\n12、工程圖投影與編修(全剖與局部視圖，草圖應用、尺度標註與出圖)。\n\n13、實體組合（置入構建、限制條件、零件庫之使用、動作限制條件）。\n\n14、實體總組合、次組合與設計中心的使用。\n\n15、組合之簡報立體系統圖。\n\n16、動態Avi檔案的展示與機構模擬。\n\n17、Inventor 3D組合投影出視圖中插入件號與零件表的編修，工程圖轉AutoCAD後圖層、線型、顏色等設定與編輯。\n\n18、期末考",
+    "methodologies": [
+        {
+            "type": "問題解決教學",
+            "note": ""
+        },
+        {
+            "type": "合作學習",
+            "note": ""
+        },
+        {
+            "type": "實驗/實作",
+            "note": ""
+        },
+        {
+            "type": "實地考察、參訪",
+            "note": ""
+        },
+        {
+            "type": "媒體融入教學",
+            "note": "課堂講解、廣播示範與操作同時進行，使用Autodesk軟體AutoCAD、Inventor及Revit Architecture進行教學，以增加學生此軟體2D與3D的實務應用能力。"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "期中考",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "出席",
+            "weight": 10,
+            "note": ""
+        }
+    ],
+    "prerequisite": "◎必須先修過【VDU0217  基礎模型製作】",
+    "general_core": []
+}

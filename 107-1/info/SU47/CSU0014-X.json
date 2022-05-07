@@ -1,0 +1,73 @@
+{
+    "year": 107,
+    "term": 1,
+    "name": "組合語言",
+    "teachers": [
+        "紀博文"
+    ],
+    "department": "SU47",
+    "code": "CSU0014",
+    "credit": 3,
+    "serial": 2977,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 7,
+            "to": 7,
+            "campus": "公館",
+            "classroom": "綜合館002"
+        },
+        {
+            "day": 4,
+            "from": 8,
+            "to": 9,
+            "campus": "公館",
+            "classroom": "Ｂ103"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "2",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "藉由個人電腦組合語言瞭解計算機的內部組織和動作原理。",
+    "goals": [
+        "使用組合語言寫程式",
+        "瞭解計算機內部結構在程式執行時的操作狀況",
+        "瞭解計算機內部結構",
+        "基本輸入輸出系統(BIOS)的寫作"
+    ],
+    "syllabus": "1.  Introduction to your computer.\n2.  Numbers and Computers.\n3.  Introduction to Linux.\n4.  x86, x64 and NASM.\n5.  Data Size and Arithmetic.\n6.  Control Structures.\n7.  Bit Operations.\n8.  Subprograms.\n9.  Compiler.\n10.  Linking.\n11.  Debugging.",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 40,
+            "note": ""
+        },
+        {
+            "type": "期中考",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 30,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

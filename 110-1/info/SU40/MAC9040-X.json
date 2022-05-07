@@ -1,0 +1,73 @@
+{
+    "year": 110,
+    "term": 1,
+    "name": "流行病學的數理模型",
+    "teachers": [
+        "陳建隆"
+    ],
+    "department": "SU40",
+    "code": "MAC9040",
+    "credit": 3,
+    "serial": 2790,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 2,
+            "to": 4,
+            "campus": "公館",
+            "classroom": "數學館M210"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "",
+    "classes": "9",
+    "dept_group": "",
+    "hours": 3,
+    "description": "",
+    "goals": [
+        "理解疾病傳播的數理模型與人爲政策干預如何影響",
+        "理解數理模型之探究所需要的數學理論",
+        "解決專題問題"
+    ],
+    "syllabus": "此課程裡，我預計利用相關數學模型來對流行病的傳播作一個數學探討與學習。\n\n我們同時也嘗試學習去利用數學模型來對包含受矚目的 HIV/AIDS 與 COVID-19 等病毒傳播數據作一數值模擬的預測。\n\n課程裡會運用到微積分與矩陣計算的一些基本知識。非常歡迎同學們來一起修課學習。\n\n此課程也會建立一個學習上的Line群組，來促進與方便修課同學們與我大家共同對流行病相關數理主題的討論。\n\n下述是此課程的大綱：\n\nThis course would like to attract  who are interested in mathematical models and its applications to various mathematical models of infectious diseases. The mathematical models provide approaches to study how mathematical concepts could help us in investigating the spread of infectious pathogens (e.g., viruses, bacteria) through dynamic populations. There are three main objectives: \n\n (1) Basic principles of mathematical models in infectious disease epidemiology\n\n(2) Mathematics and methods required as studying these mathematical models in epidemiology. \n\n(3) Applying mathematical models to existing data as little projects/experiments (e.g., math. models vs. growth of Covid-19 infectious population).\n\nWeek 1-6 (including mid-termone exam): Basic Concepts of Mathematical Epidemiology\n\n1 Introductionto Mathematical Epidemiology\n\n2 Simple Compartmental Models for Disease Transmission\n\n3 Endemic Disease Models\n\n4 Epidemic Models\n\n5 Models with Heterogeneous Mixing\n\n6 Models for Diseases Transmitted by Vectors\n\nWeek 7-12 (including mid-termone exam): Models for Specific Diseases\n\n7 Modelsfor Tuberculosis.\n\n8 Models for HIV/AIDS\n\n9 Modelsfor Influenza\n\n10 Models for Ebola.\n\n11 Models for Malaria\n\n12 Dengue Fever and the ZikaVirus\n\nWeek 13-16: Project Studies(in Working Groups)",
+    "methodologies": [
+        {
+            "type": "Formal lecture",
+            "note": "老師上課講解課程內容"
+        },
+        {
+            "type": "Lab/Studio",
+            "note": "此課程會同時建立一個學習上的Line群組，來促進與方便修課同學們與我大家共同對流行病相關數理主題的理論與數值模擬討論。"
+        },
+        {
+            "type": "Case studies",
+            "note": "此課程會同時建立一個學習上的Line群組，來促進與方便修課同學們與我大家共同對流行病相關數理主題的理論與數值模擬討論。"
+        }
+    ],
+    "grading": [
+        {
+            "type": "Assignments",
+            "weight": 20,
+            "note": ""
+        },
+        {
+            "type": "Midterm Exam",
+            "weight": 40,
+            "note": "期中考2次，每次百分之20"
+        },
+        {
+            "type": "Case study reports",
+            "weight": 40,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

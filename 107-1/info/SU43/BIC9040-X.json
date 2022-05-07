@@ -1,0 +1,82 @@
+{
+    "year": 107,
+    "term": 1,
+    "name": "訊息傳遞",
+    "teachers": [
+        "林炎壽"
+    ],
+    "department": "SU43",
+    "code": "BIC9040",
+    "credit": 3,
+    "serial": 2903,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 2,
+            "to": 4,
+            "campus": "公館",
+            "classroom": "Ｃ302"
+        }
+    ],
+    "programs": [],
+    "comment": "碩士班學生請於加退選時跟任課教師拿授權碼選課。",
+    "restrict": "◎必須先修過【BIU0044  遺傳學】、【BIU0143  生物化學】",
+    "form_s": "",
+    "classes": "9",
+    "dept_group": "",
+    "hours": 3,
+    "description": "於後基因體時代，有一半的基因/蛋白質尚未知其功能，而於已知功能的基因中又有約五分之一被歸類於訊息傳遞之基因/蛋白質。此一新範疇也因基礎研究的擴增而日益深入及複雜；對醫藥如標靶藥物的開發亦極具影響。因此教學目標為使修習者熟悉訊息傳遞學之基礎知識及研究新知，另外使其對研究新知具思考之能力；也希望研究生於修習此課程後除了達成上述兩項目標外，能更具備創新的思考。這將對有興趣於訊息傳遞學本身或是想進而研究此一學科者極有助益。",
+    "goals": [
+        "增進訊息傳遞學基本概念的理解",
+        "發展研究生科學思維能力",
+        "培養研究生問題導向的思維和研究能力"
+    ],
+    "syllabus": "第一週    Introduction\n\n第二週   General concept about signaling\n\n第三週   I. G protein-coupled receptors pathway–Part1of2\n\n第四週   I. G protein-coupled receptors pathway–Part2of2\n\n第五週   II. Receptor tyrosine kinases pathway–Part1of2\n\n第六週   II. Receptor tyrosine kinases pathway–Part1of2\n\n第七週   III. Cytokine receptors pathway, IV. TGFβ receptors pathway\n\n第八週     Paper discussion and Students’ presentation\n\n第九週     期中考\n\n第十週     V. Wnt receptors pathway, VI. Hedgehog receptors pathway\n\n第十一週  Paper discussion and Students’ presentation\n\n第十二週  VII. TNF receptors pathway, VIII. Notch receptors pathway\n\n第十三週  Paper discussion and Students’ presentation\n\n第十四週  IX. Apoptosis pathway\n\n第十五週  Paper discussion and Students’ presentation\n\n第十六週  X. Embryonic stem cell biology and signaling\n\n第十七週  Paper discussion and Students’ presentation (General Summary)\n\n第十八週  期末考",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "使用一般課本、自編講義媒材授課"
+        },
+        {
+            "type": "討論法",
+            "note": "依據paper之實驗結果來討論結論之確實性"
+        },
+        {
+            "type": "問題解決教學",
+            "note": "也依據paper之實驗編排來探討邏輯之運用"
+        },
+        {
+            "type": "媒體融入教學",
+            "note": "運用數位平台與自製簡報檔案教學"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 60,
+            "note": "期中書面報告(30%)\n1-1具備生命科學之專業知識 (30%)\n2-1具備運用生命科學相關研究方法與技術的能力(30%)\n3-1具備正確的科學態度，能主動探索生命科學之相關議題 (20%).\n4-1具備以多元表徵轉化生命科學概念之溝通與表達能力(20%).\n期末書面報告(30%)\n1-1具備生命科學之專業知識 (30%)\n2-1具備運用生命科學相關研究方法與技術的能力(30%)\n3-1具備正確的科學態度，能主動探索生命科學之相關議題 (20%)\n4-1具備以多元表徵轉化生命科學概念之溝通與表達能力(20%)"
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 10,
+            "note": "1-1具備生命科學之專業知識 (30%)\n2-1具備運用生命科學相關研究方法與技術的能力(30%)\n3-1具備正確的科學態度，能主動探索生命科學之相關議題 (20%)\n4-1具備以多元表徵轉化生命科學概念之溝通與表達能力(20%)"
+        },
+        {
+            "type": "出席",
+            "weight": 10,
+            "note": "1-1具備生命科學之專業知識 (30%)\n2-1具備運用生命科學相關研究方法與技術的能力(30%)\n3-1具備正確的科學態度，能主動探索生命科學之相關議題 (20%)\n4-1具備以多元表徵轉化生命科學概念之溝通與表達能力(20%)"
+        },
+        {
+            "type": "報告",
+            "weight": 20,
+            "note": "1-1具備生命科學之專業知識 (30%)\n2-1具備運用生命科學相關研究方法與技術的能力(30%)\n3-1具備正確的科學態度，能主動探索生命科學之相關議題 (20%)\n4-1具備以多元表徵轉化生命科學概念之溝通與表達能力(20%)"
+        }
+    ],
+    "prerequisite": "◎必須先修過【BIU0044  遺傳學】、【BIU0143  生物化學】",
+    "general_core": []
+}

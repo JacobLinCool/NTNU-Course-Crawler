@@ -1,0 +1,554 @@
+[
+    {
+        "year": 109,
+        "term": 1,
+        "name": "高等振動學",
+        "teachers": [
+            "楊啟榮"
+        ],
+        "department": "HM73",
+        "code": "MTC8004",
+        "credit": 3,
+        "serial": 1202,
+        "group": "",
+        "quota": {
+            "limit": 30,
+            "additional": 12
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 7,
+                "to": 9,
+                "campus": "本部",
+                "classroom": "機電302會議室"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎課程開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 1,
+        "name": "微處理器控制系統",
+        "teachers": [
+            "呂有勝"
+        ],
+        "department": "HM73",
+        "code": "MTC8010",
+        "credit": 3,
+        "serial": 1203,
+        "group": "",
+        "quota": {
+            "limit": 30,
+            "additional": 12
+        },
+        "schedule": [
+            {
+                "day": 5,
+                "from": 2,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "CAD/CAM"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎課程開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 1,
+        "name": "高功率半導體元件",
+        "teachers": [
+            "鄭淳護"
+        ],
+        "department": "HM73",
+        "code": "MTC8012",
+        "credit": 3,
+        "serial": 1204,
+        "group": "",
+        "quota": {
+            "limit": 30,
+            "additional": 12
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 7,
+                "to": 9,
+                "campus": "本部",
+                "classroom": "機電301會議室"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎必須先修過【MTU0075  應用電子學（一）】、【MTC0024  半導體元件物理】 ◎課程開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 1,
+        "name": "熱對流",
+        "teachers": [
+            "張天立"
+        ],
+        "department": "HM73",
+        "code": "MTC8013",
+        "credit": 3,
+        "serial": 1205,
+        "group": "",
+        "quota": {
+            "limit": 30,
+            "additional": 12
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 2,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "機電301會議室"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎必須先修過【MTU0060  流體力學】、【MTU0067  熱傳學】 ◎課程開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 1,
+        "name": "工程統計",
+        "teachers": [
+            "屠名正"
+        ],
+        "department": "HM73",
+        "code": "MTC8015",
+        "credit": 3,
+        "serial": 1206,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 10,
+                "to": 12,
+                "campus": "本部",
+                "classroom": "教403"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎課程開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 1,
+        "name": "書報討論（一）－碩士班",
+        "teachers": [
+            "吳順德",
+            "張天立"
+        ],
+        "department": "HM73",
+        "code": "MTM0089",
+        "credit": 1,
+        "serial": 1207,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 7,
+                "to": 7,
+                "campus": "本部",
+                "classroom": "工教系會議室"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎課程開放上修",
+        "form_s": "1",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 1,
+        "name": "書報討論（三）－碩士班",
+        "teachers": [
+            "吳順德",
+            "張天立"
+        ],
+        "department": "HM73",
+        "code": "MTM0091",
+        "credit": 1,
+        "serial": 1208,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 7,
+                "to": 7,
+                "campus": "本部",
+                "classroom": "工教系會議室"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎課程開放上修",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 1,
+        "name": "有限元素分析",
+        "teachers": [
+            "屠名正"
+        ],
+        "department": "HU73",
+        "code": "MTC0004",
+        "credit": 3,
+        "serial": 1312,
+        "group": "",
+        "quota": {
+            "limit": 30,
+            "additional": 12
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 10,
+                "to": 12,
+                "campus": "本部",
+                "classroom": "CAD/CAM"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎必須先修過【MTU0026  材料力學】",
+        "form_s": "",
+        "classes": "9",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 1,
+        "name": "數值分析",
+        "teachers": [
+            "屠名正"
+        ],
+        "department": "HU73",
+        "code": "MTC0007",
+        "credit": 3,
+        "serial": 1313,
+        "group": "",
+        "quota": {
+            "limit": 30,
+            "additional": 12
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 10,
+                "to": 12,
+                "campus": "本部",
+                "classroom": "CAD/CAM"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "",
+        "classes": "9",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 1,
+        "name": "微機電系統原理與應用",
+        "teachers": [
+            "楊啟榮"
+        ],
+        "department": "HU73",
+        "code": "MTC0009",
+        "credit": 3,
+        "serial": 1314,
+        "group": "",
+        "quota": {
+            "limit": 30,
+            "additional": 12
+        },
+        "schedule": [
+            {
+                "day": 5,
+                "from": 2,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "機電301會議室"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "",
+        "classes": "9",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 1,
+        "name": "超精密加工",
+        "teachers": [
+            "陳順同"
+        ],
+        "department": "HU73",
+        "code": "MTC0010",
+        "credit": 3,
+        "serial": 1315,
+        "group": "",
+        "quota": {
+            "limit": 30,
+            "additional": 12
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 7,
+                "to": 9,
+                "campus": "本部",
+                "classroom": "機電301會議室"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "",
+        "classes": "9",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 1,
+        "name": "應用光學",
+        "teachers": [
+            "鄧敦建"
+        ],
+        "department": "HU73",
+        "code": "MTC0019",
+        "credit": 3,
+        "serial": 1316,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 2,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "教403"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "",
+        "classes": "9",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 1,
+        "name": "半導體元件物理",
+        "teachers": [
+            "劉傳璽"
+        ],
+        "department": "HU73",
+        "code": "MTC0024",
+        "credit": 3,
+        "serial": 1317,
+        "group": "",
+        "quota": {
+            "limit": 30,
+            "additional": 12
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 2,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "工501"
+            }
+        ],
+        "programs": [
+            "太陽能源與工程學程"
+        ],
+        "comment": "",
+        "restrict": "",
+        "form_s": "",
+        "classes": "9",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 1,
+        "name": "雷射工程技術與應用",
+        "teachers": [
+            "鄧敦建",
+            "張天立"
+        ],
+        "department": "HU73",
+        "code": "MTC0027",
+        "credit": 3,
+        "serial": 1319,
+        "group": "",
+        "quota": {
+            "limit": 30,
+            "additional": 12
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 2,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "機電301會議室"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "",
+        "classes": "9",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 1,
+        "name": "精密機械系統設計與實務",
+        "teachers": [
+            "陳順同"
+        ],
+        "department": "HU73",
+        "code": "MTC9002",
+        "credit": 3,
+        "serial": 1320,
+        "group": "",
+        "quota": {
+            "limit": 30,
+            "additional": 12
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 10,
+                "to": 12,
+                "campus": "本部",
+                "classroom": "教室自排"
+            }
+        ],
+        "programs": [],
+        "comment": "上課教室安排於教師研究室",
+        "restrict": "◎必須先修過【MTU0005  機械製造】",
+        "form_s": "",
+        "classes": "9",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 1,
+        "name": "物件導向程式設計",
+        "teachers": [
+            "吳順德"
+        ],
+        "department": "HU73",
+        "code": "MTC9006",
+        "credit": 3,
+        "serial": 1321,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 15
+        },
+        "schedule": [
+            {
+                "day": 5,
+                "from": 10,
+                "to": 12,
+                "campus": "本部",
+                "classroom": "教401"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎必須先修過【MTU0012  程式設計】",
+        "form_s": "",
+        "classes": "9",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 1,
+        "name": "製造聯網整合技術",
+        "teachers": [
+            "楊啟榮",
+            "張國維",
+            "屠名正",
+            "吳順德"
+        ],
+        "department": "HU73",
+        "code": "MTC9011",
+        "credit": 3,
+        "serial": 1323,
+        "group": "",
+        "quota": {
+            "limit": 30,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 7,
+                "to": 9,
+                "campus": "本部",
+                "classroom": "機電302會議室"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "",
+        "classes": "9",
+        "dept_group": ""
+    }
+]

@@ -1,0 +1,298 @@
+[
+    {
+        "year": 109,
+        "term": 2,
+        "name": "高級教育統計學（甲）",
+        "teachers": [
+            "劉振維"
+        ],
+        "department": "E",
+        "code": "E0C8001",
+        "credit": 3,
+        "serial": 371,
+        "group": "A",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 2,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "教育學院第2會議室-大"
+            }
+        ],
+        "programs": [
+            "學習與資訊學程",
+            "大數據學程"
+        ],
+        "comment": "",
+        "restrict": "◎課程不開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 2,
+        "name": "教育研究論文寫作",
+        "teachers": [
+            "林宗進",
+            "蔡今中"
+        ],
+        "department": "E",
+        "code": "E0C8010",
+        "credit": 3,
+        "serial": 376,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 5,
+                "to": 7,
+                "campus": "本部",
+                "classroom": "教育學院第2會議室-大"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎課程不開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 2,
+        "name": "知識組織專題研究",
+        "teachers": [
+            "陳昭珍",
+            "柯皓仁",
+            "杉本重雄"
+        ],
+        "department": "ED15",
+        "code": "ISD0210",
+        "credit": 3,
+        "serial": 413,
+        "group": "",
+        "quota": {
+            "limit": 30,
+            "additional": 0
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 7,
+                "to": 9,
+                "campus": "本部",
+                "classroom": "圖資所博士班研討室"
+            }
+        ],
+        "programs": [],
+        "comment": "◎數位課程",
+        "restrict": "◎課程開放上修",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 2,
+        "name": "專題討論（一）",
+        "teachers": [
+            "謝建成"
+        ],
+        "department": "ED15",
+        "code": "ISD0610",
+        "credit": 1,
+        "serial": 414,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 5,
+                "to": 6,
+                "campus": "本部",
+                "classroom": "圖資所研討室B"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎課程開放上修",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 2,
+        "name": "知識管理研究",
+        "teachers": [
+            "吳怡瑾"
+        ],
+        "department": "EM15",
+        "code": "ISC0210",
+        "credit": 3,
+        "serial": 522,
+        "group": "",
+        "quota": {
+            "limit": 26,
+            "additional": 0
+        },
+        "schedule": [
+            {
+                "day": 5,
+                "from": 2,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "教404"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎課程開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 2,
+        "name": "資訊架構專題研究",
+        "teachers": [
+            "謝建成"
+        ],
+        "department": "EM15",
+        "code": "ISC0411",
+        "credit": 3,
+        "serial": 523,
+        "group": "",
+        "quota": {
+            "limit": 30,
+            "additional": 3
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 2,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "圖資所研討室B"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎課程開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 2,
+        "name": "資料探勘技術與應用專題研究",
+        "teachers": [
+            "吳怡瑾"
+        ],
+        "department": "EM15",
+        "code": "ISC8004",
+        "credit": 3,
+        "serial": 524,
+        "group": "",
+        "quota": {
+            "limit": 26,
+            "additional": 0
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 2,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "教404"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎課程開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 2,
+        "name": "數位人文的人工智慧",
+        "teachers": [
+            "曾元顯"
+        ],
+        "department": "EM15",
+        "code": "ISC8007",
+        "credit": 3,
+        "serial": 525,
+        "group": "",
+        "quota": {
+            "limit": 30,
+            "additional": 3
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 7,
+                "to": 9,
+                "campus": "本部",
+                "classroom": "圖資所研討室A"
+            }
+        ],
+        "programs": [
+            "數位人文與藝術學程"
+        ],
+        "comment": "",
+        "restrict": "◎課程開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 2,
+        "name": "科技輔助協同合作",
+        "teachers": [
+            "袁千雯"
+        ],
+        "department": "EM15",
+        "code": "ISC8009",
+        "credit": 3,
+        "serial": 526,
+        "group": "",
+        "quota": {
+            "limit": 30,
+            "additional": 3
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 7,
+                "to": 9,
+                "campus": "本部",
+                "classroom": "圖資所研討室A"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎課程開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    }
+]

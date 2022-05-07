@@ -1,0 +1,1995 @@
+[
+    {
+        "year": 107,
+        "term": 2,
+        "name": "教育統計學（一）",
+        "teachers": [
+            "余穎麒"
+        ],
+        "department": "E",
+        "code": "E0U0001",
+        "credit": 2,
+        "serial": 355,
+        "group": "A",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 8,
+                "to": 9,
+                "campus": "本部",
+                "classroom": "樸301"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "教育統計學（一）",
+        "teachers": [
+            "謝建成"
+        ],
+        "department": "E",
+        "code": "E0U0001",
+        "credit": 2,
+        "serial": 356,
+        "group": "B",
+        "quota": {
+            "limit": 30,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 3,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "教室自排"
+            }
+        ],
+        "programs": [],
+        "comment": "上課教室：圖資所研討A教室    須自備筆電",
+        "restrict": "",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "教育統計學（二）",
+        "teachers": [
+            "郭郡羽"
+        ],
+        "department": "E",
+        "code": "E0U0002",
+        "credit": 2,
+        "serial": 357,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 5,
+                "from": 9,
+                "to": 10,
+                "campus": "本部",
+                "classroom": "誠207"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎必須先修過【E0U0001  教育統計學（一）】",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "教育統計學（二）",
+        "teachers": [
+            "盧雪梅"
+        ],
+        "department": "E",
+        "code": "E0U0002",
+        "credit": 2,
+        "serial": 358,
+        "group": "A",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 3,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "正301"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎限心輔系（學）選修◎必須先修過【E0U0001  教育統計學（一）】",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "教育統計學（二）",
+        "teachers": [
+            "吳清麟"
+        ],
+        "department": "E",
+        "code": "E0U0002",
+        "credit": 2,
+        "serial": 359,
+        "group": "B",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 3,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "特115"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎限特教系（學）選修◎必須先修過【E0U0001  教育統計學（一）】",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "教育統計學（二）",
+        "teachers": [
+            "吳清麟"
+        ],
+        "department": "E",
+        "code": "E0U0002",
+        "credit": 2,
+        "serial": 360,
+        "group": "C",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 9,
+                "to": 10,
+                "campus": "本部",
+                "classroom": "誠207"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎限學習科學學位學程（學選修◎必須先修過【E0U0001  教育統計學（一）】",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "社區高齡者服務實習",
+        "teachers": [
+            "李育齊"
+        ],
+        "department": "E",
+        "code": "E0U0006",
+        "credit": 2,
+        "serial": 4328,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 16,
+                "to": 10,
+                "campus": "本部",
+                "classroom": "誠105"
+            }
+        ],
+        "programs": [
+            "高齡學程"
+        ],
+        "comment": "◎進階服務學習",
+        "restrict": "",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "產業實習",
+        "teachers": [
+            "郭鐘隆"
+        ],
+        "department": "E",
+        "code": "E0C9001",
+        "credit": 2,
+        "serial": 367,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 16,
+                "to": 10,
+                "campus": "本部",
+                "classroom": "誠602"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎限大三大四 ◎限碩一碩二碩三以上◎限博一博二博三博四博五以上修習",
+        "form_s": "",
+        "classes": "9",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "家政教育概論",
+        "teachers": [
+            "葉明芬"
+        ],
+        "department": "EU06",
+        "code": "HGU0001",
+        "credit": 2,
+        "serial": 774,
+        "group": "A",
+        "quota": {
+            "limit": 50,
+            "additional": 5
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 6,
+                "to": 7,
+                "campus": "本部",
+                "classroom": "誠204"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎限心輔系（博）、公領系（博）、心輔系（碩）、公領系（碩）、心輔系（學）（含雙主修）、公領系（學）（含雙主修）選修",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "家政教育概論",
+        "teachers": [
+            "葉明芬"
+        ],
+        "department": "EU06",
+        "code": "HGU0001",
+        "credit": 2,
+        "serial": 775,
+        "group": "B",
+        "quota": {
+            "limit": 50,
+            "additional": 5
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 10,
+                "to": 11,
+                "campus": "本部",
+                "classroom": "誠104"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎限心輔系（博）、公領系（博）、心輔系（碩）、公領系（碩）、心輔系（學）（含雙主修）、公領系（學）（含雙主修）選修",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "家庭生活與性教育",
+        "teachers": [
+            "高松景"
+        ],
+        "department": "EU06",
+        "code": "HGC9001",
+        "credit": 2,
+        "serial": 776,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 6,
+                "to": 7,
+                "campus": "本部",
+                "classroom": "樸204"
+            }
+        ],
+        "programs": [],
+        "comment": "研究生欲選修請與授課教師取得授權碼",
+        "restrict": "◎必須先修過【HGU0233  家庭生活教育概論】",
+        "form_s": "",
+        "classes": "9",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "食物製備",
+        "teachers": [
+            "沈賜川"
+        ],
+        "department": "EU06",
+        "code": "HGU0010",
+        "credit": 1,
+        "serial": 796,
+        "group": "",
+        "quota": {
+            "limit": 30,
+            "additional": 12
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 7,
+                "to": 9,
+                "campus": "本部",
+                "classroom": "勤001"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "1",
+        "classes": "",
+        "dept_group": "E"
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "織物學",
+        "teachers": [
+            "楊翠竹"
+        ],
+        "department": "EU06",
+        "code": "HGU0081",
+        "credit": 3,
+        "serial": 797,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 7,
+                "to": 9,
+                "campus": "本部",
+                "classroom": "誠205"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "1",
+        "classes": "",
+        "dept_group": "E"
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "食物製備原理",
+        "teachers": [
+            "沈賜川"
+        ],
+        "department": "EU06",
+        "code": "HGU0091",
+        "credit": 1,
+        "serial": 798,
+        "group": "",
+        "quota": {
+            "limit": 30,
+            "additional": 12
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 6,
+                "to": 6,
+                "campus": "本部",
+                "classroom": "勤001"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "1",
+        "classes": "",
+        "dept_group": "E"
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "家庭發展",
+        "teachers": [
+            "林如萍"
+        ],
+        "department": "EU06",
+        "code": "HGU0191",
+        "credit": 3,
+        "serial": 779,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 7,
+                "to": 9,
+                "campus": "本部",
+                "classroom": "誠206"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎必須先修過【HGU0004  人類發展】",
+        "form_s": "1",
+        "classes": "",
+        "dept_group": "B"
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "家庭發展",
+        "teachers": [
+            "林如萍"
+        ],
+        "department": "EU06",
+        "code": "HGU0191",
+        "credit": 3,
+        "serial": 799,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 2,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "誠206"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎必須先修過【HGU0004  人類發展】",
+        "form_s": "1",
+        "classes": "",
+        "dept_group": "E"
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "幼兒戲劇",
+        "teachers": [
+            "孫秉筠"
+        ],
+        "department": "EU06",
+        "code": "HGU0225",
+        "credit": 3,
+        "serial": 780,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 6,
+                "to": 8,
+                "campus": "本部",
+                "classroom": "誠205"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎必須先修過【HGU0004  人類發展】",
+        "form_s": "1",
+        "classes": "",
+        "dept_group": "B"
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "消費者行為與教育",
+        "teachers": [
+            "魏秀珍"
+        ],
+        "department": "EU06",
+        "code": "HGU0309",
+        "credit": 3,
+        "serial": 800,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 6,
+                "to": 8,
+                "campus": "本部",
+                "classroom": "誠204"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "1",
+        "classes": "",
+        "dept_group": "E"
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "嬰幼兒語文發展",
+        "teachers": [
+            "王馨敏"
+        ],
+        "department": "EU06",
+        "code": "HGU0327",
+        "credit": 3,
+        "serial": 781,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 2,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "正201"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎必須先修過【HGU0004  人類發展】",
+        "form_s": "1",
+        "classes": "",
+        "dept_group": "B"
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "嬰幼兒健康與安全",
+        "teachers": [
+            "鍾志從"
+        ],
+        "department": "EU06",
+        "code": "HGU0374",
+        "credit": 3,
+        "serial": 782,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 2,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "誠203"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎必須先修過【HGU0004  人類發展】",
+        "form_s": "1",
+        "classes": "",
+        "dept_group": "B"
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "食品加工",
+        "teachers": [
+            "蔡帛蓉"
+        ],
+        "department": "EU06",
+        "code": "HGU0067",
+        "credit": 2,
+        "serial": 811,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 6,
+                "to": 7,
+                "campus": "本部",
+                "classroom": "誠205"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎必須先修過【HGU0007  食物學】、【NSU0001  食物學】其中一門",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": "F"
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "幼兒教育課程設計",
+        "teachers": [
+            "簡淑真"
+        ],
+        "department": "EU06",
+        "code": "HGU0147",
+        "credit": 3,
+        "serial": 783,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 2,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "誠205"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎必須先修過【HGU0004  人類發展】、【HGU0373  幼兒教保概論】",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": "B"
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "膳食計畫",
+        "teachers": [
+            "盧立卿"
+        ],
+        "department": "EU06",
+        "code": "HGU0205",
+        "credit": 1,
+        "serial": 812,
+        "group": "",
+        "quota": {
+            "limit": 40,
+            "additional": 16
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 6,
+                "to": 6,
+                "campus": "本部",
+                "classroom": "勤001"
+            }
+        ],
+        "programs": [],
+        "comment": "膳食計畫、膳食計畫實驗須同時修",
+        "restrict": "◎必須先修過【HGU0382  營養學（一）】、【HGU0013  營養學實驗】、【HGU0008  食物學實驗】◎必須先修過【HGU0007  食物學】、【NSU0001  食物學】其中一門",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": "F"
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "膳食計畫實驗",
+        "teachers": [
+            "盧立卿"
+        ],
+        "department": "EU06",
+        "code": "HGU0206",
+        "credit": 1,
+        "serial": 813,
+        "group": "",
+        "quota": {
+            "limit": 40,
+            "additional": 16
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 7,
+                "to": 9,
+                "campus": "本部",
+                "classroom": "勤001"
+            }
+        ],
+        "programs": [],
+        "comment": "膳食計畫、膳食計畫實驗須同時修",
+        "restrict": "◎必須先修過【HGU0382  營養學（一）】、【HGU0008  食物學實驗】、【HGU0013  營養學實驗】◎必須先修過【HGU0007  食物學】、【NSU0001  食物學】其中一門",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": "F"
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "基礎營養實習",
+        "teachers": [
+            "謝佳倩"
+        ],
+        "department": "EU06",
+        "code": "HGU0214",
+        "credit": 1,
+        "serial": 814,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 6,
+                "to": 8,
+                "campus": "本部",
+                "classroom": "樸202"
+            }
+        ],
+        "programs": [],
+        "comment": "◎進階服務學習",
+        "restrict": "◎必須先修過【HGU0007  食物學】",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": "F"
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "營養學導論",
+        "teachers": [
+            "吳文惠"
+        ],
+        "department": "EU06",
+        "code": "HGU0236",
+        "credit": 2,
+        "serial": 801,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 8,
+                "to": 9,
+                "campus": "本部",
+                "classroom": "誠204"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": "E"
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "嬰幼兒社會與人格發展",
+        "teachers": [
+            "鍾志從"
+        ],
+        "department": "EU06",
+        "code": "HGU0250",
+        "credit": 3,
+        "serial": 784,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 5,
+                "from": 2,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "誠204"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎必須先修過【HGU0004  人類發展】",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": "B"
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "營養生化（一）",
+        "teachers": [
+            "吳啟豪"
+        ],
+        "department": "EU06",
+        "code": "HGU0257",
+        "credit": 3,
+        "serial": 815,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 5,
+                "from": 2,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "樸205"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎必須先修過【HGU0382  營養學（一）】、【HGU0345  生物化學】",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": "F"
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "食品加工實驗",
+        "teachers": [
+            "蔡帛蓉"
+        ],
+        "department": "EU06",
+        "code": "HGU0259",
+        "credit": 1,
+        "serial": 816,
+        "group": "",
+        "quota": {
+            "limit": 40,
+            "additional": 16
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 8,
+                "to": 10,
+                "campus": "本部",
+                "classroom": "勤001"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎必須先修過【HGU0007  食物學】、【NSU0001  食物學】其中一門",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": "F"
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "服裝結構與製作（二）",
+        "teachers": [
+            "楊翠竹"
+        ],
+        "department": "EU06",
+        "code": "HGU0268",
+        "credit": 2,
+        "serial": 802,
+        "group": "",
+        "quota": {
+            "limit": 18,
+            "additional": 8
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 6,
+                "to": 9,
+                "campus": "本部",
+                "classroom": "勤101"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎加退選階段需人工加選◎必須先修過【HGU0267  服裝結構與製作（一）】",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": "E"
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "特殊幼兒發展與輔導",
+        "teachers": [
+            "洪宜芳"
+        ],
+        "department": "EU06",
+        "code": "HGU0280",
+        "credit": 3,
+        "serial": 785,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 5,
+                "from": 6,
+                "to": 8,
+                "campus": "本部",
+                "classroom": "誠205"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎必須先修過【HGU0004  人類發展】",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": "B"
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "創意生活設計",
+        "teachers": [
+            "魏秀珍"
+        ],
+        "department": "EU06",
+        "code": "HGU0287",
+        "credit": 2,
+        "serial": 803,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 9,
+                "to": 10,
+                "campus": "本部",
+                "classroom": "誠206"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎必須先修過【HGU0003  色彩學】",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": "E"
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "嬰幼兒體能與遊戲",
+        "teachers": [
+            "卓俊伶"
+        ],
+        "department": "EU06",
+        "code": "HGU0302",
+        "credit": 3,
+        "serial": 786,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 6,
+                "to": 8,
+                "campus": "本部",
+                "classroom": "樸206"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎必須先修過【HGU0004  人類發展】",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": "B"
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "老人與家庭",
+        "teachers": [
+            "陳靜怡"
+        ],
+        "department": "EU06",
+        "code": "HGU0321",
+        "credit": 3,
+        "serial": 804,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 16,
+                "to": 11,
+                "campus": "本部",
+                "classroom": "誠204"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": "E"
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "食品分析與檢驗（含實驗）",
+        "teachers": [
+            "吳啟豪"
+        ],
+        "department": "EU06",
+        "code": "HGU0384",
+        "credit": 3,
+        "serial": 817,
+        "group": "",
+        "quota": {
+            "limit": 30,
+            "additional": 12
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 7,
+                "to": 10,
+                "campus": "本部",
+                "classroom": "樸202"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎必須先修過【HGU0008  食物學實驗】、【HGU0005  有機化學】、【HGU0006  有機化學實驗】◎必須先修過【HGU0007  食物學】、【NSU0001  食物學】其中一門",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": "F"
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "生命期營養",
+        "teachers": [
+            "謝佳倩"
+        ],
+        "department": "EU06",
+        "code": "HGU0014",
+        "credit": 3,
+        "serial": 818,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 6,
+                "to": 8,
+                "campus": "本部",
+                "classroom": "樸205"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎必須先修過【HGU0357  膳食療養（一）】◎必須先修過【HGU0012  營養學】、【HGU0383  營養學（二）】其中一門",
+        "form_s": "3",
+        "classes": "",
+        "dept_group": "F"
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "親職教育",
+        "teachers": [
+            "吳志文"
+        ],
+        "department": "EU06",
+        "code": "HGU0023",
+        "credit": 3,
+        "serial": 805,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 7,
+                "to": 9,
+                "campus": "本部",
+                "classroom": "誠206"
+            }
+        ],
+        "programs": [
+            "PASSION偏鄉教育學程"
+        ],
+        "comment": "",
+        "restrict": "◎必須先修過【HGU0004  人類發展】、【HGU0191  家庭發展】",
+        "form_s": "3",
+        "classes": "",
+        "dept_group": "E"
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "食品化學",
+        "teachers": [
+            "林世航"
+        ],
+        "department": "EU06",
+        "code": "HGU0047",
+        "credit": 3,
+        "serial": 819,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 5,
+                "from": 8,
+                "to": 10,
+                "campus": "本部",
+                "classroom": "誠206"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎必須先修過【HGU0007  食物學】、【HGU0008  食物學實驗】、【HGU0005  有機化學】",
+        "form_s": "3",
+        "classes": "",
+        "dept_group": "F"
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "幼保人員專業倫理",
+        "teachers": [
+            "張菀真"
+        ],
+        "department": "EU06",
+        "code": "HGU0252",
+        "credit": 3,
+        "serial": 787,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 5,
+                "from": 2,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "誠207"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "3",
+        "classes": "",
+        "dept_group": "B"
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "兒童行為輔導",
+        "teachers": [
+            "何文君"
+        ],
+        "department": "EU06",
+        "code": "HGU0262",
+        "credit": 3,
+        "serial": 788,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 2,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "樸305"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "3",
+        "classes": "",
+        "dept_group": "B"
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "研究法",
+        "teachers": [
+            "吳志文"
+        ],
+        "department": "EU06",
+        "code": "HGU0272",
+        "credit": 3,
+        "serial": 806,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 2,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "誠207"
+            }
+        ],
+        "programs": [],
+        "comment": "家庭組必修，其他組選修",
+        "restrict": "",
+        "form_s": "3",
+        "classes": "",
+        "dept_group": "E"
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "輔導理論與家庭生活",
+        "teachers": [
+            "羅惠群"
+        ],
+        "department": "EU06",
+        "code": "HGU0298",
+        "credit": 3,
+        "serial": 807,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 7,
+                "to": 9,
+                "campus": "本部",
+                "classroom": "誠206"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "3",
+        "classes": "",
+        "dept_group": "E"
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "多元文化幼兒教育",
+        "teachers": [
+            "賴文鳳"
+        ],
+        "department": "EU06",
+        "code": "HGU0303",
+        "credit": 3,
+        "serial": 789,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 8,
+                "to": 10,
+                "campus": "本部",
+                "classroom": "誠204"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "3",
+        "classes": "",
+        "dept_group": "B"
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "婚姻與家人關係",
+        "teachers": [
+            "吳志文"
+        ],
+        "department": "EU06",
+        "code": "HGU0318",
+        "credit": 3,
+        "serial": 808,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 6,
+                "to": 8,
+                "campus": "本部",
+                "classroom": "誠206"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎必須先修過【HGU0191  家庭發展】",
+        "form_s": "3",
+        "classes": "",
+        "dept_group": "E"
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "幼教專業觀摩",
+        "teachers": [
+            "張鑑如",
+            "王馨敏"
+        ],
+        "department": "EU06",
+        "code": "HGU0319",
+        "credit": 1,
+        "serial": 790,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 5,
+                "to": 5,
+                "campus": "本部",
+                "classroom": "誠206"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎必須先修過【HGU0374  嬰幼兒健康與安全】、【HGU0373  幼兒教保概論】",
+        "form_s": "3",
+        "classes": "",
+        "dept_group": "B"
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "嬰幼兒發展與學習評量",
+        "teachers": [
+            "王馨敏"
+        ],
+        "department": "EU06",
+        "code": "HGU0331",
+        "credit": 3,
+        "serial": 791,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 6,
+                "to": 8,
+                "campus": "本部",
+                "classroom": "誠204"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎必須先修過【HGU0261  嬰幼兒行為觀察】",
+        "form_s": "3",
+        "classes": "",
+        "dept_group": "B"
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "家庭生活教育專業觀摩",
+        "teachers": [
+            "楊翠竹"
+        ],
+        "department": "EU06",
+        "code": "HGU0336",
+        "credit": 1,
+        "serial": 809,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 5,
+                "to": 5,
+                "campus": "本部",
+                "classroom": "誠204"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎必須先修過【HGU0237  家庭生活教育方案設計】",
+        "form_s": "3",
+        "classes": "",
+        "dept_group": "E"
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "營養專題討論（一）",
+        "teachers": [
+            "盧立卿"
+        ],
+        "department": "EU06",
+        "code": "HGU0349",
+        "credit": 2,
+        "serial": 820,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 6,
+                "to": 7,
+                "campus": "本部",
+                "classroom": "正401"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎必須先修過【HGU0357  膳食療養（一）】、【HGU0359  膳食療養實驗（一）】",
+        "form_s": "3",
+        "classes": "",
+        "dept_group": "F"
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "膳食療養（二）",
+        "teachers": [
+            "吳文惠"
+        ],
+        "department": "EU06",
+        "code": "HGU0358",
+        "credit": 3,
+        "serial": 821,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 7,
+                "to": 9,
+                "campus": "本部",
+                "classroom": "誠205"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎必須先修過【HGU0012  營養學】、【HGU0383  營養學（二）】其中一門",
+        "form_s": "3",
+        "classes": "",
+        "dept_group": "F"
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "膳食療養實驗（二）",
+        "teachers": [
+            "吳文惠"
+        ],
+        "department": "EU06",
+        "code": "HGU0360",
+        "credit": 1,
+        "serial": 822,
+        "group": "",
+        "quota": {
+            "limit": 40,
+            "additional": 16
+        },
+        "schedule": [
+            {
+                "day": 5,
+                "from": 2,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "誠206"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎必須先修過【HGU0012  營養學】、【HGU0383  營養學（二）】其中一門",
+        "form_s": "3",
+        "classes": "",
+        "dept_group": "F"
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "幼兒教育教材教法（二）",
+        "teachers": [
+            "葉明芬"
+        ],
+        "department": "EU06",
+        "code": "HGU0376",
+        "credit": 2,
+        "serial": 792,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 6,
+                "to": 7,
+                "campus": "本部",
+                "classroom": "誠204"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎必須先修過【HGU0375  幼兒教育教材教法（一）】",
+        "form_s": "3",
+        "classes": "",
+        "dept_group": "B"
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "幼兒園教學實習（一）",
+        "teachers": [
+            "賴文鳳",
+            "張菀真"
+        ],
+        "department": "EU06",
+        "code": "HGU0377",
+        "credit": 2,
+        "serial": 793,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 1,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "誠206"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎必須先修過【HGU0375  幼兒教育教材教法（一）】",
+        "form_s": "3",
+        "classes": "",
+        "dept_group": "B"
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "保健食品概論",
+        "teachers": [
+            "林世航"
+        ],
+        "department": "EU06",
+        "code": "HGU0385",
+        "credit": 2,
+        "serial": 823,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 5,
+                "from": 6,
+                "to": 7,
+                "campus": "本部",
+                "classroom": "誠206"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "3",
+        "classes": "",
+        "dept_group": "F"
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "兒童與家庭福利",
+        "teachers": [
+            "張菀真"
+        ],
+        "department": "EU06",
+        "code": "HGU0057",
+        "credit": 3,
+        "serial": 794,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 6,
+                "to": 8,
+                "campus": "本部",
+                "classroom": "樸202"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "4",
+        "classes": "",
+        "dept_group": "B"
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "烘焙學",
+        "teachers": [
+            "宋慧娟"
+        ],
+        "department": "EU06",
+        "code": "HGU0167",
+        "credit": 1,
+        "serial": 777,
+        "group": "",
+        "quota": {
+            "limit": 30,
+            "additional": 12
+        },
+        "schedule": [
+            {
+                "day": 5,
+                "from": 6,
+                "to": 6,
+                "campus": "本部",
+                "classroom": "勤001"
+            }
+        ],
+        "programs": [],
+        "comment": "修習家政師培生優先",
+        "restrict": "◎必須先修過【HGU0010  食物製備】",
+        "form_s": "4",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "臨床營養實習",
+        "teachers": [
+            "沈賜川",
+            "吳啟豪",
+            "高雅群"
+        ],
+        "department": "EU06",
+        "code": "HGU0227",
+        "credit": 3,
+        "serial": 824,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 6,
+                "from": 1,
+                "to": 6,
+                "campus": "本部",
+                "classroom": "教室自排"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎必須先修過【HGU0214  基礎營養實習】、【HGU0357  膳食療養（一）】、【HGU0358  膳食療養（二）】、【HGU0359  膳食療養實驗（一）】、【HGU0360  膳食療養實驗（二）】、【HGU0058  營養評估】",
+        "form_s": "4",
+        "classes": "",
+        "dept_group": "F"
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "社區營養實習",
+        "teachers": [
+            "蘇純立"
+        ],
+        "department": "EU06",
+        "code": "HGU0229",
+        "credit": 1,
+        "serial": 825,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 6,
+                "from": 7,
+                "to": 8,
+                "campus": "本部",
+                "classroom": "教室自排"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎必須先修過【HGU0214  基礎營養實習】、【HGU0357  膳食療養（一）】、【HGU0358  膳食療養（二）】、【HGU0359  膳食療養實驗（一）】、【HGU0360  膳食療養實驗（二）】、【HGU0058  營養評估】",
+        "form_s": "4",
+        "classes": "",
+        "dept_group": "F"
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "膳食管理實習",
+        "teachers": [
+            "吳文惠",
+            "蔡帛蓉"
+        ],
+        "department": "EU06",
+        "code": "HGU0230",
+        "credit": 2,
+        "serial": 826,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 6,
+                "from": 9,
+                "to": 11,
+                "campus": "本部",
+                "classroom": "教室自排"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎必須先修過【HGU0214  基礎營養實習】、【HGU0205  膳食計畫】、【HGU0206  膳食計畫實驗】、【HGU0059  團體膳食管理】、【HGU0164  團體膳食製備】",
+        "form_s": "4",
+        "classes": "",
+        "dept_group": "F"
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "烘焙實習",
+        "teachers": [
+            "宋慧娟"
+        ],
+        "department": "EU06",
+        "code": "HGU0254",
+        "credit": 1,
+        "serial": 778,
+        "group": "",
+        "quota": {
+            "limit": 30,
+            "additional": 12
+        },
+        "schedule": [
+            {
+                "day": 5,
+                "from": 7,
+                "to": 9,
+                "campus": "本部",
+                "classroom": "勤001"
+            }
+        ],
+        "programs": [],
+        "comment": "修習家政師培生優先",
+        "restrict": "◎必須先修過【HGU0010  食物製備】",
+        "form_s": "4",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "餐旅群教學實習（教）",
+        "teachers": [
+            "許軒"
+        ],
+        "department": "EU06",
+        "code": "HGUE110",
+        "credit": 2,
+        "serial": 827,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 10,
+                "to": 13,
+                "campus": "本部",
+                "classroom": "勤102"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎必須先修過【HGUE101  餐旅群教材教法（教）】",
+        "form_s": "4",
+        "classes": "",
+        "dept_group": "F"
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "幼兒保育科教學實習（教）",
+        "teachers": [
+            "葉明芬"
+        ],
+        "department": "EU06",
+        "code": "HGUE210",
+        "credit": 2,
+        "serial": 795,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 5,
+                "to": 8,
+                "campus": "本部",
+                "classroom": "樸202"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎必須先修過【HGUE201  幼兒保育科教材教法（教）】",
+        "form_s": "4",
+        "classes": "",
+        "dept_group": "B"
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "家政教學實習（一）（教）",
+        "teachers": [
+            "葉明芬"
+        ],
+        "department": "EU06",
+        "code": "HGUE310",
+        "credit": 2,
+        "serial": 810,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 1,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "誠204"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎必須先修過【HGUE001  家政教材教法（教）】、【HGU0001  家政教育概論】",
+        "form_s": "4",
+        "classes": "",
+        "dept_group": "E"
+    }
+]

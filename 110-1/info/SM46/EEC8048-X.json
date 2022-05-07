@@ -1,0 +1,104 @@
+{
+    "year": 110,
+    "term": 1,
+    "name": "環境科學",
+    "teachers": [
+        "葉欣誠"
+    ],
+    "department": "SM46",
+    "code": "EEC8048",
+    "credit": 3,
+    "serial": 2758,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 4,
+            "from": 2,
+            "to": 4,
+            "campus": "公館",
+            "classroom": "行304"
+        }
+    ],
+    "programs": [
+        "理工實作學程"
+    ],
+    "comment": "要求具備相關基礎課程",
+    "restrict": "◎課程不開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "",
+    "goals": [
+        "使同學對於環境科學的基礎知識有基礎至中度的瞭解",
+        "使同學具備對於環境議題與相關專業報告的解讀能力",
+        "使同學具備環境領域的設計思考能力，能夠透過團隊合作，發掘、界定問題，並且提出解決方案",
+        "使同學對於全球變遷議題中的環境科學有基礎至中度的瞭解",
+        "使同學能夠瞭解環境科學的知識結構，進而有能力設計適合各學習階段的教材或模組",
+        "使同學能夠解釋環境議題中各種科學現象，並具備確認環境教育材料之科學正確性的能力"
+    ],
+    "syllabus": "第01週 課程介紹：環境問題總論與永續發展\n\n                系統思考與批判思考\n\n                分組與專案主題討論\n\n                對應課本：Chapter 1\n\n第02週  環境、物質與能量\n\n                對應課本：Chapter 2\n\n第03週  環境生態學\n\n                對應課本：Chapter 3, 4, 5\n\n第04週 氣候變遷(1)：基本科學、概念澄清、衝擊與脆弱度\n\n                對應課本：Chapter 7, 18, 19\n\n第05週 氣候變遷(2)：減緩與調適、國際條約、未來發展\n\n                對應課本：Chapter 19, 23, 24, 25\n\n第06週 環境專案工作發展\n\n第07週 環境風險管理與評估\n\n                對應課本：Chapter 12, 13, 17\n\n第08週 期中考試\n\n第09週 資源與能源管理(1)：資源管理與環境經濟學\n\n                對應課本：Chapter 14, 15, 23\n\n第10週  資源與能源管理(2)：能源與用電管理\n\n                對應課本：Chapter 16, 18, 24\n\n第11週  空氣污染\n\n                對應課本：Chapter 18\n\n第12週  水資源規劃與管理\n\n                對應課本：Chapter 13\n\n第13週 校外教學\n\n第14週 廢棄物管理\n\n                對應課本：Chapter 21, 22\n\n第15週 綜合議題：永續發展與世界觀\n\n                對應課本：Chapter 25\n\n第16週  環境專案工作發展\n\n第17週 期末報告與討論\n\n第18週 期末考試\n\n  \n[教學進度與主題附件](https://ap.itc.ntnu.edu.tw/NtnuFileShare/file.do?action=dl&gno=624295b66dcf411088f3809c4b7de614&fno=2585a082156a4c979944852152bd1c60)",
+    "methodologies": [
+        {
+            "type": "Formal lecture",
+            "note": ""
+        },
+        {
+            "type": "Group discussion",
+            "note": "分組討論除了完成各組的專案之外，上課時亦討論相關議題"
+        },
+        {
+            "type": "Problem base learning",
+            "note": "各組設定議題，完成專案"
+        },
+        {
+            "type": "Cooperative learning",
+            "note": "團隊合作完成專案"
+        },
+        {
+            "type": "Field work",
+            "note": "校外教學，完成專案過程中的自行參訪"
+        },
+        {
+            "type": "Media, audio, visual materials",
+            "note": "將結合影片與多媒體材料"
+        },
+        {
+            "type": "Case studies",
+            "note": "分組撰寫專題"
+        }
+    ],
+    "grading": [
+        {
+            "type": "Assignments",
+            "weight": 10,
+            "note": "個人作業與報告"
+        },
+        {
+            "type": "Midterm Exam",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "Final exam",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "Class discussion involvement",
+            "weight": 10,
+            "note": "含：出席率"
+        },
+        {
+            "type": "Presentation",
+            "weight": 20,
+            "note": "分組報告"
+        }
+    ],
+    "prerequisite": "◎Unavailable for M.A. program students (M.A. program courses excepted) and B.A. program students.",
+    "general_core": []
+}

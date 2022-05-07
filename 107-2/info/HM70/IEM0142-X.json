@@ -1,0 +1,101 @@
+{
+    "year": 107,
+    "term": 2,
+    "name": "資訊管理",
+    "teachers": [
+        "戴建耘"
+    ],
+    "department": "HM70",
+    "code": "IEM0142",
+    "credit": 3,
+    "serial": 1108,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 1,
+            "from": 6,
+            "to": 8,
+            "campus": "本部",
+            "classroom": "工209"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "介紹資訊科技應用於企業與管理的概念與實務",
+    "goals": [
+        "介紹資訊科技應用於企業與管理的概念",
+        "介紹資訊科技應用於企業與管理的實務"
+    ],
+    "syllabus": "W1. Introduction to _MIS_   \nW2.Information Technology Foundations  \nW3.Networks and Telecommunications  \nW4.Security, Privacy, Anonymity  \nW5.Operations and Transactions  \nW6.Database Management Systems  \nW7.Models and Decision Support  \nW8.Complex Decisions and Artificial Intelligence  \nW9.Strategic Analysis  \nW10.Mid-term Tests and Report  \nW11.Electronic Business  \nW12.Systems Development  \nW13.Organizing the MIS Resources  \nW14.MIS Impact on Society  \nW15.Special Topic 1  \nW16.Special Topic 2  \nW17.Review and Report  \nW18.Final Term Test  \n本課程將介紹國內外相關專業能力認證，並輔導有興趣的同學取得國際或國內認證。",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "教師說明或指定同學說明"
+        },
+        {
+            "type": "討論法",
+            "note": "同學互相討論"
+        },
+        {
+            "type": "媒體融入教學",
+            "note": "使用互動式多媒體或網路"
+        },
+        {
+            "type": "專題研究",
+            "note": "師生相互討論研究的主題"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 20,
+            "note": ""
+        },
+        {
+            "type": "期中考",
+            "weight": 20,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 20,
+            "note": ""
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 15,
+            "note": ""
+        },
+        {
+            "type": "出席",
+            "weight": 15,
+            "note": ""
+        },
+        {
+            "type": "報告",
+            "weight": 10,
+            "note": "同學依指定相關的作業做報告"
+        },
+        {
+            "type": "成果展覽",
+            "weight": 5,
+            "note": "另外加分"
+        },
+        {
+            "type": "其他",
+            "weight": 5,
+            "note": "另外加分 ---輔導自願參加國際認證者通過或參加都另外加分"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

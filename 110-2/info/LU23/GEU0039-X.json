@@ -1,0 +1,81 @@
+{
+    "year": 110,
+    "term": 2,
+    "name": "氣候變遷",
+    "teachers": [
+        "翁叔平"
+    ],
+    "department": "LU23",
+    "code": "GEU0039",
+    "credit": 3,
+    "serial": 1912,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 2,
+            "to": 4,
+            "campus": "本部",
+            "classroom": "誠402"
+        }
+    ],
+    "programs": [
+        "環境監測學程"
+    ],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "4",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "使學生了解氣候變遷背後的科學立論。介紹人類系統與自然系統如何產生互動暨互動後對人類生存環境的衝擊。",
+    "goals": [
+        "了解觀測的氣候變異與變遷原因",
+        "認知氣候變遷為一門不確定科學的本質",
+        "體會人類活動為地球氣候系統的一部份"
+    ],
+    "syllabus": "01 : Earth climate system; Ch.1-2 of SGP  \n02: Observed climate variability and change (I); Ch.3 of SGP  \n02 : Observed climate variability and change (II); Ch.4 of SGP  \n03 : Observed climate variability and change (III); Ch.5 of SGP  \n04 : The carbon cycle and atmospheric carbon dioxide; Ch.6 of SGP  \n05 : The carbon cycle and atmospheric carbon dioxide (cont.)  \nXX : Mid-term exam.  \n06 : Greenhouse gases and greenhouse effects; Ch.7 of SGP  \n07: Direct and indirect effects of aerosols; Ch.8 of SGP  \n08 : Radiative forcing of climate change; Ch.9 of SGP (TBA)  \n09 : Atmospheric processes and feedbacks; Ch.10 of SGP  \n10 : Oceanic processes and feedbacks; Ch.11 of SGP  \n11 : Projections of future climate change; Ch.12 of SGP  \n12 : Projections of future climate change (cont.); Ch.13 of SGP  \nXX : Final exam.",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "介紹觀測氣候變遷及未來推估"
+        },
+        {
+            "type": "討論法",
+            "note": "研讀重要文獻、進行討論、分組報告"
+        }
+    ],
+    "grading": [
+        {
+            "type": "期中考",
+            "weight": 25,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 25,
+            "note": ""
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 20,
+            "note": ""
+        },
+        {
+            "type": "出席",
+            "weight": 10,
+            "note": ""
+        },
+        {
+            "type": "報告",
+            "weight": 20,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

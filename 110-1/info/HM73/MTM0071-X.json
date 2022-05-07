@@ -1,0 +1,87 @@
+{
+    "year": 110,
+    "term": 1,
+    "name": "嵌入式系統設計",
+    "teachers": [
+        "呂有勝"
+    ],
+    "department": "HM73",
+    "code": "MTM0071",
+    "credit": 3,
+    "serial": 1183,
+    "group": "",
+    "quota": {
+        "limit": 30,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 5,
+            "from": 2,
+            "to": 4,
+            "campus": "本部",
+            "classroom": "CAD/CAM"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程介紹嵌入式系統的基本架構、硬體介面設計及嵌入式程式設計技術，強調嵌入式系統的軟硬體整合概念。學生將在一個團隊工作中動手設計、配置、實施和測試一個嵌入式系統的原型，以瞭解如何設計實用的嵌入式系統。",
+    "goals": [
+        "瞭解軟硬體系統整合技術",
+        "瞭解嵌入式程式設計技術",
+        "建立嵌入式系統設計與應用的能力"
+    ],
+    "syllabus": "Week 1: Introduction to Embedded Systems Design\n\nWeek 2: Review of C Programming\n\nWeek 3: Embedded Processors\n\nWeek 4: MemoryArchitectures\n\nWeek 5: Interrupts\n\nWeek 6: Timer and Pulse-Width Modulation\n\nWeek 7: AnalogInput and Output\n\nWeek 8: Midterm\n\nWeek 9: Multitasking\n\nWeek 10: Scheduling\n\nWeek 11: Model-BasedDesign\n\nWeek 12: Dynamic Modeling\n\nWeek 13: State Machines\n\nWeek 14: Execution TimeAnalysis\n\nWeek 15: Final\n\nWeek 16: Project Presentation and Demo",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "課堂講述與討論"
+        },
+        {
+            "type": "問題解決教學",
+            "note": "操作示範"
+        },
+        {
+            "type": "合作學習",
+            "note": "兩人為一組，進行作業分工與專題製作"
+        },
+        {
+            "type": "其他",
+            "note": "作業繳交及測驗方式進行"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 35,
+            "note": "七個作業，每個作業佔5%。"
+        },
+        {
+            "type": "期中考",
+            "weight": 15,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 20,
+            "note": ""
+        },
+        {
+            "type": "出席",
+            "weight": 10,
+            "note": ""
+        },
+        {
+            "type": "專題",
+            "weight": 20,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

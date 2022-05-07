@@ -1,0 +1,73 @@
+{
+    "year": 110,
+    "term": 2,
+    "name": "微生物學特論",
+    "teachers": [
+        "郭志鴻"
+    ],
+    "department": "SD50",
+    "code": "DID0003",
+    "credit": 3,
+    "serial": 2600,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 7,
+            "to": 9,
+            "campus": "校外",
+            "classroom": "教室自排"
+        }
+    ],
+    "programs": [],
+    "comment": "本課程在中研院A236教室上課(A236,AT,AS Campus)",
+    "restrict": "◎課程不開放上修",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "",
+    "goals": [
+        "To understand relevant knowledge of microbiology, including topics such as biodiversity, physiology and metabolism, molecular genetics, genomics, evolution, and ecology.",
+        "To understand the research methods of microbiology"
+    ],
+    "syllabus": "第1週：微生物學概論\n\n第2週：細菌學\n\n第3週：古菌學\n\n第4週：真菌學\n\n第5週：病毒學\n\n第6週：微生物學方法\n\n第7週：微生物生理與代謝\n\n第8週：分子遺傳\n\n第9週：微生物－微生物及微生物－宿主互動\n\n第10週：基因體學\n\n第11週：演化學\n\n第12週：微生物相\n\n第13週：微生物生態\n\n第14週：新興科技與應用(I)\n\n第15週：新興科技與應用(II)\n\n第16週：新興科技與應用(III)",
+    "methodologies": [
+        {
+            "type": "Formal lecture",
+            "note": "授課教師依當週主題講課"
+        },
+        {
+            "type": "Group discussion",
+            "note": "學生依教師指定主題進行簡短口頭報告並參與討論。"
+        }
+    ],
+    "grading": [
+        {
+            "type": "Assignments",
+            "weight": 20,
+            "note": ""
+        },
+        {
+            "type": "Class discussion involvement",
+            "weight": 20,
+            "note": "由授課教師依據課堂表現評分。"
+        },
+        {
+            "type": "Attendances",
+            "weight": 20,
+            "note": "由授課教師依出席狀況評分。"
+        },
+        {
+            "type": "Presentation",
+            "weight": 40,
+            "note": "依授課教師指定專題，繳交書面報告及在課堂中進行簡短之口頭報告。"
+        }
+    ],
+    "prerequisite": "◎Unavailable for M.A. program students (M.A. program courses excepted) and B.A. program students.",
+    "general_core": []
+}

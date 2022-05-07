@@ -1,0 +1,65 @@
+{
+    "year": 107,
+    "term": 2,
+    "name": "高等量子力學（二）",
+    "teachers": [
+        "高賢忠"
+    ],
+    "department": "SM41",
+    "code": "PHC0034",
+    "credit": 3,
+    "serial": 2617,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 2,
+            "to": 4,
+            "campus": "公館",
+            "classroom": "Ｆ105"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程適合大學部高年級及碩博士班學生修習，主要在介紹量子力學的較高階原理、觀念、計算方法和應用，以作為進一步從事物理研究的準備。",
+    "goals": [
+        "瞭解相對論量子力學及基礎量子場論",
+        "加強理性思維能力",
+        "簡介物理新知",
+        "物理研究能力培養"
+    ],
+    "syllabus": "1.     Week 1: Regularizations and  \\\\phi^4 theory I\n\n2.     Week 2: Regularizations and  \\\\phi^4 theory II\n\n3.     Week 3: QED I\n\n4.     Week  4: QED II\n\n5.     Week  5: Renormalization of Yang-Mills theories I\n\n6.     Week 6: Renormalization of Yang-Mills theories II\n\n7.     Week  7: Effective action I\n\n8.     Week 8: Effective action II\n\n9.   Week 9: Covariant Gaussian approximation I\n\n10.  Week 10: Covariant Gaussian approximation II\n\n11.   Week  11: Topological objects in field theories I\n\n12.  Week 12:  Topological objects in field theories II\n\n13.  Week 13: Finite temperature Quantum field theories\n\n14.  Week 14: Schwinger Keldysh formalism I\n\n15.  Week 15: Schwinger Keldysh formalism II\n\n16.  Week 16: Reoprt I\n\n17.  Week 17: Reoprt II",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 70,
+            "note": ""
+        },
+        {
+            "type": "報告",
+            "weight": 30,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

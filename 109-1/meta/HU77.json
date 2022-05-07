@@ -1,0 +1,343 @@
+[
+    {
+        "year": 109,
+        "term": 1,
+        "name": "半導體物理",
+        "teachers": [
+            "李敏鴻"
+        ],
+        "department": "HU77",
+        "code": "OEC9107",
+        "credit": 3,
+        "serial": 1392,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 5,
+                "from": 7,
+                "to": 9,
+                "campus": "公館",
+                "classroom": "Ｓ306"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "",
+        "classes": "9",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 1,
+        "name": "材料光學",
+        "teachers": [
+            "李亞儒"
+        ],
+        "department": "HU77",
+        "code": "OEC9110",
+        "credit": 3,
+        "serial": 1393,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 7,
+                "to": 9,
+                "campus": "公館",
+                "classroom": "Ｓ101"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "",
+        "classes": "9",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 1,
+        "name": "體育",
+        "teachers": [
+            "林雯雯"
+        ],
+        "department": "HU77",
+        "code": "00UP001",
+        "credit": 1,
+        "serial": 1394,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 3,
+                "to": 4,
+                "campus": "公館",
+                "classroom": "操場二"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "1",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 1,
+        "name": "光電工程概論",
+        "teachers": [
+            "廖書賢"
+        ],
+        "department": "HU77",
+        "code": "OEU0001",
+        "credit": 2,
+        "serial": 1395,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 8,
+                "to": 9,
+                "campus": "公館",
+                "classroom": "Ｓ301"
+            }
+        ],
+        "programs": [
+            "太陽能源與工程學程"
+        ],
+        "comment": "",
+        "restrict": "",
+        "form_s": "1",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 1,
+        "name": "工程數學（一）",
+        "teachers": [
+            "謝振傑"
+        ],
+        "department": "HU77",
+        "code": "OEU0003",
+        "credit": 3,
+        "serial": 1396,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 7,
+                "to": 9,
+                "campus": "公館",
+                "classroom": "應用科學大樓B1演講廳"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎必須先修過【MAU0180  微積分乙（一）】、【MAU0181  微積分乙（二）】",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 1,
+        "name": "電磁學（一）",
+        "teachers": [
+            "張俊傑"
+        ],
+        "department": "HU77",
+        "code": "OEU0005",
+        "credit": 3,
+        "serial": 1397,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 7,
+                "to": 9,
+                "campus": "公館",
+                "classroom": "綜合館201"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 1,
+        "name": "幾何光學",
+        "teachers": [
+            "邱爾德"
+        ],
+        "department": "HU77",
+        "code": "OEU0007",
+        "credit": 3,
+        "serial": 1398,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 3,
+                "to": 4,
+                "campus": "公館",
+                "classroom": "Ｓ307"
+            },
+            {
+                "day": 1,
+                "from": 6,
+                "to": 6,
+                "campus": "公館",
+                "classroom": "Ｓ307"
+            }
+        ],
+        "programs": [
+            "太陽能源與工程學程"
+        ],
+        "comment": "",
+        "restrict": "",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 1,
+        "name": "光電實驗（一）",
+        "teachers": [
+            "楊承山"
+        ],
+        "department": "HU77",
+        "code": "OEU0008",
+        "credit": 1,
+        "serial": 1399,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 3,
+                "to": 4,
+                "campus": "公館",
+                "classroom": "AP415光電實驗室"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 1,
+        "name": "光電電子學",
+        "teachers": [
+            "楊承山"
+        ],
+        "department": "HU77",
+        "code": "OEU0012",
+        "credit": 3,
+        "serial": 1400,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 7,
+                "to": 9,
+                "campus": "公館",
+                "classroom": "Ｓ202"
+            }
+        ],
+        "programs": [
+            "太陽能源與工程學程"
+        ],
+        "comment": "",
+        "restrict": "",
+        "form_s": "3",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 1,
+        "name": "專題與實習（一）",
+        "teachers": [
+            "李敏鴻",
+            "鄭超仁",
+            "謝振傑",
+            "李亞儒",
+            "邱南福",
+            "廖書賢",
+            "楊承山",
+            "蕭惠心",
+            "張俊傑"
+        ],
+        "department": "HU77",
+        "code": "OEU0013",
+        "credit": 1,
+        "serial": 1401,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 5,
+                "to": 5,
+                "campus": "公館",
+                "classroom": "應用科學大樓B1演講廳"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "3",
+        "classes": "",
+        "dept_group": ""
+    }
+]

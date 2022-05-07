@@ -1,0 +1,66 @@
+{
+    "year": 109,
+    "term": 2,
+    "name": "計算無機化學（一）",
+    "teachers": [
+        "蔡明剛"
+    ],
+    "department": "SD42",
+    "code": "CMD0240",
+    "credit": 3,
+    "serial": 2617,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 4,
+            "from": 8,
+            "to": 10,
+            "campus": "公館",
+            "classroom": "Ｃ105"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "以使用計算化學軟體為工具，模擬、設計並預測當代無機化學重要主題。",
+    "goals": [
+        "訓練學生了解分子軌道理論",
+        "以分子軌道理論探討配位錯合物的電子結構",
+        "高速平行運算與模擬紅外、紫外吸收光、放射光譜訊號，以及NMR圖譜",
+        "高速平行運算與分析電子結構對相關的化學反應之影響",
+        "多尺度模型近似法"
+    ],
+    "syllabus": "1.    價鍵理論分子軌道理論(1Weeks)2.    電子結構運算(2Weeks)\n\n3.    均相化學反應模擬與紅外、NMR光譜(4weeks)\n\n4.    均相電子吸收光譜與放射光譜以及電子轉移(4Weeks)\n\n5.    無機分子動力學模擬(3Week)\n\n6.    多尺度模型設計(3Week)",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "以課堂講述並搭配實際上機操作"
+        },
+        {
+            "type": "實驗/實作",
+            "note": "以課堂講述並搭配實際上機操作"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 90,
+            "note": "每週上課完繳交當週實驗報告"
+        },
+        {
+            "type": "出席",
+            "weight": 10,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

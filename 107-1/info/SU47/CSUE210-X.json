@@ -1,0 +1,77 @@
+{
+    "year": 107,
+    "term": 1,
+    "name": "資料處理教學實習（教）",
+    "teachers": [
+        "柯佳伶"
+    ],
+    "department": "SU47",
+    "code": "CSUE210",
+    "credit": 2,
+    "serial": 3247,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 1,
+            "from": 16,
+            "to": 10,
+            "campus": "公館",
+            "classroom": "Ｃ003"
+        },
+        {
+            "day": 3,
+            "from": 10,
+            "to": 11,
+            "campus": "公館",
+            "classroom": "Ｃ003"
+        }
+    ],
+    "programs": [],
+    "comment": "1.需修過至少一門本系學士班/碩士班課程。  2.修課學生可不具師培生資格。    3.此課程不列入師資培育課程學分數。",
+    "restrict": "◎第一階段需人工加選◎第二階段需人工加選◎加退選階段需人工加選◎必須先修過【00UE079  教師素養（教）】",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 4,
+    "description": "本課程為培育資料處理科教師專業訓練中綜合性的教學課程，目的在使學生能以過去所學之資訊專業，活用各項教學專業知能，實際體認教學實務經驗，以增進其擔任資料處理科教師工作之能力。本課程內容主要透過課程的課堂參與、學習評估實習、教學輔導級演練，以獲得相關教學經驗。",
+    "goals": [
+        "具有設計資料處理科資訊專業課程教學方案的能力。",
+        "熟悉資料處理資訊專業課程教材與常用的教學方法及技巧。",
+        "學習教室管理及師生互動的技巧。",
+        "熟悉學習成果的評量方法。"
+    ],
+    "syllabus": "週次        課程內容                \n\nWeek1     課程簡介、運算思維簡介、學習成果評量方法 (2小時)\n\nWeek2     課程觀課       \n\nWeek3     課程實習 week 1   繳交實習教學計畫\n\nWeek4     課程實習 week 2  \n\nWeek5     課程實習 week 3  \n\nWeek6     課程實習 week 4  \n\nWeek7     課程實習 week 5  \n\nWeek8     課程實習 week 6  \n\nWeek9     課程實習 week 7  \n\nWeek10   課程實習 week 8  \n\nWeek11   課程實習 week 9  \n\nWeek12   課程實習 week 10\n\nWeek13   課程實習 week 11\n\nWeek14   課程實習 week 12\n\nWeek15   課程實習 week 13\n\nWeek16   課程實習 week 14\n\nWeek17   課程實習 week 15\n\nWeek18   實習檢討(2小時)  繳交實習報告",
+    "methodologies": [
+        {
+            "type": "合作學習",
+            "note": ""
+        },
+        {
+            "type": "其他",
+            "note": "資訊專業課程課堂教學參與並熟悉學習成果評量方法"
+        }
+    ],
+    "grading": [
+        {
+            "type": "出席",
+            "weight": 10,
+            "note": "課程簡介與實習檢討10%"
+        },
+        {
+            "type": "報告",
+            "weight": 10,
+            "note": "實習計畫及期末報告10%"
+        },
+        {
+            "type": "其他",
+            "weight": 80,
+            "note": "實習指導教授80%"
+        }
+    ],
+    "prerequisite": "◎必須先修過【00UE079  教師素養（教）】",
+    "general_core": []
+}

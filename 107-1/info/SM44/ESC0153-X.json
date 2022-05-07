@@ -1,0 +1,71 @@
+{
+    "year": 107,
+    "term": 1,
+    "name": "氣候研究統計分析方法",
+    "teachers": [
+        "鄒治華"
+    ],
+    "department": "SM44",
+    "code": "ESC0153",
+    "credit": 3,
+    "serial": 2656,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 4,
+            "from": 2,
+            "to": 4,
+            "campus": "公館",
+            "classroom": "Ｃ401"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程不開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "介紹氣候研究所使用的相關統計分析方法，提供各種隨時空變化的氣象參數資料，使學生透過對分析工具的熟悉與實作的經驗，瞭解氣候統計方法的應用。",
+    "goals": [
+        "介紹氣候研究所使用的相關統計分析方法，提供各種隨時空變化的氣象參數資料，使學生透過對分析工具的熟悉與實作的經驗，瞭解氣候統計方法的應用。"
+    ],
+    "syllabus": "一、教學目標： 介紹氣候研究所使用的相關統計分析方法，提供各種隨時空變化的氣象參數資料，使學生透過對分析工具的熟悉與實作的經驗，瞭解氣候統計方法的應用。   \n二、教材內容： （1）統計分析的基礎 （a）機率理論；（b）氣候變數的分布；（c）統計推論的概念；（d）估計 （2）確認與分析 （a）假說的統計測試；（b）大氣環流問題的分析   I （3）統計模式 （a）回歸分析；（b）變異數分析 （4）時間序列 （a）時間序列與隨機過程；（b）單雙變動時間序列的參數（c）估計共變函數與波譜 （5）本徵分析 （a）經驗正交函數；（b）正典相關分析；（c）主要振盪型態分析 （6）氣候研究的特定統計概念 （7）預報品質評估   \n三、實施方式(含評量標準)： 講授、討論、專業學術期刊論文閱讀與報告。  \n四、參考書目： 1.von Storch, H., and F. W. Zwiers, 1999: Statistical Analysis in Climate Research, Cambridge University Press, 484pp. 2.Daley, R., 1991: Atmospheric Data Analysis, Cambridge University Press, 457pp. 3.Polyak, I., 1996: Computational Statistics in Climatology, Oxford University Press, 358pp. 4.Wilks, D. S., 1995: Statistiacl Methods in the Atmospheric Sciences, Academic Press, 467pp. 5.相關期刊文章",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": ""
+        },
+        {
+            "type": "專題研究",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 50,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 30,
+            "note": "open book"
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 20,
+            "note": "出席率與回答"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

@@ -1,0 +1,70 @@
+{
+    "year": 107,
+    "term": 1,
+    "name": "體育（羽球初級）",
+    "teachers": [
+        "蔡虔祿"
+    ],
+    "department": "PE",
+    "code": "00UP109",
+    "credit": 1,
+    "serial": 2494,
+    "group": "E",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 5,
+            "from": 1,
+            "to": 2,
+            "campus": "本部",
+            "classroom": "體育館一4F"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 2,
+    "description": "學會羽球運動基本動作及進行比賽",
+    "goals": [
+        "學會羽球基本動作",
+        "瞭解羽球比賽之規則",
+        "學會羽球比賽之執法工作進行",
+        "能夠欣賞羽球比賽",
+        "養成終身運動的習慣"
+    ],
+    "syllabus": "教學大綱\n\n課程介紹\n\n發球\n\n發球與挑球\n\n抽球\n\n平推球與測驗\n\n高遠擊球\n\n殺球\n\n期中考\n\n切球\n\n切球與網前球\n\n測驗\n\n單打",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "問題解決教學",
+            "note": ""
+        },
+        {
+            "type": "實驗/實作",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "出席",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "其他",
+            "weight": 70,
+            "note": "比賽與測驗"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

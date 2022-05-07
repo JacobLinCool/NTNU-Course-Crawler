@@ -1,0 +1,69 @@
+{
+    "year": 110,
+    "term": 2,
+    "name": "分析化學實驗（二）",
+    "teachers": [
+        "陳頌方"
+    ],
+    "department": "SU42",
+    "code": "CMU0144",
+    "credit": 1,
+    "serial": 2854,
+    "group": "C",
+    "quota": {
+        "limit": 26,
+        "additional": 2
+    },
+    "schedule": [
+        {
+            "day": 3,
+            "from": 8,
+            "to": 10,
+            "campus": "公館",
+            "classroom": "Ｄ415"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "2",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "訓練學生分析化學實驗操作的技巧，並培養實驗正確的實驗態度以及獨立思考和解決問題能力。",
+    "goals": [
+        "訓練學生分析化學實驗操作的技巧",
+        "培養實驗正確的實驗態度以及獨立思考和解決問題能力"
+    ],
+    "syllabus": " \n\n實驗2-1電位滴定：鹵素離子定性與定量分析\n\n實驗2-2氧化還原滴定與鹵素離子干擾\n\n實驗2-3 電位滴定與氧化還原滴定之比較\n\n實驗2-4 線性掃瞄伏安法與NADH濃度分析\n\n實驗2-5 循環伏安法的應用\n\n實驗2-6  UV-Vis吸收光譜分析法的應用\n\n實驗2-7 溴麝香草酚藍之解離常數測定\n\n實驗2-8  UV-Vis吸收光譜滴定\n\n實驗2-9 除草劑殘餘量之螢光檢測(1)\n\n實驗2-10除草劑殘餘量之螢光檢測(2)\n\n實驗2-11紅外光吸收光譜分析\n\n實驗2-12拉曼光譜分析(參觀實驗)",
+    "methodologies": [
+        {
+            "type": "實驗/實作",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "期末考",
+            "weight": 15,
+            "note": ""
+        },
+        {
+            "type": "出席",
+            "weight": 35,
+            "note": "含實驗態度"
+        },
+        {
+            "type": "報告",
+            "weight": 45,
+            "note": ""
+        },
+        {
+            "type": "其他",
+            "weight": 5,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

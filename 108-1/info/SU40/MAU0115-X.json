@@ -1,0 +1,69 @@
+{
+    "year": 108,
+    "term": 1,
+    "name": "高等線性代數（一）",
+    "teachers": [
+        "胡舉卿"
+    ],
+    "department": "SU40",
+    "code": "MAU0115",
+    "credit": 3,
+    "serial": 2851,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 4,
+            "from": 9,
+            "to": 10,
+            "campus": "公館",
+            "classroom": "Ｃ002"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "3",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程希望透過講授、閱讀、討論與實作等方式，引導學生如何利用過去所學的代數及分析課程，對線性代數的理論與應用有更深入的了解。",
+    "goals": [
+        "訓練學生掌握抽象代數的基本知識",
+        "訓練學生可以用代數的語言進行溝通、表達、寫作",
+        "培養學生的直覺、欣賞與應用高等代數至其他學科的能力"
+    ],
+    "syllabus": "1.      Vector spaces and Dimension  (1 week)\n\n2.      Linear Transformations and Matrices (2 weeks)\n\n3.      Characteristic Polynomials and Minimal Polynomials (3 Weeks)\n\n4.      Decomposition of a Linear Operator (4 Weeks)\n\n5.      Eigenvectors and Eigenvalues  (3 Weeks)\n\n6.      Form Reductions (4 Weeks)",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "講述重要概念與理論"
+        },
+        {
+            "type": "討論法",
+            "note": "不時提出問題與學生互動討論"
+        }
+    ],
+    "grading": [
+        {
+            "type": "期中考",
+            "weight": 40,
+            "note": "以習題為主"
+        },
+        {
+            "type": "期末考",
+            "weight": 50,
+            "note": "以習題為主"
+        },
+        {
+            "type": "出席",
+            "weight": 10,
+            "note": "不定時簽到，做為平時成績"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

@@ -1,0 +1,67 @@
+{
+    "year": 110,
+    "term": 1,
+    "name": "植物形態學實驗",
+    "teachers": [
+        "葉增勇"
+    ],
+    "department": "SU43",
+    "code": "BIU0018",
+    "credit": 1,
+    "serial": 2985,
+    "group": "",
+    "quota": {
+        "limit": 30,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 3,
+            "from": 7,
+            "to": 9,
+            "campus": "公館",
+            "classroom": "Ｄ201"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "2",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "介紹藻類，蘚苔類，蕨類等低等植物及真菌內外部形態構造",
+    "goals": [
+        "能認識低等植物(藻類，蘚苔類，蕨類)以及真菌等內外部形態構造"
+    ],
+    "syllabus": "第1週 Introduction\n\n第2週 Cyanophyta\n\n第3週 Chlorophyta\n\n第4週 Chlorophyta(Cont.)\n\n第5週 Euglenophyta, Chrysophyta,\n\n第6週 Phaeophyta, Dinophyta,\n\n第7週 Rhodophyta\n\n第8週Bryophyta(Marchantiopsida, Anthocerotopsida)\n\n第9週 Midterm exam.\n\n第10週 Bryophyta(Bryopsida)\n\n第11週 Lycophytina(Lycopodiopsida)\n\n第12週 Euphyllophytina (Equisetopsida)\n\n第13週 Euphyllophytina(Polypodiopsida)(ferns)\n\n第14週Gymnomycota\n\n第15週 Mastigomycota\n\n第16週Zygomycotina, Ascomycotina\n\n第17週 Basidiomycotina\n\n第18週Terminal exam.",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "使用power point及圖片，影片教學"
+        },
+        {
+            "type": "實驗/實作",
+            "note": "實際觀察永久切片及新鮮材料"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 40,
+            "note": "作業(點圖)需畫在全白的A4紙上。每張紙只能畫一面每面至多畫兩張圖。於下一次上課時繳交，每遲一天扣一級分，缺交者以0分計。"
+        },
+        {
+            "type": "期中考",
+            "weight": 30,
+            "note": "內容包含問答題、繪圖題等，以評量學生專業知識。"
+        },
+        {
+            "type": "期末考",
+            "weight": 30,
+            "note": "內容包含問答題、繪圖題等，以評量學生專業知識。"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

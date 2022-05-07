@@ -1,0 +1,83 @@
+{
+    "year": 109,
+    "term": 1,
+    "name": "視訊通訊",
+    "teachers": [
+        "葉家宏"
+    ],
+    "department": "HM75",
+    "code": "AEC8019",
+    "credit": 3,
+    "serial": 1213,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 7,
+            "to": 9,
+            "campus": "本部",
+            "classroom": "工511"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "1. Introduction to basic digital video coding and applications of the communication\n2. Compression fundamental\n3. International still image coding standard\n4. Motion estimation/compression and hybrid coding system\n5. International video coding standards\n6. Digital video transcoding\n7. Digital video communication and error concealment/resilience\n8. Scalable video coding",
+    "goals": [
+        "使學習者認識視訊通訊理論",
+        "使學習者了解視訊通訊相關產業近況",
+        "使學習者具備視訊通訊相關應用之實作能力"
+    ],
+    "syllabus": "Week 1 – Course introduction: goals and requirements  \nWeek 2 – Introduction  \nWeek 3 – Basic digital video coding and its applications in communication (1/2)  \nWeek 4 – Basic digital video coding and its applications in communication (2/2)  \nWeek 5 – Compression fundamental (1/2)  \nWeek 6 – Compression fundamental (2/2)  \nWeek 7 – International still image coding standard  \nWeek 8 – Motion estimation/compression and hybrid coding system (1/2)  \nWeek 9 – Motion estimation/compression and hybrid coding system (2/2)  \nWeek 10 – Discussion: midterm project  \nWeek 11 – H.264 video coding standards (1/2)  \nWeek 12 – H.264 video coding standards (2/2)  \nWeek 13 – Scalable video coding (1/2)  \nWeek 14 – Scalable video coding (2/2)  \nWeek 15 – Digital video communication and error concealment/resilience  \nWeek 16 – Digital video transcoding  \nWeek 17 – Discussion: current research topics  \nWeek 18 – Final exam",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "講解視訊通訊之原理、歷史與未來發展及相關應用。"
+        },
+        {
+            "type": "討論法",
+            "note": "以專題報告方式進行專業知識討論與交流。"
+        },
+        {
+            "type": "實驗/實作",
+            "note": "以程式實作方式了解視訊通訊之原理及應用。"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 30,
+            "note": "程式實作。"
+        },
+        {
+            "type": "期末考",
+            "weight": 30,
+            "note": "課程專業知識之期末測驗。"
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 5,
+            "note": "課堂參與與上課表現。"
+        },
+        {
+            "type": "出席",
+            "weight": 5,
+            "note": "出席狀況。"
+        },
+        {
+            "type": "報告",
+            "weight": 30,
+            "note": "課程專業知識之口頭報告。"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

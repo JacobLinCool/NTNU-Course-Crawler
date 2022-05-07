@@ -1,0 +1,132 @@
+[
+    {
+        "year": 109,
+        "term": 1,
+        "name": "專題討論",
+        "teachers": [
+            "陳冬生",
+            "鄭劍廷"
+        ],
+        "department": "SM52",
+        "code": "BPM0001",
+        "credit": 2,
+        "serial": 2786,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 5,
+                "from": 3,
+                "to": 4,
+                "campus": "公館",
+                "classroom": "F212"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "允許重複修 ◎課程不開放上修",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 1,
+        "name": "生技醫藥產業概論",
+        "teachers": [
+            "陳冬生"
+        ],
+        "department": "SM52",
+        "code": "BPM0002",
+        "credit": 2,
+        "serial": 2787,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 6,
+                "to": 7,
+                "campus": "公館",
+                "classroom": "F212"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎課程不開放上修",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 1,
+        "name": "生技產品開發與智財管理",
+        "teachers": [
+            "陳冬生"
+        ],
+        "department": "SM52",
+        "code": "BPM0003",
+        "credit": 3,
+        "serial": 2788,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 2,
+                "to": 4,
+                "campus": "公館",
+                "classroom": "F212"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎課程不開放上修",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 1,
+        "name": "國內生技醫藥產業實習",
+        "teachers": [
+            "王玉麒",
+            "吳忠信"
+        ],
+        "department": "SM52",
+        "code": "BPM0006",
+        "credit": 3,
+        "serial": 3310,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 6,
+                "from": 1,
+                "to": 6,
+                "campus": "校外",
+                "classroom": "校外教室"
+            }
+        ],
+        "programs": [],
+        "comment": "暑期至校外實習課程，未參與實習者，請勿選課。",
+        "restrict": "◎課程開放上修",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    }
+]

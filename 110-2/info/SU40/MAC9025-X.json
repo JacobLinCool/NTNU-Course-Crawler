@@ -1,0 +1,79 @@
+{
+    "year": 110,
+    "term": 2,
+    "name": "組合數學（IB）",
+    "teachers": [
+        "林延輯"
+    ],
+    "department": "SU40",
+    "code": "MAC9025",
+    "credit": 3,
+    "serial": 2719,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 1,
+            "from": 2,
+            "to": 4,
+            "campus": "公館",
+            "classroom": "數學館310研討室"
+        }
+    ],
+    "programs": [
+        "國際教師學程-數學"
+    ],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "9",
+    "dept_group": "",
+    "hours": 3,
+    "description": "",
+    "goals": [
+        "Solving applications by using counting skills.",
+        "Using combinatorics to solve problems in related fields.",
+        "Transferring between models in combinatorics."
+    ],
+    "syllabus": "1.  基礎計數原則；加法原理，乘法原理，一一對應原理 (1 週)\n2.  二項式係數 (2週)\n3.  生成函數與遞迴關係 (1 週)\n4.  集合的分割與第二類 Stirling 數 (1 週)\n5.  排列與第一類 Stirling 數 (1 週)\n6.  正整數的分割 (partition) 與組成 (arrangements) (1 週)\n7.  排容原理 (1 週)\n8.  排列的統計量 (2 週)\n9.  學生專題報告 (8 週)\n\n註：學生將需要使用數學軟體 SAGE (python based) 或其他程式語言編寫程式。本課程中一定比例以英語授課。\n\nThe sessions are arranged as follows:\n\n1\\. Basic counting principles: rules of addition and multiplication, bijections (1 week)\n\n2\\. Binomial coefficients (2 weeks)\n\n3\\. Generating functions and recursions (1 week)\n\n4\\. Set partition and the Stirling numbers of the second kind (1 week)\n\n5\\. Permutations and the Stirling numbers of the first kind (1 week)\n\n6\\. Partitions and arrangements (1 week)\n\n7\\. Principle of inclusion-exclusion (1 week)\n\n8\\. Statistics on permutations (2 weeks)\n\n9\\. Student reports\n\nMiscellaneous:\n\n1\\. Students are required to code in SAGE (a python-based mathematical software)\n\n2\\. English will be used in this class",
+    "methodologies": [
+        {
+            "type": "Formal lecture",
+            "note": "上課講解"
+        },
+        {
+            "type": "Problem base learning",
+            "note": "提出問題，介紹解決工具"
+        },
+        {
+            "type": "Media, audio, visual materials",
+            "note": "編寫程式，由結果推測公式"
+        },
+        {
+            "type": "Case studies",
+            "note": "學生專題報告"
+        }
+    ],
+    "grading": [
+        {
+            "type": "Midterm Exam",
+            "weight": 40,
+            "note": "預備基本知識"
+        },
+        {
+            "type": "Attendances",
+            "weight": 10,
+            "note": "準時出席討論"
+        },
+        {
+            "type": "Case study reports",
+            "weight": 50,
+            "note": "期末專題報告"
+        }
+    ],
+    "prerequisite": "◎Available for junior and senior year B.A. program students (Doctoral program courses excepted) and M.A. program students.",
+    "general_core": []
+}

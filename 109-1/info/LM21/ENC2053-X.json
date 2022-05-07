@@ -1,0 +1,86 @@
+{
+    "year": 109,
+    "term": 1,
+    "name": "量化方法與Ｒ語言實作",
+    "teachers": [
+        "甯俐馨"
+    ],
+    "department": "LM21",
+    "code": "ENC2053",
+    "credit": 3,
+    "serial": 1679,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 1,
+            "from": 2,
+            "to": 4,
+            "campus": "本部",
+            "classroom": "勤302"
+        }
+    ],
+    "programs": [
+        "學習與資訊學程",
+        "數位人文與藝術學程",
+        "大數據學程"
+    ],
+    "comment": "",
+    "restrict": "◎課程不開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "This course provides an overview of statistical models in linguistics and hands-on programming with R. No background in statistics or prior knowledge of R is assumed. The course begins with an overview of descriptive and inferential statistics. The statistical program R will be used throughout the course. By the end of the course, students should have a thorough knowledge of many statistical models used in modern linguistics and an ability to perform statistical analyses with R.",
+    "goals": [
+        "Gain the fundamental concepts in statistics",
+        "Demonstrate the ability to conduct statistical analyses with R"
+    ],
+    "syllabus": "This course provides an overview of statisticalmodels in linguistics and hands-on programming with R. No background instatistics or prior knowledge of R is assumed. The course begins with anoverview of descriptive and inferential statistics. The statistical program Rwill be used throughout the course. By the end of the course, students shouldhave a thorough knowledge of many statistical models used in modern linguisticsand an ability to perform statistical analyses with R. \n\nWeek 1:Course Overview—R and RStudio\n\nWeek 2: Probability Theory; BasicData Manipulation and Graphical Displays in R\n\nWeek 3: Descriptive Statistics and Sampling\n\nWeek 4: Hypothesis testing\n\nWeek 5: Hypothesis testing\n\nWeek 6: z-tests and t-tests: Comparing Two Means\n\nWeek 7: Chi-square Tests: Categorical Data Analysis\n\nWeek 8: Analysis of Variance (ANOVA): Comparing Several Means\n\nWeek 9: Analysis of Variance (ANOVA): Comparing Several Means\n\nWeek 10:Midterm Exam\n\nWeek 11: Factor Level Means; Diagnostics\n\nWeek 12: Two-way ANOVA; Experimental Design\n\nWeek 13: Linear regression\n\nWeek 14: Linear regression\n\nWeek 15: Repeated Measures; Random and Mixed Effects Models\n\nWeek 16: Repeated Measures; Random and Mixed Effects Models\n\nWeek 17: Logistic regression; GLM\n\nWeek 18: Final Exam",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "Handouts will be provided"
+        },
+        {
+            "type": "問題解決教學",
+            "note": "In-class exercises"
+        },
+        {
+            "type": "實驗/實作",
+            "note": "homework"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 20,
+            "note": ""
+        },
+        {
+            "type": "期中考",
+            "weight": 25,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 25,
+            "note": ""
+        },
+        {
+            "type": "出席",
+            "weight": 10,
+            "note": ""
+        },
+        {
+            "type": "其他",
+            "weight": 20,
+            "note": "隨堂考試"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

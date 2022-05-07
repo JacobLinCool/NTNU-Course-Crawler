@@ -1,0 +1,86 @@
+{
+    "year": 110,
+    "term": 1,
+    "name": "嵌入式系統設計",
+    "teachers": [
+        "林均翰"
+    ],
+    "department": "SM47",
+    "code": "CSC0027",
+    "credit": 3,
+    "serial": 2764,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 3,
+            "from": 2,
+            "to": 4,
+            "campus": "公館",
+            "classroom": "Ｓ203"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程介紹嵌入式系統設計的基本概念，包含嵌入式系統中系統規格、系統模型、硬體元件、系統軟體的核心技術，同時並注重設計流程中，嵌入式系統與應用程式的對應，及嵌入式系統完成後的測試與最佳化等各項技術。本課程將以課堂授課搭配專題方式進行，實際體驗嵌入式系統各項技術與應用。\nIn this year, we will include the most popular topics in the past few years and add more multimedia topics. In advance, we will provide some state of the art hardware to illustrate the technics in this course.",
+    "goals": [
+        "了解嵌入式系統的設計概念。",
+        "了解嵌入式系統的硬體元件與系統軟體。",
+        "實作嵌入式系統專題開發。"
+    ],
+    "syllabus": "下列為暫定教學主題，教學進度視課程情況調整。授課⽅式為16+2週，本課程包含2週作業活動，於教學主題結束後公告相關  \n作業。\n\n*   Introduction\n    \n*   Specifications and Modeling\n    \n*   Embedded System Hardware\n    \n*   System Software\n    \n*   Evaluation and Validation\n    \n*   Application mapping\n    \n*   Optimization\n    \n*   Test",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "問題解決教學",
+            "note": ""
+        },
+        {
+            "type": "實驗/實作",
+            "note": ""
+        },
+        {
+            "type": "媒體融入教學",
+            "note": ""
+        },
+        {
+            "type": "專題研究",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 10,
+            "note": ""
+        },
+        {
+            "type": "報告",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "專題",
+            "weight": 30,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

@@ -1,0 +1,69 @@
+{
+    "year": 110,
+    "term": 2,
+    "name": "拓樸學（一）",
+    "teachers": [
+        "張毓麟"
+    ],
+    "department": "SU40",
+    "code": "MAU0027",
+    "credit": 3,
+    "serial": 2769,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 3,
+            "from": 6,
+            "to": 8,
+            "campus": "公館",
+            "classroom": "Ｅ102"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "3",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "拓樸學主要是要介紹點集拓樸學，也就是關於拓樸空間的概念，讓學生認識抽象化空間的拓樸結構（提供關於“距離”、“遠近”的概念），並做為日後修習高深數學的基礎。",
+    "goals": [
+        "瞭解點集拓樸學基本性質",
+        "增進邏輯推理與歸納的能力",
+        "增進數學思維與批判性思考的能力"
+    ],
+    "syllabus": "拓樸學是不考慮長度與角度的幾何學，通常以點集拓樸與代數拓樸的介紹為入門。\n\n1\\. 定義: 開閉集\n\n2\\. 函數:連續\n\n3\\. 連通集\n\n4\\. 緊緻集\n\n5\\. R^n\n\n6\\. 收斂概念\n\n7\\. 以分析學為應用介紹\n\nUrysohn’s Lemma and Tietze’s Theorem \n\nThe Stone-Weierstraß Theorem \n\nThe Arzelà-Ascoli Theorem .",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 40,
+            "note": ""
+        },
+        {
+            "type": "期中考",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 30,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

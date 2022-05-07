@@ -1,0 +1,86 @@
+{
+    "year": 110,
+    "term": 2,
+    "name": "演化式計算",
+    "teachers": [
+        "許陳鑑"
+    ],
+    "department": "HM75",
+    "code": "AEC8057",
+    "credit": 3,
+    "serial": 1128,
+    "group": "",
+    "quota": {
+        "limit": 30,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 3,
+            "from": 7,
+            "to": 9,
+            "campus": "本部",
+            "classroom": "工511"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "",
+    "goals": [
+        "Understand the principle of various evolutionary algorithms",
+        "Use programing languages to implement various evolutionary algorithms, and analyze the experimental results.",
+        "Get familiar with computational platforms for running evolutionary algorithms.",
+        "Cultivate research ability through problem-solving thinking.",
+        "Enhance comprehension ability of engineering problems. Use various evolutionary algorithms to obtain solutions through optimization.",
+        "Cultivate the ability to search for relevant technical literature and improve self-learning ability.",
+        "Ability to conduct thematic research in small groups and develop the ability of team working."
+    ],
+    "syllabus": "16+2 weeks (Lectures from Weeks 1 to 16; Self learning in Weeks 17 and 18)\n\nWeeks 1-2: Introduction\n\nWeeks 3-5: Genetic Algorithms\n\nWeek 6: Evolutionary strategies\n\nWeek 7: Genetic Programming\n\nWeek 8: Particle Swarm Optimization\n\nWeek 9: NM simplex search method / Hybridization with other techniques\n\nWeeks 10-11: Multimodal problems and multi-objective evolutionary algorithms\n\nWeek 12: Parallel Computation of Evolutionary Algorithms\n\nWeek 13: Particle filter based approach\n\nWeek 14: Special topics on Evolutionary Computation\n\nWeeks 15-16: Presentation and group discussion\n\nWeeks 17-18: Self-learning",
+    "methodologies": [
+        {
+            "type": "Formal lecture",
+            "note": "Introduce the relevant principles and techniques of various evolutionary algorithms"
+        },
+        {
+            "type": "Group discussion",
+            "note": "Discuss engineering optimization issues in small groups"
+        },
+        {
+            "type": "Lab/Studio",
+            "note": "Students write programs to implement and verify various evolutionary algorithms"
+        },
+        {
+            "type": "Case studies",
+            "note": "Students choose a practical application or specific evolutionary algorithm as a research project."
+        }
+    ],
+    "grading": [
+        {
+            "type": "Assignments",
+            "weight": 60,
+            "note": "Submit experimental results and a written report for each assignment"
+        },
+        {
+            "type": "Class discussion involvement",
+            "weight": 10,
+            "note": "Class discussion involvement"
+        },
+        {
+            "type": "Attendances",
+            "weight": 10,
+            "note": "Attendances"
+        },
+        {
+            "type": "Presentation",
+            "weight": 20,
+            "note": "Oral presentation and written report of a special project chosen by the student"
+        }
+    ],
+    "prerequisite": "◎Available for junior and senior year B.A. program students (Doctoral program courses excepted) and M.A. program students.",
+    "general_core": []
+}

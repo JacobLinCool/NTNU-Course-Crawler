@@ -1,0 +1,65 @@
+{
+    "year": 107,
+    "term": 2,
+    "name": "代數數論特論",
+    "teachers": [
+        "李華介",
+        "夏良忠"
+    ],
+    "department": "SM40",
+    "code": "MAC0085",
+    "credit": 3,
+    "serial": 2604,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 4,
+            "from": 6,
+            "to": 8,
+            "campus": "公館",
+            "classroom": "教室自排"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "代數整數在加法、減法與乘法下構成一個環，但整數的許多性質並不能推廣到一般數域裡的代數整數上，其中一個例子是素因數分解的唯一性（又稱算術基本定理），這是十九世紀數學家試圖證明費馬大定理時遇到的主要阻礙，然而代數數論的應用不僅止於此。數學中一些較深入的理論有助於讓我們了解代數數與代數整數的性質——包括伽羅瓦理論、伽羅瓦上同調、類域論、表示理論與L-函數的相關理論等等。\n本課程延續代數數論課程，更深入探討代數數論理論。",
+    "goals": [
+        "進階代數數論理論",
+        "代數數論與代數幾何之關聯",
+        "代數數論之研究"
+    ],
+    "syllabus": "1\\. Class Field Theory (5 Weeks)2. Elliptic Curves (5 Weeks)  \n3\\. Galois Representations and L-functions (4 Weeks)  \n4\\. Galois Cohomology (4 Weeks)",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "講述重要概念與理論"
+        },
+        {
+            "type": "討論法",
+            "note": "不時提出問題與學生互動討論"
+        }
+    ],
+    "grading": [
+        {
+            "type": "課堂討論參與",
+            "weight": 60,
+            "note": "強烈要求參與討論及提問"
+        },
+        {
+            "type": "報告",
+            "weight": 40,
+            "note": "以所授課程內容、平時參與討論的內容，或是新的研究課題，上台報告。"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

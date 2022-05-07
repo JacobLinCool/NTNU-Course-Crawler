@@ -1,0 +1,970 @@
+[
+    {
+        "year": 107,
+        "term": 1,
+        "name": "職場見習",
+        "teachers": [
+            "李景峰",
+            "郭金國"
+        ],
+        "department": "HU70",
+        "code": "IEU0124",
+        "credit": 3,
+        "serial": 1186,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 6,
+                "from": 1,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "鑄造場"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 1,
+        "name": "內燃機",
+        "teachers": [
+            "呂有豐"
+        ],
+        "department": "HU70",
+        "code": "IEU1160",
+        "credit": 3,
+        "serial": 1207,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 7,
+                "to": 9,
+                "campus": "本部",
+                "classroom": "汽車場"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "",
+        "classes": "",
+        "dept_group": "I"
+    },
+    {
+        "year": 107,
+        "term": 1,
+        "name": "能源應用技術（一）",
+        "teachers": [
+            "鄧敦平"
+        ],
+        "department": "HU70",
+        "code": "IEU3158",
+        "credit": 2,
+        "serial": 1198,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 1,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "冷凍場"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "",
+        "classes": "",
+        "dept_group": "H"
+    },
+    {
+        "year": 107,
+        "term": 1,
+        "name": "汽車電子學",
+        "teachers": [
+            "黃奇武"
+        ],
+        "department": "HU70",
+        "code": "IEU3252",
+        "credit": 3,
+        "serial": 1208,
+        "group": "",
+        "quota": {
+            "limit": 30,
+            "additional": 0
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 8,
+                "to": 10,
+                "campus": "本部",
+                "classroom": "工209"
+            }
+        ],
+        "programs": [],
+        "comment": "工209為電腦教室，為避免電腦設備不足，限修課人數為30人",
+        "restrict": "",
+        "form_s": "",
+        "classes": "",
+        "dept_group": "I"
+    },
+    {
+        "year": 107,
+        "term": 1,
+        "name": "專業技術訓練（一）",
+        "teachers": [
+            "呂有豐"
+        ],
+        "department": "HU70",
+        "code": "IEU4358",
+        "credit": 3,
+        "serial": 1209,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 6,
+                "from": 10,
+                "to": 12,
+                "campus": "本部",
+                "classroom": "汽車場"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "",
+        "classes": "",
+        "dept_group": "I"
+    },
+    {
+        "year": 107,
+        "term": 1,
+        "name": "動力機械群科目教材教法（教）",
+        "teachers": [
+            "呂有豐"
+        ],
+        "department": "HU70",
+        "code": "IEUE210",
+        "credit": 2,
+        "serial": 3200,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 10,
+                "to": 11,
+                "campus": "本部",
+                "classroom": "汽車場"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 1,
+        "name": "電機與電子群教材教法（教）",
+        "teachers": [
+            "蘇崇彥"
+        ],
+        "department": "HU70",
+        "code": "IEUE301",
+        "credit": 2,
+        "serial": 1187,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 9,
+                "to": 10,
+                "campus": "本部",
+                "classroom": "正104"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 1,
+        "name": "奈米科技發展與應用",
+        "teachers": [
+            "郭金國"
+        ],
+        "department": "HU70",
+        "code": "IEC0031",
+        "credit": 3,
+        "serial": 1188,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 0
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 2,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "研討二"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "",
+        "classes": "9",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 1,
+        "name": "體育",
+        "teachers": [
+            "鍾建何"
+        ],
+        "department": "HU70",
+        "code": "00UP001",
+        "credit": 1,
+        "serial": 1189,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 1,
+                "to": 2,
+                "campus": "本部",
+                "classroom": "操場一"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "1",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 1,
+        "name": "工程圖學",
+        "teachers": [
+            "江明進"
+        ],
+        "department": "HU70",
+        "code": "IEU0114",
+        "credit": 2,
+        "serial": 1190,
+        "group": "",
+        "quota": {
+            "limit": 35,
+            "additional": 0
+        },
+        "schedule": [
+            {
+                "day": 5,
+                "from": 6,
+                "to": 9,
+                "campus": "本部",
+                "classroom": "工209"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "1",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 1,
+        "name": "機械通用技術",
+        "teachers": [
+            "洪翊軒",
+            "郭金國"
+        ],
+        "department": "HU70",
+        "code": "IEU0115",
+        "credit": 2,
+        "serial": 1191,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 6,
+                "to": 9,
+                "campus": "本部",
+                "classroom": "鑄造場"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "1",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 1,
+        "name": "程式設計",
+        "teachers": [
+            "黃奇武"
+        ],
+        "department": "HU70",
+        "code": "IEU0119",
+        "credit": 3,
+        "serial": 1192,
+        "group": "",
+        "quota": {
+            "limit": 30,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 2,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "工209"
+            }
+        ],
+        "programs": [],
+        "comment": "工209為電腦教室，可容納人數為30人。",
+        "restrict": "",
+        "form_s": "1",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 1,
+        "name": "汽油引擎修護（一）",
+        "teachers": [
+            "張俊興"
+        ],
+        "department": "HU70",
+        "code": "IEU1102",
+        "credit": 2,
+        "serial": 1193,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 1,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "汽車場"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "1",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 1,
+        "name": "冷凍空調基礎技術（一）",
+        "teachers": [
+            "鄭龍嶽"
+        ],
+        "department": "HU70",
+        "code": "IEU3101",
+        "credit": 2,
+        "serial": 1194,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 6,
+                "from": 1,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "冷凍場"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "1",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 1,
+        "name": "能源科技概論",
+        "teachers": [
+            "陳蓉萱"
+        ],
+        "department": "HU70",
+        "code": "IEU3163",
+        "credit": 2,
+        "serial": 1195,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 0
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 6,
+                "to": 7,
+                "campus": "本部",
+                "classroom": "研討六"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "1",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 1,
+        "name": "感測與轉換",
+        "teachers": [
+            "呂藝光"
+        ],
+        "department": "HU70",
+        "code": "IEU0117",
+        "credit": 3,
+        "serial": 1200,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 6,
+                "to": 8,
+                "campus": "本部",
+                "classroom": "電機與感測實驗室"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": "H"
+    },
+    {
+        "year": 107,
+        "term": 1,
+        "name": "汽車元件設計與製造",
+        "teachers": [
+            "張晉昌"
+        ],
+        "department": "HU70",
+        "code": "IEU1191",
+        "credit": 2,
+        "serial": 1210,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 0
+        },
+        "schedule": [
+            {
+                "day": 5,
+                "from": 6,
+                "to": 9,
+                "campus": "本部",
+                "classroom": "研討二"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": "I"
+    },
+    {
+        "year": 107,
+        "term": 1,
+        "name": "工程數學",
+        "teachers": [
+            "洪翊軒"
+        ],
+        "department": "HU70",
+        "code": "IEU3009",
+        "credit": 3,
+        "serial": 1196,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 5,
+                "from": 2,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "工401"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 1,
+        "name": "冷凍空調原理（一）",
+        "teachers": [
+            "莫懷恩"
+        ],
+        "department": "HU70",
+        "code": "IEU3154",
+        "credit": 3,
+        "serial": 1201,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 10,
+                "to": 12,
+                "campus": "本部",
+                "classroom": "冷凍場"
+            }
+        ],
+        "programs": [
+            "室內設計學程"
+        ],
+        "comment": "",
+        "restrict": "",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": "H"
+    },
+    {
+        "year": 107,
+        "term": 1,
+        "name": "汽車保修廠規劃原理",
+        "teachers": [
+            "呂有豐"
+        ],
+        "department": "HU70",
+        "code": "IEU4352",
+        "credit": 3,
+        "serial": 1211,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 7,
+                "to": 9,
+                "campus": "本部",
+                "classroom": "汽車場"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": "I"
+    },
+    {
+        "year": 107,
+        "term": 1,
+        "name": "環境空調系統",
+        "teachers": [
+            "卓清松"
+        ],
+        "department": "HU70",
+        "code": "IEU1042",
+        "credit": 3,
+        "serial": 1202,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 10,
+                "to": 12,
+                "campus": "本部",
+                "classroom": "冷凍場"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "3",
+        "classes": "",
+        "dept_group": "H"
+    },
+    {
+        "year": 107,
+        "term": 1,
+        "name": "車輛底盤修護（一）",
+        "teachers": [
+            "呂有豐",
+            "張俊興"
+        ],
+        "department": "HU70",
+        "code": "IEU1106",
+        "credit": 2,
+        "serial": 1212,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 10,
+                "to": 13,
+                "campus": "本部",
+                "classroom": "汽車場"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "3",
+        "classes": "",
+        "dept_group": "I"
+    },
+    {
+        "year": 107,
+        "term": 1,
+        "name": "車輛電系修護",
+        "teachers": [
+            "邱盛乾"
+        ],
+        "department": "HU70",
+        "code": "IEU1108",
+        "credit": 2,
+        "serial": 1213,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 10,
+                "to": 13,
+                "campus": "本部",
+                "classroom": "汽車場"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "3",
+        "classes": "",
+        "dept_group": "I"
+    },
+    {
+        "year": 107,
+        "term": 1,
+        "name": "汽車修護專題研究（一）",
+        "teachers": [
+            "郭金國",
+            "呂有豐",
+            "張俊興"
+        ],
+        "department": "HU70",
+        "code": "IEU1169",
+        "credit": 1,
+        "serial": 1214,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 6,
+                "from": 5,
+                "to": 6,
+                "campus": "本部",
+                "classroom": "汽車場"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "3",
+        "classes": "",
+        "dept_group": "I"
+    },
+    {
+        "year": 107,
+        "term": 1,
+        "name": "熱力學（一）",
+        "teachers": [
+            "謝嘉聰"
+        ],
+        "department": "HU70",
+        "code": "IEU3144",
+        "credit": 3,
+        "serial": 1197,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 6,
+                "to": 8,
+                "campus": "本部",
+                "classroom": "工401"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "3",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 1,
+        "name": "能源科技專題研究（一）",
+        "teachers": [
+            "洪翊軒",
+            "鄧敦平"
+        ],
+        "department": "HU70",
+        "code": "IEU3161",
+        "credit": 1,
+        "serial": 1203,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 6,
+                "from": 5,
+                "to": 6,
+                "campus": "本部",
+                "classroom": "冷凍場"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "3",
+        "classes": "",
+        "dept_group": "H"
+    },
+    {
+        "year": 107,
+        "term": 1,
+        "name": "冷凍工程與設計",
+        "teachers": [
+            "鄧敦平"
+        ],
+        "department": "HU70",
+        "code": "IEU4354",
+        "credit": 3,
+        "serial": 1205,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 6,
+                "to": 8,
+                "campus": "本部",
+                "classroom": "冷凍場"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "3",
+        "classes": "",
+        "dept_group": "H"
+    },
+    {
+        "year": 107,
+        "term": 1,
+        "name": "工廠管理",
+        "teachers": [
+            "張俊興"
+        ],
+        "department": "HU70",
+        "code": "IEU0107",
+        "credit": 2,
+        "serial": 1216,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 3,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "汽車場"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "4",
+        "classes": "",
+        "dept_group": "I"
+    },
+    {
+        "year": 107,
+        "term": 1,
+        "name": "車輛替代燃料",
+        "teachers": [
+            "呂有豐"
+        ],
+        "department": "HU70",
+        "code": "IEU1187",
+        "credit": 3,
+        "serial": 1217,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 10,
+                "to": 12,
+                "campus": "本部",
+                "classroom": "汽車場"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "4",
+        "classes": "",
+        "dept_group": "I"
+    },
+    {
+        "year": 107,
+        "term": 1,
+        "name": "空調工程與設計",
+        "teachers": [
+            "鄧敦平"
+        ],
+        "department": "HU70",
+        "code": "IEU4355",
+        "credit": 3,
+        "serial": 1206,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 6,
+                "to": 8,
+                "campus": "本部",
+                "classroom": "冷凍場"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "4",
+        "classes": "",
+        "dept_group": "H"
+    }
+]

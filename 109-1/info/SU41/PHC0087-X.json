@@ -1,0 +1,83 @@
+{
+    "year": 109,
+    "term": 1,
+    "name": "生物物理（一）－導論",
+    "teachers": [
+        "張宜仁"
+    ],
+    "department": "SU41",
+    "code": "PHC0087",
+    "credit": 3,
+    "serial": 2871,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 1,
+            "from": 6,
+            "to": 8,
+            "campus": "公館",
+            "classroom": "Ｆ101"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "",
+    "classes": "9",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程係針對研究所與大學部高年級同學所設計之跨領域科目，目的在介紹研究生物系統時所需運用之基本知識。內容包含了分子與細胞生物學之介紹，像是蛋白質、DNA以及生物膜的特性，以及研究這些系統所需的物理理論與技術。",
+    "goals": [
+        "生物系統的物理性質",
+        "基本生物物理研究所需之理論",
+        "常見生物物理研究技術",
+        "專題研究與報告"
+    ],
+    "syllabus": "1.      The Fact of Life\n\n2.      Life at Rest\n\n3.      Life in Motion\n\n4.      The Meaning of Life\n\n5.      Basic Molecular Biology Technology\n\n6.      Optical and Force Measurement Technology and its Applications in Biophysics\n\nReference Collection, Oral Report and Discussion",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "依據課程輔以參考書針對基本知識進行介紹"
+        },
+        {
+            "type": "討論法",
+            "note": "個別同學依據指定與選擇之課題進行文獻蒐集與討論"
+        },
+        {
+            "type": "合作學習",
+            "note": "需於上課期間進行口頭報告，並學習將已知表達，促進彼此學習"
+        },
+        {
+            "type": "專題研究",
+            "note": "個別就修課同學指定研究專題"
+        }
+    ],
+    "grading": [
+        {
+            "type": "課堂討論參與",
+            "weight": 20,
+            "note": "討論參與程度"
+        },
+        {
+            "type": "出席",
+            "weight": 20,
+            "note": "出席頻率"
+        },
+        {
+            "type": "報告",
+            "weight": 40,
+            "note": "報告內容充分度"
+        },
+        {
+            "type": "成果展覽",
+            "weight": 20,
+            "note": "其他同學學習評價"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

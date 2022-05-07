@@ -1,0 +1,74 @@
+{
+    "year": 108,
+    "term": 2,
+    "name": "體育（籃球初級）",
+    "teachers": [
+        "吳詩薇"
+    ],
+    "department": "PE",
+    "code": "00UP104",
+    "credit": 1,
+    "serial": 2407,
+    "group": "H",
+    "quota": {
+        "limit": 50,
+        "additional": 5
+    },
+    "schedule": [
+        {
+            "day": 3,
+            "from": 8,
+            "to": 9,
+            "campus": "本部",
+            "classroom": "室外籃球場一"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 2,
+    "description": "認識籃球運動之起源、歷史發展現況及籃球運動傷害之防治",
+    "goals": [
+        "認識籃球運動之起源、歷史發展現況及籃球運動傷害之防治",
+        "瞭解籃球規則",
+        "培養學生各項籃球基本技能",
+        "培養對籃球運動之興趣及欣賞能力"
+    ],
+    "syllabus": "  \n[教學進度與主題附件](https://ap.itc.ntnu.edu.tw/NtnuFileShare/file.do?action=dl&gno=b4e51c962a67440a86bc3183553e170f&fno=ce3f0812d38841d4b447f31106e91d2f)",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "口頭說明相關動作要領"
+        },
+        {
+            "type": "合作學習",
+            "note": "課程活動內容大多以團隊為主，團隊間之合作是完成課程要求的必要條件"
+        },
+        {
+            "type": "實驗/實作",
+            "note": "實際操作及練習都與成績與課程目標相關"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 70,
+            "note": "6種任務*3%=18％；3種測驗*10%=30％；小組對抗賽22％"
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 15,
+            "note": "課堂參與表現"
+        },
+        {
+            "type": "其他",
+            "weight": 15,
+            "note": "期末小組作業"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

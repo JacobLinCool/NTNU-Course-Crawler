@@ -1,0 +1,91 @@
+{
+    "year": 107,
+    "term": 2,
+    "name": "管理專題研討",
+    "teachers": [
+        "陳玠甫",
+        "施人英"
+    ],
+    "department": "OM56",
+    "code": "IAM0090",
+    "credit": 3,
+    "serial": 2409,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 1,
+            "from": 2,
+            "to": 4,
+            "campus": "本部",
+            "classroom": "教室自排"
+        }
+    ],
+    "programs": [],
+    "comment": "教室:雲和街教學大樓508室",
+    "restrict": "◎課程不開放上修",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "管理專題研討課程旨在培育學生應用管理理論於管理實務的專業能力，透過管理個案分析討論、新創公司專案實作、觀摩企業決策過程及專題演講等課堂活動，增進學生對於生產、行銷、人力資源、研發、策略與財務理論與實務融合的專業素養，讓學生能強化自身對管理領域的整合分析能力，並且提升對產業趨勢與國際視野之洞察能力。",
+    "goals": [
+        "瞭解全球企業管理的重要發展趨勢",
+        "瞭解如何應用管理理論於管理相關實務運作",
+        "培養同學對於管理實務個案的批判性思考能力"
+    ],
+    "syllabus": "This seminar will develop students’ analytical skills required by venture capitalists. They will understand the new knowledge about business strategy planning, technology trends, marketing, finance, operations, human resource management, investment term sheets, intellectual property, law, internet startups, artificial intelligence, Fintech, Internet of things, and other new economy concepts. The course will train students to write investment proposals for the selected top universities’ startup projects. The progress of this course is as follows:\n\n*   March: 臺師大新創控股事業股份有限公司（新創投資）\n*   April: 臺師大新創控股藝術分享公司（區塊鏈）\n*   May: 臺師大新創控股品牌電商公司（大數據電商）\n*   June: OperAI Inc. 精準醫療公司（人工智慧）\n\n    本學期管理專題研討課程的安排將培養同學成為早期創業投資分析者所需的相關分析能力，讓同學瞭解商業策略規劃、科技趨勢、行銷、財務、作業管理、人力資源、投資條款、智慧財產、法律、新創事業、人工智慧、智慧醫療、網路大數據及其他新經濟等觀念。",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "Lecturing and Guest Speech (由授課老師與邀請講者講述相關觀念)"
+        },
+        {
+            "type": "討論法",
+            "note": "Students participate in the discussion of several selected startup projects (同學參與新創專案議題討論)"
+        },
+        {
+            "type": "問題解決教學",
+            "note": "Students will propose solutions for the problems they list for each course issue (同學將針對各個新創專案評估議題做出評估分析方案)"
+        },
+        {
+            "type": "合作學習",
+            "note": "Students will discuss each topic with their group members (同學將分組討論各議題)"
+        },
+        {
+            "type": "實地考察、參訪",
+            "note": ""
+        },
+        {
+            "type": "專題研究",
+            "note": "Investment proposal (小組針對新創投資案撰寫分析報告)"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 20,
+            "note": "Business ethics and leadership"
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 20,
+            "note": "MLO1.2 Case (startup project) discussion"
+        },
+        {
+            "type": "出席",
+            "weight": 10,
+            "note": "MLO1.1 Encourage students to attend and participate in the course"
+        },
+        {
+            "type": "專題",
+            "weight": 50,
+            "note": "MLO1.2 Investment proposals"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

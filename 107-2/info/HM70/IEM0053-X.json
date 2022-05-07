@@ -1,0 +1,86 @@
+{
+    "year": 107,
+    "term": 2,
+    "name": "材料機械性質",
+    "teachers": [
+        "郭金國"
+    ],
+    "department": "HM70",
+    "code": "IEM0053",
+    "credit": 3,
+    "serial": 1104,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 6,
+            "from": 2,
+            "to": 4,
+            "campus": "本部",
+            "classroom": "鑄造場"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "了解各種機械性質的量測方法及這些性質所代表的意義，目的在使工程師應用其所選用材料於設計的機構、元件時，不會產生超出預期的變形或破壞。材料的機械性質可以反應出其受力或負荷時與變形間的關聯性。強度、硬度、延性和勁度都是重要的機械性質。期望學生能夠在實際場所充份應用材料相關知識。",
+    "goals": [
+        "了解各種機械性質的量測方法及這些性質所代表的意義"
+    ],
+    "syllabus": "第一週     Introduction of Course\n\n第二週     A Short Review of the Methods of STATICS \n\n第三週     Introduction of Material Science\n\n第四週     Mechanics of Materials：Stress and Stain-Axial Loading\n\n第五週     Mechanics of Materials：Torsion\n\n第六週     Mechanics of Materials：Shearing Stresses in Beams and Thin-Walked Member\n\n第七週     Mechanics of Materials：Transformation of Stress and Stain\n\n第八週     Mechanics of Materials：Principal Stresses Under a Given Loading\n\n第九週     Middle Exam\n\n第十週      Analysis of Mechanics of Material's Property\n\n第十一週    Special Topic Report 1\n\n第十二週    Experiment-Observe the Metal Structure  \n\n第十三週    Special Topic Report 2\n\n第十四週     Experiment-Melting the Standard Test Stick\n\n第十五週     Special Topic Report 3\n\n第十六週     Experiment-Tensile test\n\n第十七週     Special Topic Report 4\n\n第十八週     Final Exam",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": ""
+        },
+        {
+            "type": "實驗/實作",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 10,
+            "note": ""
+        },
+        {
+            "type": "期中考",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 10,
+            "note": ""
+        },
+        {
+            "type": "出席",
+            "weight": 10,
+            "note": ""
+        },
+        {
+            "type": "報告",
+            "weight": 10,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

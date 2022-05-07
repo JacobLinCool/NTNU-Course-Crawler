@@ -1,0 +1,76 @@
+{
+    "year": 109,
+    "term": 2,
+    "name": "地理資訊應用",
+    "teachers": [
+        "張國楨"
+    ],
+    "department": "LU23",
+    "code": "GEU0079",
+    "credit": 3,
+    "serial": 1914,
+    "group": "",
+    "quota": {
+        "limit": 25,
+        "additional": 5
+    },
+    "schedule": [
+        {
+            "day": 5,
+            "from": 3,
+            "to": 5,
+            "campus": "本部",
+            "classroom": "地理系電腦教室"
+        }
+    ],
+    "programs": [
+        "學習與資訊學程",
+        "數位人文與藝術學程",
+        "空間學程"
+    ],
+    "comment": "",
+    "restrict": "◎必須先修過【GEU0166  地理資訊系統】",
+    "form_s": "3",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程之目標在於應用空間分析方法之觀念及原理，引導學生利用地理資訊系統之理論與技術，尤其在與空間分布有關的課題上。配合各種實際問題與軟體，期能培養學生利用此方法進行分析之能力。。學生完成本課程後能獨立處理分析與空間相關之議題，瞭解地理資訊系統相關的技術及演算法，作為進一步研發的基礎。",
+    "goals": [
+        "應用空間分析方法之觀念及原理，引導學生利用地理資訊系統之理論與技術，尤其在與空間分布有關的課題上。",
+        "配合各種實際問題與軟體，期能培養學生利用此方法進行分析之能力。",
+        "學生完成本課程後能獨立處理分析與空間相關之議題，瞭解地理資訊系統相關的技術及演算法，作為進一步研發的基礎。"
+    ],
+    "syllabus": "1What can we do using GIS?  \n2GIS in Urban Problems (1)  \n3GIS in Urban Problems (2)  \n4GIS in Urban Problems (3)  \n5Location Analysis in GIS (1)  \n6Location Analysis in GIS (2)  \n7Location Analysis in GIS (3)  \n8Final Project Proposal  \n9GIS in EIA (1)  \n10GIS in EIA (2)  \n11GIS in EIA (3)  \n12GIS in Terrain Analysis (1)  \n13GIS in Terrain Analysis (2)  \n14GIS in Terrain Analysis (3)  \n15Spatial Statistics (1)  \n16Spatial Statistics (2)  \n17Final Project (1)  \n18Final Project (2)",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": ""
+        },
+        {
+            "type": "實驗/實作",
+            "note": "實機操作"
+        },
+        {
+            "type": "其他",
+            "note": "課前指定研讀教材章節"
+        }
+    ],
+    "grading": [
+        {
+            "type": "課堂討論參與",
+            "weight": 50,
+            "note": ""
+        },
+        {
+            "type": "報告",
+            "weight": 50,
+            "note": ""
+        }
+    ],
+    "prerequisite": "◎必須先修過【GEU0166  地理資訊系統】",
+    "general_core": []
+}

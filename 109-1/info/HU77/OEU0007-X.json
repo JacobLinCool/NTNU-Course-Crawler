@@ -1,0 +1,101 @@
+{
+    "year": 109,
+    "term": 1,
+    "name": "幾何光學",
+    "teachers": [
+        "邱爾德"
+    ],
+    "department": "HU77",
+    "code": "OEU0007",
+    "credit": 3,
+    "serial": 1398,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 1,
+            "from": 3,
+            "to": 4,
+            "campus": "公館",
+            "classroom": "Ｓ307"
+        },
+        {
+            "day": 1,
+            "from": 6,
+            "to": 6,
+            "campus": "公館",
+            "classroom": "Ｓ307"
+        }
+    ],
+    "programs": [
+        "太陽能源與工程學程"
+    ],
+    "comment": "",
+    "restrict": "",
+    "form_s": "2",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程為介紹與建立學生基礎的光學知識，使學生了解從巨觀下的幾何光學到微觀下的光場電磁波基本概念，並作為未來光學實作與應用之入門工具與知識",
+    "goals": [
+        "瞭解基礎光學知識",
+        "學習幾何光學與光束追跡特性",
+        "認識基礎電磁波傳導與波動光學",
+        "學習透鏡成像原理與光學設計"
+    ],
+    "syllabus": "**Week****週次**\n\n**Content & Class Schedule (****教學進度)**\n\n1 (9/14)\n\nIntroduction & Overview; Key Words, Phrases, & Concepts\n\n2 (9/21)\n\nGeometrical (Ray) Optics & Image Formation\n\n3 (9/28)\n\nMatrix Optics (I)\n\n4 (10/5)\n\nMatrix Optics (II)        **\\[Test (1), 2 hours\\]**\n\n5 (10/12)\n\nMatrix Optics (III): Derivation of Elementary Ray Matrices\n\n6 (10/19)\n\nOptical Instrumentations & Selected Optical Imaging System\n\n7 (10/26)\n\nBasic Mathematics of Wave Propagation\n\n8 (11/2)\n\nPlane-wave, Spherical Wave, and Cylindrical Wave\n\n9 (11/9)\n\n**Mid-Term Exam (****期中測驗評量)**       **\\[3 hours\\]**\n\n10 (11/16)\n\nFresnel Reflection, Equations, and Applications (I)\n\n11 (11/23)\n\nFresnel Reflection, Equations, and Applications (II)\n\n12 (11/30)\n\nGaussian Beam Optics (I)\n\n13 (12/7)\n\nGaussian Beam Optics (II)\n\n14 (12/14)\n\nGaussian Beam Transformation     **\\[Test (2), 2 hours\\]**\n\n15 (12/21)\n\nOptical Resonators\n\n16 (12/28)\n\nCoherence & Dispersion\n\n17 (1/4)\n\nIntroduction to Photon Optics\n\n18 (1/11)\n\n**Final Exam (****期末測驗評量)**      **\\[3 hours\\]**",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": ""
+        },
+        {
+            "type": "問題解決教學",
+            "note": ""
+        },
+        {
+            "type": "合作學習",
+            "note": ""
+        },
+        {
+            "type": "媒體融入教學",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 10,
+            "note": ""
+        },
+        {
+            "type": "期中考",
+            "weight": 25,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 45,
+            "note": ""
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 15,
+            "note": "課堂考試"
+        },
+        {
+            "type": "出席",
+            "weight": 5,
+            "note": "出席討論與參與"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

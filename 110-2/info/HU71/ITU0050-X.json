@@ -1,0 +1,76 @@
+{
+    "year": 110,
+    "term": 2,
+    "name": "資料結構",
+    "teachers": [
+        "林政宏"
+    ],
+    "department": "HU71",
+    "code": "ITU0050",
+    "credit": 3,
+    "serial": 1181,
+    "group": "",
+    "quota": {
+        "limit": 35,
+        "additional": 12
+    },
+    "schedule": [
+        {
+            "day": 5,
+            "from": 7,
+            "to": 9,
+            "campus": "本部",
+            "classroom": "科技系TA509"
+        }
+    ],
+    "programs": [],
+    "comment": "學科組優先選課",
+    "restrict": "◎課程開放上修",
+    "form_s": "2",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程著重資料結構之發展與分析及其相關演算法，講述之資料結構包含陣列、堆疊與佇列、樹、圖形與雜湊等。",
+    "goals": [
+        "瞭解資料結構的原理與方法",
+        "介紹常見的資料結構與實作"
+    ],
+    "syllabus": "課程內容包含\n\n1. 演算法分析Algorithm Complexity\n\n2.  陣列(array)\n\n3\\. 堆疊與佇列(stack and queue)  \n\n4\\. 鏈結串列(Linked List)\n\n5\\. 遞迴(Recursion)\n\n6\\. 樹狀結構(Tree)\n\n7\\. 二元搜尋樹(Binary search tree)\n\n8\\. 堆積(Heap)\n\n9\\. 高度平衡二元搜尋數(Height balanced binary search tree)\n\n10\\. 圖形結構(graph)\n\n11\\. 排序(Sorting)\n\n12\\. 搜尋(Search)",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": ""
+        },
+        {
+            "type": "問題解決教學",
+            "note": ""
+        },
+        {
+            "type": "實驗/實作",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 40,
+            "note": "作業+小考"
+        },
+        {
+            "type": "期中考",
+            "weight": 30,
+            "note": "學科+術科"
+        },
+        {
+            "type": "期末考",
+            "weight": 30,
+            "note": "學科+術科"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

@@ -1,0 +1,69 @@
+{
+    "year": 110,
+    "term": 2,
+    "name": "數學物理（三）",
+    "teachers": [
+        "張明哲"
+    ],
+    "department": "SU41",
+    "code": "PHU0023",
+    "credit": 3,
+    "serial": 2817,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 4,
+            "from": 6,
+            "to": 8,
+            "campus": "公館",
+            "classroom": "Ｓ303"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "3",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "銜接數學物理~(一、二) 的內容，介紹物理中會遇到的進階數學方法，以作修習物理系高年級理論科目的基礎。",
+    "goals": [
+        "瞭解物理的數學內涵",
+        "加強抽象思維能力",
+        "簡介數學方法在物理中的應用"
+    ],
+    "syllabus": "(暫定)\n\nComplex analysis\n\nFourier analysis",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 40,
+            "note": ""
+        },
+        {
+            "type": "期中考",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 30,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

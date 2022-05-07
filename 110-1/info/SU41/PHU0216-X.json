@@ -1,0 +1,69 @@
+{
+    "year": 110,
+    "term": 1,
+    "name": "電磁學（二）",
+    "teachers": [
+        "江佩勳"
+    ],
+    "department": "SU41",
+    "code": "PHU0216",
+    "credit": 3,
+    "serial": 2906,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 3,
+            "from": 6,
+            "to": 8,
+            "campus": "公館",
+            "classroom": "Ｓ502"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "3",
+    "classes": "2",
+    "dept_group": "",
+    "hours": 3,
+    "description": "上承普通物理中電磁學部份，下接光學、近代物理及固態物理。對電磁學作較深入的理論探討，並對電磁波的特性作扼要介紹，著重理論之推演，兼以實驗之設計發展以培養學生獨立思考，解決問題的能力。",
+    "goals": [
+        "瞭解電磁學基礎理論",
+        "加強理性思維能力",
+        "簡介電磁學與現代科技的關係"
+    ],
+    "syllabus": "第1 週 電動勢\n\n第2 週 電磁感應\n\n第3 週 Maxwell方程式\n\n第4 週 電荷、能量、動量守恆\n\n第5 週 波動\n\n第6 週 真空中的電磁波\n\n第7 週 物質中的電磁波\n\n第8 週 吸收與頻散\n\n第9 週 波導\n\n第10週 期中考\n\n第11週 電動力學中的位能\n\n第12週 連續分布與延遲位能\n\n第13週 點電荷位能\n\n第14週 偶極輻射\n\n第15週 點電荷輻射\n\n第16週 相對論\n\n第17週 相對論中的電動力學\n\n第18週 期末考",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "問題解決教學",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 25,
+            "note": ""
+        },
+        {
+            "type": "期中考",
+            "weight": 35,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 40,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

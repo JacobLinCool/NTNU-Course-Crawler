@@ -1,0 +1,86 @@
+{
+    "year": 108,
+    "term": 2,
+    "name": "多媒體與華語教學",
+    "teachers": [
+        "張瓅勻"
+    ],
+    "department": "IU84",
+    "code": "CLU1015",
+    "credit": 2,
+    "serial": 1445,
+    "group": "A",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 3,
+            "from": 6,
+            "to": 7,
+            "campus": "本部",
+            "classroom": "教402"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "3",
+    "classes": "",
+    "dept_group": "B",
+    "hours": 2,
+    "description": "本課程旨在幫助學生瞭解如何將資訊科技融入華語文教學，並認識多媒體工具與創造學習環境。在課堂中，學生將學習：（1）多媒體與華語教學概論、（2）多媒體融入華語文教學之內涵、（3）教學設計與課程規劃、（4）多媒體教材製作、（5）常用軟體與網站資源。",
+    "goals": [
+        "培養學生華語教學線上帶領之專業能力",
+        "培養學生數位華語教材設計的專業能力",
+        "培養學生溝通技巧與解決問題之能力"
+    ],
+    "syllabus": "週次\n\n單元主題\n\n面授\n\n同步\n\n非同步\n\n1\n\n課程介紹\n\n○\n\n \n\n \n\n2\n\n線上教學帶領技巧\n\n \n\n \n\n○\n\n3\n\n多媒體華語教學議題探討1、\n\n分組、錄製個人自我介紹影片\n\n○\n\n \n\n \n\n4\n\n多媒體華語教學議題探討2、\n\n線上華語教學：預備(orientation)\n\n○\n\n \n\n \n\n5\n\n線上華語教學：實習與反思1、\n\n軟體1：Evercam\n\n○\n\n●\n\n \n\n6\n\n線上華語教學：實習與反思2、\n\n軟體2：Google Classroom\n\n○\n\n●\n\n \n\n7\n\n線上華語教學：實習與反思3、\n\n軟體3：Nearpod\n\n○\n\n●\n\n \n\n8\n\n線上華語教學：實習與反思4、\n\n軟體4：Praat\n\n○\n\n●\n\n \n\n9\n\n線上華語教學：實習與反思5、\n\n軟體5：Quizizz\n\n○\n\n●\n\n \n\n10\n\n線上華語教學：實習與反思6、\n\n軟體6：Quizlet\n\n○\n\n●\n\n \n\n11\n\n線上華語教學：回顧(wrap-up)、\n\n預告期末專題\n\n○\n\n \n\n \n\n12\n\n平台1：SL(Second Life)介紹與實作\n\n○\n\n \n\n \n\n13\n\n平台2：OIV(omni-immersion vision)介紹與實作\n\n○\n\n \n\n \n\n14\n\n華語教學教甄準備1\n\n○\n\n \n\n \n\n15\n\n華語教學教甄準備2\n\n○\n\n \n\n \n\n16\n\n華語教學教甄準備3\n\n○\n\n \n\n \n\n17\n\n華語教學教甄準備4\n\n \n\n \n\n○\n\n18\n\n期末專題：線上華語教學成果發表\n\n○",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "透過同步與非同步課程，講授多媒體融入華語教學之理論與實務"
+        },
+        {
+            "type": "合作學習",
+            "note": "採用小組合作學習模式，2人一組，進行教學活動設計以及線上教學實習與反思"
+        },
+        {
+            "type": "實驗/實作",
+            "note": "採用不同線上平台，進行華語教學實習"
+        },
+        {
+            "type": "媒體融入教學",
+            "note": "利用多媒體教學/學習原理設計教學活動"
+        },
+        {
+            "type": "其他",
+            "note": "透過反思，修正線上華語教學之活動設計"
+        }
+    ],
+    "grading": [
+        {
+            "type": "課堂討論參與",
+            "weight": 30,
+            "note": "小組實作：教學實習與反思"
+        },
+        {
+            "type": "出席",
+            "weight": 30,
+            "note": "課堂參與(同步與非同步)"
+        },
+        {
+            "type": "報告",
+            "weight": 10,
+            "note": "個人報告：非同步課程學習心得(5%)、個人自我介紹影片(5%)"
+        },
+        {
+            "type": "專題",
+            "weight": 30,
+            "note": "20% 教師評量    10% 同儕互評；細節於課堂上詳述"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

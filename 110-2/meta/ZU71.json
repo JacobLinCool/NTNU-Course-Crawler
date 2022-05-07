@@ -1,0 +1,1080 @@
+[
+    {
+        "year": 110,
+        "term": 2,
+        "name": "運算思維與程式設計",
+        "teachers": [
+            "國訓教師"
+        ],
+        "department": "9U77",
+        "code": "05UG016",
+        "credit": 2,
+        "serial": 8063,
+        "group": "",
+        "quota": {
+            "limit": 0,
+            "additional": 0
+        },
+        "schedule": [
+            {
+                "day": 0,
+                "from": -1,
+                "to": -1,
+                "campus": "",
+                "classroom": ""
+            }
+        ],
+        "programs": [
+            "音樂科技學程",
+            "學習與資訊學程",
+            "數位人文與藝術學程",
+            "資訊科技應用學程",
+            "人工智慧學程"
+        ],
+        "comment": "",
+        "restrict": "",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 2,
+        "name": "教育統計學（一）",
+        "teachers": [
+            "余穎麒"
+        ],
+        "department": "E",
+        "code": "E0U0001",
+        "credit": 2,
+        "serial": 324,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 25
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 8,
+                "to": 9,
+                "campus": "本部",
+                "classroom": "誠202"
+            }
+        ],
+        "programs": [
+            "學習與資訊學程"
+        ],
+        "comment": "",
+        "restrict": "◎課程開放上修",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 2,
+        "name": "教育統計學（一）",
+        "teachers": [
+            "張凌嘉"
+        ],
+        "department": "E",
+        "code": "E0U0001",
+        "credit": 2,
+        "serial": 6094,
+        "group": "A",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 8,
+                "to": 9,
+                "campus": "本部",
+                "classroom": "教402"
+            }
+        ],
+        "programs": [
+            "學習與資訊學程"
+        ],
+        "comment": "",
+        "restrict": "",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 2,
+        "name": "教育統計學（二）",
+        "teachers": [
+            "陳心怡"
+        ],
+        "department": "E",
+        "code": "E0U0002",
+        "credit": 2,
+        "serial": 325,
+        "group": "A",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 3,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "特115"
+            }
+        ],
+        "programs": [
+            "學習與資訊學程"
+        ],
+        "comment": "",
+        "restrict": "◎必須先修過【E0U0001  教育統計學（一）】、【05UG020  統計學】其中一門 ◎課程開放上修",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 2,
+        "name": "教育統計學（二）",
+        "teachers": [
+            "林小慧"
+        ],
+        "department": "E",
+        "code": "E0U0002",
+        "credit": 2,
+        "serial": 326,
+        "group": "B",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 3,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "正201"
+            }
+        ],
+        "programs": [
+            "學習與資訊學程"
+        ],
+        "comment": "",
+        "restrict": "◎必須先修過【E0U0001  教育統計學（一）】、【05UG020  統計學】其中一門 ◎課程開放上修",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 2,
+        "name": "教育統計學（二）",
+        "teachers": [
+            "吳清麟"
+        ],
+        "department": "E",
+        "code": "E0U0002",
+        "credit": 2,
+        "serial": 327,
+        "group": "C",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 9,
+                "to": 10,
+                "campus": "本部",
+                "classroom": "誠204"
+            }
+        ],
+        "programs": [
+            "學習與資訊學程"
+        ],
+        "comment": "",
+        "restrict": "◎必須先修過【E0U0001  教育統計學（一）】、【05UG020  統計學】其中一門 ◎課程開放上修",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 2,
+        "name": "教育統計學（二）",
+        "teachers": [
+            "吳清麟"
+        ],
+        "department": "E",
+        "code": "E0U0002",
+        "credit": 2,
+        "serial": 328,
+        "group": "D",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 3,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "正203"
+            }
+        ],
+        "programs": [
+            "學習與資訊學程"
+        ],
+        "comment": "",
+        "restrict": "◎必須先修過【E0U0001  教育統計學（一）】、【05UG020  統計學】其中一門 ◎課程開放上修",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 2,
+        "name": "教育統計學（二）",
+        "teachers": [
+            "譚克平"
+        ],
+        "department": "E",
+        "code": "E0U0002",
+        "credit": 2,
+        "serial": 330,
+        "group": "F",
+        "quota": {
+            "limit": 40,
+            "additional": 0
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 6,
+                "to": 7,
+                "campus": "本部",
+                "classroom": "教404"
+            }
+        ],
+        "programs": [
+            "學習與資訊學程"
+        ],
+        "comment": "",
+        "restrict": "◎必須先修過【E0U0001  教育統計學（一）】、【05UG020  統計學】其中一門 ◎課程開放上修",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 2,
+        "name": "高級教育統計學（甲）",
+        "teachers": [
+            "林碧芳"
+        ],
+        "department": "E",
+        "code": "E0C8001",
+        "credit": 3,
+        "serial": 333,
+        "group": "B",
+        "quota": {
+            "limit": 32,
+            "additional": 6
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 2,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "教403"
+            }
+        ],
+        "programs": [
+            "學習與資訊學程",
+            "大數據學程"
+        ],
+        "comment": "",
+        "restrict": "◎課程不開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 2,
+        "name": "高級教育統計學（甲）",
+        "teachers": [
+            "郭郡羽"
+        ],
+        "department": "E",
+        "code": "E0C8001",
+        "credit": 3,
+        "serial": 334,
+        "group": "C",
+        "quota": {
+            "limit": 55,
+            "additional": 5
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 2,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "教402"
+            }
+        ],
+        "programs": [
+            "學習與資訊學程",
+            "大數據學程"
+        ],
+        "comment": "",
+        "restrict": "◎課程不開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 2,
+        "name": "高級教育統計學（乙）",
+        "teachers": [
+            "鄭淑惠"
+        ],
+        "department": "E",
+        "code": "E0C8002",
+        "credit": 3,
+        "serial": 335,
+        "group": "A",
+        "quota": {
+            "limit": 28,
+            "additional": 2
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 2,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "教401"
+            }
+        ],
+        "programs": [
+            "學習與資訊學程",
+            "大數據學程"
+        ],
+        "comment": "",
+        "restrict": "◎課程不開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 2,
+        "name": "高級統計資料處理與分析",
+        "teachers": [
+            "何榮桂"
+        ],
+        "department": "E",
+        "code": "E0C8003",
+        "credit": 3,
+        "serial": 336,
+        "group": "",
+        "quota": {
+            "limit": 28,
+            "additional": 2
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 8,
+                "to": 10,
+                "campus": "本部",
+                "classroom": "教404"
+            }
+        ],
+        "programs": [
+            "學習與資訊學程"
+        ],
+        "comment": "",
+        "restrict": "◎課程不開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 2,
+        "name": "資料庫管理研究",
+        "teachers": [
+            "謝建成"
+        ],
+        "department": "EM15",
+        "code": "ISM0429",
+        "credit": 3,
+        "serial": 482,
+        "group": "",
+        "quota": {
+            "limit": 30,
+            "additional": 2
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 2,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "圖資所研討室A"
+            }
+        ],
+        "programs": [
+            "學習與資訊學程",
+            "數位人文與藝術學程"
+        ],
+        "comment": "",
+        "restrict": "◎課程開放上修",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 2,
+        "name": "教學媒體與運用",
+        "teachers": [
+            "林君憶"
+        ],
+        "department": "EU00",
+        "code": "EDU0215",
+        "credit": 2,
+        "serial": 618,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 5
+        },
+        "schedule": [
+            {
+                "day": 5,
+                "from": 1,
+                "to": 2,
+                "campus": "本部",
+                "classroom": "教402"
+            }
+        ],
+        "programs": [
+            "學習與資訊學程"
+        ],
+        "comment": "",
+        "restrict": "◎課程開放上修",
+        "form_s": "1",
+        "classes": "1",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 2,
+        "name": "教學媒體與運用",
+        "teachers": [
+            "林君憶"
+        ],
+        "department": "EU00",
+        "code": "EDU0215",
+        "credit": 2,
+        "serial": 619,
+        "group": "",
+        "quota": {
+            "limit": 45,
+            "additional": 3
+        },
+        "schedule": [
+            {
+                "day": 5,
+                "from": 6,
+                "to": 7,
+                "campus": "本部",
+                "classroom": "誠106"
+            }
+        ],
+        "programs": [
+            "學習與資訊學程"
+        ],
+        "comment": "請上課學生自備筆電或平板",
+        "restrict": "◎課程開放上修",
+        "form_s": "1",
+        "classes": "2",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 2,
+        "name": "統計軟體在資料分析上之應用",
+        "teachers": [
+            "張晏蓉"
+        ],
+        "department": "EU05",
+        "code": "HEU0141",
+        "credit": 2,
+        "serial": 732,
+        "group": "",
+        "quota": {
+            "limit": 26,
+            "additional": 2
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 6,
+                "to": 7,
+                "campus": "本部",
+                "classroom": "教404"
+            }
+        ],
+        "programs": [
+            "學習與資訊學程"
+        ],
+        "comment": "",
+        "restrict": "◎課程開放上修",
+        "form_s": "4",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 2,
+        "name": "程式設計（二）",
+        "teachers": [
+            "李良一"
+        ],
+        "department": "EU11",
+        "code": "LSU0002",
+        "credit": 3,
+        "serial": 863,
+        "group": "",
+        "quota": {
+            "limit": 30,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 8,
+                "to": 10,
+                "campus": "本部",
+                "classroom": "教404"
+            }
+        ],
+        "programs": [
+            "學習與資訊學程",
+            "數位人文與藝術學程",
+            "資訊科技應用學程"
+        ],
+        "comment": "",
+        "restrict": "◎課程開放上修",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 2,
+        "name": "運算思維與程式設計",
+        "teachers": [
+            "簡培修"
+        ],
+        "department": "GU",
+        "code": "05UG016",
+        "credit": 2,
+        "serial": 944,
+        "group": "A",
+        "quota": {
+            "limit": 50,
+            "additional": 5
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 8,
+                "to": 9,
+                "campus": "本部",
+                "classroom": "教401"
+            }
+        ],
+        "programs": [
+            "音樂科技學程",
+            "學習與資訊學程",
+            "數位人文與藝術學程",
+            "資訊科技應用學程",
+            "人工智慧學程"
+        ],
+        "comment": "",
+        "restrict": "◎課程開放上修",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 2,
+        "name": "運算思維與程式設計",
+        "teachers": [
+            "張凌倩"
+        ],
+        "department": "GU",
+        "code": "05UG016",
+        "credit": 2,
+        "serial": 945,
+        "group": "B",
+        "quota": {
+            "limit": 50,
+            "additional": 5
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 9,
+                "to": 10,
+                "campus": "公館",
+                "classroom": "理圖801"
+            }
+        ],
+        "programs": [
+            "音樂科技學程",
+            "學習與資訊學程",
+            "數位人文與藝術學程",
+            "資訊科技應用學程",
+            "人工智慧學程"
+        ],
+        "comment": "",
+        "restrict": "◎課程開放上修",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 2,
+        "name": "運算思維與程式設計",
+        "teachers": [
+            "簡培修"
+        ],
+        "department": "GU",
+        "code": "05UG016",
+        "credit": 2,
+        "serial": 946,
+        "group": "C",
+        "quota": {
+            "limit": 50,
+            "additional": 5
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 8,
+                "to": 9,
+                "campus": "本部",
+                "classroom": "教401"
+            }
+        ],
+        "programs": [
+            "音樂科技學程",
+            "學習與資訊學程",
+            "數位人文與藝術學程",
+            "資訊科技應用學程",
+            "人工智慧學程"
+        ],
+        "comment": "",
+        "restrict": "◎課程開放上修",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 2,
+        "name": "運算思維與程式設計",
+        "teachers": [
+            "蔡明男"
+        ],
+        "department": "GU",
+        "code": "05UG016",
+        "credit": 2,
+        "serial": 947,
+        "group": "D",
+        "quota": {
+            "limit": 50,
+            "additional": 8
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 6,
+                "to": 7,
+                "campus": "本部",
+                "classroom": "教401"
+            }
+        ],
+        "programs": [
+            "音樂科技學程",
+            "學習與資訊學程",
+            "數位人文與藝術學程",
+            "資訊科技應用學程",
+            "人工智慧學程"
+        ],
+        "comment": "",
+        "restrict": "◎課程開放上修",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 2,
+        "name": "運算思維與程式設計",
+        "teachers": [
+            "蔡明男"
+        ],
+        "department": "GU",
+        "code": "05UG016",
+        "credit": 2,
+        "serial": 948,
+        "group": "E",
+        "quota": {
+            "limit": 50,
+            "additional": 5
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 8,
+                "to": 9,
+                "campus": "本部",
+                "classroom": "教401"
+            }
+        ],
+        "programs": [
+            "音樂科技學程",
+            "學習與資訊學程",
+            "數位人文與藝術學程",
+            "資訊科技應用學程",
+            "人工智慧學程"
+        ],
+        "comment": "",
+        "restrict": "◎課程開放上修",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 2,
+        "name": "運算思維與程式設計",
+        "teachers": [
+            "邵森蘭"
+        ],
+        "department": "GU",
+        "code": "05UG016",
+        "credit": 2,
+        "serial": 949,
+        "group": "F",
+        "quota": {
+            "limit": 50,
+            "additional": 5
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 9,
+                "to": 10,
+                "campus": "公館",
+                "classroom": "理圖801"
+            }
+        ],
+        "programs": [
+            "音樂科技學程",
+            "學習與資訊學程",
+            "數位人文與藝術學程",
+            "資訊科技應用學程",
+            "人工智慧學程"
+        ],
+        "comment": "",
+        "restrict": "◎課程開放上修",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 2,
+        "name": "運算思維與程式設計",
+        "teachers": [
+            "江政杰"
+        ],
+        "department": "GU",
+        "code": "05UG016",
+        "credit": 2,
+        "serial": 950,
+        "group": "G",
+        "quota": {
+            "limit": 50,
+            "additional": 5
+        },
+        "schedule": [
+            {
+                "day": 5,
+                "from": 1,
+                "to": 2,
+                "campus": "公館",
+                "classroom": "理圖801"
+            }
+        ],
+        "programs": [
+            "音樂科技學程",
+            "學習與資訊學程",
+            "數位人文與藝術學程",
+            "資訊科技應用學程",
+            "人工智慧學程"
+        ],
+        "comment": "",
+        "restrict": "◎課程開放上修",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 2,
+        "name": "運算思維與程式設計",
+        "teachers": [
+            "江政杰"
+        ],
+        "department": "GU",
+        "code": "05UG016",
+        "credit": 2,
+        "serial": 951,
+        "group": "H",
+        "quota": {
+            "limit": 50,
+            "additional": 5
+        },
+        "schedule": [
+            {
+                "day": 5,
+                "from": 3,
+                "to": 4,
+                "campus": "公館",
+                "classroom": "理圖801"
+            }
+        ],
+        "programs": [
+            "音樂科技學程",
+            "學習與資訊學程",
+            "數位人文與藝術學程",
+            "資訊科技應用學程",
+            "人工智慧學程"
+        ],
+        "comment": "",
+        "restrict": "◎課程開放上修",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 2,
+        "name": "運算思維與程式設計",
+        "teachers": [
+            "張凌倩"
+        ],
+        "department": "GU",
+        "code": "05UG016",
+        "credit": 2,
+        "serial": 952,
+        "group": "I",
+        "quota": {
+            "limit": 50,
+            "additional": 5
+        },
+        "schedule": [
+            {
+                "day": 5,
+                "from": 9,
+                "to": 10,
+                "campus": "本部",
+                "classroom": "教401"
+            }
+        ],
+        "programs": [
+            "音樂科技學程",
+            "學習與資訊學程",
+            "數位人文與藝術學程",
+            "資訊科技應用學程",
+            "人工智慧學程"
+        ],
+        "comment": "",
+        "restrict": "◎課程開放上修",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 2,
+        "name": "運算思維與程式設計",
+        "teachers": [
+            "黃芳蘭"
+        ],
+        "department": "GU",
+        "code": "05UG016",
+        "credit": 2,
+        "serial": 953,
+        "group": "J",
+        "quota": {
+            "limit": 50,
+            "additional": 5
+        },
+        "schedule": [
+            {
+                "day": 5,
+                "from": 9,
+                "to": 10,
+                "campus": "公館",
+                "classroom": "理圖801"
+            }
+        ],
+        "programs": [
+            "音樂科技學程",
+            "學習與資訊學程",
+            "數位人文與藝術學程",
+            "資訊科技應用學程",
+            "人工智慧學程"
+        ],
+        "comment": "",
+        "restrict": "◎課程開放上修",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 2,
+        "name": "資料科學與程式設計",
+        "teachers": [
+            "林耘逸"
+        ],
+        "department": "GU",
+        "code": "05UG017",
+        "credit": 2,
+        "serial": 954,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 5
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 9,
+                "to": 10,
+                "campus": "本部",
+                "classroom": "教402"
+            }
+        ],
+        "programs": [
+            "音樂科技學程",
+            "學習與資訊學程",
+            "數位人文與藝術學程",
+            "資訊科技應用學程"
+        ],
+        "comment": "",
+        "restrict": "◎課程開放上修",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 2,
+        "name": "遙測學",
+        "teachers": [
+            "張國楨"
+        ],
+        "department": "LU23",
+        "code": "GEU0073",
+        "credit": 3,
+        "serial": 1894,
+        "group": "",
+        "quota": {
+            "limit": 25,
+            "additional": 5
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 6,
+                "to": 8,
+                "campus": "本部",
+                "classroom": "地理系電腦教室"
+            }
+        ],
+        "programs": [
+            "學習與資訊學程",
+            "數位人文與藝術學程",
+            "環境監測學程",
+            "空間學程"
+        ],
+        "comment": "",
+        "restrict": "◎必須先修過【GEU0166  地理資訊系統】 ◎課程開放上修",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 2,
+        "name": "地理程式設計應用",
+        "teachers": [
+            "張國楨"
+        ],
+        "department": "LU23",
+        "code": "GEU0128",
+        "credit": 3,
+        "serial": 1904,
+        "group": "",
+        "quota": {
+            "limit": 25,
+            "additional": 5
+        },
+        "schedule": [
+            {
+                "day": 5,
+                "from": 6,
+                "to": 8,
+                "campus": "本部",
+                "classroom": "地理系電腦教室"
+            }
+        ],
+        "programs": [
+            "學習與資訊學程",
+            "數位人文與藝術學程",
+            "空間學程"
+        ],
+        "comment": "",
+        "restrict": "◎課程開放上修",
+        "form_s": "3",
+        "classes": "",
+        "dept_group": ""
+    }
+]

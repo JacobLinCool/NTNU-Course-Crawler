@@ -1,0 +1,67 @@
+{
+    "year": 110,
+    "term": 2,
+    "name": "書報討論",
+    "teachers": [
+        "林炎壽"
+    ],
+    "department": "SU43",
+    "code": "BIU0178",
+    "credit": 2,
+    "serial": 2874,
+    "group": "B",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 4,
+            "from": 6,
+            "to": 7,
+            "campus": "公館",
+            "classroom": "Ｓ302"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 2,
+    "description": "",
+    "goals": [
+        "The course aims to develop students’ abilities on database search, papers reading, and oral presentation. The students will also be inspired by the academic research while listen to peers reports and discussion."
+    ],
+    "syllabus": "16 + 2 weeks\n\nWeek 1    Introduction\n\nWeek 2    Search for papers & choose the paper  \n\nWeek 3    Read the paper & write the abstract of presentation\n\nWeek 4    Prepare Powerpoint slides\n\nWeek 5    Presentation skills \n\nWeek 6    Presentation I   \n\nWeek 7    Presentation II\n\nWeek 8    Presentation III\n\nWeek 9    Presentation IV \n\nWeek 10  Presentation V    \n\nWeek 11  Presentation VI      \n\nWeek 12  Presentation V II    \n\nWeek 13  Presentation VIII     \n\nWeek 14  Presentation IX        \n\nWeek 15  Presentation X\n\nWeek 16  Presentation XI\n\nWeek 17  Self-directed learning I\n\nWeek 18 Self-directed learning II",
+    "methodologies": [
+        {
+            "type": "Formal lecture",
+            "note": "In the first five weeks, information with regards to course introduction, literatures search, papers reading, abstract writing, slides preparation, and oral presentation will be conveyed. Later on, students will perform the oral presentation based on the paper they choose and these skills have been instructed."
+        },
+        {
+            "type": "Group discussion",
+            "note": "While students present the papers, the others will discuss the topic and raise some questions based on the presentation."
+        }
+    ],
+    "grading": [
+        {
+            "type": "Assignments",
+            "weight": 10,
+            "note": "The assignment is an abstract so as to show the comprehension on the reading material."
+        },
+        {
+            "type": "Class discussion involvement",
+            "weight": 20,
+            "note": "The presence/absence and class discussion could indicate the students’participation."
+        },
+        {
+            "type": "Presentation",
+            "weight": 70,
+            "note": "The grade will heavily base on the oral report to examine whether or not the students completely understand and execute the principle of seminar."
+        }
+    ],
+    "prerequisite": "◎Available for junior and senior year B.A. program students (Doctoral program courses excepted) and M.A. program students.",
+    "general_core": []
+}

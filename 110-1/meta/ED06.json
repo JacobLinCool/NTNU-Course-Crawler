@@ -1,0 +1,261 @@
+[
+    {
+        "year": 110,
+        "term": 1,
+        "name": "家庭研究設計專題",
+        "teachers": [
+            "吳齊殷"
+        ],
+        "department": "ED06",
+        "code": "HGD0111",
+        "credit": 3,
+        "serial": 360,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 9,
+                "to": 10,
+                "campus": "本部",
+                "classroom": "勤102"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎課程不開放上修",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 1,
+        "name": "專題討論（三）",
+        "teachers": [
+            "林如萍"
+        ],
+        "department": "ED06",
+        "code": "HGD0213",
+        "credit": 2,
+        "serial": 361,
+        "group": "A",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 7,
+                "to": 8,
+                "campus": "本部",
+                "classroom": "勤102"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎課程不開放上修",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 1,
+        "name": "專題討論（三）",
+        "teachers": [
+            "張鑑如"
+        ],
+        "department": "ED06",
+        "code": "HGD0213",
+        "credit": 2,
+        "serial": 362,
+        "group": "B",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 2,
+                "to": 3,
+                "campus": "本部",
+                "classroom": "人發系視聽室"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎課程不開放上修",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 1,
+        "name": "專題討論（四）",
+        "teachers": [
+            "鍾志從",
+            "王馨敏"
+        ],
+        "department": "ED06",
+        "code": "HGD0214",
+        "credit": 2,
+        "serial": 363,
+        "group": "B",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 6,
+                "to": 7,
+                "campus": "本部",
+                "classroom": "勤102"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎必須先修過【HGD0213  專題討論（三）】 ◎課程不開放上修",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 1,
+        "name": "嬰幼兒遊戲心理與行為研究",
+        "teachers": [
+            "簡淑真"
+        ],
+        "department": "EM06",
+        "code": "HGC0079",
+        "credit": 3,
+        "serial": 460,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 2,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "人發系視聽室"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎課程不開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 1,
+        "name": "老人與家庭研究",
+        "teachers": [
+            "薛承泰"
+        ],
+        "department": "EM06",
+        "code": "HGC0080",
+        "credit": 3,
+        "serial": 461,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 7,
+                "to": 9,
+                "campus": "本部",
+                "classroom": "勤102"
+            }
+        ],
+        "programs": [
+            "高齡學程"
+        ],
+        "comment": "",
+        "restrict": "◎課程不開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 1,
+        "name": "嬰幼兒語言發展研究",
+        "teachers": [
+            "張鑑如"
+        ],
+        "department": "EM06",
+        "code": "HGC8006",
+        "credit": 3,
+        "serial": 462,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 9,
+                "to": 10,
+                "campus": "本部",
+                "classroom": "勤103"
+            }
+        ],
+        "programs": [],
+        "comment": "教室：人發系多功能活動室",
+        "restrict": "◎課程不開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 1,
+        "name": "家庭生活教育與傳播研究",
+        "teachers": [
+            "黃迺毓"
+        ],
+        "department": "EM06",
+        "code": "HGC8011",
+        "credit": 3,
+        "serial": 463,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 2,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "勤103"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎課程不開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    }
+]

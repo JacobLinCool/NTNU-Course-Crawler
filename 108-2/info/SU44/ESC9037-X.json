@@ -1,0 +1,83 @@
+{
+    "year": 108,
+    "term": 2,
+    "name": "波浪學",
+    "teachers": [
+        "許明光"
+    ],
+    "department": "SU44",
+    "code": "ESC9037",
+    "credit": 3,
+    "serial": 2864,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 5,
+            "from": 7,
+            "to": 9,
+            "campus": "公館",
+            "classroom": "Ｃ403"
+        }
+    ],
+    "programs": [],
+    "comment": "中階以上課程，適合大三以上學生修習，以作為探究研究所之先修課程，同時也開放碩士班無此課程基礎之學生選修。",
+    "restrict": "◎限大三大四 ◎限碩一碩二碩三以上修習",
+    "form_s": "",
+    "classes": "9",
+    "dept_group": "",
+    "hours": 3,
+    "description": "波浪是海上常見且重要的海洋物理現象之一。波浪學所探討的範圍包括池塘的漣漪，船上看到的風浪，颱風來臨前岸邊的湧浪，令人聞之喪膽的海嘯以及潮汐等等。本課程將介紹最簡化的微小振幅波理論，介紹它的假設，推導的過程，推導出的一些波浪特性及其應用與限制。希望藉此增進同學們對海洋中，一個重要物理現象-「波浪」的認識，並應用在工作及日常生活中。",
+    "goals": [
+        "學習波浪學的基本知識(週期、波長、波速、波群速度等)及波浪運動的特性(波壓、波能及折射、繞射、碎波等波浪近岸時的淺化現象)。",
+        "了解最簡單的波浪理論-微小振幅波理論，包括它的假設、推導的結果及其應用(如湧浪及海嘯的推算)。",
+        "概略了解其他的波浪理論及其適用範圍。以及波浪統計，波力等相關問題。"
+    ],
+    "syllabus": "第1週 波浪理論簡介  \n第2週 理想流體  \n第3週 邊界值問題的建立  \n第4週 波速，波長及周期  \n第5週 根據相對水深所做的波浪分類  \n第6週 微小振幅波理論的解  \n第7週 水分子運動及波壓  \n第8週 水波疊加  \n第9週 期中考  \n第10週 波群與波能  \n第11週 波能消散  \n第12週 有限振幅波  \n第13週 有限振幅波方程式的建立及其解  \n第14週 風波  \n第15週 波浪的折射，繞射與反射  \n第16週 波浪統計  \n第17週 波力  \n第18週 期末考  \n1st WEEK Introduction to Water Wave Theories  \n2nd WEEK Fundamentals of Idealized Fluid Flow  \n3rd WEEK Formulation and Solution of Boundary Value Problem  \n4th WEEK Wave Celerity, Length and Period  \n5th WEEK Classification of Water Wave According to Relative Depth  \n6th WEEK Solution of Small Amplitude Wave Theory  \n7th WEEK Orbital Motion and Pressure  \n8th WEEK Superposition  \n9th WEEK Midterm  \n10th WEEK Wave Train and Wave Energy  \n11th WEEK Dissipation of Wave Energy  \n12th WEEK Classification of Finite Amplitude Waves  \n13th WEEK Formulation and Solutions of the Finite Amplitude Wave Problem  \n14th WEEK Wave Generation by Wind  \n15th WEEK Wave Refraction, Diffraction and Reflection  \n16th WEEK Wave Statistics  \n17th WEEK Wave Forces  \n18th WEEK Final",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "教師講述微小振幅波理論的基本假設及其限制。介紹微小振幅波理論推導的結果及其實際應用。\nThe basic assumptions and limitations of small amplitude wave theory will be taught. The results of small amplitude wave theory and its application will be introduced."
+        },
+        {
+            "type": "合作學習",
+            "note": "透過分組報告的方式，讓學生針對特定波浪議題進行報告，藉由團隊共同進行資料收集、整理、歸納與統整加深同學間團隊合作默契與學習成效。\nThrough group report, students can report on specific wave issues, and the team can jointly collect, organize, summarize and integrate data to improve cooperation between team members and learning effectiveness."
+        },
+        {
+            "type": "專題研究",
+            "note": "透過分組進行專題研究的方式，讓學生藉由資料檢索、整理、歸納與統整加深其對波浪學發展與應用的理解。\nThrough group project, students can jointly collect, organize, summarize and integrate data to improve their understanding and application ability on wave theory."
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 20,
+            "note": "檢視學生對上課內容的理解以及課堂上介紹知識應用的能力。"
+        },
+        {
+            "type": "期中考",
+            "weight": 25,
+            "note": "命題形式包括選擇題、問答題與計算題。了解學生之學習成效，並適度修正教學進度與方式"
+        },
+        {
+            "type": "期末考",
+            "weight": 25,
+            "note": "命題形式包括選擇題、問答題與計算題，了解學生學習成效。"
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 10,
+            "note": "出席以及課堂參與、發言討論情形。"
+        },
+        {
+            "type": "專題",
+            "weight": 20,
+            "note": "檢視學生對上課內容之理解，並透過資料檢索，歸納統整與共同討論方式加深學生對於學習內容理解層面之深度以及廣度。"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

@@ -1,0 +1,76 @@
+{
+    "year": 110,
+    "term": 1,
+    "name": "資訊計量學",
+    "teachers": [
+        "曾元顯"
+    ],
+    "department": "EM15",
+    "code": "ISC0512",
+    "credit": 3,
+    "serial": 516,
+    "group": "",
+    "quota": {
+        "limit": 30,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 3,
+            "from": 7,
+            "to": 9,
+            "campus": "本部",
+            "classroom": "圖資所研討室A"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "Informetrics refers to quantitative measurements of information resources such as bibliographic databases, scientific data, patent, and the web, etc. It has its roots in bibliometrics and has a long history of being applied in Scientometrics. In recent years, it has been expanded to Webometrics, and other domain specific metrics like Patentmetrics. This course provides lectures and discussion on the literature of Informetrics. Both theoretical and practical aspects will be covered to demonstrate the value of Informetrics. Upon completion of this course, students should be able to explain the fundamental principles of Informetrics, demonstrate proper use of Informetrics analyses, and address important Informetrics-related research issues.",
+    "goals": [
+        "Fully understanding traditional theories and development of Informetrics, then obtaining sufficiently ability to explore new issues."
+    ],
+    "syllabus": "1.  Introduction: motivations, purposes, history, applications, research status; Related concepts: Bibliometrics, Scientometrics, Patentmetrics, Webometrics, .\n2.  Laws in informetrics (Zipf, Lotka, Bradford, Pareto, etc) and techniques (co-word, co-citation, bibliographic coupling, direct citation).\n3.  Use of CATAR in patent analysis for policy making, knowledge map, and innovation forecast.\n4.  Metrics in informetrics – impact factor, H-index, G-index, etc.; and Citation databases: problems and issues.\n5.  Use of CATAR in paper analysis for policy making, knowledge map, and innovation forecast.\n6.  More paper analytical tools: VOSviewer, CiteSpace, metaknowledge, HistCite, BibTechMon, Network Workbench Tool, etc.\n7.  Information visualization tools (Gephi, Pajek, D3.js, etc) and paper reading.\n8.  Mid-Term Reports\n9.  Patent analytical tools 1: VantagePoint, PatentLab- II, etc.\n10.  Reference parsing tools 1: GROBID, Anystyle-Parser, Biblio, BibPro, CERMINE, etc.\n11.  Semantic Clustering 1: LSI and Word2Vec, etc.\n12.  Semantic Clustering 2: BERT-based contextual embeddings, sentence-embeddings.\n13.  Patent analytical tools 2: CoPalRed, IN-SPIRE, SciMAT, etc.\n14.  Reference parsing tools 2: Citation-Parser, Free\\_cite, Neural ParsCit, ParsCit, PDFSSA4MET, Reference Tagger, and Science Parse, etc.\n15.  Invited talks\n16.  Case studies and Applications to scientific publications, patent documents, or Web pages for performance evaluation and/or policy suggestion (Link Analysis).\n17.  Term-Project Reports",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "課堂授課"
+        },
+        {
+            "type": "討論法",
+            "note": "針對課程單元議題進行討論"
+        },
+        {
+            "type": "專題研究",
+            "note": "學期報告"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 25,
+            "note": "各課程單元指派作業"
+        },
+        {
+            "type": "出席",
+            "weight": 10,
+            "note": ""
+        },
+        {
+            "type": "報告",
+            "weight": 25,
+            "note": "論文研讀"
+        },
+        {
+            "type": "專題",
+            "weight": 40,
+            "note": "學期專題，運用資訊計量相關理論進行專題研究"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

@@ -1,0 +1,81 @@
+{
+    "year": 107,
+    "term": 2,
+    "name": "有機化學",
+    "teachers": [
+        "陳焜銘"
+    ],
+    "department": "SU43",
+    "code": "BIU0008",
+    "credit": 3,
+    "serial": 2878,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 5,
+            "from": 7,
+            "to": 9,
+            "campus": "公館",
+            "classroom": "Ｅ301"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "1",
+    "classes": "1",
+    "dept_group": "",
+    "hours": 3,
+    "description": "官能基化合物的命名,性質與合成. 了解生物體中有機分子的結構與功能.",
+    "goals": [
+        "官能基化合物的命名,性質與合成",
+        "了解生物體中有機分子的結構與功能"
+    ],
+    "syllabus": "1\\. Electronic Structure and Covalent Bonding\n\n2\\. Acids and Bases\n\n3\\. Functional groups\n\n4\\. Alkenes\n\n5\\. Midterm I\n\n6\\. Alkynes\n\n7\\. Stereochemistry\n\n8\\. Benzene\n\n9\\. Substitution and Elimination\n\n10\\. Midterm II\n\n11\\. Alcohols\n\n12\\. Aldehydes\n\n13.Ketones\n\n14\\. Acids, esters\n\n15\\. Midterm III\n\n16\\. Amino acids and proteins\n\n17\\. Carbohydrates; Nucleic acids\n\n18\\. Final Exams",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "板書;"
+        },
+        {
+            "type": "討論法",
+            "note": "給題目團體一起解決問題"
+        },
+        {
+            "type": "問題解決教學",
+            "note": "給題目團體一起解決問題"
+        },
+        {
+            "type": "媒體融入教學",
+            "note": "Power Point"
+        }
+    ],
+    "grading": [
+        {
+            "type": "期中考",
+            "weight": 50,
+            "note": "具備生命科學有機化學之專業知識 具備運用生命科學相關研究方法與技術的能力"
+        },
+        {
+            "type": "期末考",
+            "weight": 30,
+            "note": "具備生命科學有機化學之專業知識 具備運用生命科學相關研究方法與技術的能力"
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 10,
+            "note": "積極態度"
+        },
+        {
+            "type": "出席",
+            "weight": 10,
+            "note": "積極態度"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

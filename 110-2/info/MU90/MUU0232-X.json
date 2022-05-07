@@ -1,0 +1,81 @@
+{
+    "year": 110,
+    "term": 2,
+    "name": "當代音樂",
+    "teachers": [
+        "陳漢金"
+    ],
+    "department": "MU90",
+    "code": "MUU0232",
+    "credit": 2,
+    "serial": 2074,
+    "group": "",
+    "quota": {
+        "limit": 40,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 1,
+            "from": 6,
+            "to": 7,
+            "campus": "本部",
+            "classroom": "音410"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 2,
+    "description": "1.延續音樂史的課程,探討現代音樂的發展  2.加強主修作曲同學分析現代音樂的作品",
+    "goals": [
+        "延續音樂史的課程,探討現代音樂的發展",
+        "加強主修作曲同學分析現代音樂的作品"
+    ],
+    "syllabus": "1.二十世紀音樂的發展,如音列主義,後現代主義,音響學派等作品探討  \n2.老師,同學作品互相研究切磋  \n3.現代音樂作品發表音樂會的欣賞",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "老師講授,並提出作品共同探討"
+        },
+        {
+            "type": "討論法",
+            "note": "老師,同學作品互相研究切磋"
+        },
+        {
+            "type": "實驗/實作",
+            "note": "現代音樂作品發表音樂會的欣賞 同學們專長樂器協助作曲同學發表作品"
+        },
+        {
+            "type": "其他",
+            "note": "同學提出報告,或主持研討"
+        }
+    ],
+    "grading": [
+        {
+            "type": "期中考",
+            "weight": 25,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "出席",
+            "weight": 20,
+            "note": ""
+        },
+        {
+            "type": "其他",
+            "weight": 25,
+            "note": "筆記"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

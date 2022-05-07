@@ -1,0 +1,90 @@
+{
+    "year": 110,
+    "term": 2,
+    "name": "資料視覺化",
+    "teachers": [
+        "王科植"
+    ],
+    "department": "SU47",
+    "code": "CSC9005",
+    "credit": 3,
+    "serial": 2948,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 4,
+            "from": 7,
+            "to": 9,
+            "campus": "公館",
+            "classroom": "Ｂ103"
+        }
+    ],
+    "programs": [
+        "音樂科技學程"
+    ],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "9",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程將針對資料視覺化分析和常用工具進行完整的介紹並深入探討和練習，希望能引起學生對此領域的興趣，並在未來投入相關的研究和應用。本課程內容將涵蓋人類視覺感知、資訊分析、資料的抽象化、資料視覺化元件、資料互動技術、科學資料視覺化概論及資訊理論。另外，也會介紹重要的資料視覺化工具。",
+    "goals": [
+        "了解資料視覺化及資訊分析原理",
+        "著重理論的整合與應用",
+        "了解當前相關科技之發展",
+        "熟悉重要的資料視覺化設計工具"
+    ],
+    "syllabus": "*   (This course will be taught in English)\n\n  \n*   Introduction: what is data visualization?\n*   Visualization software\n    *   Python, Pandas, and Matplotlib\n    *   javascript and D3\n    *   ParaView and VTK\n    *   Tableau\n*   Foundations of data visualization\n    *   Visual perception\n    *   Information analysis and visual variables\n    *   Data and task abstraction\n*   Information visualization\n    *   Tables, networks, and trees\n    *   Interaction and manipulation\n*   Scientific visualization\n    *   Scientific models\n    *   Scalar field visualization\n    *   Vector field visualization",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "Techniques for data visualization"
+        },
+        {
+            "type": "合作學習",
+            "note": "Teamwork projects"
+        },
+        {
+            "type": "實驗/實作",
+            "note": "Homeworks to implement data visualization techniques"
+        },
+        {
+            "type": "專題研究",
+            "note": "Final project to design a visual analytics tool and solve a data analysis problem"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 40,
+            "note": "4-6 homeworks"
+        },
+        {
+            "type": "期中考",
+            "weight": 15,
+            "note": "midterm project or paper presentation"
+        },
+        {
+            "type": "出席",
+            "weight": 5,
+            "note": "attendence"
+        },
+        {
+            "type": "專題",
+            "weight": 30,
+            "note": "Final project (include the proposal, writing report and presentation)"
+        },
+        {
+            "type": "其他",
+            "weight": 10,
+            "note": "課堂練習或小測驗"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

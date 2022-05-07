@@ -1,0 +1,89 @@
+{
+    "year": 109,
+    "term": 2,
+    "name": "資料探勘技術與應用專題研究",
+    "teachers": [
+        "吳怡瑾"
+    ],
+    "department": "EM15",
+    "code": "ISC8004",
+    "credit": 3,
+    "serial": 524,
+    "group": "",
+    "quota": {
+        "limit": 26,
+        "additional": 0
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 2,
+            "to": 4,
+            "campus": "本部",
+            "classroom": "教404"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "Data mining is the process of discovering interesting knowledge from large amounts of data stored either in databases, data warehouses, or other form of information repositories. The discovered knowledge may be known factual patterns, or may be knowledge, constraints, rules that have not yet been known. The goals of this course lie in introducing the concepts and framework of data mining, various data mining techniques, and data mining’s application in library and information science, and Internet.",
+    "goals": [
+        "The goals of this course lie in introducing the concepts and framework of data mining, various data mining techniques, and data mining’s application in library and information science, and Internet"
+    ],
+    "syllabus": "**Course Description**\n\nThere is growing demand for data-analytics professionals in businesses, public agencies, and nonprofit organizations for powering enterprises to new levels of competitiveness. This course explores the rapidly developing fields of (Big) Data Mining for intelligent use of data to maximize the utilization of data and optimize the efficiency of decision making in the context of various fields. Basically, this class is about learning from data, in order to gain useful predictions and insights. Topics may include basic concepts of data manipulations, analytic, and communications. The course will help students careful consideration of what is desired from big data, how big data analytic to add value to business, etc. Students can gain a strong data science knowledge set and techniques via in-depth case studies, most current readings and experiences, and most current and future technology exploration.\n\n**Schedule (****實習課安排時間依授課情形會再調整****;** **授課模式也會因應疫情調整****,** **部分搭配數位化教材****)**\n\n**Week**\n\n**Topic**\n\n**Ref.**\n\n1\n\n2/23\n\nCourse overview\n\nIntroduction to Data Mining, Big Data Analytics\n\nChapter 1 &2\n\n2\n\n3/2\n\nGetting to know you data & Data Preprocessing (影片:30)\n\n3\n\n3/9\n\nData Preprocessing (影片:30)\n\nChapter 1 &2\n\n4\n\n3/16\n\nMining Frequent Patterns, Associations, and Correlations: Basic Concepts and Methods I (影片:30)\n\nChapter 6\n\n5\n\n3/23\n\nWeka I Practice  \n\n教學數位化教材\n\n6\n\n3/30\n\nClassification and Clustering I  \n\nChapter 6\n\n7\n\n4/6\n\n**Midterm Project Discussion (Business Model)**\n\nChapter 8&9\n\n8\n\n4/13\n\nClassification and Clustering II (Classification 影片: 60) (Paper 影片: 30)\n\nHandout\n\n9\n\n4/20\n\nText Mining\n\n教學數位化教材\n\n10\n\n4/27\n\n專題演講\n\n11\n\n5/4\n\nWEKA III Practice (分群)\n\nChapter 8&9\n\n12\n\n5/11\n\nClassification and Clustering III (Clustering影片:120)\n\nFinal Project Proposal\n\nChapter 10&11\n\n13\n\n5/18\n\nWEKA IV Practice (分類)\n\n教學數位化教材\n\n14\n\n5/25\n\nSpecial Topic on Recommendation and Data Mining in CRM\n\nSpecial Topic on Time-series Data Mining\n\nHandout\n\n15\n\n6/1\n\nSpecial Topic on Text Mining: Word2Vec\n\nPython Basic Practice & Word2Vec Practice\n\nHandout\n\n數位化教材\n\n16\n\n6/8\n\nFinal Project Presentation\n\nHandout\n\n17\n\n6/15\n\nPython Basic Practice-Image Recognition\n\nPaper Reading\n\n彈性授課週\n\n教學數位化教材\n\n線上資料\n\n18\n\n6/22\n\n“資料串聯 翻轉價值\"  \n\n外交部資訊及電務處 副處長 謝翠娟博士\n\n彈性授課週\n\n線上資料\n\n  \n[教學進度與主題附件](https://ap.itc.ntnu.edu.tw/NtnuFileShare/file.do?action=dl&gno=bd1f90072e21447eb333c0c2ed05d20b&fno=a2188764bb2248f2a0393577923cd035)",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": ""
+        },
+        {
+            "type": "合作學習",
+            "note": "專案報告"
+        },
+        {
+            "type": "實驗/實作",
+            "note": "上機演練"
+        },
+        {
+            "type": "專題研究",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 35,
+            "note": ""
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 15,
+            "note": ""
+        },
+        {
+            "type": "出席",
+            "weight": 10,
+            "note": ""
+        },
+        {
+            "type": "專題",
+            "weight": 25,
+            "note": ""
+        },
+        {
+            "type": "其他",
+            "weight": 15,
+            "note": "課堂討論教材, 活動...等"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

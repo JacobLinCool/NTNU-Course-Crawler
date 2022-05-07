@@ -1,0 +1,82 @@
+{
+    "year": 110,
+    "term": 1,
+    "name": "社會網路分析",
+    "teachers": [
+        "林宗進"
+    ],
+    "department": "EU11",
+    "code": "LSU0045",
+    "credit": 3,
+    "serial": 912,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 5,
+            "from": 6,
+            "to": 8,
+            "campus": "本部",
+            "classroom": "樸402"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎必須先修過【E0U0002  教育統計學（二）】、【LSU0042  學習評量與測驗】其中一門",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程主要目標是介紹社會網路理論的重要概念、資料蒐集和資料分析的方法與技巧，並初步應用社會網絡分析和模型的相關知識與統計軟體，來進行各種主題的研究，和發展社會網絡分析和詮釋能力。",
+    "goals": [
+        "瞭解社會網路分析的理論內涵",
+        "瞭解如何蒐集符合社會網路分析的資料",
+        "瞭解如何應用相關軟體進行資料分析與解讀"
+    ],
+    "syllabus": "【授課方式：16+2週】\n\n【彈性教學2週】：社會網路分析研究專題\n\n本課程將涵蓋以下主題（The inclusion of relevant topics of this course is listed below）：\n\n*   Introduction and Overview of Social Network Analysis\n*   The History of Social Network Analysis\n*   Terminology for Network Analysis\n*   Data Collection for Social Network Analysis\n*   Popularity, Mediation and Exclusion\n*   Groups, Factions and Social Divisions\n*   Structural Locations, Classes and Positions\n*   Social Change and Development\n*   Organizing and Analyzing Network Data\n*   Visualizing and Modelling\n\n註：以上各主題進度及週數視學習情況調整。",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "教師講述相關重要知識與概念"
+        },
+        {
+            "type": "討論法",
+            "note": "上課進行該週主題之討論"
+        },
+        {
+            "type": "合作學習",
+            "note": "於課程期間透過分組，讓同組學生能相互合作與討論"
+        },
+        {
+            "type": "專題研究",
+            "note": "學生進行社會網路分析相關之研究主題"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 15,
+            "note": "不定時平時作業"
+        },
+        {
+            "type": "期中考",
+            "weight": 25,
+            "note": "期中報告"
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 20,
+            "note": "課堂問題討論與每週出席狀況"
+        },
+        {
+            "type": "專題",
+            "weight": 40,
+            "note": "期末專題"
+        }
+    ],
+    "prerequisite": "◎必須先修過【E0U0002  教育統計學（二）】、【LSU0042  學習評量與測驗】其中一門",
+    "general_core": []
+}

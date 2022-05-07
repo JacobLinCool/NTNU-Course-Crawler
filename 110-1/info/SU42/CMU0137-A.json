@@ -1,0 +1,64 @@
+{
+    "year": 110,
+    "term": 1,
+    "name": "有機化學（一）",
+    "teachers": [
+        "姚清發"
+    ],
+    "department": "SU42",
+    "code": "CMU0137",
+    "credit": 4,
+    "serial": 2937,
+    "group": "A",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 1,
+            "from": 3,
+            "to": 4,
+            "campus": "公館",
+            "classroom": "Ｅ102"
+        },
+        {
+            "day": 4,
+            "from": 3,
+            "to": 4,
+            "campus": "公館",
+            "classroom": "Ｓ101"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "2",
+    "classes": "",
+    "dept_group": "",
+    "hours": 4,
+    "description": "說明有機化合物的結構與性質的關係、重要的反應機構，作為高深研究及應用的基礎。",
+    "goals": [
+        "加強學生對於有機化學基本概念",
+        "提高學生對不同官能機的製備與反應，熟悉有機合成步驟",
+        "增進學生對於有機合成方法的瞭解",
+        "增進學生對於有機異構物性質的瞭解",
+        "藉由反應機構的介紹，讓學生瞭解有機反應進行情形"
+    ],
+    "syllabus": "1)conjugated compounds and ultraviolet spectroscopy.  \n2) Benzene and aromaticity  \n3) Chemistry of benzene: electrophilic aromatic substitution  \n4) Alcohols and phenols  \n5) Ethers and epoxides  \n6) Aldehydes and ketones  \n7) carboxylic acids and nitriles  \n8) Carboxylic acid derivatives: nucleophilic acyl substitution reactions  \n9) carbonyl a-substitution reactions  \n10) Carbonyl condensation reactions  \n11) Amines and heterocycles  \n12) BiomoleculesL carbohydrates  \n13) Biomolecules: amino acids, peptides, and prteins",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "其他",
+            "weight": 100,
+            "note": "七次期中小考(90%)。作業繳交、出席狀況和課堂討論的參與度(10%)"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

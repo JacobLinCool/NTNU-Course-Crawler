@@ -1,0 +1,87 @@
+{
+    "year": 110,
+    "term": 2,
+    "name": "行動App程式設計",
+    "teachers": [
+        "劉建成"
+    ],
+    "department": "GU",
+    "code": "05UG019",
+    "credit": 2,
+    "serial": 955,
+    "group": "A",
+    "quota": {
+        "limit": 50,
+        "additional": 5
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 6,
+            "to": 7,
+            "campus": "公館",
+            "classroom": "理圖801"
+        }
+    ],
+    "programs": [
+        "音樂科技學程"
+    ],
+    "comment": "◎數位課程",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 2,
+    "description": "本課程針對已有運算思維及基礎程式設計基礎學生為對象，進行 App 設計開發學習，課程著重 App 的規劃與設計及 App 的開發與實作。本課程選用視覺化的程式設計工具，讓擁有基礎程式設計者能在循序漸進的學習引導下，從範例App的實作練習，進而設計並完成App 專案的開發。",
+    "goals": [
+        "能理解手機App的開發流程。",
+        "能理解手機App開發元件用途並運用元件製作App。",
+        "能理解資料庫存取的概念並用於手機App。",
+        "能與多人共同合作，規畫與開發App。",
+        "能結合程式實作與主修領域知識，製作符合專業需求之App。"
+    ],
+    "syllabus": "本校「邏輯運算」領域之通識課程分為「基礎知能」、「資訊技術」和「跨域整合」三大類，本課程屬於「資訊技術」類。  \n邏輯運算領域之課程簡介一覽表請參見：「[邏輯與程式教育組 / 課程介紹](http://www.aa.ntnu.edu.tw/8intro/super_pages.php?ID=6intro76&Sn=259)」。\n\n**【授課方式：16+2週】**\n\n**\\[週二6-7節班為線上數位課程，選課同學線上同步/非同步方式授課，除前兩週及Workshop與期末報告須至實體教室外，其餘課程時段均採數位課程\\]**\n\n本課程以 MIT App Inventor 為程式開發工具，開發之行動應用程式(App)所適用的系統以Android為主。\n\n透過實作型演練，集合各種開發環境之元件與應用，藉以熟練程式撰寫方法，與APP運作原理。\n\n*   Week1 課程說明、認識開發環境\n*   Week2 認識常用基本元件與基礎與法\n*   Week3 基本元件整合應用: 小畫家\n*   Week4 認識介面布局元件及整合應用: 會員表單\n*   Week5 高階元件整合應用\n*   Week6 Workshop#1 (第一次小型討論會)\n*   Week7 微型資料庫與資料儲存整合應用: 通訊錄\n*   Week8 清明節(放假)\n*   Week9 網路微型資料庫應用\n*   Week10 手機機能QRCode整合應用\n*   Week11 Workshop#2 (第二次小型討論會)\n*   Week12 APP應用實例製作\n*   Week13 期末成果發表I (分組成果展示)\n*   Week14 期末成果發表II (分組成果展示)\n*   Week15 期末成果總檢討\n*   Week16 成果展示與小競賽\n*   Week17,18 觀摩與自主學習",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "App 設計與實作技巧講述"
+        },
+        {
+            "type": "問題解決教學",
+            "note": "App系統功能設計與實作規劃"
+        },
+        {
+            "type": "合作學習",
+            "note": "App專題合作製作"
+        },
+        {
+            "type": "實驗/實作",
+            "note": "範例App實作練習"
+        },
+        {
+            "type": "專題研究",
+            "note": "App專題實作（以6-8人為原則）"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 45,
+            "note": "平時作業App實作練習成果"
+        },
+        {
+            "type": "出席",
+            "weight": 10,
+            "note": "出缺席狀況"
+        },
+        {
+            "type": "專題",
+            "weight": 45,
+            "note": "期末專題成果使用技術與App完整性"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": [
+        "邏輯運算"
+    ]
+}

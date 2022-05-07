@@ -1,0 +1,79 @@
+{
+    "year": 110,
+    "term": 1,
+    "name": "地理視覺化",
+    "teachers": [
+        "周學政"
+    ],
+    "department": "LU23",
+    "code": "GEU0239",
+    "credit": 3,
+    "serial": 2017,
+    "group": "",
+    "quota": {
+        "limit": 25,
+        "additional": 5
+    },
+    "schedule": [
+        {
+            "day": 1,
+            "from": 6,
+            "to": 8,
+            "campus": "本部",
+            "classroom": "地理系電腦教室"
+        }
+    ],
+    "programs": [
+        "學習與資訊學程"
+    ],
+    "comment": "",
+    "restrict": "",
+    "form_s": "3",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "因巨量資料來源日漸增多，如何分析資料，萃取其中重要地理意涵，為重要之研究與應用課題。視覺化是發掘資料意義與表達資料意義的重要手段之一。地理視覺化引進視覺化研究的成果，拓展傳統地圖學，能夠由空間觀點，挖掘及展現巨量空間資料的地理意義。",
+    "goals": [
+        "瞭解視覺化與地理視覺化基本原理",
+        "熟悉地理視覺化製作技術",
+        "分析地理議題，應用地理視覺化，適當表達其內涵。"
+    ],
+    "syllabus": "1.  概論(地理視覺化原理)\n2.  常用視覺化工具簡介- Excel、R、Tableau\n3.  網路技術概論\n4.  網路視覺化平台- D3、Chart JS等\n5.  簡易地圖平台實作- EXCEL Power Map、Google My Map, Google Earth\n6.  網路地圖平台介紹 Google, Mapbox, OpenStreetMap等 \n7.  地理地圖相關標準 WMS、WMTS、WMT\n8.  實作-ArcGIS Online I\n9.  實作-ArcGIS Online II\n10.  實作-ArcGIS Online III\n11.  網頁技術- html\n12.  網頁技術- CSS\n13.  網頁技術- JavaScript\n14.  ArcGIS JavaScript API \n15.  Leallet  I\n16.  Leallet II\n\n**網址：**\n\n*   110年本課程台灣師大Moodle (修課資源、作業及討論，需修課帳號）: [https://moodle3.ntnu.edu.tw/course/view.php?id=20970](https://moodle3.ntnu.edu.tw/course/view.php?id=209700)\n*   講義網頁（開放資源及講義，不需帳號）：[https://sites.google.com/site/ntnuwebcarto/](https://sites.google.com/site/ntnuwebcarto/)\n*   台灣師大Google Meet (遠距上課時使用，師大G-suit帳號可直接加入，其他需核准):  [https://meet.google.com/kma-ztzu-owu](https://meet.google.com/kma-ztzu-owu)",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "視覺化，地視覺化理論講述"
+        },
+        {
+            "type": "實驗/實作",
+            "note": "視覺化，地視覺化軟體操作"
+        },
+        {
+            "type": "媒體融入教學",
+            "note": "視覺化，地視覺化軟體應用"
+        },
+        {
+            "type": "專題研究",
+            "note": "視覺化，地視覺化期末專題開發"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 40,
+            "note": ""
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 20,
+            "note": ""
+        },
+        {
+            "type": "專題",
+            "weight": 40,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

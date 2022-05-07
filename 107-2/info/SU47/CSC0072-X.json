@@ -1,0 +1,74 @@
+{
+    "year": 107,
+    "term": 2,
+    "name": "資訊安全",
+    "teachers": [
+        "紀博文"
+    ],
+    "department": "SU47",
+    "code": "CSC0072",
+    "credit": 3,
+    "serial": 2942,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 7,
+            "to": 9,
+            "campus": "公館",
+            "classroom": "Ｂ101"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "",
+    "classes": "9",
+    "dept_group": "",
+    "hours": 3,
+    "description": "資訊安全課程目的在講授資訊安全基本知識及其在各工程領域之應用。",
+    "goals": [
+        "使學生了解資訊安全基本知識",
+        "使學生具備撰寫資訊安全程式之能力",
+        "培養學生具備執行資訊系統發展分析與整合的能力",
+        "培養學生團隊合作能力"
+    ],
+    "syllabus": "*   Course Overview & Introduction\n    \n*   Cryptography: Stream Cipher\n    \n*   Cryptography: Block Cipher\n    \n*   Cryptography: Public Key Encryption\n    \n*   Cryptography: Hash/MAC/Signature\n    \n*   User Authentication & Key Management\n    \n*   IP/TCP/UDP Security\n    \n*   Application Layer Security\n    \n*    Wireless Security\n    \n*   Firewall\n    \n*   Secure Programming\n    \n*   OS Security\n    \n*   How to Hack",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "介紹資訊安全基本原理，內容包含密碼學、網路安全以及實際生活上的應用。"
+        },
+        {
+            "type": "實驗/實作",
+            "note": "實際操作資安相關技術，從密碼系統到常見的網路工具並相關的設定。"
+        },
+        {
+            "type": "專題研究",
+            "note": "引導學生選定題目進行研究。"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 40,
+            "note": "包含習題作業、程式練習以及實務操作"
+        },
+        {
+            "type": "期中考",
+            "weight": 30,
+            "note": "期中考"
+        },
+        {
+            "type": "報告",
+            "weight": 30,
+            "note": "期末專題，由學生們選定題目，帶領學生進行資安領域的研究。"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

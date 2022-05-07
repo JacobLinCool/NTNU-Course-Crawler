@@ -1,0 +1,90 @@
+{
+    "year": 108,
+    "term": 1,
+    "name": "拓樸學（一）",
+    "teachers": [
+        "李華介"
+    ],
+    "department": "SU40",
+    "code": "MAU0027",
+    "credit": 3,
+    "serial": 2847,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 1,
+            "from": 6,
+            "to": 6,
+            "campus": "公館",
+            "classroom": "Ｃ002"
+        },
+        {
+            "day": 4,
+            "from": 6,
+            "to": 7,
+            "campus": "公館",
+            "classroom": "Ｃ002"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "3",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "拓樸學主要是要介紹點集拓樸學，也就是關於拓樸空間的概念，讓學生認識抽象化空間的拓樸結構（提供關於“距離”、“遠近”的概念），並做為日後修習高深數學的基礎。",
+    "goals": [
+        "瞭解點集拓樸學基本性質",
+        "增進邏輯推理與歸納的能力",
+        "增進數學思維與批判性思考的能力"
+    ],
+    "syllabus": "本課程簡單介紹同學拓樸學的概念.  \n所需要的基本知識僅簡單的集合概念與相關性質，不過對於抽象的數學表達及論證方式必須有足夠的理解\n\n1\\. 先備知識 (2 weeks)\n\n2\\. Topological Spaces (2 Weeks)\n\n3\\. Continuous Functions (2 Weeks)\n\n4\\. Interior, Exterior (2 Weeks)\n\n5\\. Boundary, Closure and Limit points  (2 Weeks)\n\n6\\. Connectedness (2 Weeks)\n\n7\\. Compactness (2 Weeks)\n\n8\\. Hausdorff Spaces (2 Weeks)",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "講述重要概念與理論"
+        },
+        {
+            "type": "討論法",
+            "note": "不時提出問題與學生互動討論, 學生需參與問題討論"
+        },
+        {
+            "type": "問題解決教學",
+            "note": "學生互相提出問題"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 40,
+            "note": "平時作業包括課堂上所提問的問題，不必繳交但會以 open book 的方式檢測"
+        },
+        {
+            "type": "期中考",
+            "weight": 20,
+            "note": "以平時作業內容為主，以 open book 的方式檢測"
+        },
+        {
+            "type": "期末考",
+            "weight": 20,
+            "note": "以平時作業內容為主，以 open book 的方式檢測"
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 10,
+            "note": "參與討論及提問的次數為依據"
+        },
+        {
+            "type": "出席",
+            "weight": 10,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

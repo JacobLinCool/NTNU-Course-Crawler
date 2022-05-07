@@ -1,0 +1,942 @@
+[
+    {
+        "year": 109,
+        "term": 2,
+        "name": "潛在課程",
+        "teachers": [
+            "甄曉蘭"
+        ],
+        "department": "EU00",
+        "code": "EDU0122",
+        "credit": 2,
+        "serial": 641,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 3,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "教802"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "1",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 2,
+        "name": "輔導原理與實務",
+        "teachers": [
+            "潘正德"
+        ],
+        "department": "EU00",
+        "code": "EDU0159",
+        "credit": 2,
+        "serial": 642,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 8,
+                "to": 9,
+                "campus": "本部",
+                "classroom": "正203"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "1",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 2,
+        "name": "中國教育制度與活動史",
+        "teachers": [
+            "周愚文"
+        ],
+        "department": "EU00",
+        "code": "EDU0197",
+        "credit": 2,
+        "serial": 643,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 6,
+                "to": 7,
+                "campus": "本部",
+                "classroom": "教802"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎必須先修過【EDU0003  中國教育史】",
+        "form_s": "1",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 2,
+        "name": "哲學概論",
+        "teachers": [
+            "林逢祺"
+        ],
+        "department": "EU00",
+        "code": "EDU0086",
+        "credit": 2,
+        "serial": 644,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 3,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "教802"
+            }
+        ],
+        "programs": [],
+        "comment": "限本班",
+        "restrict": "◎限大一◎限甲班修習",
+        "form_s": "1",
+        "classes": "1",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 2,
+        "name": "教學原理",
+        "teachers": [
+            "湯仁燕"
+        ],
+        "department": "EU00",
+        "code": "EDU0157",
+        "credit": 2,
+        "serial": 645,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 3,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "教315"
+            }
+        ],
+        "programs": [],
+        "comment": "限本班",
+        "restrict": "◎限大一◎限甲班修習",
+        "form_s": "1",
+        "classes": "1",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 2,
+        "name": "教學媒體與運用",
+        "teachers": [
+            "郝永崴"
+        ],
+        "department": "EU00",
+        "code": "EDU0215",
+        "credit": 2,
+        "serial": 646,
+        "group": "",
+        "quota": {
+            "limit": 40,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 1,
+                "to": 2,
+                "campus": "本部",
+                "classroom": "教402"
+            }
+        ],
+        "programs": [
+            "學習與資訊學程"
+        ],
+        "comment": "限本班",
+        "restrict": "◎限大一◎限甲班修習",
+        "form_s": "1",
+        "classes": "1",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 2,
+        "name": "哲學概論",
+        "teachers": [
+            "洪仁進"
+        ],
+        "department": "EU00",
+        "code": "EDU0086",
+        "credit": 2,
+        "serial": 647,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 8,
+                "to": 9,
+                "campus": "本部",
+                "classroom": "教802"
+            }
+        ],
+        "programs": [],
+        "comment": "限本班",
+        "restrict": "◎限大一◎限乙班修習",
+        "form_s": "1",
+        "classes": "2",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 2,
+        "name": "教學原理",
+        "teachers": [
+            "湯仁燕"
+        ],
+        "department": "EU00",
+        "code": "EDU0157",
+        "credit": 2,
+        "serial": 648,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 8,
+                "to": 9,
+                "campus": "本部",
+                "classroom": "教315"
+            }
+        ],
+        "programs": [],
+        "comment": "限本班",
+        "restrict": "◎限大一◎限乙班修習",
+        "form_s": "1",
+        "classes": "2",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 2,
+        "name": "教學媒體與運用",
+        "teachers": [
+            "郝永崴"
+        ],
+        "department": "EU00",
+        "code": "EDU0215",
+        "credit": 2,
+        "serial": 649,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 6,
+                "to": 7,
+                "campus": "本部",
+                "classroom": "教401"
+            }
+        ],
+        "programs": [
+            "學習與資訊學程"
+        ],
+        "comment": "限本班",
+        "restrict": "◎限大一◎限乙班修習",
+        "form_s": "1",
+        "classes": "2",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 2,
+        "name": "學校行政",
+        "teachers": [
+            "黃乃熒"
+        ],
+        "department": "EU00",
+        "code": "EDU0051",
+        "credit": 2,
+        "serial": 650,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 1,
+                "to": 2,
+                "campus": "本部",
+                "classroom": "教310"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 2,
+        "name": "心理與教育測驗",
+        "teachers": [
+            "黃柏僩"
+        ],
+        "department": "EU00",
+        "code": "EDU0095",
+        "credit": 2,
+        "serial": 651,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 6,
+                "to": 7,
+                "campus": "本部",
+                "classroom": "教402"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 2,
+        "name": "公文與文書處理",
+        "teachers": [
+            "陳明印"
+        ],
+        "department": "EU00",
+        "code": "EDU0104",
+        "credit": 2,
+        "serial": 3251,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 8,
+                "to": 9,
+                "campus": "本部",
+                "classroom": "教103"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 2,
+        "name": "教室現場觀察",
+        "teachers": [
+            "林君憶"
+        ],
+        "department": "EU00",
+        "code": "EDU0120",
+        "credit": 2,
+        "serial": 652,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 5,
+                "from": 3,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "教312"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 2,
+        "name": "情育原理",
+        "teachers": [
+            "林建福"
+        ],
+        "department": "EU00",
+        "code": "EDU0195",
+        "credit": 2,
+        "serial": 653,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 6,
+                "to": 7,
+                "campus": "本部",
+                "classroom": "教315"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 2,
+        "name": "西洋教育史",
+        "teachers": [
+            "洪仁進"
+        ],
+        "department": "EU00",
+        "code": "EDU0002",
+        "credit": 2,
+        "serial": 654,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 3,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "教315"
+            }
+        ],
+        "programs": [],
+        "comment": "限本班",
+        "restrict": "◎限大二◎限甲班修習",
+        "form_s": "2",
+        "classes": "1",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 2,
+        "name": "比較教育",
+        "teachers": [
+            "陳佩英"
+        ],
+        "department": "EU00",
+        "code": "EDU0008",
+        "credit": 2,
+        "serial": 655,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 6,
+                "to": 7,
+                "campus": "本部",
+                "classroom": "教802"
+            }
+        ],
+        "programs": [],
+        "comment": "限本班",
+        "restrict": "◎限大二◎限甲班修習",
+        "form_s": "2",
+        "classes": "1",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 2,
+        "name": "西洋教育史",
+        "teachers": [
+            "方永泉"
+        ],
+        "department": "EU00",
+        "code": "EDU0002",
+        "credit": 2,
+        "serial": 656,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 3,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "教9樓綜合教室"
+            }
+        ],
+        "programs": [],
+        "comment": "限本班",
+        "restrict": "◎限大二◎限乙班修習",
+        "form_s": "2",
+        "classes": "2",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 2,
+        "name": "比較教育",
+        "teachers": [
+            "陳佩英"
+        ],
+        "department": "EU00",
+        "code": "EDU0008",
+        "credit": 2,
+        "serial": 657,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 8,
+                "to": 9,
+                "campus": "本部",
+                "classroom": "教802"
+            }
+        ],
+        "programs": [],
+        "comment": "限本班",
+        "restrict": "◎限大二◎限乙班修習",
+        "form_s": "2",
+        "classes": "2",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 2,
+        "name": "青少年文化與教育",
+        "teachers": [
+            "鄭英傑"
+        ],
+        "department": "EU00",
+        "code": "EDU0200",
+        "credit": 2,
+        "serial": 3252,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 6,
+                "to": 7,
+                "campus": "本部",
+                "classroom": "誠208"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "3",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 2,
+        "name": "西洋教育制度與活動史",
+        "teachers": [
+            "劉蔚之"
+        ],
+        "department": "EU00",
+        "code": "EDU0202",
+        "credit": 2,
+        "serial": 658,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 5,
+                "from": 1,
+                "to": 2,
+                "campus": "本部",
+                "classroom": "教310"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "3",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 2,
+        "name": "學習評量",
+        "teachers": [
+            "王力億"
+        ],
+        "department": "EU00",
+        "code": "EDU0220",
+        "credit": 2,
+        "serial": 659,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 3,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "教802"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "3",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 2,
+        "name": "多元文化教育",
+        "teachers": [
+            "張珍瑋"
+        ],
+        "department": "EU00",
+        "code": "EDU0092",
+        "credit": 2,
+        "serial": 660,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 3,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "教312"
+            }
+        ],
+        "programs": [
+            "社團領導學程",
+            "原民教育學程"
+        ],
+        "comment": "限本班",
+        "restrict": "◎限大三◎限甲班修習",
+        "form_s": "3",
+        "classes": "1",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 2,
+        "name": "教育政策",
+        "teachers": [
+            "王麗雲"
+        ],
+        "department": "EU00",
+        "code": "EDU0108",
+        "credit": 2,
+        "serial": 661,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 8,
+                "to": 9,
+                "campus": "本部",
+                "classroom": "教310"
+            }
+        ],
+        "programs": [],
+        "comment": "限本班",
+        "restrict": "◎限大三◎限甲班修習",
+        "form_s": "3",
+        "classes": "1",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 2,
+        "name": "教育專題",
+        "teachers": [
+            "許殷宏",
+            "卯靜儒"
+        ],
+        "department": "EU00",
+        "code": "EDU0192",
+        "credit": 2,
+        "serial": 662,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 3,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "教315"
+            }
+        ],
+        "programs": [],
+        "comment": "限本班",
+        "restrict": "◎限大三◎限甲班修習",
+        "form_s": "3",
+        "classes": "1",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 2,
+        "name": "多元文化教育",
+        "teachers": [
+            "黃純敏"
+        ],
+        "department": "EU00",
+        "code": "EDU0092",
+        "credit": 2,
+        "serial": 663,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 3,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "教310"
+            }
+        ],
+        "programs": [
+            "社團領導學程",
+            "原民教育學程"
+        ],
+        "comment": "限本班",
+        "restrict": "◎限大三◎限乙班修習",
+        "form_s": "3",
+        "classes": "2",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 2,
+        "name": "教育政策",
+        "teachers": [
+            "黃乃熒"
+        ],
+        "department": "EU00",
+        "code": "EDU0108",
+        "credit": 2,
+        "serial": 664,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 6,
+                "to": 7,
+                "campus": "本部",
+                "classroom": "教310"
+            }
+        ],
+        "programs": [],
+        "comment": "限本班",
+        "restrict": "◎限大三◎限乙班修習",
+        "form_s": "3",
+        "classes": "2",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 2,
+        "name": "教育專題",
+        "teachers": [
+            "李玉馨",
+            "余穎麒"
+        ],
+        "department": "EU00",
+        "code": "EDU0192",
+        "credit": 2,
+        "serial": 665,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 3,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "教312"
+            }
+        ],
+        "programs": [],
+        "comment": "限本班",
+        "restrict": "◎限大三◎限乙班修習",
+        "form_s": "3",
+        "classes": "2",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 2,
+        "name": "教育財政學",
+        "teachers": [
+            "許添明"
+        ],
+        "department": "EU00",
+        "code": "EDU0050",
+        "credit": 2,
+        "serial": 666,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 5,
+                "from": 3,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "教802"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "4",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 2,
+        "name": "行政法",
+        "teachers": [
+            "周佳宥"
+        ],
+        "department": "EU00",
+        "code": "EDU0141",
+        "credit": 2,
+        "serial": 667,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 3,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "教310"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "4",
+        "classes": "",
+        "dept_group": ""
+    }
+]

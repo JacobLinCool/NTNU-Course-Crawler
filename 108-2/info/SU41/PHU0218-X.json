@@ -1,0 +1,65 @@
+{
+    "year": 108,
+    "term": 2,
+    "name": "相對論導論",
+    "teachers": [
+        "林豐利"
+    ],
+    "department": "SU41",
+    "code": "PHU0218",
+    "credit": 3,
+    "serial": 2761,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 2,
+            "to": 4,
+            "campus": "公館",
+            "classroom": "理圖001"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "4",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "讓學生瞭解相對論的基本概念及應用",
+    "goals": [
+        "Understand Einstein’s general relativity",
+        "Basics of Magnetic Hydrodynamics",
+        "Basics of Black Hole physics",
+        "Basics of Cosmology"
+    ],
+    "syllabus": "第1 週   Introduction\n\n第2 週  Special Relativity\n\n第3 週  Riemannian geometry and Tensor Calculus\n\n第4 週  Stress tensors of ideal fluid\n\n第5 週  Magnetic Hydrodynamics\n\n第6 週  Neutron stars\n\n第7 週  Black hole physics\n\n第8 週  xTensor and xCoba\n\n第9 週  Event horizon telescope\n\n第10週  Quantum field in curved background\n\n第11週  Hawking radiation\n\n第12週  Gravitational Waves\n\n第13週  Gravitational Waves data analysis\n\n第14週  Friedman-Robertson-Walker Universe\n\n第15週  Inflation and CMB physics\n\n第16週  final presentations I\n\n第17週  final presentations II  \n  \n第18週  final presentations Ⅲ",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 40,
+            "note": ""
+        },
+        {
+            "type": "報告",
+            "weight": 60,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

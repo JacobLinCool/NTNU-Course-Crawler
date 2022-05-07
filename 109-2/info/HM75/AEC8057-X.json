@@ -1,0 +1,86 @@
+{
+    "year": 109,
+    "term": 2,
+    "name": "演化式計算",
+    "teachers": [
+        "許陳鑑"
+    ],
+    "department": "HM75",
+    "code": "AEC8057",
+    "credit": 3,
+    "serial": 1160,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 7,
+            "to": 9,
+            "campus": "本部",
+            "classroom": "工511"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程主要使學生熟悉各種演化計算法則之原理及技術，解決各種複雜之工程最佳化問題。",
+    "goals": [
+        "瞭解各種演化計算法則之原理",
+        "以程式語言撰寫各種演化計算法則，並據以分析各項數據",
+        "熟悉各種演化計算法則之計算平台",
+        "培養問題導向的思維和研究之能力",
+        "提升工程問題理解之能力，並利用各種演化計算法進行最佳化以求得解答",
+        "能夠搜尋相關技術文獻，提升自我學習之能力",
+        "能夠以小組方式進行主題式研究，培養團隊合作之能力"
+    ],
+    "syllabus": "Weeks 1-2: Introduction\n\nWeeks 3-5: Genetic Algorithms\n\nWeek 6: Evolutionary strategies\n\nWeek 7: Genetic Programming\n\nWeek 8: Particle Swarm Optimization\n\nWeek 9: NM simplex search method / Hybridization with other techniques\n\nWeek 10: Simulated Annealing\n\nWeek 11-12: Multimodal problems and multi-objective evolutionary algorithms\n\nWeek 13: Parallel Computation of Evolutionary Algorithms\n\nWeek 14: Particle filter\n\nWeeks 15-16: Oral presentation of EC literature\n\nWeeks 17-18: Special project on Evolutionary Computing",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "講述各種演化計算法則之原理及技術"
+        },
+        {
+            "type": "討論法",
+            "note": "討論重要議題，以小組方式討論"
+        },
+        {
+            "type": "實驗/實作",
+            "note": "由學生撰寫程式印證各種演化計算法則"
+        },
+        {
+            "type": "專題研究",
+            "note": "由學生以實際應用領域進行專題研究"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 60,
+            "note": "各個章節的作業練習"
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 10,
+            "note": ""
+        },
+        {
+            "type": "出席",
+            "weight": 10,
+            "note": ""
+        },
+        {
+            "type": "報告",
+            "weight": 20,
+            "note": "實際領域應用專題，含書面、口頭報告"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

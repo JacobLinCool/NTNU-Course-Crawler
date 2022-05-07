@@ -1,0 +1,89 @@
+{
+    "year": 110,
+    "term": 2,
+    "name": "教育統計學（二）",
+    "teachers": [
+        "吳清麟"
+    ],
+    "department": "E",
+    "code": "E0U0002",
+    "credit": 2,
+    "serial": 328,
+    "group": "D",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 3,
+            "to": 4,
+            "campus": "本部",
+            "classroom": "正203"
+        }
+    ],
+    "programs": [
+        "學習與資訊學程"
+    ],
+    "comment": "",
+    "restrict": "◎必須先修過【E0U0001  教育統計學（一）】、【05UG020  統計學】其中一門 ◎課程開放上修",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 2,
+    "description": "",
+    "goals": [
+        "認識推論統計之基本概念",
+        "學習各類統計方法之意義、計算、解釋與正確用途",
+        "培養邏輯性思考與分析之學習能力"
+    ],
+    "syllabus": "推論統計概述  \n區間估計  \nT檢定  \n單因子變異數分析  \n多因子變異數分析  \n卡方檢定  \n多元迴歸分析",
+    "methodologies": [
+        {
+            "type": "Formal lecture",
+            "note": ""
+        },
+        {
+            "type": "Group discussion",
+            "note": ""
+        },
+        {
+            "type": "Problem base learning",
+            "note": ""
+        },
+        {
+            "type": "Lab/Studio",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "Assignments",
+            "weight": 20,
+            "note": ""
+        },
+        {
+            "type": "Midterm Exam",
+            "weight": 20,
+            "note": "期中報告"
+        },
+        {
+            "type": "Final exam",
+            "weight": 30,
+            "note": "本學期所有的教學內容，選擇題、問答與計算題。"
+        },
+        {
+            "type": "Attendances",
+            "weight": 5,
+            "note": ""
+        },
+        {
+            "type": "Presentation",
+            "weight": 25,
+            "note": ""
+        }
+    ],
+    "prerequisite": "Prerequisite course: 【E0U0001  Educational Statistics (I)】、【05UG020  Statistics】one of above ◎Available for junior and senior year B.A. program students (Doctoral program courses excepted) and M.A. program students.",
+    "general_core": []
+}

@@ -1,0 +1,78 @@
+{
+    "year": 108,
+    "term": 1,
+    "name": "衛星影像處理與應用",
+    "teachers": [
+        "張國楨"
+    ],
+    "department": "LU23",
+    "code": "GEU0176",
+    "credit": 3,
+    "serial": 1995,
+    "group": "",
+    "quota": {
+        "limit": 25,
+        "additional": 5
+    },
+    "schedule": [
+        {
+            "day": 3,
+            "from": 6,
+            "to": 8,
+            "campus": "本部",
+            "classroom": "教室自排"
+        }
+    ],
+    "programs": [
+        "學習與資訊學程",
+        "環境監測學程",
+        "空間學程"
+    ],
+    "comment": "上課教室：文學院勤10F地理系電腦教室。",
+    "restrict": "",
+    "form_s": "3",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "瞭解衛星遙測技術原理及影像處理方式，並研討其可能的應用層面，以推展為環境資源管理之新利器。",
+    "goals": [
+        "瞭解衛星遙測技術原理及影像處理方式，並研討其可能的應用層面，以推展為環境資源管理之新利器。"
+    ],
+    "syllabus": "瞭解衛星遙測技術原理及影像處理方式，並研討其可能的應用層面，以推展為環境資源管理之新利器。  \n  \n\n  \n\n1.History and Principles of Remote Sensing  \n2.Introduction to Remote Sensing System  \n3.Resolutions in Digital Remotely Sensed Data  \n4.Active vs. Passive Remote Sensing  \n5.Preprocessing of Remote Sensing Data  \n6.Introduction of Image Classification  \n7.Unsupervised Classification  \n8.Supervised Classification  \n9.Accuracy Assessment  \n10.Integration of RS and GIS  \n11.Remote Sensing Applications in the Urban Land Use Change  \n12.Remote Sensing Applications in the E.I.A (I)  \n13.Remote Sensing Applications in the E.I.A (II)  \n14.Object-Oriented Image Analysis  \n15.Term Paper Presentation",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "瞭解衛星遙測技術原理及影像處理方式，並研討其可能的應用層面，以推展為環境資源管理之新利器。"
+        },
+        {
+            "type": "討論法",
+            "note": "以實際衛星影像資料進行實作分析與結果討論"
+        },
+        {
+            "type": "問題解決教學",
+            "note": "提出併討論真實環境問題以及如何利用衛星影像與空間技術加以解決"
+        },
+        {
+            "type": "實驗/實作",
+            "note": "結合GIS與RS資料模擬空間決策的過程"
+        },
+        {
+            "type": "專題研究",
+            "note": "分組進行期末專題實作"
+        }
+    ],
+    "grading": [
+        {
+            "type": "課堂討論參與",
+            "weight": 50,
+            "note": "口頭報告及平常研討"
+        },
+        {
+            "type": "報告",
+            "weight": 50,
+            "note": "學期研究報告"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

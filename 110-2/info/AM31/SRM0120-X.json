@@ -1,0 +1,87 @@
+{
+    "year": 110,
+    "term": 2,
+    "name": "智慧旅遊：科技整合與管理",
+    "teachers": [
+        "李晶"
+    ],
+    "department": "AM31",
+    "code": "SRM0120",
+    "credit": 3,
+    "serial": 47,
+    "group": "",
+    "quota": {
+        "limit": 30,
+        "additional": 5
+    },
+    "schedule": [
+        {
+            "day": 4,
+            "from": 6,
+            "to": 8,
+            "campus": "本部",
+            "classroom": "綜602"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程不開放上修",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程主要示意管理者的角度，探討發展智慧旅遊所需要的整合創新科技，建構資源優化程序、有效公平的管理，以及永續發展的過程與議題。課程主要分為三大部分：\n1.\t旅遊目的地的智慧科技整合：主要是介紹智慧旅遊的發展趨勢，包含目前智慧旅遊科技屬性、物聯網在智慧旅遊的運用、大數據資料在智慧旅遊所扮演的角色。\n2.\t智慧旅遊的經驗塑造：以旅遊目的管理者的角度，探討數位資訊的取得、運用以及加值服務的可行性，包含：運用開放資料與自動監測資料對於旅遊需求及趨勢的評估、旅遊營運經常性資料分析與探討、圖像資料的分析與地理資訊系統在旅遊運用、網際網路與社群的評估。\n3.\t智慧旅遊產業的建構要素：智慧旅遊產業主要組織以及在旅遊產業影響、旅遊產業數位服務的串連效應、數位旅遊軟硬體建構條件、科技導入對旅遊服務流程的改變、數位旅遊區域發展與永續發展的議題、近年對於智慧旅遊政策改變與未來發展。\n學生修習之後，應具下列能力：\n1.\t整合並分析數位資料並闡述對於旅遊產業的影響，\n2.\t評估新興科技對於旅遊產業影響，\n3.\t導入新興科技在旅遊產業的施作流程。",
+    "goals": [
+        "整合旅遊目的地管理所需的智慧科技",
+        "形塑智慧旅遊經驗的能力",
+        "建構智慧旅遊產業發展"
+    ],
+    "syllabus": "1\n\n旅遊目的地的智慧科技整合\n\nTechnological foundations of smart tourism\n\nIntroduction to Smart tourism\n\n2\n\nAttributes of Smart tourism techologies (STTs)\n\n3\n\n [IoT-based monitoring for smart toruism](https://www.sciencedirect.com/science/article/pii/B9780128160558000105)\n\n4\n\nInfluence of big data in smart tourism\n\n5\n\nCase 1\n\n6\n\n智慧旅遊的經驗塑造\n\nAnalytics for smart tourism experience\n\nTravel Demand Analytics\n\n7\n\nAnalytics in Everyday Life and Travel\n\n8\n\nTourism Geoanalytics\n\n9\n\nWeb and Social Media Analytics\n\n10\n\n \n\nCase 2\n\n11\n\n智慧旅遊產業的建構要素\n\nBusiness foundations of smart tourism\n\n[Internet Marketing Communication of Destination Management Organizations](https://link.springer.com/chapter/10.1007/978-3-030-03910-3_22)\n\n12\n\nOnline Customer’s Perceived Service Quality and Purchase Intentions\n\n13\n\n Smart tourism ecosystems\n\n14\n\nSmart tourism specialization and sustainable regional development\n\n15\n\nThe policy on smart tourism\n\n16\n\n參訪\n\n \n\n17\n\n期末專題報告(彈性課程）\n\n \n\n18\n\n期末專題報告（彈性課程）",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "講述智慧旅遊的發展、重要議題、需要突破的困境與未來展望"
+        },
+        {
+            "type": "討論法",
+            "note": "將課程中的重要議題提出與學生分組討論"
+        },
+        {
+            "type": "實地考察、參訪",
+            "note": "參訪國內外智慧旅遊基地"
+        },
+        {
+            "type": "專題研究",
+            "note": "旅遊業的科技需求評估\n智慧旅遊情境塑造與遊憩體驗"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 20,
+            "note": "課程活動（演講、參訪）記錄與報告"
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 15,
+            "note": "課堂議題討論與上課參與程度"
+        },
+        {
+            "type": "出席",
+            "weight": 15,
+            "note": "文獻導讀回應"
+        },
+        {
+            "type": "報告",
+            "weight": 20,
+            "note": "文獻導讀與書報討論"
+        },
+        {
+            "type": "專題",
+            "weight": 30,
+            "note": "期末專題口頭與書面報告"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

@@ -1,0 +1,71 @@
+{
+    "year": 110,
+    "term": 1,
+    "name": "應用生物力學研究",
+    "teachers": [
+        "林德嘉"
+    ],
+    "department": "AM30",
+    "code": "PEC0128",
+    "credit": 3,
+    "serial": 33,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 1,
+            "from": 2,
+            "to": 4,
+            "campus": "公館",
+            "classroom": "研002"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "Through the study of the general theory and its application in Newtonian mechanics to solve Biomechanical problems.",
+    "goals": [
+        "Through the study of the general theory and its application in Newtonian mechanics to solve Biomechanical problems."
+    ],
+    "syllabus": "1.Motion in a plane and a general three dimension.  \n  \n2.A general vectorial development of the dynamics of a single particle and of systems of particles is given in discussion.  \n  \n3.The Kinematics and dynamics of rigid bodies with particular emphasis upon rotational motion in three dimensions .",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": ""
+        },
+        {
+            "type": "專題研究",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "課堂討論參與",
+            "weight": 40,
+            "note": ""
+        },
+        {
+            "type": "報告",
+            "weight": 40,
+            "note": ""
+        },
+        {
+            "type": "其他",
+            "weight": 20,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

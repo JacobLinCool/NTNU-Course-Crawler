@@ -1,0 +1,1418 @@
+[
+    {
+        "year": 107,
+        "term": 2,
+        "name": "教育統計學（一）",
+        "teachers": [
+            "余穎麒"
+        ],
+        "department": "E",
+        "code": "E0U0001",
+        "credit": 2,
+        "serial": 355,
+        "group": "A",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 8,
+                "to": 9,
+                "campus": "本部",
+                "classroom": "樸301"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "教育統計學（一）",
+        "teachers": [
+            "謝建成"
+        ],
+        "department": "E",
+        "code": "E0U0001",
+        "credit": 2,
+        "serial": 356,
+        "group": "B",
+        "quota": {
+            "limit": 30,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 3,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "教室自排"
+            }
+        ],
+        "programs": [],
+        "comment": "上課教室：圖資所研討A教室    須自備筆電",
+        "restrict": "",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "教育統計學（二）",
+        "teachers": [
+            "郭郡羽"
+        ],
+        "department": "E",
+        "code": "E0U0002",
+        "credit": 2,
+        "serial": 357,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 5,
+                "from": 9,
+                "to": 10,
+                "campus": "本部",
+                "classroom": "誠207"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎必須先修過【E0U0001  教育統計學（一）】",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "教育統計學（二）",
+        "teachers": [
+            "盧雪梅"
+        ],
+        "department": "E",
+        "code": "E0U0002",
+        "credit": 2,
+        "serial": 358,
+        "group": "A",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 3,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "正301"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎限心輔系（學）選修◎必須先修過【E0U0001  教育統計學（一）】",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "教育統計學（二）",
+        "teachers": [
+            "吳清麟"
+        ],
+        "department": "E",
+        "code": "E0U0002",
+        "credit": 2,
+        "serial": 359,
+        "group": "B",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 3,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "特115"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎限特教系（學）選修◎必須先修過【E0U0001  教育統計學（一）】",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "教育統計學（二）",
+        "teachers": [
+            "吳清麟"
+        ],
+        "department": "E",
+        "code": "E0U0002",
+        "credit": 2,
+        "serial": 360,
+        "group": "C",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 9,
+                "to": 10,
+                "campus": "本部",
+                "classroom": "誠207"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎限學習科學學位學程（學選修◎必須先修過【E0U0001  教育統計學（一）】",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "社區高齡者服務實習",
+        "teachers": [
+            "李育齊"
+        ],
+        "department": "E",
+        "code": "E0U0006",
+        "credit": 2,
+        "serial": 4328,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 16,
+                "to": 10,
+                "campus": "本部",
+                "classroom": "誠105"
+            }
+        ],
+        "programs": [
+            "高齡學程"
+        ],
+        "comment": "◎進階服務學習",
+        "restrict": "",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "產業實習",
+        "teachers": [
+            "郭鐘隆"
+        ],
+        "department": "E",
+        "code": "E0C9001",
+        "credit": 2,
+        "serial": 367,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 16,
+                "to": 10,
+                "campus": "本部",
+                "classroom": "誠602"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎限大三大四 ◎限碩一碩二碩三以上◎限博一博二博三博四博五以上修習",
+        "form_s": "",
+        "classes": "9",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "預防保健服務與實務",
+        "teachers": [
+            "李子奇"
+        ],
+        "department": "EU05",
+        "code": "HEC9003",
+        "credit": 3,
+        "serial": 739,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 6,
+                "to": 8,
+                "campus": "本部",
+                "classroom": "誠208"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎必須先修過(也可以同時修)【HEU0156  健康促進與衛生教育導論】、【HEU0011  個人衛生】",
+        "form_s": "",
+        "classes": "9",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "醫療服務與健康保險",
+        "teachers": [
+            "張芳維"
+        ],
+        "department": "EU05",
+        "code": "HEC9004",
+        "credit": 2,
+        "serial": 740,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 5,
+                "from": 3,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "誠106"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "",
+        "classes": "9",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "個人衛生",
+        "teachers": [
+            "張鳳琴"
+        ],
+        "department": "EU05",
+        "code": "HEU0011",
+        "credit": 2,
+        "serial": 741,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 3,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "誠106"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎必須先修過(也可以同時修)【HEU0156  健康促進與衛生教育導論】",
+        "form_s": "1",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "急救",
+        "teachers": [
+            "王國川"
+        ],
+        "department": "EU05",
+        "code": "HEU0074",
+        "credit": 2,
+        "serial": 742,
+        "group": "A",
+        "quota": {
+            "limit": 30,
+            "additional": 1
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 6,
+                "to": 7,
+                "campus": "本部",
+                "classroom": "誠504"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎必須先修過(也可以同時修)【HEU0156  健康促進與衛生教育導論】、【HEU0011  個人衛生】",
+        "form_s": "1",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "急救",
+        "teachers": [
+            "王國川"
+        ],
+        "department": "EU05",
+        "code": "HEU0074",
+        "credit": 2,
+        "serial": 743,
+        "group": "B",
+        "quota": {
+            "limit": 30,
+            "additional": 11
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 8,
+                "to": 9,
+                "campus": "本部",
+                "classroom": "誠504"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎必須先修過(也可以同時修)【HEU0156  健康促進與衛生教育導論】、【HEU0011  個人衛生】",
+        "form_s": "1",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "安全教育",
+        "teachers": [
+            "王國川"
+        ],
+        "department": "EU05",
+        "code": "HEU0075",
+        "credit": 2,
+        "serial": 744,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 8,
+                "to": 9,
+                "campus": "本部",
+                "classroom": "誠106"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎必須先修過(也可以同時修)【HEU0156  健康促進與衛生教育導論】、【HEU0011  個人衛生】",
+        "form_s": "1",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "環境科學概論",
+        "teachers": [
+            "曾治乾"
+        ],
+        "department": "EU05",
+        "code": "HEU0136",
+        "credit": 2,
+        "serial": 745,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 3,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "誠106"
+            }
+        ],
+        "programs": [
+            "空間學程"
+        ],
+        "comment": "",
+        "restrict": "",
+        "form_s": "1",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "健康管理概論",
+        "teachers": [
+            "廖邕"
+        ],
+        "department": "EU05",
+        "code": "HEU0139",
+        "credit": 2,
+        "serial": 746,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 6,
+                "to": 7,
+                "campus": "本部",
+                "classroom": "誠106"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "1",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "醫務管理概論",
+        "teachers": [
+            "張芳維"
+        ],
+        "department": "EU05",
+        "code": "HEU0154",
+        "credit": 2,
+        "serial": 747,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 5,
+                "from": 1,
+                "to": 2,
+                "campus": "本部",
+                "classroom": "誠106"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "1",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "環境規劃與管理",
+        "teachers": [
+            "曾治乾"
+        ],
+        "department": "EU05",
+        "code": "HEU0164",
+        "credit": 3,
+        "serial": 748,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 6,
+                "to": 8,
+                "campus": "本部",
+                "classroom": "誠106"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "1",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "生物統計學",
+        "teachers": [
+            "李子奇"
+        ],
+        "department": "EU05",
+        "code": "HEU0181",
+        "credit": 3,
+        "serial": 749,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 2,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "誠106"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎必須先修過(也可以同時修)【HEU0156  健康促進與衛生教育導論】、【HEU0011  個人衛生】",
+        "form_s": "1",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "微生物學實驗",
+        "teachers": [
+            "李明忠"
+        ],
+        "department": "EU05",
+        "code": "HEU0010",
+        "credit": 1,
+        "serial": 750,
+        "group": "A",
+        "quota": {
+            "limit": 30,
+            "additional": 1
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 6,
+                "to": 8,
+                "campus": "公館",
+                "classroom": "Ｄ203"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎必須先修過(也可以同時修)【HEU0156  健康促進與衛生教育導論】、【HEU0011  個人衛生】",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "微生物學實驗",
+        "teachers": [
+            "李明忠"
+        ],
+        "department": "EU05",
+        "code": "HEU0010",
+        "credit": 1,
+        "serial": 751,
+        "group": "B",
+        "quota": {
+            "limit": 30,
+            "additional": 1
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 9,
+                "to": 10,
+                "campus": "公館",
+                "classroom": "Ｄ203"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎必須先修過(也可以同時修)【HEU0156  健康促進與衛生教育導論】、【HEU0011  個人衛生】",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "營養學",
+        "teachers": [
+            "劉貴雲"
+        ],
+        "department": "EU05",
+        "code": "HEU0012",
+        "credit": 2,
+        "serial": 752,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 3,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "誠105"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎必須先修過(也可以同時修)【HEU0156  健康促進與衛生教育導論】、【HEU0011  個人衛生】",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "學校衛生",
+        "teachers": [
+            "胡益進"
+        ],
+        "department": "EU05",
+        "code": "HEU0019",
+        "credit": 3,
+        "serial": 753,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 5,
+                "from": 2,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "誠105"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎必須先修過(也可以同時修)【HEU0156  健康促進與衛生教育導論】、【HEU0011  個人衛生】",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "學校衛生實習",
+        "teachers": [
+            "陳政友"
+        ],
+        "department": "EU05",
+        "code": "HEU0020",
+        "credit": 2,
+        "serial": 754,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 5,
+                "from": 5,
+                "to": 8,
+                "campus": "本部",
+                "classroom": "誠105"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎必須先修過(也可以同時修)【HEU0156  健康促進與衛生教育導論】、【HEU0011  個人衛生】",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "職業衛生",
+        "teachers": [
+            "董貞吟"
+        ],
+        "department": "EU05",
+        "code": "HEU0053",
+        "credit": 3,
+        "serial": 755,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 6,
+                "to": 8,
+                "campus": "本部",
+                "classroom": "誠105"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎必須先修過(也可以同時修)【HEU0156  健康促進與衛生教育導論】、【HEU0011  個人衛生】",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "健康傳播導論",
+        "teachers": [
+            "李錟鋒"
+        ],
+        "department": "EU05",
+        "code": "HEU0118",
+        "credit": 2,
+        "serial": 756,
+        "group": "",
+        "quota": {
+            "limit": 26,
+            "additional": 4
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 16,
+                "to": 10,
+                "campus": "本部",
+                "classroom": "教404"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎必須先修過(也可以同時修)【HEU0156  健康促進與衛生教育導論】、【HEU0011  個人衛生】",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "校園安全與管理",
+        "teachers": [
+            "高松景"
+        ],
+        "department": "EU05",
+        "code": "HEU0128",
+        "credit": 2,
+        "serial": 3195,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 1,
+                "to": 2,
+                "campus": "本部",
+                "classroom": "正104"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "健康與體育概論",
+        "teachers": [
+            "廖邕",
+            "陳信亨"
+        ],
+        "department": "EU05",
+        "code": "HEU0138",
+        "credit": 2,
+        "serial": 757,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 8,
+                "to": 9,
+                "campus": "本部",
+                "classroom": "誠105"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎必須先修過(也可以同時修)【HEU0156  健康促進與衛生教育導論】、【HEU0011  個人衛生】",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "健康生活技能理論與實務",
+        "teachers": [
+            "張晏蓉"
+        ],
+        "department": "EU05",
+        "code": "HEU0148",
+        "credit": 2,
+        "serial": 758,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 8,
+                "to": 9,
+                "campus": "本部",
+                "classroom": "誠205"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎必須先修過(也可以同時修)【HEU0156  健康促進與衛生教育導論】、【HEU0011  個人衛生】",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "人類發展與健康促進",
+        "teachers": [
+            "賴香如"
+        ],
+        "department": "EU05",
+        "code": "HEU0149",
+        "credit": 2,
+        "serial": 759,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 6,
+                "to": 7,
+                "campus": "本部",
+                "classroom": "誠105"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "針灸按摩與健康促進",
+        "teachers": [
+            "曹偉"
+        ],
+        "department": "EU05",
+        "code": "HEU0184",
+        "credit": 2,
+        "serial": 760,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 6,
+                "to": 7,
+                "campus": "本部",
+                "classroom": "誠106"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎必須先修過(也可以同時修)【HEU0156  健康促進與衛生教育導論】、【HEU0011  個人衛生】",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "心理衛生",
+        "teachers": [
+            "李思賢"
+        ],
+        "department": "EU05",
+        "code": "HEU0021",
+        "credit": 2,
+        "serial": 761,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 3,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "正104"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎必須先修過(也可以同時修)【HEU0156  健康促進與衛生教育導論】、【HEU0011  個人衛生】",
+        "form_s": "3",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "公共衛生教育",
+        "teachers": [
+            "吳文琪"
+        ],
+        "department": "EU05",
+        "code": "HEU0028",
+        "credit": 3,
+        "serial": 762,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 6,
+                "to": 8,
+                "campus": "本部",
+                "classroom": "誠105"
+            }
+        ],
+        "programs": [
+            "空間學程"
+        ],
+        "comment": "",
+        "restrict": "◎必須先修過(也可以同時修)【HEU0156  健康促進與衛生教育導論】、【HEU0011  個人衛生】",
+        "form_s": "3",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "學校衛生行政與評鑑",
+        "teachers": [
+            "高松景"
+        ],
+        "department": "EU05",
+        "code": "HEU0067",
+        "credit": 2,
+        "serial": 763,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 8,
+                "to": 9,
+                "campus": "本部",
+                "classroom": "誠105"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "3",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "青少年健康行為與問題",
+        "teachers": [
+            "高松景"
+        ],
+        "department": "EU05",
+        "code": "HEU0070",
+        "credit": 2,
+        "serial": 764,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 8,
+                "to": 9,
+                "campus": "本部",
+                "classroom": "誠106"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "3",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "學校健康環境專題研討",
+        "teachers": [
+            "曾治乾"
+        ],
+        "department": "EU05",
+        "code": "HEU0129",
+        "credit": 2,
+        "serial": 765,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 6,
+                "to": 7,
+                "campus": "本部",
+                "classroom": "誠106"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "3",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "中醫保健概論",
+        "teachers": [
+            "曹偉"
+        ],
+        "department": "EU05",
+        "code": "HEU0133",
+        "credit": 2,
+        "serial": 766,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 5,
+                "from": 6,
+                "to": 7,
+                "campus": "本部",
+                "classroom": "誠106"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎必須先修過(也可以同時修)【HEU0156  健康促進與衛生教育導論】、【HEU0011  個人衛生】",
+        "form_s": "3",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "健康傳播媒體計畫與實施",
+        "teachers": [
+            "李錟鋒"
+        ],
+        "department": "EU05",
+        "code": "HEU0134",
+        "credit": 2,
+        "serial": 767,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 5
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 11,
+                "to": 12,
+                "campus": "本部",
+                "classroom": "教402"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "3",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "健康教育（健康與護理）課程設計",
+        "teachers": [
+            "高松景"
+        ],
+        "department": "EU05",
+        "code": "HEU0176",
+        "credit": 2,
+        "serial": 768,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 3,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "正104"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎必須先修過(也可以同時修)【HEU0156  健康促進與衛生教育導論】、【HEU0011  個人衛生】",
+        "form_s": "3",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "職場健康促進",
+        "teachers": [
+            "董貞吟"
+        ],
+        "department": "EU05",
+        "code": "HEU0178",
+        "credit": 2,
+        "serial": 769,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 6,
+                "to": 7,
+                "campus": "本部",
+                "classroom": "誠105"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎必須先修過(也可以同時修)【HEU0156  健康促進與衛生教育導論】、【HEU0011  個人衛生】",
+        "form_s": "3",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "健康教育（健康與護理）教學實習（教）",
+        "teachers": [
+            "劉潔心",
+            "張晏蓉"
+        ],
+        "department": "EU05",
+        "code": "HEUE110",
+        "credit": 2,
+        "serial": 770,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 5,
+                "from": 1,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "誠602"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎必須先修過(也可以同時修)【HEU0156  健康促進與衛生教育導論】、【HEU0011  個人衛生】",
+        "form_s": "3",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "統計軟體在資料分析上之應用",
+        "teachers": [
+            "張晏蓉"
+        ],
+        "department": "EU05",
+        "code": "HEU0141",
+        "credit": 2,
+        "serial": 771,
+        "group": "",
+        "quota": {
+            "limit": 33,
+            "additional": 5
+        },
+        "schedule": [
+            {
+                "day": 5,
+                "from": 8,
+                "to": 9,
+                "campus": "本部",
+                "classroom": "教403"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "4",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "衛生管理實務",
+        "teachers": [
+            "曾治乾"
+        ],
+        "department": "EU05",
+        "code": "HEU0183",
+        "credit": 3,
+        "serial": 772,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 2,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "誠105"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "4",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "運動心理學",
+        "teachers": [
+            "洪聰敏"
+        ],
+        "department": "EU05",
+        "code": "PEU0007",
+        "credit": 2,
+        "serial": 773,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 8,
+                "to": 9,
+                "campus": "本部",
+                "classroom": "正201"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "4",
+        "classes": "",
+        "dept_group": ""
+    }
+]

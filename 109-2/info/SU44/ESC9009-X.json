@@ -1,0 +1,89 @@
+{
+    "year": 109,
+    "term": 2,
+    "name": "野外地質學（含實習）",
+    "teachers": [
+        "葉恩肇"
+    ],
+    "department": "SU44",
+    "code": "ESC9009",
+    "credit": 3,
+    "serial": 2945,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 1,
+            "from": 2,
+            "to": 4,
+            "campus": "公館",
+            "classroom": "Ｃ401"
+        }
+    ],
+    "programs": [
+        "環境監測學程"
+    ],
+    "comment": "中階以上課程，適合大三以上學生修習，以作為探究研究所之先修課程，同時也開放碩士班無此課程基礎之學生選修。",
+    "restrict": "",
+    "form_s": "",
+    "classes": "9",
+    "dept_group": "",
+    "hours": 3,
+    "description": "讓學生熟悉野外地質調查的技術與方法，訓練學生能夠從事野外地質調查，繪製地質圖並撰寫報告。",
+    "goals": [
+        "瞭解野外地質調查的技術與方法",
+        "訓練規劃野外調查事前準備工作",
+        "學習野外調查工具與正確使用方式與實地調查",
+        "訓練繪製地質圖並撰寫報告"
+    ],
+    "syllabus": "1.  野外地質介紹，野外調查之事前準備，地形圖（Lab01座標系統）\n\n2.  地表地質調查，野外測量與儀器（Lab02 尺寸測量）\n\n3.  （Lab03路線圖實習）\n\n4.  野帳本記錄（Lab04位態量測）\n\n5.  (Lab05儀器施測）\n\n6.  航照地質（Lab06立體鏡實習）\n\n7.  野外考察（Lab08臺灣地形作業）\n\n8.  沈積岩製圖（Lab07地層柱）\n\n9.  （Lab09路線地質圖）\n\n10.  地層畫分與對比（Lab10斷層分布）\n\n11.  火成岩製圖（Lab11沉積構造）\n\n12.  構造製圖&變質岩製圖（Lab12露頭分布）\n\n13.  地質圖和地質剖面圖（Lab13地質圖判讀）\n\n14.  調查報告的編寫（Lab14赤平投影圖基礎）\n\n15.  （Lab15赤平投影圖進階）\n\n16.  繳交Lab16期末報告，礦產探勘、採礦地質與採樣（自主學習）\n\n17.  地球化學探勘（自主學習）\n\n18\\. 地球物理探勘（自主學習）\n\n1\\. Intro. Preparation, Topography（Lab01 Projection System）\n\n2\\. SurfaceGeol. & FieldSurvey (Lab02 Eye&Pacing Measurement)\n\n3\\. (Lab03 Route Mapping )\n\n4\\. Field Book Notation（Lab04 Attitude Measurement）\n\n5\\. (Lab05 Instrument Survey)\n\n6\\. AerialGeolMap（Lab06 Stereoscope）\n\n7\\. Trip （Lab8TaiwanTopo）\n\n8\\. Sedi.Rock（Lab07 LithoColumn）\n\n9\\. （Lab5 Geol. Route Mapping）\n\n10\\. Stratigraphy&Correlation (Lab10 Fault Distribution)\n\n11\\. Ig. Rock (Lab11 Sedi.Structure)\n\n12\\. Meta.Rock &Structures(Lab12 Outcrop Trace)\n\n13\\. Geol.Map&CrossSection(Lab13 Geol.Map)\n\n14\\. Reporting(Lab14 Stereonet Basic)\n\n15\\. (Lab15 Stereonet Advan)\n\n16\\. Submit Lab16 FinalReport & Economic Geol. Expl. (self-learning)\n\n17\\. Geochem.Exploration (self-learning)\n\n18\\. Geophy.Exploration (self-learning)",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "以教材闡述地質調查之技術與方法"
+        },
+        {
+            "type": "問題解決教學",
+            "note": "交予事前規劃工作，訓練各組思考規劃能力"
+        },
+        {
+            "type": "合作學習",
+            "note": "分組合作進行野外調查"
+        },
+        {
+            "type": "實驗/實作",
+            "note": "室內作業訓練"
+        },
+        {
+            "type": "實地考察、參訪",
+            "note": "利用野外考察加強課程內容(給核實地學習時數4小時)"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 60,
+            "note": ""
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 5,
+            "note": ""
+        },
+        {
+            "type": "出席",
+            "weight": 5,
+            "note": ""
+        },
+        {
+            "type": "專題",
+            "weight": 30,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

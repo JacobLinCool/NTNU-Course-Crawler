@@ -1,0 +1,88 @@
+{
+    "year": 108,
+    "term": 2,
+    "name": "物理化學－量子化學",
+    "teachers": [
+        "王禎翰"
+    ],
+    "department": "SU42",
+    "code": "CMU0182",
+    "credit": 3,
+    "serial": 2792,
+    "group": "",
+    "quota": {
+        "limit": 100,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 5,
+            "to": 7,
+            "campus": "公館",
+            "classroom": "Ｅ302"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "2",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "The objective of this course is to introduce the fundamental theory in quantum chemistry.",
+    "goals": [
+        "To provide students with a solid background in the fields of quantum theory, motions, atomic structure, atomic and molecular spectra."
+    ],
+    "syllabus": "Teaching schedule will be following:\n\n1~2nd weeks: Quantum Theory: introduction and principles\n\n3~4th weeks: Quantum Theory: techniques and applications, including translational motion, vibrational motion, and rotational motion.\n\n5~7th weeks: Atomic structure and atomic spectra, including spectra of hydrogen atoms,structures of many-electron atoms, spectra of complex atoms.\n\n8~9th weeks: Molecular struture and molecular orbital theory\n\n10~12th weeks: Applications to molecular orbital theory and spectroscopy\n\n13~15th weeks: Molecular spectroscopy 1: rotational and vibration spectra, including microwave, Infrared, and Roman spectra.\n\n16~18th weeks: Molecular spectroscopy 2: electronic transitions",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "The course will be provided with lectures every week from the beginning of the semester till the end, and there will be homework assignment every week."
+        },
+        {
+            "type": "討論法",
+            "note": "There will be discussion by asking questions during each lecture"
+        },
+        {
+            "type": "問題解決教學",
+            "note": "There will be homework discussion in one hour class every two weeks, in which the students will be asked to provide their answer in front of the class, and will be asked why and then explain"
+        },
+        {
+            "type": "合作學習",
+            "note": "The students are assigned in groups to do the homework and discuss the homework together, and present their group answer in front of the class, and will be asked why and then explain, from which they get the group merits together."
+        },
+        {
+            "type": "實驗/實作",
+            "note": ""
+        },
+        {
+            "type": "其他",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 20,
+            "note": "Homework assignment will be credited 20%"
+        },
+        {
+            "type": "期中考",
+            "weight": 50,
+            "note": "There will be two mid-term exams, 25% each."
+        },
+        {
+            "type": "期末考",
+            "weight": 25,
+            "note": "Final exam 25%"
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 5,
+            "note": "The students will be merited maximum 5% for asking questions, answering questions in the classes."
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

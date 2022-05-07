@@ -1,0 +1,88 @@
+{
+    "year": 110,
+    "term": 1,
+    "name": "體育",
+    "teachers": [
+        "林雯雯"
+    ],
+    "department": "SU43",
+    "code": "00UP001",
+    "credit": 1,
+    "serial": 2981,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 4,
+            "from": 3,
+            "to": 4,
+            "campus": "公館",
+            "classroom": "操場二"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "允許重複修",
+    "form_s": "1",
+    "classes": "2",
+    "dept_group": "",
+    "hours": 2,
+    "description": "體適能知能學習與檢測\n體驗各項運動\n參與術科操作與評量\n參與分組練習與討論\n學習體育常識與運動規則",
+    "goals": [
+        "了解運動與健康之關係",
+        "了解相關運動知識與規則",
+        "學習相關的運動技能",
+        "提升運動參與興趣，培養良好運動習慣"
+    ],
+    "syllabus": "週次\n\n上課內容\n\n1\n\n說明課程內容、授課方式採(16+2週)、\n\n場地介紹、基本體能\n\n2\n\n重量訓練\n\n3\n\n重量訓練\n\n4\n\n重量訓練\n\n5\n\n體適能測驗\n\n6\n\n重量訓練\n\n7\n\n重量訓練檢測\n\n8\n\n基本體能、起跑\n\n9\n\n基本體能、接力\n\n10\n\n基本體能、接力\n\n11\n\n基本體能、跳遠\n\n12\n\n排球\n\n13\n\n排球\n\n14\n\n排球\n\n15\n\n排球\n\n16\n\n排球測驗\n\n17\n\n排球測驗\n\n18\n\n期末報告繳交",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "講述課堂重點及動作要領"
+        },
+        {
+            "type": "討論法",
+            "note": "組內討論、觀摩、回饋"
+        },
+        {
+            "type": "合作學習",
+            "note": "透過分組讓學生相互指導及修正"
+        },
+        {
+            "type": "實驗/實作",
+            "note": "動作反覆實際操作"
+        }
+    ],
+    "grading": [
+        {
+            "type": "期中考",
+            "weight": 20,
+            "note": "重量訓練測驗、運動會參賽狀況"
+        },
+        {
+            "type": "期末考",
+            "weight": 20,
+            "note": "排球測驗"
+        },
+        {
+            "type": "出席",
+            "weight": 40,
+            "note": "整學期可請假兩次,曠課一次扣學期總成績兩分"
+        },
+        {
+            "type": "報告",
+            "weight": 10,
+            "note": "期末報告"
+        },
+        {
+            "type": "其他",
+            "weight": 10,
+            "note": "上課參與狀況"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

@@ -1,0 +1,66 @@
+[
+    {
+        "year": 110,
+        "term": 2,
+        "name": "人文領導",
+        "teachers": [
+            "李弘暉"
+        ],
+        "department": "O",
+        "code": "O5M0005",
+        "credit": 3,
+        "serial": 2404,
+        "group": "",
+        "quota": {
+            "limit": 30,
+            "additional": 5
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 10,
+                "to": 12,
+                "campus": "本部",
+                "classroom": "誠205"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎課程開放上修",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 2,
+        "name": "亞洲管理實務專題",
+        "teachers": [
+            "鄭名道"
+        ],
+        "department": "O",
+        "code": "O5M0006",
+        "credit": 3,
+        "serial": 2405,
+        "group": "",
+        "quota": {
+            "limit": 30,
+            "additional": 5
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 6,
+                "to": 8,
+                "campus": "本部",
+                "classroom": "雲508"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎課程開放上修",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    }
+]

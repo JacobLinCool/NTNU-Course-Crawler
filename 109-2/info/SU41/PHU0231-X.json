@@ -1,0 +1,66 @@
+{
+    "year": 109,
+    "term": 2,
+    "name": "力學（二）",
+    "teachers": [
+        "江府峻"
+    ],
+    "department": "SU41",
+    "code": "PHU0231",
+    "credit": 3,
+    "serial": 2841,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 7,
+            "to": 9,
+            "campus": "公館",
+            "classroom": "理圖001"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "2",
+    "classes": "2",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程提供物理系大學部理論力學一般的題材。",
+    "goals": [
+        "培養學生物理的歸納及推演能力",
+        "訓練學生解析的計算能力",
+        "令學生了解力學的發展歷史",
+        "使學生注意最新的發展"
+    ],
+    "syllabus": "    We will follow closely the topics in the book \"Classical dynamics of particles and systems\" by Marion and Thornton (M & Th)\n\nWeeks 1: Continuation of Lagrangian and Hamiltonian formulations of Mechanics (Chapter 7 of M & Th).\n\nWeek 2: Continuation of Lagrangian and Hamiltonian formulations of Mechanics（Chapter 7 of M & Th);  Central force (Chapter 8 of M & Th). \n\nWeeks 3, 4: Central force (Chapter 8 of M & Th).\n\nWeeks 5, 6: Dynamics of system of particles (Chapter 9 of M & Th).\n\nWeeks 7, 8: Motion in a non-inertial reference frame (Chapter 10 of M &Th) \n\nWeek 9: Midterm exam; Date is subject to change.\n\nWeeks 10, 11, 12: Dynamics of rigid body (Chapter 11 of M & Th).\n\nWeeks 13 an 14: Coupled oscillation 1 (Chapter 12 of M & Th).\n\nWeeks 15 and 16: Wave (Chapter 13 of M & Th).\n\nWeeks 17: Final exam.\n\nRemaining weeks: Assignments (自主學習) --> Special relativity (Chapter 14 of M & Th).",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "期中考",
+            "weight": 40,
+            "note": "There will be one midterm exam."
+        },
+        {
+            "type": "期末考",
+            "weight": 40,
+            "note": "There will be one final exam."
+        },
+        {
+            "type": "其他",
+            "weight": 20,
+            "note": "In class quizzes"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

@@ -1,0 +1,68 @@
+{
+    "year": 108,
+    "term": 1,
+    "name": "認知心理學實驗技術",
+    "teachers": [
+        "許禕芳"
+    ],
+    "department": "EM01",
+    "code": "PCC0071",
+    "credit": 3,
+    "serial": 431,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 3,
+            "from": 2,
+            "to": 4,
+            "campus": "本部",
+            "classroom": "教500"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程不開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程旨在介紹如何使用套裝軟體撰寫電腦化的認知心理學實驗程式，並幫助初學者設計、紀錄、與分析腦電波資料。課程進行方式包含教師講授、學生報告、與實驗操作。",
+    "goals": [
+        "具備實驗儀器的知識及操作能",
+        "能以儀器研究人類的心理",
+        "了解國際先進的設備"
+    ],
+    "syllabus": "1.  (11SEP)：    Introduction\n2.  (18SEP)：    E-prime introduction and hands-on session 1\n3.  (25SEP)：    E-prime introduction and hands-on session 2\n4.  (02OCT)：   E-prime programme 1\\*\n5.  (09OCT)：   E-prime programme 2\\*\n6.  (16OCT)：   Behavioural data collection\n7.  (23OCT)：   E-prime data analysis 1\\*\n8.  (30OCT)：   E-prime data analysis 2\\*\n9.  (06NOV)：  EEG data acquisition demonstration\n10.  (13NOV)：  Introduction to the ERP Technique 1\\*\n11.  (20NOV)：  Introduction to the ERP Technique 2\\*\n12.  (27NOV)：  EEG data collection\n13.  (04DEC)：   EEG data collection\n14.  (11DEC)：   EEGLAB introduction and hands-on session 1\n15.  (18DEC)：   EEGLAB introduction and hands-on session 2\n16.  (25DEC)：   Critical evaluation of published studies\\*\n17.  (01JAN)：   Holiday\n18.  (08JAN)：   Final exam week",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": ""
+        },
+        {
+            "type": "實驗/實作",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "出席",
+            "weight": 20,
+            "note": "Active attendance"
+        },
+        {
+            "type": "報告",
+            "weight": 80,
+            "note": "E-prime programme (20%), E-prime data analysis (20%), introduction to the ERP technique (20%), critical evaluation of published studies (20%)"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

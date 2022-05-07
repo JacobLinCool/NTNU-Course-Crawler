@@ -1,0 +1,98 @@
+{
+    "year": 110,
+    "term": 1,
+    "name": "線上課程設計",
+    "teachers": [
+        "張欣怡"
+    ],
+    "department": "EU11",
+    "code": "LSU0020",
+    "credit": 3,
+    "serial": 909,
+    "group": "",
+    "quota": {
+        "limit": 45,
+        "additional": 3
+    },
+    "schedule": [
+        {
+            "day": 3,
+            "from": 6,
+            "to": 8,
+            "campus": "本部",
+            "classroom": "誠106"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "",
+    "goals": [
+        "促使學生深入理解知識整合與相關教學理論，並獲得設計線上課程與評量之能力。"
+    ],
+    "syllabus": "【授課方式：16+2週】授課16週＋2週彈性教學（第17、18週）\n---------------------------------\n\n### \\*若遇停課措施：\n\n*   以同步或非同步線上授課方式，授課資料將置於教學平台，同學閱讀並進行線上討論、評量或回應。\n\n本課程將涵蓋以下主題：\n\n\\- 線上課程設計的理論與觀點\n\n\\- 線上課程的國際趨勢\n\n\\- 國內外知名線上課程平台介紹與評析\n\n\\- 促進線上學習的學習動機與學習投入\n\n\\-  融入多元與創新科技的線上課程設計\n\n\\-  分科線上課程設計與實作\n\n\\-  不同教育層級的線上課程設計與實作\n\n\\-  評估線上課程對學習的成效",
+    "methodologies": [
+        {
+            "type": "Formal lecture",
+            "note": ""
+        },
+        {
+            "type": "Group discussion",
+            "note": ""
+        },
+        {
+            "type": "Problem base learning",
+            "note": ""
+        },
+        {
+            "type": "Cooperative learning",
+            "note": ""
+        },
+        {
+            "type": "Lab/Studio",
+            "note": ""
+        },
+        {
+            "type": "Media, audio, visual materials",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "Assignments",
+            "weight": 40,
+            "note": "隨堂、課前、或課後作業"
+        },
+        {
+            "type": "Class discussion involvement",
+            "weight": 25,
+            "note": "於課堂上積極參與相關議題的討論"
+        },
+        {
+            "type": "Attendances",
+            "weight": 10,
+            "note": "出席為本課程基本要求"
+        },
+        {
+            "type": "Presentation",
+            "weight": 10,
+            "note": "線上課程評論報告"
+        },
+        {
+            "type": "Shows/ Exhibitions",
+            "weight": 5,
+            "note": "呈現期末專題進行成果展覽"
+        },
+        {
+            "type": "Case study reports",
+            "weight": 10,
+            "note": "線上課程設計專題"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

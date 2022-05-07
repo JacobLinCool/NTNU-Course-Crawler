@@ -1,0 +1,112 @@
+{
+    "year": 108,
+    "term": 2,
+    "name": "電腦教材設計與發展",
+    "teachers": [
+        "林育慈"
+    ],
+    "department": "EM08",
+    "code": "ICC0075",
+    "credit": 3,
+    "serial": 473,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 3,
+            "from": 7,
+            "to": 9,
+            "campus": "本部",
+            "classroom": "教1004"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "The course provides students with the concepts and principles of designing and developing the instructional materials for computer courses. Students will be provided with the opportunity to examine both theories and practices in issues of instructional materials design. During the semester, students will have the opportunity to develop familiarity with designing instructional materials for various topics of computer courses, with considering different properties of various computer science subjects, from the aspects of education and psychology.",
+    "goals": [
+        "了解電腦科學教育之精神",
+        "了解電腦科學的課程設計原則",
+        "了解電腦科學各種教材設計所對應之教學法",
+        "了解電腦科學教材設計之教育理論",
+        "了解資訊科技融入電腦科學教育之教材設計方法",
+        "了解電腦科學之數位教材設計方法",
+        "了解電腦科學之數位學習系統設計方法",
+        "實作電腦科學教材設計",
+        "了解電腦科學各種教材設計所對應之教學法",
+        "10.　了解電腦科學各種教材設計所對應之教學法",
+        "11.　了解資訊科技融入電腦科學教育之教材設計方法",
+        "12.　了解電腦科學教育之精神",
+        "13.　了解資訊科技融入電腦科學教育之教材設計方法",
+        "14.　了解電腦科學各種教材設計所對應之教學法",
+        "15.　了解電腦科學之數位教材設計方法",
+        "16.　了解電腦科學教育之精神",
+        "17.　了解資訊科技融入電腦科學教育之教材設計方法",
+        "18.　了解電腦科學之數位教材設計方法",
+        "19.　了解電腦科學之數位學習系統設計方法"
+    ],
+    "syllabus": "*   Introduction & Systematic Modeling of Instructional Design\n*   Types of computer science knowledge  \n        Conceptual knowledge-what is conceptual knowledge\n*   Conceptual knowledge-teaching by examples and analogy\n*   Conceptual knowledge-teaching by argumentation\n*   Alternative conception-what is alternative conception\n*   Alternative conception-alternative conception detection\n*   Procedural knowledge-teaching\n*   Procedural knowledge-programming paradigm\n*   Strategic knowledge-problem solving\n*   Strategic knowledge-computational thinking\n*   Midterm report\n*   Questions & Assessment-performance evaluation\n*   Questions & Assessment-types of questions\n*   Questions & Assessment-development of assessment\n*   Design and Development of Instructional Materials for 108 CS Curriculum\n*   Final Project Presentation and Discussion",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": ""
+        },
+        {
+            "type": "合作學習",
+            "note": ""
+        },
+        {
+            "type": "實驗/實作",
+            "note": ""
+        },
+        {
+            "type": "媒體融入教學",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 10,
+            "note": ""
+        },
+        {
+            "type": "期中考",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 5,
+            "note": ""
+        },
+        {
+            "type": "出席",
+            "weight": 5,
+            "note": ""
+        },
+        {
+            "type": "報告",
+            "weight": 20,
+            "note": ""
+        },
+        {
+            "type": "專題",
+            "weight": 30,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

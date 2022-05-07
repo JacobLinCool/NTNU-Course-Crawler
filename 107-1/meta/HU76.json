@@ -1,0 +1,162 @@
+[
+    {
+        "year": 107,
+        "term": 1,
+        "name": "體育",
+        "teachers": [
+            "掌慶維"
+        ],
+        "department": "HU76",
+        "code": "00UP001",
+        "credit": 1,
+        "serial": 1337,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 1,
+                "to": 2,
+                "campus": "本部",
+                "classroom": "操場一"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "1",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 1,
+        "name": "能源科技概論",
+        "teachers": [
+            "呂有豐"
+        ],
+        "department": "HU76",
+        "code": "VEU0002",
+        "credit": 2,
+        "serial": 1338,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 3,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "教室自排"
+            }
+        ],
+        "programs": [],
+        "comment": "上課教室：汽車工廠2F(代碼：5611)",
+        "restrict": "",
+        "form_s": "1",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 1,
+        "name": "電子學（一）",
+        "teachers": [
+            "蘇崇彥"
+        ],
+        "department": "HU76",
+        "code": "VEU0007",
+        "credit": 3,
+        "serial": 1339,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 7,
+                "to": 9,
+                "campus": "本部",
+                "classroom": "工401"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "1",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 1,
+        "name": "電子學實驗",
+        "teachers": [
+            "張俊興"
+        ],
+        "department": "HU76",
+        "code": "VEU0008",
+        "credit": 2,
+        "serial": 1340,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 6,
+                "to": 9,
+                "campus": "本部",
+                "classroom": "電機系電子實驗室"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "1",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 1,
+        "name": "車輛基礎技術",
+        "teachers": [
+            "張俊興"
+        ],
+        "department": "HU76",
+        "code": "VEU0009",
+        "credit": 2,
+        "serial": 1341,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 2,
+                "to": 5,
+                "campus": "本部",
+                "classroom": "汽車場"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "1",
+        "classes": "",
+        "dept_group": ""
+    }
+]

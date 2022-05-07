@@ -1,0 +1,79 @@
+{
+    "year": 107,
+    "term": 1,
+    "name": "學校突發疫情的監測、調查、處理與預防",
+    "teachers": [
+        "江大雄"
+    ],
+    "department": "EM05",
+    "code": "HEC8008",
+    "credit": 3,
+    "serial": 454,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 10,
+            "to": 12,
+            "campus": "本部",
+            "classroom": "誠504"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "訓練學生能瞭解學校經常且突然發生的疫情(如傳染病、食品中毒等)，進而能針對學校特性，建立一套學校突發疫情的監測機制。同時在學校發生突發疫情時，能有系統的進行調查(瞭解疫情發生的規模和傳染模式)、控制和撲滅疫情。",
+    "goals": [
+        "訓練學生能瞭解學校經常且突然發生的疫情",
+        "訓練學生能針對學校特性，建立一套學校突發疫情的監測機制",
+        "訓練學生在學校發生突發疫情時，能有系統的進行調查，以瞭解疫情發生的規模和傳染模式",
+        "訓練學生在學校發生突發疫情時，能有系統的配合調查來處理、控制及撲滅疫情",
+        "訓練學生能建立防範學校發生突發疫情的措施"
+    ],
+    "syllabus": "**107****年第ㄧ學期每週課程主題及進度**\n\n**─** **課程介紹**\n\n**─ 台灣傳染病防治之回顧**\n\n**─** **流行病學基本原理**\n\n**─** **流行病學基本原理**\n\n**─** **學校常見突發群聚疫情的介紹**\n\n**─** **突發群聚疫情的監測**\n\n**─** **突發群聚疫情的調查方法**\n\n**─** **突發群聚疫情的調查方法**\n\n**─** **期中考試**\n\n**─** **突發群聚疫情的調查實例介紹**\n\n**─** **突發群聚疫情的調查實例介紹**\n\n**─ 生物統計學基本原理**\n\n**─** **生物統計學基本原理**\n\n**─** **突發群聚疫情的資料****輸入與分析****(統計軟體Epi-Info 7.2)**\n\n**─** **突發群聚疫情的資料****輸入與分析****(統計軟體Epi-Info 7.2)**\n\n**─** **突發群聚疫情的實例演練**\n\n**─** **突發群聚疫情的處理與預防**\n\n**─** **期末****考試**",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "Instructing basic knowledge and analysis ability (including to learn a statistical software Epi-Info 7.5.1. for data analysis)"
+        },
+        {
+            "type": "問題解決教學",
+            "note": "Doing case studies to apply knowledge learning from the lectures"
+        },
+        {
+            "type": "實驗/實作",
+            "note": "three course exercises and one final assignment/searcjing for reference papers through MEDLINE"
+        },
+        {
+            "type": "專題研究",
+            "note": "Using practical problems as subjects of case studies"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 30,
+            "note": "課堂練習作業3"
+        },
+        {
+            "type": "期中考",
+            "weight": 30,
+            "note": "隨堂測驗"
+        },
+        {
+            "type": "期末考",
+            "weight": 40,
+            "note": "take-home assignment"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

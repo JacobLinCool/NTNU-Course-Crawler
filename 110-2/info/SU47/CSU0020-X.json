@@ -1,0 +1,81 @@
+{
+    "year": 110,
+    "term": 2,
+    "name": "程式語言結構",
+    "teachers": [
+        "黃冠寰"
+    ],
+    "department": "SU47",
+    "code": "CSU0020",
+    "credit": 3,
+    "serial": 2956,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 7,
+            "to": 7,
+            "campus": "公館",
+            "classroom": "Ｂ102"
+        },
+        {
+            "day": 4,
+            "from": 8,
+            "to": 9,
+            "campus": "公館",
+            "classroom": "理圖001"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "2",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程主要在介紹程式語言的基本理論與相關環境，並探討各類程式語言的特性。",
+    "goals": [
+        "能了各類程式語言",
+        "能了式語言的基本理論",
+        "能增進程式語言的學習能力"
+    ],
+    "syllabus": "使修課同學瞭解程式語言結構的理論並進一步增強程式設計的能力．  \n  \n“Evolution of the Major Programming Languages”  \n“Describing Syntax and Semantics, Lexical and Syntax Analysis”, “Names, Bindings, Type Checking and Scopes”, “Data Types”, “Expressions and Assignment Statements”, “Statement-Level Control Structures”, “Subprograms”,“Implementing Subprograms”, “Abstract Data Types”, “Support for Object-Oriented Programming”, “Concurrency”, “Exception Handling”.  \n  \n  \n修課要求：  \nExercises, midterm, final, and software project.  \n  \nText book：  \nConcepts of Programming Languages, Addison Wesley; 9 edition (2007) . Robert W. Sebesta, Addison-Wesley.",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "使用投影片教授，引導同學研讀教科書內容"
+        },
+        {
+            "type": "實驗/實作",
+            "note": "期末同學要完成一個以Java實做的軟體"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 10,
+            "note": ""
+        },
+        {
+            "type": "期中考",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "專題",
+            "weight": 30,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

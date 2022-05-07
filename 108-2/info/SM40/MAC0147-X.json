@@ -1,0 +1,61 @@
+{
+    "year": 108,
+    "term": 2,
+    "name": "幾何分析專題（二）",
+    "teachers": [
+        "林俊吉",
+        "孟悟理"
+    ],
+    "department": "SM40",
+    "code": "MAC0147",
+    "credit": 3,
+    "serial": 2547,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 5,
+            "from": 2,
+            "to": 4,
+            "campus": "公館",
+            "classroom": "數學館M104"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "幾何分析基本上是由幾何的問題所激發出來的分析領域，原本分散在各個傳統的領域，例如：非線性分析、偏微分方程、微分幾何等。 在這門課中，我們將介紹幾何分析的各種重要工具，引導學生研讀相關書籍及論文，接觸近代學者在這領域的工作，並引起學生的興趣。同時，希望透過在統合這些分散的主題，讓學生可以較快掌握幾何分析的基本知識與技巧。",
+    "goals": [
+        "Verify research-level mathematics",
+        "Conceptually understand research-level mathematics",
+        "Concisely present research-level mathematics"
+    ],
+    "syllabus": "**Prerequisites** We assume familiarity with the concepts of abstract measure and Lebesgue integration.\n\n**Course outline** Topics are presented by the participants and are assigned in consultation with the teachers taking into account the prior knowledge of the individual participants. Amongst the possible topics are the following.\n\n1.  Mass and comass, see \\[Fed69, Section 1.8\\].\n    \n2.  The Besicovitch property for parabolic balls, see \\[AF02\\].\n    \n3.  An example concerning Vitali relations: If F is the family of all compact nondegenerate axis-parallel rectangles in **R**^2, then {(x, S) : x ∈ S ∈ F } is not a Vitali relation with respect to two-dimensional Lebesgue measure, see \\[Car68, pp. 689–692\\].\n    \n4.  Rectifiability and approximate differentiability of higher order for sets, see \\[San19\\].\n    \n5.  Pointwise differentiability of higher order for distributions, see \\[Men19a\\].\n    \n6.  An example of a Borel set in **R**^2 ≃ **R** × **R** whose orthogonal projection onto **R** is not a Borel set, see \\[Fed69, 2.2.9, 2.2.11\\].\n    \n7.  A bi-Lipschitzian embedding the space **Q**\\_Q(**R**^n), consisting of all unordered Q tuples in **R**^n, into Euclidean space, see \\[Alm00, 1.1(1)–(4), 1.2\\].\n    \n8.  Estimating distances in **Q**\\_Q(**R**^n) by means of Hall’s theorem on perfect matching, see \\[Men10, 2.14\\] and \\[LP86, Theorem 1.1.3\\].",
+    "methodologies": [
+        {
+            "type": "其他",
+            "note": "Reading course"
+        }
+    ],
+    "grading": [
+        {
+            "type": "課堂討論參與",
+            "weight": 20,
+            "note": "Posing, in English, a number of good questions to presentations by other students."
+        },
+        {
+            "type": "報告",
+            "weight": 80,
+            "note": "Presenting, in English, a topic in one or more lectures in the course."
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

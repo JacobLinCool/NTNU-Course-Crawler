@@ -1,0 +1,82 @@
+{
+    "year": 110,
+    "term": 2,
+    "name": "預防保健服務與實務",
+    "teachers": [
+        "李子奇"
+    ],
+    "department": "EU05",
+    "code": "HEC9003",
+    "credit": 3,
+    "serial": 706,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 8
+    },
+    "schedule": [
+        {
+            "day": 1,
+            "from": 5,
+            "to": 7,
+            "campus": "本部",
+            "classroom": "教402"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎必須先修過(也可以同時修)【HEU0156  健康促進與衛生教育導論】 ◎課程開放上修",
+    "form_s": "",
+    "classes": "9",
+    "dept_group": "",
+    "hours": 3,
+    "description": "發展 AI 人工智慧已是時代趨勢，未來若能成功導入AI於預防保健服務業，對於民眾的健康會帶來正向影響。「數據資料」是 AI 人工智慧應用發展最為重要的基礎材料；開發匯集民眾或受照顧者多元個人數據資料的視窗應用程式，並利用所匯集之資料進行即時的分析與反饋是建構科技預防保健服務系統的基礎",
+    "goals": [
+        "程式設計的邏輯與其應用",
+        "運用於健康促進與衛生教育的工作之中",
+        "認識視窗應用程式的開發過程"
+    ],
+    "syllabus": "發展 AI 人工智慧已是時代趨勢，未來若能成功導入AI於預防保健服務業，對於民眾的健康會帶來正向影響。「數據資料」是 AI 人工智慧應用發展最為重要的基礎材料；開發匯集民眾或受照顧者多元個人數據資料的視窗應用程式，並利用所匯集之資料進行即時的分析與反饋是建構科技預防保健服務系統的基礎。隨著.NET Framework技術的演進，Visual C# (唸作sharp)程式開發語言除了在Windows傳統桌面開發應用程式外，也能在行動裝置做開發。本課程介紹Visual C#程式語言，包含基本的程式語法介紹與視窗應用程式的開發演練。\n\n週次    課程內容(中文)    課程內容(英文)  \n1    認識程式運算思維與C#    Introduction to programming thinking and C#  \n2    我的第一支C#程式    My first C# program   \n3    資料處理與運算子    Data management and operator  \n4    程式流程控制    Program flow control  \n5    陣列與字串、物件導向程式設計    Array and string, Object-Orented Programming, OOP  \n6    函數與參數傳遞    Function and parameter   \n7    表單與訊息回應、鍵盤、滑鼠事件    Windows form and message response, Keyboard and mouse event  \n8    檔案輸入與輸出    File input and output  \n9    我的第一支C# 視窗APP程式    My first C# windows APP program   \n10    APP實作練習1-計算器    APP Practice Exercise 1 - Calculator  \n11    APP實作練習2-調查表單    APP Practice Exercise 2 - Survey form  \n12    APP實作練習3-網路聯天室伺服器    APP Practice Exercise 3 - Internet chatroom  server  \n13    APP實作練習4-網路聯天室客戶端    APP Practice Exercise 4 - Internet chatroom  client  \n14    APP實作練習5-自填式健康回報與回饋系統    APP Practice Exercise 5 - Self-filling and feedback health surveillance system  \n15    學生APP程式系統展演1    Student APP system presentation 1  \n16    學生APP程式系統展演2    Student APP system presentation 2  \n17    自主學習與問題討論    Self-learning, Q & A  \n18    自主學習與問題討論    Self-learning, Q & A  \n  \n自主學習:自行綜整研習本學期的課程, 遇有疑難問題, 洽老師討論研習 (網路教學或面對面教學)。",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": ""
+        },
+        {
+            "type": "問題解決教學",
+            "note": ""
+        },
+        {
+            "type": "其他",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 50,
+            "note": "個人回家作業"
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 10,
+            "note": ""
+        },
+        {
+            "type": "出席",
+            "weight": 10,
+            "note": ""
+        },
+        {
+            "type": "成果展覽",
+            "weight": 30,
+            "note": "個人APP程式系統展演"
+        }
+    ],
+    "prerequisite": "◎必須先修過(也可以同時修)【HEU0156  健康促進與衛生教育導論】",
+    "general_core": []
+}

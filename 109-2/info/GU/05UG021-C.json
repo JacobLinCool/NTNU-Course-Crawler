@@ -1,0 +1,82 @@
+{
+    "year": 109,
+    "term": 2,
+    "name": "試算表進階應用與程式設計",
+    "teachers": [
+        "劉建成"
+    ],
+    "department": "GU",
+    "code": "05UG021",
+    "credit": 2,
+    "serial": 992,
+    "group": "C",
+    "quota": {
+        "limit": 40,
+        "additional": 5
+    },
+    "schedule": [
+        {
+            "day": 5,
+            "from": 3,
+            "to": 4,
+            "campus": "本部",
+            "classroom": "教402"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 2,
+    "description": "為因應大數據與務聯網與工業4.0的趨勢，辦公室從業人員需提升數據處理與自動化的效率。本課程內容涵蓋EXCEL函數高階應用、VBA自訂函數以及報表製作，透過生活化的案例來學習。",
+    "goals": [
+        "能理解EXCEL高階函數使用規則。",
+        "能理解EXCEL VBA程式並設計程式解決數據分析問題。",
+        "能運用VBA快速解決資料報表產生與視覺化呈現。",
+        "能與多人共同合作，規畫與開發EXCEL資料與VBA解決效率問題。",
+        "能結合數據分析與其他工具應用，製作符合專業需求之自動化流程。"
+    ],
+    "syllabus": "本校「邏輯運算」領域之通識課程分為「基礎知能」、「資訊技術」和「跨域整合」三大類，本課程屬於「資訊技術」類。  \n邏輯運算領域之課程簡介一覽表請參見：「[邏輯與程式教育組 / 課程介紹](http://www.aa.ntnu.edu.tw/8intro/super_pages.php?ID=6intro76&Sn=259)」。\n\n本課程講授如何運用EXCEL的函式以及VBA程式設計解決生活中的實際問題。\n\n學習如何統整外部資料，建立資料敏感度，資料除錯能力、整理能力、分析能力等，並能透過VBA建立自動處理程序。\n\n讓資料是流動(活)的，才有價值！\n\n*   Week1 課程介紹、修課須知、環境介紹\n*   Week2 環境設定、Excel基本指令、篩選應用\n*   Week3 日期函數: 記帳本應用\n*   Week4 VBA初試啼聲: 九九乘法表\n*   Week5 VBA程式邏輯控制\n*   Week6 校際活動\n*   Week7 問卷處理與分析工具箱\n*   Week8 期中考\n*   Week9 VBA與Excel整合應用練習\n*   Week10 資料格式VBA自動化整理\n*   Week11 網路資料提取\n*   Week12 文字函數: 文字處理與探勘\n*   Week13 外部資料匯入與地圖繪製\n*   Week14 VBA表單製作\n*   Week15 期末考\n*   Week16 整合練習\n*   Week17 存取網路試算表資源\n*   Week18 額外補充應用(數位學習)",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "以投影片講述函式與程式概念及功能"
+        },
+        {
+            "type": "問題解決教學",
+            "note": "以實際案例引導學生學習"
+        },
+        {
+            "type": "實驗/實作",
+            "note": "在電腦教室實際操作演練"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 40,
+            "note": "課堂上練習的作業或小測驗"
+        },
+        {
+            "type": "期中考",
+            "weight": 10,
+            "note": "期中考與課堂參與度及回饋為加分項目"
+        },
+        {
+            "type": "期末考",
+            "weight": 40,
+            "note": "期末考:總結上課範例並上機實作測驗"
+        },
+        {
+            "type": "出席",
+            "weight": 10,
+            "note": "出缺席狀況"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": [
+        "邏輯運算"
+    ]
+}

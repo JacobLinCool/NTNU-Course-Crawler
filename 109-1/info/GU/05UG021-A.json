@@ -1,0 +1,95 @@
+{
+    "year": 109,
+    "term": 1,
+    "name": "試算表進階應用與程式設計",
+    "teachers": [
+        "吳清輝"
+    ],
+    "department": "GU",
+    "code": "05UG021",
+    "credit": 2,
+    "serial": 1024,
+    "group": "A",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 1,
+            "from": 8,
+            "to": 9,
+            "campus": "本部",
+            "classroom": "教401"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 2,
+    "description": "為因應大數據與務聯網與工業4.0的趨勢，辦公室從業人員需提升數據處理與自動化的效率。本課程內容涵蓋EXCEL函數高階應用、VBA自訂函數以及報表製作，透過生活化的案例來學習。",
+    "goals": [
+        "能理解EXCEL高階函數使用規則。",
+        "能理解EXCEL VBA程式並設計程式解決數據分析問題。",
+        "能運用VBA快速解決資料報表產生與視覺化呈現。",
+        "能與多人共同合作，規畫與開發EXCEL資料與VBA解決效率問題。",
+        "能結合數據分析與其他工具應用，製作符合專業需求之自動化流程。"
+    ],
+    "syllabus": "第一週至第二週  \n1\\. 講師簡介與課程說明  \n2\\. 大數據文字和資料函數與轉 VBA 與自訂函數  \n3\\. 邏輯函數應用  \n4\\. 邏輯函數轉換成 VBA 程式  \n5\\. 綜合練習:增減體重百分比\n\n  \n第三週至第七週  \n6\\. 日期和時間函數應用轉換成 VBA 程序與自訂函數  \n7\\. TODAY、DATEDIF、EDATE 函數  \n8\\. 綜合練習:年曆  \n9\\. 數學函數 SUM 與 SUMIF 等函數  \n10\\. 應用轉換成 VBA 自訂函數\n\n  \n第八週至第十二週  \n11\\. COUNT&COUNTIF 等函數  \n12\\. 轉換成 VBA 自訂函數  \n13\\. 綜合練習:教師研習時數統計表  \n14\\. 範例黑名單篩選  \n15\\. 樂透彩中獎機率  \n16\\. 網路下載大樂透大數據\n\n  \n第十三週至第十八週  \n17\\. LOOKUP、HLOOKUP、VLOOKUP、Index 與 Match 函數  \n18\\. 範例股票配股統計表  \n19\\. 九九乘法表與鎖定欄列技巧  \n20\\. 範例所屬單位查詢 VBA 程式  \n21\\. 銷貨單記錄到銷貨明細 VBA 程式",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "EXCEL 高階函數與 VBA 程式設計實作技巧講述"
+        },
+        {
+            "type": "問題解決教學",
+            "note": "實際案例用 EXCEL 函數與 VBA 解決說明"
+        },
+        {
+            "type": "合作學習",
+            "note": "EXCEL VBA 專題合作製作"
+        },
+        {
+            "type": "實驗/實作",
+            "note": "範例 EXCEL 高階函數與 VBA 程式設計實作練習"
+        },
+        {
+            "type": "專題研究",
+            "note": "EXCEL 高階函數與 VBA 程式設計專題實作(以 2-3 人為原則)"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 20,
+            "note": "課堂練習成果"
+        },
+        {
+            "type": "期中考",
+            "weight": 30,
+            "note": "總結上課範例與繳交實作報告"
+        },
+        {
+            "type": "期末考",
+            "weight": 30,
+            "note": "總結上課範例並上機實作測驗"
+        },
+        {
+            "type": "出席",
+            "weight": 10,
+            "note": "參與討論互動狀況"
+        },
+        {
+            "type": "報告",
+            "weight": 10,
+            "note": "出缺席狀況"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": [
+        "邏輯運算"
+    ]
+}

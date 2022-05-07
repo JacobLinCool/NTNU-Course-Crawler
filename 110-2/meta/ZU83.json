@@ -1,0 +1,140 @@
+[
+    {
+        "year": 110,
+        "term": 2,
+        "name": "管理科學模式",
+        "teachers": [
+            "施人英"
+        ],
+        "department": "OU57",
+        "code": "BAU0006",
+        "credit": 3,
+        "serial": 2440,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 15
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 2,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "教401"
+            }
+        ],
+        "programs": [
+            "基礎管理學程"
+        ],
+        "comment": "",
+        "restrict": "◎必須先修過【BAU0049  管理數學】 ◎課程開放上修",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 2,
+        "name": "管理學",
+        "teachers": [
+            "陳敦基",
+            "蕭中強"
+        ],
+        "department": "ZU83",
+        "code": "PGUA002",
+        "credit": 3,
+        "serial": 3186,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 5,
+                "from": 8,
+                "to": 10,
+                "campus": "本部",
+                "classroom": "誠108"
+            }
+        ],
+        "programs": [
+            "基礎管理學程",
+            "藝術產業學程"
+        ],
+        "comment": "",
+        "restrict": "◎第一階段限 基礎管理學程 ◎課程開放上修",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 2,
+        "name": "會計學",
+        "teachers": [
+            "郭錦蓉"
+        ],
+        "department": "ZU83",
+        "code": "PGUA005",
+        "credit": 3,
+        "serial": 3187,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 7,
+                "to": 9,
+                "campus": "本部",
+                "classroom": "誠203"
+            }
+        ],
+        "programs": [
+            "基礎管理學程"
+        ],
+        "comment": "",
+        "restrict": "◎第一階段限 基礎管理學程 ◎課程開放上修",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 2,
+        "name": "統計學",
+        "teachers": [
+            "邱皓政"
+        ],
+        "department": "ZU83",
+        "code": "PGUA007",
+        "credit": 3,
+        "serial": 3188,
+        "group": "",
+        "quota": {
+            "limit": 55,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 10,
+                "to": 12,
+                "campus": "本部",
+                "classroom": "誠201"
+            }
+        ],
+        "programs": [
+            "基礎管理學程"
+        ],
+        "comment": "",
+        "restrict": "◎第一階段限 基礎管理學程 ◎課程開放上修",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    }
+]

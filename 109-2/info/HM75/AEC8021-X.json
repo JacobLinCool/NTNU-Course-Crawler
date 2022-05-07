@@ -1,0 +1,74 @@
+{
+    "year": 109,
+    "term": 2,
+    "name": "隨機程序",
+    "teachers": [
+        "黃政吉"
+    ],
+    "department": "HM75",
+    "code": "AEC8021",
+    "credit": 3,
+    "serial": 1150,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 5,
+            "from": 2,
+            "to": 4,
+            "campus": "本部",
+            "classroom": "工511"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程首先介紹多個隨機變數的相關知識，然後探討隨機變數之間的相關性，最後討論假說測試、估測理論、隨機程序等應用。",
+    "goals": [
+        "介紹隨機程序的相關工程應用。",
+        "培養學生處理多個隨機變數的能力。",
+        "培養學生利用隨機變數之間的相關性，進行估測或預測。",
+        "培養學生利用假說測試等理論，解決相關工程問題。"
+    ],
+    "syllabus": "Families of continuous random variables (Week 1)\n\nGaussian random variable (Week 2)\n\nJoint PMF (Week 3)\n\nJoint PDF (Week 4)\n\nIndependent random variables (Week 5)\n\nDerived random variables  (Week 6)\n\nSum of two random variables (Week 7)\n\nMidterm exam (Week 8)\n\nConditional expected value (Week 9)\n\nConditioning by a random variable (Week 10)\n\nExpected value of sums (Week 11)\n\nMoment generating function (Week 12)\n\nHypothesis test (Week 13)\n\nMinimum mean square error estimation (Week 14)\n\nMAP and ML estimate (Week 15)\n\nFinal exam (Week 16)\n\n\\*Stochastic process (Week 17)\n\n\\*Expected value and correlation (Week 18)",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "投影片PPT"
+        },
+        {
+            "type": "討論法",
+            "note": "小組討論"
+        },
+        {
+            "type": "專題研究",
+            "note": "小組討論"
+        }
+    ],
+    "grading": [
+        {
+            "type": "期中考",
+            "weight": 40,
+            "note": "筆試"
+        },
+        {
+            "type": "期末考",
+            "weight": 40,
+            "note": "筆試"
+        },
+        {
+            "type": "出席",
+            "weight": 20,
+            "note": "點名"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

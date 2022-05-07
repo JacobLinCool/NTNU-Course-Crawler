@@ -1,0 +1,72 @@
+{
+    "year": 109,
+    "term": 1,
+    "name": "學習理論概論",
+    "teachers": [
+        "籃玉如"
+    ],
+    "department": "IU84",
+    "code": "CLU1071",
+    "credit": 3,
+    "serial": 1595,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 0
+    },
+    "schedule": [
+        {
+            "day": 3,
+            "from": 6,
+            "to": 8,
+            "campus": "本部",
+            "classroom": "樸206"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "4",
+    "classes": "",
+    "dept_group": "B",
+    "hours": 3,
+    "description": "本課程旨在透過課堂講解、小組討論、分組報告，帶領學生\n了解學習理論、學習歷程的基本概念，內容包含不同學派的學習理論、學習心理學、認知學習理論、社會認知論、訊息處理論等，並且探討學習理論之於華語教學的實際應用。",
+    "goals": [
+        "能瞭解學習理論的基本概念與理論",
+        "能應用學習理論於華語文教學領域",
+        "能透過小組合作培養合作學習的能力"
+    ],
+    "syllabus": "  \n[教學進度與主題附件](https://ap.itc.ntnu.edu.tw/NtnuFileShare/file.do?action=dl&gno=35d696ec316841feafbffc393eb3cfd2&fno=cc2b9fbc62a44a758a36e1b9a8b8e31e)",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "To illustrate the basic concepts of different learning theories and their pedagogical applications."
+        },
+        {
+            "type": "討論法",
+            "note": "To divide students in small groups of 4 or 5 students and proceed small group discussion on the focused topics."
+        },
+        {
+            "type": "實驗/實作",
+            "note": "To guide the students to collaboratively design learning activities according to specific learning theories and evaluate their online teaching design and practice to CFL students from UVA."
+        },
+        {
+            "type": "其他",
+            "note": "To have students present their teaching plan and reflection on their teaching practice, group by group."
+        }
+    ],
+    "grading": [
+        {
+            "type": "課堂討論參與",
+            "weight": 50,
+            "note": "Students should actively engage in in-class discussion and participate in the learning activities led by the instructor."
+        },
+        {
+            "type": "報告",
+            "weight": 50,
+            "note": "Each small group should give a 5-minute oral presentation of their own learning activity designs and reflection on their online teaching after the lecture of each learning theory."
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

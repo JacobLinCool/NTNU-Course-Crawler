@@ -1,0 +1,60 @@
+{
+    "year": 110,
+    "term": 1,
+    "name": "植物生理學",
+    "teachers": [
+        "孫智雯"
+    ],
+    "department": "SU43",
+    "code": "BIU0013",
+    "credit": 3,
+    "serial": 3003,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 4,
+            "from": 7,
+            "to": 9,
+            "campus": "公館",
+            "classroom": "Ｓ302"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎必須先修過【BIU0168  普通生物學甲（一）】、【BIU0169  普通生物學甲（二）】、【BIU0143  生物化學】",
+    "form_s": "3",
+    "classes": "2",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程之教學目標是讓學生能學到紮實的植物生理學之基礎理論，並能將這些基本概念應用在其他生命科學研究上。",
+    "goals": [
+        "能熟悉並認知植物生理學專有知識",
+        "學習藉由各類實驗佐證植物生理學的理論",
+        "能體認胞植物細胞及個體細微運作的生命現象之基礎"
+    ],
+    "syllabus": "第一週Inorganic nutrients\n\n第二週Bioenergetics and ATP synthesis；The dual role of sunlight: energy and information\n\n第三週Photosynthesis\n\n第四週Allocation, translocation and partitioning of photoassimilates\n\n第五週Respiration\n\n第六週Nitrogen and carbon assimilation\n\n第七週Plant development: An overview\n\n第八週期中考考試\n\n第九週Growth and development of cells\n\n第十週Plant hormone I: Auxins\n\n第十一週Plant hormone II: Gibberellins and cytokinins\n\n第十二週Plant hormone III: Abscisic acid, ethylene, and brassinosteroids\n\n第十三週Photomorphogenesis\n\n第十四週Plant movements\n\n第十五週Photoperiod and endogenous clocks；Flowering and fruit development\n\n第十六週期末考試",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "期中考",
+            "weight": 50,
+            "note": "以筆試進行，內容包含是非題(10%)、單選題(10%)、複選題(10%)、配對題(10%)、申論題(10%)。 對應之核心能力為：(1)具備生命科學之專業知識(80%)  (2)具備運用生命科學相關研究方法與技術的能力(20%)"
+        },
+        {
+            "type": "期末考",
+            "weight": 50,
+            "note": "以筆試進行，內容包含是非題(10%)、單選題(10%)、複選題(10%)、配對題(10%)、申論題(10%)。 對應之核心能力為：(1)具備生命科學之專業知識(80%)  (2)具備運用生命科學相關研究方法與技術的能力(20%)"
+        }
+    ],
+    "prerequisite": "◎必須先修過【BIU0168  普通生物學甲（一）】、【BIU0169  普通生物學甲（二）】、【BIU0143  生物化學】",
+    "general_core": []
+}

@@ -1,0 +1,83 @@
+{
+    "year": 107,
+    "term": 1,
+    "name": "中文電腦資料處理",
+    "teachers": [
+        "羅凡晸"
+    ],
+    "department": "LU20",
+    "code": "CHU0061",
+    "credit": 3,
+    "serial": 1692,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 1,
+            "from": 2,
+            "to": 4,
+            "campus": "本部",
+            "classroom": "教401"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "1",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "在中文電腦運用的範圍當中，資料處理是一件重要的事。本課程擬讓學習者了解中文電腦資料處理的基本概念，並學習基本的相關技術，以進一步加值各種形式的數位內容，最後讓學習者認識並運用這些數位內容所帶來的各項便利。",
+    "goals": [
+        "了解中文電腦資料處理的基本概念。",
+        "認識並學習資料處理的基本技術及學習辦公室相關應用軟體。",
+        "運用所學電腦技術處理中文資料。",
+        "學習建立中文資料庫及中文電子書。",
+        "以單元主題方式培養學生製作網頁、動畫及處理影像的能力。"
+    ],
+    "syllabus": "1 導論，文字編輯器介紹，輸入法教學(1)\n\n2 輸入法教學(2)\n\n3 輸入法教學(3)\n\n4 Microsoft word 教學(1)\n\n5 Microsoft word 教學(2)\n\n6 Microsoft powerpoint 教學\n\n7 Microsoft excel 教學\n\n8 html5 +CSS3 教學\n\n9 網頁編織三部曲【首部曲dreamweaver (1)+html5 +CSS3】\n\n10 網頁編織三部曲【首部曲dreamweaver (2)+html5 +CSS3】\n\n11 網頁編織三部曲【首部曲dreamweaver (3)+html5 +CSS3】\n\n12 網頁編織三部曲【二部曲—flash、swish】\n\n13 網頁編織三部曲【三部曲—photoimpact、photoshop(1)】\n\n14 網頁編織三部曲【三部曲—photoimpact、photoshop(2)】\n\n15 網頁編織三部曲【三部曲—photoimpact、photoshop(3)】\n\n16 中文網站及APP實作(1)\n\n17 中文網站及APP實作(2)\n\n18 期末個人網頁及APP實作、同儕互評",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "問題解決教學",
+            "note": ""
+        },
+        {
+            "type": "合作學習",
+            "note": ""
+        },
+        {
+            "type": "實驗/實作",
+            "note": ""
+        },
+        {
+            "type": "專題研究",
+            "note": "個人網頁及APP實作"
+        }
+    ],
+    "grading": [
+        {
+            "type": "課堂討論參與",
+            "weight": 65,
+            "note": "課堂及網站回饋表現"
+        },
+        {
+            "type": "出席",
+            "weight": 5,
+            "note": "出席率及同儕互評"
+        },
+        {
+            "type": "成果展覽",
+            "weight": 30,
+            "note": "個人網頁及APP實作"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

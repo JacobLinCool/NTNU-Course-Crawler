@@ -1,0 +1,85 @@
+{
+    "year": 110,
+    "term": 1,
+    "name": "統計學（一）",
+    "teachers": [
+        "張少同"
+    ],
+    "department": "SU40",
+    "code": "MAU0147",
+    "credit": 3,
+    "serial": 2849,
+    "group": "B",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 4,
+            "from": 6,
+            "to": 8,
+            "campus": "公館",
+            "classroom": "Ｂ103"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "3",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程介紹敘述統計與推論統計，包括進行母體參數估計及假設檢定的統計理論基礎。內容包括母群體平均數、變異數等參數的點估計、區間估計及假設檢定。",
+    "goals": [
+        "介紹統計學的理論基礎",
+        "學習基本資料分析的能力",
+        "培養解決統計問題的能力",
+        "了解不確定性"
+    ],
+    "syllabus": "授課方式採「16+2週」，即「授課16週＋2週自主學習」\n\n 每週主題(配合期中、期末考可能適度調整)  \n01 敘述統計  \n02 統計量與樣本分配  \n03 平均數估計  \n04 變異數估計  \n05 比例估計  \n06 區間估計  \n07 樣本大小估算  \n08 無母數估計法  \n09 假設檢定概念  \n10 平均值的檢定  \n11 變異數的檢定  \n12 比例的檢定  \n13 無母數中位數檢定  \n14 卡方檢定  \n15 簡單線性迴歸  \n16 變異數分析",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 10,
+            "note": ""
+        },
+        {
+            "type": "期中考",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 5,
+            "note": ""
+        },
+        {
+            "type": "出席",
+            "weight": 5,
+            "note": ""
+        },
+        {
+            "type": "其他",
+            "weight": 20,
+            "note": "小考"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

@@ -1,0 +1,70 @@
+{
+    "year": 107,
+    "term": 1,
+    "name": "認知心理學（教）",
+    "teachers": [
+        "許禕芳"
+    ],
+    "department": "EU",
+    "code": "00UE016",
+    "credit": 2,
+    "serial": 573,
+    "group": "A",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 4,
+            "from": 1,
+            "to": 2,
+            "campus": "本部",
+            "classroom": "正103"
+        }
+    ],
+    "programs": [
+        "PASSION偏鄉教育學程"
+    ],
+    "comment": "",
+    "restrict": "",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 2,
+    "description": "認知心理學是一門研究心智處理的心理科學，本課程主要講授認知心理學的起源與發展、研究方法、理論架構、重要概念、代表人物、與應用價值，同時搭配進度，演示認知心理學的經典實驗。",
+    "goals": [
+        "能夠透過認知心理學的觀點探討教學層面的議題。",
+        "能夠針對認知心理學的文獻進行批判思考。"
+    ],
+    "syllabus": "第01週 (1309)：Introduction  \n第02週 (2009)：Cognitive neuroscience (Chapter 2)  \n第03週 (2709)：Cognitive neuroscience (Chapter 2)\\*  \n第04週 (0410)：Cognitive neuroscience (Chapter 2)\\*  \n第05週 (1110)：Visual perception (Chapter 3)  \n第06週 (1810)：Visual perception (Chapter 3)  \n第07週 (2510)：Attention and consciousness (Chapter 4)  \n第08週 (0111)：Attention and consciousness (Chapter 4)  \n第09週 (0811)：Exam  \n第10週 (1511)：Memory (Chapter 5-7)  \n第11週 (2211)：Memory (Chapter 5-7)  \n第12週 (2911)：Memory (Chapter 5-7)  \n第13週 (0612)：Problem solving and creativity (Chapter 11)  \n第14週 (1312)：Problem solving and creativity (Chapter 11)  \n第15週 (2012)：Decision making (Chapter 12)  \n第16週 (2712)：Decision making (Chapter 12)  \n第17週 (0301)：Exam  \n第18週 (1001)：Discussion",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "講授認知心理學的起源與發展、研究方法、理論架構、重要概念、代表人物、與應用價值。"
+        },
+        {
+            "type": "實驗/實作",
+            "note": "演示認知心理學的經典實驗。"
+        }
+    ],
+    "grading": [
+        {
+            "type": "期中考",
+            "weight": 40,
+            "note": "考試時間50分鐘，內容包括前半學期的主題。"
+        },
+        {
+            "type": "期末考",
+            "weight": 40,
+            "note": "考試時間50分鐘，內容包括後半學期的主題。"
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 20,
+            "note": "準時出席並積極參與。"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

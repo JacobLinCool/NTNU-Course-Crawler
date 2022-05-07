@@ -1,0 +1,738 @@
+[
+    {
+        "year": 108,
+        "term": 1,
+        "name": "地質學",
+        "teachers": [
+            "姚永昌"
+        ],
+        "department": "LU23",
+        "code": "GEU0046",
+        "credit": 3,
+        "serial": 1960,
+        "group": "",
+        "quota": {
+            "limit": 80,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 2,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "教202會議廳"
+            }
+        ],
+        "programs": [
+            "環境監測學程"
+        ],
+        "comment": "",
+        "restrict": "",
+        "form_s": "1",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 1,
+        "name": "土壤地理",
+        "teachers": [
+            "韋煙灶"
+        ],
+        "department": "LU23",
+        "code": "GEU0004",
+        "credit": 2,
+        "serial": 1975,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 5
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 6,
+                "to": 7,
+                "campus": "本部",
+                "classroom": "正306"
+            }
+        ],
+        "programs": [
+            "環境監測學程"
+        ],
+        "comment": "",
+        "restrict": "",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 1,
+        "name": "地形計測與實察",
+        "teachers": [
+            "沈淑敏"
+        ],
+        "department": "LU23",
+        "code": "GEU0104",
+        "credit": 3,
+        "serial": 1977,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 5
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 3,
+                "to": 5,
+                "campus": "本部",
+                "classroom": "正206"
+            }
+        ],
+        "programs": [
+            "環境監測學程"
+        ],
+        "comment": "",
+        "restrict": "",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 1,
+        "name": "測量學",
+        "teachers": [
+            "王聖鐸"
+        ],
+        "department": "LU23",
+        "code": "GEU0184",
+        "credit": 3,
+        "serial": 1978,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 4
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 6,
+                "to": 8,
+                "campus": "本部",
+                "classroom": "誠107"
+            }
+        ],
+        "programs": [
+            "學習與資訊學程",
+            "環境監測學程",
+            "區域學程",
+            "空間學程"
+        ],
+        "comment": "",
+        "restrict": "",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 1,
+        "name": "水文學",
+        "teachers": [
+            "韋煙灶"
+        ],
+        "department": "LU23",
+        "code": "GEU0003",
+        "credit": 3,
+        "serial": 1981,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 5
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 2,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "正205"
+            }
+        ],
+        "programs": [
+            "環境監測學程",
+            "空間學程"
+        ],
+        "comment": "",
+        "restrict": "",
+        "form_s": "2",
+        "classes": "1",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 1,
+        "name": "地理資訊系統",
+        "teachers": [
+            "王聖鐸"
+        ],
+        "department": "LU23",
+        "code": "GEU0166",
+        "credit": 3,
+        "serial": 1984,
+        "group": "A",
+        "quota": {
+            "limit": 22,
+            "additional": 6
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 3,
+                "to": 5,
+                "campus": "本部",
+                "classroom": "教室自排"
+            }
+        ],
+        "programs": [
+            "學習與資訊學程",
+            "數位人文與藝術學程",
+            "環境監測學程",
+            "空間學程"
+        ],
+        "comment": "上課教室：文學院勤10F地理系電腦教室。",
+        "restrict": "",
+        "form_s": "2",
+        "classes": "1",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 1,
+        "name": "地理資訊系統",
+        "teachers": [
+            "王聖鐸"
+        ],
+        "department": "LU23",
+        "code": "GEU0166",
+        "credit": 3,
+        "serial": 1985,
+        "group": "B",
+        "quota": {
+            "limit": 22,
+            "additional": 6
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 7,
+                "to": 9,
+                "campus": "本部",
+                "classroom": "教室自排"
+            }
+        ],
+        "programs": [
+            "學習與資訊學程",
+            "數位人文與藝術學程",
+            "環境監測學程",
+            "空間學程"
+        ],
+        "comment": "上課教室：文學院勤10F地理系電腦教室。",
+        "restrict": "",
+        "form_s": "2",
+        "classes": "1",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 1,
+        "name": "水文學",
+        "teachers": [
+            "韋煙灶"
+        ],
+        "department": "LU23",
+        "code": "GEU0003",
+        "credit": 3,
+        "serial": 1986,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 5
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 7,
+                "to": 9,
+                "campus": "本部",
+                "classroom": "正206"
+            }
+        ],
+        "programs": [
+            "環境監測學程",
+            "空間學程"
+        ],
+        "comment": "",
+        "restrict": "",
+        "form_s": "2",
+        "classes": "2",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 1,
+        "name": "地理資訊系統",
+        "teachers": [
+            "張國楨"
+        ],
+        "department": "LU23",
+        "code": "GEU0166",
+        "credit": 3,
+        "serial": 1989,
+        "group": "A",
+        "quota": {
+            "limit": 25,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 5,
+                "from": 3,
+                "to": 5,
+                "campus": "本部",
+                "classroom": "教室自排"
+            }
+        ],
+        "programs": [
+            "學習與資訊學程",
+            "數位人文與藝術學程",
+            "環境監測學程",
+            "空間學程"
+        ],
+        "comment": "上課教室：文學院勤10F地理系電腦教室。",
+        "restrict": "",
+        "form_s": "2",
+        "classes": "2",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 1,
+        "name": "地理資訊系統",
+        "teachers": [
+            "張國楨"
+        ],
+        "department": "LU23",
+        "code": "GEU0166",
+        "credit": 3,
+        "serial": 1990,
+        "group": "B",
+        "quota": {
+            "limit": 25,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 5,
+                "from": 6,
+                "to": 8,
+                "campus": "本部",
+                "classroom": "教室自排"
+            }
+        ],
+        "programs": [
+            "學習與資訊學程",
+            "數位人文與藝術學程",
+            "環境監測學程",
+            "空間學程"
+        ],
+        "comment": "上課教室：文學院勤10F地理系電腦教室。",
+        "restrict": "",
+        "form_s": "2",
+        "classes": "2",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 1,
+        "name": "水土保持",
+        "teachers": [
+            "廖學誠"
+        ],
+        "department": "LU23",
+        "code": "GEU0151",
+        "credit": 3,
+        "serial": 1994,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 5
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 2,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "正206"
+            }
+        ],
+        "programs": [
+            "環境監測學程"
+        ],
+        "comment": "",
+        "restrict": "",
+        "form_s": "3",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 1,
+        "name": "衛星影像處理與應用",
+        "teachers": [
+            "張國楨"
+        ],
+        "department": "LU23",
+        "code": "GEU0176",
+        "credit": 3,
+        "serial": 1995,
+        "group": "",
+        "quota": {
+            "limit": 25,
+            "additional": 5
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 6,
+                "to": 8,
+                "campus": "本部",
+                "classroom": "教室自排"
+            }
+        ],
+        "programs": [
+            "學習與資訊學程",
+            "環境監測學程",
+            "空間學程"
+        ],
+        "comment": "上課教室：文學院勤10F地理系電腦教室。",
+        "restrict": "",
+        "form_s": "3",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 1,
+        "name": "生態學",
+        "teachers": [
+            "林登秋",
+            "李佩珍"
+        ],
+        "department": "SU43",
+        "code": "BIU0046",
+        "credit": 3,
+        "serial": 2998,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 25
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 2,
+                "to": 4,
+                "campus": "公館",
+                "classroom": "Ｅ202"
+            }
+        ],
+        "programs": [
+            "環境監測學程",
+            "空間學程"
+        ],
+        "comment": "",
+        "restrict": "",
+        "form_s": "3",
+        "classes": "1",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 1,
+        "name": "氣候學",
+        "teachers": [
+            "曾莉珊"
+        ],
+        "department": "SU44",
+        "code": "ESC0010",
+        "credit": 3,
+        "serial": 3012,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 6,
+                "to": 8,
+                "campus": "公館",
+                "classroom": "Ｃ409"
+            }
+        ],
+        "programs": [
+            "環境監測學程"
+        ],
+        "comment": "",
+        "restrict": "◎限大三大四 ◎限碩一碩二碩三以上修習◎必須先修過【MAU0180  微積分乙（一）】、【MAU0181  微積分乙（二）】、【PHU0251  普通物理乙（一）】、【PHU0252  普通物理乙（二）】",
+        "form_s": "",
+        "classes": "9",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 1,
+        "name": "礦物學（含實習）",
+        "teachers": [
+            "賴昱銘"
+        ],
+        "department": "SU44",
+        "code": "ESC9008",
+        "credit": 3,
+        "serial": 3017,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 5,
+                "from": 2,
+                "to": 4,
+                "campus": "公館",
+                "classroom": "Ｃ401"
+            }
+        ],
+        "programs": [
+            "環境監測學程"
+        ],
+        "comment": "",
+        "restrict": "◎限大三大四 ◎限碩一碩二碩三以上修習",
+        "form_s": "",
+        "classes": "9",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 1,
+        "name": "構造地質學（含實習）",
+        "teachers": [
+            "葉恩肇"
+        ],
+        "department": "SU44",
+        "code": "ESC9013",
+        "credit": 3,
+        "serial": 3018,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 16,
+                "to": 11,
+                "campus": "公館",
+                "classroom": "Ｃ401"
+            }
+        ],
+        "programs": [
+            "環境監測學程"
+        ],
+        "comment": "",
+        "restrict": "◎限大三大四 ◎限碩一碩二碩三以上修習",
+        "form_s": "",
+        "classes": "9",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 1,
+        "name": "天氣學",
+        "teachers": [
+            "王重傑"
+        ],
+        "department": "SU44",
+        "code": "ESC9015",
+        "credit": 3,
+        "serial": 3019,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 7,
+                "to": 9,
+                "campus": "公館",
+                "classroom": "理圖003"
+            }
+        ],
+        "programs": [
+            "環境監測學程"
+        ],
+        "comment": "",
+        "restrict": "◎限大三大四 ◎限碩一碩二碩三以上修習",
+        "form_s": "",
+        "classes": "9",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 1,
+        "name": "地震觀測與災害",
+        "teachers": [
+            "林正洪"
+        ],
+        "department": "SU44",
+        "code": "ESU0170",
+        "credit": 2,
+        "serial": 3026,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 6,
+                "to": 7,
+                "campus": "公館",
+                "classroom": "綜合館3F國際會議廳"
+            }
+        ],
+        "programs": [
+            "環境監測學程"
+        ],
+        "comment": "",
+        "restrict": "",
+        "form_s": "1",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 1,
+        "name": "普通地質學（含實習）",
+        "teachers": [
+            "葉恩肇",
+            "賴昱銘"
+        ],
+        "department": "SU44",
+        "code": "ESU0180",
+        "credit": 3,
+        "serial": 3028,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 2,
+                "to": 4,
+                "campus": "公館",
+                "classroom": "Ｃ007"
+            }
+        ],
+        "programs": [
+            "環境監測學程"
+        ],
+        "comment": "",
+        "restrict": "",
+        "form_s": "1",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 1,
+        "name": "環境倫理",
+        "teachers": [
+            "林炯明"
+        ],
+        "department": "ZU89",
+        "code": "PGUS012",
+        "credit": 2,
+        "serial": 3248,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 5
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 8,
+                "to": 9,
+                "campus": "本部",
+                "classroom": "正305"
+            }
+        ],
+        "programs": [
+            "環境監測學程"
+        ],
+        "comment": "",
+        "restrict": "◎第一階段限 環境監測學程",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 1,
+        "name": "災害管理與防救實務",
+        "teachers": [
+            "李清安"
+        ],
+        "department": "ZU89",
+        "code": "PGUS015",
+        "credit": 2,
+        "serial": 3249,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 5
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 10,
+                "to": 11,
+                "campus": "本部",
+                "classroom": "誠206"
+            }
+        ],
+        "programs": [
+            "環境監測學程"
+        ],
+        "comment": "",
+        "restrict": "◎第一階段限 環境監測學程",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    }
+]

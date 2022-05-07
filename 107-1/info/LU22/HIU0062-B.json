@@ -1,0 +1,78 @@
+{
+    "year": 107,
+    "term": 1,
+    "name": "史學導論",
+    "teachers": [
+        "林欣宜"
+    ],
+    "department": "LU22",
+    "code": "HIU0062",
+    "credit": 2,
+    "serial": 1922,
+    "group": "B",
+    "quota": {
+        "limit": 30,
+        "additional": 6
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 8,
+            "to": 9,
+            "campus": "本部",
+            "classroom": "誠307"
+        }
+    ],
+    "programs": [],
+    "comment": "備註：已於上學期選定上課班別(A班或B班)者，下學期嚴禁換班上課。",
+    "restrict": "",
+    "form_s": "1",
+    "classes": "",
+    "dept_group": "",
+    "hours": 2,
+    "description": "(B)本課程的目的在初步介紹歷史學的性質與內容。主要經由閱讀、討論指定書籍與論文，能使修課同學了解最近歷史學研究的動態，並希望進一步使修課同學培養未來探索歷史議題與獨立思維的能力。",
+    "goals": [
+        "介紹歷史學的基本概念以及最新研究的動態",
+        "運用上課所學到的史學研究觀念，以分析、撰寫期中讀書報告",
+        "小組口頭報告培養合作解決問題的能力"
+    ],
+    "syllabus": " \n\n第一單元（三週）：歷史知識的性質\n\n第二單元（五週）：歷史研究的主題─人、空間與時間\n\nA.     複數「人」\n\nB.     自然環境\n\nC.     歷史時間\n\n第三單元（四週）：史料運用的擴大\n\n第四單元（一週）：當代史學研究趨勢\n\n論文研究與討論（三週）\n\n期末考",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": ""
+        },
+        {
+            "type": "實驗/實作",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "期末考",
+            "weight": 40,
+            "note": ""
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 15,
+            "note": ""
+        },
+        {
+            "type": "出席",
+            "weight": 15,
+            "note": ""
+        },
+        {
+            "type": "報告",
+            "weight": 30,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

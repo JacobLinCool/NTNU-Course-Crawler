@@ -1,0 +1,89 @@
+{
+    "year": 110,
+    "term": 2,
+    "name": "地理統計",
+    "teachers": [
+        "陳哲銘"
+    ],
+    "department": "LU23",
+    "code": "GEU0016",
+    "credit": 3,
+    "serial": 1880,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 5
+    },
+    "schedule": [
+        {
+            "day": 3,
+            "from": 6,
+            "to": 8,
+            "campus": "本部",
+            "classroom": "正205"
+        }
+    ],
+    "programs": [
+        "區域學程"
+    ],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "",
+    "goals": [
+        "Recognize spatial statistics and multivariate data analysis methods.",
+        "Apply statistical methods to analyze geographic data.",
+        "Master statistical software.",
+        "Conduct a statistics project."
+    ],
+    "syllabus": "\\[16+2\\] weeks\n\n1\\. Introduction \n\n2\\. Descriptive Spatial Statistics\n\n3\\. Inferential Spatial Statistics\n\n4\\. Spatial Autocorrelation\n\n5\\. Overview of Multivariate Methods\n\n6\\. Multiple Regression\n\n7\\. Logistic Regression\n\n8\\. Midterm\n\n9\\. Exploratory Factor Analysis\n\n10\\. Cluster Analysis\n\n11\\. Spatial Regression Models\n\n12. Geographically Weighted Regression\n\n13. Final Exam\n\n14\\. Final Project Discussion\n\n15\\. Final Project Presentation (1)\n\n16\\. Final Project Presentation (2)\n\n17\\. (Online Self-Learning) Multiple Discriminant Analysis (1)\n\n18. (Online Self-Learning) Multiple Discriminant Analysis (2)",
+    "methodologies": [
+        {
+            "type": "Formal lecture",
+            "note": ""
+        },
+        {
+            "type": "Group discussion",
+            "note": ""
+        },
+        {
+            "type": "Lab/Studio",
+            "note": ""
+        },
+        {
+            "type": "Media, audio, visual materials",
+            "note": ""
+        },
+        {
+            "type": "Case studies",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "Assignments",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "Midterm Exam",
+            "weight": 20,
+            "note": ""
+        },
+        {
+            "type": "Final exam",
+            "weight": 20,
+            "note": ""
+        },
+        {
+            "type": "Case study reports",
+            "weight": 30,
+            "note": ""
+        }
+    ],
+    "prerequisite": "◎Available for junior and senior year B.A. program students (Doctoral program courses excepted) and M.A. program students.",
+    "general_core": []
+}

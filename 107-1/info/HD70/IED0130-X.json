@@ -1,0 +1,66 @@
+{
+    "year": 107,
+    "term": 1,
+    "name": "技術動態分析",
+    "teachers": [
+        "黃啟祐"
+    ],
+    "department": "HD70",
+    "code": "IED0130",
+    "credit": 2,
+    "serial": 1094,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 3,
+            "from": 9,
+            "to": 10,
+            "campus": "本部",
+            "classroom": "研討二"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 2,
+    "description": "Technology dynamics is broad and relatively new scientific field that has been developed in the framework of the postwar science and technology studies field. The analysis of technology dynamics attempts to predict the future characteristics and development trends of technology from the aspects of both internal factors as well as external factors. The capabilities are essentials for Ph.D. students in analyzing dynamic behaviors of a technology and the systemic relationships between the technology and other technologies as well we social changes. Thus, this course intends to introduce modern theories being related to technology dynamics as well as methods and analytic frameworks practices to the Ph.D.  students. Major emphasis of this course will be placed on theory introductions and forecasting techniques manipulations. Students are expected to solve academic research problems by using the theories and methods being introduced in this course.",
+    "goals": [
+        "協助學生瞭解並應用技術動態分析理論"
+    ],
+    "syllabus": "1\\. Introduction\n\n2\\. Features of Technology and Technological Dynamics\n\n3\\. The Innovative Cycle\n\n4\\. Technological Dynamics and Knowledge\n\n5\\. The Dynamics of Production Technologies and Structures\n\n6\\. Technological Dynamics, Efficiency and Productivity\n\n7\\. Technological Dynamics and Quality Issues\n\n8\\. Economic Effects of Technological Dynamics\n\n9\\. Methods for Evaluating Processes and Technologies - Introduction\n\n10\\. Technology Assessment Methods – Economic Analysis\n\n11\\. Methods for Evaluating Processes and Technologies – Decision Analysis\n\n12\\. Methods for Evaluating Processes and Technologies – Group Support System\n\n13\\. Methods for Evaluating Processes and Technologies – Decision Trees\n\n14\\. Methods for Evaluating Processes and Technologies – System Engineering\n\n15\\. Methods for Evaluating Processes and Technologies – Technology Forecasting (1)\n\n16\\. Methods for Evaluating Processes and Technologies – Technology Forecasting (2)   \n\n17\\. Methods for Evaluating Processes and Technologies – Technology Forecasting (3)\n\n18\\. Technology Policy for Sustainable Development",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "由授課教師講解技術動態理論與分析方法"
+        },
+        {
+            "type": "討論法",
+            "note": "由學生討論相關理論與研究現況"
+        },
+        {
+            "type": "專題研究",
+            "note": "期末學生需要以介紹之理論與方法進行專題研究"
+        }
+    ],
+    "grading": [
+        {
+            "type": "期末考",
+            "weight": 50,
+            "note": "期末隨堂考試"
+        },
+        {
+            "type": "報告",
+            "weight": 50,
+            "note": "以本學期教授之理論與方法撰寫期末報告一篇，並以我國產業實證理論與方法。"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

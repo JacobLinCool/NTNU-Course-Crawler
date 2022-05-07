@@ -1,0 +1,79 @@
+{
+    "year": 107,
+    "term": 2,
+    "name": "企業概論",
+    "teachers": [
+        "林舒柔"
+    ],
+    "department": "ZU83",
+    "code": "PGUA001",
+    "credit": 3,
+    "serial": 3148,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 1,
+            "from": 7,
+            "to": 9,
+            "campus": "本部",
+            "classroom": "樸402"
+        }
+    ],
+    "programs": [
+        "基礎管理學程"
+    ],
+    "comment": "",
+    "restrict": "◎第一階段限 基礎管理學程",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程之主旨為提供管理學程學生對於企業經營管理及企業所處之經營環境有一基本且完整之瞭解，啟發同學對於各種企業功能的興趣，作為規劃未來選修進階管理課程之參考。課程講授採取由外而內的方式來進行，首先將介紹外部環境及產業競爭，之後將從企業倫理、創業、策略、組織、作業管理與品質、人力資源管理、行銷、管理資訊系統及證券投資的角度來探討企業經營內涵，兼顧學理與實務案例說明，讓學生瞭解企業經營發展新趨勢，培養學生對企業管理之興趣，以及奠定日後相關學理之基礎。",
+    "goals": [
+        "了解企業經營管理",
+        "了解企業經營環境及趨勢"
+    ],
+    "syllabus": "1.Introduction to Business\n\n2.Understanding the Business Environment\n\n3.Conducting Business Ethically and Responsibility\n\n4.Understanding Securities and Investment\n\n5.Understanding the Entrepreneurship\n\n6.Understanding the Business Ownership\n\n7.Enron Case Discussion: The Smartest Guys in the Room\n\n8.Understanding the Global Context of Business\n\n9.Mid-term Examination\n\n10.Business Management\n\n11.Managing Operations\n\n12.Improving Quality\n\n13.Managing Human Resources\n\n14.Managing Labor Relations\n\n15.Understanding Marketing Processes\n\n16.Understanding Consumer Behavior\n\n17.Managing Information Systems and Communication Technology\n\n18.Final Examination",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": ""
+        },
+        {
+            "type": "其他",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 15,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 15,
+            "note": ""
+        },
+        {
+            "type": "出席",
+            "weight": 10,
+            "note": ""
+        },
+        {
+            "type": "報告",
+            "weight": 60,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

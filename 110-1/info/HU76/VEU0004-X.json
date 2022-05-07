@@ -1,0 +1,73 @@
+{
+    "year": 110,
+    "term": 1,
+    "name": "電路學實驗",
+    "teachers": [
+        "白凱仁"
+    ],
+    "department": "HU76",
+    "code": "VEU0004",
+    "credit": 3,
+    "serial": 1372,
+    "group": "",
+    "quota": {
+        "limit": 30,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 5,
+            "from": 6,
+            "to": 9,
+            "campus": "本部",
+            "classroom": "電機與感測實驗室"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "1",
+    "classes": "",
+    "dept_group": "",
+    "hours": 2,
+    "description": "",
+    "goals": [
+        "具備電路學實驗所需之知識與理解力",
+        "具備電路學實驗所需之基礎研究能力",
+        "具備電路學實驗之設備操作與檢修實務技能",
+        "具備電路學實驗之檢測與數據分析實務技能",
+        "具備主動積極與終身學習之人格特質",
+        "具備良好的溝通與表達能力",
+        "具備職場專業倫理與社會服務的理解與行動"
+    ],
+    "syllabus": "第1~16週\n\n(1)課程簡介與學期評分說明\n\n(2)直流實驗儀器\n\n(3)電阻、電壓與電流量測\n\n(4)網路定理\n\n(5)暫態響應電路實驗\n\n(6)濾波器電路實驗\n\n(7)交流電路實驗\n\n(8)諧振電路實驗\n\n(9)期末實作考試\n\n第17~18週：線上教學",
+    "methodologies": [
+        {
+            "type": "Formal lecture",
+            "note": "投影片教學"
+        },
+        {
+            "type": "Lab/Studio",
+            "note": "電路實作"
+        }
+    ],
+    "grading": [
+        {
+            "type": "Assignments",
+            "weight": 40,
+            "note": "電路學實驗與記錄"
+        },
+        {
+            "type": "Final exam",
+            "weight": 40,
+            "note": "電路學實作考試(期末考)"
+        },
+        {
+            "type": "Attendances",
+            "weight": 20,
+            "note": "隨堂抽點"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

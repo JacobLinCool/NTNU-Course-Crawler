@@ -1,0 +1,78 @@
+{
+    "year": 107,
+    "term": 2,
+    "name": "半導體製程技術",
+    "teachers": [
+        "胡淑芬"
+    ],
+    "department": "SU41",
+    "code": "PHU0262",
+    "credit": 3,
+    "serial": 2770,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 7,
+            "to": 9,
+            "campus": "公館",
+            "classroom": "理圖003"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "現今IC 製程方法，包括半導體發展歷史，半導體元件基本結構及原理，\n各種使用材料及氣體，晶片製作步驟及相關製程，整合技術基礎簡介,\n及最近研究問題探討。",
+    "goals": [
+        "藉由深入淺出的介紹，讓學生對半導體製程有基本的認識和更深一層的瞭解",
+        "使得有心投入半導體業的人員，對半導體相關技術有一定完整的認識及基礎",
+        "熟悉現今IC 製程方法，包括半導體發展歷史，半導體元件基本結構及原理，各種使用材料及氣體，晶片製作步驟及相關製程，整合技術"
+    ],
+    "syllabus": "第1 週  導論 Introduction第2 週  積體電路生產簡介Integrated circuit production Profile\n\n第3 週  半導體基礎原理元件與製程\n\nFundamentals of semiconductor components and process\n\n第4 週  晶片產出與磊晶 wafer output and epitaxial\n\n第5 週  熱製程 Thermal process\n\n第6 週  微影製程Lithography\n\n第7 週  電漿基礎Plasma foundation  \n第8 週  離子佈植 Ion implantation\n\n第9 週  蝕刻Etching\n\n第10週  期中考Midterm\n\n第11週  化學氣相沉積Chemical vapor deposition\n\n第12週  金屬連線與化學機械研磨Interconnect and chemical mechanical polishing\n\n第13週  製程整合integration\n\n第14週  封裝Assembly and Package\n\n第15週  期刊閱讀報告(I)  Journal reading report (I)\n\n第16週  期刊閱讀報告(II)  Journal reading report (II)\n\n第17週  期刊閱讀報告(III)  Journal reading report (III)  \n第18週  期刊閱讀報告(IV)  Journal reading report (IV)",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": ""
+        },
+        {
+            "type": "專題研究",
+            "note": "期刊查尋及閱讀，以瞭解最近研究發表於期刊之最新技術。"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 15,
+            "note": ""
+        },
+        {
+            "type": "期中考",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 20,
+            "note": ""
+        },
+        {
+            "type": "報告",
+            "weight": 35,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

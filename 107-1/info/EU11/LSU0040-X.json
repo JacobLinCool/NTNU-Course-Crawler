@@ -1,0 +1,86 @@
+{
+    "year": 107,
+    "term": 1,
+    "name": "學習心理",
+    "teachers": [
+        "邱國力"
+    ],
+    "department": "EU11",
+    "code": "LSU0040",
+    "credit": 3,
+    "serial": 891,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 6,
+            "to": 8,
+            "campus": "本部",
+            "classroom": "樸402"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程將全面介紹與人類學習相關的心理學理論，整體重點在於學習理論的主要概念。 此外，本課程將強調學習理論與教學實踐之間的關係。 本課程的主題包括行為學，認知，情感，學習的社會和生物學觀點，以及學習理論在特定內容領域的應用。",
+    "goals": [
+        "1.\t學生能了解學習相關之理論",
+        "2.\t學生能利用學習理論在教學上",
+        "3.\t學生能知道如何評量學習結果"
+    ],
+    "syllabus": "週次\n\n日期\n\n教 學 內 容 與 進 度\n\n1\n\n9/12\n\n課程簡介\n\n2\n\n9/19\n\n學習的本質與意涵\n\n3\n\n9/26\n\n行為主義的學習觀(I)\n\n4\n\n10/3\n\n行為主義的學習觀(II)\n\n5\n\n10/10\n\n雙十節\n\n6\n\n10/17\n\n認知取向的學習觀(I)\n\n7\n\n10/24\n\n認知取向的學習觀(II)\n\n8\n\n10/31\n\n建構主義的學習觀(I)\n\n9\n\n11/7\n\n建構主義的學習觀(II)\n\n10\n\n11/14\n\n期中考\n\n11\n\n11/21\n\n神經科學取向的學習觀\n\n12\n\n11/28\n\n社會取向的學習觀\n\n13\n\n12/5\n\n學習的動機\n\n14\n\n12/12\n\n情境與學習\n\n15\n\n12/19\n\n學習的遷移\n\n16\n\n12/26\n\n學習理論的應用I\n\n17\n\n1/2\n\n學習理論的應用II\n\n18\n\n1/9\n\n期末考週",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": ""
+        },
+        {
+            "type": "問題解決教學",
+            "note": ""
+        },
+        {
+            "type": "實驗/實作",
+            "note": ""
+        },
+        {
+            "type": "專題研究",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "期中考",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 10,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

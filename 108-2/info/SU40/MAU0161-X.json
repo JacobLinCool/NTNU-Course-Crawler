@@ -1,0 +1,94 @@
+{
+    "year": 108,
+    "term": 2,
+    "name": "線性代數（二）",
+    "teachers": [
+        "胡舉卿"
+    ],
+    "department": "SU40",
+    "code": "MAU0161",
+    "credit": 3,
+    "serial": 2680,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 3,
+            "to": 3,
+            "campus": "公館",
+            "classroom": "Ｓ303"
+        },
+        {
+            "day": 4,
+            "from": 3,
+            "to": 4,
+            "campus": "公館",
+            "classroom": "Ｓ303"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎必須先修過【MAU0160  線性代數（一）】",
+    "form_s": "1",
+    "classes": "3",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程讓學生瞭解邏輯、推理、歸納與論證的能力與線性代數的基本理論，以作為學生未來修習其他數學課程的基礎。",
+    "goals": [
+        "訓練學生掌握線性代數的基本理論",
+        "訓練學生可以用線性代數解決相關的數學問題",
+        "培養學生推理、論證的能力。"
+    ],
+    "syllabus": "Section 3.1 Cofactor Expansion\n\nSection 3.2 Properties of Determinants\n\nSection 5.1 : Eigenvalues and Eigenvectors\n\nSection 5.2 : The Characteristic Polynomial  \nSection 5.3 : Diagonalization of Matrices\n\nSection 5.4 : Diagonalization of Linear Operators   \n\nSection 7.1 : The Geometry of Vectors\n\nSection 7.2 :Orthogonal Vectors  \nSection 7.3 : Orthogonal Projections\n\nSection 7.4 : Least-Squares Approximations and Orthogonal Projection Matrices\n\nSection 7.5 : Orthogonal Matrices and Operators                                        \n\nSection 7.6 : Symmetric Matrices\n\nSection 9.2 : Matrices and Vector Spaces with Complex Scalars  \nSection 9.3 : Eigenvalues and Diagonalization  \nSection 9.4 : Jordan Canonical Form",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "課堂上講述課本內容"
+        },
+        {
+            "type": "討論法",
+            "note": "課堂上提問讓學生參與討論"
+        },
+        {
+            "type": "問題解決教學",
+            "note": "課堂上講解習題題目以及課後助教習研"
+        },
+        {
+            "type": "實驗/實作",
+            "note": "每週勾選習題由學生課後練習"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 10,
+            "note": "每週勾選習題由學生課後練習"
+        },
+        {
+            "type": "期中考",
+            "weight": 60,
+            "note": "依據兩次期中考與期末考成績評定學期成績"
+        },
+        {
+            "type": "期末考",
+            "weight": 30,
+            "note": "依據兩次期中考與期末考成績評定學期成績"
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 5,
+            "note": "必要時斟酌課堂表現評定學期成績"
+        },
+        {
+            "type": "出席",
+            "weight": 5,
+            "note": "必要時斟酌出席狀況評定學期成績"
+        }
+    ],
+    "prerequisite": "◎必須先修過【MAU0160  線性代數（一）】",
+    "general_core": []
+}

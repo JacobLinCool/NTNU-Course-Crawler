@@ -1,0 +1,68 @@
+{
+    "year": 108,
+    "term": 2,
+    "name": "統計計算專題（一）",
+    "teachers": [
+        "張少同"
+    ],
+    "department": "SM40",
+    "code": "MAC0039",
+    "credit": 3,
+    "serial": 2542,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 4,
+            "from": 6,
+            "to": 8,
+            "campus": "公館",
+            "classroom": "數學館311研討室"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本科目為數值方法應用於統計學的專門課程，主要研究有效而正確程式設計方法，內容包括積分法，直交矩陣演算法，亂數之產生與模擬方法，並包含探討套裝程式之使用與限制。",
+    "goals": [
+        "讓學生能將數值方法應用於統計學上，並進行資料分析與實務上的應用"
+    ],
+    "syllabus": "**Contents (Subject to change)****：**\n\n1\\. Random number generation  \n2\\. Monte Carlo method   \n3\\. Important sampling  \n4\\. Markov Chain Monte Carlo method  \n5\\. Bootstrap and permutation tests  \n6\\. EM algorithm\n\n**Progress**\n\nWeek 1~15:   Lecture\n\nWeek 16:  Final Project\n\nWeek 17, 18: Self-learning and paper reading",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 50,
+            "note": ""
+        },
+        {
+            "type": "期中考",
+            "weight": 20,
+            "note": ""
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 10,
+            "note": ""
+        },
+        {
+            "type": "報告",
+            "weight": 20,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

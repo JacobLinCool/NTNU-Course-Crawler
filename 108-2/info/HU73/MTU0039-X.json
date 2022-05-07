@@ -1,0 +1,73 @@
+{
+    "year": 108,
+    "term": 2,
+    "name": "熱力學",
+    "teachers": [
+        "鄧敦建"
+    ],
+    "department": "HU73",
+    "code": "MTU0039",
+    "credit": 3,
+    "serial": 1224,
+    "group": "",
+    "quota": {
+        "limit": 60,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 5,
+            "from": 2,
+            "to": 4,
+            "campus": "本部",
+            "classroom": "綜508會議室"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "2",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程為基礎的熱力學，由熱力學基本定律界介紹，讓學生瞭解物質的相關熱力性質與定義。然後再由物質的基本熱力學性質擴展到熱力系統的應用，特別是在工程上的應用，例如：封閉系統的循環、開放性系統的循環、熱泵或是冷凍機的循環等等。讓學生對熱機有一定的認識，作為日後進階課程如：內然機、蒸汽輪機、熱傳學、燃燒學的基礎。",
+    "goals": [
+        "由熱力學基本定律界介紹，讓學生瞭解物質的相關熱力性質與定義。",
+        "介紹熱力系統在工程上的應用。"
+    ],
+    "syllabus": "1.觀念與定義簡介 Introduction\n\n2.純物質的獨立性質 Pure substance\n\n3.熱力性質表與熱力表面 Thermal properties\n\n4.低密度、中密度氣體的p-v-T行為與狀態方程式 Behavior of the gas at low, mid densities and state equation\n\n5.問題討論與分組報告 Discussion on excercises\n\n6.熱力學的熱與功 Heat and work for thermodynamics\n\n7.簡易壓縮系統在移動邊界所做的功 Work on boundaries of the simply compressed system\n\n8.熱的定義與傳遞模式 Definition of the heat and transfer modes\n\n9.期中考 Mid-term exam\n\n10.控制質量循環的熱力學第一定律 First-law for control-mass system\n\n11.理想氣體之內能、焓與比熱 Internal energy, enthalpy, specific heat of Ideal gas\n\n12.作為變化率方程式之第一定律First-law in a time-varying form\n\n13.控制容積的熱力學第一定律分析 First-law for control-volume system\n\n14.暫態過程 Transient process\n\n15.問題討論與分組報告 Discussion on excercises\n\n16.熱力學第二定律：熱機與冷凍機 Second-law: heat engine and refrigerator\n\n17.可逆與不可逆因素、卡諾循環、entropy的簡介 Reversible and irreversible factors, Carnot cycle, entropy\n\n18.期末考 Final-term exam\n\n※ 因應肺炎疫情，5、15兩週次的課可改成傳送習作講解影音檔至Moodle網頁供同學線上學習",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "講述熱力學重要概念與理論"
+        },
+        {
+            "type": "討論法",
+            "note": "討論重要應用例，著重學員參與討論"
+        }
+    ],
+    "grading": [
+        {
+            "type": "期中考",
+            "weight": 35,
+            "note": "筆試"
+        },
+        {
+            "type": "期末考",
+            "weight": 35,
+            "note": "筆試"
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 10,
+            "note": "上台或是錄製VCR講解習作可加分，上限10分，屬於外加原始分數"
+        },
+        {
+            "type": "其他",
+            "weight": 30,
+            "note": "隨堂測驗，一學期5~6次。"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

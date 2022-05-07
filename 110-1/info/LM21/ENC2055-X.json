@@ -1,0 +1,84 @@
+{
+    "year": 110,
+    "term": 1,
+    "name": "程式語言用於語言分析之導論",
+    "teachers": [
+        "陳正賢"
+    ],
+    "department": "LM21",
+    "code": "ENC2055",
+    "credit": 3,
+    "serial": 1659,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 5,
+            "from": 2,
+            "to": 4,
+            "campus": "本部",
+            "classroom": "雲201"
+        }
+    ],
+    "programs": [
+        "數位人文與藝術學程",
+        "大數據學程"
+    ],
+    "comment": "教室位於雲和街大樓2樓（地址：雲和街1號），外系及外校學生需申請門禁權限。",
+    "restrict": "◎課程不開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "",
+    "goals": [
+        "Gain the fundamental concepts in programming languages",
+        "Demonstrate the ability to write scripts to analyze linguistic data"
+    ],
+    "syllabus": "若需更多課程相關訊息，請參考課程網頁<[https://alvinntnu.github.io/NTNU\\_ENC2055/index.html](https://alvinntnu.github.io/NTNU_ENC2055/index.html)\\>，考慮修課同學，可以先行閱讀[FAQ](https://alvinntnu.github.io/NTNU_ENC2055/FAQ.html)。\n-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------\n\n**所有預計修課的同學，第一節課務必出席，若第一節課無法出席的同學，請事先通知老師，否則第一週未出席同學，將視同即將退選。(若第一週是線上課程，也是一樣。)**\n================================================================================\n\n**All enrolled students have to attend the first meeting of the class (be it online or in person). If you cannot show up in the first week, please inform the instructor first. Otherwise, absense from class in the first week will be taken as the message that you are going to drop this course.**\n------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------\n\nENC2055: Introduction to Programming Languages For Linguistic Analysis\n======================================================================\n\n* * *\n\nLast Updated on: 2021-07-19\n\n Annoucements\n=============\n\nImportant course information will be posted on this web page and announced in class. You are responsible for all material that appears here and should check this page for updates frequently.\n\n*   **2021-06-13**: This course is open to the undergraduates. Please feel free to contact the instructor directly for course enrollment.\n*   **2021-06-07**: For those who are considering taking this course, please read the [FAQ](https://alvinntnu.github.io/NTNU_ENC2055/FAQ.html) first before you make the decision. Thank you very much.\n\n* * *\n\n Course Description\n===================\n\nThe objective of this course is to provide a comprehensive introduction to programming languages with a special focus on its application in linguistic analyses. This course is especially tailored to those who do not have any background or experiences in coding. We will start from the very basic concepts, such as data types, variable assignments, control structures, to more complex procedures such as routines, functions, and other exploratory project-based tasks. The course consists of a series of theme-based hands-on tutorials, which demonstrate how the flexibility of the programming language can help you become a more efficient and productive data scientist.\n\nSpecifically, this course will cover coding skills for basic text analytics, including R, Python and shell scripting basics, with the language R being our featuring programming language. We will introduce you to R, Rstudio, and a collection of R packages designed to work together to make linguistic analyses fast, fluent, and fun. Furthermore, we will show you how you can make use of the integrated RStuido for Python and shell scripting. By the end of the course, students should have a working knowledge of coding and an initial ability to advance a project independently as a data scientist.\n\n* * *\n\n Course Schedule\n================\n\n(_This schedule is tentative and subject to change. Please pay attention to the announcements made during the class._)\n\nWeek\n\nDate\n\nTopic\n\nWeek 1\n\n2021-09-24\n\nData Science and R Fundamentals\n\nWeek 2\n\n2021-10-01\n\nData Structure: vectors, lists, matrix, data frame, tibble\n\nWeek 3\n\n2021-10-08\n\nSubsetting\n\nWeek 4\n\n2021-10-15\n\nData Visualization: ggplot2\n\nWeek 5\n\n2021-10-22\n\nData Manipulation: dplyr\n\nWeek 6\n\n2021-10-29\n\nData Import: readr, readtext\n\nWeek 7\n\n2021-11-05\n\nString Manipulation: stringr\n\nWeek 8\n\n2021-11-12\n\nRegular Expressions: stringr\n\nWeek 9\n\n2021-11-19\n\nMidterm Exam\n\nWeek 10\n\n2021-11-26\n\nRegular Expressions: stringr\n\nWeek 11\n\n2021-12-03\n\nRegular Expressions: stringr\n\nWeek 12\n\n2021-12-10\n\nSports Day\n\nWeek 13\n\n2021-12-17\n\nFlow Controls and Functional Programming\n\nWeek 14\n\n2021-12-24\n\nExploratory Data Analysis: A Demo\n\nWeek 15\n\n2021-12-31\n\nHoliday\n\nWeek 16\n\n2022-01-07\n\nFinal Exam\n\nWeek 17\n\n2022-01-14\n\nProject-based Makeup Assignment\n\nWeek 18\n\n2022-01-21\n\nProject-based Makeup Assignment\n\n* * *\n\n Course Requirement\n===================\n\n![](https://alvinntnu.github.io/NTNU_ENC2055/index_files/figure-html/unnamed-chunk-2-1.png)\n\n* * *\n\n Course Materials\n=================\n\nAll the course materials are available on the course website. Please consult the instructor for the direct link to the course materials. They will be provided as a series of online packets (i.e., handouts, script source codes etc.) on the course website. These teaching materials are based on the following recommended readings.\n\n*   [R for Data Science](https://r4ds.had.co.nz/)\n*   [Text Mining with R](https://www.tidytextmining.com/)\n*   [R Programming for Data Science](https://bookdown.org/rdpeng/rprogdatascience/)\n*   [Advanced R](https://adv-r.hadley.nz/)\n*   [R Graphics Cookbook, 2nd Edition](https://r-graphics.org/)\n\n* * *\n\n Email Address\n==============\n\nYou can reach me at [alvinchen@ntnu.edu.tw](mailto:alvinchen@ntnu.edu.tw).\n\n Office Hours\n=============\n\nBy appointment.\n\n Questions?\n===========\n\nFor more information related to this course, please see the [FAQ](https://alvinntnu.github.io/NTNU_ENC2055/FAQ.html) on our course website or write me at any time at: [alvinchen@ntnu.edu.tw](mailto:alvinchen@ntnu.edu.tw)\n\n Course Website\n===============\n\nWe have a [course website](https://alvinntnu.github.io/NTNU_ENC2055/index.html). You may need a password to get access to the course materials. If you are an officially enrolled student, please ask the instructor for the access code.\n\n Disclaimer & Agreement\n=======================\n\nWhile I have made every attempt to ensure that the information contained on the Website is correct, I am not responsible for any errors or omissions, or for the results obtained from the use of this information. All information on the Website is provided “as is”, with no guarantee of completeness, accuracy, timeliness or of the results obtained from the use of this information, and without warranty of any kind, express or implied.\n\nYou may print a copy of any part of this website for your personal or non-commercial use. Without the author’s prior written consent, you cannot disclose confidential information of the website (e.g., log-in username and password) to any third party.",
+    "methodologies": [
+        {
+            "type": "Formal lecture",
+            "note": ""
+        },
+        {
+            "type": "Group discussion",
+            "note": ""
+        },
+        {
+            "type": "Problem base learning",
+            "note": ""
+        },
+        {
+            "type": "Lab/Studio",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "Assignments",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "Midterm Exam",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "Final exam",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "Class discussion involvement",
+            "weight": 10,
+            "note": ""
+        }
+    ],
+    "prerequisite": "◎Unavailable for M.A. program students (M.A. program courses excepted) and B.A. program students.",
+    "general_core": []
+}

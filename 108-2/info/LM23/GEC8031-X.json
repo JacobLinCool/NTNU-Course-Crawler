@@ -1,0 +1,74 @@
+{
+    "year": 108,
+    "term": 2,
+    "name": "氣候學特論",
+    "teachers": [
+        "洪致文"
+    ],
+    "department": "LM23",
+    "code": "GEC8031",
+    "credit": 2,
+    "serial": 1559,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 5
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 8,
+            "to": 9,
+            "campus": "本部",
+            "classroom": "地理系研討室六"
+        }
+    ],
+    "programs": [],
+    "comment": "上課教室：文學院勤9F地理系研討室六。",
+    "restrict": "◎課程不開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 2,
+    "description": "This course describes various physical, radiative, dynamical processes involved in the earth’s climate system. In particular, it will emphasize the importance of climate dynamics in explaining the current research areas such as ENSO dynamics, Arctic oscillation, and effects of global warming on monsoons. In this course, active discussions on some influential journal articles are an important part by which students will acquire updated information regarding various aspects of climate change research.",
+    "goals": [
+        "能了解當前重要氣候課題",
+        "能運用常用的氣候統計分析工具",
+        "能分析特定的氣候變異問題",
+        "能了解氣候變遷常用的模式工具"
+    ],
+    "syllabus": "Selected Topics  \n1\\. Dynamics of troposphere  \n2\\. Dynamics of stratosphere  \n3\\. Exchanges between troposphere and stratosphere\n\n4\\. Exchanges between troposphere and stratosphere  \n5\\. Atmosphere-ocean interactions  \n6\\. Theory of ENSO dynamics\n\n7\\. Atmosphere-land surface interactions  \n8\\. Arctic Oscillation (AO), Antarctic Oscillation (AAO), and annular mode  \n9.期中報告\n\n10\\. Ozone hole and ozone depletion  \n11\\. Monsoon and Tropospheric Quasi-biennial oscillation  \n12\\. Stratospheric Quasi-biennial oscillation  \n13\\. Concept of climate predictability\n\n14\\. Concept of climate predictability  \n15\\. Climate sensitivity and feedback mechanisms  \n16\\. Coupled climate system models and model simulations  \n17\\. Natural vs. anthropogenic Climate Change: model projections\n\n18.期末報告",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "介紹氣候課題"
+        },
+        {
+            "type": "討論法",
+            "note": "經典論文研讀"
+        },
+        {
+            "type": "專題研究",
+            "note": "就特定議題進行分析"
+        }
+    ],
+    "grading": [
+        {
+            "type": "課堂討論參與",
+            "weight": 20,
+            "note": ""
+        },
+        {
+            "type": "報告",
+            "weight": 30,
+            "note": "期中、期末口頭報告"
+        },
+        {
+            "type": "專題",
+            "weight": 50,
+            "note": "期中、期末書面報告"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

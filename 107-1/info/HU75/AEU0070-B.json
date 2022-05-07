@@ -1,0 +1,75 @@
+{
+    "year": 107,
+    "term": 1,
+    "name": "電機專題製作（一）",
+    "teachers": [
+        "黃政吉"
+    ],
+    "department": "HU75",
+    "code": "AEU0070",
+    "credit": 1,
+    "serial": 1331,
+    "group": "B",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 5,
+            "from": 7,
+            "to": 7,
+            "campus": "本部",
+            "classroom": "教室自排"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "3",
+    "classes": "",
+    "dept_group": "",
+    "hours": 1,
+    "description": "訓練學生專題實作能力，提升學生實務技能、培養學生團隊分工合作精神、並藉由競賽來提高學生成品之水準。",
+    "goals": [
+        "檢驗學生的專業知識及實作的能力",
+        "培養學生設計與研發的能力",
+        "使本系之學生在畢業前具備基本的職場實務能力",
+        "培養學生團隊合作與專業倫理之態度，具備國際觀及服務社會之信念"
+    ],
+    "syllabus": "1\\. 演講 (共三周)\n\n2\\. 進度報告 (共四次)",
+    "methodologies": [
+        {
+            "type": "討論法",
+            "note": "進度報告"
+        },
+        {
+            "type": "其他",
+            "note": "演講"
+        }
+    ],
+    "grading": [
+        {
+            "type": "課堂討論參與",
+            "weight": 10,
+            "note": "發問"
+        },
+        {
+            "type": "出席",
+            "weight": 10,
+            "note": "點名"
+        },
+        {
+            "type": "專題",
+            "weight": 30,
+            "note": "進度報告"
+        },
+        {
+            "type": "其他",
+            "weight": 50,
+            "note": "指導教授給分"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

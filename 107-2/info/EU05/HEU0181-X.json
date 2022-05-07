@@ -1,0 +1,74 @@
+{
+    "year": 107,
+    "term": 2,
+    "name": "生物統計學",
+    "teachers": [
+        "李子奇"
+    ],
+    "department": "EU05",
+    "code": "HEU0181",
+    "credit": 3,
+    "serial": 749,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 1,
+            "from": 2,
+            "to": 4,
+            "campus": "本部",
+            "classroom": "誠106"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎必須先修過(也可以同時修)【HEU0156  健康促進與衛生教育導論】、【HEU0011  個人衛生】",
+    "form_s": "1",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程旨在使學生認識統計的內含與過程、描述性統計及推論統計的方法與其應用，以便日後能運用於健康促進與衛生教育的工作之中。",
+    "goals": [
+        "描述性統計及推論統計的方法與其應用",
+        "運用於健康促進與衛生教育的工作之中",
+        "認識統計的內含與過程"
+    ],
+    "syllabus": "本課程是生物統計學的入門課程，介紹基礎的統計學概念與方法，包括描述性統計、機率與機率分布、抽樣分布、估計、假設檢定、平均值差異比較、變異數分析、迴歸分析、卡方檢定與關聯表分析，強調統計學基礎概念與方法的詳細瞭解。 \n\n週次/Week\n\n**課程內容****(****中文****)**\n\n**Content**\n\n1\n\n課程簡介\n\nIntroduction\n\n2\n\n生物統計學概論 (Daniel Ch1)\n\nPrimer of biostatistics\n\n3\n\n描述性統計 (Daniel Ch2)\n\nDescriptive statistics\n\n4\n\n機率 (Daniel Ch3)\n\nProbability\n\n5\n\n機率分布 (Daniel Ch4)\n\nProbability distribution\n\n6\n\n機率分布 (Daniel Ch4)\n\nProbability distribution\n\n7\n\n抽樣分布 (Daniel Ch5)\n\nSampling distribution\n\n8\n\n抽樣分布 (Daniel Ch5)\n\nSampling distribution\n\n9\n\n期中考\n\nMid-term Examination\n\n10\n\n估計 (Daniel Ch6)\n\nEstimation\n\n11\n\n估計 (Daniel Ch6)\n\nEstimation\n\n12\n\nT檢定 (Daniel Ch7)\n\nT test\n\n13\n\nT檢定 (Daniel Ch7)\n\nT test\n\n14\n\n變異數分析 (Daniel Ch8)\n\nAnalysis of variance\n\n15\n\n迴歸分析與相關 (Daniel Ch9-10)\n\nRegression and correlation\n\n16\n\n迴歸分析與相關 (Daniel Ch9-10)\n\nRegression and correlation\n\n17\n\n卡方檢定與關聯表分析 (Daniel Ch12)\n\nChi-square test analysis and contingency table analysis\n\n18\n\n期末考\n\nFinal-term Examination",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "教科書內容導讀與講解"
+        },
+        {
+            "type": "討論法",
+            "note": "疑難問題課堂討論"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 30,
+            "note": "個人回家作業"
+        },
+        {
+            "type": "期中考",
+            "weight": 30,
+            "note": "紙筆測驗"
+        },
+        {
+            "type": "期末考",
+            "weight": 30,
+            "note": "紙筆測驗"
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 10,
+            "note": ""
+        }
+    ],
+    "prerequisite": "◎必須先修過(也可以同時修)【HEU0156  健康促進與衛生教育導論】、【HEU0011  個人衛生】",
+    "general_core": []
+}

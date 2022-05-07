@@ -1,0 +1,86 @@
+{
+    "year": 108,
+    "term": 2,
+    "name": "高級教育統計學（甲）",
+    "teachers": [
+        "李子奇"
+    ],
+    "department": "E",
+    "code": "E0C8001",
+    "credit": 3,
+    "serial": 338,
+    "group": "A",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 5,
+            "to": 7,
+            "campus": "本部",
+            "classroom": "正202"
+        }
+    ],
+    "programs": [
+        "學習與資訊學程",
+        "大數據學程"
+    ],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "統計學是從事量化研究必備的知能，本課程理論和實務並重，除講授統計分析原理和技術外，並結合套裝程式的操作。為強化學生學以致用的能力，各種統計方法皆設計單元作業，提供數個真實研究的資料檔，要求學生自擬研究問題和假設，應用套裝程式執行分析，並依學術論文格式撰寫分析結果報告。",
+    "goals": [
+        "1.\t了解常用統計檢定方法的原理及其適用時機",
+        "2.\t選擇適切的分析方法解決問題和解釋分析結果",
+        "3.\t運用統計軟體執行資料分析並撰寫分析結果報告"
+    ],
+    "syllabus": "**We encourage you to speak in English in this course. The lecture and discussion will be performed by speaking in English.**\n\n**Prerequisites:**\n\nYou should have experience with fundamental statistics. Experience using with IBM SPSS is not necessary, though basic familiarity with Factor analysis and Structural Equation Modeling would be helpful.\n\n**Course Description:**\n\nAccording to social and behavioral science research methods increasingly complex and advanced in computer technology in recent years, a variety of multivariate statistical method has good application in the analysis of social and behavioral sciences research data. This course describes the use of SPSS statistical software and the use of multivariate statistical methods to analyze research data.\n\n**Assessment Methodologies:**\n\nAssignments 20%\n\nMidterm Exam 30%\n\nFinal exam 30%\n\nClass discussion involvement 10%\n\nPresentation 10%\n\n**Required and Recommended Texts/Readings with References:**\n\nJulie Pallant  (2010) SPSS Survival Manual : A step by step guide to data analysis using SPSS ISBN：9780335242399\n\n**Schedule:**\n\nWeek\n\n**Content**\n\n1\n\nIntroduction of quantitate study\n\n2\n\nSPSS statistical software practice I\n\n3\n\nSPSS statistical software practice II\n\n4\n\nSPSS statistical software practice III\n\n5\n\nSPSS statistical software practice IV\n\n6\n\nSPSS statistical software practice V\n\n7\n\nFactorial analysis of variance I\n\n8\n\nFactorial analysis of variance II\n\n9\n\nMid-term Examination\n\n10\n\nMultiple regression I\n\n11\n\nMultiple regression II\n\n12\n\nItem analysis, validity and reliability\n\n13\n\nExplore factor analysis\n\n14\n\nConfirmatory factor analysis\n\n15\n\nStructure equation modeling I\n\n16\n\nStructure equation modeling II\n\n17\n\nLearning on your own\n\n18\n\nLearning on your own\n\n  \nLearning on your own 自主學習:自行綜整研習本學期的課程, 遇有疑難問題, 洽老師討論研習 (網路教學或面對面教學)。",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": ""
+        },
+        {
+            "type": "實驗/實作",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 20,
+            "note": ""
+        },
+        {
+            "type": "期中考",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 10,
+            "note": ""
+        },
+        {
+            "type": "報告",
+            "weight": 10,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

@@ -1,0 +1,87 @@
+{
+    "year": 110,
+    "term": 1,
+    "name": "資訊管理",
+    "teachers": [
+        "黃浩霆"
+    ],
+    "department": "OM55",
+    "code": "MBM0080",
+    "credit": 3,
+    "serial": 4902,
+    "group": "",
+    "quota": {
+        "limit": 30,
+        "additional": 0
+    },
+    "schedule": [
+        {
+            "day": 1,
+            "from": 7,
+            "to": 9,
+            "campus": "本部",
+            "classroom": "雲508"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程不開放上修",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "",
+    "goals": [
+        "協助學生瞭解資訊科技於各管理領域之運用，進而熟悉如何利用資訊科技提升企業營運整體成效",
+        "希望藉由小組討論培養學生合作學習的能力",
+        "透過個案討論，讓學生將資訊科技與組織決策、行銷、顧客關係管理、生產製造、供應鏈等知識加以融會貫通"
+    ],
+    "syllabus": "【teaching arrangement：16+2 weeks】\n\nFlexible teaching arrangement: Make an appointment with the teacher within the first 8 weeks to discuss the content of the final group presentation.\n\nWeek 1  Course Introduction\n\nWeek 2  Chapter 1: The Importance of MIS\n\nWeek 3  Public holiday\n\nWeek 4  Chapter 2: Business Process, Information System, and Information\n\nWeek 5  Chapter 3: Organizational Strategy, Information Systems, and Competitive Advantage\n\nWeek 6  Chapter 4: Hardware and Software\n\nWeek 7  \\[Guest Lecture\\] Taiwanese Language and Information System\n\nWeek 8  Mid-term Exam\n\nWeek 9  Chapter 5: The Cloud\n\nWeek 10  Chapter 7: Organizations and Information Systems\n\nWeek 11  \\[Guest Lecture\\] IT Governance\n\nWeek 12  Chapter 11 and 12: Information Systems Management and Development\n\nWeek 13  Chapter 9: Business Intelligence\n\nWeek 14  Final Report Presentation (1)\n\nWeek 15 Final Report Presentation (2)\n\nWeek 16  Final Exam",
+    "methodologies": [
+        {
+            "type": "Formal lecture",
+            "note": "Main topics are provided by the teacher in advance every week, and students are asked to preview the textbook and discuss in class."
+        },
+        {
+            "type": "Group discussion",
+            "note": "Conduct relevant case discussions with students based on the course content"
+        },
+        {
+            "type": "Cooperative learning",
+            "note": "Cultivate the ability to share information technology knowledge with the public through group presentation"
+        },
+        {
+            "type": "Media, audio, visual materials",
+            "note": "Use short videos to share and discuss the latest technology and knowledge with students"
+        }
+    ],
+    "grading": [
+        {
+            "type": "Assignments",
+            "weight": 15,
+            "note": "Reflective Journal"
+        },
+        {
+            "type": "Midterm Exam",
+            "weight": 20,
+            "note": "test + MCQ design"
+        },
+        {
+            "type": "Final exam",
+            "weight": 20,
+            "note": "test + MCQ design"
+        },
+        {
+            "type": "Class discussion involvement",
+            "weight": 15,
+            "note": "Students are required to participate in the discussion based on the course content"
+        },
+        {
+            "type": "Presentation",
+            "weight": 30,
+            "note": "Final group presentation"
+        }
+    ],
+    "prerequisite": "◎Unavailable for M.A. program students (M.A. program courses excepted) and B.A. program students.",
+    "general_core": []
+}

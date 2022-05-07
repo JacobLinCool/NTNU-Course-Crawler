@@ -1,0 +1,91 @@
+{
+    "year": 109,
+    "term": 1,
+    "name": "３Ｄ電腦動畫（一）",
+    "teachers": [
+        "周賢彬"
+    ],
+    "department": "TU68",
+    "code": "VDU0174",
+    "credit": 2,
+    "serial": 3218,
+    "group": "",
+    "quota": {
+        "limit": 30,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 4,
+            "from": 16,
+            "to": 12,
+            "campus": "本部",
+            "classroom": "教404"
+        }
+    ],
+    "programs": [
+        "科技藝術學程"
+    ],
+    "comment": "",
+    "restrict": "◎必須先修過【VDU0019  電腦繪圖】",
+    "form_s": "2",
+    "classes": "",
+    "dept_group": "",
+    "hours": 4,
+    "description": "使學生熟習3D件模之技術與應用於各類設計領域",
+    "goals": [
+        "3D媒體基礎建模與表現"
+    ],
+    "syllabus": "第一週 課程簡介：基本操作、座標系統; viewport, camera, primitive, \n\n第二週 2D 轉3D：loft,extrude,bevel,bevel profile,lathe shape editing\n\n第三週 中秋節放假\n\n第四週 建模方法 物件編輯、立體文字、 板凳 、杯子\n\n第五週 範例 nurbs(窗簾) 、蜘蛛、水\n\n第六週 範例 椅子、loft(杯子)、多面體編修(poly editing)\n\n第七週 範例 老鼠、人物 、角色造型\n\n第八週 **作業1(幾何動畫)**\n\n第九週 材質、燈光、攝影機簡介\n\n 第十週布料動畫、剛體運動\n\n第十一週動畫設定：材質動畫、變形動畫、燈光動畫\n\n第十二週 劇本、分鏡腳本\n\n 第十三週 鏡頭語言\n\n第十四週 character generation角色製作\n\n 第十五週 範例  humanmaker角色製作、角色動畫 poser, bryce, www.facegen.com…\n\n 第十六週範例 後製作 特效\n\n第十七週 配音\n\n第十八週**作業2(幾何動畫或角色動畫)**",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "問題解決教學",
+            "note": ""
+        },
+        {
+            "type": "實驗/實作",
+            "note": ""
+        },
+        {
+            "type": "媒體融入教學",
+            "note": ""
+        },
+        {
+            "type": "專題研究",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 40,
+            "note": ""
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 10,
+            "note": ""
+        },
+        {
+            "type": "出席",
+            "weight": 10,
+            "note": ""
+        },
+        {
+            "type": "報告",
+            "weight": 20,
+            "note": ""
+        },
+        {
+            "type": "專題",
+            "weight": 20,
+            "note": ""
+        }
+    ],
+    "prerequisite": "◎必須先修過【VDU0019  電腦繪圖】",
+    "general_core": []
+}

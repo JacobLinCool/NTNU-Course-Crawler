@@ -1,0 +1,83 @@
+{
+    "year": 110,
+    "term": 2,
+    "name": "資訊管理",
+    "teachers": [
+        "黃浩霆"
+    ],
+    "department": "OU57",
+    "code": "BAU0008",
+    "credit": 3,
+    "serial": 2446,
+    "group": "",
+    "quota": {
+        "limit": 60,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 5,
+            "from": 7,
+            "to": 9,
+            "campus": "本部",
+            "classroom": "誠207"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎必須先修過【BAU0006  管理科學模式】 ◎課程開放上修",
+    "form_s": "3",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "The goal of this course is to let the students learn how information technology enhances the effectiveness and efficiency of business management and improves the enterprises competitive advantages. The topics include the intertwined relationship between the revolution of information technology and business management, the components of information systems, how to plan and build information systems, the roles of information management in business management, how to improve the competitive advantages of enterprises by information technology, etc.",
+    "goals": [
+        "瞭解資訊科技的要素及發展以及於企業經營中所扮演的角色",
+        "瞭解如何運用資訊科技提升競爭優勢，以及規劃與建置資訊系統",
+        "瞭解資訊科技相關的道德倫理問題",
+        "培養跟同輩合作向大眾分享資訊科技知識的能力"
+    ],
+    "syllabus": "【16+2週】彈性授課之方式：每組別於期末考試前主動約見老師討論期末報告題目。\n\n注意: 因版權問題，這門課**不會**提供授課PPT下載，請同學閱讀教科書。\n\n**日期**\n\n**授課內容及主題**\n\n**2****月18****日**\n\n課程介紹\n\n2月25日\n\n第1章:MIS的重要性(1) \n\n3月4日\n\n第1章:MIS的重要性(2)\n\n3月11日\n\n第2章:企業流程、資訊系統與資訊 \n\n3月18日\n\n第3章:組織策略、資訊系統與競爭優勢\n\n3月25日\n\n業界嘉賓演說\n\n4月1日\n\n期中考試\n\n4月8日\n\n第4章:硬體與軟體\n\n4月15日\n\n第6章:雲端 \n\n4月22日\n\n第7章:企業與資訊系統 \n\n4月29日\n\n第9章:商業智慧系統 +期未報告\n\n5月6日\n\n期末考試\n\n5月13日\n\n期未報告\n\n5月20日\n\n期未報告\n\n5月27日\n\n期未報告\n\n6月3日\n\n端午節",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "由老師每週事先提供主要議題，請同學據以先預習課本，上課討論"
+        },
+        {
+            "type": "討論法",
+            "note": "配合課程內容與學生進行相關個案討論"
+        },
+        {
+            "type": "合作學習",
+            "note": "透過群組合作報告，培養向大眾分享資訊科技知識的能力"
+        },
+        {
+            "type": "媒體融入教學",
+            "note": "利用網路短片與學生分享及討論最新科技新知"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 25,
+            "note": "期末反思 (15%)+ 選擇題設計(10%)"
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 20,
+            "note": "配合個案討論，需要同學參與討論 + 老師印象"
+        },
+        {
+            "type": "報告",
+            "weight": 25,
+            "note": "專題報告"
+        },
+        {
+            "type": "其他",
+            "weight": 30,
+            "note": "期中+ 期末考試"
+        }
+    ],
+    "prerequisite": "◎必須先修過【BAU0006  管理科學模式】",
+    "general_core": []
+}

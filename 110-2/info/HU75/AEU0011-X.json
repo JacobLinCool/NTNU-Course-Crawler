@@ -1,0 +1,78 @@
+{
+    "year": 110,
+    "term": 2,
+    "name": "電子學（二）",
+    "teachers": [
+        "林群祐"
+    ],
+    "department": "HU75",
+    "code": "AEU0011",
+    "credit": 3,
+    "serial": 1277,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 26
+    },
+    "schedule": [
+        {
+            "day": 5,
+            "from": 2,
+            "to": 4,
+            "campus": "本部",
+            "classroom": "誠108"
+        }
+    ],
+    "programs": [
+        "太陽能源與工程學程"
+    ],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "2",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "使學生了解更複雜的類比與數位積體電路及系統。內容包括單級的積體電路放大器、差動和多級放大器、頻率響應、回授、及運算放大器的內部電路。",
+    "goals": [
+        "教育學生運用科學與工程知識與技術，以解決電機電子工程相關之問題",
+        "培養學生獨立思考之能力，奠定學生終身學習之基礎"
+    ],
+    "syllabus": "【授課方式：16+2週】  \n  \n【授課16週】  \n第1~4週      Ch. 7. Building Blocks of Integrated-Circuit Amplifiers  \n第5~7週      Ch. 8. Differential and Multistage Amplifiers  \n第8週          期中考  \n第9~12週    Ch. 9. Frequency Response  \n第13~15週  Ch. 10. Feedback  \n第16週        期末考  \n(教學進度與主題會依實際情況略作調整)  \n  \n【彈性教學2週】  \n包含數位學習、自主學習、補救教學等",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "針對課程內容進行講授。"
+        },
+        {
+            "type": "討論法",
+            "note": "課程中會提出一些思考問題，讓同學們互相討論並回答。"
+        },
+        {
+            "type": "問題解決教學",
+            "note": "訓練學生思考與解決電子電路設計問題。"
+        },
+        {
+            "type": "媒體融入教學",
+            "note": "透過power point進行教學。"
+        }
+    ],
+    "grading": [
+        {
+            "type": "期中考",
+            "weight": 30,
+            "note": "上半學期課程內容測驗"
+        },
+        {
+            "type": "期末考",
+            "weight": 30,
+            "note": "下半學期課程內容測驗"
+        },
+        {
+            "type": "其他",
+            "weight": 40,
+            "note": "課程內容相關之作業或小考"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

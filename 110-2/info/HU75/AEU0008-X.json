@@ -1,0 +1,72 @@
+{
+    "year": 110,
+    "term": 2,
+    "name": "工程數學（一）",
+    "teachers": [
+        "賴以威"
+    ],
+    "department": "HU75",
+    "code": "AEU0008",
+    "credit": 3,
+    "serial": 1274,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 1,
+            "from": 7,
+            "to": 9,
+            "campus": "本部",
+            "classroom": "誠108"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "1",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "",
+    "goals": [
+        "Realize theoretical concepts, professional terminologies and solve problems of engineering mathematics."
+    ],
+    "syllabus": "Week 1          : Introduction\n\nWeek 1-3       : First order ordinary differential equation (ODE)\n\nWeek 4-6       : High order differential equation\n\nWeek 7          : Midterm examination\n\nWeek 8          : Linear DE systems\n\nWeek 9-10    : Laplace transform\n\nWeek 11-12   : Laplace transform for solving differntial equation\n\nWeek 13        : Fourier transform\n\nWeek 14        : Final examination\n\nWeek 15~16   : Final report\n\nThe last two weeks are used for the students to review the lectures and prepare the final report in paper formats (if necessary).",
+    "methodologies": [
+        {
+            "type": "Formal lecture",
+            "note": "Powerpoint slides based on the reference books"
+        },
+        {
+            "type": "Group discussion",
+            "note": "Group discussion and final presentation"
+        }
+    ],
+    "grading": [
+        {
+            "type": "Midterm Exam",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "Final exam",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "Class discussion involvement",
+            "weight": 15,
+            "note": "Exercises and quiz"
+        },
+        {
+            "type": "Presentation",
+            "weight": 25,
+            "note": "Each group will give final presentations that introduce the applications of EM in EE domain"
+        }
+    ],
+    "prerequisite": "◎Available for junior and senior year B.A. program students (Doctoral program courses excepted) and M.A. program students.",
+    "general_core": []
+}

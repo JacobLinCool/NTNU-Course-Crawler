@@ -1,0 +1,81 @@
+{
+    "year": 110,
+    "term": 1,
+    "name": "決策理論與分析",
+    "teachers": [
+        "黃啟祐"
+    ],
+    "department": "HM70",
+    "code": "IEC8009",
+    "credit": 3,
+    "serial": 1160,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 3,
+            "from": 11,
+            "to": 13,
+            "campus": "本部",
+            "classroom": "研討一"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "Decision theory is a body of knowledge and related analytical techniques of different degrees of formality designed to help a decision maker choose among a set of alternatives in light of their possible consequences. Decision theory is concerned with identifying the values, uncertainties and other issues relevant in a given decision, its rationality, and the resulting optimal decision. Thus, a good understanding of decision theory can assist officials, managers, teachers, etc. to make correct decisions so as to achieve the aspired levels of the goals with respect to decision problems. \n\n\nIn this course, fundamental concepts as well as advances in modern decision theories and methods will be introduced for serving as the foundation for students�� future researches. Students will be requested to implement decision method(s) on real world problems for verifying their real understanding of the methods.",
+    "goals": [
+        "具備資料分析與報告撰寫的實務技能"
+    ],
+    "syllabus": "  \n決策理論在現代世界中重要之重要性日增， 對決策科學和理論的良好理解可以幫助經理人做出正確決定，解決問題。 因此，本課程將介紹基本概念以及現代決策理論和方法的進展，作為學生學術研究與正確決策的基礎。本課程包含之主題如下：  \n\n  \n\n1.Mathematical background review\n\nLinear programming\n\nLinear algebra\n\nStatistics\n\n2.Modeling Decision Problem Structures \n\nISM\n\nDEMATEL\n\n3.Modeling Uncertainties \n\nFuzzy Theory\n\nGrey Relational Analysis  \n\nRough Set Theory \n\n4.Modeling Preferences \n\n Weight Calculation\n\nAHP, ANP\n\n Multiple Attribute Decision Making\n\nMCDM, MODM, Fuzzy MCDM, Fuzzy MODM\n\n5.Bayesian Decision Theory \n\n6.Group Decision Making Theories and Methods\n\n7.Evolutionary Optimization and Decision Making\n\n8.Model Building for Decision Analysis\n\n9.Decision Support System Development\n\n10.Decision Analysis Tools Introduction",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": ""
+        },
+        {
+            "type": "專題研究",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 20,
+            "note": ""
+        },
+        {
+            "type": "期中考",
+            "weight": 20,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 20,
+            "note": ""
+        },
+        {
+            "type": "出席",
+            "weight": 20,
+            "note": ""
+        },
+        {
+            "type": "報告",
+            "weight": 20,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

@@ -1,0 +1,68 @@
+{
+    "year": 109,
+    "term": 2,
+    "name": "地圖使用與分析",
+    "teachers": [
+        "吳秉昇"
+    ],
+    "department": "LU23",
+    "code": "GEU0074",
+    "credit": 3,
+    "serial": 1905,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 5
+    },
+    "schedule": [
+        {
+            "day": 3,
+            "from": 6,
+            "to": 8,
+            "campus": "本部",
+            "classroom": "誠107"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "2",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "1. 培養學生具備良好的地圖設計能力，並善用地理資訊技術繪製各式主題地圖。\n2. 利用不同類型之地圖判讀，協助學生建立良好的空間認知概念。",
+    "goals": [
+        "從認識地圖進而瞭解正確使用地圖的方法",
+        "從分析地圖進而啟發深入發掘地圖的奧秘",
+        "從評價地圖進而養成判斷地圖信息的價值"
+    ],
+    "syllabus": "This course focuses on the use and analysis on maps for geography issues, especially sustainable development and ecological management. Through the adoption of geospatial technologies and GIS analytical tools, students will familiarize the integration of geography theories with GIS methodology and develop solid academic foundation of interdisciplinary research.\n\nTentative topics covered in this course are:\n\n1.  Introduction of Map design and analysis\n2.  Methods of data collection \n3.  Urban climate issues\n4.  Visualization of weather\n5.  Urban flooding issues\n6.  Hydrological modeling and simulation \n7.  Irregular precipitation issues\n8.  Spatial analysis and representation of precipitation \n9.  Urban Heat Island effects \n10.  Spatial-temporal dynamics of urban heat island effect\n11.  Location-Based Services (LBS)\n12.  Web-GIS Map Services\n13.  3D and VR/AR: A new trend of spatial representation",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "實驗/實作",
+            "note": ""
+        },
+        {
+            "type": "實地考察、參訪",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 40,
+            "note": "課堂作業"
+        },
+        {
+            "type": "報告",
+            "weight": 60,
+            "note": "分組報告30% + 期末書面報告30%"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

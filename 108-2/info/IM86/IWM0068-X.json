@@ -1,0 +1,94 @@
+{
+    "year": 108,
+    "term": 2,
+    "name": "電子化人力資源研究",
+    "teachers": [
+        "葉俶禎"
+    ],
+    "department": "IM86",
+    "code": "IWM0068",
+    "credit": 3,
+    "serial": 1324,
+    "group": "",
+    "quota": {
+        "limit": 40,
+        "additional": 15
+    },
+    "schedule": [
+        {
+            "day": 3,
+            "from": 7,
+            "to": 9,
+            "campus": "本部",
+            "classroom": "誠105"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程不開放上修",
+    "form_s": "1",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "This course provides a thorough introduction to the field of electronic human resource management/development (e-HR), a combination of two major management fields that impact the competitive advantage of companies, human resources and technology. In this course, students will learn 1) the potential value and current capacity of technology in various human resource functions, 2) how to design and implement technology to maximize company's HR, 3) how to move from data to information to help the HR provide strategic value to stakeholders, and 4) what are the possible impact of emerging technology such as social media, big data and artificial intelligence on HR. This course is conducted using a combination of lectures, student presentations, hands-on practices and case studies.",
+    "goals": [
+        "Describe the concepts of e-Human Resource and current applications.",
+        "Explain how information technology supports each functional process of human resource management, e.g., recruiting, training, compensation, etc.",
+        "Use workforce analytics to produce human resource metrics",
+        "Critically evaluate e-HR systems, applications and venders to make acquisition decisions.",
+        "Discuss issues in system implementation and change management process.",
+        "Describe emerging technological trends in the human resource function, e.g., AI."
+    ],
+    "syllabus": "Week\n\nTopic\n\nNote\n\n1\n\nIntroduction to e-HR, Syllabus Overview\n\n2\n\nDatabase concepts and applications in HRIS\n\nHR database practice\n\n3\n\nHR administration in e-HR era\n\n4\n\nTalent management in e-HR era\n\nHR reporting & database exercise due\n\n5\n\ne-Recruiting & e-Selection\n\n6\n\ne-Learning\n\nTraining and development with HRIS applications \n\ne-Recruiting exercise due\n\n7\n\nPerformance management, compensation, benefits, payroll in HRIS\n\n8\n\nAdoption and systems considerations in the design of HRIS\n\ne-HR case study project proposal presentation\n\ne-HR project proposal due\n\n9\n\ne-HR implementation, project management, and change management issues\n\n10\n\nNew technology development and future of e-HR: social media, big data, AI\n\n11\n\nHR metrics and workforce/HR analytics I\n\n12\n\nHR metrics and workforce/HR analytics II\n\n13\n\nHR metrics and workforce/HR analytics III\n\n14\n\nSpeech/Work session for workforce analytics report\n\nWorkforce analytics exercise due\n\n15\n\nSpeech/Work session for case report\n\n16\n\ne-HR case study project presentation\n\nPresentation ppt due\n\n17\n\nWork session for case report\n\n18\n\nWork session for case report\n\ne-HR case study project report due",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "Benefits and challenges of e-HR practices will be introduced, as well as the current status of HR technology and e-HR adoption issues."
+        },
+        {
+            "type": "討論法",
+            "note": "Students will discuss related issues and trends introduced by the instructor and research topics presented by fellow students."
+        },
+        {
+            "type": "合作學習",
+            "note": "Students will collaborate on a case study of e-HR."
+        },
+        {
+            "type": "專題研究",
+            "note": "Students will select a benchmark company and conduct a case study of their e-HR adoption and practices."
+        },
+        {
+            "type": "其他",
+            "note": "Students will complete in-class and take-home exercises such as a simple HR database and reports, a workforce analytics report, etc."
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 20,
+            "note": "Students will complete in-class and take-home exercises on 1) designing a simple HR database and reports; 2) workforce analytics report; 3) other in-class exercises."
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 10,
+            "note": "Students are expected to come to each class prepared to discuss the readings and assignments and to play an active role in contributing to class discussions."
+        },
+        {
+            "type": "出席",
+            "weight": 10,
+            "note": "Class attendance is absolutely essential. Please come to the class on time and notify the instructor ahead of time if you will be late or absent for a class."
+        },
+        {
+            "type": "報告",
+            "weight": 30,
+            "note": "Each student will present assigned readings and lead a discussion of the key points each week. The student responsible for the presentation should email a completed Powerpoint file with a list of discussion questions to the instructor the night before class."
+        },
+        {
+            "type": "專題",
+            "weight": 30,
+            "note": "Students will form groups to complete a case analysis report on the e-HR practices of a selected benchmark company. To complete the report student should conduct a field research on an industry-leading company to find out how e-HR supports its success.  Recommendations for improvement in e-HR processes will be encouraged and extra points will be given to this additional effort. An oral presentation of the case report in Powerpoint should also be prepared."
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

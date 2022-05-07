@@ -1,0 +1,81 @@
+{
+    "year": 108,
+    "term": 2,
+    "name": "普通物理甲（二）",
+    "teachers": [
+        "張嘉泓"
+    ],
+    "department": "SU41",
+    "code": "PHU0250",
+    "credit": 3,
+    "serial": 2740,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 3,
+            "to": 4,
+            "campus": "公館",
+            "classroom": "理圖003"
+        },
+        {
+            "day": 3,
+            "from": 7,
+            "to": 7,
+            "campus": "公館",
+            "classroom": "Ｃ007"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "1",
+    "classes": "2",
+    "dept_group": "",
+    "hours": 3,
+    "description": "銜接高中物理教材，闡述物理各學門的核心概念，使學生具備堅實的物理基礎，以作為進一步學習高深物理的準備。",
+    "goals": [
+        "瞭解物理基礎理論",
+        "加強理性思維能力",
+        "簡介物理新知"
+    ],
+    "syllabus": "第一周 氣體動力論\n\n第二周 統計熱物理概論\n\n第三周 黑體輻射\n\n第四周 量子物理\n\n第五周 薛丁格方程式\n\n第六周 測不準原理\n\n第七周 靜電學  \n第八周 高斯定律  \n第九周 期中考\n\n第十周 電位  \n第十一周 電流電阻及直流電路  \n第十二周 磁學  \n第十三周 電磁效應  \n第十四周 Maxwell 方程及電磁波\n\n以教師在台大科學教育中心之演講錄影，實施兩次遠距教學：\n\n電磁波與光，以光為工具之宇宙論。\n\n第十五週 物理光學  \n第十六週 期末考",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "期中考",
+            "weight": 20,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "其他",
+            "weight": 20,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

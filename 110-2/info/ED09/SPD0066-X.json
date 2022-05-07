@@ -1,0 +1,83 @@
+{
+    "year": 110,
+    "term": 2,
+    "name": "資優教育專題",
+    "teachers": [
+        "郭靜姿"
+    ],
+    "department": "ED09",
+    "code": "SPD0066",
+    "credit": 2,
+    "serial": 4645,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 3,
+            "from": 10,
+            "to": 11,
+            "campus": "本部",
+            "classroom": "特204"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 2,
+    "description": "本課程首先析論資優教育相關文獻，歸納資優教育的重要發現及主要理論，並深入探討資優教育的相關問題及其解決方法。最後，希冀學生嘗試進行資優教育相關問題的實徵性研究。",
+    "goals": [
+        "析論資優教育相關文獻",
+        "歸納資優教育的重要發現及主要理論",
+        "探討資優教育的相關問題及其解決方法",
+        "嘗試進行資優教育相關問題的實徵性研究"
+    ],
+    "syllabus": "1.歷史探微  \n2.政策分析  \n3.重要發現與理論  \n4.教育方案  \n5.國際資優  \n6.探討資優教育的相關問題及其解決方法  \n7.嘗試進行資優教育相關問題的實徵性研究",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": ""
+        },
+        {
+            "type": "問題解決教學",
+            "note": ""
+        },
+        {
+            "type": "專題研究",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "課堂討論參與",
+            "weight": 20,
+            "note": ""
+        },
+        {
+            "type": "出席",
+            "weight": 10,
+            "note": ""
+        },
+        {
+            "type": "報告",
+            "weight": 30,
+            "note": "文獻評析"
+        },
+        {
+            "type": "專題",
+            "weight": 40,
+            "note": "研擬研究計畫或作試探性研究"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

@@ -1,0 +1,78 @@
+{
+    "year": 107,
+    "term": 1,
+    "name": "物理與生活",
+    "teachers": [
+        "楊遵榮"
+    ],
+    "department": "GU",
+    "code": "0AUG426",
+    "credit": 2,
+    "serial": 1016,
+    "group": "A",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 3,
+            "from": 3,
+            "to": 4,
+            "campus": "公館",
+            "classroom": "理圖003"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎物理系（學）不得選修",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 2,
+    "description": "幾凡應用於生活中的一切事務，如能源、輻射與電磁波、衛星、核能議題、醫學科技、超導體應用、半導體應用、溫室效應等均與物理息息相關。 凡科技應用於生活上的種種均與物原理有關， 良好的物理認知及物理態度對科技在生活上的應用有絕對的幫助。本課程依上述認知與理念，對物理在生活上重要關聯的議題，做概念性，趣味性，系列的探討。",
+    "goals": [
+        "理解能源應用與生活的關聯",
+        "了解生活相關的輻射物質應用與物理概念",
+        "具有生活中不可或缺的電學、磁學相關概念與知識",
+        "了解全球氣候變遷與對生活及對生態的衝擊與生活中的行動策略"
+    ],
+    "syllabus": "Part 1：能源與環境系列探討\n\n1\\. 京都議定書之後的能源與經濟效應\n\n2\\. 解開月宮之謎與人類對地球環境的省思\n\n3\\. 生活科技應用與節能減碳議題電探討\\-以電冰箱環保化為例\n\n4\\. 台灣地區再生能源\n\nPart2：核電與生活\n\n5\\. Nuclear fission and Nuclear fussion\n\n6\\. 核能發電是否安全\n\n7\\. 從經濟效率考量探討建核四電廠利弊\n\n8\\. 談核能發展展望\n\nPart3：物理科技與生活應用\n\n9\\. 電與磁的世界與物理及生活\n\n10 超導體(Superconductivity;Physical meaning,Story, Application history, New development)\n\n11 超導磁鐵驅動\\-屬於21 世紀的新式船\n\n12 磁浮列車與物理及生活\n\nPart4：輻射與生活\n\n13 低劑量輻射有益無害\\-輻射激效的醫學觀點  \n14 核反應器與核能安全與輻射",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": ""
+        },
+        {
+            "type": "合作學習",
+            "note": ""
+        },
+        {
+            "type": "其他",
+            "note": "學生學習評量方式以資料收集與批判分析、指定議題專題報告及分組討論後之心得分享報告為評分基準"
+        }
+    ],
+    "grading": [
+        {
+            "type": "課堂討論參與",
+            "weight": 20,
+            "note": ""
+        },
+        {
+            "type": "出席",
+            "weight": 20,
+            "note": ""
+        },
+        {
+            "type": "報告",
+            "weight": 60,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

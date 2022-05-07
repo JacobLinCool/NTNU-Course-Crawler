@@ -1,0 +1,85 @@
+{
+    "year": 107,
+    "term": 2,
+    "name": "讀寫訓練（二）",
+    "teachers": [
+        "曹靜儀"
+    ],
+    "department": "IU84",
+    "code": "CLU0067",
+    "credit": 4,
+    "serial": 1462,
+    "group": "B",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 3,
+            "to": 4,
+            "campus": "本部",
+            "classroom": "樸406"
+        },
+        {
+            "day": 4,
+            "from": 3,
+            "to": 4,
+            "campus": "本部",
+            "classroom": "博1002"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎限外籍生修習◎必須先修過【CLU0066  讀寫訓練（一）】",
+    "form_s": "1",
+    "classes": "",
+    "dept_group": "A",
+    "hours": 4,
+    "description": "上課內容以華語文綜合讀本為依據，另外搭配其他補充材料，目的在於提升閱讀的能力，擴增詞彙的範圍，進而加強語文表達能力，能書寫、說明個人意見及看法。",
+    "goals": [
+        "提升閱讀的能力，掌握篇章的網要",
+        "籍由精讀文章，深入瞭解句型結構",
+        "加強語文、書寫表達能力"
+    ],
+    "syllabus": "以中級程度的華語教材為主，  \n課程內容為教師自編教材。  \n每一週半上一課。  \n期中另安排作文寫作，及學習單練習。",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": ""
+        },
+        {
+            "type": "其他",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 40,
+            "note": ""
+        },
+        {
+            "type": "期中考",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 20,
+            "note": ""
+        },
+        {
+            "type": "出席",
+            "weight": 10,
+            "note": ""
+        }
+    ],
+    "prerequisite": "◎必須先修過【CLU0066  讀寫訓練（一）】",
+    "general_core": []
+}

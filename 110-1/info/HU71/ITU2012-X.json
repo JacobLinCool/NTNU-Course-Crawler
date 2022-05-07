@@ -1,0 +1,83 @@
+{
+    "year": 110,
+    "term": 1,
+    "name": "電腦輔助製圖",
+    "teachers": [
+        "周賢彬"
+    ],
+    "department": "HU71",
+    "code": "ITU2012",
+    "credit": 3,
+    "serial": 1255,
+    "group": "",
+    "quota": {
+        "limit": 35,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 1,
+            "from": 8,
+            "to": 10,
+            "campus": "本部",
+            "classroom": "科技系TA509"
+        }
+    ],
+    "programs": [],
+    "comment": "設計與科技組優先選課",
+    "restrict": "◎必須先修過【ITU0004  圖學】",
+    "form_s": "2",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程為「圖學」之進階及應用課程，課程主要目標有二，一為繼續加強學生圖學知能，使能進一步瞭解圖學之理論、繪製方法及其應用；二為提升學生應用2D與3D電腦軟體於製圖及設計實務的能力，強化其於工程或設計領域發展之競爭力。",
+    "goals": [
+        "工程圖學進階知能",
+        "電腦輔助工程製圖的概念與實務",
+        "2D與3D電腦輔助製圖軟體之操作與應用"
+    ],
+    "syllabus": "【授課方式：16+2週】。\n\n第一週  課程說明 AutoCAD基本圖形1-10\n\n第二週  AutoCAD基本圖形11-20\n\n第三週 國慶日放假\n\n第四週 AutoCAD基本圖形21-30\n\n第五週 上機考(一) \n\n第六週 AutoCAD基本圖形31-45\n\n第七週 AutoCAD 3D繪圖基本物件、3D繪圖 1-7\n\n第八週AutoCAD 3D繪圖自訂座標、3D繪圖 8-14\n\n第九週  AutoCAD 3D繪圖 15-21\n\n第十週 AutoCAD 3D繪圖 22-31\n\n第十一週  上機考(二)\n\n第十二週 3D studio Max  座標系統、基本物件\n\n第十三週 3D studio Max  物件編修、2D轉3D\n\n第十四週 3D studio Max  多面體編修\n\n第十五週 3D studio Max  nurbs、patch編修\n\n第十六週  上機考(三)\n\n第十七週 自主學習1：綜合Autocad 與3D studio Max創建物體方法，繪製一個運動器材，如球拍，啞鈴、跑步機等，需擷取各部位尺寸，以A3圖面呈現其前視、上視、左視及透視。上傳到moodle。\n\n第十八週 自主學習2：同上，繪製一組餐具套件，至少須包含6種物件，如碗、筷、叉子、湯匙、杯子、碟子等，注意比例、美感與擺放位子。上傳到moodle。",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "圖學知能、電腦輔助製圖軟體與相關機具操作之介紹"
+        },
+        {
+            "type": "實驗/實作",
+            "note": "軟硬體之設計應用實務"
+        },
+        {
+            "type": "媒體融入教學",
+            "note": "簡報、軟體操作示範廣播、作品欣賞"
+        }
+    ],
+    "grading": [
+        {
+            "type": "期中考",
+            "weight": 20,
+            "note": "上機考(一)"
+        },
+        {
+            "type": "期末考",
+            "weight": 20,
+            "note": "上機考(三)"
+        },
+        {
+            "type": "出席",
+            "weight": 10,
+            "note": "出勤與學習情形之評量"
+        },
+        {
+            "type": "專題",
+            "weight": 30,
+            "note": "自主學習"
+        },
+        {
+            "type": "其他",
+            "weight": 20,
+            "note": "上機考(二)"
+        }
+    ],
+    "prerequisite": "◎必須先修過【ITU0004  圖學】",
+    "general_core": []
+}

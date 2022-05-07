@@ -1,0 +1,79 @@
+{
+    "year": 109,
+    "term": 1,
+    "name": "策略管理",
+    "teachers": [
+        "康敏平"
+    ],
+    "department": "OU57",
+    "code": "BAU0010",
+    "credit": 3,
+    "serial": 2535,
+    "group": "",
+    "quota": {
+        "limit": 60,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 1,
+            "from": 7,
+            "to": 9,
+            "campus": "本部",
+            "classroom": "誠301"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎必須先修過【BAU0021  行銷管理】",
+    "form_s": "3",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "Strategic management deals with decisions that fundamentally influence the direction of the organization and effective implementation of the direction chosen. Strategic management examines the organizational structure, resources & capabilities, and the strategic positioning of the organization to create, capture and sustain competitive advantage. In addition to economic value creation, management also must make decisions concerning the distribution of this economic value.\nIn this course we integrate these views together by taking the unique perspective of the situational problems of the general manager.  The general manager's primary responsibility is to diagnose the critical factors that require attention in complex business situations and to find workable solutions to strategic and organizational problems. To solve such business problems, the general manager must be capable of understanding and using knowledge from each functional area to provide a \"total business\" (systems) perspective on issues pertaining to strategic management. Thus, I will introduce a STRATEGY MATRIX (策略矩陣) developed by professor Seetoo (司徒達賢) as an exemplar to describe and analysis the business strategy of a particular company.",
+    "goals": [
+        "了解企業如何獲得競爭優勢",
+        "分析企業所處環境並制定政策",
+        "協調組織並執行策略決策",
+        "培養管理者知識建構能力"
+    ],
+    "syllabus": "  \n\nWk\n\ndate\n\nTopics\n\nRequir\n\nd readings and assignments\n\n1\n\nintroduction\n\n策略形貌分析法\n\n2\n\nCase #1 (超群飼料公司)\n\n3\n\n策略形貌分析法\n\nSeetoo. Ch.1-3\n\n4\n\nCase #2 (丹克設計公司)\n\n5\n\n**放假**\n\n6\n\nCase #3(西爾斯家電部門)\n\n7\n\nCase # 4(Crown Cork & Seal)\n\nGroup A\n\n價值\n\n8\n\nCase # 5 (Southwest Airline)\n\nGroup B\n\nGrant Ch1, 2; Porter (1996)\n\n產業分析\n\n9\n\nIndustry Analysis\n\nGrant ch.3 ch.4\n\n資\n\n基礎觀點\n\n10\n\nCase #6 (Walmart)\n\nGroup C; Grant Ch.5.6.7\n\n競爭優勢: 低成本/差異化\n\n11\n\nCase #7 (Airborne Express)\n\nGroup D; Grant Ch8,\n\n12\n\nBOSS proje\n\nt introduction\n\n13\n\nCompetitive Advantage\n\nGrant Ch 9, 10\n\n14\n\nCase#8 (Zara)\n\nGroup E\n\n總體策略\n\n15\n\nCase #9 (Haire)\n\nGroup F; Grant ch.14, 15\n\n16\n\nBOSS project presentations (I)\n\n17\n\nBOSS project presentations (II)\n\nReview section for the final exam\n\n18\n\n**Final exam** (closed-book)",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "講述策略管理核心理論與策略分析架構"
+        },
+        {
+            "type": "討論法",
+            "note": "以哈佛個案為基礎討論環境、策略、功能政策與組織結構與執行問題。以參與者為中心的教學方法。學生必須於上課前小組討論，上課時聆聽老師問題，同學回答，教師利用問答方式引導學生思考，比較與整合多元意見，分析與抽象化課堂討論內容的結果。"
+        },
+        {
+            "type": "問題解決教學",
+            "note": "Boss模擬決策系統"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 30,
+            "note": "個案(9份)閱讀心得"
+        },
+        {
+            "type": "期末考",
+            "weight": 30,
+            "note": "課本內容"
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 20,
+            "note": "個案討論問答部分由教師抽學生作答(同時計算出席情況)或由學生舉手參與討論"
+        },
+        {
+            "type": "報告",
+            "weight": 20,
+            "note": "分組報告個案；boss決策專題報告"
+        }
+    ],
+    "prerequisite": "◎必須先修過【BAU0021  行銷管理】",
+    "general_core": []
+}

@@ -1,0 +1,76 @@
+{
+    "year": 110,
+    "term": 1,
+    "name": "程式語言",
+    "teachers": [
+        "周遵儒"
+    ],
+    "department": "HU71",
+    "code": "ITU0127",
+    "credit": 3,
+    "serial": 1251,
+    "group": "",
+    "quota": {
+        "limit": 35,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 2,
+            "to": 4,
+            "campus": "本部",
+            "classroom": "科技系TA509"
+        }
+    ],
+    "programs": [],
+    "comment": "學習與科技組優先選課",
+    "restrict": "",
+    "form_s": "2",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "Introductory course to C language programming. The topics include basic syntax and semantics of C language. The course emphasizes problem solving methodology and modular programming techniques.",
+    "goals": [
+        "Understand syntax and semantics of C language",
+        "Problem solving using C language"
+    ],
+    "syllabus": "部分課程將採數位教學，16+2 週課程。\n\n第 01 週，Introduction  \n第 02 週，Introduction to C and the development tools  \n第 03 週，Basic I/O  \n第 04 週，Control Flow - Sequential  \n第 05 週，Control Flow - Selection (I)  \n第 06 週，Control Flow - Selection (II)  \n第 07 週，Control Flow - Repeat (I)  \n第 08 週，Control Flow - Repeat (II) + Array  \n第 09 週，Middle Exam  \n第 10 週，Control Flow - Repeat (III) + Array  \n第 11 週，Complex Applications (I)  \n第 12 週，Function (I)  \n第 13 週，Function (II)  \n第 14 週，File (I)  \n第 15 週，File (II)  \n第 16 週，Final Exam  \n第 17 週，（自主學習）  \n第 18 週，（自主學習）",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "內容講解"
+        },
+        {
+            "type": "討論法",
+            "note": "主題討論"
+        },
+        {
+            "type": "問題解決教學",
+            "note": "進階難題挑戰"
+        },
+        {
+            "type": "實驗/實作",
+            "note": "主題設計開發"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 40,
+            "note": "每週隨堂或課後作業"
+        },
+        {
+            "type": "期中考",
+            "weight": 30,
+            "note": "上機程式設計測驗"
+        },
+        {
+            "type": "期末考",
+            "weight": 30,
+            "note": "上機程式設計測驗"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

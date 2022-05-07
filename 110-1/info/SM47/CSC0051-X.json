@@ -1,0 +1,88 @@
+{
+    "year": 110,
+    "term": 1,
+    "name": "高等影像處理",
+    "teachers": [
+        "方瓊瑤"
+    ],
+    "department": "SM47",
+    "code": "CSC0051",
+    "credit": 3,
+    "serial": 2768,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 2,
+            "to": 4,
+            "campus": "公館",
+            "classroom": "Ｂ102"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程含蓋高階的影像處理相關研究及應用技術的介紹與探討.專注在理論及計算技術的發展並提供重要技術詳細的演算法.",
+    "goals": [
+        "Build theoretical concepts of image processing",
+        "Focus on computational techniques for 2D and 3D images",
+        "Provide detailed algorithmic and theoretical treatments"
+    ],
+    "syllabus": "【授課方式：16週】\n\n依學校公告110學年度授課方式採「16+2週」，即實體課程16週，第17、18週為教師彈性補充教學週。\n\n本課程之彈性教學授課方式以錄製期末專題報告與DEMO專題內容上傳並請同學互評方式進行。\n\n本課程介紹數位影像處理的相關技術，包括影像強化、影像平滑化、雜訊過濾、 Fourier轉換、影像分割、邊緣偵測、特徵擷取等技術的說明與介紹。搭配程式作業的要求，期望學生能了解並實作各種影像處理技術。\n\n課程內容如下: \n\nCh1: Course overview; Introduction\n\nCh2: Digital image fundamentals\n\n    including image sensing and acquisition; image sampling and quantization; some basic relations between pixels,...\n\nCh3: Image enhancement in the spatial domain\n\n    including some basic gray level transformations; histogram processing; enhancement using arithmetic/logic operations; smoothing spatial filters; sharpening spatial filters;...\n\nCh4: Image enhancement in thefrequency domain\n\n    including Fourier transform and Frequency domain; smoothing frequency-domain filters; sharpening frequency domain filters; homomorphic filtering;...\n\nCh5: Image restoration    \n\nCh6: Color image processing\n\n    including color model; color transformations; smoothing and sharpening; color segmentation\n\nCh7: Wavelets and Multiresolution Processing\n\n本課程每堂上課前皆有測驗，上課請勿遟到，且所有作業皆為程式作業，另期末需上台DEMO與報告。\n\n教科書:Image processing Analysis, and Machine Vision, 4th edition, Milan Sonka, Vaclav Hlavac, Roger Boyle, Cengage Learning, 2015.",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "實驗/實作",
+            "note": "所有的作業皆為程式作業"
+        },
+        {
+            "type": "專題研究",
+            "note": "期末需DEMO專題並錄製影片上傳"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 15,
+            "note": "程式作業成績"
+        },
+        {
+            "type": "期中考",
+            "weight": 25,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "出席",
+            "weight": 15,
+            "note": "此為課堂平時考試成績"
+        },
+        {
+            "type": "報告",
+            "weight": 10,
+            "note": "此為期末專題DEMO及報告成績"
+        },
+        {
+            "type": "其他",
+            "weight": 5,
+            "note": "期末專題上傳及互評成績"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

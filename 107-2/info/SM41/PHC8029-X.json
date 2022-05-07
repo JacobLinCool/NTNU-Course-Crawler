@@ -1,0 +1,70 @@
+{
+    "year": 107,
+    "term": 2,
+    "name": "量子計算暨量子資訊",
+    "teachers": [
+        "姜巴比"
+    ],
+    "department": "SM41",
+    "code": "PHC8029",
+    "credit": 1,
+    "serial": 2628,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 3,
+            "from": 10,
+            "to": 12,
+            "campus": "公館",
+            "classroom": "Ｂ101"
+        },
+        {
+            "day": 5,
+            "from": 10,
+            "to": 12,
+            "campus": "公館",
+            "classroom": "Ｂ101"
+        }
+    ],
+    "programs": [],
+    "comment": "1.密集授課。  2.上課時間更改為：5/22(三)、5/24(五)、6/5(三)、6/12(三)、6/14(五)、6/19(三)第A~C節課，每次3小時共6次。    3.停修申請時間：5/23(四)~6/18(二)。",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 1,
+    "description": "本微學分課程將介紹最新量子計算暨量子資訊的相關知識，課程將全程以英文授課。",
+    "goals": [
+        "學習量子計算暨量子資訊的理論發展及應用",
+        "物理研究能力培養",
+        "簡介量子計算暨量子資訊新知"
+    ],
+    "syllabus": "**第一** **～** **第四週**\n\n**Section1. Quantum Foundations**\n\nThefirst section of the course will focus on those aspects of basic quantummechanics that are most relevant to quantum computing. Since a main concern ofquantum computing theory is the question of what separates quantum andclassical mechanics, we will treat the Bell inequalities in some detail.     \n\n1.      TimeEvolution of Quantum Systems\n\n2.      Entanglement\n\n3.      BellInequalities\n\n**第五** **～** **第八週**\n\n**Section2. Quantum Computers**\n\nThe second section sets up the actualmachinery of a quantum computer. We will begin with a short introduction toclassical computation. Then the basic ingredients of a quantum computer arespecified. This involves the definition of qubits, quantum gates, and quantumcircuits, as well as the preparation, evolution, and read-out of a quantumcomputer. The question of quantum parallelism is dealt with at the end.   \n\n1.      Qubits\n\n2.      LogicGates\n\n3.      QuantumCircuits\n\n**第九週**\n\n**Term paperassignment**\n\n**第十** **～** **第十三週**\n\n**Section3.  Quantum Algorithms**\n\nThethird section deals with quantum algorithms. This is the heart of the course. We will build up systematically to theShor factoring algorithm, showing that there is a logical progression thatbegins with the Deutsch algorithm.  Thenwe will treat the Grover search algorithm. If time permits, we will describethe quantum adiabatic algorithm and the NAND search tree algorithm. \n\n1.      DeutschAlgorithm\n\n2.      ShorAlgorithm\n\n3.      AdiabaticAlgorithm\n\n**第十四** **～** **第十七週**\n\n**Section4. Errors**\n\nThefourth section deals with errors in quantum computation. We will first developthe general formalism of open quantum systems and the situations in which theexternal influences can be thought of classically. Then we will show how todeal with errors in the quantum context. \n\n1.      OpenQuantum Systems\n\n2.      QuantumError Correction Schemes\n\n**第十八週**\n\n**Term paperevaluation**",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": ""
+        },
+        {
+            "type": "專題研究",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "其他",
+            "weight": 100,
+            "note": "Grading will be based on a term paper on a topic of the student’s choice, in consultation with the instructor"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

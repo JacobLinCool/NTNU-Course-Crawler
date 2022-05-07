@@ -1,0 +1,71 @@
+{
+    "year": 110,
+    "term": 2,
+    "name": "大數據分析理論與實務",
+    "teachers": [
+        "高于勝"
+    ],
+    "department": "HU70",
+    "code": "IEC9004",
+    "credit": 2,
+    "serial": 1155,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 3,
+            "from": 10,
+            "to": 11,
+            "campus": "本部",
+            "classroom": "研討一"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "9",
+    "dept_group": "",
+    "hours": 2,
+    "description": "",
+    "goals": [
+        "Learn basic algorithms for problem solving"
+    ],
+    "syllabus": "Topic 1. Introduction\n\nTopic 2. The Python Data Science Stack\n\nTopic 3. Statistical Visualizations\n\nTopic 4. Working with Big Data Frameworks – Hadoop\n\nTopic 5. Working with Big Data Frameworks - Spark\n\nTopic 6. Data Preparation\n\nTopic 7. Association Rule Mining\n\nTopic 8. Decision Tree\n\nTopic 9. Artificial Neural Network (1)\n\nTopic 10. Artificial Neural Network (2)\n\nTopic 11. Cluster Analysis\n\nTopic 12. Bayesian Network\n\nTopic 13. Multivariate Analysis (1)\n\nTopic 14. Multivariate Analysis (2)\n\nTopic 15. Time Series Analysis\n\nTopic 16. Case Analysis of Big Data Analytics (1)\n\nTopic 17. Case Analysis of Big Data Analytics (2)\n\nTopic 18. Final Examination",
+    "methodologies": [
+        {
+            "type": "Formal lecture",
+            "note": "The big data analytics will be introduced in the lectures."
+        },
+        {
+            "type": "Group discussion",
+            "note": "The theories and practical applicaitons will be discussed with students."
+        },
+        {
+            "type": "Lab/Studio",
+            "note": "The algorithms and empirical cases will be realized through projects."
+        }
+    ],
+    "grading": [
+        {
+            "type": "Assignments",
+            "weight": 40,
+            "note": "On time submission of exercises and projects"
+        },
+        {
+            "type": "Final exam",
+            "weight": 40,
+            "note": "Final examination will conver all the topics being introduced in the course."
+        },
+        {
+            "type": "Attendances",
+            "weight": 20,
+            "note": "Please inform the lecturer in advance for the abscense. 5% of total score will be deducted for one time of no show without prior notification."
+        }
+    ],
+    "prerequisite": "◎Available for junior and senior year B.A. program students (Doctoral program courses excepted) and M.A. program students.",
+    "general_core": []
+}

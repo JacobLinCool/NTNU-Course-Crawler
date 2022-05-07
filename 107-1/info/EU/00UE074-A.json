@@ -1,0 +1,82 @@
+{
+    "year": 107,
+    "term": 1,
+    "name": "學習評量（教）",
+    "teachers": [
+        "章舜雯"
+    ],
+    "department": "EU",
+    "code": "00UE074",
+    "credit": 2,
+    "serial": 584,
+    "group": "A",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 3,
+            "to": 4,
+            "campus": "本部",
+            "classroom": "教602"
+        }
+    ],
+    "programs": [
+        "PASSION偏鄉教育學程"
+    ],
+    "comment": "",
+    "restrict": "",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 2,
+    "description": "本課程旨在培養學生班級評量的素養(classroom assessment literacy)，內容主題包括測驗評量重要的概念、原理和原則、評量計畫、多元評量工具的設計、應用和評分，及成績的報告等，並藉由評量工具研發作業來強化學生相關的知能，以期奠定學生從事班級教學評量的專業知能和評量領域終身學習的根基。",
+    "goals": [
+        "具備學習評量的編製與實施結果的詮釋。"
+    ],
+    "syllabus": "週次\n\n第一週\n\n內容\n\n緒論\n\n第二週\n\n教學目標\n\n第三週\n\n測驗的信度\n\n第四週\n\n測驗的信度\n\n第五週\n\n測驗的效度\n\n第六週\n\n測驗的效度\n\n第七週\n\n發展評量計畫\n\n第八週\n\n選擇性題目與題組的編製\n\n第九週\n\n建構性題目的編製\n\n第十週\n\n期中考試\n\n第十一週\n\n實作評量---理論\n\n第十二週\n\n實作評量---應用\n\n第十三週\n\n檔案評量\n\n第十四週\n\n情意評量\n\n第十五週\n\n題目分析\n\n第十六週\n\n評量結果解釋\n\n第十七週\n\n評量結果解釋\n\n第十八週\n\n **期末報告**",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "課堂講授每週進度內容"
+        },
+        {
+            "type": "討論法",
+            "note": "問題討論; 與學生討論他所敘述是可行或不可行"
+        },
+        {
+            "type": "問題解決教學",
+            "note": "問題討論解決"
+        },
+        {
+            "type": "合作學習",
+            "note": "同學所有的論述互相研討"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 25,
+            "note": "作業是否按時交與內容是否充實"
+        },
+        {
+            "type": "期中考",
+            "weight": 30,
+            "note": "期中是否按時考試"
+        },
+        {
+            "type": "出席",
+            "weight": 15,
+            "note": "上課是否來"
+        },
+        {
+            "type": "報告",
+            "weight": 30,
+            "note": "學生在本學習中的成果報告"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

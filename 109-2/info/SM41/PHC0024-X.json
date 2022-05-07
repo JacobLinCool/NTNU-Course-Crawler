@@ -1,0 +1,64 @@
+{
+    "year": 109,
+    "term": 2,
+    "name": "固態物理（二）",
+    "teachers": [
+        "吳文欽"
+    ],
+    "department": "SM41",
+    "code": "PHC0024",
+    "credit": 3,
+    "serial": 2654,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 2,
+            "to": 4,
+            "campus": "公館",
+            "classroom": "Ｓ701"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "Solid state physics is a BIG subject. The more you know about its various topics, the better. Therefore, I'll try to cover as many topics as possible. The elementary topics, such as crystal structure, phonons, band structure, and Fermi surface, should be covered in undergraduate course already. \nConsequently, I'll review them in a concise manner.",
+    "goals": [
+        "瞭解固態物理的重要理論與實驗",
+        "簡介固態物理的新發展"
+    ],
+    "syllabus": "**COURSE OUTLINE:**\n\n**Lattice Vibration and Phonons** **(Chapter 21 – 26)**\n\n*   Phonons: classical theory of lattice vibrations\n*   Quantum theory of lattice vibrations\n*   Applications to lattice specific heat\n*   Inelastic X-ray and neutron scattering from vibrating crystals lattices\n*   Anharmonic effect\n*   Phonons in metals\n\n**Dielectrics and Optical Properties (Chapter 27)**\n\n*   Collective excitations: plasmons and polarons\n*   Optical measurements\n\n**Semiconductors (Chapter 28 – 29)**          \n\n*   Physics of semiconductor\n*   Effective mass theory of electrons, holes, excitons, and impurity states in semiconductors\n\n**Magnetism (Chapter 31 – 33)**\n\n*   Paramagnetism and diamagnetism\n*   Magnetic interactions\n*   Ferromagnetism, ferrimagnetism, and antiferromagnetism\n*   Spin wave (magnons): quantization of spin lattice excitations\n*   Magnetic resonance",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "期中考",
+            "weight": 35,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 35,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

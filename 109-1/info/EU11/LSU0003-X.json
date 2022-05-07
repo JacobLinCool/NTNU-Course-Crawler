@@ -1,0 +1,85 @@
+{
+    "year": 109,
+    "term": 1,
+    "name": "資料結構",
+    "teachers": [
+        "李良一"
+    ],
+    "department": "EU11",
+    "code": "LSU0003",
+    "credit": 3,
+    "serial": 930,
+    "group": "",
+    "quota": {
+        "limit": 30,
+        "additional": 0
+    },
+    "schedule": [
+        {
+            "day": 3,
+            "from": 6,
+            "to": 8,
+            "campus": "本部",
+            "classroom": "教404"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "此課程主要讓學生具備資料結構的基本知識，及應用所學到的知識處理演算法問題。課程內容將包括陣列、串列、堆疊、佇列、樹、圖形，排序、搜尋等。",
+    "goals": [
+        "此課程主要讓學生具備資料結構的基本知識，及應用所學到的知識處理演算法問題。課程內容將包括陣列、串列、堆疊、佇列、樹、圖形，排序、搜尋等。"
+    ],
+    "syllabus": "上課所用程式語言會以Python為主。\n\n1.  課程介紹及資料結構簡介 \n2.  Abstract Data Type and Algorithm Analysis \n3.  Arrays\n4.  Stacks and Queues \n5.  Stacks and Queues(小考1)\n6.  Linked Lists \n7.  Linked Lists \n8.  Trees \n9.  期中考(範圍為期中考前的所有內容)\n10.  Trees \n11.  Graphs \n12.  Graphs \n13.  Sorting\n14.  Sorting (小考2)\n15.  Hashing \n16.  Searching\n17.  Searching \n18.  期末考(範圍為期末考前的所有內容)",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "老師講授自編教材及教科書內容"
+        },
+        {
+            "type": "問題解決教學",
+            "note": "老師會在上課時給予學生學習單或在課後給予作業，學習單及作業內容為資料結構問題，學生需找出解法。"
+        },
+        {
+            "type": "實驗/實作",
+            "note": "學習單及作業需實作資料結構程式碼"
+        },
+        {
+            "type": "媒體融入教學",
+            "note": "使用線上學習系統進行教學影片觀看、作業繳交、線上討論及其他線上教學活動。"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 35,
+            "note": "練習老師指定的練習題及作業"
+        },
+        {
+            "type": "期中考",
+            "weight": 15,
+            "note": "期中考前老師上課的內容"
+        },
+        {
+            "type": "期末考",
+            "weight": 15,
+            "note": "期末考前老師上課的內容"
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 5,
+            "note": "出席及課堂及線上討論參與的積極度"
+        },
+        {
+            "type": "其他",
+            "weight": 30,
+            "note": "兩次小考各佔15%"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

@@ -1,0 +1,240 @@
+[
+    {
+        "year": 108,
+        "term": 2,
+        "name": "經濟學",
+        "teachers": [
+            "周有熙"
+        ],
+        "department": "EU07",
+        "code": "CEU0011",
+        "credit": 2,
+        "serial": 787,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 26
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 6,
+                "to": 7,
+                "campus": "本部",
+                "classroom": "誠401"
+            }
+        ],
+        "programs": [
+            "財金學程"
+        ],
+        "comment": "",
+        "restrict": "",
+        "form_s": "1",
+        "classes": "1",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 2,
+        "name": "經濟學",
+        "teachers": [
+            "周有熙"
+        ],
+        "department": "EU07",
+        "code": "CEU0011",
+        "credit": 2,
+        "serial": 792,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 26
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 9,
+                "to": 10,
+                "campus": "本部",
+                "classroom": "誠401"
+            }
+        ],
+        "programs": [
+            "財金學程"
+        ],
+        "comment": "",
+        "restrict": "",
+        "form_s": "1",
+        "classes": "2",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 2,
+        "name": "財務管理",
+        "teachers": [
+            "朱文增"
+        ],
+        "department": "EU07",
+        "code": "CEU0399",
+        "credit": 3,
+        "serial": 798,
+        "group": "",
+        "quota": {
+            "limit": 35,
+            "additional": 3
+        },
+        "schedule": [
+            {
+                "day": 5,
+                "from": 6,
+                "to": 8,
+                "campus": "本部",
+                "classroom": "誠401"
+            }
+        ],
+        "programs": [
+            "財金學程"
+        ],
+        "comment": "",
+        "restrict": "",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 2,
+        "name": "國際金融",
+        "teachers": [
+            "周有熙"
+        ],
+        "department": "EU07",
+        "code": "CEU0313",
+        "credit": 3,
+        "serial": 815,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 8,
+                "to": 10,
+                "campus": "本部",
+                "classroom": "誠402"
+            }
+        ],
+        "programs": [
+            "財金學程"
+        ],
+        "comment": "",
+        "restrict": "",
+        "form_s": "3",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 2,
+        "name": "財務報表分析",
+        "teachers": [
+            "卓瑞蘋"
+        ],
+        "department": "ZU84",
+        "code": "PGUB006",
+        "credit": 3,
+        "serial": 3104,
+        "group": "",
+        "quota": {
+            "limit": 70,
+            "additional": 6
+        },
+        "schedule": [
+            {
+                "day": 5,
+                "from": 3,
+                "to": 5,
+                "campus": "本部",
+                "classroom": "誠401"
+            }
+        ],
+        "programs": [
+            "財金學程"
+        ],
+        "comment": "兼任教師：卓瑞蘋",
+        "restrict": "",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 2,
+        "name": "財務管理",
+        "teachers": [
+            "朱文增"
+        ],
+        "department": "ZU84",
+        "code": "PGUB009",
+        "credit": 3,
+        "serial": 3105,
+        "group": "",
+        "quota": {
+            "limit": 35,
+            "additional": 3
+        },
+        "schedule": [
+            {
+                "day": 5,
+                "from": 6,
+                "to": 8,
+                "campus": "本部",
+                "classroom": "誠401"
+            }
+        ],
+        "programs": [
+            "財金學程"
+        ],
+        "comment": "",
+        "restrict": "",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 2,
+        "name": "計量財務分析",
+        "teachers": [
+            "楊智元"
+        ],
+        "department": "ZU84",
+        "code": "PGUB015",
+        "credit": 3,
+        "serial": 3106,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 10,
+                "to": 12,
+                "campus": "本部",
+                "classroom": "教402"
+            }
+        ],
+        "programs": [
+            "財金學程"
+        ],
+        "comment": "",
+        "restrict": "",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    }
+]

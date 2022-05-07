@@ -1,0 +1,73 @@
+{
+    "year": 108,
+    "term": 1,
+    "name": "專題討論",
+    "teachers": [
+        "李佩珍"
+    ],
+    "department": "SD50",
+    "code": "DIC8026",
+    "credit": 1,
+    "serial": 2662,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 3,
+            "from": 3,
+            "to": 3,
+            "campus": "公館",
+            "classroom": "Ｃ302"
+        }
+    ],
+    "programs": [],
+    "comment": "第一週在師大上課，其餘時間至中研院B204上課",
+    "restrict": "允許重複修 ◎課程不開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 1,
+    "description": "本課程提供學生機會去廣泛地認識生物多樣性領域的重要研究，並訓練學生批判思考與科學溝通能力。",
+    "goals": [
+        "Expose students to various research topics in biodiversity",
+        "Provide students trainings in communicating science critically and effectively",
+        "Provide students trainings in science research ethics and strategies"
+    ],
+    "syllabus": "Week 1:  Course introduction\n\nWeek 2:  Guest lecture\n\nWeek 3:  Guest lecture\n\nWeek 4:  Guest lecture\n\nWeek 5:  Guest lecture\n\nWeek 6:  Guest lecture\n\nWeek 7:  Guest lecture\n\nWeek 8:  Guest lecture\n\nWeek 9:  Guest lecture\n\nWeek 10: Student presentation\n\nWeek 11: Student presentation\n\nWeek 12: Student presentation\n\nWeek 13: Student presentation\n\nWeek 14: Student presentation\n\nWeek 15: Student presentation\n\nWeek 16: Student presentation\n\nWeek 17: Student presentation\n\nWeek 18: Student presentation",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "Handouts and powerpoint slides"
+        },
+        {
+            "type": "討論法",
+            "note": "Q&A"
+        },
+        {
+            "type": "專題研究",
+            "note": "student presentation"
+        }
+    ],
+    "grading": [
+        {
+            "type": "課堂討論參與",
+            "weight": 25,
+            "note": "1-1具備探究生命科學之專業知識"
+        },
+        {
+            "type": "出席",
+            "weight": 25,
+            "note": "4-1具備正確的科學態度，瞭解遵守科學倫理之重要性"
+        },
+        {
+            "type": "報告",
+            "weight": 50,
+            "note": "3-1具備針對實驗結果，進行正確分析、歸納並發表研究成果的能力"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

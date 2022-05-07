@@ -1,0 +1,74 @@
+{
+    "year": 108,
+    "term": 2,
+    "name": "儀器分析（二）",
+    "teachers": [
+        "王忠茂"
+    ],
+    "department": "SU42",
+    "code": "CMU0154",
+    "credit": 2,
+    "serial": 2798,
+    "group": "B",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 5,
+            "from": 8,
+            "to": 9,
+            "campus": "公館",
+            "classroom": "理圖002"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "3",
+    "classes": "",
+    "dept_group": "",
+    "hours": 2,
+    "description": "This course intends to cover principle of instruments used for analytical chemistry.It will include those instruments needed for general analytical purposes and research goals. The objective of this course aims at enhancing the knowledge of analytical techniques, broadening the view of basic analytical chemistry for the students and fortifying chemical concepts that correlate conventional wet analytical chemistry and instrumental applications.",
+    "goals": [
+        "This course intends to cover principle of instruments used for analytical chemistry.",
+        "It will include those instruments needed for general analytical purposes and research goals.",
+        "The objective of this course aims at enhancing the knowledge of analytical techniques."
+    ],
+    "syllabus": "1\\. 電化學簡介\n\n2\\. 氧化還原反應應用\n\n3\\. 氧化還原與電位滴定\n\n4\\. 化學離子感應器\n\n5\\. 伏安法\n\n  \n[教學進度與主題附件](https://ap.itc.ntnu.edu.tw/NtnuFileShare/file.do?action=dl&gno=4f71ea6284aa4e4c957a46fc7cc6f0d7&fno=e1bcb195acac488491bfd0a919a10c6a)\n\n  \n[教學進度與主題附件](https://ap.itc.ntnu.edu.tw/NtnuFileShare/file.do?action=dl&gno=778a2a1a7ad34be19c38e48cf3ad9d41&fno=ce9a96058c3b44c9a31bea1e60272cce)",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "課堂講述"
+        },
+        {
+            "type": "實驗/實作",
+            "note": "課後作業"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 30,
+            "note": "各相關章節作業"
+        },
+        {
+            "type": "期末考",
+            "weight": 20,
+            "note": "期末總評量"
+        },
+        {
+            "type": "出席",
+            "weight": 20,
+            "note": "美洲出席率"
+        },
+        {
+            "type": "報告",
+            "weight": 30,
+            "note": "課堂演示"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

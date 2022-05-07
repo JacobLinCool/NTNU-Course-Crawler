@@ -1,0 +1,81 @@
+{
+    "year": 107,
+    "term": 1,
+    "name": "國際經濟",
+    "teachers": [
+        "馮穎"
+    ],
+    "department": "OM56",
+    "code": "IAM0092",
+    "credit": 3,
+    "serial": 2432,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 7,
+            "to": 9,
+            "campus": "本部",
+            "classroom": "教室自排"
+        }
+    ],
+    "programs": [],
+    "comment": "雲和街608教室",
+    "restrict": "◎必須先修過(也可以同時修)【PGUA007  統計學】、【BAU0040  統計學（一）】其中一門 ◎課程開放上修",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "This graduate-level course focuses on international trade theory and its application to trade and policy issues. The course will expose MBA students to traditional and alternative economic analyses relating to trade issues in commodities, and other trade policy issues. The course will also cover topics relevant to globalized production, the balance of payments, exchange rate determination, and international financial economics. The objective of this course is to introduce the student to the basic analytical tools to evaluate the economic issues associated with the interaction of a country with the international markets.",
+    "goals": [
+        "To introduce  the basic analytical tools to evaluate the economic issues associated with the interaction of a country with the international markets."
+    ],
+    "syllabus": "1\\. Introduction to international trade\n\n2\\. Gains from Trade\n\n3\\. Specific-Factors Model of Trade\n\n4\\. Factor Proportions Models of Trade\n\n5 Empirical Tests of Trade Patterns\n\n6\\. Trade Policy under Constant Returns to Scale and Perfect Competition\n\n7\\. Trade with Imperfect Competition and Increasing Returns\n\n8\\. Gravity Models\n\n9\\. Midterm\n\n10 - 11.International Trade with Heterogeneous Firms\n\n12\\. Trade Policy under Imperfect Competition\n\n13\\. Introduction to international macroeconomics\n\n14\\. National and International Accounts and Transactions\n\n15 - 16. Nominal and Real Exchange Rates\n\n17\\. Review\n\n18\\. Final",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "教師課堂講授"
+        },
+        {
+            "type": "討論法",
+            "note": "時事問題或理論應用問題的討論"
+        },
+        {
+            "type": "問題解決教學",
+            "note": "理論應用問題的習題解答"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 20,
+            "note": ""
+        },
+        {
+            "type": "期中考",
+            "weight": 25,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 40,
+            "note": ""
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 10,
+            "note": ""
+        },
+        {
+            "type": "出席",
+            "weight": 5,
+            "note": ""
+        }
+    ],
+    "prerequisite": "◎必須先修過(也可以同時修)【PGUA007  統計學】、【BAU0040  統計學（一）】其中一門",
+    "general_core": []
+}

@@ -1,0 +1,65 @@
+{
+    "year": 109,
+    "term": 1,
+    "name": "高等計算機結構",
+    "teachers": [
+        "黃文吉"
+    ],
+    "department": "SM47",
+    "code": "CSC0015",
+    "credit": 3,
+    "serial": 2771,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 1,
+            "from": 7,
+            "to": 9,
+            "campus": "公館",
+            "classroom": "Ｂ102"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程主要目的為對於計算機結構提供更廣泛及深入的討論。除了基本計算機靜態管線架構外，本課程會詳細討論動態管線架構、多緒及多核心架構。不僅如此，本課程也對於Cache以及DRAM等記憶體系統有完整的介紹。",
+    "goals": [
+        "Static and Dynamic Pipeline Architectures for CPU Design",
+        "Memory Systems",
+        "Multithread parallelism and multiprocessors"
+    ],
+    "syllabus": "1.Fundamentals of Computer Design\n\n2.Instruction Set Principles and Examples\n\n3.Pipelining: Basic and Intermediate Concepts\n\n4.Instruction-Level Parallelism and Its Dynamic Exploitation\n\n5.Exploiting Instruction-Level Parallelism with Software Approaches\n\n6.Memory Hierarchy Design\n\n7.Multiprocessors and Thread-Level Parallelism\n\n8.Storage Systems\n\n9.Othe rAdvanced Topics",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "以 ppt講述"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 20,
+            "note": "約5個作業"
+        },
+        {
+            "type": "期中考",
+            "weight": 40,
+            "note": "紙筆測驗"
+        },
+        {
+            "type": "期末考",
+            "weight": 40,
+            "note": "紙筆測驗"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

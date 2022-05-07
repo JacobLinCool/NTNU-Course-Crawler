@@ -1,0 +1,84 @@
+{
+    "year": 109,
+    "term": 1,
+    "name": "圖形識別理論與應用",
+    "teachers": [
+        "周遵儒"
+    ],
+    "department": "HU72",
+    "code": "GCC0009",
+    "credit": 3,
+    "serial": 1294,
+    "group": "",
+    "quota": {
+        "limit": 30,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 1,
+            "from": 2,
+            "to": 4,
+            "campus": "本部",
+            "classroom": "製作教室B"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "",
+    "classes": "9",
+    "dept_group": "",
+    "hours": 3,
+    "description": "訓練學生對於使用各種圖形識別理論與技術解決關於數位圖文傳播科技的問題，並輔導學生從事相關課題的學術研究",
+    "goals": [
+        "介紹圖形識別的經典禮論、實務應用、未來發展方向",
+        "統計分類方法",
+        "結構式分類方法",
+        "軟性計算方法",
+        "實務應用"
+    ],
+    "syllabus": "1.簡介  \n介紹圖形辨識與機器學習的經典理論、實務應用、未來發展方向。  \n2.傳統分類方法（Traditional Classification Methods）  \n2.1.貝式決策理論（Bayesian Decision Theory）  \n2.2.分類器（Classifier）  \n2.3.分類與分群（Classification and Clustering）  \n3.機器學習（Machine Learning）  \n3.1.監督式學習（Supervised Learning）  \n3.2.非監督式學習（Unsupervised Learning）  \n3.3.半監督式學習（Semi-Supervised Learning）  \n3.4.支持向量機（Support Vector Machine）  \n3.5.類神經網路（Artificial Neural Network）  \n3.6.深度學習（Deep Learning）  \n4.計算工具（Computational Tools）  \n4.1.MATLAB  \n4.2.Python  \n4.3.Scikit-Learn  \n4.4.Tensorflow  \n4.5.PyTorch  \n4.6.OpenCV  \n4.7.YOLO  \n4.8.Others  \n5.應用開發  \n5.1.文字辨識  \n5.2.人臉辨識  \n5.3.大數據分析  \n5.4.語意分析  \n5.5.其它",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "內容講解"
+        },
+        {
+            "type": "討論法",
+            "note": "主題研討"
+        },
+        {
+            "type": "實驗/實作",
+            "note": "系統開發或實驗操作"
+        },
+        {
+            "type": "專題研究",
+            "note": "期末專題"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 20,
+            "note": "隨堂或課後作業"
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 20,
+            "note": "課程融入討論"
+        },
+        {
+            "type": "出席",
+            "weight": 20,
+            "note": "出席率"
+        },
+        {
+            "type": "專題",
+            "weight": 40,
+            "note": "期中或期末專題"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

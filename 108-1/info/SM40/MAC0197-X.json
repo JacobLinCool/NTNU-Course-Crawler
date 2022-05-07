@@ -1,0 +1,55 @@
+{
+    "year": 108,
+    "term": 1,
+    "name": "幾何測度論（一）",
+    "teachers": [
+        "孟悟理"
+    ],
+    "department": "SM40",
+    "code": "MAC0197",
+    "credit": 3,
+    "serial": 2679,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 1,
+            "from": 2,
+            "to": 4,
+            "campus": "公館",
+            "classroom": "教室自排"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "A very successful strategy for the study of geometric variational problems is to firstly prove existence in an enlarged class of competitors by means of compactness theorems and subsequently study the regularity of the solution therein.  For instance, instead of considering only smooth submanifolds, one proves existence in the classes of boundaries of sets of finite perimeter, integral currents, or integral varifolds - all of which are based on the more basic concept of rectifiable set.  In the ensuing regularity theory, the generality of varifolds allows to unify a substantial part of the treatment.  The purpose of the course Geometric Measure Theory I+II is to develop, after providing the necessary infrastructure, the concept of rectifiable set as well as key elements of the theory of varifolds.",
+    "goals": [
+        "培養數學專業能力",
+        "增進邏輯推理與歸納的能力",
+        "增進數學思維與批判性思考的能力"
+    ],
+    "syllabus": "Geometric Measure Theory I+II\n=============================\n\n**Prerequisites** We assume sound familiarity with the concepts of measure, measurable function, Lebesgue integration, and product measure.  _Students wishing to review this material before the course are encouraged to contact the teacher by email for relevant lecture notes on \"Real Analysis\", see \\[Men19\\]._\n\n**Course outline** In the initial part of the course, we focus on developing the relevant concepts from advanced measure theory (Riesz representation theorem, covering theorems, derivatives of measures), functional analysis (locally convex spaces, weak topology), multilinear algebra (exterior algebra, alternating forms) and basic submanifold geometry (second fundamental form, Grassmann manifold). Then, we develop Hausdorff measures and the area of Lipschitzian maps to treat rectifiable sets. Finally, the basic theory of varifolds is developed (first variation, monotonicity identity) to treat the isoperimetric inequality and compactness theorems.\n\n**Sources for the course and other information on the course** Our main sources are \\[Fed69\\] and, concerning varifolds, \\[All72\\] supplemented by more detailed LATEX-ed lecture notes; some simplifications from \\[Men16\\] and \\[MS18\\] will also be employed. A survey of the concept of varifold is available at \\[Men17\\].\n\n1.  The course is offered both at the National Taiwan Normal University and in the programme of the Taiwan Mathematics School.\n2.  Video-recordings of the lectures will be made available to the participants of the course.\n\nThis syllabus, including description and references, is available as [PDF](https://ap.itc.ntnu.edu.tw/NtnuFileShare/file.do?action=dl&gno=6f5fb56ae6ba4aaa9f0b1590a3c9b63d&fno=c16b87f0ba294a1bb47cd45c69e916e1).",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "The lecture will be conducted in English.  Weekly updated LaTeXed lecture notes shall be made available."
+        }
+    ],
+    "grading": [
+        {
+            "type": "期末考",
+            "weight": 100,
+            "note": "Individual oral examination conducted in English."
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

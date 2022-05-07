@@ -1,0 +1,100 @@
+{
+    "year": 108,
+    "term": 1,
+    "name": "財務報表分析",
+    "teachers": [
+        "邱文昌"
+    ],
+    "department": "OU57",
+    "code": "BAU0028",
+    "credit": 3,
+    "serial": 2518,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 2,
+            "to": 4,
+            "campus": "本部",
+            "classroom": "誠302"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎必須先修過【BAU0007  財務管理】",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "財務報表分析課程包括企業策略分析、會計分析、財務分析以及前景分析四部分。企業策略分析包括總體經濟分析、產業分析及公司策略分析；會計分析係藉由評估企業之會計政策和估計以瞭解財務報表品質；財務分析係藉由水平及垂直分析以瞭解企業經營狀況，而前景分析則教導學生進行預測。",
+    "goals": [
+        "瞭解總體經濟對企業經營之影響 藉由產業結構分析及公司策略分析以瞭解企業競爭優勢、劣勢及機會",
+        "利用公司財務報表及相關財務資料，予以分析並據以決定企業獲利情況、財務健全性及資產運用效率 藉由小組報告增進學生溝通與協調能力",
+        "瞭解財務報表所提供資訊，予以分析並據以決定企業獲利情況、財務健全性及資產運用效率，以預測公司未來的成長性及盈餘潛力",
+        "評估會計彈性及公司會計政策與估計之適當性評估會計資訊被曲解程度及會計分析改善財務結論之可靠性"
+    ],
+    "syllabus": "Weeks 1~ 3: Business analysis, Industry analysis and Strategy analysis\n\nWeeks 4 & 5: Financial Statements\n\nWeek 6: Liquidity of short-term assets\n\nWeek 7: Long-term debt-paying ability\n\nWeek 8: Profitability\n\nWeek 9: Mid-term exam\n\nWeeks 10 & 11: Earnings per share\n\nWeeks 12 & 13: Investments and International Operations\n\nWeeks 14 & 15: [fundamental analysis](https://en.wikipedia.org/wiki/Fundamental_analysis), [DuPont analysis](https://en.wikipedia.org/wiki/DuPont_analysis)\n\nWeeks 16 & 17: Expanded analysis\n\nWeek 18: Final exam",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "講述財務報表分析之理論與實務"
+        },
+        {
+            "type": "討論法",
+            "note": "全班於課堂中討論財務報表分析之相關議題"
+        },
+        {
+            "type": "問題解決教學",
+            "note": "以實際上市公司財務報表引導學生瞭解進行財務報表分析時可能遇到之問題及可能解決方法"
+        },
+        {
+            "type": "合作學習",
+            "note": "小組合作完成報告"
+        },
+        {
+            "type": "實驗/實作",
+            "note": "進行實作分析"
+        },
+        {
+            "type": "媒體融入教學",
+            "note": "媒體融入教學引發興趣"
+        },
+        {
+            "type": "專題研究",
+            "note": "以實際上市公司財務報表進行財務報表分析專題研究"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 10,
+            "note": "計算題與問答題"
+        },
+        {
+            "type": "期中考",
+            "weight": 30,
+            "note": "計算題與問答題"
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 10,
+            "note": "參與課堂討論的情形"
+        },
+        {
+            "type": "出席",
+            "weight": 10,
+            "note": "出席狀況"
+        },
+        {
+            "type": "報告",
+            "weight": 40,
+            "note": "期末報告:每個小組選擇兩家上市公司，進行財務分析研究，內容包括總體經濟分析、產業分析、策略分析、財務分析、會計分析及預測。"
+        }
+    ],
+    "prerequisite": "◎必須先修過【BAU0007  財務管理】",
+    "general_core": []
+}

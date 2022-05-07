@@ -1,0 +1,82 @@
+{
+    "year": 110,
+    "term": 1,
+    "name": "德語（一）",
+    "teachers": [
+        "官英華"
+    ],
+    "department": "IU84",
+    "code": "CLU1024",
+    "credit": 2,
+    "serial": 1553,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 3,
+            "from": 6,
+            "to": 7,
+            "campus": "本部",
+            "classroom": "正402A"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "1",
+    "classes": "",
+    "dept_group": "B",
+    "hours": 2,
+    "description": "本課程提供零起點的德語初學者學習基礎的德語會話、語法和詞彙。從學習發音和相關的基礎詞彙開始，學生可以逐步學到基礎的語法知識。在課程結束時，學生應具有基本的會話能力，可以自我介紹、認識朋友以及詢問一些資訊。",
+    "goals": [
+        "讓學生認識德語和中文、英文間的差異",
+        "訓練學生在德語聽、說、讀、寫的能力",
+        "教授中、德文化間的差異、培養學生赴德實習前應有的語言文化涵養以及教學服務的態度"
+    ],
+    "syllabus": "【授課方式：16+2週】\n\n**教學進度與主題**\n\n9/22\n\nBuchstaben und Aussprache üben\n\n9/29\n\nAusprache üben / Begrüßung /\n\n10/06\n\nKapitel 1: Herzlichen willkommen!\n\n10/13\n\nWo wohnst du jetzt?\n\n10/20\n\nNamen von Ländern und Städten kennenlernen\n\n10/27\n\nÜbungen\\_Kap1\n\n11/03\n\nQuiz/Kapitel 2: Kontakte\n\n11/10\n\nMidterm exam\n\n11/17\n\nAuf der Party\n\n11/24\n\nPablo schreibt eine Nachricht\n\n12/01\n\nÜbungen\\_Kap2\n\n12/08\n\nHaltestelle\n\n12/15\n\nKapitel 3: Wie heißt das auf Deutsch?\n\n12/22\n\nDas ist keine Katze\n\n12/29\n\nBitte und Aufforderung\n\n01/05\n\nFinal exam\n\n01/12\n\nonline learning: Übungen\\_Kap3+Grammtik I\n\n01/19\n\nonline learning: Haltestelle+Grammatik II",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "講述德語的詞彙、文法、語用習慣、文化"
+        },
+        {
+            "type": "實驗/實作",
+            "note": "習題實作，練習學過的語法"
+        },
+        {
+            "type": "媒體融入教學",
+            "note": "使用moodle學習平台與學生分享資源，並利用PPT和語音檔和影片輔助教學"
+        },
+        {
+            "type": "其他",
+            "note": "定期舉行小考，瞭解學生學習狀況"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 40,
+            "note": "作業和小考： 課後練習題和小考成績作為平時成績評量的依據"
+        },
+        {
+            "type": "期中考",
+            "weight": 25,
+            "note": "命題形式翻譯題、填充和語法測驗，以檢視學生的學習成效"
+        },
+        {
+            "type": "期末考",
+            "weight": 25,
+            "note": "命題形式翻譯題、填充和語法測驗，以檢視學生的學習成效"
+        },
+        {
+            "type": "出席",
+            "weight": 10,
+            "note": "基本監控學生出席率"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

@@ -1,0 +1,78 @@
+{
+    "year": 108,
+    "term": 2,
+    "name": "圖形識別",
+    "teachers": [
+        "葉家宏"
+    ],
+    "department": "HM75",
+    "code": "AEC8020",
+    "credit": 3,
+    "serial": 1109,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 3,
+            "from": 7,
+            "to": 9,
+            "campus": "本部",
+            "classroom": "工511"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "The goal of this course is to introduce the basic concepts and techniques used in the field of pattern recognition and their applications.",
+    "goals": [
+        "使學習者認識圖形識別理論",
+        "使學習者了解圖形識別相關產業近況",
+        "使學習者具備圖形識別相關應用之能力"
+    ],
+    "syllabus": "The goal of this course is to introduce the basic concepts and techniques used in the field of pattern recognition and their applications.",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "講解圖形識別之技術與未來發展及相關應用。"
+        },
+        {
+            "type": "討論法",
+            "note": "以專題報告方式進行專業知識討論與交流。"
+        },
+        {
+            "type": "實驗/實作",
+            "note": "以程式實作方式了解圖形識別之原理及應用。"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 25,
+            "note": "程式實作"
+        },
+        {
+            "type": "期中考",
+            "weight": 20,
+            "note": "課程專業知識之期中測驗"
+        },
+        {
+            "type": "期末考",
+            "weight": 30,
+            "note": "課程專業知識之期末測驗"
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 25,
+            "note": "課堂參與和上課表現"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

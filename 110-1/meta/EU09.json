@@ -1,0 +1,1309 @@
+[
+    {
+        "year": 110,
+        "term": 1,
+        "name": "特殊教育導論",
+        "teachers": [
+            "廖靜宜"
+        ],
+        "department": "EU09",
+        "code": "SPU5007",
+        "credit": 3,
+        "serial": 8002,
+        "group": "B",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 7,
+                "to": 9,
+                "campus": "本部",
+                "classroom": "特103"
+            }
+        ],
+        "programs": [
+            "音樂輔教學程"
+        ],
+        "comment": "",
+        "restrict": "",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 1,
+        "name": "科學資優教育",
+        "teachers": [
+            "傅祖怡"
+        ],
+        "department": "EU09",
+        "code": "SPU6018",
+        "credit": 2,
+        "serial": 867,
+        "group": "",
+        "quota": {
+            "limit": 25,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 1,
+                "to": 2,
+                "campus": "公館",
+                "classroom": "Ｓ203"
+            }
+        ],
+        "programs": [],
+        "comment": "建議大三以上修習，課程中將不再介紹基礎之教學原理。",
+        "restrict": "",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 1,
+        "name": "社會技能訓練",
+        "teachers": [
+            "洪儷瑜",
+            "姚惠馨"
+        ],
+        "department": "EU09",
+        "code": "SPC0070",
+        "credit": 2,
+        "serial": 868,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 5,
+                "from": 9,
+                "to": 10,
+                "campus": "本部",
+                "classroom": "特113"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎必須先修過【SPU1032  情緒行為障礙】◎必須先修過(也可以同時修)【SPU1020  自閉症】其中一門",
+        "form_s": "",
+        "classes": "9",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 1,
+        "name": "體育",
+        "teachers": [
+            "林涓"
+        ],
+        "department": "EU09",
+        "code": "00UP001",
+        "credit": 1,
+        "serial": 869,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 3,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "操場一"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "允許重複修",
+        "form_s": "1",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 1,
+        "name": "復健諮商導論",
+        "teachers": [
+            "陳貞夙"
+        ],
+        "department": "EU09",
+        "code": "SPU0096",
+        "credit": 3,
+        "serial": 4771,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 6,
+                "to": 8,
+                "campus": "本部",
+                "classroom": "特114演講廳"
+            }
+        ],
+        "programs": [
+            "音樂輔教學程"
+        ],
+        "comment": "",
+        "restrict": "",
+        "form_s": "1",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 1,
+        "name": "適應體育",
+        "teachers": [
+            "姜義村"
+        ],
+        "department": "EU09",
+        "code": "SPU0098",
+        "credit": 2,
+        "serial": 870,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 8,
+                "to": 9,
+                "campus": "本部",
+                "classroom": "特114演講廳"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "1",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 1,
+        "name": "特殊教育導論",
+        "teachers": [
+            "王曉嵐"
+        ],
+        "department": "EU09",
+        "code": "SPU5007",
+        "credit": 3,
+        "serial": 871,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 6,
+                "to": 8,
+                "campus": "本部",
+                "classroom": "特114演講廳"
+            }
+        ],
+        "programs": [
+            "音樂輔教學程"
+        ],
+        "comment": "",
+        "restrict": "",
+        "form_s": "1",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 1,
+        "name": "普通心理學（一）",
+        "teachers": [
+            "李俊仁"
+        ],
+        "department": "EU09",
+        "code": "SPU6008",
+        "credit": 2,
+        "serial": 872,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 3,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "特112"
+            }
+        ],
+        "programs": [
+            "高齡學程"
+        ],
+        "comment": "",
+        "restrict": "",
+        "form_s": "1",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 1,
+        "name": "手語",
+        "teachers": [
+            "劉秀丹"
+        ],
+        "department": "EU09",
+        "code": "SPU0009",
+        "credit": 2,
+        "serial": 873,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 6,
+                "to": 7,
+                "campus": "本部",
+                "classroom": "特114演講廳"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 1,
+        "name": "教育研究法",
+        "teachers": [
+            "劉惠美"
+        ],
+        "department": "EU09",
+        "code": "SPU0024",
+        "credit": 2,
+        "serial": 874,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 6,
+                "to": 7,
+                "campus": "本部",
+                "classroom": "特115"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎必須先修過【E0U0002  教育統計學（二）】",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 1,
+        "name": "心理與教育測驗",
+        "teachers": [
+            "陳美芳"
+        ],
+        "department": "EU09",
+        "code": "SPU0070",
+        "credit": 3,
+        "serial": 875,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 8,
+                "to": 10,
+                "campus": "本部",
+                "classroom": "特115"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎必須先修過【E0U0002  教育統計學（二）】",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 1,
+        "name": "創造力教育",
+        "teachers": [
+            "潘裕豐"
+        ],
+        "department": "EU09",
+        "code": "SPU0074",
+        "credit": 2,
+        "serial": 876,
+        "group": "A",
+        "quota": {
+            "limit": 40,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 16,
+                "to": 10,
+                "campus": "本部",
+                "classroom": "特115"
+            }
+        ],
+        "programs": [
+            "音樂輔教學程"
+        ],
+        "comment": "",
+        "restrict": "",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 1,
+        "name": "創造力教育",
+        "teachers": [
+            "李乙明"
+        ],
+        "department": "EU09",
+        "code": "SPU0074",
+        "credit": 2,
+        "serial": 877,
+        "group": "B",
+        "quota": {
+            "limit": 20,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 6,
+                "to": 7,
+                "campus": "本部",
+                "classroom": "特115"
+            }
+        ],
+        "programs": [
+            "音樂輔教學程"
+        ],
+        "comment": "",
+        "restrict": "",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 1,
+        "name": "特殊教育課程調整與教學設計",
+        "teachers": [
+            "胡心慈",
+            "陳偉仁"
+        ],
+        "department": "EU09",
+        "code": "SPU0092",
+        "credit": 3,
+        "serial": 878,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 15
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 2,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "特114演講廳"
+            }
+        ],
+        "programs": [
+            "音樂輔教學程"
+        ],
+        "comment": "",
+        "restrict": "◎必須先修過【SPU5007  特殊教育導論】、【00UE059  特殊教育導論（教）】其中一門",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 1,
+        "name": "輔助科技應用",
+        "teachers": [
+            "佘永吉"
+        ],
+        "department": "EU09",
+        "code": "SPU0095",
+        "credit": 3,
+        "serial": 879,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 15
+        },
+        "schedule": [
+            {
+                "day": 5,
+                "from": 8,
+                "to": 10,
+                "campus": "本部",
+                "classroom": "特114演講廳"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎必須先修過【SPU5007  特殊教育導論】",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 1,
+        "name": "重度與多重障礙",
+        "teachers": [
+            "王慧婷"
+        ],
+        "department": "EU09",
+        "code": "SPU1025",
+        "credit": 2,
+        "serial": 880,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 6,
+                "to": 7,
+                "campus": "本部",
+                "classroom": "特115"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎必須先修過(也可以同時修)【SPU5007  特殊教育導論】",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 1,
+        "name": "定向行動",
+        "teachers": [
+            "張千惠"
+        ],
+        "department": "EU09",
+        "code": "SPU1026",
+        "credit": 2,
+        "serial": 881,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 8,
+                "to": 9,
+                "campus": "本部",
+                "classroom": "特115"
+            }
+        ],
+        "programs": [],
+        "comment": "◎進階服務學習",
+        "restrict": "",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 1,
+        "name": "身心障礙學生溝通訓練",
+        "teachers": [
+            "劉惠美"
+        ],
+        "department": "EU09",
+        "code": "SPU1027",
+        "credit": 2,
+        "serial": 882,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 1,
+                "to": 2,
+                "campus": "本部",
+                "classroom": "特115"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎必須先修過【SPU1028  溝通障礙】",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 1,
+        "name": "行為改變理論與技術",
+        "teachers": [
+            "王慧婷"
+        ],
+        "department": "EU09",
+        "code": "SPU1033",
+        "credit": 2,
+        "serial": 883,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 8,
+                "to": 9,
+                "campus": "本部",
+                "classroom": "特115"
+            }
+        ],
+        "programs": [
+            "音樂輔教學程"
+        ],
+        "comment": "",
+        "restrict": "",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 1,
+        "name": "聽力學",
+        "teachers": [
+            "劉秀丹"
+        ],
+        "department": "EU09",
+        "code": "SPU3001",
+        "credit": 3,
+        "serial": 884,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 2,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "特115"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎必須先修過【SPU1017  聽覺障礙】",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 1,
+        "name": "身心障礙者職業復健",
+        "teachers": [
+            "陳貞夙"
+        ],
+        "department": "EU09",
+        "code": "SPU0015",
+        "credit": 2,
+        "serial": 885,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 3,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "特112"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "3",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 1,
+        "name": "視障教育輔具應用",
+        "teachers": [
+            "張千惠"
+        ],
+        "department": "EU09",
+        "code": "SPU0100",
+        "credit": 3,
+        "serial": 886,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 8,
+                "to": 10,
+                "campus": "本部",
+                "classroom": "特112"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎必須先修過【SPU1016  視覺障礙】",
+        "form_s": "3",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 1,
+        "name": "學習障礙",
+        "teachers": [
+            "王曉嵐"
+        ],
+        "department": "EU09",
+        "code": "SPU1019",
+        "credit": 2,
+        "serial": 887,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 6,
+                "to": 7,
+                "campus": "本部",
+                "classroom": "特113"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎必須先修過【SPU5007  特殊教育導論】、【SPU0073  特殊教育學生評量】",
+        "form_s": "3",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 1,
+        "name": "身心障礙學生教材教法（輕／重）（二）",
+        "teachers": [
+            "胡心慈",
+            "王曉嵐"
+        ],
+        "department": "EU09",
+        "code": "SPU1022",
+        "credit": 2,
+        "serial": 888,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 8,
+                "to": 9,
+                "campus": "本部",
+                "classroom": "特113"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎必須先修過【SPU0092  特殊教育課程調整與教學設計】",
+        "form_s": "3",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 1,
+        "name": "聽覺障礙教學實務",
+        "teachers": [
+            "劉秀丹"
+        ],
+        "department": "EU09",
+        "code": "SPU3008",
+        "credit": 2,
+        "serial": 889,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 1,
+                "to": 2,
+                "campus": "本部",
+                "classroom": "特112"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎必須先修過【SPU3001  聽力學】、【SPU3009  聽能說話訓練】",
+        "form_s": "3",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 1,
+        "name": "資賦優異學生教材教法（二）",
+        "teachers": [
+            "陳美芳"
+        ],
+        "department": "EU09",
+        "code": "SPU4023",
+        "credit": 2,
+        "serial": 890,
+        "group": "A",
+        "quota": {
+            "limit": 35,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 1,
+                "to": 2,
+                "campus": "本部",
+                "classroom": "特112"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎必須先修過【SPU4022  資賦優異學生教材教法（一）】",
+        "form_s": "3",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 1,
+        "name": "資賦優異學生教材教法（二）",
+        "teachers": [
+            "于曉平"
+        ],
+        "department": "EU09",
+        "code": "SPU4023",
+        "credit": 2,
+        "serial": 891,
+        "group": "B",
+        "quota": {
+            "limit": 15,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 10,
+                "to": 11,
+                "campus": "本部",
+                "classroom": "特113"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎必須先修過【SPU4022  資賦優異學生教材教法（一）】",
+        "form_s": "3",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 1,
+        "name": "領導才能教育",
+        "teachers": [
+            "潘裕豐"
+        ],
+        "department": "EU09",
+        "code": "SPU4026",
+        "credit": 2,
+        "serial": 892,
+        "group": "",
+        "quota": {
+            "limit": 30,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 8,
+                "to": 9,
+                "campus": "本部",
+                "classroom": "特113"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "3",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 1,
+        "name": "議題融入資優教育教學設計",
+        "teachers": [
+            "陳偉仁"
+        ],
+        "department": "EU09",
+        "code": "SPU4037",
+        "credit": 2,
+        "serial": 893,
+        "group": "",
+        "quota": {
+            "limit": 25,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 3,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "特113"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "3",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 1,
+        "name": "正向行為支持",
+        "teachers": [
+            "王慧婷"
+        ],
+        "department": "EU09",
+        "code": "SPU6016",
+        "credit": 2,
+        "serial": 894,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 6,
+                "to": 7,
+                "campus": "本部",
+                "classroom": "特113"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎必須先修過(也可以同時修)【SPU1033  行為改變理論與技術】",
+        "form_s": "3",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 1,
+        "name": "資源教室方案與經營",
+        "teachers": [
+            "劉秀丹"
+        ],
+        "department": "EU09",
+        "code": "SPU0077",
+        "credit": 2,
+        "serial": 895,
+        "group": "A",
+        "quota": {
+            "limit": 45,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 6,
+                "to": 7,
+                "campus": "本部",
+                "classroom": "特114演講廳"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎必須先修過【SPU5007  特殊教育導論】",
+        "form_s": "4",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 1,
+        "name": "資源教室方案與經營",
+        "teachers": [
+            "謝佳男"
+        ],
+        "department": "EU09",
+        "code": "SPU0077",
+        "credit": 2,
+        "serial": 896,
+        "group": "B",
+        "quota": {
+            "limit": 5,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 5,
+                "from": 3,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "特112"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎必須先修過【SPU5007  特殊教育導論】",
+        "form_s": "4",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 1,
+        "name": "特殊學生評量實務",
+        "teachers": [
+            "陳心怡"
+        ],
+        "department": "EU09",
+        "code": "SPU0080",
+        "credit": 2,
+        "serial": 897,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 6,
+                "to": 7,
+                "campus": "本部",
+                "classroom": "特112"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎必須先修過【SPU0073  特殊教育學生評量】",
+        "form_s": "4",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 1,
+        "name": "特殊教育行政與法規",
+        "teachers": [
+            "邱春瑜"
+        ],
+        "department": "EU09",
+        "code": "SPU0081",
+        "credit": 2,
+        "serial": 898,
+        "group": "",
+        "quota": {
+            "limit": 45,
+            "additional": 15
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 1,
+                "to": 2,
+                "campus": "本部",
+                "classroom": "特114演講廳"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "4",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 1,
+        "name": "親師合作與家庭支援",
+        "teachers": [
+            "邱春瑜",
+            "廖靜宜"
+        ],
+        "department": "EU09",
+        "code": "SPU1029",
+        "credit": 2,
+        "serial": 899,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 1,
+                "to": 2,
+                "campus": "本部",
+                "classroom": "特113"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "4",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 1,
+        "name": "情緒行為需求教學實務",
+        "teachers": [
+            "洪儷瑜",
+            "單延愷"
+        ],
+        "department": "EU09",
+        "code": "SPU1034",
+        "credit": 2,
+        "serial": 900,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 5,
+                "from": 6,
+                "to": 7,
+                "campus": "本部",
+                "classroom": "特112"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎必須先修過【SPU6016  正向行為支持】、【SPU0087  自閉症學生教學策略】",
+        "form_s": "4",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 1,
+        "name": "資賦優異教學實務",
+        "teachers": [
+            "進明"
+        ],
+        "department": "EU09",
+        "code": "SPU4028",
+        "credit": 2,
+        "serial": 901,
+        "group": "",
+        "quota": {
+            "limit": 30,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 3,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "特114演講廳"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎必須先修過【SPU4023  資賦優異學生教材教法（二）】",
+        "form_s": "4",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 1,
+        "name": "資優教育專題研究",
+        "teachers": [
+            "李乙明"
+        ],
+        "department": "EU09",
+        "code": "SPU4030",
+        "credit": 2,
+        "serial": 902,
+        "group": "",
+        "quota": {
+            "limit": 25,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 8,
+                "to": 9,
+                "campus": "本部",
+                "classroom": "特113"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎必須先修過【SPU0056  資優教育概論】、【SPU0074  創造力教育】",
+        "form_s": "4",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 1,
+        "name": "特殊教育教學實習（一）",
+        "teachers": [
+            "佘永吉",
+            "廖靜宜"
+        ],
+        "department": "EU09",
+        "code": "SPU6010",
+        "credit": 2,
+        "serial": 903,
+        "group": "A",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 6,
+                "to": 9,
+                "campus": "本部",
+                "classroom": "特115"
+            }
+        ],
+        "programs": [
+            "PASSION偏鄉教育學程"
+        ],
+        "comment": "座號「單數」同學請選擇A組（僅選課適用，AB兩組合班上課，上課教室112）",
+        "restrict": "◎必須先修過【SPU1023  身心障礙教學實習（輕╱重）】◎必須先修過【SPU4022  資賦優異學生教材教法（一）】、【SPU1021  身心障礙學生教材教法（輕／重）（一）】其中一門",
+        "form_s": "4",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 1,
+        "name": "特殊教育教學實習（一）",
+        "teachers": [
+            "邱春瑜",
+            "廖靜宜"
+        ],
+        "department": "EU09",
+        "code": "SPU6010",
+        "credit": 2,
+        "serial": 904,
+        "group": "B",
+        "quota": {
+            "limit": 50,
+            "additional": 11
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 6,
+                "to": 9,
+                "campus": "本部",
+                "classroom": "特112"
+            }
+        ],
+        "programs": [
+            "PASSION偏鄉教育學程"
+        ],
+        "comment": "座號「雙數」同學請選擇A組（僅選課適用，AB兩組合班上課，上課教室112）",
+        "restrict": "◎必須先修過【SPU1023  身心障礙教學實習（輕╱重）】◎必須先修過【SPU4022  資賦優異學生教材教法（一）】、【SPU1021  身心障礙學生教材教法（輕／重）（一）】其中一門",
+        "form_s": "4",
+        "classes": "",
+        "dept_group": ""
+    }
+]

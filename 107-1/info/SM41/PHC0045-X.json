@@ -1,0 +1,70 @@
+{
+    "year": 107,
+    "term": 1,
+    "name": "高等計算物理（一）",
+    "teachers": [
+        "江府峻"
+    ],
+    "department": "SM41",
+    "code": "PHC0045",
+    "credit": 3,
+    "serial": 4443,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 1,
+            "from": 7,
+            "to": 9,
+            "campus": "公館",
+            "classroom": "Ｆ101"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "在此課程中學生將學習如何利用電腦來解決物理問題。特別是學生會學習如何用物件導向程式語言來建構對科學計算有廣泛應用的 library.",
+    "goals": [
+        "培養學生程式寫作的能力",
+        "培養學生利用電腦來解決物理問題的能力",
+        "培養學生有獨立思考的能力",
+        "培養學生有團隊合作的精神"
+    ],
+    "syllabus": "Weeks 1 and 2: Review of C++ (basic)\n\nWeeks 3, 4 and 5: Advanced topics of C++ (classes, templates, objected-oriented analysis)\n\nWeeks 6: A quick review of GSL.\n\nWeeks 7 and 8: Numerical Integrations (Simpson method, Trapezoidal method, Gauss-Legendre quadrature), Numerical Derivatives, Root-finding procedures (Newton method, Binary search method, secant method).\n\nWeeks 9, 10, and 11: Differential equations (Euler method, (fourth order) Runge-Kutta method, Shooting method) and linear algebra systems (Gaussian elimination (with pivoting), LU decomposition, Eigenvalue problems).\n\nWeeks 12 and 13: Monte Carlo methods (calculation of pi, Random walk, 1-D and 2-D Ising model, Classical Heisenberg model)\n\nRemaining weeks: PDEs and Special topics.",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "每次上課由老師講解所選定的題材"
+        },
+        {
+            "type": "實驗/實作",
+            "note": "每次上課期間學生必須完成指定的作業並繳交給授課老師"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 50,
+            "note": ""
+        },
+        {
+            "type": "出席",
+            "weight": 25,
+            "note": ""
+        },
+        {
+            "type": "成果展覽",
+            "weight": 25,
+            "note": "期末學生要繳交一個事先由授課老師所指定的project."
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

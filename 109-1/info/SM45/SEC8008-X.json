@@ -1,0 +1,89 @@
+{
+    "year": 109,
+    "term": 1,
+    "name": "科學哲學",
+    "teachers": [
+        "楊文金",
+        "林陳涌"
+    ],
+    "department": "SM45",
+    "code": "SEC8008",
+    "credit": 3,
+    "serial": 2751,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 7,
+            "to": 9,
+            "campus": "公館",
+            "classroom": "科教大樓202"
+        }
+    ],
+    "programs": [],
+    "comment": "修課同學須具備科學教育或數學教育基礎",
+    "restrict": "◎課程不開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程同時包含知識論與本體論的探討。知識論的部分主要探討科學哲學的發展與討論，本體論的部分主要探討生物哲學中過程觀點的內容與應用。",
+    "goals": [
+        "探討科學知識發展歷程",
+        "探討科學知識與其哲學理念",
+        "探討各種哲學觀點",
+        "探討哲學"
+    ],
+    "syllabus": "01 導論 科學哲學的新 觀點 物質科學與生命科學(introduction: a new perspective of the philosophy of science)  \n02 希臘時期到 奧古斯都孔德 思考三部曲(the trilogy of the development of scientific thinking, from the ancient Greek to A. Comte)  \n03 維也納學圈 與邏輯實證主義及經驗主義(Vienna Circle: Logical positivism and empiricism)  \n04 劃界主義的立場(Demarcationism)  \n05 否證論 與批判理性主義(falsificationism and critical rationalism)  \n06 科學哲學的革命 孔恩 拉卡托斯 和勞丹(Revolution of philosophy of science, Kuhn, Lakaton and Laudan)  \n07 科學進步的理論(Theories of scientific progresses)  \n08 反對方法與科學的政府主義(against method and science anarchism)  \n09 科學人類學 與科學文化研究.(cultural studies of science)\n\n10\\. Dupre, J. & Nicholson, D.J.: A Manifesto for a processual Philosophy\n\n11\\. Nicholson, D.J.: Reconceptualizing the organism: from complex machine to flowing stream\n\n12\\. Arnellos, A.: From organizations of processes to organisms and other biological individuals\n\n13\\. Griffiths, P. & Stotz, K.: Developmental systems theory as a process theory\n\n14\\. Fabris, F.: Waddington’s processual epigenetics and the debate over cryptic variability\n\n15\\. Guttinger, S.: A process ontology for macromolecular biology\n\n16\\. Bertolaso, M. & Dupre, J.: A processual perspective on cancer\n\n17\\. Simons, P.: Processes and Precipitates\n\n18\\. Seibt, J.: Ontological tools for the Process turn in biology: some basic notions of general process theory",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": ""
+        },
+        {
+            "type": "合作學習",
+            "note": ""
+        },
+        {
+            "type": "其他",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 20,
+            "note": ""
+        },
+        {
+            "type": "期中考",
+            "weight": 20,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 20,
+            "note": ""
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 20,
+            "note": ""
+        },
+        {
+            "type": "報告",
+            "weight": 20,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

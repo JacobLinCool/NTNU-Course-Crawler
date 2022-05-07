@@ -1,0 +1,101 @@
+{
+    "year": 108,
+    "term": 1,
+    "name": "半導體製程技術電腦輔助設計",
+    "teachers": [
+        "陳冠廷"
+    ],
+    "department": "HM77",
+    "code": "OEC8158",
+    "credit": 3,
+    "serial": 1217,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 5,
+            "from": 10,
+            "to": 12,
+            "campus": "公館",
+            "classroom": "教室自排"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程不開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程旨在培養學生具備使用軟體模擬半導體製程的能力，以因應先進CMOS製程的專業需求。",
+    "goals": [
+        "簡介半導體世界及應用、近代物理回顧",
+        "半導體製程介紹",
+        "半導體製程模擬工具介紹",
+        "半導體製程模擬軟體實作示範或演示"
+    ],
+    "syllabus": "週次\n\n教學大綱及進度\n\n1\n\nClass Introduction\n\n2\n\n簡介普通物理之半導體範圍及回顧\n\n3\n\n半導體元件模擬平台(Sentaurus Workbench, SWB)介紹\n\n4\n\n製程整合模擬軟體(Sentaurus Process, SProcess)介紹\n\n5\n\n2D NMOS元件模擬製作介紹 (0.18um 製程技術)\n\n6\n\nP-well Implantation, anti-punchthrough Implantation, Vt adjustment Implantation\n\n7\n\nThermal Annealing, Drive-in, Activation\n\n8\n\nGrowing Gate Oxide and Depositing Polysilicon\n\n9\n\n期中測驗評量\n\n10\n\nPolysilicon Gate Photolithography and Re-Oxidation\n\n11\n\nLDD and Halo Implants\n\n12\n\nForming Nitride Spacers\n\n13\n\nImplanting Source/Drain\n\n14\n\nRe-mesh for device simulation\n\n15\n\nContact Setting\n\n16\n\n3D鰭式電晶體(FinFET)的元件製程介紹\n\n17\n\n3D鰭式電晶體(FinFET)的元件模擬\n\n18\n\n期末測驗評量",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": ""
+        },
+        {
+            "type": "問題解決教學",
+            "note": ""
+        },
+        {
+            "type": "合作學習",
+            "note": ""
+        },
+        {
+            "type": "實驗/實作",
+            "note": ""
+        },
+        {
+            "type": "媒體融入教學",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 15,
+            "note": ""
+        },
+        {
+            "type": "期中考",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 10,
+            "note": ""
+        },
+        {
+            "type": "出席",
+            "weight": 10,
+            "note": ""
+        },
+        {
+            "type": "報告",
+            "weight": 5,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

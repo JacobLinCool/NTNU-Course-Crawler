@@ -1,0 +1,69 @@
+{
+    "year": 108,
+    "term": 1,
+    "name": "廣義相對論（一）",
+    "teachers": [
+        "林豐利"
+    ],
+    "department": "SM41",
+    "code": "PHC0114",
+    "credit": 3,
+    "serial": 2688,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 1,
+            "from": 6,
+            "to": 8,
+            "campus": "公館",
+            "classroom": "Ｆ101"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "讓學生瞭解廣義相對論的基本概念及應用",
+    "goals": [
+        "瞭解廣義相對論",
+        "加強理性思維能力",
+        "物理研究能力培養"
+    ],
+    "syllabus": "第1 週   From Newtonian Mechanics to General Relativity  \n第2 週  Special Relativity\n\n第3 週  General Covairance and Tensor Calculus\n\n第4 週  Maxwell Theory for General Covariance\n\n第5 週  Equivalence Principle and its experimental test\n\n第6 週  Manifold and curved space\n\n第7 週  Riemannian geometry and Tensor Calculus  \n第8 週  xTensor and xCoba\n\n第9 週  期中考 \n\n第10週  Einstein equations\n\n第11週  Neutron Stars\n\n第12週  Black Holes -- I\n\n第13週  Black Holes -- II\n\n第14週  Gravitatioanl Waves\n\n第15週  GW physics-- experimental perspective\n\n第16週  GW physics-- theoretical perspective\n\n第17週  GW data analysis  \n第18週  期末考",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "discuss about the main concepts"
+        },
+        {
+            "type": "討論法",
+            "note": "ask students to discuss their understandings about the key concepts"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "期中考",
+            "weight": 35,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 35,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

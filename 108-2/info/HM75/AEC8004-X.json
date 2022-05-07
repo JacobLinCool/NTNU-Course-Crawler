@@ -1,0 +1,89 @@
+{
+    "year": 108,
+    "term": 2,
+    "name": "數位控制系統",
+    "teachers": [
+        "蔣欣翰"
+    ],
+    "department": "HM75",
+    "code": "AEC8004",
+    "credit": 3,
+    "serial": 1106,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 3,
+            "to": 5,
+            "campus": "本部",
+            "classroom": "研討六"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎必須先修過【AEU0043  控制系統】 ◎課程開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "使學生具備數位控制系統之數學基礎，並能利用數位控制系統之分析及設計技術，實現數位控制器。",
+    "goals": [
+        "瞭解各種數位控制之原理",
+        "能以程式語言撰寫各種數位控制法則，並據以分析各項數據",
+        "培養問題導向的思維和研究之能力",
+        "提升工程問題理解之能力，並利用各種數位控制方法進行分析及設計以求得解答",
+        "能夠搜尋相關技術文獻，提升自我學習之能力",
+        "能夠以小組方式進行主題式研究，培養團隊合作之能力"
+    ],
+    "syllabus": "本課程教導學生設計數位控制系統的方法。首先介紹取樣定理及Z-Transform，使學生瞭解數位系統的建立方法，並學會分析數位系統的穩定性，接著根據所建立的數位系統，學習設計數位控制器方法來穩定系統，以及分析控制器的效能。本課程亦規劃實驗實作及期末專題實作，搭配Matlab/SIMULINK及LabVIEW的工具軟體，來教導學生設計數位控制系統來解決實際系統控制的問題。除了讓學生應證課堂上所敎授之控制設計理論於軟體模擬，也透過真實受控系統的專題實作，讓學生體驗從理論設計、軟體模擬到硬體實現數位控制系統的整個流程。\n\n本課程的每週教學進度如下：\n\nWeek 1.   Introduction to Digital Control\n\nWeek 2.   Single-block Models and Their Responses\n\nWeek 3.   Building and Analyzing Multiblock Models\n\nWeek 4.   State-space Models (I)\n\nWeek 5.   State-space Models (II)\n\nWeek 6.   Sample-data Control Systems (I)\n\nWeek 7.   Sample-data Control Systems (II)\n\nWeek 8.   Digital Control Lab #1\n\nWeek 9.   Midterm\n\nWeek 10. Digital Control Lab #2\n\nWeek 11. System Performance (I)\n\nWeek 12. System Performance (II)\n\nWeek 13. Frequency Response\n\nWeek 14. Proportional-integral-derivative Control\n\nWeek 15. Digital Control Lab #3\n\nWeek 16. State-space Design Methods\n\nWeek 17. Final Project (Flexible)\n\nWeek 18. Finals (Flexible)",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "課程投影片及參考書目"
+        },
+        {
+            "type": "問題解決教學",
+            "note": "課程內容搭配實驗"
+        },
+        {
+            "type": "合作學習",
+            "note": "實驗分組進行與課程內容討論"
+        },
+        {
+            "type": "實驗/實作",
+            "note": "數位控制設計實驗實作"
+        },
+        {
+            "type": "專題研究",
+            "note": "期末專題"
+        }
+    ],
+    "grading": [
+        {
+            "type": "期中考",
+            "weight": 20,
+            "note": "Midterm"
+        },
+        {
+            "type": "期末考",
+            "weight": 20,
+            "note": "Final"
+        },
+        {
+            "type": "報告",
+            "weight": 30,
+            "note": "Lab Report"
+        },
+        {
+            "type": "專題",
+            "weight": 30,
+            "note": "Final Project"
+        }
+    ],
+    "prerequisite": "◎必須先修過【AEU0043  控制系統】",
+    "general_core": []
+}

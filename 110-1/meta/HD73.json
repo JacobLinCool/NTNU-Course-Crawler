@@ -1,0 +1,98 @@
+[
+    {
+        "year": 110,
+        "term": 1,
+        "name": "書報討論（三）－博士班",
+        "teachers": [
+            "劉傳璽"
+        ],
+        "department": "HD73",
+        "code": "MTD0009",
+        "credit": 1,
+        "serial": 1133,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 8,
+                "to": 8,
+                "campus": "本部",
+                "classroom": "工教系會議室"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎課程開放上修",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 1,
+        "name": "高等熱力學",
+        "teachers": [
+            "張天立"
+        ],
+        "department": "HM73",
+        "code": "MTC8001",
+        "credit": 3,
+        "serial": 1184,
+        "group": "",
+        "quota": {
+            "limit": 30,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 2,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "機電301會議室"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎課程開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 1,
+        "name": "精微製造工程",
+        "teachers": [
+            "陳順同"
+        ],
+        "department": "HU73",
+        "code": "MTC7001",
+        "credit": 3,
+        "serial": 1296,
+        "group": "",
+        "quota": {
+            "limit": 30,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 7,
+                "to": 9,
+                "campus": "本部",
+                "classroom": "機電301會議室"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "",
+        "classes": "7",
+        "dept_group": ""
+    }
+]

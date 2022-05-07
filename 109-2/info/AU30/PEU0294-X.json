@@ -1,0 +1,90 @@
+{
+    "year": 109,
+    "term": 2,
+    "name": "運動推拿指壓學",
+    "teachers": [
+        "朱寧"
+    ],
+    "department": "AU30",
+    "code": "PEU0294",
+    "credit": 2,
+    "serial": 100,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 6,
+            "to": 7,
+            "campus": "本部",
+            "classroom": "樸106"
+        }
+    ],
+    "programs": [
+        "運動傷害防護學程"
+    ],
+    "comment": "",
+    "restrict": "◎第一階段限 運動傷害防護學程◎必須先修過【PEU2001  運動解剖學】",
+    "form_s": "2",
+    "classes": "",
+    "dept_group": "",
+    "hours": 2,
+    "description": "透過教學課程使學生了解運動按摩基本原理，熟練運動按摩技巧，並應用於所需族群。",
+    "goals": [
+        "了解運動按摩的功能",
+        "學習運動按摩中各部位推拿手法",
+        "學習淋巴按摩技巧與關節鬆動術的應用",
+        "學習關節伸展與PNF搭配按摩之技術"
+    ],
+    "syllabus": "  \n[教學進度與主題附件](https://ap.itc.ntnu.edu.tw/NtnuFileShare/file.do?action=dl&gno=c396ad193c6e43f286a9de7c7f577a4f&fno=f98f0f2a0ac0456cb9bbd8e641b438b8)",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "課程講述搭配投影片"
+        },
+        {
+            "type": "討論法",
+            "note": "給予情境題思考討論適當伸展或按摩法"
+        },
+        {
+            "type": "實驗/實作",
+            "note": "實際演練按摩技巧"
+        },
+        {
+            "type": "實地考察、參訪",
+            "note": "觀賞運動賽場場邊防護員相關工作情況"
+        }
+    ],
+    "grading": [
+        {
+            "type": "期中考",
+            "weight": 25,
+            "note": "運動按摩技巧評量"
+        },
+        {
+            "type": "期末考",
+            "weight": 25,
+            "note": "運動按摩技巧評量"
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 20,
+            "note": "小組練習與討論"
+        },
+        {
+            "type": "出席",
+            "weight": 20,
+            "note": "上課出席"
+        },
+        {
+            "type": "報告",
+            "weight": 10,
+            "note": "觀賞運動賽場場邊防護員相關工作情況心得報告"
+        }
+    ],
+    "prerequisite": "◎必須先修過【PEU2001  運動解剖學】",
+    "general_core": []
+}

@@ -1,0 +1,75 @@
+{
+    "year": 108,
+    "term": 2,
+    "name": "行動應用程式開發",
+    "teachers": [
+        "王科植"
+    ],
+    "department": "SU47",
+    "code": "CSU0046",
+    "credit": 3,
+    "serial": 2904,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 3,
+            "from": 7,
+            "to": 9,
+            "campus": "公館",
+            "classroom": "Ｂ102"
+        }
+    ],
+    "programs": [
+        "資訊科技應用學程"
+    ],
+    "comment": "",
+    "restrict": "",
+    "form_s": "3",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "行動裝置已超越個人電腦成為一般使用者最常接觸的運算設備，在行動裝置上開發應用程式也成為資工領域必備之技能。本課程將以大一與大二之程式設計與資料結構為基礎，並擴展至行動平台上之應用程式開發。透過此課程了解行動平台與個人電腦之差異、熟悉行動應用程式開發技術、並可運用行動平台之特殊感測元件，結合雲端服務，產生足以發揮創意的應用。",
+    "goals": [
+        "熟悉行動應用程式開發技術",
+        "運用行動平台發揮創意應用",
+        "分組完成案例實作"
+    ],
+    "syllabus": "(本課程將使用ios平台和swift語言)\n\n*   簡介\n*   Swift基礎語法\n*   Xcode介紹\n*   Storyboard與MVC\n*   應用程式結構與UIKit\n*   Tableview和Navigation control\n*   介面設計與自動排列\n*   元件溝通模式\n*   手勢辨識\n*   網際網路連結\n*   繪圖\n*   多媒體使用",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "以講課方式講解學習內容"
+        },
+        {
+            "type": "合作學習",
+            "note": "共同組隊進行期末應用程式開發"
+        },
+        {
+            "type": "實驗/實作",
+            "note": "實作作業與實際開發應用程式"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 60,
+            "note": "app實作與練習"
+        },
+        {
+            "type": "出席",
+            "weight": 5,
+            "note": "出席課程與報告"
+        },
+        {
+            "type": "成果展覽",
+            "weight": 35,
+            "note": "團隊App開發與展示"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

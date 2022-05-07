@@ -1,0 +1,75 @@
+{
+    "year": 108,
+    "term": 2,
+    "name": "普通化學實驗（二）",
+    "teachers": [
+        "陳家俊"
+    ],
+    "department": "SU42",
+    "code": "CMU0132",
+    "credit": 1,
+    "serial": 2772,
+    "group": "B",
+    "quota": {
+        "limit": 40,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 3,
+            "from": 7,
+            "to": 9,
+            "campus": "公館",
+            "classroom": "Ｄ407"
+        }
+    ],
+    "programs": [],
+    "comment": "預先代入化一乙學生",
+    "restrict": "",
+    "form_s": "1",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "使學生熟悉化學實驗技巧，並且與課本基本原理能互相驗證。",
+    "goals": [
+        "To train students with the skills a d basic knowledge in basic chemical research.",
+        "o train stdents with the correct manners and methodology toward basic chemical reserach.",
+        "To train students to do the lab independently and collaboratively."
+    ],
+    "syllabus": "下學期實驗進度表\n\n1.反應熱與Hess’s Law  \n2.焓、熵和自由能  \n3.反應速率與反應級數\n\n4.高錳酸鉀的氧化還原滴定  \n5.樣品中維他命C含量測定  \n6.水中氯離子  \n7.電解質與非電解質之性質  \n8.游離常數與緩衝溶液  \n9.多種陽離子的定性分析",
+    "methodologies": [
+        {
+            "type": "實驗/實作",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 15,
+            "note": ""
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 25,
+            "note": ""
+        },
+        {
+            "type": "報告",
+            "weight": 20,
+            "note": ""
+        },
+        {
+            "type": "其他",
+            "weight": 10,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

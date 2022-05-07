@@ -1,0 +1,66 @@
+{
+    "year": 110,
+    "term": 1,
+    "name": "近代微分幾何（一）",
+    "teachers": [
+        "林俊吉"
+    ],
+    "department": "SM40",
+    "code": "MAC8003",
+    "credit": 3,
+    "serial": 4781,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 2,
+            "to": 4,
+            "campus": "公館",
+            "classroom": "數學館310研討室"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "",
+    "goals": [
+        "訓練學生掌握微分幾何的知識"
+    ],
+    "syllabus": "We are interested in topics related to Riemannian Geometry, Geometric Analysis, and Geometric Flows. The topics below provide tools in studying problems in either Riemannian geometry or other differential geometries.\n\n1\\. Brakke Flow\n\n2\\. Mean Curvature Flow\n\n3\\. Almgren's multiple-valued functions\n\n4\\. Hamilton's Ricci Flow",
+    "methodologies": [
+        {
+            "type": "Formal lecture",
+            "note": ""
+        },
+        {
+            "type": "Group discussion",
+            "note": ""
+        },
+        {
+            "type": "Problem base learning",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "Class discussion involvement",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "Presentation",
+            "weight": 70,
+            "note": ""
+        }
+    ],
+    "prerequisite": "◎Available for junior and senior year B.A. program students (Doctoral program courses excepted) and M.A. program students.",
+    "general_core": []
+}

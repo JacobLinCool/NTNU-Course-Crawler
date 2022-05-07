@@ -1,0 +1,81 @@
+{
+    "year": 109,
+    "term": 2,
+    "name": "電路學（二）",
+    "teachers": [
+        "郭建宏"
+    ],
+    "department": "HU75",
+    "code": "AEU0017",
+    "credit": 3,
+    "serial": 1307,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 1,
+            "from": 2,
+            "to": 4,
+            "campus": "本部",
+            "classroom": "工401"
+        }
+    ],
+    "programs": [
+        "太陽能源與工程學程"
+    ],
+    "comment": "",
+    "restrict": "◎必須先修過【AEU0014  電路學（一）】",
+    "form_s": "2",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "介紹交流電路與頻率響應的基本原理，以成為日後電路設計與進階課程之基礎。",
+    "goals": [
+        "認識與分析交流電路",
+        "認識與分析三相電路",
+        "認識與分析頻率響應"
+    ],
+    "syllabus": "第一週  簡介, AC Circuits\n\n第二週  國訂假日補假\n\n第三週  AC Circuits \n\n第四週  AC Power Circuits\n\n第五週  AC Power Circuits\n\n第六週  Test, Network Function, s-Domain Analysis, Frequency Response and Filters\n\n第七週  國訂假日補假\n\n第八週  期中考\n\n第九週  Network Function, s-Domain Analysis, Frequency Response and Filters\n\n第十週  Test, Fourier Series and Fourier Transform\n\n第十一週  Fourier Series and Fourier Transform\n\n第十二週  Test, Laplace Transform Analysis\n\n第十三週  Laplace Transform Analysis\n\n第十四週  Laplace Transform Analysis\n\n第十五週  Case Study\n\n第十六週  期末考\n\n第十七週  Two-Port Networks 自修\n\n第十八週  Two-Port Networks 自修",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "教學講義加上課堂教學"
+        },
+        {
+            "type": "討論法",
+            "note": "較艱深的課程內容，以分組討論，或學生參與老師教學的互動方式進行"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 20,
+            "note": "章節習題繳交"
+        },
+        {
+            "type": "期中考",
+            "weight": 25,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "出席",
+            "weight": 5,
+            "note": "課堂點名"
+        },
+        {
+            "type": "其他",
+            "weight": 20,
+            "note": "平時小考2至3次"
+        }
+    ],
+    "prerequisite": "◎必須先修過【AEU0014  電路學（一）】",
+    "general_core": []
+}

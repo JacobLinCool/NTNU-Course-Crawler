@@ -1,0 +1,71 @@
+{
+    "year": 110,
+    "term": 1,
+    "name": "生態學",
+    "teachers": [
+        "林登秋",
+        "李佩珍"
+    ],
+    "department": "SU43",
+    "code": "BIU0046",
+    "credit": 3,
+    "serial": 3000,
+    "group": "",
+    "quota": {
+        "limit": 60,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 4,
+            "from": 2,
+            "to": 4,
+            "campus": "公館",
+            "classroom": "Ｓ602"
+        }
+    ],
+    "programs": [
+        "環境監測學程",
+        "空間學程"
+    ],
+    "comment": "",
+    "restrict": "",
+    "form_s": "3",
+    "classes": "1",
+    "dept_group": "",
+    "hours": 3,
+    "description": "This course covers the fundamental concepts in modern ecology from individuals to ecosystem and beyond. It is designed for undergraduate students with a background in general biology.",
+    "goals": [
+        "We aim to familiarize the students with the basic knowledge of ecological principles, and enable them to think critically and independently about the complex relationships between organisms and the environment and its implications in nature conservation and environmental management."
+    ],
+    "syllabus": "**授課方式：16+2（授課16週+自主學習2週）**\n\n前8週將包括以下主題與期中考：\n\nIntroduction to Ecology\n\nThe aquatic and terrestrial environment\n\nAdaptation and natural selection\n\nLife history\n\nPopulation ecology\n\nSpecies interaction\n\n**Mid-term exam**\n\n後8週將包括以下主題與期末考：\n\nCommunity structure\n\nFactors influencing the structure of communities\n\nCommunity dynamics\n\nLandscape ecology\n\nEcosystem energetics\n\nDecomposition and nutrient cycling\n\nBiogeochemical cycles\n\nTerrestrial ecosystems\n\nAquatic ecosystems\n\nLand-water margins\n\nLarge-scale patterns of biological diversity\n\nGlobal climate change\n\n**Final exam**\n\n**自主學習**",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "媒體融入教學",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "期中考",
+            "weight": 40,
+            "note": "期中考將包括選擇題、簡答題、申論題、計算作圖題等，以評量學生生態學專業知識、體認生命在生態系中的奧妙之處、及人類對生態系之影響。"
+        },
+        {
+            "type": "期末考",
+            "weight": 40,
+            "note": "期中考將包括選擇題、簡答題、申論題、計算作圖題等，以評量學生生態學專業知識、體認生命在生態系中的奧妙之處、及人類對生態系之影響。"
+        },
+        {
+            "type": "出席",
+            "weight": 20,
+            "note": "學生應出席並積極參與課堂討論與互動"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

@@ -1,0 +1,76 @@
+{
+    "year": 109,
+    "term": 1,
+    "name": "教育統計學（一）",
+    "teachers": [
+        "陳心怡"
+    ],
+    "department": "E",
+    "code": "E0U0001",
+    "credit": 2,
+    "serial": 360,
+    "group": "B",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 1,
+            "from": 3,
+            "to": 4,
+            "campus": "本部",
+            "classroom": "特115"
+        }
+    ],
+    "programs": [
+        "學習與資訊學程"
+    ],
+    "comment": "",
+    "restrict": "◎限特教系（學）選修",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 2,
+    "description": "本課程的目的在教授學生統計學基本原理與方法。總體來說，本課程期使學生能在具備統計學方法知識後，能適當的應用統計學方法於相關的研究與實務之中，並培養學生在相關研究與實務中具嚴謹專業客觀的能力與態度。",
+    "goals": [
+        "1.\t了解描述統計學的基本概念、原理與方法。",
+        "2.\t了解推論的基本概念、原理與方法。",
+        "3.\t應用統計學方法於心理與教育教學與研究工作。"
+    ],
+    "syllabus": "1.      Statistics and scientific method\n\n2.      Basic mathematical and measurement concepts\n\n3.      Frequency distributions\n\n4.      Measures of central tendency and variability\n\n5.      The normal curve and standard scores\n\n6.      Correlation\n\n7.      Linear regression\n\n8.      Random sampling and probability\n\n9.      Binomial distribution\n\nIntroduction to hypothesis testing using sign test",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 25,
+            "note": "參考"
+        },
+        {
+            "type": "期中考",
+            "weight": 25,
+            "note": "參考"
+        },
+        {
+            "type": "期末考",
+            "weight": 25,
+            "note": "參考"
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 25,
+            "note": "參考"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

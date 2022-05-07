@@ -1,0 +1,240 @@
+[
+    {
+        "year": 108,
+        "term": 2,
+        "name": "木器設計與製造",
+        "teachers": [
+            "林弘昌"
+        ],
+        "department": "HU71",
+        "code": "ITU0158",
+        "credit": 3,
+        "serial": 1169,
+        "group": "",
+        "quota": {
+            "limit": 30,
+            "additional": 5
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 7,
+                "to": 9,
+                "campus": "本部",
+                "classroom": "科501"
+            }
+        ],
+        "programs": [
+            "室內設計學程"
+        ],
+        "comment": "",
+        "restrict": "◎限大二修習◎必須先修過【ITU0002  木工製造】",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 2,
+        "name": "公共藝術與環境設計",
+        "teachers": [
+            "林正仁"
+        ],
+        "department": "TU60",
+        "code": "ATU0105",
+        "credit": 3,
+        "serial": 2978,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 5,
+                "from": 2,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "美101"
+            }
+        ],
+        "programs": [
+            "室內設計學程"
+        ],
+        "comment": "",
+        "restrict": "",
+        "form_s": "3",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 2,
+        "name": "色彩計畫",
+        "teachers": [
+            "施令紅"
+        ],
+        "department": "TU68",
+        "code": "VDU0012",
+        "credit": 2,
+        "serial": 3021,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 3,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "設計系2A教室"
+            }
+        ],
+        "programs": [
+            "室內設計學程"
+        ],
+        "comment": "",
+        "restrict": "◎必須先修過【VDU0006  色彩學】",
+        "form_s": "1",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 2,
+        "name": "電腦輔助室內設計",
+        "teachers": [
+            "莊澤光"
+        ],
+        "department": "TU68",
+        "code": "VDU0150",
+        "credit": 3,
+        "serial": 3031,
+        "group": "",
+        "quota": {
+            "limit": 35,
+            "additional": 5
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 10,
+                "to": 12,
+                "campus": "本部",
+                "classroom": "教403"
+            }
+        ],
+        "programs": [
+            "室內設計學程"
+        ],
+        "comment": "",
+        "restrict": "",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 2,
+        "name": "室內設計（一）",
+        "teachers": [
+            "長友大輔"
+        ],
+        "department": "TU68",
+        "code": "VDU0196",
+        "credit": 2,
+        "serial": 3036,
+        "group": "",
+        "quota": {
+            "limit": 35,
+            "additional": 5
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 6,
+                "to": 7,
+                "campus": "本部",
+                "classroom": "設計系2A教室"
+            }
+        ],
+        "programs": [
+            "室內設計學程"
+        ],
+        "comment": "",
+        "restrict": "",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 2,
+        "name": "住宅設計專題",
+        "teachers": [
+            "劉大章"
+        ],
+        "department": "TU68",
+        "code": "VDU0210",
+        "credit": 2,
+        "serial": 3039,
+        "group": "",
+        "quota": {
+            "limit": 35,
+            "additional": 5
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 1,
+                "to": 2,
+                "campus": "本部",
+                "classroom": "設計系2A教室"
+            }
+        ],
+        "programs": [
+            "室內設計學程"
+        ],
+        "comment": "",
+        "restrict": "",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 2,
+        "name": "設計實務與估價",
+        "teachers": [
+            "劉大章"
+        ],
+        "department": "TU68",
+        "code": "VDU0171",
+        "credit": 2,
+        "serial": 3048,
+        "group": "",
+        "quota": {
+            "limit": 35,
+            "additional": 5
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 3,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "設計系2A教室"
+            }
+        ],
+        "programs": [
+            "室內設計學程"
+        ],
+        "comment": "",
+        "restrict": "",
+        "form_s": "3",
+        "classes": "",
+        "dept_group": ""
+    }
+]

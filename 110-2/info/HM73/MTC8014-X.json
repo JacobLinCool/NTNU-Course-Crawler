@@ -1,0 +1,96 @@
+{
+    "year": 110,
+    "term": 2,
+    "name": "適應控制",
+    "teachers": [
+        "陳俊達"
+    ],
+    "department": "HM73",
+    "code": "MTC8014",
+    "credit": 3,
+    "serial": 1110,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 3,
+            "from": 10,
+            "to": 12,
+            "campus": "本部",
+            "classroom": "機202會議室"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "",
+    "goals": [
+        "Introducing adaptive control theory and application to motion control.",
+        "The ability for the analysis of the system identification (ID).",
+        "The ability for the design of adaptive controllers.",
+        "The ability using computer simulation tools for engineering practice analysis."
+    ],
+    "syllabus": "\\[16+2\\]weeks\n\n1st week    Introduction\n\n2nd week   Adaptive control introduction\n\n3rd week    Real-time parameter estimation\n\n4th week    Real-time parameter estimation\n\n5th week    Applications and Discussions on parameter estimation\n\n6th week    Self-tuning regulators\n\n7th week    Self-tuning regulators\n\n8th week    Self-tuning regulators\n\n9th week    Midterm exam\n\n10th week    Model-reference adaptive systems\n\n11th week    Model-reference adaptive systems\n\n12th week    Model-reference adaptive systems\n\n13th week    Properties of adaptive systems\n\n14th week    Auto-tuning\n\n15th week    Auto-tuning\n\n16th week    Final exam\n\n17th week    Flexible\n\n18th week    Flexible",
+    "methodologies": [
+        {
+            "type": "Formal lecture",
+            "note": "Handout"
+        },
+        {
+            "type": "Group discussion",
+            "note": "discussion in class"
+        },
+        {
+            "type": "Problem base learning",
+            "note": "solutions for raised questions"
+        },
+        {
+            "type": "Media, audio, visual materials",
+            "note": "Using Moodle teaching platform"
+        },
+        {
+            "type": "Case studies",
+            "note": "CAE for term project"
+        },
+        {
+            "type": "Other:",
+            "note": "references studying"
+        }
+    ],
+    "grading": [
+        {
+            "type": "Assignments",
+            "weight": 20,
+            "note": ""
+        },
+        {
+            "type": "Midterm Exam",
+            "weight": 25,
+            "note": ""
+        },
+        {
+            "type": "Final exam",
+            "weight": 25,
+            "note": ""
+        },
+        {
+            "type": "Attendances",
+            "weight": 10,
+            "note": ""
+        },
+        {
+            "type": "Presentation",
+            "weight": 20,
+            "note": ""
+        }
+    ],
+    "prerequisite": "◎Available for junior and senior year B.A. program students (Doctoral program courses excepted) and M.A. program students.",
+    "general_core": []
+}

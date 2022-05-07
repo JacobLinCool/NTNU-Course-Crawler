@@ -1,0 +1,82 @@
+{
+    "year": 110,
+    "term": 1,
+    "name": "統計學",
+    "teachers": [
+        "何英奇"
+    ],
+    "department": "GU",
+    "code": "05UG020",
+    "credit": 2,
+    "serial": 996,
+    "group": "A",
+    "quota": {
+        "limit": 35,
+        "additional": 5
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 6,
+            "to": 7,
+            "campus": "本部",
+            "classroom": "教403"
+        }
+    ],
+    "programs": [],
+    "comment": "心輔系學士班學生修習通識課程「心理學」、「統計學」不計入畢業學分。",
+    "restrict": "",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 2,
+    "description": "",
+    "goals": [
+        "了解描述統計學的基本概念、原理與方法",
+        "了解推論的基本概念、原理與方法",
+        "應用統計學方法於心理與教育教學與研究工作"
+    ],
+    "syllabus": "Week 1  (9/28)  課程介紹  統計學基本概念  \nWeek 2  (10/05)  統計概論、Excel 介紹  \nWeek 3  (10/12)  描述統計—集中量數 (用Excel來做描述性統計)  \nWeek 4  (10/19) 描述統計—變異量數 (用Excel來做描述性統計)  \nWeek 5  (10/26) 相對地位量數: 百分等級、標準分數   \nWeek 6  (11/02) 常態分配       \nWeek 7  (11/09)  相關分析  回歸分析  \nWeek 8  (11/16)  期中考試複習  \nWeek 9  (11/23)   期中考試  \nWeek 10  (11/30)  推論統計基本概念  \nWeek 11  (12/07)  中央極限定理 (用Excel模擬)  \nWeek 12  (12/14)  一個母數的假設考驗與區間估計     \nWeek 13  (12/21)  兩組平均數的差異檢定  \nWeek 14  (5/25 )  google 表單設計、網路資料蒐集、統計分析  \nWeek 15  (01/04)   期末考試複習  \nWeek 16  (01/11)   期末考試  \nWeek 17  (01/18)  彈性補充教學 Week 18  (01/25)   彈性補充教學",
+    "methodologies": [
+        {
+            "type": "Formal lecture",
+            "note": "教師講解"
+        },
+        {
+            "type": "Group discussion",
+            "note": "師生團體討論"
+        },
+        {
+            "type": "Lab/Studio",
+            "note": "以EXCEL進行實際統計分析"
+        },
+        {
+            "type": "Media, audio, visual materials",
+            "note": "部分時間遠距教學"
+        }
+    ],
+    "grading": [
+        {
+            "type": "Assignments",
+            "weight": 15,
+            "note": "作業有可能是隨堂作或帶回家作"
+        },
+        {
+            "type": "Midterm Exam",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "Final exam",
+            "weight": 40,
+            "note": ""
+        },
+        {
+            "type": "Attendances",
+            "weight": 15,
+            "note": "本科目非常重視出席率"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

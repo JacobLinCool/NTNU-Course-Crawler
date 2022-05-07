@@ -1,0 +1,77 @@
+{
+    "year": 107,
+    "term": 1,
+    "name": "高分子化學",
+    "teachers": [
+        "許貫中"
+    ],
+    "department": "SU42",
+    "code": "CMU0077",
+    "credit": 3,
+    "serial": 2878,
+    "group": "",
+    "quota": {
+        "limit": 100,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 5,
+            "from": 2,
+            "to": 4,
+            "campus": "公館",
+            "classroom": "Ｅ302"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "3",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "講授包括高分子合成、結構鑑定、性質分析、以及應用等內容，使學生具備高分子有關的知識。",
+    "goals": [
+        "講授包括高分子合成、結構鑑定、性質分析、以及應用等內容，使學生具備高分子有關的知識。"
+    ],
+    "syllabus": "1\\. Introduction  \n2\\. Plastic, ribber, fiber  \n3\\. Molecular weight and polymer solutions  \n4\\. polymer morphology  \n5\\. polymer properties  \n6\\. Characterization of polymers  \n7\\. Free radical polymerization  \n8\\. Step-reaction polymerization  \n9\\. Ionic polymerization",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "媒體融入教學",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 25,
+            "note": ""
+        },
+        {
+            "type": "期中考",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 5,
+            "note": ""
+        },
+        {
+            "type": "其他",
+            "weight": 10,
+            "note": "小考"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

@@ -1,0 +1,64 @@
+{
+    "year": 109,
+    "term": 1,
+    "name": "動力學",
+    "teachers": [
+        "屠名正"
+    ],
+    "department": "HU73",
+    "code": "MTU0101",
+    "credit": 3,
+    "serial": 1335,
+    "group": "",
+    "quota": {
+        "limit": 68,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 1,
+            "from": 2,
+            "to": 4,
+            "campus": "本部",
+            "classroom": "誠108"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "2",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "動力學是物理學的基礎內容，也是物理在工程應用的理論起點。工程及科技學院的許多科系都有開設動力學。本課延續靜力學，從質點、質點系統到剛體，從一維、二維到三維空間，從運動學、動力學、功能原理、衝動量原理等原理，介紹基本原理及在工程上的應用。本課同時為後續的機構學、機器動力學、系統動力學、結構動力學及振動學奠定基礎。",
+    "goals": [
+        "學習動力學原理",
+        "理解動力學原理之工程應用",
+        "解決動力學之工程應用問題",
+        "學習動力學原理(外文動力學書籍)"
+    ],
+    "syllabus": "1\\. Kinematics of a particle: rectilinear motion\n\n2\\. Kinematics of a particle: curvilinear motion\n\n3\\. Kinetics of a particle: Newton’s law\n\n4\\. Quiz 1; Kinetics of particle: force and acceleration\n\n5\\. Kinetics of particle: work and energy\n\n6\\. Kinetics of particle: work and energy\n\n7\\. Kinetics of particle: impulse and momentum\n\n8\\. Quiz 2; Kinetics of particle: impulse and momentum\n\n9\\. Planar kinematics of a rigid body: translation and rotation\n\n10\\. Planar kinematics of a rigid body: relative motion\n\n11\\. Planar kinetics of a rigid body: force and acceleration\n\n12\\. Planar kinetics of a rigid body: force and acceleration\n\n13\\. Quiz 3; Planar kinetics of a rigid body: work and energy\n\n14\\. Planar kinetics of a rigid body: work and energy\n\n15\\. Planar kinetics of a rigid body: impulse and momentum\n\n16\\. Three-dimensional kinematics of a rigid body\n\n17\\. Three-dimensional kinetics of a rigid body\n\n18\\. Quiz4",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "定義、原理及應用範例解說"
+        },
+        {
+            "type": "討論法",
+            "note": "概念討論、疑難解決"
+        },
+        {
+            "type": "問題解決教學",
+            "note": "例題求解示範演練"
+        }
+    ],
+    "grading": [
+        {
+            "type": "其他",
+            "weight": 100,
+            "note": "隨堂紙筆測驗、命題形式為計算題(缺席扣分)"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

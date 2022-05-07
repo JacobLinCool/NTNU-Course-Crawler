@@ -1,0 +1,62 @@
+{
+    "year": 108,
+    "term": 1,
+    "name": "有機光譜學",
+    "teachers": [
+        "簡敦誠"
+    ],
+    "department": "SM42",
+    "code": "CMM0191",
+    "credit": 3,
+    "serial": 2699,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 1,
+            "from": 2,
+            "to": 4,
+            "campus": "公館",
+            "classroom": "Ｃ105"
+        }
+    ],
+    "programs": [],
+    "comment": "大學部於第2學期會開設類似課程",
+    "restrict": "◎課程不開放上修",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "針對化學研究所學生，教授有機化學相關之光譜學知識以及對有機未知物進行結構的鑑定及分析",
+    "goals": [
+        "針對化學研究所學生，教授有機化學相關之光譜學知識以及對有機未知物進行結構的鑑定及分析"
+    ],
+    "syllabus": "1\\. 有機光譜學之簡介 (introduction)  \n2\\. 元素分析 (EA: elemental analysis)  \n3\\. 紅外線光譜學 (IR: infared)  \n4\\. 紫外線即可見光譜學 (UV: ultraviolet and visible)  \n5\\. 核磁共振光譜學 (NMR: nuclear magnetic resonance)  \n6\\. 二維核磁共振光譜學 (2D NMR: two dimension nuclear magnetic resonance)  \n7\\. 光譜綜合應用於結構鑑定 (application)",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "期中考",
+            "weight": 50,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 50,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

@@ -1,0 +1,104 @@
+{
+    "year": 107,
+    "term": 2,
+    "name": "多媒體網路",
+    "teachers": [
+        "戴建耘"
+    ],
+    "department": "HM75",
+    "code": "AEC8050",
+    "credit": 3,
+    "serial": 1179,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 1,
+            "from": 2,
+            "to": 4,
+            "campus": "本部",
+            "classroom": "工209"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程主要從介紹多媒體網路發展現況與趨勢，說明多媒體網路之功能與主要類別、多媒體網路伺服器之規劃與建置技術、運用多媒體網路之管理工具以及網路多媒體網路之管理與資源控制或應用技術",
+    "goals": [
+        "瞭解多媒體網路發展現況與趨勢介紹",
+        "瞭解多媒體網路之功能與主要類別",
+        "學得多媒體網路伺服器之規劃與建置技術",
+        "學得運用多媒體網路之管理工具",
+        "學得網路多媒體網路之管理與資源控制或應用技術",
+        "瞭解多媒體網路之相關專業認證"
+    ],
+    "syllabus": "**Multimedia Network : Syllabus****多媒體網路 教學進度與主題**\n\n**Week 1** Introduction to multimedia network and multimedia terms\n\n電腦多媒體網路之行業發展與能力認證現況簡介及多媒體中英文關鍵名詞\n\n**Week 2** Multimedia terms practice and HTML5 Essentials and Terminology\n\n多媒體專業英文學習與HTML5 核心觀念與名詞\n\n**Week 3** Mobile device and App Inventor\n\n手機網路與App Inventor\n\n**Week 4** Using Cascading Style Sheets (CSS) Technology\n\n使用CSS 技術\n\n**Week 5** Introduction to CSS Version 3 (CSS3)\n\n使用CSS3 新技術\n\n**Week 6** Using Advanced CSS3 Techniques\n\n使用CSS3 進階技術\n\n**Week 7** Introduction to JavaScript\n\nJavaScript觀念\n\n**Week 8** JavaScript Events, Functions and Methods\n\nJavaScript Events事件, Functions功能 and Methods方法\n\n**Week 9** Mid-Term Exam\n\n期中考試\n\n**Week 10** Developing HTML5 Forms\n\n發展 HTML5 Forms 表單\n\n**Week 11** Designing for Mobile Devices\n\nMobile Devices手機裝置的程式設計\n\n**Week 12** Developing APPs for Mobile Devices I\n\nMobile Devices手機裝置的網路應用程式開發I\n\n**Week 13** Developing APPs for Mobile Devices II\n\nMobile Devices手機裝置的網路應用程式開發II\n\n**Week 14** Developing APPs for Mobile Devices III\n\nMobile Devices手機裝置的網路應用程式開發III\n\n**Week 1**5 Apply Learning Theories on Network APPs\n\n學習理論在電腦多媒體網路與手機應用研究\n\n**Week 16** Special Topics I\n\n專題研究I\n\n**Week 17** Special Topics II\n\n專題研究II\n\n**Week 18** Final Exam\n\n期末考試",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "教師說明"
+        },
+        {
+            "type": "討論法",
+            "note": "依照主題、分組討論"
+        },
+        {
+            "type": "合作學習",
+            "note": "分組進行合作學習"
+        },
+        {
+            "type": "媒體融入教學",
+            "note": "運用網路與多媒體作展示與教學"
+        },
+        {
+            "type": "專題研究",
+            "note": "依照主題進行專題研究"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 20,
+            "note": ""
+        },
+        {
+            "type": "期中考",
+            "weight": 20,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 15,
+            "note": ""
+        },
+        {
+            "type": "出席",
+            "weight": 15,
+            "note": ""
+        },
+        {
+            "type": "成果展覽",
+            "weight": 10,
+            "note": "另外加分"
+        },
+        {
+            "type": "其他",
+            "weight": 10,
+            "note": "另外加分:輔導參加國際認證　參加者或通過者都另外加分"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

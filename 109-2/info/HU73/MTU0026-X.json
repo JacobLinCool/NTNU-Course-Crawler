@@ -1,0 +1,77 @@
+{
+    "year": 109,
+    "term": 2,
+    "name": "材料力學",
+    "teachers": [
+        "鄭淳護"
+    ],
+    "department": "HU73",
+    "code": "MTU0026",
+    "credit": 3,
+    "serial": 1280,
+    "group": "",
+    "quota": {
+        "limit": 70,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 1,
+            "from": 7,
+            "to": 9,
+            "campus": "本部",
+            "classroom": "誠202"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "2",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程介紹材料力學之各種解析方法及實務上之應用，以培養學生工程設計之能力。",
+    "goals": [
+        "使學生瞭解材料力學之基本原理、解析方法及其在工程上之實際應用",
+        "使學生能計算工程實務上各種材料力學之相關題目"
+    ],
+    "syllabus": "**第1週    Course outline & introduction**\n\n**第****2-3週   Chap 1: Stress**\n\n**第4-5週   Chap 2: Strain**\n\n**第6-7週   Chap 3: Mechanical Properties of Materials & Chap 4: Axial Load**\n\n**第8-10週**    **Midterm** **& Chap 5: Torsion**\n\n**第11-13週  Chap 6: Bending**\n\n**第14-16週  Chap 9, 10: Stress and Strain Transformation**\n\n**第17-18週  數位學習  \n(Note: The contents may be modified based on lecture progress)**",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "講述材料力學之解析方法及例題演練"
+        },
+        {
+            "type": "討論法",
+            "note": "課程中拋出問題請學生討論與回答,以瞭解學生的吸收程度作為課程進度與內容調整的參考"
+        },
+        {
+            "type": "媒體融入教學",
+            "note": "moodle教學平台"
+        }
+    ],
+    "grading": [
+        {
+            "type": "期中考",
+            "weight": 40,
+            "note": "以紙筆進行測驗，佔40%"
+        },
+        {
+            "type": "期末考",
+            "weight": 40,
+            "note": "以紙筆進行測驗，佔40%"
+        },
+        {
+            "type": "出席",
+            "weight": 10,
+            "note": ""
+        },
+        {
+            "type": "其他",
+            "weight": 10,
+            "note": "依上課之課堂表現與秩序考量,斟酌加 0-10 分"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

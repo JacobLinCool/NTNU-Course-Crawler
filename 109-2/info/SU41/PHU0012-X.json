@@ -1,0 +1,73 @@
+{
+    "year": 109,
+    "term": 2,
+    "name": "數學物理（二）",
+    "teachers": [
+        "高賢忠"
+    ],
+    "department": "SU41",
+    "code": "PHU0012",
+    "credit": 3,
+    "serial": 2836,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 1,
+            "from": 2,
+            "to": 4,
+            "campus": "公館",
+            "classroom": "理圖001"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "2",
+    "classes": "1",
+    "dept_group": "",
+    "hours": 3,
+    "description": "教授物理系必修課程中所需之數學概念及技巧，使學生具備扎實的數學運算能力，以作為了解高深物理原理的基礎.",
+    "goals": [
+        "具有數學邏輯推導與演算的能力",
+        "簡介相關物理原理"
+    ],
+    "syllabus": "1\\. Linear Algebra:\n\n    A. VectorSpaces\n\n    B.Eigenvalue Problems\n\n2\\. Differential Equations\n\n    A.First order and Second Ordinary Differetial Equations\n\n    B. Strum-Liouville Theory\n\n    C.Orthogonal Functions\n\n    D, First and Second Order Linear Difference Equations with Constant Coefficeonts \n\n    E. Fourier Series and Fourier Tranform",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "上課以黑板及投影機講解,學生應記錄筆記."
+        },
+        {
+            "type": "討論法",
+            "note": "學生可隨時詢問或回答問題."
+        }
+    ],
+    "grading": [
+        {
+            "type": "期中考",
+            "weight": 25,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 35,
+            "note": ""
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 10,
+            "note": ""
+        },
+        {
+            "type": "其他",
+            "weight": 30,
+            "note": "視需要舉行4-6次平時考。"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

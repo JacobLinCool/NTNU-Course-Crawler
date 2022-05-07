@@ -1,0 +1,81 @@
+{
+    "year": 109,
+    "term": 2,
+    "name": "健康管理",
+    "teachers": [
+        "陳勇志"
+    ],
+    "department": "AU30",
+    "code": "PEU0293",
+    "credit": 2,
+    "serial": 99,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 4,
+            "from": 1,
+            "to": 2,
+            "campus": "本部",
+            "classroom": "誠108"
+        }
+    ],
+    "programs": [
+        "運動傷害防護學程"
+    ],
+    "comment": "",
+    "restrict": "◎第一階段限 運動傷害防護學程",
+    "form_s": "2",
+    "classes": "",
+    "dept_group": "",
+    "hours": 2,
+    "description": "The course of health management covers various aspect including ageing, weight management, cardiovascular diseases prevention, exercise prescription, etc.",
+    "goals": [
+        "To understand the meaning of health and health management",
+        "To understand health-beneficial effects of taking part in physical activity and regular exercise",
+        "To understand how to apply exercise related knowledge in the daily life",
+        "To understand exercise and health management related topics of different populations"
+    ],
+    "syllabus": "第一週 (2/25) 課程導論與介紹\n\n第二週 (3/4) 基礎運動生心理學\n\n第三週 (3/11) 健康與健康管理\n\n第四週 (3/18) 運動員的健康管理\n\n第五週 (3/25) 成癮行為與不健康行為管理\n\n第六週 (4/1) 心理的健康管理\n\n第七週 (4/8) 肥胖的健康管理\n\n第八週 (4/15) 慢性疾病之健康管理\n\n第九週 (4/22) 課程調整週\n\n第十週 (4/29) 期中考\n\n第十一週 (5/6) 老化的健康管理\n\n第十二週 (5/13) 女性的健康管理\n\n第十三週 (5/20) 規律運動的行為改變法\n\n第十四週 (5/27) 運動健康管理專題報告（一）\n\n第十五週 (6/3) 運動健康管理專題報告（二）\n\n第十六週 (6/10) 運動健康管理專題報告（三）\n\n第十七週 (6/17) **自主學習 (併入期中課後文獻整理報告繳交)**\n\n第十八週 (6/24) **自主學習 (併入期中課後文獻整理報告繳交)**",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "教師利用講義、教科書等教材上課說明"
+        },
+        {
+            "type": "討論法",
+            "note": "學生閱讀與討論"
+        },
+        {
+            "type": "合作學習",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "期中考",
+            "weight": 20,
+            "note": ""
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 20,
+            "note": ""
+        },
+        {
+            "type": "出席",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "報告",
+            "weight": 30,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

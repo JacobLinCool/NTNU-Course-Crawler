@@ -1,0 +1,64 @@
+{
+    "year": 107,
+    "term": 2,
+    "name": "優選理論專題（二）",
+    "teachers": [
+        "陳界山"
+    ],
+    "department": "SM40",
+    "code": "MAC0082",
+    "credit": 3,
+    "serial": 2603,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 1,
+            "from": 6,
+            "to": 8,
+            "campus": "公館",
+            "classroom": "教室自排"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程主要是關於一般數理規劃（線性或非線性規劃），在有限制或無限制條件下對於一目標函數的極值問題之探討。課程內容是線性規劃與非線性規劃的延伸與加廣，在理論與實用性的應用上亦得兼顧。",
+    "goals": [
+        "瞭解一般數理規劃問題的結構。",
+        "熟悉各種優選條件或最佳化條件。",
+        "了解各種相關的應用。"
+    ],
+    "syllabus": " No textbook required. Students who enroll in this course will take  \n turns presenting some materials from the following two references up to their choices.\n\n1. First-Order Methods in optimization, by Amir Beck, MOS-SIAM Series on Optimization, 2017.\n\n2. Optimization For Machine Learning, by S. Sra, S. Nowozin, and S. Wright, The MIT Press, 2012.\n\n凸包、多面體、極端點、子梯度的性質。\n\n優選條件與對偶性的介紹  \n（如：Fritz John優選條件、Kuhn-Tucker優選條件、constraint qualification與對偶定理、Lagrange對偶問題，鞍點優選條件等）。\n\n對偶理論(Duality theory)。\n\n網路優選與非線性規劃（網路流程、凸二次規劃、凸規劃、非凸規劃、幾何規劃、分式規劃及線性互補問題之優選條件及其求解法）。\n\n  \n[教學進度與主題附件](https://ap.itc.ntnu.edu.tw/NtnuFileShare/file.do?action=dl&gno=7b9143e42f1c4236bb397e75f27da9f2&fno=43a4e3e4a4984d899b31ef1ebb330572)",
+    "methodologies": [
+        {
+            "type": "討論法",
+            "note": "每個選修此課程的學生將被指定研讀的章節，並輪流上台報告所研讀的內容。"
+        },
+        {
+            "type": "其他",
+            "note": "專題討論(對特定主題邀請相關學者專家進一步講授，以增進學生對課程內容之瞭解。)"
+        }
+    ],
+    "grading": [
+        {
+            "type": "課堂討論參與",
+            "weight": 50,
+            "note": "出席並參與課堂討論、聆聽相關研討會演講的情形。"
+        },
+        {
+            "type": "出席",
+            "weight": 50,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

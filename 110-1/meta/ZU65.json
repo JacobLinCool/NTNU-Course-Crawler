@@ -1,0 +1,140 @@
+[
+    {
+        "year": 110,
+        "term": 1,
+        "name": "基礎口筆譯入門",
+        "teachers": [
+            "陳碧珠",
+            "陳子瑋"
+        ],
+        "department": "LM25",
+        "code": "TIC9001",
+        "credit": 3,
+        "serial": 1717,
+        "group": "A",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 8,
+                "to": 10,
+                "campus": "本部",
+                "classroom": "教103"
+            }
+        ],
+        "programs": [
+            "中英翻譯學程"
+        ],
+        "comment": "",
+        "restrict": "",
+        "form_s": "",
+        "classes": "9",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 1,
+        "name": "基礎口筆譯入門",
+        "teachers": [
+            "徐立妍",
+            "詹柏勻"
+        ],
+        "department": "LM25",
+        "code": "TIC9001",
+        "credit": 3,
+        "serial": 1718,
+        "group": "B",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 7,
+                "to": 9,
+                "campus": "本部",
+                "classroom": "誠108"
+            }
+        ],
+        "programs": [
+            "中英翻譯學程"
+        ],
+        "comment": "",
+        "restrict": "",
+        "form_s": "",
+        "classes": "9",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 1,
+        "name": "中英筆譯（二）",
+        "teachers": [
+            "朱雯琪"
+        ],
+        "department": "LM25",
+        "code": "TIC9003",
+        "credit": 3,
+        "serial": 1719,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 7,
+                "to": 9,
+                "campus": "本部",
+                "classroom": "樸302"
+            }
+        ],
+        "programs": [
+            "中英翻譯學程"
+        ],
+        "comment": "",
+        "restrict": "◎必須先修過【TIC9002  中英筆譯（一）】",
+        "form_s": "",
+        "classes": "9",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 1,
+        "name": "中英口譯（二）",
+        "teachers": [
+            "蔡嘉瑩"
+        ],
+        "department": "LM25",
+        "code": "TIC9006",
+        "credit": 3,
+        "serial": 1720,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 7,
+                "to": 9,
+                "campus": "本部",
+                "classroom": "勤302"
+            }
+        ],
+        "programs": [
+            "中英翻譯學程"
+        ],
+        "comment": "",
+        "restrict": "◎必須先修過【TIC9005  中英口譯（一）】",
+        "form_s": "",
+        "classes": "9",
+        "dept_group": ""
+    }
+]

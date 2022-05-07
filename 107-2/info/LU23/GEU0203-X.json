@@ -1,0 +1,82 @@
+{
+    "year": 107,
+    "term": 2,
+    "name": "空間決策",
+    "teachers": [
+        "吳秉昇"
+    ],
+    "department": "LU23",
+    "code": "GEU0203",
+    "credit": 2,
+    "serial": 1920,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 5
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 11,
+            "to": 12,
+            "campus": "本部",
+            "classroom": "教室自排"
+        }
+    ],
+    "programs": [],
+    "comment": "上課教室：文學院勤10F地理系電腦教室。",
+    "restrict": "◎必須先修過【GEU0166  地理資訊系統】",
+    "form_s": "4",
+    "classes": "",
+    "dept_group": "",
+    "hours": 2,
+    "description": "訓練學生具備專業地理資訊技能，並教導學生如何建置完整的地理資訊系統，以支援土地資源、環境保護、交通規畫等地理與空間相關議題之決策。",
+    "goals": [
+        "探討空間現象與地理議題之關聯",
+        "分析空間決策在地理議題之應用",
+        "針對特定地理議題規劃空間決策支援系統"
+    ],
+    "syllabus": "·      決策支援系統 - 實務與相關應用\n\n·      進階地理程式語言 - Python 與地理資訊系統之整合\n\n·      異質系統系統整合 - 資料轉換，異質系統介面與函式庫介接\n\n·      空間決策支援系統設計流程",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": ""
+        },
+        {
+            "type": "問題解決教學",
+            "note": ""
+        },
+        {
+            "type": "專題研究",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 20,
+            "note": ""
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 10,
+            "note": ""
+        },
+        {
+            "type": "報告",
+            "weight": 20,
+            "note": ""
+        },
+        {
+            "type": "專題",
+            "weight": 50,
+            "note": ""
+        }
+    ],
+    "prerequisite": "◎必須先修過【GEU0166  地理資訊系統】",
+    "general_core": []
+}

@@ -1,0 +1,65 @@
+{
+    "year": 107,
+    "term": 2,
+    "name": "水文地質學",
+    "teachers": [
+        "米泓生"
+    ],
+    "department": "SU44",
+    "code": "ESU0162",
+    "credit": 3,
+    "serial": 2933,
+    "group": "",
+    "quota": {
+        "limit": 35,
+        "additional": 3
+    },
+    "schedule": [
+        {
+            "day": 1,
+            "from": 2,
+            "to": 4,
+            "campus": "公館",
+            "classroom": "Ｓ201"
+        }
+    ],
+    "programs": [
+        "環境監測學程"
+    ],
+    "comment": "",
+    "restrict": "◎限大三大四修習",
+    "form_s": "3",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "探討地質條件與地下水的分布、運動和儲水層水文性質之間的關係。內容包含岩性與孔隙率、地下水的運動、岩石彈性特性與主要流動方程式、地下水測試、地下水資源以及水文圈中之地下水等介紹。",
+    "goals": [
+        "本課程主要探討地質條件與地下水的分布、運動和儲水層水文性質之間的關係。本課程目標在使學生瞭解地下水及與地下水相關岩層之：1.岩性與孔隙率2.地下水的運動3.彈性特性與主要流動方程式4.地下水測試5.地下水資源6.水文圈中之地下水等特性。"
+    ],
+    "syllabus": "Week1 課程簡介，Introduction to hydrogeology\n\nWeek2 Introduction to hydrogeology\n\nWeek3 Origin of porosity and permeability\n\nWeek4 Groundwater movement (I)\n\nWeek5 Groundwater movement (II)\n\nWeek6 Groundwater movement (III)\n\nWeek7 Elastic properties and main equations of flow (I)\n\nWeek8 Elastic properties and main equations of flow (II)\n\nWeek9 “期中考”\n\nWeek10 Elastic properties and main equations of flow (III)\n\nWeek11 Hydraulic testing (I)\n\nWeek12 Hydraulic testing (II)\n\nWeek13 Hydraulic testing (III)\n\nWeek14 Hydraulic testing (IV)\n\nWeek15 Groundwater as a resource\n\nWeek16 Groundwater in the basin hydrologic cycle (I)\n\nWeek17 Groundwater in the basin hydrologic cycle (II)\n\nWeek18 期末考",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "本課程主要進行方式將由教師教授基本相關研究背景、理論基礎及研究方法。"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "期中考",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 40,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

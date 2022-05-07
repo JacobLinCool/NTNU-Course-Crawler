@@ -1,0 +1,81 @@
+{
+    "year": 107,
+    "term": 2,
+    "name": "高等教育統計學（一）",
+    "teachers": [
+        "吳明振"
+    ],
+    "department": "HM70",
+    "code": "IEM0095",
+    "credit": 2,
+    "serial": 1106,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 3,
+            "from": 2,
+            "to": 4,
+            "campus": "本部",
+            "classroom": "研討四"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "瞭解推論統計的基礎理論和常用方法，熟悉其運算操作，並能在研究實務上作適當的應用。",
+    "goals": [
+        "培養學生有關推論統計之知識與能力",
+        "協助學生執行研究論文所需之統計分析",
+        "培養學生應用電腦來解決統計分析之相關問題"
+    ],
+    "syllabus": "週次\n\n內          容\n\n1\n\n   Course orientation\n\n   Introduction to the t statistics (I)\n\n2\n\n   Introduction to the t statistics (II)\n\n3\n\nt test with two independent samples (I)\n\n4\n\nt test with two independent samples (II)\n\n5\n\n   Hypothesis tests with related samples (I)\n\n6\n\nHypothesis tests with related samples (II)\n\n7\n\n**Holiday****—****no class**\n\n8\n\n   Estimation\n\n9\n\nThe chi-square statistics: Tests for goodness                 of fit and independence (I)\n\n10\n\nThe chi-square statistics: Tests for goodness                              of fit and independence (II)\n\n11\n\n**(Mid-term Examination)**                                              \n\n12\n\nIntroduction to analysis of variance (ANOVA) (I)\n\n13\n\nIntroduction to analysis of variance (ANOVA) (II)\n\n14\n\n   Repeated-measures analysis of variance (I)\n\n15\n\nRepeated-measures analysis of variance (II)\n\n16\n\n   Application of computer software (SPSS) in statistical (I)\n\n17\n\n   Application of computer software (SPSS) in statistical (II)\n\n18\n\n**（Final Examination）**",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "講述高等統計概論與應用"
+        },
+        {
+            "type": "討論法",
+            "note": "例題分析與解題"
+        },
+        {
+            "type": "實驗/實作",
+            "note": "實例演算"
+        },
+        {
+            "type": "媒體融入教學",
+            "note": "Power Point章節導覽"
+        },
+        {
+            "type": "其他",
+            "note": "作業練習"
+        }
+    ],
+    "grading": [
+        {
+            "type": "期中考",
+            "weight": 45,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 45,
+            "note": ""
+        },
+        {
+            "type": "出席",
+            "weight": 10,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

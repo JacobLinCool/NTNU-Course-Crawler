@@ -1,0 +1,96 @@
+{
+    "year": 109,
+    "term": 2,
+    "name": "電腦科學教學法",
+    "teachers": [
+        "林育慈"
+    ],
+    "department": "EM08",
+    "code": "ICC0074",
+    "credit": 3,
+    "serial": 499,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 4,
+            "from": 7,
+            "to": 9,
+            "campus": "本部",
+            "classroom": "教1011"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "This course provides students with a basic introduction to computer science education research in terms of instructional methods. Students will learn various instructional methods and corresponding pedagogical theories, based on which they will be able to design feasible instructional methods for computer science subjects. Students will also have the ability to evaluate diverse instructional methods and propose solutions for improving them.",
+    "goals": [
+        "了解電腦科學教育之精神",
+        "了解電腦科學教育的各種教學法",
+        "了解資訊科技融入電腦科學的實施方式",
+        "了解如何針對不同學習者特質設計適合的電腦科學教學法",
+        "了解如何設計電腦科學之數位學習環境",
+        "了解電腦科學教育的各種教學法",
+        "了解電腦科學教育之精神",
+        "了解如何針對不同學習者特質設計適合的電腦科學教學法",
+        "了解如何設計電腦科學之數位學習環境",
+        "10.　了解電腦科學教育之精神",
+        "11.　了解資訊科技融入電腦科學的實施方式",
+        "12.　了解如何設計電腦科學之數位學習環境"
+    ],
+    "syllabus": "*   Introduction\n*   Problem-based learning in CS\n*   Cooperative learning in CS\n*   Social learning in CS\n*   STEM\n*   Lab-based learning in CS\n*   Midterm exam\n*   Multimedia learning & Visualization in CS\n*   Game-based learning in CS\n*   Project-based learning in CS\n*   Problem solving\n*   Logical thinking\n*   Final project presentation",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": ""
+        },
+        {
+            "type": "合作學習",
+            "note": ""
+        },
+        {
+            "type": "媒體融入教學",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "期中考",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 5,
+            "note": ""
+        },
+        {
+            "type": "出席",
+            "weight": 5,
+            "note": ""
+        },
+        {
+            "type": "報告",
+            "weight": 30,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

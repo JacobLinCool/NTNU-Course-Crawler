@@ -1,0 +1,77 @@
+{
+    "year": 108,
+    "term": 2,
+    "name": "熱力統計學",
+    "teachers": [
+        "李沃龍"
+    ],
+    "department": "SU41",
+    "code": "PHU0037",
+    "credit": 3,
+    "serial": 2751,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 5,
+            "from": 2,
+            "to": 4,
+            "campus": "公館",
+            "classroom": "Ｓ701"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "3",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "Thermodynamics deals with equilibrium systems composed of very large numbers of particles/molecules. However, even without knowing the molecular nature of matter, classical thermodynamics has given a general relationship among the state variables such as pressure, temperature, and volume, i.e., equations of state. Statistical thermodynamics, on the other hand, take a step further by acknowledging the existence of molecules. Given a detailed molecular model and a statistical principle for the system of interest, statistical thermodynamics yields the equations of state that can describe the equilibrium property of the system in detail. In this sense, statistical thermodynamics can provide more detailed information about a specific system than classical thermodynamics does.",
+    "goals": [
+        "複習古典熱力學",
+        "學習統計數學",
+        "學習各種統計物理模型"
+    ],
+    "syllabus": "第 1 週  序論\n\n第 2-4 週  古典熱力學複習\n\n第 5 週  熱力統計的核心概念\n\n第 6 週  簡諧振子\n\n第 7-8 週  正則系綜\n\n第 9 週 期中考\n\n第 10 週 熵的統計模型\n\n第 11 週 古典理想氣體\n\n第 12 週 量子氣體簡介/巨正則系綜 \n\n第 13 週 Bose-Einstein氣體\n\n第 14 週 Fermi-Dirac氣體 \n\n第 15 週 光子氣體 \n\n第 16 週 交互作用系統 \n\n第 18 週  期末考",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "對各主題進行內容概述"
+        },
+        {
+            "type": "討論法",
+            "note": ""
+        },
+        {
+            "type": "問題解決教學",
+            "note": ""
+        },
+        {
+            "type": "合作學習",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 40,
+            "note": ""
+        },
+        {
+            "type": "期中考",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 35,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

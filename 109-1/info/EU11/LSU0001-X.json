@@ -1,0 +1,89 @@
+{
+    "year": 109,
+    "term": 1,
+    "name": "程式設計（一）",
+    "teachers": [
+        "李良一"
+    ],
+    "department": "EU11",
+    "code": "LSU0001",
+    "credit": 3,
+    "serial": 929,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 5,
+            "to": 7,
+            "campus": "本部",
+            "classroom": "教401"
+        }
+    ],
+    "programs": [
+        "學習與資訊學程",
+        "數位人文與藝術學程"
+    ],
+    "comment": "",
+    "restrict": "",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程介紹 Python之基本概念、技能與實作，包含資料結構與語法、數與運算介紹、實作與資料分析等。",
+    "goals": [
+        "能了解 Python程式設計的基本概念及技能並撰寫程式。",
+        "能根據指定的方法步驟，規畫程式架構、流程並據以實作。"
+    ],
+    "syllabus": "本課程教授Python程式語言\n\n1.  課程介紹及系統安裝\n2.  An Informal Introduction to Python\n3.  More Control Flow Tools(1)\n4.  More Control Flow Tools(2)\n5.  小考(1)\n6.  Data Structures(1)\n7.  Data Structures(2) \n8.  Data Structures(3)\n9.  期中考\n10.  Modules(1)\n11.  Modules(2)\n12.  Classes(1)\n13.  Classes(2)\n14.  小考(2)\n15.  Input and Output\n16.  Errors and Exceptions\n17.  Other topics: String Operations\n18.  期末考",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "老師講授自編教材及教科書內容"
+        },
+        {
+            "type": "問題解決教學",
+            "note": "老師會在上課時給予學生學習單及在課後給予作業，學習單及作業內容為程式問題，學生需找出解法。"
+        },
+        {
+            "type": "實驗/實作",
+            "note": "學習單及作業需撰寫程式碼"
+        },
+        {
+            "type": "媒體融入教學",
+            "note": "使用線上學習系統進行教學影片觀看、作業繳交、線上討論及其他線上教學活動。"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 35,
+            "note": "課堂及課後作業"
+        },
+        {
+            "type": "期中考",
+            "weight": 15,
+            "note": "期中考前老師上課的內容"
+        },
+        {
+            "type": "期末考",
+            "weight": 15,
+            "note": "期末考前老師上課的內容"
+        },
+        {
+            "type": "出席",
+            "weight": 5,
+            "note": "教室上課出席、討論區問題發問及回答"
+        },
+        {
+            "type": "其他",
+            "weight": 30,
+            "note": "兩次小考各佔15%"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

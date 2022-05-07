@@ -1,0 +1,94 @@
+{
+    "year": 110,
+    "term": 1,
+    "name": "地球物理通論（含實習）",
+    "teachers": [
+        "陳卉瑄",
+        "林佩瑩"
+    ],
+    "department": "SU44",
+    "code": "ESU0184",
+    "credit": 3,
+    "serial": 3033,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 4,
+            "from": 7,
+            "to": 9,
+            "campus": "公館",
+            "classroom": "綜合館B1小型演講廳"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "2",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "This course will provide students an understanding of the basic knowledge of geophysics and its applications. We will focus on how the interpretation of different geophysical measurements can be used to understand the Earth’s complex geosystems.",
+    "goals": [
+        "增加學生認識地震觀測之基本知識及地震防災之必需觀念。"
+    ],
+    "syllabus": "Lecture 0 : General Introduction\n\nLecture 1 : **The Earth’s size and shape, gravitation, and the Earth’s rotation** (textbook1 ch2)\n\nLecture 2 : **The Earth’s figure and gravity** (textbook1 ch2)\n\nLecture 3 : **The Earth’s age and thermal property** (textbook1 ch4)  \nLecture 4 : **Geoelectricity** (textbook1 ch4)\n\nLecture 5 : **Geomagnetism** (textbook1 ch5)  \nLecture 6 : **Paleomagnetism** (textbook1 ch5)  \nLecture 7 : MIDTERM  \nLecture 8 : Earthquake Museum of Taiwan\n\nLecture 9 : **The plate tectonics revolution** (textbook2 ch1)  \nLecture 10 : **Sizing up earthquakes** (textbook2 ch2)\n\nLecture 11 : **Tsunami earthquakes**  \nLecture 12 : **Earthquake interactions** (textbook2 ch3)\n\nLecture 13 : **Ground motions** (textbook2 ch4)\n\nLecture 14 : **The holy grail of earthquake prediction** (textbook2 ch5)\n\nLecture 15 : **Mapping seismic hazard** (textbook2 ch6)  \nLecture 16 : FINAL",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "課程內容包括地球物理的科學知識介紹，與技術應用實習。"
+        },
+        {
+            "type": "合作學習",
+            "note": "將修課同學分為若干組別，共同進行儀器操作、小組討論與報告。"
+        },
+        {
+            "type": "實驗/實作",
+            "note": "捕震網Quake Catcher Network(QCN)之儀器操作，並使用QCN進行地震資料蒐集，教導如何分析結果並報告。"
+        },
+        {
+            "type": "實地考察、參訪",
+            "note": "預定參觀921地震博物館。"
+        },
+        {
+            "type": "媒體融入教學",
+            "note": "課程編寫教學投影片，並將教材置於師大Moodle 數位學習平台供修課學生下載、免於抄寫，增進學習效率；以便讓修課學生能由本門課程，得到知識/認知之專業能力。"
+        },
+        {
+            "type": "其他",
+            "note": "課程實作：增加課堂、課後及電腦實作時間，加深學習層次、有利問題之自發性與自我解決能力培養。"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 20,
+            "note": "每星期作業"
+        },
+        {
+            "type": "期中考",
+            "weight": 20,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 20,
+            "note": ""
+        },
+        {
+            "type": "報告",
+            "weight": 30,
+            "note": "分組報告"
+        },
+        {
+            "type": "其他",
+            "weight": 10,
+            "note": "課堂測驗"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

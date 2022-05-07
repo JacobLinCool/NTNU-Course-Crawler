@@ -1,0 +1,1172 @@
+[
+    {
+        "year": 109,
+        "term": 1,
+        "name": "有限元素分析",
+        "teachers": [
+            "屠名正"
+        ],
+        "department": "HU73",
+        "code": "MTC0004",
+        "credit": 3,
+        "serial": 1312,
+        "group": "",
+        "quota": {
+            "limit": 30,
+            "additional": 12
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 10,
+                "to": 12,
+                "campus": "本部",
+                "classroom": "CAD/CAM"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎必須先修過【MTU0026  材料力學】",
+        "form_s": "",
+        "classes": "9",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 1,
+        "name": "數值分析",
+        "teachers": [
+            "屠名正"
+        ],
+        "department": "HU73",
+        "code": "MTC0007",
+        "credit": 3,
+        "serial": 1313,
+        "group": "",
+        "quota": {
+            "limit": 30,
+            "additional": 12
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 10,
+                "to": 12,
+                "campus": "本部",
+                "classroom": "CAD/CAM"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "",
+        "classes": "9",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 1,
+        "name": "微機電系統原理與應用",
+        "teachers": [
+            "楊啟榮"
+        ],
+        "department": "HU73",
+        "code": "MTC0009",
+        "credit": 3,
+        "serial": 1314,
+        "group": "",
+        "quota": {
+            "limit": 30,
+            "additional": 12
+        },
+        "schedule": [
+            {
+                "day": 5,
+                "from": 2,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "機電301會議室"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "",
+        "classes": "9",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 1,
+        "name": "超精密加工",
+        "teachers": [
+            "陳順同"
+        ],
+        "department": "HU73",
+        "code": "MTC0010",
+        "credit": 3,
+        "serial": 1315,
+        "group": "",
+        "quota": {
+            "limit": 30,
+            "additional": 12
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 7,
+                "to": 9,
+                "campus": "本部",
+                "classroom": "機電301會議室"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "",
+        "classes": "9",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 1,
+        "name": "應用光學",
+        "teachers": [
+            "鄧敦建"
+        ],
+        "department": "HU73",
+        "code": "MTC0019",
+        "credit": 3,
+        "serial": 1316,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 2,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "教403"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "",
+        "classes": "9",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 1,
+        "name": "半導體元件物理",
+        "teachers": [
+            "劉傳璽"
+        ],
+        "department": "HU73",
+        "code": "MTC0024",
+        "credit": 3,
+        "serial": 1317,
+        "group": "",
+        "quota": {
+            "limit": 30,
+            "additional": 12
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 2,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "工501"
+            }
+        ],
+        "programs": [
+            "太陽能源與工程學程"
+        ],
+        "comment": "",
+        "restrict": "",
+        "form_s": "",
+        "classes": "9",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 1,
+        "name": "雷射工程技術與應用",
+        "teachers": [
+            "鄧敦建",
+            "張天立"
+        ],
+        "department": "HU73",
+        "code": "MTC0027",
+        "credit": 3,
+        "serial": 1319,
+        "group": "",
+        "quota": {
+            "limit": 30,
+            "additional": 12
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 2,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "機電301會議室"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "",
+        "classes": "9",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 1,
+        "name": "精密機械系統設計與實務",
+        "teachers": [
+            "陳順同"
+        ],
+        "department": "HU73",
+        "code": "MTC9002",
+        "credit": 3,
+        "serial": 1320,
+        "group": "",
+        "quota": {
+            "limit": 30,
+            "additional": 12
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 10,
+                "to": 12,
+                "campus": "本部",
+                "classroom": "教室自排"
+            }
+        ],
+        "programs": [],
+        "comment": "上課教室安排於教師研究室",
+        "restrict": "◎必須先修過【MTU0005  機械製造】",
+        "form_s": "",
+        "classes": "9",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 1,
+        "name": "物件導向程式設計",
+        "teachers": [
+            "吳順德"
+        ],
+        "department": "HU73",
+        "code": "MTC9006",
+        "credit": 3,
+        "serial": 1321,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 15
+        },
+        "schedule": [
+            {
+                "day": 5,
+                "from": 10,
+                "to": 12,
+                "campus": "本部",
+                "classroom": "教401"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎必須先修過【MTU0012  程式設計】",
+        "form_s": "",
+        "classes": "9",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 1,
+        "name": "製造聯網整合技術",
+        "teachers": [
+            "楊啟榮",
+            "張國維",
+            "屠名正",
+            "吳順德"
+        ],
+        "department": "HU73",
+        "code": "MTC9011",
+        "credit": 3,
+        "serial": 1323,
+        "group": "",
+        "quota": {
+            "limit": 30,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 7,
+                "to": 9,
+                "campus": "本部",
+                "classroom": "機電302會議室"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "",
+        "classes": "9",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 1,
+        "name": "體育",
+        "teachers": [
+            "王志群"
+        ],
+        "department": "HU73",
+        "code": "00UP001",
+        "credit": 1,
+        "serial": 1324,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 1,
+                "to": 2,
+                "campus": "本部",
+                "classroom": "操場一"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "1",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 1,
+        "name": "機械基礎技術",
+        "teachers": [
+            "鄭慶民"
+        ],
+        "department": "HU73",
+        "code": "MTU0003",
+        "credit": 2,
+        "serial": 1325,
+        "group": "A",
+        "quota": {
+            "limit": 30,
+            "additional": 12
+        },
+        "schedule": [
+            {
+                "day": 5,
+                "from": 6,
+                "to": 9,
+                "campus": "本部",
+                "classroom": "機電302會議室"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "1",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 1,
+        "name": "機械基礎技術",
+        "teachers": [
+            "鄭淳護"
+        ],
+        "department": "HU73",
+        "code": "MTU0003",
+        "credit": 2,
+        "serial": 1326,
+        "group": "B",
+        "quota": {
+            "limit": 30,
+            "additional": 12
+        },
+        "schedule": [
+            {
+                "day": 5,
+                "from": 6,
+                "to": 9,
+                "campus": "本部",
+                "classroom": "機電301會議室"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "1",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 1,
+        "name": "程式設計",
+        "teachers": [
+            "張國維"
+        ],
+        "department": "HU73",
+        "code": "MTU0012",
+        "credit": 3,
+        "serial": 1327,
+        "group": "A",
+        "quota": {
+            "limit": 30,
+            "additional": 12
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 2,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "CAD/CAM"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "1",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 1,
+        "name": "程式設計",
+        "teachers": [
+            "吳順德"
+        ],
+        "department": "HU73",
+        "code": "MTU0012",
+        "credit": 3,
+        "serial": 1328,
+        "group": "B",
+        "quota": {
+            "limit": 30,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 10,
+                "to": 12,
+                "campus": "本部",
+                "classroom": "教402"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "1",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 1,
+        "name": "材料科學",
+        "teachers": [
+            "劉傳璽"
+        ],
+        "department": "HU73",
+        "code": "MTU0097",
+        "credit": 3,
+        "serial": 1329,
+        "group": "",
+        "quota": {
+            "limit": 60,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 6,
+                "to": 8,
+                "campus": "本部",
+                "classroom": "工501"
+            }
+        ],
+        "programs": [
+            "太陽能源與工程學程"
+        ],
+        "comment": "",
+        "restrict": "",
+        "form_s": "1",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 1,
+        "name": "工程圖學",
+        "teachers": [
+            "周賢彬"
+        ],
+        "department": "HU73",
+        "code": "MTU0117",
+        "credit": 2,
+        "serial": 1330,
+        "group": "A",
+        "quota": {
+            "limit": 30,
+            "additional": 12
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 6,
+                "to": 9,
+                "campus": "本部",
+                "classroom": "機202會議室"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "1",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 1,
+        "name": "工程圖學",
+        "teachers": [
+            "黃俊榮"
+        ],
+        "department": "HU73",
+        "code": "MTU0117",
+        "credit": 2,
+        "serial": 1331,
+        "group": "B",
+        "quota": {
+            "limit": 30,
+            "additional": 12
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 16,
+                "to": 12,
+                "campus": "本部",
+                "classroom": "機202會議室"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "1",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 1,
+        "name": "機械製造",
+        "teachers": [
+            "張天立"
+        ],
+        "department": "HU73",
+        "code": "MTU0005",
+        "credit": 3,
+        "serial": 1332,
+        "group": "",
+        "quota": {
+            "limit": 60,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 6,
+                "to": 8,
+                "campus": "本部",
+                "classroom": "誠102"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 1,
+        "name": "工程數學（一）",
+        "teachers": [
+            "楊啟榮"
+        ],
+        "department": "HU73",
+        "code": "MTU0009",
+        "credit": 3,
+        "serial": 1333,
+        "group": "",
+        "quota": {
+            "limit": 60,
+            "additional": 24
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 2,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "誠108"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎必須先修過【MAU0181  微積分乙（二）】",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 1,
+        "name": "電路學",
+        "teachers": [
+            "陳美勇"
+        ],
+        "department": "HU73",
+        "code": "MTU0013",
+        "credit": 3,
+        "serial": 1334,
+        "group": "",
+        "quota": {
+            "limit": 60,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 7,
+                "to": 9,
+                "campus": "本部",
+                "classroom": "誠102"
+            }
+        ],
+        "programs": [
+            "太陽能源與工程學程"
+        ],
+        "comment": "",
+        "restrict": "",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 1,
+        "name": "動力學",
+        "teachers": [
+            "屠名正"
+        ],
+        "department": "HU73",
+        "code": "MTU0101",
+        "credit": 3,
+        "serial": 1335,
+        "group": "",
+        "quota": {
+            "limit": 68,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 2,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "誠108"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 1,
+        "name": "電工實驗",
+        "teachers": [
+            "張國維"
+        ],
+        "department": "HU73",
+        "code": "MTU0102",
+        "credit": 1,
+        "serial": 1336,
+        "group": "A",
+        "quota": {
+            "limit": 30,
+            "additional": 12
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 6,
+                "to": 8,
+                "campus": "本部",
+                "classroom": "機電整合實驗室"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 1,
+        "name": "電工實驗",
+        "teachers": [
+            "張國維"
+        ],
+        "department": "HU73",
+        "code": "MTU0102",
+        "credit": 1,
+        "serial": 1337,
+        "group": "B",
+        "quota": {
+            "limit": 30,
+            "additional": 12
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 9,
+                "to": 10,
+                "campus": "本部",
+                "classroom": "機電整合實驗室"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 1,
+        "name": "機構學",
+        "teachers": [
+            "尤尚邦"
+        ],
+        "department": "HU73",
+        "code": "MTU0025",
+        "credit": 3,
+        "serial": 1338,
+        "group": "",
+        "quota": {
+            "limit": 60,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 10,
+                "to": 12,
+                "campus": "本部",
+                "classroom": "工501"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "3",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 1,
+        "name": "自動控制",
+        "teachers": [
+            "呂有勝"
+        ],
+        "department": "HU73",
+        "code": "MTU0028",
+        "credit": 3,
+        "serial": 1339,
+        "group": "",
+        "quota": {
+            "limit": 60,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 2,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "機202會議室"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎必須先修過【MTU0009  工程數學（一）】",
+        "form_s": "3",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 1,
+        "name": "感測器原理與應用",
+        "teachers": [
+            "吳順德"
+        ],
+        "department": "HU73",
+        "code": "MTU0044",
+        "credit": 3,
+        "serial": 1340,
+        "group": "",
+        "quota": {
+            "limit": 30,
+            "additional": 12
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 10,
+                "to": 12,
+                "campus": "本部",
+                "classroom": "CAD/CAM"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "3",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 1,
+        "name": "熱傳學",
+        "teachers": [
+            "張天立"
+        ],
+        "department": "HU73",
+        "code": "MTU0067",
+        "credit": 3,
+        "serial": 1341,
+        "group": "",
+        "quota": {
+            "limit": 60,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 2,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "誠401"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "3",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 1,
+        "name": "自動控制實驗",
+        "teachers": [
+            "呂有勝"
+        ],
+        "department": "HU73",
+        "code": "MTU0106",
+        "credit": 1,
+        "serial": 1343,
+        "group": "A",
+        "quota": {
+            "limit": 30,
+            "additional": 12
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 2,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "CAD/CAM"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎必須先修過【MTU0009  工程數學（一）】",
+        "form_s": "3",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 1,
+        "name": "自動控制實驗",
+        "teachers": [
+            "呂有勝"
+        ],
+        "department": "HU73",
+        "code": "MTU0106",
+        "credit": 1,
+        "serial": 1344,
+        "group": "B",
+        "quota": {
+            "limit": 30,
+            "additional": 12
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 6,
+                "to": 8,
+                "campus": "本部",
+                "classroom": "CAD/CAM"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎必須先修過【MTU0009  工程數學（一）】",
+        "form_s": "3",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 1,
+        "name": "電磁學（一）",
+        "teachers": [
+            "鄧敦建"
+        ],
+        "department": "HU73",
+        "code": "MTU0118",
+        "credit": 3,
+        "serial": 1345,
+        "group": "",
+        "quota": {
+            "limit": 60,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 6,
+                "to": 8,
+                "campus": "本部",
+                "classroom": "誠109"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "3",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 1,
+        "name": "化學",
+        "teachers": [
+            "宋蕙伶"
+        ],
+        "department": "HU73",
+        "code": "MTU0120",
+        "credit": 3,
+        "serial": 1346,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 6,
+                "to": 8,
+                "campus": "本部",
+                "classroom": "正203"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "3",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 1,
+        "name": "機電專題製作（二）",
+        "teachers": [
+            "張國維",
+            "屠名正",
+            "吳順德",
+            "張天立",
+            "劉傳璽"
+        ],
+        "department": "HU73",
+        "code": "MTU0126",
+        "credit": 1,
+        "serial": 1347,
+        "group": "A",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 5,
+                "from": 0,
+                "to": 0,
+                "campus": "本部",
+                "classroom": "教室自排"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "4",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 1,
+        "name": "機電專題製作（二）",
+        "teachers": [
+            "楊啟榮",
+            "程金保",
+            "陳順同",
+            "鄧敦建",
+            "鄭淳護"
+        ],
+        "department": "HU73",
+        "code": "MTU0126",
+        "credit": 1,
+        "serial": 1348,
+        "group": "B",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 6,
+                "from": 0,
+                "to": 0,
+                "campus": "本部",
+                "classroom": "教室自排"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "4",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 1,
+        "name": "機械群教材教法（教）",
+        "teachers": [
+            "程金保"
+        ],
+        "department": "HU73",
+        "code": "MTUE101",
+        "credit": 2,
+        "serial": 1349,
+        "group": "",
+        "quota": {
+            "limit": 30,
+            "additional": 6
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 9,
+                "to": 10,
+                "campus": "本部",
+                "classroom": "機電302會議室"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "4",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 1,
+        "name": "機械群教學實習（二）（教）",
+        "teachers": [
+            "鄭慶民"
+        ],
+        "department": "HU73",
+        "code": "MTUE310",
+        "credit": 2,
+        "serial": 1350,
+        "group": "",
+        "quota": {
+            "limit": 30,
+            "additional": 6
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 7,
+                "to": 10,
+                "campus": "本部",
+                "classroom": "機電302會議室"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎必須先修過【MTUE210  機械群教學實習（一）（教）】",
+        "form_s": "4",
+        "classes": "",
+        "dept_group": ""
+    }
+]

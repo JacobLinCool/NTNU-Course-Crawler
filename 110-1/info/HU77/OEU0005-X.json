@@ -1,0 +1,81 @@
+{
+    "year": 110,
+    "term": 1,
+    "name": "電磁學（一）",
+    "teachers": [
+        "張俊傑"
+    ],
+    "department": "HU77",
+    "code": "OEU0005",
+    "credit": 3,
+    "serial": 1383,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 3,
+            "from": 7,
+            "to": 9,
+            "campus": "公館",
+            "classroom": "Ｂ102"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "2",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "The course in an introduction to electrostatics and magnetostatics primarily for the second-year undergraduate students of the Undergraduate Program of Electro-Optical Engineering as well as others from any other departments in the College of Technology and Engineering.",
+    "goals": [
+        "The goal of this course is to enable students to acquire the fundamental understanding of electrostatics and magnetostatics, and to develop their ability to calculate the basic physical quantities such as electric field, electric potential, energy, electric polarization, magnetization, etc."
+    ],
+    "syllabus": "I Mathematical foundations\n\n1\\. Vector Analysis: vector algebra, differential and integral calculus, cuvilinear coordinates\n\nII Electrostatics in vacuum\n\n2\\. Electrostatics: electric field, electric potential, work and energy\n\n3\\. Special techniques for solving electric potentials: Laplace's equation, the method of images, separation of variables, multipole expansion\n\nIII Electrostatics in dielectrics\n\n4\\. Electric fields in matters: polarization, electric displacement, linear dielectrics\n\nIV Magnetostatics in vacuum\n\n5\\. Magnetostatics: Lorentz force, Bio-Savart law, the divergence and curl of the magnetic field, Ampere's law, magnetic dipole moment, multipole expansion\n\nV Mangnetism in matter\n\n6\\. Magnetic field in matters: magnetization, magnetic susceptibility and permeability",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "Taking notes is highly recommended for you to master E&M in this course"
+        },
+        {
+            "type": "討論法",
+            "note": "Ask questions at any time during lectures"
+        },
+        {
+            "type": "實驗/實作",
+            "note": "Matlab programming skill is required for HW problems"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 20,
+            "note": "Weekly HW assignment 作業(每週)"
+        },
+        {
+            "type": "期中考",
+            "weight": 30,
+            "note": "Midterm written exam 期中考"
+        },
+        {
+            "type": "期末考",
+            "weight": 35,
+            "note": "Final written exam 期末考"
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 10,
+            "note": "Weekly in-class quiz 課堂考 (每週)"
+        },
+        {
+            "type": "出席",
+            "weight": 5,
+            "note": "Attendance/In-class discussion/Attitude/Other (出席/課堂討論/上課態度/其他表現)"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

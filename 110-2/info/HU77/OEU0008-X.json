@@ -1,0 +1,78 @@
+{
+    "year": 110,
+    "term": 2,
+    "name": "光電實驗（一）",
+    "teachers": [
+        "楊承山"
+    ],
+    "department": "HU77",
+    "code": "OEU0008",
+    "credit": 1,
+    "serial": 1315,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 3,
+            "to": 4,
+            "campus": "公館",
+            "classroom": "AP415光電實驗室"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "2",
+    "classes": "",
+    "dept_group": "",
+    "hours": 2,
+    "description": "本課程為建立學生基礎光學知識與實作應用，使學生了解基礎光學技術應用，並建立學生動手實作與分析計算之能力，並作為未來光學學科發展與應用之入門工具與知識",
+    "goals": [
+        "學習雷射操控與雷射安全認知",
+        "建立基礎光學與架設光學系統能力",
+        "學習光學原件與工作原理",
+        "學習與驗證光學系統實作現象與其理論模型"
+    ],
+    "syllabus": "**The 1st Exp.**\n\n**How to Build Optical Setups in the Lab**\n\n**The 2nd Exp.**\n\n**Refraction and Reflection**\n\n**The 3rd Exp.**\n\n**Principle of Mach-Zehnder Interferometer**\n\n**The 4th Exp.**\n\n**Thin Lens Principle**\n\n**The 5th Exp.**\n\n**The Michelson Interferometer**\n\n**The 6th Exp.**\n\n**Basic Diffraction Experiment**\n\n**The 7th Exp.**\n\n**Polarization of Light**\n\n**The 8th Exp.**\n\n**Spatial Light Modulator**\n\n**The 9th Exp.**\n\n**Laser beam knife edge measurement**",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": ""
+        },
+        {
+            "type": "合作學習",
+            "note": ""
+        },
+        {
+            "type": "實驗/實作",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "課堂討論參與",
+            "weight": 10,
+            "note": "Join the classes and try to say something related to the experimental content."
+        },
+        {
+            "type": "報告",
+            "weight": 80,
+            "note": "Hand in the experimental forecasts, reports, and the oral reports."
+        },
+        {
+            "type": "專題",
+            "weight": 10,
+            "note": "We will have one final project related to the experimental content."
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

@@ -1,0 +1,101 @@
+{
+    "year": 109,
+    "term": 2,
+    "name": "語言學概論",
+    "teachers": [
+        "官英華"
+    ],
+    "department": "IU84",
+    "code": "CLU1004",
+    "credit": 2,
+    "serial": 1489,
+    "group": "A",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 3,
+            "from": 6,
+            "to": 7,
+            "campus": "本部",
+            "classroom": "正402A"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "1",
+    "classes": "",
+    "dept_group": "B",
+    "hours": 2,
+    "description": "This course will provide students basic knowledge of different domains in linguistics, which include the knowledge of general linguistics (phonetics, phonology, morphology, syntax, semantics, and pragmatics), the knowledge of psycholinguistics, and the knowledge of sociolinguistics. That is, students will learn IPA, and how to analyze the morphological and syntactic structures of certain languages in the world. In addition, they will learn the relationship between brain and language and its relevant research methods and technologies. Preparation before each class and review thereafter is strongly recommended for students who attend this course.",
+    "goals": [
+        "提供學生紮實的語言學基礎知識",
+        "提升學生在華語教學時，對華語以及學習者母語特質的敏感度",
+        "訓練學生閱讀英文教科書以及以英文寫作業和作答的能力",
+        "培養學生在跨語言和跨文化方面的知識與涵養"
+    ],
+    "syllabus": "2/24\n\nWhat is language? (Class A-G9; Class B-G9提示What is language的重點)\n\n3/03\n\nPhonetics: The sounds of language I (Class A-G8; Class B-G8提示Phonetic I的重點)\n\n3/10\n\nPhonetics: The sounds of language II/ assignment 1 (Class A-G7; Class B-G7提示Phonetics II的重點)\n\n3/17\n\nMorphology: The words of language I\n\n3/24\n\nMorphology: The words of language II assignment 2 (Class A-G6; Class B-G6提示Morphology I/II的重點)\n\n3/31\n\nBrain and language I\n\n4/07\n\nBrain and language II / (Class A-G5; Class B-G5提示Brian and language I的重點)\n\n4/14\n\nMidterm exam\n\n4/21\n\nPresentations G1-3\n\n4/28\n\nSyntax: The sentence patterns of language I (Class A-G4; Class B-G4提示Syntax I的重點)\n\n5/05\n\nSyntax: The sentence patterns of language II / assignment 3 (Class A-G3; Class B-G3提示Syntax II的重點)\n\n5/12\n\nThe meaning of language I (Class A-G2; Class B-G2提示The meaning of language I的重點)\n\n5/19\n\nThe meaning of language II (Class A-G1; Class B-G1提示The meaning of language II的重點)\n\n5/26\n\nPresentations G4-6\n\n6/2\n\nPresentations G7-9\n\n6/09\n\nFinal exam\n\n6/16\n\nPhonology I (online autonomous learning via moodle)\n\n6/23\n\nPhonology II (online autonomous learning via moodle)",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "講述語言學各領域的重要基礎理論"
+        },
+        {
+            "type": "討論法",
+            "note": "在課堂上提出問題與學生共同討論"
+        },
+        {
+            "type": "合作學習",
+            "note": "於課後指派學生小組對老師講授過的章節進行重點摘要整理的報告"
+        },
+        {
+            "type": "實驗/實作",
+            "note": "習題實作：語料分析、句子結構分析"
+        },
+        {
+            "type": "媒體融入教學",
+            "note": "使用moodle學習平台與學生分享資源，並利用PPT和影片輔助教學"
+        },
+        {
+            "type": "專題研究",
+            "note": "學生小組選擇自己感興趣的語言學專題，進行口頭報告"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 20,
+            "note": "課後練習題加強學生運用所學理論和分析方法的能力"
+        },
+        {
+            "type": "期中考",
+            "weight": 25,
+            "note": "命題形式包括填充題、簡答題和問答題，以檢視學生的學習成效"
+        },
+        {
+            "type": "期末考",
+            "weight": 25,
+            "note": "命題形式包括填充題、簡答題和問答題，以檢視學生的學習成效"
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 5,
+            "note": "鼓勵學生參與課堂討論"
+        },
+        {
+            "type": "出席",
+            "weight": 5,
+            "note": "基本監控學生出席率"
+        },
+        {
+            "type": "報告",
+            "weight": 20,
+            "note": "專題口頭報告+章節重點整理報告"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

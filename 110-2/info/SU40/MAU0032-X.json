@@ -1,0 +1,91 @@
+{
+    "year": 110,
+    "term": 2,
+    "name": "程式設計",
+    "teachers": [
+        "范洪源"
+    ],
+    "department": "SU40",
+    "code": "MAU0032",
+    "credit": 3,
+    "serial": 2744,
+    "group": "",
+    "quota": {
+        "limit": 35,
+        "additional": 5
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 7,
+            "to": 8,
+            "campus": "公館",
+            "classroom": "理圖003"
+        },
+        {
+            "day": 2,
+            "from": 9,
+            "to": 9,
+            "campus": "公館",
+            "classroom": "理圖802"
+        }
+    ],
+    "programs": [
+        "科學計算學程"
+    ],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "1",
+    "classes": "3",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程介紹程式設計的基本概念，學習應用程式語言及程式設計技能，以增進應用計算機的能力。",
+    "goals": [
+        "學習程式設計的基本技巧、方法與良好習慣",
+        "學習常用的數值方法、繪圖技巧，並能用圖表來呈現計算分析的結果",
+        "培養用電腦解決問題的能力，用圖表來呈現計算分析結果的方法"
+    ],
+    "syllabus": "  \n\n今日為何科技會如此日新月異?原因之一在於電腦計算能力不斷的提昇。因此如何有效的利用電腦來幫我們處理事情，顯得格外重要，所以在世界各國，科學計算領域已受到相當重視。而在科學計算領域中數值分析是一門基礎科目，它不同於其它數學基礎科目，數值分析是一門介紹如何利用電腦來處理我們所熟悉的數學問題，如求解線性聯立方程式、單一變數非線性函數零根、多變數非線性聯立方程式之解、矩陣之特徵值與特徵向量、積分與微分、微分方程之解等等，以及分析電腦計算所得之結果與實際真正的解有多少誤差。而這些目標必須仰賴程式設計做為基礎，透過撰寫程式來控制電腦完成複雜的數學運算。因此本課程目標在於訓練學生如何撰寫MATLAB程式，將自己所知的數學計算方法，整理並規則化，進而利用MATLAB計算其結果。\n\n教學目標：  \n1.學習由上而下的設計方法：由上而下的設計方法是鼓勵學生在開始編寫程式碼之前，先思考程式的適當設計，並強調在進行任何工作之前，必須先清楚定義出使用者想要解決的問題，及解決此問題所需要的輸入輸出。  \n2.學習函式的使用：將完整的工作能合理地分解成更小的子工作。教導函式在隱匿資料上的優點。  \n3.教導學生如何正確使用MATLAB工具，使得程式寫作及除錯變得更為輕鬆。  \n4.強調一般常見的程式設計錯誤，以提醒學生避免犯錯。  \n5.學習MATLAB的資料架構，包括稀疏陣列、單元陣列、以及結構陣列。  \n  \n教材內容：  \n[**MATLAB 簡介**](http://math.ntnu.edu.tw/~min/matlab/ppt/Chap1_Introduction.ppt)  \n[**MATLAB 基本功能介紹**](http://math.ntnu.edu.tw/~min/matlab/ppt/Chap2_MATLAB_basics.ppt)  \n**[分支宣告與程式設計](http://math.ntnu.edu.tw/~min/matlab/ppt/Chap3_branching_statement.ppt)**\n\n**[迴圈](http://math.ntnu.edu.tw/~min/matlab/ppt/Chap4_loops.ppt)**\n\n**[使用者定義函式](http://math.ntnu.edu.tw/~min/matlab/ppt/Chap5_functions.ppt)**\n\n[**其它的資料型態與繪圖型態**](http://math.ntnu.edu.tw/~min/matlab/ppt/Chap6_data_plot_types.ppt)",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": ""
+        },
+        {
+            "type": "合作學習",
+            "note": ""
+        },
+        {
+            "type": "實驗/實作",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "期中考",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "出席",
+            "weight": 10,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

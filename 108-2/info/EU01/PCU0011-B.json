@@ -1,0 +1,77 @@
+{
+    "year": 108,
+    "term": 2,
+    "name": "團體輔導",
+    "teachers": [
+        "姜兆眉"
+    ],
+    "department": "EU01",
+    "code": "PCU0011",
+    "credit": 3,
+    "serial": 669,
+    "group": "B",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 3,
+            "from": 8,
+            "to": 10,
+            "campus": "本部",
+            "classroom": "教513"
+        }
+    ],
+    "programs": [
+        "高齡學程"
+    ],
+    "comment": "",
+    "restrict": "◎必須先修過【PCU0130  諮商理論】◎必須先修過(也可以同時修)【PCU0131  諮商技術】",
+    "form_s": "3",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "「團體輔導」一門課提供學生學習並瞭解心理輔導的團體如何有助於個人成長與改變，主要是認識團體輔導的運作、動力、發展歷程、領導者的知能、專業倫理、基本的帶領技能，與設計團體方案的原理原則。本課程亦提供學生實際運作團體的機會，從做中學，期能具備初步設計團體方案與實作能力。",
+    "goals": [
+        "學習與體驗團體輔導運作中基本概念、動力、倫理及領導和參與",
+        "學習與體驗團體的形成、發展與結束的歷程",
+        "瞭解團體方案設計的原理與技巧",
+        "瞭解團體輔導於班級經營中的應用",
+        "實際形成小團體，體驗團體帶領與團體運作並學習設計團體方案"
+    ],
+    "syllabus": "  \n \n\n  \n[教學進度與主題附件](https://ap.itc.ntnu.edu.tw/NtnuFileShare/file.do?action=dl&gno=cae2044588094f0688084d7645dbcd1d&fno=5ad8e87b26e844bd9e3b049fde9e2c4c)",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "教師講授團體輔導/諮商基礎概念"
+        },
+        {
+            "type": "討論法",
+            "note": "小組導讀並帶領團體討論"
+        },
+        {
+            "type": "實驗/實作",
+            "note": "於課程中帶領團體"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 75,
+            "note": "作業繳交請詳見PDF檔案"
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 15,
+            "note": "課程中實際擔任團體帶領者"
+        },
+        {
+            "type": "出席",
+            "weight": 10,
+            "note": "出席課堂"
+        }
+    ],
+    "prerequisite": "◎必須先修過【PCU0130  諮商理論】◎必須先修過(也可以同時修)【PCU0131  諮商技術】",
+    "general_core": []
+}

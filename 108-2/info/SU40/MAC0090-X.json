@@ -1,0 +1,69 @@
+{
+    "year": 108,
+    "term": 2,
+    "name": "複變分析（二）",
+    "teachers": [
+        "張毓麟"
+    ],
+    "department": "SU40",
+    "code": "MAC0090",
+    "credit": 3,
+    "serial": 2649,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 2,
+            "to": 4,
+            "campus": "公館",
+            "classroom": "數學館310研討室"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "",
+    "classes": "9",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本科目是基礎課程，目的在培養複變函數理論的必備知識",
+    "goals": [
+        "培養數學專業能力",
+        "連結數學與其他學科",
+        "以高觀點觀察、解決專業問題"
+    ],
+    "syllabus": "1.          全純函數與亞純函數，幅角原理，Rouché定理 (3週)\n\n2.          留數在微積分上的計算應用 (2週)\n\n3.          解析延拓 (2週)\n\n4.          橢圓函數介紹 (2週)\n\n5.          Runge定理，Mittag-Leffler定理，單位圓上的解析函數的零點 (3週)\n\n6.          Gamma函數，漸近展開估計，最速下降法 (2週)\n\n7.        黎曼面介紹 (2週)",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "講授課程內容"
+        },
+        {
+            "type": "討論法",
+            "note": "由同學分組討論報告內容重點"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 10,
+            "note": "隔週繳交作業一次"
+        },
+        {
+            "type": "期中考",
+            "weight": 45,
+            "note": "定期評量"
+        },
+        {
+            "type": "期末考",
+            "weight": 45,
+            "note": "定期評量"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

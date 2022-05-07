@@ -1,0 +1,72 @@
+{
+    "year": 107,
+    "term": 2,
+    "name": "數位邏輯",
+    "teachers": [
+        "吳榮根"
+    ],
+    "department": "SU47",
+    "code": "CSU0009",
+    "credit": 3,
+    "serial": 2945,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 8,
+            "to": 9,
+            "campus": "公館",
+            "classroom": "Ｅ101"
+        },
+        {
+            "day": 5,
+            "from": 7,
+            "to": 7,
+            "campus": "公館",
+            "classroom": "Ｅ101"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "1",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "讓學習者瞭解數位電路的動作原理，並學習數位電路的設計和製作。",
+    "goals": [
+        "能了解各種邏輯閘的基本運作原理",
+        "能了解如何分析邏輯電路",
+        "能了解如何設計和化簡邏輯電路"
+    ],
+    "syllabus": "第1週 課程簡介\n\n第2、3週 數系與數碼\n\n第4、5週 布林邏輯和邏輯閘\n\n第6、7週 組合性邏輯電路\n\n第8、9週 正反器\n\n第10、11、12週 順序性邏輯電路\n\n第13、14週 邏輯積體電路\n\n第15、16週 與類比世界的界面\n\n第17、18週 可規畫邏輯裝置",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 20,
+            "note": "各章勾選教科書習題2至5題，兩週內繳交"
+        },
+        {
+            "type": "期中考",
+            "weight": 40,
+            "note": "範圍包括第1至9週的上課內容，題目有計算、說明等問題。"
+        },
+        {
+            "type": "期末考",
+            "weight": 40,
+            "note": "範圍包括第10至18週的上課內容，題目有計算、說明等問題。"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

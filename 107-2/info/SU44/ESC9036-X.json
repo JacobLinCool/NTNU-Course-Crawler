@@ -1,0 +1,87 @@
+{
+    "year": 107,
+    "term": 2,
+    "name": "大地工程學",
+    "teachers": [
+        "葉恩肇"
+    ],
+    "department": "SU44",
+    "code": "ESC9036",
+    "credit": 3,
+    "serial": 2925,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 1,
+            "from": 10,
+            "to": 12,
+            "campus": "公館",
+            "classroom": "Ｃ401"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎限大三大四 ◎限碩一碩二碩三以上修習",
+    "form_s": "",
+    "classes": "9",
+    "dept_group": "",
+    "hours": 3,
+    "description": "使學生於課堂中學習有關土壤性質與力學，基礎工程與施工程序等相關知識，並輔以案例介紹與作業以及環境工法讓學生熟悉大地工程之應用以及人類與環境共處之道。",
+    "goals": [
+        "學習土壤性質與力學知識",
+        "了解基礎工程與施工程序",
+        "以案例/作業學習與環境共處之道"
+    ],
+    "syllabus": "(中文)  \n1.大地工程之介紹與回顧  \n2.土壤來源、重量—體積關係  \n3.土壤之塑性與結構  \n4.土壤夯實  \n5.滲透性  \n6.滲流  \n7.現地應力  \n8.土體應力  \n9.期中考  \n10.土壤之壓縮性  \n11.土壤之剪力強度I  \n12.土壤之剪力強度II  \n13.橫向土壓力：靜態、朗金與庫倫破裂準則  \n14.橫向土壓力：曲線破壞面  \n15.邊坡穩定  \n16.淺基礎之土壤承載值  \n17.案例分析/實地考察  \n18.期末考  \n  \n(英文)  \n1.Introduction  \n2\\. Origin of Soil, Weight-Volume Relationship  \n3.Plasticity and Structure of Soil  \n4.Soil Compaction  \n5.Permeability  \n6.Seepage  \n7.In Situ Stress  \n8.Stresses in a Soil Mass  \n9\\. Midterm Exam  \n10.Compressibility of Soil  \n11.Shear Strength of Soil I  \n12.Shear Strength of Soil II  \n13.Lateral Earth Pressure: At-Rest, Rankine, and Coulomb  \n14\\. Lateral Earth Pressure: Curved Failure Surface  \n15.Soil Stability  \n16.Soil-Bearing Capacity for Shallow Foundations  \n17.Case Studies/Field Trip  \n18.Final Exam",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "課堂講述基本原理\nLecture the fundamental knowledge"
+        },
+        {
+            "type": "討論法",
+            "note": "上課進行討論與習題說明\nStudent Groups discuss the material and home works"
+        },
+        {
+            "type": "合作學習",
+            "note": "分組討論案例分析\nStudent groups study and present case studies"
+        },
+        {
+            "type": "實地考察、參訪",
+            "note": "野外實際考察\nVisit sites of geotechnical foundation"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "期中考",
+            "weight": 25,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 25,
+            "note": ""
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 10,
+            "note": ""
+        },
+        {
+            "type": "報告",
+            "weight": 10,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

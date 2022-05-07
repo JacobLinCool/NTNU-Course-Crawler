@@ -1,0 +1,71 @@
+{
+    "year": 107,
+    "term": 2,
+    "name": "管理數學",
+    "teachers": [
+        "黃嘉威"
+    ],
+    "department": "OU57",
+    "code": "BAU0049",
+    "credit": 3,
+    "serial": 2423,
+    "group": "",
+    "quota": {
+        "limit": 60,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 7,
+            "to": 9,
+            "campus": "本部",
+            "classroom": "誠202"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎必須先修過【BAU0064  商用微積分】",
+    "form_s": "1",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程介紹積分基本概念與其在財務、經濟、管理和其它領域的應用。",
+    "goals": [
+        "增進數學分析基本概念的理解，使得學生學習管理數學之技巧",
+        "增進邏輯推理與歸納的能力",
+        "增進數學思維與批判性思考的能力",
+        "增進專業知識及追求真理的態度，助學生在管理數學領域上的學習與運用"
+    ],
+    "syllabus": "**課程綱要**\n\n本課程介紹積分基本概念與其在財務、經濟、管理和其它領域的應用。\n\n**教學進度**\n\nWeek\n\nProposed Lecture\n\n1\n\nIntroduction, Indefinite Integration and Differential Equation\n\n2\n\nIndefinite Integration and Differential Equation\n\n3\n\nIntegration by Substitution\n\n4\n\nDefinite Integral and the Fundamental Theorem of Calculus\n\n5\n\nApplications of Integration\n\n6\n\nQuiz (I) \\[2019.3.26\\]\n\n7\n\nHoliday \\[2019.4.2\\]\n\n8\n\nIntegration by Parts; Integral Tables\n\n9\n\nMidterm Exam \\[2019.4.16\\]\n\n10\n\nNumerical Integration\n\n11\n\nImproper Integrals\n\n12\n\nPartial Derivatives\n\n13\n\nOptimizing Functions of Two Variables\n\n14\n\nConstrained Optimization: The Method of Lagrange Multipliers\n\n15\n\nDouble Integrals\n\n16\n\nSeries and Taylor Polynomials\n\n17\n\nQuiz (II) \\[2019.6.11\\]\n\n18\n\nFinal Exam \\[2019.6.18\\]",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "解題講述"
+        }
+    ],
+    "grading": [
+        {
+            "type": "期中考",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "出席",
+            "weight": 20,
+            "note": ""
+        },
+        {
+            "type": "其他",
+            "weight": 20,
+            "note": "二次小考各佔10%"
+        }
+    ],
+    "prerequisite": "◎必須先修過【BAU0064  商用微積分】",
+    "general_core": []
+}

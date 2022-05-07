@@ -1,0 +1,96 @@
+{
+    "year": 110,
+    "term": 1,
+    "name": "高等化學分離專論",
+    "teachers": [
+        "呂家榮",
+        "宋蕙伶"
+    ],
+    "department": "SD42",
+    "code": "CMD0242",
+    "credit": 3,
+    "serial": 2650,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 6,
+            "from": 2,
+            "to": 4,
+            "campus": "公館",
+            "classroom": "教室自排"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程將深入探討化學分離之方法、理論與儀器設計，因應現代分析化學在面對環境污染、食品安全、犯罪鑑定與生物醫療等實用領域，探討所需要的複雜樣品解析之科學。",
+    "goals": [
+        "深入了解化學分離原理",
+        "學習化學分離之實驗裝置與儀器",
+        "研究化學分離文獻",
+        "化學分離方法之批判與辯思",
+        "學習環境汙染複雜樣品之分離"
+    ],
+    "syllabus": "第1週： Introduction to chemical separation\n\n第2週： Chemical separation and chemical equilibriums\n\n第3週： Statistical concept for chemical separation\n\n第4週： Review of laboratory equipment and discussion\n\n第5週： Sampling approaches and apparatus\n\n第6週： Sampling theory and chemometrics\n\n第7週： Analytical chemistry literature report and critics\n\n第8週： Chromatography theory\n\n第9週： Advanced gas chromatography\n\n第10週： Advanced liquid chromatography\n\n第11週： Modern ion chromatography and instrumentation\n\n第12週： Mid-term report and literature critics\n\n第13週： Instrumentation for chromatographic separation\n\n第14週： Electrochemical methods for chemical separation\n\n第15週： Mixtures and spectroscopy -I (IR、UV-Vis)\n\n第16週： Mixtures and spectroscopy -II (MS)\n\n第17週： Separations and analysis for gas and liquid samples\n\n第18週： Final report and discussion",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "提供講義與講授"
+        },
+        {
+            "type": "討論法",
+            "note": "針對文獻與方法進行主題式討論"
+        },
+        {
+            "type": "問題解決教學",
+            "note": "解答學生在文獻理解上的問題"
+        },
+        {
+            "type": "合作學習",
+            "note": "分組文獻討論"
+        },
+        {
+            "type": "實驗/實作",
+            "note": "以各研究室與系上共有儀器進行"
+        },
+        {
+            "type": "實地考察、參訪",
+            "note": "參觀工業區物染與現場討論"
+        },
+        {
+            "type": "媒體融入教學",
+            "note": "Youtube 資源與power point"
+        },
+        {
+            "type": "專題研究",
+            "note": "針對文獻與實驗作專題報告"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 40,
+            "note": ""
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "報告",
+            "weight": 30,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

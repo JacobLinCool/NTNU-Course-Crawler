@@ -1,0 +1,79 @@
+{
+    "year": 107,
+    "term": 2,
+    "name": "數位系統實驗",
+    "teachers": [
+        "林政宏"
+    ],
+    "department": "HU75",
+    "code": "AEU0004",
+    "credit": 2,
+    "serial": 1329,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 4,
+            "from": 6,
+            "to": 9,
+            "campus": "本部",
+            "classroom": "電機系電子實驗室"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "1",
+    "classes": "",
+    "dept_group": "",
+    "hours": 4,
+    "description": "讓學生有機會將數位系統課程所學知識，進行實驗並驗證其正確性。經由作業指派，訓練學生活用所學的能力。",
+    "goals": [
+        "增進學生數位系統基本概念的理解",
+        "教育學生運用數位系統知識與技術，以實作數位系統實驗",
+        "教育學生運用數位系統知識與技術，以解決數位系統實驗相關之問題",
+        "從實驗中，培養學生獨立思考之能力",
+        "從實驗中，培養學生解決數位系統工程問題之能力",
+        "奠定學生終身學習之基礎",
+        "分組進行實驗，培養學生團隊合作",
+        "培養專業倫理之態度",
+        "培養國際觀與外語能力"
+    ],
+    "syllabus": "第一週：實驗1\n\n1\\. 數位系統實驗簡介\n\n2\\. QuartusII軟體下載與License取得教學\n\n3\\. 專案開啟、開檔、波形模擬設定與方法\n\n4\\. 腳位設定與DE2實驗版燒錄\n\n第二週：實驗2\n\n1\\. 硬體描述語言(HDL)簡介\n\n2\\. Verilog描述方式介紹\n\n3\\. Verilog Gate-Level Description\n\n4\\. Verilog Operators\n\n5\\. DE2 – LED & Switch\n\n第三週：實驗3\n\n1\\. User Defined Primitives\n\n2\\. Dataflow Verilog\n\n3\\. Structural Verilog\n\n4\\. DE2 - 7-Segment Display\n\n第四週：上機練習1\n\n第五週：上機測驗1\n\n第六週：實驗4\n\n1\\. Dataflow Verilog\n\n2\\. Structural Verilog\n\n3\\. Behavioral Modeling\n\n第七週：實驗5\n\n1\\. Logic Function IC\n\n2\\. Latches and Flip-flops\n\n3\\. DE2 - Push-Button Switches\n\n第八週：上機練習2\n\n第九週：期中考\n\n第十週：實驗6\n\n1\\. Sequential Building Blocks\n\n2\\. JK Flip-Flop\n\n3\\. T Flip-Flop\n\n4\\. Synchronous vs. Asynchronous\n\n5\\. Blocking vs. Nonblocking\n\n6\\. Asynchronous Counter\n\n7\\. Synchronous Counter\n\n8\\. DE2 - Clock Inputs\n\n第十一週：實驗7\n\n1\\. Finite State Machines  \n2\\. Moore FSM & Mealy FSM\n\n第十二週：實驗8\n\n1\\. Vending Machine\n\n第十三週：實驗9\n\n2\\. Block Diagram\n\n第十四週：上機練習3\n\n第十五週：上機測驗2\n\n第十六週：上機練習4\n\n第十七週：上機練習5\n\n第十八週：期末考",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "講述數位系統重要概念"
+        },
+        {
+            "type": "合作學習",
+            "note": "分組進行實驗，每組兩人，相互學習幫忙"
+        },
+        {
+            "type": "實驗/實作",
+            "note": "學生實作數位系統實驗"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 40,
+            "note": ""
+        },
+        {
+            "type": "期中考",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 30,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

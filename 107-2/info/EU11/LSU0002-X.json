@@ -1,0 +1,82 @@
+{
+    "year": 107,
+    "term": 2,
+    "name": "程式設計（二）",
+    "teachers": [
+        "蔡孟蓉"
+    ],
+    "department": "EU11",
+    "code": "LSU0002",
+    "credit": 3,
+    "serial": 919,
+    "group": "",
+    "quota": {
+        "limit": 25,
+        "additional": 5
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 2,
+            "to": 4,
+            "campus": "本部",
+            "classroom": "教404"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "1",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "此課程為程式設計(一)的延續課程，此課程的目標是要培養學生程式設計的進階觀念及能力，在此課程中，學生將會學習到不同的程式函式庫及整合不同函式庫解決問題及開發應用程式。",
+    "goals": [
+        "能了解 Python程式設計的基本概念及技能並撰寫程式",
+        "能根據指定的方法步驟，規畫程式架構、流程並據以實作。",
+        "能熟悉不同的函式庫，及整合函式庫解決問題及發展應用程式"
+    ],
+    "syllabus": "Computer Programming II is a follow-up course of the Computer Programming I for the undergraduate students majored in learning science. The goal of Computer Programming II is to prepare students for advanced concepts of computer programming such as objective-oriented programming and more abstract data types in Python. In this course, students will learn how to utilize Python modules to analyze spreadsheet data and to implement data visualization. A final project will be required for all students in this course. \n\nWeek 1: Introduction\n\nWeek 2: Abstract Data Types and Objected-Oriented Programming\n\nWeek 3: Data Manipulations with NumPy\n\nWeek 4: Data Manipulations with NumPy\n\nWeek 5: Quiz 1\n\nWeek 6: Working on Spreadsheet Data\n\nWeek 7: Data Manipulations with Pandas\n\nWeek 8: Data Manipulations with Pandas\n\nWeek 9: Quiz 2\n\nWeek 10:  Data Visualization\n\nWeek 11:  Visualization with Matplotlib\n\nWeek 12: Visualization with Matplotlib\n\nWeek 13: Quiz 3\n\nWeek 14:  Final Project\n\nWeek 15:  Final Project\n\nWeek 16:  Final Project\n\nWeek 17: Final Project",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "進階程式設計概念介紹"
+        },
+        {
+            "type": "問題解決教學",
+            "note": "以解決問題為導向的程式設計，強調自我導向學習"
+        },
+        {
+            "type": "實驗/實作",
+            "note": "前半學期程式設計以個人上機實作為主"
+        },
+        {
+            "type": "專題研究",
+            "note": "期末報告以小組專題研究的方式進行"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 30,
+            "note": "個人作業"
+        },
+        {
+            "type": "期中考",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 10,
+            "note": "上課參與度"
+        },
+        {
+            "type": "專題",
+            "weight": 30,
+            "note": "期末專題報告"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

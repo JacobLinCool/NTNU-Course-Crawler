@@ -1,0 +1,69 @@
+{
+    "year": 109,
+    "term": 2,
+    "name": "線性代數探索（二）",
+    "teachers": [
+        "朱亮儒"
+    ],
+    "department": "SU40",
+    "code": "MAU0173",
+    "credit": 1,
+    "serial": 2766,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 4,
+            "from": 4,
+            "to": 4,
+            "campus": "公館",
+            "classroom": "Ｃ004"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎必須先修過(也可以同時修)【MAU0161  線性代數（二）】",
+    "form_s": "1",
+    "classes": "2",
+    "dept_group": "",
+    "hours": 1,
+    "description": "在於讓學生親身經歷線性代數解題的思維歷程，以達到對線性代數概念和計算法則的熟練，進而應用解決相關問題。",
+    "goals": [
+        "讓學生親身經歷線性代數解題的思維歷程",
+        "讓學生熟練線性代數概念和計算法則",
+        "應用線性代數解決相關數學問題。"
+    ],
+    "syllabus": " 本課程配合線性代數（二）進行方式為:作業探討與學生上台報告演練\n\n**習題 (第一次期中考****)**    **3****月 30 日 (二)**\n\nSection 5.1 : Eigenvalues and Eigenvectors\n\n                    7,17,25,29,37,41-60,66,67,68,70,71,72,73,74,75\n\nSection 5.2 : The Characteristic Polynomial\n\n                   13,17,25,29,33,37,53-72,73,74,75,76,77,78,81,82,83,84,86  \nSection 5.3 : Diagonalization of Matrices\n\n                   5,7,19,21,25,29-48,51,52,57,61,63,71,73,76,78,80,81,82,84,85,86,87,88,89\n\nSection 5.4 : Diagonalization of Linear Operators \n\n                  1,5,9,13,14,21,25,29-48,49,51,61,65,67,75,76,77,81,82,83,84\n\nSection 5.5 : Applications of Eigenvalues\n\n                  1-7,15,16,23,30,41,44,74,78,84\n\n**習題 (第二次期中考)   5月 13日 (四)**\n\nSection 6.1 : The Geometry of Vectors\n\n                    12, 21, 29,37,43,45,61-80,87,88,89,92,93,94,95,96,97,98,108,114,115,116,118,119,120\n\nSection 6.2 :Orthogonal Vectors\n\n                   3,13,19,25,29,37,41-52,55,56,58,59-66  \nSection 6.3 : Orthogonal Projections\n\n                  5,11,18,19,24,33-56,58,59,60,61,62,63,64,65,67,70,72,74,75,77,78,83\n\nSection 6.4 : Least-Squares Approximations and Orthogonal Projection Matrices\n\n                 1,11,17,21,25,28-32,33,36,37\n\nSection 6.5 : Orthogonal Matrices and Operators\n\n                11,13,17-36,37,39,41,43,46,47,49,50,51,54,55,59,60,61,65,66,68,69\n\nSection 6.6 : Symmetric Matrices\n\n               1,3,13,17,21-40,42,47-54,56,59,61,68,73\n\n**習題 (期末考)    6****月 17日 (四)**\n\nSection 6.9 : Rotations of![](file:///C:/Users/USER/AppData/Local/Temp/msohtmlclip1/01/clip_image002.png)\n\n                    1,3,7,15,23,25,39,40,47-67,68,780,71,72,73,74,77\n\nSection 9.2 : Matrices and Vector Spaces with Complex Scalars\n\n                    7,9,12,14,17,19,21,25,29,31,32,33,35,36,37,38,39,42,43,44,45  \nSection 9.3 : Eigenvalues and Diagonalization\n\n                   2,6,10,14,17,19,20,22,23,24,25,26  \nSection 9.4 : Jordan Canonical Form\n\n                  7,11,13,17,19,20,23,25,30,33",
+    "methodologies": [
+        {
+            "type": "討論法",
+            "note": ""
+        },
+        {
+            "type": "問題解決教學",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 10,
+            "note": "每週繳交一次作業"
+        },
+        {
+            "type": "期中考",
+            "weight": 60,
+            "note": "2次期中考, 每次占學期成績30分"
+        },
+        {
+            "type": "期末考",
+            "weight": 30,
+            "note": "1次期末考, 占學期成績30分"
+        }
+    ],
+    "prerequisite": "◎必須先修過(也可以同時修)【MAU0161  線性代數（二）】",
+    "general_core": []
+}

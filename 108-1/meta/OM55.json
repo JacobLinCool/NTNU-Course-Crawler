@@ -1,0 +1,360 @@
+[
+    {
+        "year": 108,
+        "term": 1,
+        "name": "財務管理",
+        "teachers": [
+            "周德瑋"
+        ],
+        "department": "OM55",
+        "code": "MBM0001",
+        "credit": 3,
+        "serial": 2493,
+        "group": "",
+        "quota": {
+            "limit": 5,
+            "additional": 35
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 2,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "雲508"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎必須先修過【BAU0036  會計學（一）】、【BAU0038  經濟學（一）】其中一門 ◎課程開放上修",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 1,
+        "name": "行銷管理",
+        "teachers": [
+            "沈永正"
+        ],
+        "department": "OM55",
+        "code": "MBM0002",
+        "credit": 3,
+        "serial": 2494,
+        "group": "",
+        "quota": {
+            "limit": 30,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 2,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "雲508"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎課程開放上修",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 1,
+        "name": "顧客關係管理",
+        "teachers": [
+            "周世玉"
+        ],
+        "department": "OM55",
+        "code": "MBM0026",
+        "credit": 3,
+        "serial": 2496,
+        "group": "",
+        "quota": {
+            "limit": 30,
+            "additional": 12
+        },
+        "schedule": [
+            {
+                "day": 5,
+                "from": 7,
+                "to": 9,
+                "campus": "本部",
+                "classroom": "雲508"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎課程開放上修",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 1,
+        "name": "服務行銷專題研究",
+        "teachers": [
+            "張佳榮"
+        ],
+        "department": "OM55",
+        "code": "MBM0036",
+        "credit": 3,
+        "serial": 4515,
+        "group": "",
+        "quota": {
+            "limit": 30,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 10,
+                "to": 12,
+                "campus": "本部",
+                "classroom": "雲508"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎課程開放上修",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 1,
+        "name": "資料庫行銷",
+        "teachers": [
+            "周世玉"
+        ],
+        "department": "OM55",
+        "code": "MBM0044",
+        "credit": 3,
+        "serial": 2497,
+        "group": "",
+        "quota": {
+            "limit": 30,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 7,
+                "to": 9,
+                "campus": "本部",
+                "classroom": "雲508"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎課程開放上修",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 1,
+        "name": "計量經濟學",
+        "teachers": [
+            "何宗武"
+        ],
+        "department": "OM55",
+        "code": "MBM0061",
+        "credit": 3,
+        "serial": 2499,
+        "group": "",
+        "quota": {
+            "limit": 5,
+            "additional": 35
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 7,
+                "to": 9,
+                "campus": "本部",
+                "classroom": "雲508"
+            }
+        ],
+        "programs": [
+            "學習與資訊學程"
+        ],
+        "comment": "",
+        "restrict": "◎必須先修過【BAU0040  統計學（一）】 ◎課程開放上修",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 1,
+        "name": "投資學",
+        "teachers": [
+            "蔡蒔銓"
+        ],
+        "department": "OM55",
+        "code": "MBM0063",
+        "credit": 3,
+        "serial": 2500,
+        "group": "",
+        "quota": {
+            "limit": 30,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 5,
+                "from": 2,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "雲608"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎課程開放上修",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 1,
+        "name": "證券交易實務與程式交易",
+        "teachers": [
+            "周德瑋",
+            "蔡蒔銓"
+        ],
+        "department": "OM55",
+        "code": "MBM0075",
+        "credit": 3,
+        "serial": 2501,
+        "group": "",
+        "quota": {
+            "limit": 30,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 7,
+                "to": 9,
+                "campus": "本部",
+                "classroom": "雲608"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎課程開放上修",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 1,
+        "name": "企業實習",
+        "teachers": [
+            "黃嘉威"
+        ],
+        "department": "OM55",
+        "code": "MBM0077",
+        "credit": 1,
+        "serial": 2502,
+        "group": "",
+        "quota": {
+            "limit": 30,
+            "additional": 12
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 10,
+                "to": 11,
+                "campus": "本部",
+                "classroom": "雲508"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎課程開放上修",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 1,
+        "name": "管理專題研討",
+        "teachers": [
+            "陳玠甫",
+            "施人英",
+            "黃嘉威"
+        ],
+        "department": "OM55",
+        "code": "MBM0084",
+        "credit": 3,
+        "serial": 2503,
+        "group": "",
+        "quota": {
+            "limit": 30,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 6,
+                "to": 8,
+                "campus": "本部",
+                "classroom": "誠302"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎課程開放上修",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 1,
+        "name": "產品創新與行銷實務",
+        "teachers": [
+            "周慕義",
+            "王仕茹"
+        ],
+        "department": "OM55",
+        "code": "MBM0090",
+        "credit": 3,
+        "serial": 2504,
+        "group": "",
+        "quota": {
+            "limit": 30,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 7,
+                "to": 9,
+                "campus": "本部",
+                "classroom": "誠202"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎課程開放上修",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    }
+]

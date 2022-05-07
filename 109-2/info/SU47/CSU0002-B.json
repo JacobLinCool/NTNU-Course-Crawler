@@ -1,0 +1,81 @@
+{
+    "year": 109,
+    "term": 2,
+    "name": "程式設計（二）",
+    "teachers": [
+        "王弘倫"
+    ],
+    "department": "SU47",
+    "code": "CSU0002",
+    "credit": 3,
+    "serial": 2977,
+    "group": "B",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 2,
+            "to": 4,
+            "campus": "公館",
+            "classroom": "理圖807"
+        }
+    ],
+    "programs": [
+        "音樂科技學程",
+        "資訊科技應用學程",
+        "人工智慧學程"
+    ],
+    "comment": "",
+    "restrict": "◎必須先修過【CSU0001  程式設計（一）】",
+    "form_s": "1",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程介紹 C 程式語言之進階語法，包含字串、結構、檔案處理、預處理器、巨集等，並帶入資料結構的實做。",
+    "goals": [
+        "能以C++ 程式語言開發軟體。",
+        "能分析所撰寫程式碼之優缺點，並提出改進之構想。"
+    ],
+    "syllabus": "1\\. Recursion\n\n2\\. Struct\n\n3\\. File Processing\n\n4\\. Bitwise operation\n\n5\\. Dynamic memory allocation and data structures\n\n6\\. Objects\n\n7\\. Preprocessor\n\n8\\. C standard library\n\n註：授權碼事宜將於第一次上課統一處理，email 詢問授權碼事宜者不予回覆。",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "問題解決教學",
+            "note": ""
+        },
+        {
+            "type": "實驗/實作",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 44,
+            "note": "含小考 60%，回家作業 40%"
+        },
+        {
+            "type": "期中考",
+            "weight": 25,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "其他",
+            "weight": 1,
+            "note": "課前測驗 (於第一次上課施測)"
+        }
+    ],
+    "prerequisite": "◎必須先修過【CSU0001  程式設計（一）】",
+    "general_core": []
+}

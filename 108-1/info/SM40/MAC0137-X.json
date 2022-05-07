@@ -1,0 +1,76 @@
+{
+    "year": 108,
+    "term": 1,
+    "name": "矩陣計算（一）",
+    "teachers": [
+        "黃聰明"
+    ],
+    "department": "SM40",
+    "code": "MAC0137",
+    "credit": 3,
+    "serial": 2675,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 3,
+            "from": 2,
+            "to": 4,
+            "campus": "公館",
+            "classroom": "教室自排"
+        }
+    ],
+    "programs": [
+        "科學計算學程"
+    ],
+    "comment": "本課程為科學計算學分學程之選修課程，預計於108學年度公告修習要點。",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程著重於超大型稀疏線性系統及特徵值問題之數值計算，在矩陣計算(一)與(二) 課程中我們分別介紹有關線性系統及特徵值問題之數值計算方法。透過課堂上計算方法及理論的講解，搭配實際例子的上機操作，培養學生處理真正工程上實際應用的能力，厚植其研究基礎。",
+    "goals": [
+        "結合線性代數及數值分析的知識，讓學生學習如何利用電腦來處理有關矩陣的問題，使學生有能力處理真正工程應用上的實際問題。",
+        "如何利用direct method計算線性系統的解",
+        "如何利用iterative method計算線性系統的解",
+        "學習如何充分利用MATLAB來完成數值模擬"
+    ],
+    "syllabus": "矩陣計算是很多計算的核心, 涵蓋目前熱門領域機器學習, 大數據分析, 深度學習, 醫學影像處理等等, 皆與矩陣計算息息相關,  這些應用問題經常延伸出解大型線性系統及計算大型特徵值問題, 如何有效計算這些矩陣問題, 將影響解決整個問題的效能,  這門課我們將探討這些應用中的分類問題, 處理分類問題我們必須計算大型矩陣的特徵值, 對此特徵值問題我們將介紹傳統的計算方法, 透過呼叫軟體套件, 實際了解各種方法的效能, 對這些傳統方法有所瞭解後, 我們會介紹最新的方法, 如何結合新技巧, 解決問題.  課程進度如下   \n\n(a)    課程介紹: 1週\n\n(b)   基礎知識簡介: 1週 \n\n(c)   Iterative methods for solving large sparselinear system: 2週\n\n(d)    Conjugategradient method: 3週\n\n(e)    CG-method asan iterative method, preconditioning: 2週\n\n(f)   GCG-type methods for nonsymmetric linear systems: 2週\n\n(g)   GMRES: generalized minimal residual algorithm forsolving nonsymmetric linear systems: 2週\n\n(h)  Krylov method for solving eigenvalue problems: 3週",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "透過講述方式介紹課程內容"
+        },
+        {
+            "type": "討論法",
+            "note": "分析同學所撰寫之程式，討論如何修改以增進其效能"
+        },
+        {
+            "type": "其他",
+            "note": "程式撰寫>經由指定之程式作業，增進同學學習效果"
+        }
+    ],
+    "grading": [
+        {
+            "type": "課堂討論參與",
+            "weight": 20,
+            "note": "20%\t出席並參與課堂討論的情形"
+        },
+        {
+            "type": "報告",
+            "weight": 40,
+            "note": "將整學期所給的程式作業執行結果做完整的比較與整理"
+        },
+        {
+            "type": "其他",
+            "weight": 40,
+            "note": "對每個課程主題給于實際之應用，針對此問題利用課堂所介紹之方法，撰寫程式計算其解"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

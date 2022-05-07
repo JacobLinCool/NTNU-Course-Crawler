@@ -1,0 +1,78 @@
+{
+    "year": 107,
+    "term": 2,
+    "name": "數位學習評鑑",
+    "teachers": [
+        "張欣怡"
+    ],
+    "department": "EM08",
+    "code": "ICC0085",
+    "credit": 3,
+    "serial": 508,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 4,
+            "from": 2,
+            "to": 4,
+            "campus": "本部",
+            "classroom": "教1004"
+        }
+    ],
+    "programs": [
+        "大數據學程"
+    ],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程分為三個主要部分，前兩個部分著重對於數位學習評鑑概念與理論的建構以及對於評鑑實施過程與研究方法的探討。課程的第三個部分則著以實作方式引導學生訂定一個數位學習評鑑的計畫並藉由適當的資料收集與分析進行研究。",
+    "goals": [
+        "了解數位學習評鑑的模式與理論",
+        "擬定數位學習評鑑的目標、計畫以及執行方法",
+        "能夠應用適當的研究方法於數位學習評鑑",
+        "將所學學理用於解決所遇到的困難",
+        "認同數位學習評鑑的價值"
+    ],
+    "syllabus": "**Part 1: Building the foundations**\n\n1.  Introduction and course overview\n2.  Value in e-Learning Evaluation\n3.  Theory: The LEPO Framework\n4.  Four Levels of Evaluations and Issues\n5.  Educational Evaluation and Research\n\n**Part 2: Designing Your Own Evaluation Plan**\n\n1.  Evaluation-Research Approaches Suitable for e-Learning\n2.  The Evaluation-Research Process\n3.  Evaluation-Research Across e-Learning Life Cycle\n4.  Conducting an Evaluation-Research Study\n5.  Evaluation Plan Showcase and Reflection\n\n**Part 3: Exploring Issues Related to Analysis of Evaluation Data**\n\n1.  Project-Management Evaluation\n2.  Using Evaluation-Research Results\n3.  Final project feedback\n4.  Data Analysis Techniques and Issues (I)\n5.  Data Analysis Techniques and Issues (II)\n6.  Final project Presentation",
+    "methodologies": [
+        {
+            "type": "討論法",
+            "note": "本課程將透過文獻閱讀與討論以促進學生學習"
+        },
+        {
+            "type": "實驗/實作",
+            "note": "本課程將引導學生制定數位學習評鑑計畫並進行資料分析的討論"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 30,
+            "note": "隨堂討論與隨堂作業"
+        },
+        {
+            "type": "出席",
+            "weight": 30,
+            "note": "出席並積極參與課堂活動"
+        },
+        {
+            "type": "成果展覽",
+            "weight": 5,
+            "note": "專題口頭報告與展示"
+        },
+        {
+            "type": "專題",
+            "weight": 35,
+            "note": "期中與期末專題"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

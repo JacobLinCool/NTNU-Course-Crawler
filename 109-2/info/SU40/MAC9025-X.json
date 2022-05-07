@@ -1,0 +1,84 @@
+{
+    "year": 109,
+    "term": 2,
+    "name": "組合數學（IB）",
+    "teachers": [
+        "鄭硯仁"
+    ],
+    "department": "SU40",
+    "code": "MAC9025",
+    "credit": 3,
+    "serial": 2743,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 2,
+            "to": 4,
+            "campus": "公館",
+            "classroom": "數學館310研討室"
+        }
+    ],
+    "programs": [
+        "國際教師學程-數學"
+    ],
+    "comment": "",
+    "restrict": "",
+    "form_s": "",
+    "classes": "9",
+    "dept_group": "",
+    "hours": 3,
+    "description": "This course introduces the significant topics in enumerative combinatorics which is a fascinating branch in combinatorics. The topics include graph theory, counting methods, generating functions, partitions, and various. We will not only study the properties of them, but focus on fostering research skills. We will begin by reading selected research papers to touch on the newest results in this field. In this course, a mathematically agile mind will be helpful.",
+    "goals": [
+        "Solving applications by using counting skills.",
+        "Using combinatorics to solve problems in related fields.",
+        "Transferring between models in combinatorics."
+    ],
+    "syllabus": "本課程介紹組合數學的觀念、工具及技巧，適合修過離散數學的同學修習。在課堂中亦會讓同學進行數學的嘗試及探索，並分組進行專題炭討。主要教授內容涉及組合數學中的建構法及演算法，一開始介紹如何將討論的對象確實描述及列舉出來，這有助於我們對此對象的了解並能以此了解一箱性質。接著介紹如何透過'操作'及'建構'得到各種性質，包含如何藉由對應來證明兩種不同結構數量相等，以及如何建構組合模型以證明代數等式。\n\n  \n1\\. Listing basic combinatorial objects  \n2\\. Partially ordered sets  \n3\\. Bijections  \n4\\. Involutions   \n \n\n註：本課程中一定比例以英語授課。",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "上課講解"
+        },
+        {
+            "type": "討論法",
+            "note": "討論"
+        },
+        {
+            "type": "問題解決教學",
+            "note": "提出問題，介紹解決工具"
+        },
+        {
+            "type": "專題研究",
+            "note": "學生專題報告"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 20,
+            "note": ""
+        },
+        {
+            "type": "期中考",
+            "weight": 20,
+            "note": ""
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 20,
+            "note": ""
+        },
+        {
+            "type": "專題",
+            "weight": 40,
+            "note": "期末專題報告"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

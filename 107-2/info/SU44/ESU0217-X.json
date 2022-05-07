@@ -1,0 +1,89 @@
+{
+    "year": 107,
+    "term": 2,
+    "name": "太空天氣學",
+    "teachers": [
+        "曾瑋玲"
+    ],
+    "department": "SU44",
+    "code": "ESU0217",
+    "credit": 3,
+    "serial": 2935,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 5,
+            "from": 2,
+            "to": 4,
+            "campus": "公館",
+            "classroom": "Ｂ413"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎限大三大四修習",
+    "form_s": "3",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "課程內容主要為認識太空電漿物理環境, 包含太陽與太陽風和地球與其它行星的高層大氣(涵括磁球層與離子球層) 之間的交互作用. 此外還會講授遙測技術和光譜觀測對地球與其它行星大氣的量測, 以及太陽風暴對地球大氣, 人類生活與科技傳輸的影響",
+    "goals": [
+        "培養具備跨領域的知能和分析與應用之能力。應用地球科學探究方法的基本技能，能整合地球系統、人類與環境和永續經營等相關議題。同時培養理性思維與邏輯判斷之能力。"
+    ],
+    "syllabus": "  \n[教學進度與主題附件](https://ap.itc.ntnu.edu.tw/NtnuFileShare/file.do?action=dl&gno=9e43d6d69dc2425ca660bb226d787473&fno=8c52ee1df4ab40daa5a73d314aa1cd47)",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "利用投影片, 影片等講授課程內容"
+        },
+        {
+            "type": "討論法",
+            "note": "課堂中將會不定期發放討論作業單"
+        },
+        {
+            "type": "合作學習",
+            "note": "學生分組合作, 共同完成小組討論與報告"
+        },
+        {
+            "type": "實地考察、參訪",
+            "note": "參觀中央氣象局與中央大學太空與遙測中心"
+        },
+        {
+            "type": "媒體融入教學",
+            "note": "影片欣賞"
+        }
+    ],
+    "grading": [
+        {
+            "type": "期中考",
+            "weight": 35,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 35,
+            "note": ""
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 5,
+            "note": "平時課堂作業與鼓勵學生踴躍發言與提問"
+        },
+        {
+            "type": "出席",
+            "weight": 5,
+            "note": ""
+        },
+        {
+            "type": "報告",
+            "weight": 20,
+            "note": "書報論文報告(分組)"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

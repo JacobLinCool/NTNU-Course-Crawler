@@ -1,0 +1,77 @@
+{
+    "year": 110,
+    "term": 1,
+    "name": "作業管理",
+    "teachers": [
+        "鍾震耀"
+    ],
+    "department": "OU57",
+    "code": "BAU0018",
+    "credit": 3,
+    "serial": 2532,
+    "group": "",
+    "quota": {
+        "limit": 60,
+        "additional": 40
+    },
+    "schedule": [
+        {
+            "day": 4,
+            "from": 6,
+            "to": 8,
+            "campus": "本部",
+            "classroom": "誠201"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎必須先修過【BAU0006  管理科學模式】",
+    "form_s": "3",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程為企業管理學系大三的必修課，其課程教學目的在於提供學生對於作業管理的概念、議題以及實踐的理解。藉著探討作業管理的各個主題：競爭力、策略與生產力、供應鏈管理、品質管理、預測、產品與服務設計、產能規劃與管理決策、流程選擇、設施佈置等，以加強學生的專業技能；厚植資訊及整合利用資源的能力；增進實務的思考能力；培養商業溝通的技巧。本課程係藉由核心概念、原理與作業管理的各理論，提供一個由淺入深出的作業管理課程。",
+    "goals": [
+        "教導作業管理專業知識",
+        "培養營運管理規劃與決策能力"
+    ],
+    "syllabus": "1.          Introduction to Operations Management (Wk1) 作業管理導論\n\n2.          Operations Strategy and Forecasting (Wk2) 作業策略與需求預測\n\n3.          Product and Service Design (Wk3) 產品與服務設計\n\n4.          Capacity Planning and Location Selection (Wk4) 產能規劃與位址選擇\n\n5.          Facility Layout, Work Design and Measurement (Wk5) 設施佈置、工作設計與衡量\n\n6.          Quality Management (Wk6) 品質管理\n\n7.          Inventory Management(Wk7) 存貨管理\n\n8.          Intermediate Plan (Wk8) 中期計劃\n\n9.          Mid-term exam (Wk9)\n\n10.      Material Requirements Planning (Wk10) 物料需求規劃\n\n11.      Just in Time (Wk11) JIT剛好及時系統\n\n12.      Scheduling (Wk12) 日程安排\n\n13.      Enterprise Resources Planning (Wk13) ERP企業資源規劃\n\n14.      Supply Chain Management (Wk14) SCM供應鏈管理\n\n15.      Project Management (Wk15) PM專案管理\n\n16.      Final exam (Wk16)\n\n17.      專家演講I(Wk17)\n\n18.      專家演講II(Wk18)\n\n注意事項：因為這學期第一週就開始進行遠距教學，為了方便傳達與分享上課相關事情，請有修課的同學或者尚未選修成功同學先使用下面URL加入老師建立的LINE群組(使用手機加入比較快)，謝謝各位。群組名稱為0110\\_台師大企管系作業管理\n\nLINE群組的URL如下\n\n[https://line.me/R/ti/g/eYDgLWbFss](https://line.me/R/ti/g/eYDgLWbFss)",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "講述教材內容並依理論搭配實務。"
+        },
+        {
+            "type": "討論法",
+            "note": "課堂活動討論。"
+        },
+        {
+            "type": "其他",
+            "note": "專家演講:邀請實務專家演講"
+        }
+    ],
+    "grading": [
+        {
+            "type": "期中考",
+            "weight": 25,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 25,
+            "note": ""
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 20,
+            "note": "出席與課堂互動"
+        },
+        {
+            "type": "報告",
+            "weight": 30,
+            "note": "個案討論心得報告20%+專家演講心得報告10%"
+        }
+    ],
+    "prerequisite": "◎必須先修過【BAU0006  管理科學模式】",
+    "general_core": []
+}

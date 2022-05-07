@@ -1,0 +1,74 @@
+{
+    "year": 109,
+    "term": 2,
+    "name": "電子學（二）",
+    "teachers": [
+        "蘇崇彥"
+    ],
+    "department": "HU75",
+    "code": "AEU0011",
+    "credit": 3,
+    "serial": 1303,
+    "group": "A",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 5,
+            "from": 2,
+            "to": 4,
+            "campus": "本部",
+            "classroom": "誠108"
+        }
+    ],
+    "programs": [
+        "太陽能源與工程學程"
+    ],
+    "comment": "",
+    "restrict": "◎必須先修過【AEU0006  電子學（一）】",
+    "form_s": "2",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "使學生了解更複雜的類比與數位積體電路及系統。內容包括單級的積體電路放大器、差動和多級放大器、頻率響應、回授、及運算放大器的內部電路。",
+    "goals": [
+        "教育學生運用科學與工程知識與技術，以解決電機電子工程相關之問題",
+        "培養學生獨立思考之能力，奠定學生終身學習之基礎"
+    ],
+    "syllabus": "主題 1 課程簡介  \n電子學(二) 主要在介紹積體電路放大器(Integrated-Circuit Amplifiers)之設計, 內容包括建立積體電路放大器的方塊, 差動放大, 頻率響應, 和回授。  \n18週的課程, 規劃如下, 其中有2週的課程，以彈性學習的方式進行，並且繳交作業。  \n  \n主題 2  彈性學習1  \nMOSFET與BJT基本放大器組態  \n在自主學習後, 繳交作業1  \n主題 3   \n7.1 IC Design Philosophy  \n7.2 IC Biasing-Current Sources, Current Mirrors, and Current-Steering\n\n7.3 The Basic Gain Cell  \n主題 4  \n7.4 The Common-Gate and Common-Base Amplifiers\n\n7.5 The Cascode Amplifier  \n主題 5   \n7.6 The Current-Mirror Circuits with Improved Performance  \n7.7 Some Useful Transistor Pairings  \n主題 6  \n8.1 The MOS Differential Pair\n\n8.2 The BJT Differential Pair\n\n8.3 Common-Mode Rejection  \n主題 7 (4/2) 春假(放假1日)\n\n主題8   \n8.4 DC Offset  \n8.5 The Differential Amplifier with a Current-Mirror Load  \n8.6 Multistage Amplifiers  \n主題 9  (4/16) 期中考  \n主題 10 彈性學習2  \nTransfer function, Low pass and high pass circuits, Magnitude response  \n在自主學習後, 繳交作業2  \n主題 11  \n9.1 Low-Frequency Response of Discrete-Circuit CS and CE amplifiers  \n9.2 Internal Capacitive Effects and the High-Frequency Model of the MOSFET and BJT  \n9.3 High-Frequency Response of the CS and CE amplifiers  \n主題 12   \n9.4 Useful Tools for the Analysis of the High-Frequency Response of Amplifiers  \n9.5 High-Frequency Response of the CG and Cascode Amplifiers  \n主題 13   \n9.6 High-Frequency Response of the Source and Emitter Followers  \n9.7 High-Frequency Response of Differential Amplifiers  \n9.8 Other Wideband Amplifier  \n主題 14  \n10.1 The General Feedback Structure  \n10.2 Some Properties of Negative Feedback  \n10.3 The Feedback Voltage Amplifier  \n主題 15  \n10.4 Systematic Analysis of Feedback Voltage Amplifiers\n\n主題 16   \n10.5 Other Feedback Amplifier Types  \n10.6 Summary of the Feedback Analysis  \n主題 17  \n10.7 The Stability Problem  \n10.8 Effect of Feedback on the Amplifier Poles  \n10.9 Stability Study Using Bode Plots  \n主題18 (6/11)期末考",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "講述電子電路工作原理與理論"
+        },
+        {
+            "type": "討論法",
+            "note": "課程進行過程當中，會有一些小問題，提供同學互相討論並回答"
+        },
+        {
+            "type": "媒體融入教學",
+            "note": "部份內容透過power point與數位板進行教學"
+        }
+    ],
+    "grading": [
+        {
+            "type": "期中考",
+            "weight": 30,
+            "note": "命題形式包括名詞解釋、簡答題與計算題"
+        },
+        {
+            "type": "期末考",
+            "weight": 30,
+            "note": "命題形式包括名詞解釋、簡答題與計算題"
+        },
+        {
+            "type": "其他",
+            "weight": 40,
+            "note": "課堂討論參與、出席、練習, 作業與小考"
+        }
+    ],
+    "prerequisite": "◎必須先修過【AEU0006  電子學（一）】",
+    "general_core": []
+}

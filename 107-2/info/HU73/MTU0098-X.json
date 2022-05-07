@@ -1,0 +1,64 @@
+{
+    "year": 107,
+    "term": 2,
+    "name": "靜力學",
+    "teachers": [
+        "屠名正"
+    ],
+    "department": "HU73",
+    "code": "MTU0098",
+    "credit": 2,
+    "serial": 1302,
+    "group": "",
+    "quota": {
+        "limit": 70,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 8,
+            "to": 9,
+            "campus": "本部",
+            "classroom": "誠208"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "1",
+    "classes": "",
+    "dept_group": "",
+    "hours": 2,
+    "description": "靜力學是物理學的基礎內容，也是物理在工程應用的理論起點。工程及科技學院的許多科系都有開設靜力學。本課從質點、剛體到結構，從一維、二維到三維空間，從力向量、力系平衡、內力分佈、結構分析、摩擦、質心、慣性矩等原理，介紹基本原理及在工程上的應用。本課同時為動力學及後續課程奠定基礎。",
+    "goals": [
+        "學習靜力學原理",
+        "理解靜力學原理之工程應用",
+        "解決靜力學之工程應用問題",
+        "學習靜力學原理(外文靜力學書籍)"
+    ],
+    "syllabus": "1 General Principles\n\n2 Forces vectors\n\n3 Forces vectors\n\n4 Quiz 1\n\n5 Equilibrium of a Particle\n\n6 Forces System Resultants\n\n7 Forces System Resultants\n\n8 Quiz 2\n\n9 Equilibrium of a Rigid Body\n\n10 Structural Analysis\n\n11 Structural Analysis\n\n12 Internal Forces\n\n13 Quiz 3\n\n14 Friction\n\n15 Friction\n\n16 Center of Gravity and Centroid\n\n17 Moments of Inertia\n\n18 Quiz 4",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "定義、原理及應用範例解說"
+        },
+        {
+            "type": "討論法",
+            "note": "概念討論、疑難解決"
+        },
+        {
+            "type": "問題解決教學",
+            "note": "例題求解示範演練"
+        }
+    ],
+    "grading": [
+        {
+            "type": "其他",
+            "weight": 100,
+            "note": "隨堂測驗:紙筆測驗、命題形式為計算題，缺席扣分"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

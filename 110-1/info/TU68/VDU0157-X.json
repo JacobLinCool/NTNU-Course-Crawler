@@ -1,0 +1,81 @@
+{
+    "year": 110,
+    "term": 1,
+    "name": "施工圖",
+    "teachers": [
+        "劉大章"
+    ],
+    "department": "TU68",
+    "code": "VDU0157",
+    "credit": 2,
+    "serial": 3239,
+    "group": "",
+    "quota": {
+        "limit": 35,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 3,
+            "to": 4,
+            "campus": "本部",
+            "classroom": "設計系2A教室"
+        }
+    ],
+    "programs": [
+        "室內設計學程"
+    ],
+    "comment": "",
+    "restrict": "",
+    "form_s": "3",
+    "classes": "",
+    "dept_group": "",
+    "hours": 2,
+    "description": "室內施工圖介紹(商店)、施工圖符號及標註尺寸方式、尺寸標註與比例基本原則、基本正投影圖繪製與練習、基本正投影圖繪製與練習、基本正投影圖繪製與練習、基本正投影圖繪製與練習、整理所有系統圖面(自行繪製)、整理所有系統圖面(上課討論)、細部圖技巧與練習",
+    "goals": [
+        "室內設計專業知識",
+        "室內設計專業技能",
+        "培養積極正面的性格",
+        "培養倫理及道德觀"
+    ],
+    "syllabus": "  \n[教學進度與主題附件](https://ap.itc.ntnu.edu.tw/NtnuFileShare/file.do?action=dl&gno=0f8b0c6938b3495b988af89958208c43&fno=fa3af1c4fd024996aa7e06fffeac5764)",
+    "methodologies": [
+        {
+            "type": "討論法",
+            "note": "上課採用同老師討論方式"
+        },
+        {
+            "type": "問題解決教學",
+            "note": "產生的問題經由討論來解決"
+        },
+        {
+            "type": "實地考察、參訪",
+            "note": "以實際案例來實際操作畫圖"
+        }
+    ],
+    "grading": [
+        {
+            "type": "課堂討論參與",
+            "weight": 15,
+            "note": ""
+        },
+        {
+            "type": "出席",
+            "weight": 10,
+            "note": ""
+        },
+        {
+            "type": "報告",
+            "weight": 15,
+            "note": ""
+        },
+        {
+            "type": "成果展覽",
+            "weight": 60,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

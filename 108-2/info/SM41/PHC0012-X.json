@@ -1,0 +1,75 @@
+{
+    "year": 108,
+    "term": 2,
+    "name": "量子力學（二）",
+    "teachers": [
+        "陳傳仁"
+    ],
+    "department": "SM41",
+    "code": "PHC0012",
+    "credit": 3,
+    "serial": 2553,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 4,
+            "from": 2,
+            "to": 4,
+            "campus": "公館",
+            "classroom": "Ｓ601"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "介紹量子力學的基本原理、觀念、計算方法和應用，以作為進一步從事物理研究的準備",
+    "goals": [
+        "瞭解量子力學的發展及理論",
+        "加強理性思維能力",
+        "簡介物理新知",
+        "物理研究能力培養"
+    ],
+    "syllabus": "  \n\n1.Symmetries\n\n   A. Systems with N Degrees of Freedom\n\n   B. Symmetries and Their Consequences\n\n  \n\n2.General Theory of Angular Momentum: \n\n    A. Rotational Invariance and Angular Momentum\n\n    B. Addition of Angular Momentum \n\n    C. Spin\n\n  \n\n3\\. The Hydrogen atom\n\n  \n\n4\\. EPR Paradox and Quantum Entanglement\n\n  \n\n5\\. Approximation Methods\n\n    A. Variational and WKB Methods\n\n    B. Time-Independent Perturbation Theory\n\n    C. Time-Dependent Perturbation Theory and Adiabatic Approximation\n\n  \n\n6\\. Relativistic Quantum Mechanics:\n\n    A. The Klein-Gordan Equation\n\n    B. The Dirac Equation",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "期中考",
+            "weight": 25,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 35,
+            "note": ""
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 10,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

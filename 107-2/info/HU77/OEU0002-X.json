@@ -1,0 +1,82 @@
+{
+    "year": 107,
+    "term": 2,
+    "name": "計算機概論",
+    "teachers": [
+        "楊承山",
+        "蕭惠心"
+    ],
+    "department": "HU77",
+    "code": "OEU0002",
+    "credit": 3,
+    "serial": 1349,
+    "group": "",
+    "quota": {
+        "limit": 20,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 7,
+            "to": 9,
+            "campus": "公館",
+            "classroom": "理圖802"
+        }
+    ],
+    "programs": [],
+    "comment": "※2/18-4/16 授課地點：應用科學大樓 B1演講廳",
+    "restrict": "",
+    "form_s": "1",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程著重計算機科學的基礎技術及知識，同時亦著重C相關程式設計的技巧，期讓同學有足夠的能力修習進階計算機相關課程，在往後諸多理論及應用課程上研習有所助益，並具備將來所預從事研究工作或深造之基本程式撰寫能力。",
+    "goals": [
+        "教導學生計算機科學的基礎技術及知識",
+        "訓練學生基本C相關程式設計的技巧，建立將來進入職場的基礎"
+    ],
+    "syllabus": "週次\n\n教學大綱及進度\n\n1\n\nCourse Introduction\n\n2\n\nData Representation\n\n3\n\nNumber Representation\n\n4\n\nOperations on Bits\n\n5\n\nComputer Organization (CPU,  Main Memory,  Input/Output, Subsystem Interconnection)\n\n6\n\nComputer Networks (OSI Model, Categories of Networks (LAN, MAN, and WAN), Connecting Devices, the Internet and TCP/IP)\n\n7\n\nOperation Systems (Memory Manager,  Process Manager,  Device Manager,  File Manager,  and User Interface)\n\n8\n\nAlgorithms (Summation, Product, Smallest and Largest, Sorting, Searching, and Recursion)\n\n9\n\n期中測驗評量\n\n10\n\nControl structure I\n\n11\n\nControl structure II\n\n12\n\nFunctions I\n\n13\n\nFunctions II\n\n14\n\narrays\n\n15\n\narrays\n\n16\n\nPointers and Strings\n\n17\n\nPointers and Strings\n\n18\n\n期末測驗評量",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "問題解決教學",
+            "note": ""
+        },
+        {
+            "type": "合作學習",
+            "note": ""
+        },
+        {
+            "type": "實驗/實作",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "期中考",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 10,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

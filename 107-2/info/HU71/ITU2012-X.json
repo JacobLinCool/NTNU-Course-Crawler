@@ -1,0 +1,73 @@
+{
+    "year": 107,
+    "term": 2,
+    "name": "電腦輔助製圖",
+    "teachers": [
+        "張文德"
+    ],
+    "department": "HU71",
+    "code": "ITU2012",
+    "credit": 3,
+    "serial": 1248,
+    "group": "",
+    "quota": {
+        "limit": 30,
+        "additional": 8
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 8,
+            "to": 10,
+            "campus": "本部",
+            "classroom": "科510"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎限大二修習◎必須先修過【ITU0004  圖學】",
+    "form_s": "2",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程為「圖學」之進階及應用課程，課程主要目標有二，一為繼續加強學生圖學知能，使能進一步瞭解圖學之理論、繪製方法及其應用；二為提升學生應用2D與3D電腦軟體於製圖及設計實務的能力，強化其於工程或設計領域發展之競爭力。",
+    "goals": [
+        "工程圖學進階知能",
+        "電腦輔助工程製圖的概念與實務",
+        "2D與3D電腦輔助製圖軟體之操作與應用"
+    ],
+    "syllabus": "第一週  課程說明 Rihno2D製圖基本圖形1-5  \n第二週  Rihno2D製圖基本圖形6-15  \n第三週 Rihno2D製圖基本圖形16-25  \n第四週 Rihno2D製圖基本圖形26-35  \n第五週Rihno2D製圖基本圖形36-45  \n第六週 上機考(一)  \n第七週Rihno 3D圖形1-10  \n第八週 期中作業提案  \n第九週Rihno 3D 3D圖形11-20  \n第十週 期中作業報告  \n第十一週 Rihno 3D圖形 1-10  \n第十二週 Rihno 3D圖形 11-20  \n第十三週 Rihno 3D圖形 21-30  \n第十四週 期末小組作業提案  \n第十五週 Rihno 3D 彩視  \n第十六週 Rihno 3D 彩視  \n第十七週 Rihno 3D 彩視  \n第十八週 期末小組作業報告",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "圖學知能、電腦輔助製圖軟體與相關機具操作之介紹"
+        },
+        {
+            "type": "實驗/實作",
+            "note": "軟硬體之設計應用實務"
+        },
+        {
+            "type": "媒體融入教學",
+            "note": "簡報、軟體操作示範廣播、作品欣賞"
+        }
+    ],
+    "grading": [
+        {
+            "type": "期中考",
+            "weight": 30,
+            "note": "上機考"
+        },
+        {
+            "type": "期末考",
+            "weight": 60,
+            "note": "期中與期末作業之評量(各30%)"
+        },
+        {
+            "type": "其他",
+            "weight": 10,
+            "note": "出勤與學習情形之評量"
+        }
+    ],
+    "prerequisite": "◎必須先修過【ITU0004  圖學】",
+    "general_core": []
+}

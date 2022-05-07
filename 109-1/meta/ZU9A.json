@@ -1,0 +1,213 @@
+[
+    {
+        "year": 109,
+        "term": 1,
+        "name": "休閒教育",
+        "teachers": [
+            "蕭如軒"
+        ],
+        "department": "EU07",
+        "code": "CEU0382",
+        "credit": 2,
+        "serial": 870,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 3
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 1,
+                "to": 2,
+                "campus": "本部",
+                "classroom": "誠大樓公團部"
+            }
+        ],
+        "programs": [
+            "高齡學程",
+            "區域學程"
+        ],
+        "comment": "",
+        "restrict": "",
+        "form_s": "3",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 1,
+        "name": "原住民族地理",
+        "teachers": [
+            "汪明輝"
+        ],
+        "department": "LU23",
+        "code": "GEU0242",
+        "credit": 3,
+        "serial": 1996,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 5
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 7,
+                "to": 9,
+                "campus": "本部",
+                "classroom": "正206"
+            }
+        ],
+        "programs": [
+            "區域學程",
+            "原民教育學程"
+        ],
+        "comment": "",
+        "restrict": "",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 1,
+        "name": "測量學",
+        "teachers": [
+            "王聖鐸"
+        ],
+        "department": "LU23",
+        "code": "GEU0184",
+        "credit": 3,
+        "serial": 2014,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 4
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 6,
+                "to": 8,
+                "campus": "本部",
+                "classroom": "誠107"
+            }
+        ],
+        "programs": [
+            "學習與資訊學程",
+            "環境監測學程",
+            "區域學程",
+            "空間學程"
+        ],
+        "comment": "",
+        "restrict": "",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 1,
+        "name": "生態觀光與遊憩",
+        "teachers": [
+            "郭乃文"
+        ],
+        "department": "LU23",
+        "code": "GEU0194",
+        "credit": 3,
+        "serial": 2015,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 23
+        },
+        "schedule": [
+            {
+                "day": 5,
+                "from": 2,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "誠401"
+            }
+        ],
+        "programs": [
+            "區域學程"
+        ],
+        "comment": "",
+        "restrict": "",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 1,
+        "name": "土地法規",
+        "teachers": [
+            "張鈺光"
+        ],
+        "department": "LU23",
+        "code": "GEU0227",
+        "credit": 3,
+        "serial": 2029,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 4
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 7,
+                "to": 9,
+                "campus": "本部",
+                "classroom": "正106"
+            }
+        ],
+        "programs": [
+            "區域學程",
+            "空間學程"
+        ],
+        "comment": "",
+        "restrict": "",
+        "form_s": "3",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 1,
+        "name": "災害防救法規與體系",
+        "teachers": [
+            "李清安"
+        ],
+        "department": "ZU89",
+        "code": "PGUS016",
+        "credit": 2,
+        "serial": 3269,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 5
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 10,
+                "to": 11,
+                "campus": "本部",
+                "classroom": "誠204"
+            }
+        ],
+        "programs": [
+            "環境監測學程",
+            "區域學程"
+        ],
+        "comment": "授課教師：李清安老師。",
+        "restrict": "◎第一階段限 環境監測學程",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    }
+]

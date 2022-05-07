@@ -1,0 +1,89 @@
+{
+    "year": 109,
+    "term": 2,
+    "name": "教育統計學（二）",
+    "teachers": [
+        "吳清麟"
+    ],
+    "department": "E",
+    "code": "E0U0002",
+    "credit": 2,
+    "serial": 369,
+    "group": "D",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 3,
+            "to": 4,
+            "campus": "本部",
+            "classroom": "誠203"
+        }
+    ],
+    "programs": [
+        "學習與資訊學程"
+    ],
+    "comment": "要修過相關統計課,或是教育統計學一",
+    "restrict": "",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 2,
+    "description": "認知方面: 1.\t認識推論統計之基本概念  2.\t學習各類統計方法之意義、計算、解釋與正確用途 3.\t培養邏輯性思考與分析之學習能力 情意方面: 1.\t培養對自己負責,主動積極之學習態度 2.\t學習與同儕團隊討論,合作互助 技能方面: 1 學習以統計軟體執行統計分析",
+    "goals": [
+        "認識推論統計之基本概念",
+        "學習各類統計方法之意義、計算、解釋與正確用途",
+        "培養邏輯性思考與分析之學習能力"
+    ],
+    "syllabus": "推論統計概述  \n區間估計  \nT檢定  \n單因子變異數分析  \n多因子變異數分析  \n卡方檢定  \n多元迴歸分析",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": ""
+        },
+        {
+            "type": "問題解決教學",
+            "note": ""
+        },
+        {
+            "type": "實驗/實作",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 20,
+            "note": ""
+        },
+        {
+            "type": "期中考",
+            "weight": 20,
+            "note": "期中報告"
+        },
+        {
+            "type": "期末考",
+            "weight": 30,
+            "note": "本學期所有的教學內容，選擇題、問答與計算題。"
+        },
+        {
+            "type": "出席",
+            "weight": 5,
+            "note": ""
+        },
+        {
+            "type": "報告",
+            "weight": 25,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

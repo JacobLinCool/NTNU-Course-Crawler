@@ -1,0 +1,982 @@
+[
+    {
+        "year": 107,
+        "term": 2,
+        "name": "服務學習（二）－科技系",
+        "teachers": [
+            "丁玉良"
+        ],
+        "department": "HU71",
+        "code": "0000042",
+        "credit": 0,
+        "serial": 4411,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 11,
+                "to": 11,
+                "campus": "本部",
+                "classroom": "科401"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "服務學習（二）－科技系學會",
+        "teachers": [
+            "張敬珣"
+        ],
+        "department": "HU71",
+        "code": "0000043",
+        "credit": 0,
+        "serial": 1230,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 0
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 5,
+                "to": 5,
+                "campus": "本部",
+                "classroom": "科213"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎第一階段需人工加選◎第二階段需人工加選◎加退選階段需人工加選",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "生活科技科教學實習（二）（教）",
+        "teachers": [
+            "張玉山"
+        ],
+        "department": "HU71",
+        "code": "ITUE310",
+        "credit": 2,
+        "serial": 1231,
+        "group": "",
+        "quota": {
+            "limit": 30,
+            "additional": 2
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 7,
+                "to": 10,
+                "campus": "本部",
+                "classroom": "科315"
+            }
+        ],
+        "programs": [],
+        "comment": "大三及大四師培生需選修",
+        "restrict": "◎限大三大四修習",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "人力資源資訊系統",
+        "teachers": [
+            "孫弘岳"
+        ],
+        "department": "HU71",
+        "code": "ITC9005",
+        "credit": 3,
+        "serial": 1232,
+        "group": "",
+        "quota": {
+            "limit": 30,
+            "additional": 8
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 7,
+                "to": 9,
+                "campus": "本部",
+                "classroom": "教403"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎限大四 ◎限碩一碩二碩三以上修習",
+        "form_s": "",
+        "classes": "9",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "圖學",
+        "teachers": [
+            "周賢彬"
+        ],
+        "department": "HU71",
+        "code": "ITU0004",
+        "credit": 3,
+        "serial": 1233,
+        "group": "",
+        "quota": {
+            "limit": 30,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 7,
+                "to": 10,
+                "campus": "本部",
+                "classroom": "教403"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎限大一修習",
+        "form_s": "1",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "人力資源發展概論",
+        "teachers": [
+            "孫弘岳"
+        ],
+        "department": "HU71",
+        "code": "ITU1004",
+        "credit": 3,
+        "serial": 1234,
+        "group": "",
+        "quota": {
+            "limit": 30,
+            "additional": 21
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 2,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "科211"
+            }
+        ],
+        "programs": [
+            "社團領導學程"
+        ],
+        "comment": "",
+        "restrict": "◎限大一修習",
+        "form_s": "1",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "創造力開發",
+        "teachers": [
+            "張敬珣"
+        ],
+        "department": "HU71",
+        "code": "ITU2030",
+        "credit": 3,
+        "serial": 1235,
+        "group": "",
+        "quota": {
+            "limit": 30,
+            "additional": 19
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 7,
+                "to": 9,
+                "campus": "本部",
+                "classroom": "科211"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎限大一修習",
+        "form_s": "1",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "設計素描與表現技法",
+        "teachers": [
+            "耿",
+            "剛"
+        ],
+        "department": "HU71",
+        "code": "ITU2063",
+        "credit": 3,
+        "serial": 1236,
+        "group": "",
+        "quota": {
+            "limit": 30,
+            "additional": 11
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 8,
+                "to": 10,
+                "campus": "本部",
+                "classroom": "科310"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎限大一修習",
+        "form_s": "1",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "數位學習概論",
+        "teachers": [
+            "許庭嘉"
+        ],
+        "department": "HU71",
+        "code": "ITU2074",
+        "credit": 3,
+        "serial": 1237,
+        "group": "",
+        "quota": {
+            "limit": 30,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 7,
+                "to": 9,
+                "campus": "本部",
+                "classroom": "科510"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎限大一修習",
+        "form_s": "1",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "計算機概論",
+        "teachers": [
+            "許庭嘉"
+        ],
+        "department": "HU71",
+        "code": "ITU0008",
+        "credit": 3,
+        "serial": 1238,
+        "group": "",
+        "quota": {
+            "limit": 30,
+            "additional": 5
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 2,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "科510"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎限大一修習",
+        "form_s": "1",
+        "classes": "1",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "電腦影像處理",
+        "teachers": [
+            "張玉山",
+            "林湧順"
+        ],
+        "department": "HU71",
+        "code": "ITU0028",
+        "credit": 3,
+        "serial": 1239,
+        "group": "",
+        "quota": {
+            "limit": 35,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 16,
+                "to": 11,
+                "campus": "本部",
+                "classroom": "教402"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎限大一修習",
+        "form_s": "1",
+        "classes": "1",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "基本設計",
+        "teachers": [
+            "簡佑宏"
+        ],
+        "department": "HU71",
+        "code": "ITU0005",
+        "credit": 3,
+        "serial": 1240,
+        "group": "",
+        "quota": {
+            "limit": 35,
+            "additional": 5
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 7,
+                "to": 9,
+                "campus": "本部",
+                "classroom": "科310"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎限大一修習",
+        "form_s": "1",
+        "classes": "2",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "電子電路",
+        "teachers": [
+            "丁玉良",
+            "曾騰輝"
+        ],
+        "department": "HU71",
+        "code": "ITU0165",
+        "credit": 3,
+        "serial": 1241,
+        "group": "",
+        "quota": {
+            "limit": 30,
+            "additional": 6
+        },
+        "schedule": [
+            {
+                "day": 5,
+                "from": 3,
+                "to": 5,
+                "campus": "本部",
+                "classroom": "科401"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎限大一修習",
+        "form_s": "1",
+        "classes": "2",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "資料結構",
+        "teachers": [
+            "周遵儒"
+        ],
+        "department": "HU71",
+        "code": "ITU0050",
+        "credit": 3,
+        "serial": 1242,
+        "group": "",
+        "quota": {
+            "limit": 30,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 2,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "科510"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎限大二修習",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "作業系統",
+        "teachers": [
+            "李啟龍"
+        ],
+        "department": "HU71",
+        "code": "ITU0129",
+        "credit": 3,
+        "serial": 1243,
+        "group": "",
+        "quota": {
+            "limit": 30,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 16,
+                "to": 11,
+                "campus": "本部",
+                "classroom": "科213"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎限大二修習",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "網際網路程式設計",
+        "teachers": [
+            "曾繁勛"
+        ],
+        "department": "HU71",
+        "code": "ITU0135",
+        "credit": 3,
+        "serial": 1244,
+        "group": "",
+        "quota": {
+            "limit": 30,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 7,
+                "to": 9,
+                "campus": "本部",
+                "classroom": "科510"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎限大二修習",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "木器設計與製造",
+        "teachers": [
+            "林弘昌"
+        ],
+        "department": "HU71",
+        "code": "ITU0158",
+        "credit": 3,
+        "serial": 1245,
+        "group": "",
+        "quota": {
+            "limit": 30,
+            "additional": 5
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 7,
+                "to": 9,
+                "campus": "本部",
+                "classroom": "科501"
+            }
+        ],
+        "programs": [
+            "室內設計學程"
+        ],
+        "comment": "",
+        "restrict": "◎限大二修習◎必須先修過【ITU0002  木工製造】",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "工業安全與衛生",
+        "teachers": [
+            "林弘昌"
+        ],
+        "department": "HU71",
+        "code": "ITU1001",
+        "credit": 3,
+        "serial": 1246,
+        "group": "",
+        "quota": {
+            "limit": 30,
+            "additional": 5
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 7,
+                "to": 9,
+                "campus": "本部",
+                "classroom": "科501"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎限大二修習",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "造形原理",
+        "teachers": [
+            "簡佑宏"
+        ],
+        "department": "HU71",
+        "code": "ITU2003",
+        "credit": 3,
+        "serial": 1247,
+        "group": "",
+        "quota": {
+            "limit": 30,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 2,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "科310"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎限大二修習",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "電腦輔助製圖",
+        "teachers": [
+            "張文德"
+        ],
+        "department": "HU71",
+        "code": "ITU2012",
+        "credit": 3,
+        "serial": 1248,
+        "group": "",
+        "quota": {
+            "limit": 30,
+            "additional": 8
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 8,
+                "to": 10,
+                "campus": "本部",
+                "classroom": "科510"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎限大二修習◎必須先修過【ITU0004  圖學】",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "數位學習方法與策略",
+        "teachers": [
+            "丁玉良"
+        ],
+        "department": "HU71",
+        "code": "ITU2081",
+        "credit": 3,
+        "serial": 1249,
+        "group": "",
+        "quota": {
+            "limit": 30,
+            "additional": 5
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 2,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "科401"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎限大二修習",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "電腦多媒體",
+        "teachers": [
+            "丁玉良"
+        ],
+        "department": "HU71",
+        "code": "ITU2073",
+        "credit": 3,
+        "serial": 1250,
+        "group": "",
+        "quota": {
+            "limit": 30,
+            "additional": 5
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 7,
+                "to": 9,
+                "campus": "本部",
+                "classroom": "科510"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎限大二修習",
+        "form_s": "2",
+        "classes": "2",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "電腦動畫",
+        "teachers": [
+            "張敏捷"
+        ],
+        "department": "HU71",
+        "code": "ITU0043",
+        "credit": 3,
+        "serial": 1251,
+        "group": "",
+        "quota": {
+            "limit": 30,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 16,
+                "to": 11,
+                "campus": "本部",
+                "classroom": "教403"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎限大三修習",
+        "form_s": "3",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "專題製作（一）",
+        "teachers": [
+            "丁玉良",
+            "林坤誼"
+        ],
+        "department": "HU71",
+        "code": "ITU0155",
+        "credit": 1,
+        "serial": 1252,
+        "group": "A",
+        "quota": {
+            "limit": 30,
+            "additional": 0
+        },
+        "schedule": [
+            {
+                "day": 5,
+                "from": 12,
+                "to": 13,
+                "campus": "本部",
+                "classroom": "科401"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎限大三修習",
+        "form_s": "3",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "專題製作（一）",
+        "teachers": [
+            "張敬珣",
+            "孫弘岳",
+            "簡佑宏"
+        ],
+        "department": "HU71",
+        "code": "ITU0155",
+        "credit": 1,
+        "serial": 1253,
+        "group": "B",
+        "quota": {
+            "limit": 30,
+            "additional": 0
+        },
+        "schedule": [
+            {
+                "day": 5,
+                "from": 12,
+                "to": 13,
+                "campus": "本部",
+                "classroom": "科310"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎限大三修習",
+        "form_s": "3",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "專題製作（一）",
+        "teachers": [
+            "林弘昌",
+            "許庭嘉",
+            "曾繁勛"
+        ],
+        "department": "HU71",
+        "code": "ITU0155",
+        "credit": 1,
+        "serial": 1254,
+        "group": "C",
+        "quota": {
+            "limit": 30,
+            "additional": 0
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 13,
+                "to": 13,
+                "campus": "本部",
+                "classroom": "科510"
+            },
+            {
+                "day": 5,
+                "from": 13,
+                "to": 13,
+                "campus": "本部",
+                "classroom": "科510"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎限大三修習",
+        "form_s": "3",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "金屬產品設計與製作",
+        "teachers": [
+            "吳宗曄"
+        ],
+        "department": "HU71",
+        "code": "ITU2057",
+        "credit": 3,
+        "serial": 1255,
+        "group": "",
+        "quota": {
+            "limit": 30,
+            "additional": 18
+        },
+        "schedule": [
+            {
+                "day": 5,
+                "from": 2,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "科310"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎限大三修習◎必須先修過【ITU0001  機械製造】",
+        "form_s": "3",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "產品設計",
+        "teachers": [
+            "簡佑宏"
+        ],
+        "department": "HU71",
+        "code": "ITU2080",
+        "credit": 3,
+        "serial": 1256,
+        "group": "",
+        "quota": {
+            "limit": 30,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 7,
+                "to": 9,
+                "campus": "本部",
+                "classroom": "科310"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎限大三修習",
+        "form_s": "3",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "行動學習與科技",
+        "teachers": [
+            "丁玉良",
+            "曾騰輝"
+        ],
+        "department": "HU71",
+        "code": "ITU2082",
+        "credit": 3,
+        "serial": 1257,
+        "group": "",
+        "quota": {
+            "limit": 30,
+            "additional": 5
+        },
+        "schedule": [
+            {
+                "day": 5,
+                "from": 7,
+                "to": 9,
+                "campus": "本部",
+                "classroom": "科401"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎限大三修習",
+        "form_s": "3",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "生活科技概論",
+        "teachers": [
+            "林坤誼"
+        ],
+        "department": "HU71",
+        "code": "ITU0154",
+        "credit": 3,
+        "serial": 1258,
+        "group": "",
+        "quota": {
+            "limit": 30,
+            "additional": 17
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 7,
+                "to": 9,
+                "campus": "本部",
+                "classroom": "科213"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎限大四修習◎限物理系（學）（含雙主修、輔系）、化學系（學）（含雙主修、輔系）選修",
+        "form_s": "4",
+        "classes": "",
+        "dept_group": ""
+    }
+]

@@ -1,0 +1,82 @@
+{
+    "year": 109,
+    "term": 2,
+    "name": "高等計算機圖學",
+    "teachers": [
+        "張鈞法"
+    ],
+    "department": "SM47",
+    "code": "CSC0049",
+    "credit": 3,
+    "serial": 2727,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 4,
+            "from": 2,
+            "to": 4,
+            "campus": "公館",
+            "classroom": "Ｓ307"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程介紹計算機圖學領域中相關的進階理論和實作，包含光線照明計算、表面材質呈現、及可程式化繪圖處理器之運用。",
+    "goals": [
+        "熟悉全域照明演算法",
+        "實作基本Ray Tracer",
+        "熟悉GPU programming技巧"
+    ],
+    "syllabus": "教學目標 (Goal):\n\nWe will study the global illumination rendering methods that have been used to produce the animation films and movie special effects.\n\n教材內容 (Topics):\n\n\\* Overview and Introduction (1 week)\n\n\\* OpenGL and graphics pipeline (1 weeks)\n\n\\* Ray Tracing and Reflection Models (2 weeks)\n\n\\* Spatial Partitions and Acceleration Structures (2 weeks)\n\n\\* Radiosity (1 week)\n\n\\* Environment Lighting and Indirect Lighting (2 weeks)\n\n\\* Monte Carlo Path Tracing (2 weeks)\n\n\\* Texture Mapping and Projective Geometry (1 week)\n\n\\* Bump Mapping and Displacement Mapping on GPU (1 weeks)\n\n\\* Paper Presentations and Project Demos (2-3 weeks)",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "課堂講述"
+        },
+        {
+            "type": "討論法",
+            "note": ""
+        },
+        {
+            "type": "實驗/實作",
+            "note": ""
+        },
+        {
+            "type": "專題研究",
+            "note": "final project"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 10,
+            "note": ""
+        },
+        {
+            "type": "報告",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "專題",
+            "weight": 30,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

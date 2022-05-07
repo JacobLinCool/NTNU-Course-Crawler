@@ -1,0 +1,66 @@
+{
+    "year": 110,
+    "term": 1,
+    "name": "電機專題製作（一）",
+    "teachers": [
+        "郭建宏"
+    ],
+    "department": "HU75",
+    "code": "AEU0070",
+    "credit": 2,
+    "serial": 1356,
+    "group": "A",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 5,
+            "from": 6,
+            "to": 7,
+            "campus": "本部",
+            "classroom": "電機系電子實驗室"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "3",
+    "classes": "",
+    "dept_group": "",
+    "hours": 2,
+    "description": "訓練學生專題實作能力，提升學生實務技能、培養學生團隊分工合作精神、並藉由競賽來提高學生成品之水準。",
+    "goals": [
+        "檢驗學生的專業知識及實作的能力",
+        "培養學生設計與研發的能力",
+        "使本系之學生在畢業前具備基本的職場實務能力",
+        "培養學生團隊合作與專業倫理之態度，具備國際觀及服務社會之信念"
+    ],
+    "syllabus": "【授課方式：16+2週】\n\nWeek 1: Introduction\n\nWeek 2-7: Weekly discussion with advisor\n\nWeek 8: Week of midterm exam (suspend classes)\n\nWeek 9: Weekly discussion with advisor\n\nWeek 10-14: Weekly reports by students\n\nWeek 15: Weekly discussion with advisor\n\nWeek 16: Week of final exam (suspend classes)\n\nWeek 17: Mid-term report\n\nWeek 18: Weekly discussion with advisor",
+    "methodologies": [
+        {
+            "type": "專題研究",
+            "note": "與指導教授討論專題執行情形與進度"
+        }
+    ],
+    "grading": [
+        {
+            "type": "出席",
+            "weight": 10,
+            "note": "專題報告出席參與情形"
+        },
+        {
+            "type": "報告",
+            "weight": 30,
+            "note": "專題執行期中報告"
+        },
+        {
+            "type": "其他",
+            "weight": 60,
+            "note": "指導教授評分"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

@@ -1,0 +1,85 @@
+{
+    "year": 110,
+    "term": 1,
+    "name": "量尺化方法",
+    "teachers": [
+        "宋曜廷",
+        "周業太"
+    ],
+    "department": "ED01",
+    "code": "PCD0067",
+    "credit": 3,
+    "serial": 345,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 4,
+            "from": 2,
+            "to": 4,
+            "campus": "本部",
+            "classroom": "教600"
+        }
+    ],
+    "programs": [
+        "大數據學程"
+    ],
+    "comment": "",
+    "restrict": "◎課程不開放上修",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程針對心理與教育測驗的評定(rating)、排序(ranking)與配對比較(paired-comparison)等常見題型，說明對應使用的量尺化方法，如Thurstone的配對比較法則，介紹這些方法之演變，並實際運用不同方法分析資料及解讀分析數據。",
+    "goals": [
+        "讓同學具備心理與教育測驗量尺化方法的知識與概念",
+        "讓同學能運用不同量尺化方法分析資料，並解讀分析數據"
+    ],
+    "syllabus": "【授課方式：16+2週】\n\n彈性教學2週之方式為於1～16週間之非課程時間，以數位學習、實作與專題、探究、產業實習、自主學習等方式辦理（不影響正常授課）。\n\n【先備知識】需修習過試題反應理論、線性代數與數理統計\n\n第一週：緒論\n\n第二週：評定量尺之介紹與分析實作(古典測驗理論)\n\n第三週：評定量尺與分析方法(cumulative models)\n\n第四週：評定量尺與分析方法(unfolding models)\n\n第五週：評定量尺之分析實作(試題反應理論)\n\n第六週：電腦適性測驗之介紹\n\n第七週：應用評定量尺之電腦適性測驗\n\n第八週：期中考試\n\n第九週：強迫選擇題型之介紹（format and decision models）\n\n第十週：強迫選擇題型之分析方法(Linear factor analysis models)\n\n第十一週：強迫選擇題型之分析方法(Ideal point models)\n\n第十二週：惟視通用量尺之介紹及其應用\n\n第十三週：惟視通用量尺之分析方法(試題反應理論取向)\n\n第十四週：惟視通用量尺之參數估計算則\n\n第十五週：惟視通用量尺之分析工具\n\n第十六週：期末考試",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "針對不同題型介紹其設計理念，講述不同量尺化方法之發展背景與原理。"
+        },
+        {
+            "type": "問題解決教學",
+            "note": "於課堂中列舉實務上常見之問題，請同學討論如何利用習得的方法解決問題。"
+        },
+        {
+            "type": "實驗/實作",
+            "note": "提供測驗資料供同學實際進行分析，並學習解讀分析數據。"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 20,
+            "note": ""
+        },
+        {
+            "type": "期中考",
+            "weight": 25,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 25,
+            "note": ""
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 20,
+            "note": ""
+        },
+        {
+            "type": "出席",
+            "weight": 10,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

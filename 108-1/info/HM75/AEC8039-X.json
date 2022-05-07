@@ -1,0 +1,89 @@
+{
+    "year": 108,
+    "term": 1,
+    "name": "現代控制系統",
+    "teachers": [
+        "蔣欣翰"
+    ],
+    "department": "HM75",
+    "code": "AEC8039",
+    "credit": 3,
+    "serial": 1204,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 4,
+            "from": 7,
+            "to": 9,
+            "campus": "本部",
+            "classroom": "電機系電子實驗室"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程為訓練學生了解近代時域與頻域最佳控制器之設計，首先回顧古典控制到現代控制的轉換設計，透過系統狀態模型引導出時域頻域分析與系統動態描述的概念，接著介紹線性控制補償設計技術，進而銜接非現性控制器設計的方法，最後會介紹目前學術界所發展的近代控制理論與設計。本課程會搭配上機演練控制器設計與模擬的實驗內容，讓同學們更深入了解如何應用現代控制設計的方法在實際的控制系統所進行的模擬驗證。",
+    "goals": [
+        "瞭解現代控制系統的理論與應用",
+        "能以程式開發現代控制相關控制設計，並據以分析模擬結果",
+        "培養現代控制設計之問題導向的理論思維和實務研究之能力",
+        "提升工程問題理解之能力，並利用現代控制設計方法進行模擬分析及設計以解決各類控制系統實務問題",
+        "以小組方式進行現代控制系統設計之主題式研究，培養團隊合作控制系統開發與實驗模擬之能力"
+    ],
+    "syllabus": "本課程為訓練學生了解近代時域與頻域最佳控制器之設計，首先回顧古典控制到現代控制的轉換設計，透過系統狀態模型引導出時域頻域分析與系統動態描述的概念，接著介紹線性控制補償設計技術，進而銜接非現性控制器設計的方法，最後會介紹目前學術界所發展的近代控制理論與設計。本課程會搭配上機演練控制器設計與模擬的實驗內容，讓同學們更深入了解如何應用現代控制設計的方法在實際的控制系統所進行的模擬驗證。\n\nWeek 1\n\nIntroduction to Modern Control Systems\n\nWeek 2\n\nMathematical Models of Systems\n\nWeek 3\n\nState Variable Models\n\nWeek 4\n\nPerformance of Feedback Control System (I)\n\nWeek 5\n\nPerformance of Feedback Control Systems (II)\n\nWeek 6\n\nStability of Linear Feedback Systems (I)\n\nWeek 7\n\nStability of Linear Feedback Systems (II)\n\nWeek 8\n\nRoot Locus Method\n\nWeek 9\n\nMidterm\n\nWeek 10\n\nFrequency Response Methods\n\nWeek 11\n\nStability in the Frequency Domain\n\nWeek 12\n\nDesign of Feedback Control Systems (I)\n\nWeek 13\n\nDesign of Feedback Control Systems (II)\n\nWeek 14\n\nDesign of State Variable Feedback Systems (I)\n\nWeek 15\n\nDesign of State Variable Feedback Systems (II)\n\nWeek 16\n\nRobust Control Systems (I)\n\nWeek 17\n\nRobust Control Systems (II)\n\nWeek 18\n\nFinal",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "介紹現代控制系統設計與開發技術"
+        },
+        {
+            "type": "合作學習",
+            "note": "以分組合作方式進行實驗及報告撰寫"
+        },
+        {
+            "type": "實驗/實作",
+            "note": "使用Matlab程式設計進行實驗實作"
+        },
+        {
+            "type": "專題研究",
+            "note": "以期末專題方式進行控制統設計與實驗測試"
+        }
+    ],
+    "grading": [
+        {
+            "type": "期中考",
+            "weight": 25,
+            "note": "期中課程進度筆試測驗"
+        },
+        {
+            "type": "期末考",
+            "weight": 25,
+            "note": "期末課程進度筆試測驗"
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 10,
+            "note": "參與分組討論及口頭報告"
+        },
+        {
+            "type": "報告",
+            "weight": 20,
+            "note": "實驗操作及結果撰寫報告"
+        },
+        {
+            "type": "專題",
+            "weight": 20,
+            "note": "應用課程內容完成期末專題"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

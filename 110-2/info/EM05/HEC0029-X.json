@@ -1,0 +1,77 @@
+{
+    "year": 110,
+    "term": 2,
+    "name": "衛生統計與實驗設計",
+    "teachers": [
+        "李子奇"
+    ],
+    "department": "EM05",
+    "code": "HEC0029",
+    "credit": 2,
+    "serial": 431,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 8,
+            "to": 9,
+            "campus": "本部",
+            "classroom": "誠602"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 2,
+    "description": "1.學習實驗設計研究方法。\n2.學習用於各種實驗設計研究方法的統計模型。\n3.閱讀與討論各種實驗設計研究的英文文獻。",
+    "goals": [
+        "學習實驗設計的研究方法",
+        "學習用於各種實驗設計研究方法的統計模型。",
+        "閱讀與討論各種實驗設計研究的英文文獻。"
+    ],
+    "syllabus": "一、學習目標：\n\n1.學習衛生統計指標及標準化率計算方法。  \n2.學習用於各種實驗與統行病學研究方法的統計模型。  \n3.閱讀與討論流行病學研究英文文獻。\n\n二、課程內容(上課進度將依據課程安排情況做適度調整)：\n\n1 課程介紹  Introduction  \n2 衛生統計常用的統計量 Measures in health statistics  \n3 直接與間接標準化率 Directly and indirectly standardized rate  \n4 隨機臨床實驗 Randomized clinical trial  \n5 重複測量設計、線性混合模型與GEE Repeated measures design, linear mixed model and GEE analysis  \n6 專題報告(一)   Seminar (I)  \n7 期中考週 Mid-term Examination  \n8配對設計Matched design  \n9 病例對照研究 Case-control study  \n10 邏輯斯迴歸分析 Logistic regression  \n11 專題報告(二) Seminar (II)  \n12 世代研究 Cohort study  \n13存活分析 Survival data analysis  \n14 專題報告(三) Seminar (III)  \n15 相關性與因果關係的推論 Inference of correlation and causality  \n16 期末考週 Final-term Examination  \n17自主學習與問題討論 Self-learning, Q & A  \n18自主學習與問題討論 Self-learning, Q & A",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": ""
+        },
+        {
+            "type": "合作學習",
+            "note": ""
+        },
+        {
+            "type": "實驗/實作",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 80,
+            "note": "書面報告"
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 10,
+            "note": ""
+        },
+        {
+            "type": "出席",
+            "weight": 10,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

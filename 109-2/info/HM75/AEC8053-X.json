@@ -1,0 +1,76 @@
+{
+    "year": 109,
+    "term": 2,
+    "name": "可變結構控制",
+    "teachers": [
+        "洪欽銘"
+    ],
+    "department": "HM75",
+    "code": "AEC8053",
+    "credit": 3,
+    "serial": 1159,
+    "group": "",
+    "quota": {
+        "limit": 30,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 5,
+            "from": 3,
+            "to": 5,
+            "campus": "本部",
+            "classroom": "電機系4F會議室"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "Variable structure control has gained a lot of attentions in recent years for its insensitivity to system parameter variations and external disturbance once the system trajectory reaches the sliding mode. This course takes students through the basic concepts, covering the most recent research in sliding mode control. Topics covered here include basic principle of sliding mode control and introductions to various sliding mode controllers. Moreover, the practical sliding mode controller design for industrial applications will also be given in the course.",
+    "goals": [
+        "了解可變結構控制原理與特性",
+        "學習新型可變結構控制理論",
+        "學習以可變結構控制方法實現非線性控制器",
+        "學習可變結構控制模擬與分析方法"
+    ],
+    "syllabus": "Lecture schedule:\n\nWeeks 1~2      Basic concept of variable structure control\n\nWeeks 3~4      Sliding mode control principle\n\nWeek  5           Selection of sliding function\n\nWeeks 6~7      Design of sliding mode controller\n\nWeek 8            Midterm exam\n\nWeeks 9~10    Design of equal excursion sliding regime\n\nWeeks 11~12  Design of sinusoidal oscillator using VSC\n\nWeeks 13~14  Intelligent sliding mode control\n\nWeeks 15~16  Sliding mode control of DC motor\n\nWeek 17          Final report         \n\nWeek 18          Remedial instruction",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "講解可變結構控制之原理與特性，並介紹各種新型態之可變結構控制方法與應用。同時，讓同學實際進行控制器設計，並以模擬分析之方式了解其控制特性與優勢。"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "期中考",
+            "weight": 20,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 20,
+            "note": ""
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 10,
+            "note": ""
+        },
+        {
+            "type": "報告",
+            "weight": 20,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

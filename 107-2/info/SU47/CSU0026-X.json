@@ -1,0 +1,64 @@
+{
+    "year": 107,
+    "term": 2,
+    "name": "數理統計",
+    "teachers": [
+        "蔡榮宗"
+    ],
+    "department": "SU47",
+    "code": "CSU0026",
+    "credit": 3,
+    "serial": 2953,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 5,
+            "from": 2,
+            "to": 4,
+            "campus": "公館",
+            "classroom": "理圖003"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "2",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程涵蓋數理統計的基礎理論與實際應用，將著重於抽樣方法與分佈、統計資料呈現與整理、模擬、信賴區間、假設檢定、線性回歸、多變量資料分析等主題。課程之前半部強調背景知識的建立，而後半部著重理論的整合與應用，以使修課同學能夠從多方面了解數理統計。",
+    "goals": [
+        "能了解數理統計的基礎理論",
+        "能將統計應用在各種研究領域"
+    ],
+    "syllabus": "The class is scheduled to present a solid foundation in statistical theory while providing an indication of the relevance and importance of the theory in solving practical problems in the real world.\n\n \n\n1.     What is Statistics?, Probability, Random variables and Probability distributions\n\n2.     Multivariable probability distributions, Functions of random variables\n\n3.     Sampling distributions and Central limit theorem\n\n4.     Estimation\n\n5.     Properties of Point Estimators and Methods of Estimation\n\n6.     Hypothesis Testing\n\n7.     Linear Models and Estimation by Least Squares\n\n8.     …, the analysis of variance, …",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "期中考",
+            "weight": 35,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 35,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

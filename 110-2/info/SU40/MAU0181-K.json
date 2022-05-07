@@ -1,0 +1,80 @@
+{
+    "year": 110,
+    "term": 2,
+    "name": "微積分乙（二）",
+    "teachers": [
+        "蔡天鉞"
+    ],
+    "department": "SU40",
+    "code": "MAU0181",
+    "credit": 3,
+    "serial": 2712,
+    "group": "K",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 1,
+            "from": 6,
+            "to": 8,
+            "campus": "校外",
+            "classroom": "教室自排"
+        }
+    ],
+    "programs": [],
+    "comment": "本課程於師大附中上課，並搭配高中開學日，修課學生僅能透過人工選課或授權碼選課。",
+    "restrict": "◎第一階段需人工加選◎第二階段需人工加選◎加退選階段需人工加選◎必須先修過【MAU0180  微積分乙（一）】 ◎課程開放上修",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "",
+    "goals": [
+        "Improve understanding of basic concepts of mathematical analysis",
+        "Improve the ability of logical reasoning and induction",
+        "Improve mathematical and critical thinking skills",
+        "Enhance professional knowledge and attitude towards truth"
+    ],
+    "syllabus": "一、無窮級數 (2週)\n\n(1) 級數的意義及其斂散性質\n\n(2) 冪級數、Taylor級數、Maclaurin級數\n\n二、向量值函數 (3週)\n\n(1) 平面曲線、參數方程式\n\n(2) 極坐標、圓柱坐標、球面坐標\n\n(3) 向量值函數的微積分 (切向量、法向量、弧長及曲率)\n\n三、多變數函數的微分 (5週)\n\n(1) 多變數函數的極限與連續\n\n(2) 偏導數\n\n(3) 方向導數與梯度 (多變數函數的鏈鎖法則)\n\n(4) 切平面與法平面\n\n(5) 多變數函數的極值 (Lagrange 乘子法、最小平方法)\n\n四、多變數函數的積分 (6週)\n\n(1) 二重積分的意義與應用\n\n(2) 二重積分的計算   (極坐標變數代換法、Fubini定理)\n\n(3) 線積分及其應用\n\n(4) 曲面積分及其應用\n\n(5) Green定理及其應用",
+    "methodologies": [
+        {
+            "type": "Formal lecture",
+            "note": "以上課講授為主，並輔以習題研討。"
+        },
+        {
+            "type": "Problem base learning",
+            "note": "每週排定習演和討論時間。"
+        }
+    ],
+    "grading": [
+        {
+            "type": "Assignments",
+            "weight": 10,
+            "note": "隨堂指定之習題。"
+        },
+        {
+            "type": "Midterm Exam",
+            "weight": 30,
+            "note": "命題形式包括名詞解釋、問答題與計算題。"
+        },
+        {
+            "type": "Final exam",
+            "weight": 30,
+            "note": "命題形式包括名詞解釋、問答題與計算題。"
+        },
+        {
+            "type": "Attendances",
+            "weight": 10,
+            "note": "上課點名。"
+        },
+        {
+            "type": "other:",
+            "weight": 20,
+            "note": "命題形式包括名詞解釋、問答題與計算題。"
+        }
+    ],
+    "prerequisite": "◎First phase of courses enrollment: Course enrollment by manual◎Second phase of courses enrollment: Course enrollment by manual◎Add/Drop period: Course enrollment by manualPrerequisite course: 【MAU0180  Calculus B (I)】 ◎Available for junior and senior year B.A. program students (Doctoral program courses excepted) and M.A. program students.",
+    "general_core": []
+}

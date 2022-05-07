@@ -1,0 +1,86 @@
+{
+    "year": 110,
+    "term": 1,
+    "name": "基礎設計（一）",
+    "teachers": [
+        "蘇瀚"
+    ],
+    "department": "TU68",
+    "code": "VDU0070",
+    "credit": 3,
+    "serial": 3215,
+    "group": "B",
+    "quota": {
+        "limit": 30,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 1,
+            "from": 7,
+            "to": 9,
+            "campus": "本部",
+            "classroom": "設計系2B教室"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "1",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程為基礎設計課程，由工作坊形式(workshop)為引導學生藉由草圖、比例模型、基本造型進行設計思考發想(design thinking)、小組討論(group discussion)、動手製作(making)的實體物件與作品發表(presentation)，培養學生了解基本創作思考與設計流程的認識；了解造形形式原理與構成組織方法，以培養造形創作表現的基礎能力。",
+    "goals": [
+        "Cultivate the basic concepts and literacy students need to have in design profession.",
+        "Improve students' judgment and aesthetic value in visual observation.",
+        "Enable students to have a wide range of relevant knowledge and comprehensive abilities of creating more ideal life by design.",
+        "Understand how design can potentially improve human life by incorporating the new technologies for the future."
+    ],
+    "syllabus": "### **\\*\\*欲加選的同學，請於第一週來課堂旁聽了解課程(視訊)，與我討論之後視選課人數彈性開放加選。\\*\\***\n\n本學期課程包三個單元三次發表：\n\n發表一P1 cube 由平面草圖發展至立體，以立方體模型訓練對於虛實空間以及量體比例的構成能力。\n\n發表二P2 異材質cube則在立方體空間表現的加入異材質的質感(texture)與色彩的變化表現，藉此訓練選擇材料、色彩質感(CMF)與立體造型的能力。\n\n發表三 P3光影裝置除了訓練本體造型設計與材質選擇，同時也加入了對光線的觀察與營造、基本電路裝置的處理，藉此提高同學整合設計執行能力。期末以分工合作方式將作品集結成包含展場規畫、視覺與作品集完整的展覽。\n\n第1週  課程說明/ p1 cube概念展開與繪圖\n\n第2週  平面轉立體造型設計 (討論)\n\n第3週  立體造型繪圖\n\n第4週  模型製作 (討論)\n\n第5週  發表一 P1 cube 發表\n\n第6週  p2材料收集與製作材料版\n\n第7週  造型重組與加工實驗(討論)\n\n第8週  模型製作 (討論)\n\n第9週  發表二P2異材質cube發表\n\n第10週  P3光影裝置光影裝置概念展開與繪圖\n\n第11週  材質與光線實驗(討論)\n\n第12週  情境安排本體造型(討論)\n\n第13週  空間安排與結構檢討\n\n第14週  發表三P3光影裝置發表發表\n\n第15週  作品檢討與討論與作品製作\n\n第16週  作品展覽與繳交期末作品集(設計製作過程紀錄)\n\n第17週  彈性教學 (展覽參訪)\n\n第18週  彈性教學 (設計品分享)",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "透過圖片與影片講授(Lecture)知識與實際示範操作講述基礎模型製作相關知識。"
+        },
+        {
+            "type": "討論法",
+            "note": "以小組討論形式要求學生表達想法與討論。"
+        },
+        {
+            "type": "問題解決教學",
+            "note": "發表後要求學生互相提出問題以及針對自己作品問題提出改善方案。"
+        },
+        {
+            "type": "合作學習",
+            "note": "全班共同合作，安排設計期末展覽與作品集。"
+        },
+        {
+            "type": "實驗/實作",
+            "note": "於課堂中實際進行模型製作與機具操作。"
+        },
+        {
+            "type": "專題研究",
+            "note": "造型發展與研究"
+        }
+    ],
+    "grading": [
+        {
+            "type": "出席",
+            "weight": 20,
+            "note": "出席率與討論狀況"
+        },
+        {
+            "type": "報告",
+            "weight": 60,
+            "note": "每次發表占20% (總計60%)"
+        },
+        {
+            "type": "成果展覽",
+            "weight": 20,
+            "note": "期末展覽與作品集各占 10%(總計20%)"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

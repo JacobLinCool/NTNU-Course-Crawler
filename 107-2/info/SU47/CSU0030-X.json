@@ -1,0 +1,72 @@
+{
+    "year": 107,
+    "term": 2,
+    "name": "進階程式設計",
+    "teachers": [
+        "蔣宗哲"
+    ],
+    "department": "SU47",
+    "code": "CSU0030",
+    "credit": 3,
+    "serial": 2955,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 5,
+            "from": 7,
+            "to": 9,
+            "campus": "公館",
+            "classroom": "理圖807"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "3",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程旨在培養學生撰寫簡潔、易讀且高效率 C++ 程式之能力，並深入了解 C++ 程式語言之特色。課程中首先回顧程式設計(一)(二) 課程中較困難的部份（如指標），接著利用編程法則講授良好的編程風格，並進入C++ 語言較高階的主題，如建構/解構、繼承、多型、樣板等等。",
+    "goals": [
+        "能深入了解C++程式語言之特色並撰寫簡潔、易讀、高效率之程式。"
+    ],
+    "syllabus": "本課程將講授 C++ 程式設計，課程進度如下：\n\nWeek 1-2: Warm-up & Review  \nWeek 3-4: Class Design  \nWeek 5: Coding Style  \nWeek 6: Operator Overloading  \nWeek 7-9: Function Pointers, Function Templates, and Algorithms  \nWeek 10: std::string  \nWeek 11-13: Constructors, Destructors, and Assignment  \nWeek 14-16: Inheritance  \n(春節和端午節各放假一次)",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "實驗/實作",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 55,
+            "note": ""
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 20,
+            "note": ""
+        },
+        {
+            "type": "出席",
+            "weight": 5,
+            "note": ""
+        },
+        {
+            "type": "其他",
+            "weight": 20,
+            "note": "小考"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

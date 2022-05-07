@@ -1,0 +1,73 @@
+{
+    "year": 110,
+    "term": 2,
+    "name": "自然科學探究與實作",
+    "teachers": [
+        "葉庭光"
+    ],
+    "department": "SU44",
+    "code": "ESC9048",
+    "credit": 2,
+    "serial": 2930,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 5,
+            "from": 3,
+            "to": 4,
+            "campus": "公館",
+            "classroom": "Ｓ505"
+        }
+    ],
+    "programs": [],
+    "comment": "中階以上教育課程，適合大三以上修習教育學程之學生修習。",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "9",
+    "dept_group": "",
+    "hours": 2,
+    "description": "探究與實作是培育未來公民理解科學本質、獲得探究能力、養成對科學學習正向態度的重要途徑。本課程的目標在培養師資生具有自然科學探究與實作知能。課程分為2個階段：在第一階段中，學生將在老師的引導下，透過探究的歷程，執行科學實作活動。透過這個活動體會並學習客觀觀察、科學探究、以及交流討論。在第二階段中，同學們將分組進行獨立實作探究。為了促進實作探究的發生、提升學生的跨域統整能力以及創造力，實作探究的主題將以包含地球科學、生物、物理、化學的跨科概念為主。",
+    "goals": [
+        "透過實作探究，解決問題。",
+        "統整地球科學、生物、物理、化學的領域知識與技能，應用於實作探究活動。",
+        "提升合作探究與實作的能力。"
+    ],
+    "syllabus": "【16+2週】2周次為彈性補充教學，預期會彈性進行戶外探究活動\n\n第1週  課程介紹\n\n第2週  108課綱「探究與實作」解讀\n\n第3週  科學探究實作本質\n\n第4週  統計與研究法(一)\n\n第5週  統計與研究法(二)\n\n第6週  統計與研究法(三)\n\n第7週  提問--如何提出一個好問題\n\n第8週  研究工具的選擇--信度與效度\n\n第9週  研究結果分析\n\n第10週 探究活動設計與評量規劃\n\n第11週 探究活動所需要具備的知識與能力\n\n第12週 如何培養中學生探究活動的知識與能力\n\n第13週 規劃適合中學生的探究活動\n\n第14週 成果發表與討論分享\n\n第15週 成果發表與討論分享\n\n第16週 成果發表與討論分享",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "講述108課綱「探究與實作」內涵、說明探究活動設計重點以及評量方法Lecture the content of 12-year Basic Education Curriculum Guidelines, science inquiry and practical work, and multiple evaluation approaches."
+        },
+        {
+            "type": "合作學習",
+            "note": "分組合作進行探究實作Working on practical project in cooperative group activities"
+        },
+        {
+            "type": "實驗/實作",
+            "note": "運用跨領域知識、技能、與儀器解決問題Solving problems via interdisciplinary knowledge, skills, and instruments"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 30,
+            "note": "組織能力、表達能力。\nOrganizational/Pragmatic/Communicate competences"
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 30,
+            "note": "探究、問題解決歷程表現。\nPerformance in inquiry and problem solving process"
+        },
+        {
+            "type": "成果展覽",
+            "weight": 40,
+            "note": "探究能力、探究實作成果\nPerformance in inquiry competences\nPerformance of practical work"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

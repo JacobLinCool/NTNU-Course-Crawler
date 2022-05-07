@@ -1,0 +1,101 @@
+[
+    {
+        "year": 110,
+        "term": 2,
+        "name": "專題討論",
+        "teachers": [
+            "陳冬生",
+            "李冠群"
+        ],
+        "department": "SM52",
+        "code": "BPM0001",
+        "credit": 2,
+        "serial": 2708,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 5,
+                "from": 3,
+                "to": 4,
+                "campus": "公館",
+                "classroom": "F212"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "允許重複修 ◎課程不開放上修",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 2,
+        "name": "生醫產業研發管理",
+        "teachers": [
+            "陳冬生"
+        ],
+        "department": "SM52",
+        "code": "BPM0004",
+        "credit": 3,
+        "serial": 2709,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 7,
+                "to": 9,
+                "campus": "公館",
+                "classroom": "F212"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎課程不開放上修",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 2,
+        "name": "生技醫藥產業特論",
+        "teachers": [
+            "吳忠信",
+            "李威著",
+            "莊武璋"
+        ],
+        "department": "SM52",
+        "code": "BPM0005",
+        "credit": 3,
+        "serial": 2710,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 5,
+                "from": 10,
+                "to": 12,
+                "campus": "公館",
+                "classroom": "Ｓ407"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎課程不開放上修",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    }
+]

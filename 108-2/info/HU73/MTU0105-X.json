@@ -1,0 +1,79 @@
+{
+    "year": 108,
+    "term": 2,
+    "name": "機械設計",
+    "teachers": [
+        "陳俊達"
+    ],
+    "department": "HU73",
+    "code": "MTU0105",
+    "credit": 3,
+    "serial": 1234,
+    "group": "",
+    "quota": {
+        "limit": 60,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 4,
+            "from": 2,
+            "to": 4,
+            "campus": "本部",
+            "classroom": "工501"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "3",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "機械設計講述機械系統各主要元件設計概念，設計程序與分析技術。課程中說明機械元件包括皮帶與鏈條，正齒輪，斜齒輪，渦桿與渦輪，插銷，軸承，焊接，彈簧，螺絲與軸系設計分析。透過課堂說明與範例演算，學生將可學習到機械元件設計基本設計概念與分析技術，達到安全與經濟設計要求。",
+    "goals": [
+        "瞭解機械元件設計概念與程序。",
+        "熟悉各種材料之特性與選用。",
+        "使學生具備元件支應力與變形分析。",
+        "使學生具備材料破壞模式分析與安全設計要點。"
+    ],
+    "syllabus": "第 1 週 Introduction\n\n第 2 週 Fatigue\n\n第 3 週 Design of Shafts in Steady Torsion\n\n第 4 週 Design of Shafts Fluctuating and Shock Loads \n\n第 5 週 Mounting parts of Shafs \n\n第 6 週 Hydodynamic Lubrication \n\n第 7 週 Journal and Rolling Bearings \n\n第 8 週 Spur Gears\n\n第 9 週 期中考\n\n第 10 週 Bevel gears\n\n第 11 週 Gear Trains & Design of Spur Gears \n\n第 12 週 Helical Gears \n\n第 13 週 Bevel Gears \n\n第 14 週 Worm Gears \n\n第 15 週 Belts\n\n第 16 週 期末考\n\n第 17 週 term project\n\n第 18 週 term project",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "講述機械設計原理與機械元件使用"
+        },
+        {
+            "type": "討論法",
+            "note": "課堂隨機討論"
+        },
+        {
+            "type": "專題研究",
+            "note": "分組合作完成機械設計相關之期末專題計畫"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 25,
+            "note": ""
+        },
+        {
+            "type": "期中考",
+            "weight": 25,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 25,
+            "note": ""
+        },
+        {
+            "type": "專題",
+            "weight": 25,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

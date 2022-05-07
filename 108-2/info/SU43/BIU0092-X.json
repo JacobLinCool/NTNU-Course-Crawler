@@ -1,0 +1,96 @@
+{
+    "year": 108,
+    "term": 2,
+    "name": "生物統計學",
+    "teachers": [
+        "李佩珍"
+    ],
+    "department": "SU43",
+    "code": "BIU0092",
+    "credit": 3,
+    "serial": 2847,
+    "group": "",
+    "quota": {
+        "limit": 35,
+        "additional": 12
+    },
+    "schedule": [
+        {
+            "day": 4,
+            "from": 2,
+            "to": 4,
+            "campus": "公館",
+            "classroom": "理圖801"
+        }
+    ],
+    "programs": [
+        "空間學程"
+    ],
+    "comment": "",
+    "restrict": "",
+    "form_s": "3",
+    "classes": "2",
+    "dept_group": "",
+    "hours": 3,
+    "description": "This course is designed to introduce undergraduate students to the basic concepts and modern applications of statistical methods commonly used in biological and ecological studies.",
+    "goals": [
+        "Introduce to students the fundamental concepts and methods in modern biometry.",
+        "Develop students’ analytic ability and scientific attitudes towards hypothesis testing.",
+        "Provide trainings to students in scientific graphing and statistics software."
+    ],
+    "syllabus": "本課程介紹當代生物統計的基礎概念與常用檢定。  \n  \n教科書: Glover, T. & Mitchell, K. 2016. An Introduction to Biostatistics. 3rd Edition. Waveland Press Inc. Long Grove, Illinois, USA.  \n  \n統計軟體: R\n\n第一週以R軟體進行資料分析入門\n\n第二週以R軟體進行科學繪圖入門\n\n第三週機率分佈\n\n第四週樣本機率分佈\n\n第五週假說檢定\n\n第六週t檢定\n\n第七週期中考\n\n第八週變異分析\n\n第九週雙因子變異分析\n\n第十週線性迴歸\n\n第十一週相關性分析\n\n第十二週卡分適合度檢定\n\n第十三週期末考\n\n第十四週概念複習與個案示範\n\n第十五週期末報分組報告\n\n\\*本學期課程包含三週自主學習：學生以1-4人為一組，利用開放性生物學資料或個人一手生物學資料，提出科學問題、設計檢說與統計檢定、進行資料分析並於期末最後一週做口頭簡報。",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "Lectures on the core concepts"
+        },
+        {
+            "type": "討論法",
+            "note": "Class discussions on real-world applications"
+        },
+        {
+            "type": "問題解決教學",
+            "note": "Performining statistical analyses and graphic presentations using sample data sets"
+        },
+        {
+            "type": "合作學習",
+            "note": "Group presentations"
+        },
+        {
+            "type": "實驗/實作",
+            "note": "Labratory exercises using software R"
+        },
+        {
+            "type": "媒體融入教學",
+            "note": "Powerpoint slides, videos and online simulation tools"
+        },
+        {
+            "type": "專題研究",
+            "note": "Final group project"
+        }
+    ],
+    "grading": [
+        {
+            "type": "期中考",
+            "weight": 25,
+            "note": "具備運用生命科學相關研究方法與技術的能力"
+        },
+        {
+            "type": "期末考",
+            "weight": 25,
+            "note": "具備運用生命科學相關研究方法與技術的能力"
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 25,
+            "note": "具備正確的科學態度，能主動探索生命科學之相關議題，並瞭解遵守科學倫理之重要性"
+        },
+        {
+            "type": "報告",
+            "weight": 25,
+            "note": "具備運用生命科學相關研究方法與技術的能力；具備正確的科學態度，能主動探索生命科學之相關議題，並瞭解遵守科學倫理之重要性；具備以多元表徵轉化生命科學概念之溝通與表達能力"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

@@ -1,0 +1,87 @@
+{
+    "year": 110,
+    "term": 2,
+    "name": "全球運籌管理",
+    "teachers": [
+        "周世玉"
+    ],
+    "department": "OM56",
+    "code": "IAM0042",
+    "credit": 3,
+    "serial": 2417,
+    "group": "",
+    "quota": {
+        "limit": 36,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 5,
+            "from": 2,
+            "to": 4,
+            "campus": "本部",
+            "classroom": "雲508"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程不開放上修",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "This course teaches students the related issues associated with the strategies and planning of global logistics and operations. Students will be able to describe and explain fundamentals of global operation and logistics strategies, global operations and logistics planning, and effective management of global operations and logistics.",
+    "goals": [
+        "分析全球運籌環境",
+        "規劃全球運籌策略",
+        "管理全球運籌作業"
+    ],
+    "syllabus": "**【授課方式：16+2週】**\n\n1.  Introduction (1 week)\n2.  Supply Chain Strategies (1 week)\n3.  Logistics Service Providers (1 week)\n4.  Procurement and Outsourcing (1 week)\n5.  Inventory Management (2 weeks)\n6.  Warehousing and Materials Management (1 week)\n7.  Transport in Supply Chains (1 week)\n8.  Information Flows and Technology (1 week)\n9.  Measuring and Managing Logistics Performance (1 week)\n10.  Sustainable Logistics and Supply Chain Systems (1 week)\n11.  Supplier Network Development (1week)\n12.  Article presentation (3 weeks)\n13.  Term project presentation (1 week)\n\n[教學進度與主題附件](https://ap.itc.ntnu.edu.tw/NtnuFileShare/file.do?action=dl&gno=378385b6e0754fd29796bf6d463e1985&fno=0adad69cb5bf4885ba82bdb0f20048fe)",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "每次授課先由教師講述該次單元主要內容"
+        },
+        {
+            "type": "討論法",
+            "note": "分為每次授課間討論、期刊論文報告討論、個案討論"
+        },
+        {
+            "type": "合作學習",
+            "note": "分組進行期末專題研究、撰寫報告、口頭報告"
+        },
+        {
+            "type": "專題研究",
+            "note": "分組進行期末專題研究"
+        }
+    ],
+    "grading": [
+        {
+            "type": "課堂討論參與",
+            "weight": 10,
+            "note": "class participation and discussion"
+        },
+        {
+            "type": "出席",
+            "weight": 10,
+            "note": "attendance"
+        },
+        {
+            "type": "報告",
+            "weight": 30,
+            "note": "Journal paper reading and presentation"
+        },
+        {
+            "type": "專題",
+            "weight": 30,
+            "note": "Term Project (oral: 15%, written 15%)"
+        },
+        {
+            "type": "其他",
+            "weight": 20,
+            "note": "Self-learning evaluation: 20% (17th &18th week)"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

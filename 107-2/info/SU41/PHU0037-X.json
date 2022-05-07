@@ -1,0 +1,92 @@
+{
+    "year": 107,
+    "term": 2,
+    "name": "熱力統計學",
+    "teachers": [
+        "蔡志申"
+    ],
+    "department": "SU41",
+    "code": "PHU0037",
+    "credit": 3,
+    "serial": 2815,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 5,
+            "from": 2,
+            "to": 4,
+            "campus": "公館",
+            "classroom": "Ｅ102"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "3",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "Thermodynamics deals with equilibrium systems composed of very large numbers of particles/molecules. However, even without knowing the molecular nature of matter, classical thermodynamics has given a general relationship among the state variables such as pressure, temperature, and volume, i.e., equations of state. Statistical thermodynamics, on the other hand, take a step further by acknowledging the existence of molecules. Given a detailed molecular model and a statistical principle for the system of interest, statistical thermodynamics yields the equations of state that can describe the equilibrium property of the system in detail. In this sense, statistical thermodynamics can provide more detailed information about a specific system than classical thermodynamics does.",
+    "goals": [
+        "複習古典熱力學",
+        "學習統計數學",
+        "學習各種統計物理模型"
+    ],
+    "syllabus": "第1-2 週  氣體動力論\n\n第3 週  熱力統計概要介紹\n\n第4 週  古典統計與量子統計解析\n\n第5 週  期中考I +古典統計與理想氣體\n\n第6-7 週  古典統計與理想氣體\n\n第8週 雙原子氣體的熱容\n\n第9-10 週  固體熱容\n\n第11 週   期中考II +磁性材料熱力統計\n\n第12 週 磁性材料熱力統計\n\n第13 週  Bose-Einstein氣體介紹\n\n第14週  Fermi-Dirac氣體介紹\n\n第15週  期末報告+ Fermi-Dirac氣體介紹\n\n第16週  期末報告\n\n第17週  資訊理論概述\n\n第18週  期末考",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "對各主題進行內容概述"
+        },
+        {
+            "type": "討論法",
+            "note": ""
+        },
+        {
+            "type": "問題解決教學",
+            "note": ""
+        },
+        {
+            "type": "合作學習",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 10,
+            "note": ""
+        },
+        {
+            "type": "期中考",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 5,
+            "note": "本課程重視課堂討論參與"
+        },
+        {
+            "type": "出席",
+            "weight": 10,
+            "note": "本課程重視課堂參與、不得無故缺席"
+        },
+        {
+            "type": "報告",
+            "weight": 15,
+            "note": "期初學生就熱力統計相關題材選定，期末學生提出書面報告，並進行口語報告"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

@@ -1,0 +1,82 @@
+{
+    "year": 107,
+    "term": 1,
+    "name": "生物哲學導論",
+    "teachers": [
+        "林陳涌"
+    ],
+    "department": "GU",
+    "code": "02UG015",
+    "credit": 2,
+    "serial": 934,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 4,
+            "from": 8,
+            "to": 9,
+            "campus": "公館",
+            "classroom": "Ｅ101"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 2,
+    "description": "介紹生物哲學的重要議題，探討生命科學與物質科學的異同，應用生物哲學到社會議題的討論。",
+    "goals": [
+        "釐清生物科學與物質科學的異同",
+        "介紹生物哲學重要議題",
+        "探討生物哲學應用的案例"
+    ],
+    "syllabus": "09/13\n\n課程介紹\n\n09/20\n\n哲學教育簡介\n\n09/27\n\n生命與物質：生機論、機械論\n\n10/04\n\n生物與物質：有機生物論\n\n10/11\n\n本質主義 vs. 族群觀點\n\n10/18\n\n生物的組成：階層\n\n10/25\n\n化約主義 vs. 突顯\n\n11/01\n\n物質科學 vs. 生命科學\n\n11/08\n\n知識論：理性主義 vs. 經驗主義\n\n11/15\n\n科學方法：歸納、演譯、假設演譯\n\n11/22\n\n因果關係\n\n11/29\n\n決定論\n\n12/06\n\n目的論\n\n12/13\n\n目的論\n\n12/20\n\n<<小組研究報告>>\n\n12/27\n\n<<小組研究報告>>\n\n01/03\n\n<<小組研究報告>>\n\n01/10\n\n**期末考**",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "教師依照教科書內容講述"
+        },
+        {
+            "type": "討論法",
+            "note": "依照主題設計題目供課堂討論"
+        },
+        {
+            "type": "合作學習",
+            "note": "分組執行研究"
+        },
+        {
+            "type": "專題研究",
+            "note": "自選題目進行研究與報告"
+        }
+    ],
+    "grading": [
+        {
+            "type": "期末考",
+            "weight": 40,
+            "note": ""
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 10,
+            "note": ""
+        },
+        {
+            "type": "出席",
+            "weight": 10,
+            "note": ""
+        },
+        {
+            "type": "報告",
+            "weight": 40,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

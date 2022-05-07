@@ -1,0 +1,77 @@
+{
+    "year": 108,
+    "term": 2,
+    "name": "電磁學（二）",
+    "teachers": [
+        "蕭惠心"
+    ],
+    "department": "HU77",
+    "code": "OEU0006",
+    "credit": 3,
+    "serial": 1267,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 3,
+            "from": 7,
+            "to": 9,
+            "campus": "公館",
+            "classroom": "綜合館002"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "2",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程是電磁學(一)的延續課程，將探討電磁波在不同環境(不同介質)下的傳遞行為，透過理論的學習以及應用範例，讓學生能了解期現象與原理。本課程將對於後續光電相關專業領域科目，提供基本的立論基礎。",
+    "goals": [
+        "由Maxwell方程式出發，更加深入地探討平面電磁波在不同介質中的傳遞行為",
+        "探討波導與光纖的原理與應用實例"
+    ],
+    "syllabus": "本課程著重電磁學基礎理論的建立，內容包含馬克斯威爾方程式、電磁波、電磁波與物質的交互作用、電偶極與磁偶極輻射等，期讓同學有足夠的能力修習進階電磁學相關課程，對往後諸多理論及應用課程的研習有所助益，並具備將來所預從事研究工作或深造之能力。\n\n3月4日\n\nIntroduction/group/exercise\n\n3月11日\n\nMagnetostatics\n\n3月18日\n\nMagnetostatics\n\n3月25 日\n\nMagnetic fields in matter\n\n4月1日\n\nMagnetic fields in matter\n\n4月8日\n\nElectromotive force and emf\n\n4月15日\n\nElectromagnetic Inductance\n\n4月22日\n\nMaxwell's Equations\n\n4月29日\n\nBoundary conditions and Poynting’s Theorem\n\n5月6日\n\nMidterm exam\n\n5月13日\n\nElectromanetic waves and Polarization of Light\n\n5月20日\n\nElectromanetic waves and Polarization of Light\n\n5月27日\n\nReflection/Refraction\n\n6月3日\n\nMaterial Dispersion\n\n6月10日\n\nPotentials and fields\n\n6月17日\n\nFinal exam\n\n6月24日 & 7月1日  自主學習範疇 Radiation",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": ""
+        },
+        {
+            "type": "媒體融入教學",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 15,
+            "note": ""
+        },
+        {
+            "type": "期中考",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "報告",
+            "weight": 25,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

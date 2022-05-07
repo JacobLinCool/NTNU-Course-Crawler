@@ -1,0 +1,83 @@
+{
+    "year": 110,
+    "term": 2,
+    "name": "互動與行動媒體應用研究",
+    "teachers": [
+        "王健華"
+    ],
+    "department": "HM72",
+    "code": "GCM0104",
+    "credit": 3,
+    "serial": 1104,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 4,
+            "from": 5,
+            "to": 7,
+            "campus": "本部",
+            "classroom": "綜701"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程不開放上修",
+    "form_s": "2",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程主要為介入行動與互動多媒體在不同領域應用的發展現況與趨勢，並針對其在不同領域上應用的文獻進行導讀與分析，同時發展具體可行的創意應用策略。期能使同學能運用互動與行動媒體特性，整合創意思維，以多元表現型式豐富行動與互動媒體的創意應用，進行實作體驗並以適當之研究方法驗證其成效。",
+    "goals": [
+        "研討互動與行動多媒體的現況與發展",
+        "研討互動與行動多媒體的研究趨向與研究結果",
+        "研討互動與行動多媒體的研究方法",
+        "發展實驗性的創意互動與行動多媒體應用雛型"
+    ],
+    "syllabus": "Week 1 A historical review of the development of digital media  \nWeek 2 The past, recent, and future trends of the interactive and mobile communication\n\nWeek 3 Literature review- interactive multimedia(1)：Developments of interactive media\n\nWeek 4 Literature review- interactive multimedia(2)：Virtual reality\n\nWeek 5 Literature review- interactive multimedia(3)：Mixed reality\n\nWeek 6 Literature review- interactive multimedia(4)： somatosensory interaction and virtual character modeling\n\nWeek 7 Summary of interactive media researches\n\nWeek 8 Literature review- applications of interactive technologies (1)：overview\n\nWeek 9 Literature review- applications of mobile technologies (2)：contextual-awareness and ubiquitous learning\n\nWeek 10 Literature review- applications of mobile technologies (3)：mobile games and pervasive games\n\nWeek 11 Literature review- applications of mobile technologies (4)：mobile technologies and cloud computing\n\nWeek 12 Hands-on experiences on mixed reality game development- game design\n\nWeek 13 Hands-on experiences on mixed reality game development- use of tools\n\nWeek 14 Hands-on experiences on mixed reality game development- game development\n\nWeek 15 Mixed reality game pilot test\n\nWeek 16 Final presentation (demonstration of game playing)",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": "literature review discussions"
+        },
+        {
+            "type": "合作學習",
+            "note": "mixed reality game development"
+        },
+        {
+            "type": "媒體融入教學",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "期中考",
+            "weight": 30,
+            "note": "Summary of interactive media researches"
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 20,
+            "note": "Presentations and Discussions of Literature Review"
+        },
+        {
+            "type": "出席",
+            "weight": 10,
+            "note": ""
+        },
+        {
+            "type": "成果展覽",
+            "weight": 40,
+            "note": "Mixed reality game demonstration"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

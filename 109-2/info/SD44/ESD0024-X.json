@@ -1,0 +1,71 @@
+{
+    "year": 109,
+    "term": 2,
+    "name": "大氣動力過程之數值模擬",
+    "teachers": [
+        "鄒治華"
+    ],
+    "department": "SD44",
+    "code": "ESD0024",
+    "credit": 3,
+    "serial": 2623,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 5,
+            "from": 2,
+            "to": 4,
+            "campus": "公館",
+            "classroom": "Ｃ409"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程不開放上修",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "一、 教學目標： 探討大氣數值模式之基本動力及其設計。 \n二、 教材內容：\n   內容：\n     1. Introduction \n     2. Circulation Pattern of the Atmosphere \n     3. Numerical Methods of Atmospheric Modeling\n     4. Atmospheric General Circulation modeling\n     5. Coupling and Interactions\n     6. Sensitivity Experiments and Application\n  活動: \n     1. Pre-process\n     2. Post-process\n     3. Variable Resolution Application",
+    "goals": [
+        "討論大氣數值模式之基本動力及其設計"
+    ],
+    "syllabus": "第一週  1. Introduction\n\n第二週  2. Circulation Pattern of the Atmosphere\n\n第三週           \"\n\n第四週   3. Numerical Methods of Atmospheric Modeling\n\n第五週           \"\n\n第六週           \"\n\n第七週   4. Atmospheric General Circulation modeling\n\n第八週           “\n\n第九週  Hands On: 1. Pre-process (中研院\n\n第十週  Hands On: 2. Post-process\n\n第十一週        “\n\n第十二週  5. Coupling and Interactions\n\n第十三週        “\n\n第十四週  6. Sensitivity Experiments and Application\n\n第十五週  Hands On:  3. Variable Resolution Application\n\n第十六週         \"\n\n第十七週  Final project report\n\n第十八週  Final project report",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "授課教師"
+        },
+        {
+            "type": "討論法",
+            "note": "課堂模式方法討論"
+        },
+        {
+            "type": "實驗/實作",
+            "note": "模式實際操作"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 30,
+            "note": "Hands on"
+        },
+        {
+            "type": "報告",
+            "weight": 40,
+            "note": "期末課堂報告"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

@@ -1,0 +1,66 @@
+{
+    "year": 110,
+    "term": 2,
+    "name": "數值地形模擬分析",
+    "teachers": [
+        "田應平"
+    ],
+    "department": "LM23",
+    "code": "GEC0023",
+    "credit": 2,
+    "serial": 1601,
+    "group": "",
+    "quota": {
+        "limit": 25,
+        "additional": 5
+    },
+    "schedule": [
+        {
+            "day": 3,
+            "from": 10,
+            "to": 11,
+            "campus": "本部",
+            "classroom": "地理系電腦教室"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 2,
+    "description": "本課程介紹數值地形模形的資料特性與分析應用. 包括資料的生產方式, 資料格式類別, 以及在地形, 水文和防災方面的應用",
+    "goals": [
+        "介紹數值地形模形的資料特性與分析應用"
+    ],
+    "syllabus": " 1What is Digital Terrain Analysis? 　  \n2Basic Concepts of Digital Terrain  \n3Numerical Model of Digital Terrain  \n4Digital Elevation Model (DEM) v.s. Digital Surface Model (DSM)  \n5TIN model for Terrain Description  \n6Global Positioning System (GPS)  \n7Spatial Interpolation  \n8Final Project Proposal  \n9Data Quality / Accuracy  \n10Watershed Analysis(1)  \n11Watershed Analysis(2)  \n12GIS in Terrain Analysis (1)  \n13GIS in Terrain Analysis (2)  \n14GIS in Terrain Analysis (3)  \n15Spatial Statistics (1)  \n16Spatial Statistics (2)  \n17Final Project (1)  \n18Final Project (2)",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": ""
+        },
+        {
+            "type": "實驗/實作",
+            "note": "軟體操作"
+        }
+    ],
+    "grading": [
+        {
+            "type": "課堂討論參與",
+            "weight": 50,
+            "note": ""
+        },
+        {
+            "type": "專題",
+            "weight": 50,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

@@ -1,0 +1,63 @@
+{
+    "year": 110,
+    "term": 1,
+    "name": "資安攻防演練",
+    "teachers": [
+        "紀博文"
+    ],
+    "department": "SU47",
+    "code": "CSC9007",
+    "credit": 3,
+    "serial": 3051,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 1,
+            "from": 2,
+            "to": 4,
+            "campus": "公館",
+            "classroom": "Ｂ102"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "",
+    "classes": "9",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程旨在結合與實務，讓同學於電腦上實際體驗資安攻防的行為，進而養成在軟體開發上的資安意識。",
+    "goals": [
+        "演練常見的攻防技術",
+        "培養軟體開發上的資安意識"
+    ],
+    "syllabus": "授課方式：16 週\n\n1.  **Introduction**\n\n2.  **Set-UID Programs**\n\n3.  **Environment Variables and Attack**\n\n4.  **Buffer Overflow Attack I**\n\n5.  **Buffer Overflow Attack II**\n\n6.  **Race Condition Vulnerability**\n\n7.  **Reverse Shell**\n\n8.  **XSS**\n\n9.  **SQL Injection Attack**\n\n10.**Packet Sniffing and Spoofing**\n\n11.**Attack on the TCP Protocol**\n\n12.**Attack on DNS**\n\n13.**PKI**\n\n14.**TLS Programming**\n\n15.**VPN**\n\n16.**Term Project Presentation or Final**\n\n \n\n**另外之後如果有機會和外部公司的微課程進行整合，會根據實際需求調整課程內容。**",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "透過講述的方式，帶同學複習資訊系統並介紹相關的攻擊。"
+        },
+        {
+            "type": "實驗/實作",
+            "note": "實際攻擊演練。"
+        }
+    ],
+    "grading": [
+        {
+            "type": "課堂討論參與",
+            "weight": 50,
+            "note": "根據課堂上的互動來確認學生的參與程度。"
+        },
+        {
+            "type": "報告",
+            "weight": 50,
+            "note": "請同學實際操作上課中未曾介紹的攻擊手法，並演練給其他同學看。"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

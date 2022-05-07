@@ -1,0 +1,88 @@
+{
+    "year": 108,
+    "term": 1,
+    "name": "智慧型手機與開放軟體之日常物理學習",
+    "teachers": [
+        "賈至達"
+    ],
+    "department": "GU",
+    "code": "06UG023",
+    "credit": 2,
+    "serial": 1028,
+    "group": "",
+    "quota": {
+        "limit": 30,
+        "additional": 5
+    },
+    "schedule": [
+        {
+            "day": 3,
+            "from": 3,
+            "to": 4,
+            "campus": "公館",
+            "classroom": "綜合館2F交誼廳"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎物理系（學）不得選修",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 2,
+    "description": "課程有兩個主軸：\n一、利用智慧型手機的APP進行日常生活中物理科學之探究與實作，讓學生組成團隊能夠利用行動載具進行問題解決能力與養成終身學習能力，進而增進其在生活中的創新，提升科學素養；\n二、以個人電腦為主體的開放軟硬體教學與應用，主要包括運用開放硬體Arduino和利用免費軟體Vpython進行相關科學所應用之邏輯、資訊等的學習。",
+    "goals": [
+        "利用現代科技探究生活中的自然現象，了解科學與生活關聯性",
+        "學習理解自然現象，建立解決問題的能力",
+        "利用科技與眾人溝通和計畫(或專題)合作",
+        "了解開放軟硬體的功能，對社會的影響和日常生活的變化"
+    ],
+    "syllabus": "**APP****與開放軟體介紹**\n\n**第****1****週**  **課程介紹與分組，授課內容如下****:**\n\n主題：課程內容介紹，分組，熟習夥伴，共同練習上網尋找，在Google Play和Apple Store找尋指定的APP，如phyphox、Gauss Meter、Lux Meter、Audio Spectrum Analyzer，或距離測量等，開放軟體如SciDAVis、Tracker、Vpython等，並藉由一簡單活動：測量教室的寬度，共同合作，找出教室的尺寸。\n\n**第****2****週**  **APP****使用與實作安全，智慧型手機****APP****生活實作主題發想****(****期末成果發表之主題****)****：授課內容如下****:**\n\n主題：了解APP、開放軟硬體使用時，應該注意到的實作安全與智慧財產權等，以及相關的禮貌。因為手機APP用於測量時，安全為首要，同時也要兼顧到手機的功能，不可以超過使用極限。\n\n**第****3****週**  **介紹****APP****感應器操作原理，和日常****APP****可用之測量及生活中的應用；授課內容規劃如下：**\n\n主題：手機感應器的原理，以及相關APP使用時的精確度。在生活中使用APP的好處。\n\n授課教材資訊：[https://www.phonearena.com/news/Did-you-know-how-many-different-kinds-of-sensors-go-inside-a-smartphone\\_id57885](https://www.phonearena.com/news/Did-you-know-how-many-different-kinds-of-sensors-go-inside-a-smartphone_id57885)\n\n[http://fieldguide.gizmodo.com/all-the-sensors-in-your-smartphone-and-how-they-work-1797121002](http://fieldguide.gizmodo.com/all-the-sensors-in-your-smartphone-and-how-they-work-1797121002)\n\n**第****4****週**  **開放軟體****SciDAVis****使用之數據紀錄、繪圖與分析處理，授課內容規劃如下：**\n\n**SciDAVis** **數據繪圖軟體簡介**\n\n此處介紹一個科學資料分析的免費軟體：SciDAVis。SciDAVis具有跨平台以及免費的優點，使用相當容易，製作的圖表版面簡潔易懂，適合放進論文報告。學習如何使用它，將使個人的資料整理能力更上層樓，實驗報告專業度提升，分享給各位，也歡迎使用於教學。\n\n授課講義資料連結：\n\n1.[https://www.dropbox.com/s/6clp2z0mze6poi2/SciDAVis%20%E6%95%B8%E6%93%9A%E7%B9%AA%E5%9C%96%E8%BB%9F%E9%AB%94%E7%B0%A1%E4%BB%8B.pdf?dl=0](https://www.dropbox.com/s/6clp2z0mze6poi2/SciDAVis%20%E6%95%B8%E6%93%9A%E7%B9%AA%E5%9C%96%E8%BB%9F%E9%AB%94%E7%B0%A1%E4%BB%8B.pdf?dl=0)\n\n2.[https://www.dropbox.com/s/25jdz1a7z6brs9o/TH-003%E8%83%BD%E6%BA%90%E7%A7%91%E5%AD%B8%E5%8B%95%E6%89%8B%E5%81%9A%28%E4%BF%AE7%E7%89%88%29%28QR%20Code%E5%8A%A0PPT%29.pdf?dl=0](https://www.dropbox.com/s/25jdz1a7z6brs9o/TH-003%E8%83%BD%E6%BA%90%E7%A7%91%E5%AD%B8%E5%8B%95%E6%89%8B%E5%81%9A%28%E4%BF%AE7%E7%89%88%29%28QR%20Code%E5%8A%A0PPT%29.pdf?dl=0)\n\n**第****5****週**  **智慧型手機****APP****感應器之使用示範，課堂實作****(****運動學****)****，授課內容：**\n\nPhyphox與SciDAVis 使用教學 以簡諧運動為例。Phyphox 是一款免費的App ，結合手機中各感測器的量測外，也能將量測數據取處出，供分析使用，不僅取代一些資料擷取器，亦能將手機工具應用最大化。\n\nSciDAVis 也是一款免費的數據處理軟體，網路上可直接取得，雖沒有Origin完整，但一般使用上也已足夠。\n\n在實驗操作中，此兩款軟體的搭配使用，可提供相當廣泛的應用，現以簡諧運動為例，量測一未知彈簧的力常數K彈簧簡諧運動週期公式 (忽略彈簧質量)\n\n相關課程資料連結：[https://www.dropbox.com/s/ic00djatq9375or/Phyphox%E8%88%87SciDAVis%20%E5%BD%88%E7%B0%A7%E7%AF%84%E4%BE%8B.pdf?dl=0](https://www.dropbox.com/s/ic00djatq9375or/Phyphox%E8%88%87SciDAVis%20%E5%BD%88%E7%B0%A7%E7%AF%84%E4%BE%8B.pdf?dl=0)\n\n**第****6****週**  **智慧型手機****APP****感應器之使用示範，課堂實作****(****力學****)****，授課內容如下：**\n\n實驗主題：三種材質之恢復係數測量實驗：  \n\n實驗目的：利用鋼球、玻璃珠、彈力球等由落下的彈跳過程計算材質之恢復係數，並在過程中了解音頻編輯器Audacity 的操作；利用Audacity 的錄音檔分析鋼珠彈跳過程，求出材質之恢復係數。或利用phyphox等 手機APP近行相關的實作。\n\n相關資料連結：[https://drive.google.com/open?id=0B5lDCX2YHyDeVmFsUVpGblVlOVU](https://drive.google.com/open?id=0B5lDCX2YHyDeVmFsUVpGblVlOVU)\n\n**第****7****週**  **智慧型手機****APP****感應器之使用示範，課堂實作****(****光學****)****，選定期末成果發表之智慧型手機****APP****生活實作主題。授課內容如下：**\n\n光學實作教學工作坊分成兩部分；第一個部分是讓學生產生好奇心，利用類似魔術的方式讓學生產生興趣，接著第二部分是帶動學習者進行馬呂士定律的驗證，利用手機APP測量兩偏振片角度與光強度的關係，此時需要用方格紙訂出角度、繪圖驗證馬呂士定律。對於進階者還有更多的學習活動，可以利用塑膠尺、彈性透明片或保鮮膜皆具有雙折射性，再與方格紙配合可以進行很多雙折射實驗的觀察，因為本次物理教學演示時間有限，這部分應該就留給學生回去驗證。\n\n授課資料：[https://drive.google.com/open?id=0B5lDCX2YHyDeVmFsUVpGblVlOVU](https://drive.google.com/open?id=0B5lDCX2YHyDeVmFsUVpGblVlOVU)\n\n**第****8****週**  **智慧型手機****APP****感應器之使用示範，課堂實作****(****磁學、地球磁場****)****，授課內容如下：**\n\n以下是利用手機中的磁感應器測量與磁場強度與距離的關係。手機的磁感應器都是利用霍爾效應來測量磁場，所以通常會有校正上的問題，但是強度為零度時，應該是確認的。\n\n網路資料：[https://www.dropbox.com/s/eqg0zdas8b68fms/%E6%89%8B%E6%A9%9F%E6%B8%AC%E7%A3%81%E5%A0%B4%E5%AF%A6%E4%BD%9C.pptx?dl=0](https://www.dropbox.com/s/eqg0zdas8b68fms/%E6%89%8B%E6%A9%9F%E6%B8%AC%E7%A3%81%E5%A0%B4%E5%AF%A6%E4%BD%9C.pptx?dl=0)  \n\n第9週  開放軟體的應用I (依序介紹Tracker、Arduino、VPython等開放軟體**)****，**\n\n主題：Arduino介紹：\n\nArduino是一個開放原始碼(open source)的單晶片微處理器(single-chipmicrocomputer)，可以把它想成一個微型電腦，將中央處理器、記憶體、輸入/輸出介面整合在一塊積體電路上，其優點為體積小、介面簡單。此外，Arduino編寫程式所使用的開源軟體IDE也是簡單易上手，即使不太瞭解程式語言，任何人都可以利用Arduino做出自己想做的東西。\n\nArduino的官方網站中有一個讓大家上傳自己的專案的平台ArduinoProject Hub，在這裡可以看到各式各樣、極富創意的專案，專案的上傳者們都會以圖文說明使用器材、步驟、程式內容，或是透過影片說明。在這個網站除了可以看到Arduino的各種應用，自己也可以按照步驟做出有趣、實用的東西。透過他人的作品來學習，是種很好的學習方式。\n\n除此之外，Arduino與相關電子材料都容易取得，根據Arduino的官方網站，Arduino在台灣的經銷商為PlayRobot瘋機器人，可以在此購買Arduino，也可以到其他商家購買。電子材料可以在電子材料行購買，在網路上搜尋可以找到很多商家，也可以利用購物或拍賣網站取得。在準備材料的部分來說，Arduino所需器材皆易取得。\n\n透過學習Arduino，學生們除了可以學習電路的組裝、麵包板的使用，也可以學習到程式語言的編寫，這些內容不但實用，而且還可以結合物理、化學的實驗，\n\nArduino的教學資料可以在網路上或是坊間書籍找到，但資料這麼多，到底要從哪裡開始呢？這本入門手冊正是為了讓老師們可以從Arduino的基礎開始學習而編寫的，希望可以讓老師們輕鬆了解Arduino，並且可以設計出相關的實作課程，引導學生們進入Arduino與自造的世界。\n\n授課講義：https://drive.google.com/open?id=0B7kpCOfApiQuT0RmUWY0TlkzZUk\n\n  \n\n基礎電子材料與電路說明：\n\n以下影片是Arduino創辦人之一的Massimo Banzi介紹基礎的電路知識、常用電子材料、麵包板的使用，\n\n電源(正極)、電線、電阻、接地線(負極)、串聯、並聯。\n\n[https://www.youtube.com/watch?v=E3W8Fxc7tHo](https://www.youtube.com/watch?v=E3W8Fxc7tHo)\n\n什麼是麵包板？\n\n在以下影片的3分58秒～5分23秒中介紹什麼是麵包板，以及麵包板的方便之處：\n\n[https://www.youtube.com/watch?v=xIlhSKaM4yo](https://www.youtube.com/watch?v=xIlhSKaM4yo)\n\n電路符號說明：\n\n[https://zh.wikipedia.org/wiki/%E9%9B%BB%E8%B7%AF%E7%AC%A6%E8%99%9F](https://zh.wikipedia.org/wiki/%E9%9B%BB%E8%B7%AF%E7%AC%A6%E8%99%9F)\n\n電源、電阻、接地(GND)、發光二極體等等\n\n(附圖)\n\n電路圖\n\n[https://zh.wikipedia.org/wiki/%E9%9B%BB%E8%B7%AF%E5%9C%96](https://zh.wikipedia.org/wiki/%E9%9B%BB%E8%B7%AF%E5%9C%96)\n\n**第****10****週** **期中檢核生活實作主題，蒐集相關資料，做成簡報，並與同班同儕分享與討論；**\n\n主題：各組報告要以APP和開放軟題進行之實作內容簡述。\n\n**第****11****週** **開放軟體的應用****II (****Tracker****、****Arduino****、****VPython****)****，授課內容：**\n\n主題：Tracker 和Vpython開放軟體教學，主要以網路資源為主。\n\nTracker 是以課前影片教學為主，課堂上用電腦實作為主，\n\nVpython的相關資料有：\n\nhttps://www.python.org/downloads/\n\nhttps://sourceforge.net/projects/vpythonwx/files/6.11-release/VPython-Win-32-Py2.7-6.11.exe/download\n\n石明豐教授的網頁：\n\nhttp://tcjd71.wixsite.com/vpython\n\n**第****12****週** **規劃生活實作主題之實作歷程討論**\n\n主題：各組報告要以APP和開放軟題進行之實作內容簡述。\n\n**第****13****週** **分享生活主題之探究或實作經驗與歷程****(****利用社群與網路****)****，授課內容：**\n\n語社群網路連結，將所製作生活中的實作，放在社群臉書，並請公眾去評分、按讚，也作為成績的一部分。一個是國內的臉書網頁：App與開放軟硬體教學討論區，另一個將要和phyphox臉書合作(洽談中，已邀請該APP和臉書負責人 Sebastian Staacks(né Kuhlen) 博士來台討論。讓學生投稿，是一種新的嘗試。\n\n**第14週彙整與分析數據**\n\n**第15週彙整與分析數據科學，論文寫作I資料分析與詮釋**\n\n**第16週科學論文寫作II，與簡報製作策略。**\n\n**第17週口頭發表策略討論，海報製作定稿。**\n\n**第18週 期末APP生活實作主題成果發表會，並將論文成果放在APP與開放軟硬體教學討論區。**",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "講述APP感應器操作原理，和物理量測量技術及生活中的應用；、自然科學領域跨科概念、取樣、科學論證等重要概念內容。"
+        },
+        {
+            "type": "討論法",
+            "note": "以小組討論及全班討論的方式，釐清APP實作課程和相關之議題討論。"
+        },
+        {
+            "type": "實驗/實作",
+            "note": "以生活中的主題，利用智慧型手機APP進行實際實作和數據量取。"
+        },
+        {
+            "type": "媒體融入教學",
+            "note": "輔以資訊平台引導學習開放軟體、開放硬體，及運用平板電腦等資訊科技設備。"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 20,
+            "note": "每一教學階段、實作，均有相關作業，尤其是以量測與數據分析和結果討論為主。"
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 20,
+            "note": "分組進行APP實作，每次都會討論，期末成果分享前有多次的討論課程。"
+        },
+        {
+            "type": "出席",
+            "weight": 10,
+            "note": "因為課程之進行時，原則上是以2人為一組，合作完成該日的進度，除非特殊事故，需全勤出席。"
+        },
+        {
+            "type": "報告",
+            "weight": 25,
+            "note": "分組進行APP實作，每次都會討論，也會有文字報告。期末學生以口語、文字或影像方式發表之APP生活實作主題發表會，評分標準包括原創性、或社會影響力，理論與數據資料間的呼應、口頭及文字溝通表達技巧。"
+        },
+        {
+            "type": "成果展覽",
+            "weight": 25,
+            "note": "學期結束後會有成果展示，並與在校師生分享。"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

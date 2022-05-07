@@ -1,0 +1,269 @@
+[
+    {
+        "year": 109,
+        "term": 2,
+        "name": "自然語言處理",
+        "teachers": [
+            "侯文娟"
+        ],
+        "department": "SM47",
+        "code": "CSC0023",
+        "credit": 3,
+        "serial": 2725,
+        "group": "",
+        "quota": {
+            "limit": 60,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 7,
+                "to": 9,
+                "campus": "公館",
+                "classroom": "Ｂ102"
+            }
+        ],
+        "programs": [
+            "人工智慧學程"
+        ],
+        "comment": "",
+        "restrict": "◎課程開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 2,
+        "name": "程式設計（二）",
+        "teachers": [
+            "紀博文"
+        ],
+        "department": "SU47",
+        "code": "CSU0002",
+        "credit": 3,
+        "serial": 2976,
+        "group": "A",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 7,
+                "to": 7,
+                "campus": "公館",
+                "classroom": "理圖807"
+            },
+            {
+                "day": 3,
+                "from": 8,
+                "to": 9,
+                "campus": "公館",
+                "classroom": "理圖807"
+            }
+        ],
+        "programs": [
+            "音樂科技學程",
+            "資訊科技應用學程",
+            "人工智慧學程"
+        ],
+        "comment": "",
+        "restrict": "◎必須先修過【CSU0001  程式設計（一）】",
+        "form_s": "1",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 2,
+        "name": "程式設計（二）",
+        "teachers": [
+            "王弘倫"
+        ],
+        "department": "SU47",
+        "code": "CSU0002",
+        "credit": 3,
+        "serial": 2977,
+        "group": "B",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 2,
+                "to": 4,
+                "campus": "公館",
+                "classroom": "理圖807"
+            }
+        ],
+        "programs": [
+            "音樂科技學程",
+            "資訊科技應用學程",
+            "人工智慧學程"
+        ],
+        "comment": "",
+        "restrict": "◎必須先修過【CSU0001  程式設計（一）】",
+        "form_s": "1",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 2,
+        "name": "程式設計（二）",
+        "teachers": [
+            "紀博文"
+        ],
+        "department": "SU47",
+        "code": "CSU0002",
+        "credit": 3,
+        "serial": 4609,
+        "group": "C",
+        "quota": {
+            "limit": 0,
+            "additional": 40
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 7,
+                "to": 7,
+                "campus": "公館",
+                "classroom": "理圖801"
+            },
+            {
+                "day": 3,
+                "from": 8,
+                "to": 9,
+                "campus": "公館",
+                "classroom": "理圖802"
+            }
+        ],
+        "programs": [
+            "音樂科技學程",
+            "資訊科技應用學程",
+            "人工智慧學程"
+        ],
+        "comment": "1.本班為視訊上課。    2.授權碼發放優先順序：(1)本系重修生、(2)申請制雙主修生(即去年以前申請本系雙主修並獲同意的同學)、(3)申請制輔系生、(4)具公費生資格的師培生、(5)登記制雙主修生(即今年登記本系雙主修的同學)，若名額不足則抽籤處理、(6)登記制的輔系同學，若名額不足則抽籤處理、(7)其他，若名額不足則抽籤處理。",
+        "restrict": "◎必須先修過【CSU0001  程式設計（一）】",
+        "form_s": "1",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 2,
+        "name": "資訊專題研究（二）：資訊理論",
+        "teachers": [
+            "黃冠寰",
+            "侯文娟"
+        ],
+        "department": "SU47",
+        "code": "CSU0039",
+        "credit": 3,
+        "serial": 2990,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 16,
+                "to": 11,
+                "campus": "公館",
+                "classroom": "Ｃ003"
+            }
+        ],
+        "programs": [
+            "人工智慧學程"
+        ],
+        "comment": "",
+        "restrict": "",
+        "form_s": "3",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 2,
+        "name": "影像處理",
+        "teachers": [
+            "陳世旺"
+        ],
+        "department": "SU47",
+        "code": "CSU0041",
+        "credit": 3,
+        "serial": 2992,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 15
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 2,
+                "to": 4,
+                "campus": "公館",
+                "classroom": "Ｂ101"
+            }
+        ],
+        "programs": [
+            "人工智慧學程"
+        ],
+        "comment": "",
+        "restrict": "",
+        "form_s": "3",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 2,
+        "name": "人工智慧",
+        "teachers": [
+            "林順喜"
+        ],
+        "department": "SU47",
+        "code": "CSU0042",
+        "credit": 3,
+        "serial": 2993,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 30
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 7,
+                "to": 7,
+                "campus": "公館",
+                "classroom": "Ｂ102"
+            },
+            {
+                "day": 4,
+                "from": 8,
+                "to": 9,
+                "campus": "公館",
+                "classroom": "Ｂ103"
+            }
+        ],
+        "programs": [
+            "音樂科技學程",
+            "人工智慧學程"
+        ],
+        "comment": "",
+        "restrict": "",
+        "form_s": "3",
+        "classes": "",
+        "dept_group": ""
+    }
+]

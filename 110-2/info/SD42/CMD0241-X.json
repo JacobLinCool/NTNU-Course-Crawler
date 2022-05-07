@@ -1,0 +1,65 @@
+{
+    "year": 110,
+    "term": 2,
+    "name": "計算無機化學（二）",
+    "teachers": [
+        "蔡明剛"
+    ],
+    "department": "SD42",
+    "code": "CMD0241",
+    "credit": 3,
+    "serial": 2591,
+    "group": "",
+    "quota": {
+        "limit": 30,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 6,
+            "from": 2,
+            "to": 4,
+            "campus": "公館",
+            "classroom": "教室自排"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "以使用計算材料軟體(Material Studio)為工具，理解並模擬材料科學常見的化學反應與電子結構分析",
+    "goals": [
+        "訓練學生了解能帶理論",
+        "對比分子軌道理論與能帶理論",
+        "模擬凝態化學反應",
+        "分析電子結構對相關的化學反應之影響"
+    ],
+    "syllabus": "1\\. Band structure theory (1 Weeks)\n\n2\\. Density Functional Theory (1 Weeks)\n\n3\\. Surface reaction simulation and transitionstate searching (4 Weeks)\n\n4\\. Hetrogeneous catalytic system simulation andsampling algorithm (4 weeks)\n\n5\\. Simulating nanomaterials (4 weeks)\n\n5\\. Data analysis (2 Weeks)\n\n6\\. Kinetic analysis (2Week)",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "以課堂講述並搭配實際上機操作"
+        },
+        {
+            "type": "實驗/實作",
+            "note": "以課堂講述並搭配實際上機操作"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 90,
+            "note": "每週上課完繳交當週實驗報告"
+        },
+        {
+            "type": "出席",
+            "weight": 10,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

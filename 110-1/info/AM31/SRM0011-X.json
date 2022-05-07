@@ -1,0 +1,76 @@
+{
+    "year": 110,
+    "term": 1,
+    "name": "研究法",
+    "teachers": [
+        "麥康妮"
+    ],
+    "department": "AM31",
+    "code": "SRM0011",
+    "credit": 3,
+    "serial": 4901,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 5,
+            "from": 7,
+            "to": 9,
+            "campus": "本部",
+            "classroom": "綜508會議室"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程不開放上修",
+    "form_s": "1",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程主要是在培養學生具有研究之能力，並有能力完成研究計畫書。\n\n課程包括研究的基本概念、研究方法與論文寫作的方式三大部份。\n本課程之進行強調教師與學生互動，教師會針對所講授之主題提出問題來激發學員對此一主題之思考並設計小組討論與課後作業來評估學習成效。\n\n論文寫作演習課程\n個別討論時間：星期四 16:30-18:30（以預約同學為優先）\n地點: 綜合大樓六樓運動與休閒管理研究所",
+    "goals": [
+        "培養研究與完成研究計畫書之能力",
+        "培養研讀文獻與思考的習慣"
+    ],
+    "syllabus": "**Course Topics & Schedule (****by week):**\n\n  \n[教學進度與主題附件](https://ap.itc.ntnu.edu.tw/NtnuFileShare/file.do?action=dl&gno=7ab6089399b84730a7c0d1dc984f71bc&fno=7291ceeb5fe145f5996cf3ce353455c3)",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "Lecturing"
+        },
+        {
+            "type": "討論法",
+            "note": "Class Discussion"
+        },
+        {
+            "type": "合作學習",
+            "note": "Group Mini-task Presentation"
+        },
+        {
+            "type": "專題研究",
+            "note": "Individual Research Proposal Report and Presentation"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 30,
+            "note": "Group Presentation (max. 25 mins) 30%"
+        },
+        {
+            "type": "出席",
+            "weight": 25,
+            "note": "Class Attendance + In-class Discussion & Exercise    25%"
+        },
+        {
+            "type": "專題",
+            "weight": 45,
+            "note": "Mini-Research Proposal Report (1 page abstract) & Oral Presentation (max. 8 mins)  45%"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

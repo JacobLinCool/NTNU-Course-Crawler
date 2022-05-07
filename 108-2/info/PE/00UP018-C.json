@@ -1,0 +1,73 @@
+{
+    "year": 108,
+    "term": 2,
+    "name": "體育（體適能）",
+    "teachers": [
+        "鄭睿承"
+    ],
+    "department": "PE",
+    "code": "00UP018",
+    "credit": 1,
+    "serial": 2372,
+    "group": "C",
+    "quota": {
+        "limit": 45,
+        "additional": 5
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 3,
+            "to": 4,
+            "campus": "本部",
+            "classroom": "重量訓練室一"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 2,
+    "description": "瞭解健康體適能及其重要性",
+    "goals": [
+        "瞭解健康體適能及其重要性。",
+        "介紹其訓練相關理論與實務，期能培養體適能之正確觀念。",
+        "提升個人體適能並落實於生活中。"
+    ],
+    "syllabus": "W1   2/18  體適能介紹&體能訓練原則\n\nW2   2/25  體適能與肢體開發；肌力適能 I 機械式器材\n\nW3   3/03  肌力適能 II 徒手肌力\n\nW4   3/10  肌力適能 III 肌耐力遊戲\n\nW5   3/17  敏捷適能 I  繩梯介紹與實作\n\nW6   3/24  敏捷適能 II 敏捷遊戲\n\nW7   3/31  敏捷適能 III 敏捷肌力遊戲\n\nW8   4/07  心肺適能 I 理論與實作\n\nW9   4/14  心肺適能 II 耐力遊戲\n\nW10  4/21  心肺適能 III 體能遊戲\n\nW11  4/28  柔軟度適能 滾筒放鬆與伸展\n\nW12  5/05  全大運 (停課一次)\n\nW13  5/12  速度適能 I 速度理論與實作\n\nW14  5/19  速度適能 II 速度與反應練習\n\nW15  5/26  速度適能 III 速度遊戲\n\nW16  6/02  綜合體能遊戲 \n\nW17  6/09  期末測驗\n\nW18  6/16  期末測驗",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "課程內容說明、動作講解與示範"
+        },
+        {
+            "type": "合作學習",
+            "note": "分組練習、分析與討論"
+        },
+        {
+            "type": "實驗/實作",
+            "note": "各種肢體動作開展身體潛能"
+        }
+    ],
+    "grading": [
+        {
+            "type": "期末考",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "出席",
+            "weight": 50,
+            "note": ""
+        },
+        {
+            "type": "報告",
+            "weight": 20,
+            "note": "期中報告、期末心得"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

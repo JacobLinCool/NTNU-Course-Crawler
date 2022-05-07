@@ -1,0 +1,73 @@
+{
+    "year": 109,
+    "term": 2,
+    "name": "應用電子學（一）",
+    "teachers": [
+        "鄭淳護"
+    ],
+    "department": "HU73",
+    "code": "MTU0075",
+    "credit": 3,
+    "serial": 1282,
+    "group": "",
+    "quota": {
+        "limit": 65,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 5,
+            "from": 6,
+            "to": 8,
+            "campus": "本部",
+            "classroom": "誠207"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎必須先修過【MTU0013  電路學】",
+    "form_s": "2",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "介紹電子元件(包含運算放大器、二極體與電晶體)模型之建立、分析與應用。",
+    "goals": [
+        "電子學理論",
+        "電子學之應用"
+    ],
+    "syllabus": "第1-3週／ Electronics and Semiconductors\n\n第4-6週／Operating Amplifier\n\n第7-9週／Diodes\n\n第10-13週／Bipolar Junction Transistors & Mid-exam\n\n第14-16週／MOS Field Effect Transistors\n\n第17-18週／數位學習",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "期中考",
+            "weight": 40,
+            "note": "以紙筆測驗的方式來測試學生對本課程的理解程度。"
+        },
+        {
+            "type": "期末考",
+            "weight": 40,
+            "note": "以紙筆測驗的方式來測試學生對本課程的理解程度。"
+        },
+        {
+            "type": "出席",
+            "weight": 10,
+            "note": ""
+        },
+        {
+            "type": "其他",
+            "weight": 10,
+            "note": "課堂表現，隨堂作業。"
+        }
+    ],
+    "prerequisite": "◎必須先修過【MTU0013  電路學】",
+    "general_core": []
+}

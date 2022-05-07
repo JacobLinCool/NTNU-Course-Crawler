@@ -1,0 +1,88 @@
+{
+    "year": 110,
+    "term": 2,
+    "name": "英文（三）：科學英文",
+    "teachers": [
+        "王超"
+    ],
+    "department": "CU",
+    "code": "00UB9L1",
+    "credit": 2,
+    "serial": 323,
+    "group": "C",
+    "quota": {
+        "limit": 35,
+        "additional": 0
+    },
+    "schedule": [
+        {
+            "day": 1,
+            "from": 6,
+            "to": 7,
+            "campus": "公館",
+            "classroom": "Ｓ506"
+        }
+    ],
+    "programs": [],
+    "comment": "*適合物理系、化學系、電機系、光電學士學位學程、機電系、生科系同學修習。",
+    "restrict": "◎必須先修過【共同英文(一)】◎必須先修過【共同英文(二)】 ◎課程開放上修",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 2,
+    "description": "藉由主題式課程，加深學生對該領域實務趨勢認識、議題簡報、實務案例討論與批判分析。\n強化學生該領域之實務/任務型英語口語溝通、簡報、寫作表達能力",
+    "goals": [
+        "增進職場實務知能",
+        "提升英語組織與跨文化溝通表達能力",
+        "培養實務案例批判及分析能力",
+        "拓展國際視野及移動力",
+        "促進實務領域的協作能力"
+    ],
+    "syllabus": "\\[16 + 2 weeks of online/offline supplementary materials\\]\n\nFollowing the vision from the Ministry of Education, this course is offered as an EMI all-English class.\n\nFluency in the academic use of English is key to your success in the study of science and engineering. Historically, a significant portion of the body of knowledge is written and communicated in English, and it would be an unfortunate loss to us if the language itself prevents us from the access to it.\n\nIn this course, we will introduce the basics of academic English, in the setting of science and engineering. The course includes four modules:\n\n1\\. Effective and critical reading of scientific literature\n\n2\\. Elements of nonfiction, technical writing style\n\n3\\. Structures of research papers and technical reports\n\n4\\. Verbal and visual presentation using academic English\n\nBase on my background, I will cover the materials in the context of computer science and engineering. But no worries if you're not in the department of CSIE - the goal of this course is really about leveraging English as an effective medium in study, not about learning computer science in English. Nevertheless, throughout the semester we do will learn a bit of computer science as a side effect of no harm :)\n\nDetails on the course schedule, etc. will be updated on the course web page (https://wangc86.github.io/00ub9l1/) and on Moodle.",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "Lectures"
+        },
+        {
+            "type": "討論法",
+            "note": "Online/offline discussion"
+        },
+        {
+            "type": "問題解決教學",
+            "note": "Problem-based learning"
+        },
+        {
+            "type": "合作學習",
+            "note": "Team-based learning"
+        },
+        {
+            "type": "媒體融入教學",
+            "note": "We will make some good use of multimedia for learning"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 30,
+            "note": "homework assignments"
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 30,
+            "note": "in-class Q&A and exercises; online Moodle participation (forum discussion, for example)"
+        },
+        {
+            "type": "出席",
+            "weight": 10,
+            "note": "roll call each week"
+        },
+        {
+            "type": "報告",
+            "weight": 30,
+            "note": "Final written report and final oral presentation"
+        }
+    ],
+    "prerequisite": "◎必須先修過【共同英文(一)】◎必須先修過【共同英文(二)】",
+    "general_core": []
+}

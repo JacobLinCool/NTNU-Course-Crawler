@@ -1,0 +1,79 @@
+{
+    "year": 107,
+    "term": 2,
+    "name": "通訊系統電腦模擬",
+    "teachers": [
+        "黃政吉"
+    ],
+    "department": "HM75",
+    "code": "AEC8023",
+    "credit": 3,
+    "serial": 1173,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 5,
+            "from": 2,
+            "to": 4,
+            "campus": "本部",
+            "classroom": "工511"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程主要介紹排隊理論，以理論與實驗的方式探討通訊系統效能。",
+    "goals": [
+        "認識排隊理論",
+        "培養以排隊理論分析網路效能之能力",
+        "培養以C++設計線性規劃程式之能力",
+        "利用線性規劃以最佳化通訊網路系統傳輸效能之能力"
+    ],
+    "syllabus": "1.  Introduction\n2.  MATLAB programming and figures\n3.  Random variables and probability distributions\n4.  Discrete random variables\n5.  Continuous random variables\n6.  Joint probability distributions\n7.  Wireless local area networks\n8.  IEEE 802.11\n9.  Midterm exam\n10.  Distributed coordinated function\n11.  2-D Markov chain\n12.  Performance evaluation\n13.  Queueing theory\n14.  Birth-death process\n15.  M/M/1 model\n16.  M/M/c/c model\n17.  Performance evaluation\n18.  Final exam",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "投影片介紹"
+        },
+        {
+            "type": "合作學習",
+            "note": "小組討論"
+        },
+        {
+            "type": "實驗/實作",
+            "note": "MATLAB程式"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 30,
+            "note": "MATLAB程式"
+        },
+        {
+            "type": "期中考",
+            "weight": 30,
+            "note": "筆試"
+        },
+        {
+            "type": "期末考",
+            "weight": 30,
+            "note": "筆試"
+        },
+        {
+            "type": "出席",
+            "weight": 10,
+            "note": "點名"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

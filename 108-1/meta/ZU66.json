@@ -1,0 +1,70 @@
+[
+    {
+        "year": 108,
+        "term": 1,
+        "name": "戶外活動（一）",
+        "teachers": [
+            "謝宜蓉"
+        ],
+        "department": "EU07",
+        "code": "CEU0479",
+        "credit": 2,
+        "serial": 845,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 6,
+                "to": 7,
+                "campus": "本部",
+                "classroom": "誠大樓公團部"
+            }
+        ],
+        "programs": [
+            "戶外探索領導學程"
+        ],
+        "comment": "",
+        "restrict": "",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 1,
+        "name": "戶外探索設計與實施",
+        "teachers": [
+            "陳永龍"
+        ],
+        "department": "EU07",
+        "code": "CEU0383",
+        "credit": 2,
+        "serial": 858,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 30
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 1,
+                "to": 2,
+                "campus": "本部",
+                "classroom": "教室自排"
+            }
+        ],
+        "programs": [
+            "戶外探索領導學程"
+        ],
+        "comment": "",
+        "restrict": "",
+        "form_s": "3",
+        "classes": "",
+        "dept_group": ""
+    }
+]

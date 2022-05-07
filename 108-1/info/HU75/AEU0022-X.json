@@ -1,0 +1,74 @@
+{
+    "year": 108,
+    "term": 1,
+    "name": "資料結構",
+    "teachers": [
+        "康立威"
+    ],
+    "department": "HU75",
+    "code": "AEU0022",
+    "credit": 3,
+    "serial": 1341,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 1,
+            "from": 2,
+            "to": 4,
+            "campus": "本部",
+            "classroom": "工501"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "2",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "資料結構是計算機科學中重要的一門課程，對於有心想學如何寫出好程式的學習者而言，更是必備的基礎能力。課程中將介紹如何在電腦中，將所要處理的資料以結構化方式有效地儲存與取用，以及如何應用這些技巧，提升電腦程式撰寫的能力，藉以提高執行效率，並有效解決問題。",
+    "goals": [
+        "介紹程式設計中各種常用之資料結構以及應用方式",
+        "培養學生對於問題之分析能力，並能以不同的途徑思考問題處理方法",
+        "培養學生應用課堂所學的各種資料結構技巧，實際於程式設計(專題製作)中靈活運用"
+    ],
+    "syllabus": "第一週   Introduction\n\n第二週   C Programming Language Review\n\n第三週   Array and Implementation in C\n\n第四週   Structure and Implementation in C\n\n第五週   Stack and Implementation in C\n\n第六週   Queue and Implementation in C\n\n第七週   Linked List and Implementation in C (I)\n\n第八週   Linked List and Implementation in C (II)\n\n第九週   期中考\n\n第十週   Tree and Implementation in C (I)\n\n第十一週 Tree and Implementation in C (II)\n\n第十二週 Graphs and Implementation in C\n\n第十三週 Sorting and Implementation in C (I)\n\n第十四週 Sorting and Implementation in C (II)\n\n第十五週 Hashing and Implementation in C\n\n第十六週 Priority Queues and Implementation in C\n\n第十七週 Advanced Topics\n\n第十八週 期末考",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "以投影片教材於課堂講述"
+        },
+        {
+            "type": "實驗/實作",
+            "note": "以程式實例於課堂實作"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 20,
+            "note": "程式設計作業"
+        },
+        {
+            "type": "期中考",
+            "weight": 30,
+            "note": "筆試或電腦上機考"
+        },
+        {
+            "type": "期末考",
+            "weight": 30,
+            "note": "筆試或電腦上機考"
+        },
+        {
+            "type": "其他",
+            "weight": 20,
+            "note": "課堂小考筆試或電腦上機考"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

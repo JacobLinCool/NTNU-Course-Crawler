@@ -1,0 +1,80 @@
+{
+    "year": 108,
+    "term": 1,
+    "name": "英語教材教法（教）",
+    "teachers": [
+        "曾俊傑"
+    ],
+    "department": "LU21",
+    "code": "ENUE001",
+    "credit": 2,
+    "serial": 1891,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 1,
+            "from": 1,
+            "to": 2,
+            "campus": "本部",
+            "classroom": "誠701A"
+        }
+    ],
+    "programs": [
+        "PASSION偏鄉教育學程"
+    ],
+    "comment": "",
+    "restrict": "◎限大三大四修習",
+    "form_s": "3",
+    "classes": "",
+    "dept_group": "",
+    "hours": 2,
+    "description": "This is an introductory course that aims at helping students become familiar with current theories and practices in EFL teaching and learning. Students will be exposed to common approaches and practices in EFL through reading articles, viewing video-tapes, and doing hands-on projects. The focus of the first semester is on introducing ESL methods and approaches and the second semester will focus on techniques to teaching language skills and components.",
+    "goals": [
+        "To help students become familiar with current theories and practices in EFL teaching and learning",
+        "To familiarize students with techniques to teaching language skills and components."
+    ],
+    "syllabus": "  \n教學大綱請瀏覽此[檔案](https://ap.itc.ntnu.edu.tw/NtnuFileShare/file.do?action=dl&gno=2fcfbbfd25794f989a197333bb7d1080&fno=c4ac301f42c445598c9fee0599387bbb)",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "期中考",
+            "weight": 25,
+            "note": "book-snap project"
+        },
+        {
+            "type": "期末考",
+            "weight": 25,
+            "note": "Teaching Principles in Action project"
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 10,
+            "note": "Attendance & participation"
+        },
+        {
+            "type": "報告",
+            "weight": 10,
+            "note": "A reflection report on the invited talks"
+        },
+        {
+            "type": "其他",
+            "weight": 30,
+            "note": "e-portfolios"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

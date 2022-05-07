@@ -1,0 +1,79 @@
+{
+    "year": 107,
+    "term": 1,
+    "name": "超導及磁性專題研究（一）",
+    "teachers": [
+        "陳鴻宜"
+    ],
+    "department": "SM41",
+    "code": "PHC0503",
+    "credit": 3,
+    "serial": 2619,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 5,
+            "from": 8,
+            "to": 10,
+            "campus": "公館",
+            "classroom": "教室自排"
+        }
+    ],
+    "programs": [],
+    "comment": "上課地點：物理系會議室",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "系統性的介紹固態物質在低溫的物理性質及相變，包含超導、磁性、鐵電性等性質，以及相對應的傳輸、熱力學性質、磁性質等基礎特性，接著深入探討各種新發現物理系統的超導、多鐵性向轉變等特性，以及他們的相變特性與晶格結構和磁晶格等基礎性質的關聯性。\n除了理論模型的討論，亦包含同學動手實驗的確實訓練，以及對測量結果的分析討論實務。",
+    "goals": [
+        "介紹固態物質在低溫的物理性質及相變",
+        "理論模型與實驗操作運用",
+        "培養物理數據交互分析與思辯能力",
+        "培養團隊合作與物理討論能力"
+    ],
+    "syllabus": "​I. Introduction\n\nII. Topological Band Theory\n\nA. The insulating state\n\nB. The quantum Hall state\n\n1\\. The TKNN invariant\n\n2\\. Graphene, Dirac electrons, and Haldane model\n\n3\\. Edge states and the bulk-boundary correspondence\n\nC. Z2 topological insulator\n\nD. Topological superconductor, Majorana fermions\n\n1\\. Bogoliubov–de Gennes theory\n\n2\\. Majorana fermion boundary states\n\n3\\. Periodic Table\n\nIII. Quantum Spin Hall Insulator\n\nA. Model system: Graphene\n\nB. HgTe/CdTe quantum well structures\n\nIV. 3D Topological Insulators\n\nA. Strong and weak topological insulators\n\nB. The first 3D topological insulator: Bi1−xSbx\n\n    C. Second generation materials: Bi2Se3, Bi2Te3, and Sb2Te3",
+    "methodologies": [
+        {
+            "type": "討論法",
+            "note": ""
+        },
+        {
+            "type": "問題解決教學",
+            "note": ""
+        },
+        {
+            "type": "專題研究",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "課堂討論參與",
+            "weight": 25,
+            "note": ""
+        },
+        {
+            "type": "出席",
+            "weight": 25,
+            "note": ""
+        },
+        {
+            "type": "報告",
+            "weight": 25,
+            "note": ""
+        },
+        {
+            "type": "專題",
+            "weight": 25,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

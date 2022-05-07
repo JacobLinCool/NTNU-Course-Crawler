@@ -1,0 +1,70 @@
+{
+    "year": 109,
+    "term": 1,
+    "name": "商業分析程式語言",
+    "teachers": [
+        "郭耀仁"
+    ],
+    "department": "OU57",
+    "code": "BAU0068",
+    "credit": 3,
+    "serial": 2522,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 1,
+            "from": 2,
+            "to": 4,
+            "campus": "本部",
+            "classroom": "綜508會議室"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎必須先修過【BAU0049  管理數學】",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程為 Python 程式語言教學，目的是讓大學部同學能夠在進行商業分析時具備規模化資料處理能力，內容分為三部份：一、Python 程式設計入門；二、Python 資料分析相關套件；三、專案實作：用 Python 完成資料處理與分析專案。",
+    "goals": [
+        "To improve work efficiency with programming language",
+        "To develop the ability to complete the given Python projects",
+        "To develop the ability to propose solutions to solve business problems"
+    ],
+    "syllabus": "1.         起步走\n\n2.         資料類型與邏輯判斷\n\n3.         資料結構與迭代\n\n4.         函式與類別\n\n5.         模組與套件\n\n6.         溫書假\n\n7.         期中考\n\n8.         資料的獲取（1/2）\n\n9.         資料的獲取（2/2）\n\n10.     資料的清理和整理（1/2）\n\n11.      資料的清理和整理（2/2）\n\n12.     靜態視覺化（1/2）\n\n13.      靜態視覺化（2/2）\n\n14.      動態視覺化\n\n15.      溫書假\n\n16.      期末考\n\n17.      資料分析專案（1/2）\n\n18\\. 資料分析專案（2/2）",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "上課講解"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 20,
+            "note": ""
+        },
+        {
+            "type": "期中考",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "報告",
+            "weight": 20,
+            "note": ""
+        }
+    ],
+    "prerequisite": "◎必須先修過【BAU0049  管理數學】",
+    "general_core": []
+}

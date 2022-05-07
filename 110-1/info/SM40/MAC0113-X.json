@@ -1,0 +1,62 @@
+{
+    "year": 110,
+    "term": 1,
+    "name": "李代數",
+    "teachers": [
+        "劉家新"
+    ],
+    "department": "SM40",
+    "code": "MAC0113",
+    "credit": 3,
+    "serial": 2671,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 3,
+            "from": 2,
+            "to": 4,
+            "campus": "公館",
+            "classroom": "數學館310研討室"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "李代數在許多領域如微分幾何和物理上面，都有重要的角色。本課程主要內容在介紹李代數的一些代數性質，並著重在瞭解complex semisimple Lie algebras 的分類上面。",
+    "goals": [
+        "讓學生習得李代數的重要性質，以作為未來從事相關領域研究的基礎。"
+    ],
+    "syllabus": "【授課方式：18週】\n\n1\\. Introduction (1 week)\n\n2\\. Ideals and homomorphisms (1 week)\n\n3\\. Solvable and nilpotent Lie algebras (2 weeks)\n\n4\\. Theorem of Lie and Cartan (2 weeks)\n\n5\\. Killing form (2 weeks)\n\n6\\. Complete reducibility of representations (2 weeks)\n\n7\\. Representatoins of sl(2,F) (2 weeks)\n\n8\\. Root space decomposition (2 weeks)\n\n9\\. Introduction to root systems (1 weeks)\n\n10\\. Simple roots and Weyl groups. (2 weeks)\n\n11\\. Classification (1 week)",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "課堂討論參與",
+            "weight": 50,
+            "note": ""
+        },
+        {
+            "type": "報告",
+            "weight": 50,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

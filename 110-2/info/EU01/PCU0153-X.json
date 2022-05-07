@@ -1,0 +1,70 @@
+{
+    "year": 110,
+    "term": 2,
+    "name": "普通心理學（二）",
+    "teachers": [
+        "許禕芳"
+    ],
+    "department": "EU01",
+    "code": "PCU0153",
+    "credit": 2,
+    "serial": 661,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 1,
+            "from": 3,
+            "to": 4,
+            "campus": "本部",
+            "classroom": "教511"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎必須先修過【PCU0152  普通心理學（一）】、【AAU0149  普通心理學】、【0AUG402  心理學】、【SOU0007  心理學】、【SPU6008  普通心理學（一）】其中一門 ◎課程開放上修",
+    "form_s": "1",
+    "classes": "",
+    "dept_group": "",
+    "hours": 2,
+    "description": "本課程是對心理學的主要範疇、研究方法、重要理論、及研究趨勢等內容做入門性的介紹，以幫助初學者瞭解心理學的基本知識。",
+    "goals": [
+        "瞭解人類行為與心理特質的發展。",
+        "熟悉心理學的理論及研究趨勢。",
+        "瞭解心理學常用的研究方法。"
+    ],
+    "syllabus": "第01週 (14FEB)：Motivation (Chapter10)  \n第02週 (21FEB)：Emotion (Chapter11)  \n第03週 (28FEB)：Holiday  \n第04週 (07MAR)：Exam 1  \n第05週 (14MAR)：Intelligence (Chapter12)  \n第06週 (21MAR)：Personality (Chapter13)  \n第07週 (28MAR)：Stress, health, and coping (Chapter14)  \n第08週 (04APR)：Holiday  \n第09週 (11APR)：Exam 2  \n第10週 (18APR)：Psychological disorders (Chapter15)  \n第11週 (25APR)：Psychological disorders (Chapter15)  \n第12週 (02MAY)：Treatment of mental health problems (Chapter16)  \n第13週 (09MAY)：Social influences (Chapter17)  \n第14週 (16MAY)：Social influences (Chapter17)  \n第15週 (23MAY)：Social Cognition (Chapter18)  \n第16週 (30MAY)：Exam 3  \n第17週 (06JUN)：Research participation  \n第18週 (13JUN)：Research participation",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "講授普通心理學的起源與發展、研究方法、理論架構、重要概念、代表人物、與應用價值。"
+        }
+    ],
+    "grading": [
+        {
+            "type": "期中考",
+            "weight": 50,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 25,
+            "note": ""
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 20,
+            "note": "準時出席並積極參與課程活動。"
+        },
+        {
+            "type": "其他",
+            "weight": 5,
+            "note": "學期當中至少擔任2次心理學研究參與者。"
+        }
+    ],
+    "prerequisite": "◎必須先修過【PCU0152  普通心理學（一）】、【AAU0149  普通心理學】、【0AUG402  心理學】、【SOU0007  心理學】、【SPU6008  普通心理學（一）】其中一門",
+    "general_core": []
+}

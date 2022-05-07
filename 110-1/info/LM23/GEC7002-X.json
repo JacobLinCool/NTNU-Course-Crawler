@@ -1,0 +1,76 @@
+{
+    "year": 110,
+    "term": 1,
+    "name": "社會經濟地理資訊系統",
+    "teachers": [
+        "周學政"
+    ],
+    "department": "LM23",
+    "code": "GEC7002",
+    "credit": 2,
+    "serial": 1683,
+    "group": "",
+    "quota": {
+        "limit": 25,
+        "additional": 5
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 6,
+            "to": 7,
+            "campus": "本部",
+            "classroom": "地理系電腦教室"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 2,
+    "description": "近年來，人文地理、社會、經濟、歷史等社會及人文科學開始採用地理資訊系統作為研究工具，也發展出一些新的概念與分析工具。本課程目的有二：\n1.介紹社會經濟現象的空間特性及分析方法。\n2.學習在GIS系統中，建立社經現象資料庫與分析社經資料",
+    "goals": [
+        "介紹社會經濟現象的空間特性及分析方法",
+        "學習在GIS系統中，建立社經現象資料庫與分析社經資料"
+    ],
+    "syllabus": "本課程將包含GIS、統計及空間分析等內容，主要以R及ArcGIS 因考慮 修課同學的背景差異，將根據修課同學狀況，調整授課內容。也歡迎有意修課同學，暑期先來討論，預作準備。以下為主要內容，但並非上課章節。有關R語言由基本開始講授，ArcGIS，以ArcGIS pro空間分析為主。\n\n1.  Introduction\n2.  R 語言與空間分析\n3.  Ontology of Socio-economic geographic data 人文社經資料的特性\n4.  Scale of Socio-economic Analysis    人文社經資料與理論的空間尺度\n5.  Ecological Fallacy and Modifiable Area Unity Problem  空間統計單元的重要性\n6.  Linking Spatial Location and Socio-Economic data  如何將社經資料空間化\n7.  Spatial Sampling and Interpolation for Social-Economic Data  人文社經資料的空間抽樣與空間推估\n8.  Visualizing Socio-economic Data  人文社經空間資料的呈現   \n9.  Designing Socio-economic GIS database  人文社經資料庫的設計與應用\n10.  Government and Private Socio-Economic Databases  現有資料庫的應用\n11.  patial Autocorrelation principle  空間自相關原理與應用\n12.  Causal Effect  因果分析\n13.  Tracking Data 軌跡資料分析\n14.  Application – Crime  案例─犯罪分析\n15.  Application – Urban geography  案例─市場地理\n16.  Application - Others 案例─疾病\n\n網址：\n\n*   110年本課程台灣師大Moodle (修課資源、作業及討論，需修課帳號）: [https://moodle3.ntnu.edu.tw/course/view.php?id=20635](https://moodle3.ntnu.edu.tw/course/view.php?id=20635)\n*   講義網頁（開放資源及講義，不需帳號）：[https://sites.google.com/site/hsegis/home](https://sites.google.com/site/hsegis/home)\n*   台灣師大Google Meet (遠距上課時使用，師大G-suit帳號可直接加入，其他需核准):  [https://meet.google.com/yij-hdvg-ttf](http://https://meet.google.com/yij-hdvg-ttf)",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": "文獻與閱讀與討論"
+        },
+        {
+            "type": "實驗/實作",
+            "note": "軟體操作"
+        },
+        {
+            "type": "專題研究",
+            "note": "資料庫設計報告"
+        }
+    ],
+    "grading": [
+        {
+            "type": "課堂討論參與",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "報告",
+            "weight": 40,
+            "note": ""
+        },
+        {
+            "type": "其他",
+            "weight": 30,
+            "note": "指定論文評讀"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

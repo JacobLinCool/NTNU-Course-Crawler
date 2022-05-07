@@ -1,0 +1,85 @@
+{
+    "year": 109,
+    "term": 1,
+    "name": "運動教練學",
+    "teachers": [
+        "林淑惠"
+    ],
+    "department": "AU30",
+    "code": "PEU2004",
+    "credit": 2,
+    "serial": 123,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 4,
+            "from": 6,
+            "to": 7,
+            "campus": "本部",
+            "classroom": "樸105"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "4",
+    "classes": "",
+    "dept_group": "",
+    "hours": 2,
+    "description": "運動教練學",
+    "goals": [
+        "1.",
+        "2."
+    ],
+    "syllabus": "1.課程簡介\n\n2.運動教練學概念\n\n3.教練哲學\n\n4.教練任務角色與功能\n\n5.運動員心理\n\n6.團隊領導\n\n7.運動生理學與訓練原則\n\n8.運動員的選材\n\n9.訓練學\n\n10.訓練計畫的擬定\n\n11.運動員的營養\n\n12.教練倫理與素養\n\n13.教練員需要知道\n\n14.期末分組討論報告\n\n15.期末分組討論報告\n\n16.期末分組討論報告",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": ""
+        },
+        {
+            "type": "實地考察、參訪",
+            "note": ""
+        },
+        {
+            "type": "專題研究",
+            "note": ""
+        },
+        {
+            "type": "其他",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 20,
+            "note": ""
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 20,
+            "note": ""
+        },
+        {
+            "type": "出席",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "報告",
+            "weight": 30,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

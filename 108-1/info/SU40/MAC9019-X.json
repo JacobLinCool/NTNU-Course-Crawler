@@ -1,0 +1,93 @@
+{
+    "year": 108,
+    "term": 1,
+    "name": "數學遊戲與演算法",
+    "teachers": [
+        "郭君逸"
+    ],
+    "department": "SU40",
+    "code": "MAC9019",
+    "credit": 3,
+    "serial": 2794,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 5,
+            "from": 6,
+            "to": 8,
+            "campus": "公館",
+            "classroom": "教室自排"
+        }
+    ],
+    "programs": [
+        "科學計算學程"
+    ],
+    "comment": "本課程為科學計算學分學程之選修課程，預計於108學年度公告修習要點。",
+    "restrict": "",
+    "form_s": "",
+    "classes": "9",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程將介紹一些論文中討論過的數學遊戲，其中會用到離散數學、代數群論、與演算法。每堂課皆有實作練習。修課學生須至少會一種程式語言，並在AI演算法的單元中，須要自行攜帶筆電上機撰寫程式。",
+    "goals": [
+        "了解數學遊戲建模過程。",
+        "利用已知的知識，來解決問題。",
+        "培養數學溝通、表達能力、團隊合作能力",
+        "學會解決相關問題"
+    ],
+    "syllabus": "1.     課程介紹(1週)\n\n2.     Packing Puzzle(3週)\n\na.      Polyomino中的奇偶性\n\nb.     Domino Tilling Proglem\n\nc.      大衛希爾伯特的第18個問題\n\nd.     Burr Tools軟體實作\n\n3.     Twisty Puzzle(4週)\n\na.      Enumerations\n\nb.     Algebra in Blindfolding\n\nc.      Isomorphism\n\nd.     Algorithm in Group Theory\n\ne.      Algorithm in Linear Algebra\n\n4.     Slide Puzzle (2週)\n\na.      15-puzzle\n\nb.     Toroidal slide puzzle\n\nc.      Wrap slide(Group Theory)\n\n5.     遞迴類遊戲解法原理與計數(2週)\n\na.      九連環解法原理與計數\n\nb.     河內塔難題與電腦實作\n\n6.     Nim Game拈(2週)\n\na.      單堆拈(Grundy Number)\n\nb.     “盲公頂棍”殘局\n\nc.      多堆拈(Bouton Method)\n\nd.     費式拈(Zeckendorf Theorem)\n\ne.      AI與分散式演算法\n\nf.       三角拈電腦程式實作\n\n7.     其他 (4週)\n\na.      Rolling Cube Problem\n\nb.     Counterfeit Coins Problem\n\nc.      Group Testing Problem\n\nd.     Kami and Flood Filling Games\n\ne.      Light-Out Game",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "上課講述"
+        },
+        {
+            "type": "討論法",
+            "note": "課間討論釐清問題"
+        },
+        {
+            "type": "合作學習",
+            "note": "分組討論解決問題"
+        },
+        {
+            "type": "實驗/實作",
+            "note": "實際操作Puzzles來解出之。"
+        },
+        {
+            "type": "媒體融入教學",
+            "note": "撰寫程式來解開問題"
+        },
+        {
+            "type": "專題研究",
+            "note": "繳交期末專題報告"
+        }
+    ],
+    "grading": [
+        {
+            "type": "期中考",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "出席",
+            "weight": 10,
+            "note": ""
+        },
+        {
+            "type": "報告",
+            "weight": 30,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

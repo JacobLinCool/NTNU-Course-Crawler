@@ -1,0 +1,78 @@
+{
+    "year": 108,
+    "term": 1,
+    "name": "公司理財",
+    "teachers": [
+        "賴慧文"
+    ],
+    "department": "OU57",
+    "code": "BAU0027",
+    "credit": 3,
+    "serial": 2517,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 4,
+            "from": 2,
+            "to": 4,
+            "campus": "本部",
+            "classroom": "正102"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎必須先修過【BAU0007  財務管理】",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程目的在於研究公司的融資及股利決策。其主要目標在於教導學生，如何利用財務資訊與理論，來對公司做出決策。",
+    "goals": [
+        "知識／認知",
+        "職能導向"
+    ],
+    "syllabus": "Topics\n\n1. Orientation to the class: discuss syllabus and course assignments, explore student’s expectation about this course\n\n2. Determining the Cost of Capital: Chapter 14  \nMini Case: Cost of Capital for Hubbard Computer, Inc. (作業繳交)\n\n3\\. Raising Equity Capital: Chapter 15  \n  Case1: 雄獅旅行社初次上市公開承銷價格 (2013) (準備上課討論)  \n  Case2: 王品股票初次申請上市時承銷價格 (2013)-上課說明  \n   \n4\\. Financial Leverage and Capital Structure Policy: Chapter 16  \n Mini Case: Stephenson Real Estate Recapitalization (準備上課討論)\n\n5\\. Dividends and Payout Policy: Chapter 17  \n Mini Case: Electronic Timing, Inc. (準備上課討論)  \n   \nB.     Short-Term Financial Planning and Management  \n   \n6\\. Short-Term Finance and Planning: Chapter 18  \n   \n7\\. Cash and Liquidity Management: Chapter 19  \n   \n8\\. Credit and Inventory Management: Chapter 20  \n   \nC.    Topics in Corporate Finance  \n   \n9\\. International Corporate Finance: Chapter 21  \n   \n10\\. Mergers and Acquisitions: Chapter 23  \n Mini Case: The Birdie Golf-Hybrid Golf Merger",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "詳細講述教材內容，探討理論和實務之議題，從公司的基本介紹到各種工具和評價模式的運用，最後再講解相關之個案內容。 Explain textbook content and case."
+        },
+        {
+            "type": "其他",
+            "note": "上課討論：課堂中針對不同議題互動討論、提出不同觀點和解決方案，再藉由個案的討論分析達到訓練學生思辨、增進溝通能力。 Present and discuss different methods and viewpoints for any given corporate scenario."
+        }
+    ],
+    "grading": [
+        {
+            "type": "期中考",
+            "weight": 30,
+            "note": "Multiple choice and problems solving."
+        },
+        {
+            "type": "期末考",
+            "weight": 30,
+            "note": "Multiple choice and problems solving."
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 20,
+            "note": "學生被要求課堂參與討論: (1) 雄獅旅行社初次上市公開承銷價格 (2) Stephenson Real Estate Recapitalization (3) Electronic Timing, Inc. 均須事先針對各個個案所提供的問題，撰寫你可能答案(包括可能的計算)，並在上課參與討論，最後在課後繳交。"
+        },
+        {
+            "type": "出席",
+            "weight": 10,
+            "note": "學生被要求課堂出席"
+        },
+        {
+            "type": "報告",
+            "weight": 10,
+            "note": "報告"
+        }
+    ],
+    "prerequisite": "◎必須先修過【BAU0007  財務管理】",
+    "general_core": []
+}

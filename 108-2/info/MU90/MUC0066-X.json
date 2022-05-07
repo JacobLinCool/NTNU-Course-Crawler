@@ -1,0 +1,66 @@
+{
+    "year": 108,
+    "term": 2,
+    "name": "電腦音樂（一）",
+    "teachers": [
+        "趙菁文"
+    ],
+    "department": "MU90",
+    "code": "MUC0066",
+    "credit": 2,
+    "serial": 2271,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 4,
+            "from": 3,
+            "to": 4,
+            "campus": "本部",
+            "classroom": "音210"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "",
+    "classes": "9",
+    "dept_group": "",
+    "hours": 2,
+    "description": "教材內容：\n\t電子音樂簡史\n\t具象音樂、電子原音音樂、磁帶音樂、器樂與電腦互動音樂等之展演與創作\n\t電腦音樂軟體與程式語言之使用與學習\n\n實施方式：\n\t電子音樂簡史\n\t各項頻變原理(Frequency Modulation, Amplitude Mod., etc)\n\t具象音樂（作品分析、創作）\n\t商業音樂軟體之使用(Nuendo、Sonar、或Qbase)\n\t電子原音音樂（製造聲音之技巧）\n\t互動音樂軟體平台（使用MAX/MSP）\n\t磁帶音樂、器樂與電腦互動音樂等之展演與創作\n\t音樂程式語言(Common Lisp Music)\n\t音色的分析與再合成(Analysis and Resynthesis)\n\t聲音美學\n\t電子音樂記譜法\n\t與其它藝術領域多媒介結合之實驗創作\n\n各作曲家之電子音樂作品分析與介紹：\n\tPierre Schaeffer\n\tJohn Chowning\n\tJean Claude-Risset\n\tMax Matthews\n\tKarlheinz Stockhausen\n\tJonathan Harvey\n\tGerard Grisey\n\tTristan Murail ……",
+    "goals": [
+        "音樂發展史上最顯著的改變，就是1950-60年代以來，科技在音樂創作上的加入。數字與聲音的實驗，促成了創作趣味及邏輯性的延伸，挑戰音色、感知、新樂器、新表演方式、組織等，引發創作上浩瀚無限的可能性。"
+    ],
+    "syllabus": "教材內容：\n\n        電子音樂簡史\n\n        具象音樂、電子原音音樂、磁帶音樂、器樂與電腦互動音樂等之展演與創作\n\n        電腦音樂軟體與程式語言之使用與學習\n\n 實施方式：\n\n                電子音樂簡史\n\n                各項頻變原理(Frequency Modulation, Amplitude Mod., etc)\n\n                具象音樂（作品分析、創作）\n\n                商業音樂軟體之使用(Nuendo、Sonar、或Qbase)\n\n                電子原音音樂（製造聲音之技巧）\n\n                互動音樂軟體平台（使用MAX/MSP）\n\n                磁帶音樂、器樂與電腦互動音樂等之展演與創作\n\n                音樂程式語言(Common Lisp Music)\n\n                音色的分析與再合成(Analysis and Resynthesis)\n\n                聲音美學\n\n                電子音樂記譜法\n\n                與其它藝術領域多媒介結合之實驗創作\n\n        各作曲家之電子音樂作品分析與介紹：\n\n                Pierre Schaeffer\n\n                John Chowning\n\n                Jean Claude-Risset\n\n                Max Matthews\n\n                Karlheinz Stockhausen\n\n                Jonathan Harvey\n\n                Gerard Grisey\n\n                Tristan Murail",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": ""
+        },
+        {
+            "type": "實驗/實作",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 40,
+            "note": ""
+        },
+        {
+            "type": "報告",
+            "weight": 60,
+            "note": "期中 30%  期末30%"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

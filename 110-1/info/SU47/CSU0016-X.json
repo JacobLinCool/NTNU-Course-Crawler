@@ -1,0 +1,74 @@
+{
+    "year": 110,
+    "term": 1,
+    "name": "線性代數",
+    "teachers": [
+        "蔡榮宗"
+    ],
+    "department": "SU47",
+    "code": "CSU0016",
+    "credit": 3,
+    "serial": 3061,
+    "group": "",
+    "quota": {
+        "limit": 60,
+        "additional": 19
+    },
+    "schedule": [
+        {
+            "day": 1,
+            "from": 2,
+            "to": 2,
+            "campus": "公館",
+            "classroom": "Ｅ102"
+        },
+        {
+            "day": 5,
+            "from": 3,
+            "to": 4,
+            "campus": "公館",
+            "classroom": "Ｅ102"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "2",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本門課程主要介紹解決線性方程式的各種方法，並且以不同的維度及表示法探討各種線性方程式之間的轉換與關係。",
+    "goals": [
+        "能熟悉資訊基礎理論"
+    ],
+    "syllabus": "Course outline for 16+1 weeks\n\n1.  Matrices, Vectors and Systems of Linear Equations\n\n*   Matrices, vectors, linear combinations, matrix-vector products, special matrices, and systems of linear equations\n*   Gaussian elimination\n*   The span of a set of vectors\n*   Linear dependence and independence\n\n2\\. Matrices and Linear Transformations\n\n*   Matrix multiplication, invertibility and elementary matrices, and the inverse of a matrix\n*   Partitioned matrices, block multiplication, and the LU decomposition of a matrix\n*   Linear transformations and matrices\n*   Composition and invertibility of linear transformations\n\n3\\. Determinants\n\n*   Cofactor expansion\n*   Properties of determinant\n\n4\\. Subspaces and Their Properties\n\n*   Subspaces, basis and dimension\n*   The dimension of subspaces associated with a matrix\n*   Coordinate systems\n*   Matrix representations of linear operators\n\n5\\. Eigenvalues, Eigenvectors and Diagonalization\n\n*   Eigenvalues and eigenvectors\n*   Characteristic polynomial\n*   Diagonalization of matrices, diagonalization of linear operators\n\n6\\. Orthogonality\n\n*   The geometry of vectors, orthogonal vectors\n*   Orthogonal projections\n*   Least-squares approximation and orthogonal projection matrices\n*   Orthogonal matrices and operators\n*   Symmetric matrices\n*   Singular value decomposition\n\n7\\. Vector Spaces\n\nIn general,  there is no lecture break between a two-hours' class.  Effectively, one more week of lecture is distributed in a semester of 16 weeks\n\n  \n  \n  \nFinal evaluations  \n   Homeworks： 30%  \n   Midterm Exam： 35%  \n   Final Exam： 35%",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "問題解決教學",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "期中考",
+            "weight": 35,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 35,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

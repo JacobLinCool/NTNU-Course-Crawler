@@ -1,0 +1,82 @@
+{
+    "year": 110,
+    "term": 1,
+    "name": "機器人地圖建立與定位",
+    "teachers": [
+        "包傑奇"
+    ],
+    "department": "HM75",
+    "code": "AEC8015",
+    "credit": 3,
+    "serial": 1192,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 1,
+            "from": 2,
+            "to": 4,
+            "campus": "本部",
+            "classroom": "多媒體與通訊實驗室"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "",
+    "goals": [
+        "Understand the principles of filtering and sensor fusion",
+        "Understand the various techniques of robot navigation and be able to write programs to control the robot",
+        "Familiar with the technologies required for mechatronics integration required for robotics",
+        "Students will learn problem-oriented thinking and research skills.",
+        "Students will know how to become involved and with more awareness for analyzing several robot research problems and designing the corresponding solutions.",
+        "Students will learn how to search the corresponding kinds of literature to increase their self-learning ability.",
+        "Students will learn how to conduct project-based research, together with classmates, to develop teamwork ability."
+    ],
+    "syllabus": "授課方式：16+2\n\nWeek 1-2: Introduction to localization and mapping for navigation\n\nWeek 3-4: The fundamentals of probability theory for Localization and mapping\n\nWeek 5-6: Localization: motion models, sensor models, and Monte Carlo method, particle filter\n\nWeek 7-8: Eigenvectors and singular value decomposition\n\nWeek 9-10: Incremental closest point algorithm\n\nWeek 11-12: Introduction to computer vision, thresholding, histograms, edge detection, Sobel, and Laplacian\n\nWeek 13-14: Convolution, segmentation, and integral image\n\nWeek 15-16: Visual SLAM, SIFT and SURF features\n\nWeek 17: Visual SLAM - Bundle adjustment\n\nWeek 18: Final Exam",
+    "methodologies": [
+        {
+            "type": "Formal lecture",
+            "note": ""
+        },
+        {
+            "type": "Problem base learning",
+            "note": ""
+        },
+        {
+            "type": "Case studies",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "Midterm Exam",
+            "weight": 30,
+            "note": "A midterm exam will be held after approximately the first half of the course."
+        },
+        {
+            "type": "Final exam",
+            "weight": 30,
+            "note": "A final exam will examine all material learned by the students."
+        },
+        {
+            "type": "Class discussion involvement",
+            "weight": 20,
+            "note": ""
+        },
+        {
+            "type": "Attendances",
+            "weight": 20,
+            "note": ""
+        }
+    ],
+    "prerequisite": "◎Available for junior and senior year B.A. program students (Doctoral program courses excepted) and M.A. program students.",
+    "general_core": []
+}

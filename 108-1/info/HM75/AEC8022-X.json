@@ -1,0 +1,65 @@
+{
+    "year": 108,
+    "term": 1,
+    "name": "數位通訊系統",
+    "teachers": [
+        "黃政吉"
+    ],
+    "department": "HM75",
+    "code": "AEC8022",
+    "credit": 3,
+    "serial": 1199,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 5,
+            "from": 2,
+            "to": 4,
+            "campus": "本部",
+            "classroom": "工511"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程包含兩部分。其一，理論部分：介紹信號向量空間、數位通訊調變技術(如ASK, PSK, FSK等)、信號同步、錯誤更正碼與位元錯誤率分析。其二，實作部分：MATLAB 程式模擬與數位通訊實習。",
+    "goals": [
+        "數位通訊理論之介紹",
+        "MATLAB程式簡介",
+        "數位通訊實習"
+    ],
+    "syllabus": "1\\. Signal Space Representations (Weeks 1,2)\n\n2\\. Representation of Digital Modulated Signals (Weeks 3,4)\n\n3\\. Memoryless Modulated Methods (Weeks 5,6)\n\n4\\. Optimum Receivers (Weeks 7,8)\n\n5\\. Midterm (Week 9)\n\n6\\. Matched Filter Demodulator (Weeks 10,11)\n\n7\\. The Optimum Detector (Weeks 12,13)\n\n8\\. Equalization (Weeks 14,15)\n\n9\\. Adaptive Weight Adjustment (Week 16,17)\n\n10\\. Final exam (Week 18)",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "投影片"
+        }
+    ],
+    "grading": [
+        {
+            "type": "期中考",
+            "weight": 45,
+            "note": "筆試"
+        },
+        {
+            "type": "期末考",
+            "weight": 45,
+            "note": "筆試"
+        },
+        {
+            "type": "出席",
+            "weight": 10,
+            "note": "點名"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

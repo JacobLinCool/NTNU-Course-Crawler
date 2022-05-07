@@ -1,0 +1,311 @@
+[
+    {
+        "year": 110,
+        "term": 1,
+        "name": "教育人類學",
+        "teachers": [
+            "黃純敏"
+        ],
+        "department": "EU00",
+        "code": "EDU0035",
+        "credit": 2,
+        "serial": 672,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 6,
+                "to": 7,
+                "campus": "本部",
+                "classroom": "教310"
+            }
+        ],
+        "programs": [
+            "原民教育學程"
+        ],
+        "comment": "",
+        "restrict": "",
+        "form_s": "3",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 1,
+        "name": "族群與教育",
+        "teachers": [
+            "黃約伯"
+        ],
+        "department": "EU00",
+        "code": "EDU0190",
+        "credit": 2,
+        "serial": 675,
+        "group": "",
+        "quota": {
+            "limit": 30,
+            "additional": 5
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 1,
+                "to": 2,
+                "campus": "本部",
+                "classroom": "樸401"
+            }
+        ],
+        "programs": [
+            "原民教育學程"
+        ],
+        "comment": "與師培學院「教育議題專題00UE314」共構",
+        "restrict": "",
+        "form_s": "3",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 1,
+        "name": "文化人類學",
+        "teachers": [
+            "陳素秋"
+        ],
+        "department": "EU07",
+        "code": "CEU0098",
+        "credit": 2,
+        "serial": 854,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 15
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 8,
+                "to": 9,
+                "campus": "本部",
+                "classroom": "誠401"
+            }
+        ],
+        "programs": [
+            "原民教育學程"
+        ],
+        "comment": "",
+        "restrict": "",
+        "form_s": "3",
+        "classes": "1",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 1,
+        "name": "文化人類學",
+        "teachers": [
+            "陳素秋"
+        ],
+        "department": "EU07",
+        "code": "CEU0098",
+        "credit": 2,
+        "serial": 858,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 15
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 6,
+                "to": 7,
+                "campus": "本部",
+                "classroom": "誠401"
+            }
+        ],
+        "programs": [
+            "原民教育學程"
+        ],
+        "comment": "",
+        "restrict": "",
+        "form_s": "3",
+        "classes": "2",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 1,
+        "name": "認識臺灣的原住民",
+        "teachers": [
+            "陳永龍"
+        ],
+        "department": "GU",
+        "code": "04UG012",
+        "credit": 2,
+        "serial": 961,
+        "group": "A",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 3,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "誠108"
+            }
+        ],
+        "programs": [
+            "PASSION偏鄉教育學程",
+            "原民教育學程"
+        ],
+        "comment": "",
+        "restrict": "",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 1,
+        "name": "認識臺灣的原住民",
+        "teachers": [
+            "康培德"
+        ],
+        "department": "GU",
+        "code": "04UG012",
+        "credit": 2,
+        "serial": 3438,
+        "group": "B",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 5,
+                "from": 8,
+                "to": 9,
+                "campus": "本部",
+                "classroom": "誠109"
+            }
+        ],
+        "programs": [
+            "PASSION偏鄉教育學程",
+            "原民教育學程"
+        ],
+        "comment": "",
+        "restrict": "",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 1,
+        "name": "臺灣原住民族語言概論",
+        "teachers": [
+            "吳靜蘭"
+        ],
+        "department": "L",
+        "code": "L0U4011",
+        "credit": 2,
+        "serial": 1611,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 3,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "正105"
+            }
+        ],
+        "programs": [
+            "原民教育學程"
+        ],
+        "comment": "",
+        "restrict": "",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 1,
+        "name": "原住民族地理",
+        "teachers": [
+            "汪明輝"
+        ],
+        "department": "LU23",
+        "code": "GEU0242",
+        "credit": 3,
+        "serial": 2018,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 7,
+                "to": 9,
+                "campus": "本部",
+                "classroom": "正106"
+            }
+        ],
+        "programs": [
+            "區域學程",
+            "原民教育學程"
+        ],
+        "comment": "",
+        "restrict": "",
+        "form_s": "3",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 1,
+        "name": "民族音樂學導論",
+        "teachers": [
+            "呂鈺秀"
+        ],
+        "department": "MM91",
+        "code": "EMM0002",
+        "credit": 2,
+        "serial": 2144,
+        "group": "",
+        "quota": {
+            "limit": 30,
+            "additional": 5
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 6,
+                "to": 7,
+                "campus": "本部",
+                "classroom": "教室自排"
+            }
+        ],
+        "programs": [
+            "原民教育學程"
+        ],
+        "comment": "教室位址：師大路31號2樓",
+        "restrict": "◎課程不開放上修",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    }
+]

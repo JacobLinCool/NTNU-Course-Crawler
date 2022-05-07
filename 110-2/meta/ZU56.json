@@ -1,0 +1,275 @@
+[
+    {
+        "year": 110,
+        "term": 2,
+        "name": "法語（一）",
+        "teachers": [
+            "楊慧娟"
+        ],
+        "department": "GU",
+        "code": "0HUG502",
+        "credit": 2,
+        "serial": 1023,
+        "group": "A",
+        "quota": {
+            "limit": 50,
+            "additional": 5
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 6,
+                "to": 7,
+                "campus": "本部",
+                "classroom": "正301"
+            }
+        ],
+        "programs": [
+            "國際外交學程"
+        ],
+        "comment": "學過二個月以上法語者，請勿選課。",
+        "restrict": "◎課程開放上修",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 2,
+        "name": "西班牙語（一）",
+        "teachers": [
+            "張乃翠"
+        ],
+        "department": "GU",
+        "code": "0HUG503",
+        "credit": 2,
+        "serial": 1024,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 5
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 3,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "正203"
+            }
+        ],
+        "programs": [
+            "國際外交學程"
+        ],
+        "comment": "學過三個月以上及母語人士不可選課",
+        "restrict": "◎課程開放上修",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 2,
+        "name": "越南語（一）",
+        "teachers": [
+            "劉陳石草"
+        ],
+        "department": "GU",
+        "code": "0HUG649",
+        "credit": 2,
+        "serial": 1031,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 5
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 10,
+                "to": 11,
+                "campus": "本部",
+                "classroom": "誠206"
+            }
+        ],
+        "programs": [
+            "國際外交學程"
+        ],
+        "comment": "母語人士不可選課",
+        "restrict": "◎課程開放上修",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 2,
+        "name": "印尼語（一）",
+        "teachers": [
+            "馮燕妮"
+        ],
+        "department": "GU",
+        "code": "0HUG653",
+        "credit": 2,
+        "serial": 1039,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 5
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 6,
+                "to": 7,
+                "campus": "本部",
+                "classroom": "正101"
+            }
+        ],
+        "programs": [
+            "國際外交學程"
+        ],
+        "comment": "印尼語為母語者，或印尼及馬來西亞國籍者不得修課。",
+        "restrict": "◎課程開放上修",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 2,
+        "name": "國際公法",
+        "teachers": [
+            "王冠雄"
+        ],
+        "department": "IU83",
+        "code": "EAC9003",
+        "credit": 3,
+        "serial": 1398,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 6,
+                "to": 8,
+                "campus": "本部",
+                "classroom": "正106"
+            }
+        ],
+        "programs": [
+            "國際外交學程"
+        ],
+        "comment": "政經與區域發展領域",
+        "restrict": "◎必須先修過【EAU0128  社會科學研究方法】、【EAM0046  東亞區域研究】其中一門 ◎課程開放上修",
+        "form_s": "",
+        "classes": "9",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 2,
+        "name": "國際關係概論",
+        "teachers": [
+            "徐筱琦"
+        ],
+        "department": "IU83",
+        "code": "EAU0220",
+        "credit": 3,
+        "serial": 1408,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 2,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "誠401"
+            }
+        ],
+        "programs": [
+            "國際外交學程"
+        ],
+        "comment": "政經與區域發展領域。",
+        "restrict": "◎課程開放上修",
+        "form_s": "1",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 2,
+        "name": "近代外交史",
+        "teachers": [
+            "王冠雄",
+            "徐筱琦"
+        ],
+        "department": "IU83",
+        "code": "EAU0221",
+        "credit": 3,
+        "serial": 1409,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 6,
+                "to": 8,
+                "campus": "本部",
+                "classroom": "誠302"
+            }
+        ],
+        "programs": [
+            "國際外交學程"
+        ],
+        "comment": "政經與區域發展領域。",
+        "restrict": "◎課程開放上修",
+        "form_s": "1",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 2,
+        "name": "臺灣外交研究",
+        "teachers": [
+            "關弘昌"
+        ],
+        "department": "IU83",
+        "code": "EAU0113",
+        "credit": 3,
+        "serial": 1426,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 6,
+                "to": 8,
+                "campus": "本部",
+                "classroom": "正105"
+            }
+        ],
+        "programs": [
+            "國際外交學程"
+        ],
+        "comment": "政經與區域發展領域",
+        "restrict": "◎必須先修過【EAU0189  經濟學原理】 ◎課程開放上修",
+        "form_s": "4",
+        "classes": "",
+        "dept_group": ""
+    }
+]

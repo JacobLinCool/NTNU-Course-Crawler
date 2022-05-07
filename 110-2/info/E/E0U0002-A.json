@@ -1,0 +1,89 @@
+{
+    "year": 110,
+    "term": 2,
+    "name": "教育統計學（二）",
+    "teachers": [
+        "陳心怡"
+    ],
+    "department": "E",
+    "code": "E0U0002",
+    "credit": 2,
+    "serial": 325,
+    "group": "A",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 1,
+            "from": 3,
+            "to": 4,
+            "campus": "本部",
+            "classroom": "特115"
+        }
+    ],
+    "programs": [
+        "學習與資訊學程"
+    ],
+    "comment": "",
+    "restrict": "◎必須先修過【E0U0001  教育統計學（一）】、【05UG020  統計學】其中一門 ◎課程開放上修",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 2,
+    "description": "",
+    "goals": [
+        "認識推論統計之基本概念",
+        "學習各類統計方法之意義、計算、解釋與正確用途",
+        "培養邏輯性思考與分析之學習能力"
+    ],
+    "syllabus": "推論統計的基本概念 (區間估計,假設考驗)\n\n一個母數的假設考驗 (平均數,相關係數,百分比)\n\n兩個母數的假設考驗 (平均數,變異數)\n\nχ2 考驗\n\n單因子變異數分析(獨立樣本)\n\n單因子變異數分析(相依樣本)\n\n多重比較\n\nPASW統計軟體實作練習  \n  \n\nPs.  **額外加分**： 閱讀/運用課外資源、用心整理組織筆記、用心預習複習與自評\n\n        **額外扣分**： 無故抽點缺席、遲到早退,作業無故遲交扣15分，遲交以一星期為限)",
+    "methodologies": [
+        {
+            "type": "Formal lecture",
+            "note": ""
+        },
+        {
+            "type": "Group discussion",
+            "note": ""
+        },
+        {
+            "type": "Cooperative learning",
+            "note": ""
+        },
+        {
+            "type": "Lab/Studio",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "Midterm Exam",
+            "weight": 20,
+            "note": ""
+        },
+        {
+            "type": "Final exam",
+            "weight": 25,
+            "note": ""
+        },
+        {
+            "type": "Class discussion involvement",
+            "weight": 20,
+            "note": ""
+        },
+        {
+            "type": "Presentation",
+            "weight": 20,
+            "note": "小組報告"
+        },
+        {
+            "type": "other:",
+            "weight": 15,
+            "note": "期末推論統計分析報告(口頭+上傳書面) (組)"
+        }
+    ],
+    "prerequisite": "Prerequisite course: 【E0U0001  Educational Statistics (I)】、【05UG020  Statistics】one of above ◎Available for junior and senior year B.A. program students (Doctoral program courses excepted) and M.A. program students.",
+    "general_core": []
+}

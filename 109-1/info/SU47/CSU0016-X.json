@@ -1,0 +1,74 @@
+{
+    "year": 109,
+    "term": 1,
+    "name": "線性代數",
+    "teachers": [
+        "蔡榮宗"
+    ],
+    "department": "SU47",
+    "code": "CSU0016",
+    "credit": 3,
+    "serial": 3070,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 50
+    },
+    "schedule": [
+        {
+            "day": 1,
+            "from": 7,
+            "to": 7,
+            "campus": "公館",
+            "classroom": "Ｅ102"
+        },
+        {
+            "day": 5,
+            "from": 3,
+            "to": 4,
+            "campus": "公館",
+            "classroom": "Ｅ101"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "2",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本門課程主要介紹解決線性方程式的各種方法，並且以不同的維度及表示法探討各種線性方程式之間的轉換與關係。",
+    "goals": [
+        "能熟悉資訊基礎理論"
+    ],
+    "syllabus": "  \n  \n  \n  \n  \nCourse outline:  \n  \n1\\. Matrices, Vectors and Systems of Linear Equations  \n2\\. Matrices and Linear Transformations  \n3\\. Determinants  \n4\\. Subspaces and Their Properties  \n5\\. Eigenvalues, Eigenvectors and Diagonalization  \n6\\. Orthogonality  \n7\\. Vector Spaces  \n  \n  \n  \nHomeworks： 30%  \nMidterm Exam： 35%  \nFinal Exam： 35%",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "問題解決教學",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "期中考",
+            "weight": 35,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 35,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

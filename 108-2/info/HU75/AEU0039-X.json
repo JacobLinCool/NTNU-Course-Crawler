@@ -1,0 +1,80 @@
+{
+    "year": 108,
+    "term": 2,
+    "name": "物件導向程式設計",
+    "teachers": [
+        "康立威"
+    ],
+    "department": "HU75",
+    "code": "AEU0039",
+    "credit": 3,
+    "serial": 1251,
+    "group": "",
+    "quota": {
+        "limit": 40,
+        "additional": 16
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 2,
+            "to": 4,
+            "campus": "本部",
+            "classroom": "電機系電子實驗室"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "3",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "培養具有良好物件導向程式設計能力的工程師。",
+    "goals": [
+        "學習如何撰寫程式",
+        "學習分割主副程式、迴圈與撰寫物件",
+        "學習如何將演算法融入和應用到程式中並評估時間複雜度",
+        "學習如何將資料結構融入和應用到程式中",
+        "學習撰寫系統",
+        "使學習者具備物件導向程式設計能力"
+    ],
+    "syllabus": "物件導向程式設計 (Object-oriented programming) 是種具有物件概念的程式設計方法及一種程式開發的抽象方針, 為開發軟體所不可或缺的知識及技能. 有鑑於本校電機系同學已於大一修習C語言程式設計 (非物件導向程式語言) 及於大二修習以C程式語言來實作資料結構, 因此本課程將先於前半學期介紹最經典之物件導向程式語言: C++程式語言, 其與C程式語言有多處相似之處, 將適合同學作為第一個學習之物件導向程式語言. 另外, 有鑑於人工智慧時代的來臨且目前被認為最適合用來開發人工智慧系統的程式語言為Python (亦為一著名的物件導向程式語言), 本課程後半學期將介紹Python物件導向程式語言以讓學生做好迎接人工智慧時代來臨之基本準備. 本課程大綱如下所示.\n\n第一週  物件導向程式設計簡介\n\n第二週  C++ Basics\n\n第三週  Flow Control and Function Call in C++\n\n第四週   I/O Streams  and File Handling In C++ \n\n第五週  Arrays in C++\n\n第六週  Strings and Vectors in C++\n\n第七週  Pointers and Dynamic Arrays in C++\n\n第八週  期中考\n\n第九週  Defining Classes in C++\n\n第十週  Introduction to Python\n\n第十一週  Numbers and Strings in Python\n\n第十二週  Decisions in Python\n\n第十三週  Loops in Python\n\n第十四週  Functions in Python\n\n第十五週  Lists in Python\n\n第十六週  期末考\n\n第十七週  專題討論(I)\n\n第十八週  專題討論(II)",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": ""
+        },
+        {
+            "type": "問題解決教學",
+            "note": ""
+        },
+        {
+            "type": "實驗/實作",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "期中考",
+            "weight": 35,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 35,
+            "note": ""
+        },
+        {
+            "type": "其他",
+            "weight": 30,
+            "note": "課堂小考 (電腦上機考)"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

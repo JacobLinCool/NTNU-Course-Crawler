@@ -1,0 +1,81 @@
+{
+    "year": 109,
+    "term": 1,
+    "name": "研究法",
+    "teachers": [
+        "麥康妮"
+    ],
+    "department": "AM31",
+    "code": "SRM0011",
+    "credit": 3,
+    "serial": 47,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 5,
+            "from": 7,
+            "to": 9,
+            "campus": "本部",
+            "classroom": "綜508會議室"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程不開放上修",
+    "form_s": "1",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程主要是在培養學生具有研究之能力，並有能力完成研究計畫書。\n\n課程包括研究的基本概念、研究方法與論文寫作的方式三大部份。\n本課程之進行強調教師與學生互動，教師會針對所講授之主題提出問題來激發學員對此一主題之思考並設計小組討論與課後作業來評估學習成效。\n\n論文寫作演習課程\n個別討論時間：星期四 16:30-18:30（以預約同學為優先）\n地點: 綜合大樓六樓運動與休閒管理研究所",
+    "goals": [
+        "培養研究與完成研究計畫書之能力",
+        "培養研讀文獻與思考的習慣"
+    ],
+    "syllabus": "**Course Topics & Schedule (****by week):**\n\n1.  Week 1 – Introduction to the Course + What is Research? (9/18)\n2.  Week 2 – The Research Process + Finding Your Research Topic + Literature Review (LR) + Research Questions (RQs) / Research Objectives (ROs) (9/25)\n3.  Week 3 – School Holiday (No Lecture) – The Day After Mid-Autumn Festival (10/2)\n4.  Week 4 – School Holiday (No Lecture) – The Day Before National Day (10/9)\n5.  Week 5 – Systematic Literature Review (SLR) + Conceptual Framework / Theoretical Framework / Research Framework (10/16)\n    *   _Group Mini-Task 1 (Systematic Literature Review)_\n    *   _Group Mini-Task 2 (Conceptual Framework vs. Theoretical Framework vs. Research Framework)_\n6.  Week 6 – Quantitative vs. Qualitative Research Approaches + Research Methodologies vs. Research Methods + Research Design + Quantitative – Hypothesis (10/23)\n    *   _Group Mini-Task 3 (Hypothesis & Hypothesis Development)_\n7.  Week 7 – Quantitative Methods – Questionnaire Survey, Questionnaire Design Principles + Experimental & Quasi-Experimental Design (10/30)\n    *   _Group Mini-Task 4 (Questionnaire Design Principles & Structure)_\n    *   _Group Mini-Task 5 (Experimental Design & Quasi-Experimental Design)_\n8.  Week 8 – Quantitative – Probability and Non-Probability Sampling Methods + Pilot Test + Reliability & Validity (11/6)\n    *   _Group Mini-Task 6 (Probability (Random) Sampling Methods vs. Non-probability (Non-random) Sampling Methods)_\n    *   _Group Mini-Task 7 (Reliability & Types)_\n    *   _Group Mini-Task 8 (Validity & Types)_\n9.  Week 9 – Quantitative Data Analysis Methods (Part 1) – T-test, ANOVA, Chi-square, Correlation Analysis, Regression Analysis (11/13)\n    *   _Group Mini-Task 9 (T-test vs. ANOVA vs. Chi-square)_\n    *   _Group Mini-Task 10 (Correlation Analysis vs. Regression Analysis)_\n10.  Week 10 – School Holiday (No Lecture) – NTNU Sports Day (11/20)\n11.  Week 11 – Quantitative Data Analysis Methods (Part 2) – EFA vs. CFA (11/27) (3.5 hours ###)\n    *   _Group Mini-Task 11 (Exploratory Factor Analysis, EFA)_\n    *   _Group Mini-Task 12 (Confirmatory Factor Analysis, CFA)_\n12.  Week 12 – **Midterm Exam \\*\\*\\*** (12/4)\n13.  Week 13 – Qualitative Methods – Big 5 Qualitative Approaches + In-depth Interview + Focus Group (FG) + Participant Observation (PO) (12/11) (3.5 hours ###)\n    *   _Group Mini-Task 13 (Focus Group SOPs & Demo – Research Experience of MSc Students)_\n14.   Week 14 – Qualitative Data Analysis Methods – Content Analysis vs. Thematic Analysis + Coding + Trustworthiness of Data + Triangulation (12/18) (3.5 hours ###)\n15.  Week 15 – Research Ethics + Non-response Bias vs. Social Desirability Bias + Reporting your Findings (written, oral, poster)? (12/25!) (3.5 hours ###)\n16.  Week 16 – School Holiday (No Lecture) – New Year’s Day (1/1)\n17.  Week 17 – **Mini-Seminar** Presentations #1 (8 mins, 21 students, No. 1-21) (1/8) (3.5 hours ###)\n18.  Week 18 – **Mini-Seminar** Presentations #2 (8 mins, 20 students, No. 22-41) (1/15) (3.5 hours ###)",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "Lecturing"
+        },
+        {
+            "type": "討論法",
+            "note": "Class Discussion"
+        },
+        {
+            "type": "合作學習",
+            "note": "Group Mini-task Presentation"
+        },
+        {
+            "type": "專題研究",
+            "note": "Individual Research Proposal Report and Presentation"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 20,
+            "note": "2.  Group Mini-Task   \t20%"
+        },
+        {
+            "type": "期中考",
+            "weight": 30,
+            "note": "3.  Midterm Exam       30%"
+        },
+        {
+            "type": "出席",
+            "weight": 20,
+            "note": "1.  Class Attendance (10%) & In-class Discussion (10%)     20%"
+        },
+        {
+            "type": "專題",
+            "weight": 30,
+            "note": "5. Mini-Seminar Report (1 page extended abstract) & Oral Presentation (8 mins)  30%"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

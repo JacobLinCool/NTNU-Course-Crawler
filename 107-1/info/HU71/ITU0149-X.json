@@ -1,0 +1,93 @@
+{
+    "year": 107,
+    "term": 1,
+    "name": "管理學",
+    "teachers": [
+        "孫弘岳"
+    ],
+    "department": "HU71",
+    "code": "ITU0149",
+    "credit": 3,
+    "serial": 1219,
+    "group": "",
+    "quota": {
+        "limit": 30,
+        "additional": 5
+    },
+    "schedule": [
+        {
+            "day": 3,
+            "from": 7,
+            "to": 9,
+            "campus": "本部",
+            "classroom": "科212"
+        }
+    ],
+    "programs": [
+        "社團領導學程"
+    ],
+    "comment": "",
+    "restrict": "◎限大一大二大三大四修習",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程提供學生基礎管理學的重要概念，從實務的角度出發，讓學生了解經理人的真實工作與挑戰。每堂課將以經理人的一道難題作為個案研討，透過”如果是你，會怎麼做?”的演練，引導學生站在經理人的角度思考如何突破該困境，以培養未來在工作上問題解決的能力。",
+    "goals": [
+        "瞭解當代管理的本質與挑戰",
+        "瞭解如何進行規劃與做決策",
+        "瞭解組織設計與任用的概念",
+        "瞭解運用領導與控制的手段"
+    ],
+    "syllabus": "Week 1: Introduction to Management\n\nWeek 2: Managing in a Global Environment\n\nWeek 3: Managing Diversity\n\nWeek 4: Managing Social Responsibility and Ethics\n\nWeek 5: Managing Change and Innovation\n\nWeek 6: Managers as Decision Makers\n\nWeek 7: Foundations of Planning\n\nWeek 8: Strategic Management\n\nWeek 9: Midterm exam (Multiple choice question)\n\nWeek 10: Basic Organizational Design\n\nWeek 11: Managing Human Resources\n\nWeek 12: Managing Teams \n\nWeek 13: Understanding Individual Behavior\n\nWeek 14: Managers and Communication\n\nWeek 15: Motivating Employees\n\nWeek 16: Managers as Leaders\n\nWeek 17: Introduction to Controlling\n\nWeek 18: Final Presentation (Group)",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "講授該節課程的理論與實務重點，外加實務案例"
+        },
+        {
+            "type": "討論法",
+            "note": "每周以一個管理個案為例，結合課文作為個案討論基礎"
+        },
+        {
+            "type": "問題解決教學",
+            "note": "以小組為單位，練習解決個案問題"
+        },
+        {
+            "type": "合作學習",
+            "note": "以小組為單位，練習解決個案問題"
+        },
+        {
+            "type": "實地考察、參訪",
+            "note": "邀請實務界專業人士，進行企業參訪或來校分享"
+        },
+        {
+            "type": "媒體融入教學",
+            "note": "運用多媒體材料進行管理個案的教學"
+        }
+    ],
+    "grading": [
+        {
+            "type": "期中考",
+            "weight": 20,
+            "note": "25題英文選擇題 (單選)，線上作答。30分鐘內答完，答對每題4分，答錯不倒扣。"
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 40,
+            "note": "以小組為單位，各組每周輪流主持一個案分析，題目即課文內的個案題目，限時30分鐘。報告組若有成員缺席，該缺席學生課堂討論與參與成績以零分計。若被指定組別當周沒有準備或派員上台分享，全組成員學期總成績以零分計。"
+        },
+        {
+            "type": "出席",
+            "weight": 20,
+            "note": "由課代每節點名，請假或遲到15分鐘內，每次扣學期總分2分，缺課或遲到15分鐘以上，每次皆扣學期總分4分，缺課或請假合計達六次(含)以上，學期總成績以零分計。(請假須到學校系統完成請假為準)。"
+        },
+        {
+            "type": "報告",
+            "weight": 20,
+            "note": "期未報告，以小組為單位，運用PPT或多媒體輔助進行18分鐘TED式口頭分享，10分鐘與老師及其他同學答辯。"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

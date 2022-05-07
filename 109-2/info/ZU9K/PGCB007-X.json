@@ -1,0 +1,77 @@
+{
+    "year": 109,
+    "term": 2,
+    "name": "大數據資料分析",
+    "teachers": [
+        "黃柏僩"
+    ],
+    "department": "ZU9K",
+    "code": "PGCB007",
+    "credit": 3,
+    "serial": 3243,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 6,
+            "to": 8,
+            "campus": "本部",
+            "classroom": "教619"
+        }
+    ],
+    "programs": [
+        "大數據學程"
+    ],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程主要在於瞭解大數據的思惟與趨勢，學習大數據相關的分析原理與方法，進而在教育實務界之應用。",
+    "goals": [
+        "瞭解大數據的思惟與與趨勢",
+        "學習大數據分析方法與運用",
+        "學習大數據的洞察能力",
+        "學習運用大數據的思惟解決問題"
+    ],
+    "syllabus": "1\\. Course Overview  \n2\\. Data Types and Structures  \n3\\. Control Flow and Functions  \n4\\. Web Scraping  \n5\\. Data Management with \\`Pandas\\`  \n6\\. Visualization with \\`Matplotlib\\`  \n7\\. 春假  \n8\\. 期中考  \n9\\. Text Data Analysis I  \n10\\. Text Data Analysis II  \n11\\. Regression and Classification  \n12. Deep Learning  \n13. Project Proposal  \n14\\. Image Data Analysis  \n15\\. Audio Data Analysis  \n16\\. Project Presentation\n\nAdditional Topic: Interactive Plot with \\`Altair\\`",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "實驗/實作",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 20,
+            "note": ""
+        },
+        {
+            "type": "期中考",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 10,
+            "note": ""
+        },
+        {
+            "type": "報告",
+            "weight": 40,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

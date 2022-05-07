@@ -1,0 +1,89 @@
+{
+    "year": 110,
+    "term": 2,
+    "name": "資優教育概論（資優）",
+    "teachers": [
+        "陳偉仁"
+    ],
+    "department": "EU",
+    "code": "00UEG18",
+    "credit": 2,
+    "serial": 602,
+    "group": "B",
+    "quota": {
+        "limit": 25,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 4,
+            "from": 3,
+            "to": 4,
+            "campus": "本部",
+            "classroom": "特103"
+        }
+    ],
+    "programs": [
+        "國際教師學程-華語文",
+        "國際教師學程-數學",
+        "國際教師學程-物理",
+        "國際教師學程-國際"
+    ],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 2,
+    "description": "本課程可以幫助學生具備特殊教育知能，了解資優學生之特質與重要相關議題，整合特殊教育與資優相關資源，同時了解資優教育專業領域發展之現況與趨勢等。透過本課程之進行，學生能瞭解資優教育的內涵與學理，並將資優教育相關知識運用於輔導資優學生之實務中。從修課過程中，認識「資優教育」之專業，作為生涯規劃及專業發展之參考。",
+    "goals": [
+        "認識與瞭解智能與資優的意涵",
+        "探討資優者的特質",
+        "認識與瞭解資優教育的鑑定、課程設計、教學與資優方案",
+        "培養對資優教育實務與研究的態度與知能"
+    ],
+    "syllabus": "【16+2 Weeks】  \nW1: Overview of the course  \nW2~3: Foundation and myth of gifted education  \nW4~5: Nature & Needs of the Gifted Characteristics  \n            Definition of Giftedness & Methods of Identification  \nW6: Curriculum Approaches in Gifted Education: Enrichment  \nW7: Curriculum Approaches in Gifted Education: Enrichment  \nW8: Midterm evaluation and discussion  \nW9: Gifted education programming and implementation  \nW10: Curriculum Approaches in Gifted Education: Differentiation  \nW11: Curriculum Approaches in Gifted Education: Creativity and leadership  \nW12: The Learning Environment at Home: Parents and Families  \nW13: Policy in Gifted Education  \nW14: University-based gifted program for talent development  \nW15: Meeting the Needs of Students Who Are Twice-Exceptional or Culturally Diverse  \nW16: Application of Learning Through Product Development",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "The instructor would give short lecture on topics listed above."
+        },
+        {
+            "type": "討論法",
+            "note": "The students would work collaboratively in group on reading assignment and discussion."
+        },
+        {
+            "type": "專題研究",
+            "note": "The students would work in group or individuality on research topics and compose a project."
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 20,
+            "note": "Task in class."
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 15,
+            "note": "Participation and discussion."
+        },
+        {
+            "type": "報告",
+            "weight": 20,
+            "note": "Introduce a G/T center website connecting to the chapter, and try to contact the website for the issues that your group is interested in."
+        },
+        {
+            "type": "專題",
+            "weight": 25,
+            "note": "Represent the knowledge gained from investigating an interested topic and present it to the class in a creative poster session format (the story of the investigation, findings, and references)."
+        },
+        {
+            "type": "其他",
+            "weight": 20,
+            "note": "Reading notes."
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

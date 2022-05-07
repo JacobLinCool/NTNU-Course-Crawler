@@ -1,0 +1,77 @@
+{
+    "year": 110,
+    "term": 2,
+    "name": "地質科學論文寫作",
+    "teachers": [
+        "謝奈特"
+    ],
+    "department": "SM44",
+    "code": "ESC0278",
+    "credit": 3,
+    "serial": 2657,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 5,
+            "from": 7,
+            "to": 9,
+            "campus": "公館",
+            "classroom": "Ｃ403"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程不開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "This course will focus on the oral and written communication of scientific work. The students will be asked to write four term papers on predetermined topics and present them on a monthly basis.",
+    "goals": [
+        "To learn presentation skills",
+        "Learn scientific writing",
+        "Improve reading comprehension"
+    ],
+    "syllabus": "【18 Weeks】\n\nWeeks 1-4 Topic 1: Introduction to presentations and writing. Students will select a topic and prepare a short review paper including a 20 minute presentation.\n\nWeeks 5-9 Topic 2: Students will select a topic and prepare a short review paper including a 20 minute presentation.\n\nWeeks 10-13 Topic 3: Students will select a topic and prepare a short review paper including a 20 minute presentation.\n\nWeeks 14-18 Topic 4: Students will select a topic and prepare a short review paper including a 20 minute presentation.",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "Lectures will be conducted on a regular basis to ensure students are up to date on their presentation skills and writing techniques."
+        },
+        {
+            "type": "討論法",
+            "note": "Group discussions will occur on a monthly basis on specific topics."
+        },
+        {
+            "type": "媒體融入教學",
+            "note": "Monthly presentations will be required on a predetermined topic"
+        },
+        {
+            "type": "專題研究",
+            "note": "Monthly term papers will be required on a predetermined topic"
+        }
+    ],
+    "grading": [
+        {
+            "type": "課堂討論參與",
+            "weight": 10,
+            "note": "Students must ask questions and discuss topics."
+        },
+        {
+            "type": "出席",
+            "weight": 10,
+            "note": "Attendance is mandatory"
+        },
+        {
+            "type": "專題",
+            "weight": 80,
+            "note": "Each case study will require a paper and presentation."
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

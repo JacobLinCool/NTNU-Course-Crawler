@@ -1,0 +1,84 @@
+{
+    "year": 108,
+    "term": 2,
+    "name": "通訊系統電腦模擬",
+    "teachers": [
+        "黃政吉"
+    ],
+    "department": "HM75",
+    "code": "AEC8023",
+    "credit": 3,
+    "serial": 1111,
+    "group": "",
+    "quota": {
+        "limit": 40,
+        "additional": 16
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 7,
+            "to": 9,
+            "campus": "本部",
+            "classroom": "多媒體與通訊實驗室"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程主要介紹排隊理論，以理論與實驗的方式探討通訊系統效能。",
+    "goals": [
+        "認識排隊理論",
+        "培養以排隊理論分析網路效能之能力",
+        "培養以C++設計線性規劃程式之能力",
+        "利用線性規劃以最佳化通訊網路系統傳輸效能之能力"
+    ],
+    "syllabus": "Introductions (Week 1)  \nMATLAB I (Week 2)  \nMATLAB II (Week 3)  \nIntroductions (Week 1)  \nMATLAB I (Week 2)  \nMATLAB II (Week 3)  \nMATLAB III (Week 4)  \nQueueing theory (Week 5)  \nM/M/c/c (Week 6)  \nM/M/1 (Week 7)  \nMidterm (Week 8)  \nWiFi and CSMA  (Week 9)  \nIEEE 802.11 DCF (Week 10)  \nMarkov chain (Week 11)  \nPerformance analysis (Week 12)  \nPerformance analysis II (Week 13)  \nComputer simulation I (Week 14)  \nComputer simulation II (Week 15)  \nFinal exam (Week 16)  \nTerm project I (Week 17)  \nTerm project II (Week 18)",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "投影片介紹"
+        },
+        {
+            "type": "合作學習",
+            "note": "小組討論"
+        },
+        {
+            "type": "實驗/實作",
+            "note": "MATLAB程式"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 10,
+            "note": "MATLAB程式"
+        },
+        {
+            "type": "期中考",
+            "weight": 30,
+            "note": "筆試"
+        },
+        {
+            "type": "期末考",
+            "weight": 30,
+            "note": "筆試"
+        },
+        {
+            "type": "出席",
+            "weight": 20,
+            "note": "點名"
+        },
+        {
+            "type": "專題",
+            "weight": 10,
+            "note": "MATLAB程式"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

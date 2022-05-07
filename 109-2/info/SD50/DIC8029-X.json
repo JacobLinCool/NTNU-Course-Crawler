@@ -1,0 +1,87 @@
+{
+    "year": 109,
+    "term": 2,
+    "name": "生物系統模擬",
+    "teachers": [
+        "沈聖峰"
+    ],
+    "department": "SD50",
+    "code": "DIC8029",
+    "credit": 3,
+    "serial": 2634,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 5,
+            "from": 2,
+            "to": 4,
+            "campus": "校外",
+            "classroom": "校外教室"
+        }
+    ],
+    "programs": [],
+    "comment": "臺灣大學計中大樓2F212教室",
+    "restrict": "◎課程不開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "The course material is designed to be interdisciplinary, integrating biology, ecology, mathematics and environmental sciences. While the main course material is based on classic ecological modeling textbooks and articles, these analytic methods are applicable to multi-faceted research questions. The material builds from a single population and then extends to the ecosystem level, including species interaction, climate changes and disease as well as molecules interactions within cells. Regular modeling exercises are required (1 unit as practice). After equipped with modeling skills, students have to develop their own research questions and use modeling and data mining approaches to solve their questions. Instructors will guide students through the question-solving processes.  Students will carry out modeling and data analysis exercises on a regular basis. Students need to make presentations of their homework. We will also teach the presentation skills. Finally, students will develop their own models and applications. For the final project, students need to first prepare and discuss their proposals with the instructors. Through the discussing processes students will develop constructive and logical thinking.",
+    "goals": [
+        "Expose students to various research topics in biodiversity",
+        "Provide students trainings in communicating science critically and effectively",
+        "Provide students trainings in science research ethics and strategies"
+    ],
+    "syllabus": "1.    1Introduction to programming and modeling\n\n2.    Introduction to evolutionary model and optimization\n\n3.    Self-consistent model in evolution 1\n\n4.    Self-consistent model in evolution 2\n\n5.    Dynamic programming\n\n6.    Evolutionary game theory\n\n7.    Adaptive dynamics\n\n8.    Life history theory and modeling\n\n9.    Density-dependent regulation (stock-recruitment) (1 page proposal due)\n\n10.      Age-structured models: yield-per-recruit, Virtual Population Analysis\n\n11.      Individual-based modeling\n\n12.      Species interactions and food chain\n\n13.      Disease model and AIDS\n\n14.      Alternative stable state and On and off of cell cycle\n\n15.      Climate Change\n\n16.      Project presentations\n\n17.      Project presentations  \n18.Project presentations",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": ""
+        },
+        {
+            "type": "問題解決教學",
+            "note": ""
+        },
+        {
+            "type": "實驗/實作",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 20,
+            "note": ""
+        },
+        {
+            "type": "期中考",
+            "weight": 25,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 25,
+            "note": ""
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 20,
+            "note": ""
+        },
+        {
+            "type": "出席",
+            "weight": 10,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

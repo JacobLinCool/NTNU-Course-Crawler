@@ -1,0 +1,82 @@
+{
+    "year": 107,
+    "term": 1,
+    "name": "高等資料庫",
+    "teachers": [
+        "戴建耘"
+    ],
+    "department": "HM70",
+    "code": "IEM0190",
+    "credit": 3,
+    "serial": 1109,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 1,
+            "from": 6,
+            "to": 8,
+            "campus": "本部",
+            "classroom": "研討四"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "​ ▲教學目標：\nThis course is aimed to introduce fundamentals of database systems, their architectures, design methodologies and recent research topics related to data base design.",
+    "goals": [
+        "This course is aimed to introduce fundamentals of database systems,",
+        "Design methodologies and recent research topics related to data base design."
+    ],
+    "syllabus": "▲教學目標：  \nThis course is aimed to introduce fundamentals of database systems, their architectures, design methodologies and recent research topics related to data base design.  \n▲教材內容：  \n二、教材內容：  \nUnit 1: database systems introduction  \nUnit 2: ER-model  \nUnit 3: Relational Model and Relational languages  \nUnit 4: Normalization  \nUnit 5: Relational algebra and Relational calculus  \nUnt 6: SQL  \nUnit 7: File Structure and Query Optimization  \nUnit 8: Transaction Processing  \nUnit 9: Concurrency Control Techniques  \nUnit 10: Database Recovery  \n▲教學評量：  \n三、實施方式：  \nTentative Grading: 100 points = 20% quiz + 30% project +10% oral presentation on selected topics + 20% mid +20% final",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": ""
+        },
+        {
+            "type": "專題研究",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 20,
+            "note": ""
+        },
+        {
+            "type": "期中考",
+            "weight": 20,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 20,
+            "note": ""
+        },
+        {
+            "type": "報告",
+            "weight": 10,
+            "note": ""
+        },
+        {
+            "type": "專題",
+            "weight": 30,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

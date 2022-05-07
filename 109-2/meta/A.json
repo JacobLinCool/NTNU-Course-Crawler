@@ -1,0 +1,70 @@
+[
+    {
+        "year": 109,
+        "term": 2,
+        "name": "領導概論",
+        "teachers": [
+            "鄭志富"
+        ],
+        "department": "A",
+        "code": "A0U0002",
+        "credit": 2,
+        "serial": 1,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 5
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 3,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "體001"
+            }
+        ],
+        "programs": [
+            "金牌書院"
+        ],
+        "comment": "",
+        "restrict": "",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 2,
+        "name": "生涯規劃與就業輔導",
+        "teachers": [
+            "洪聰敏"
+        ],
+        "department": "A",
+        "code": "A0U0004",
+        "credit": 2,
+        "serial": 2,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 5
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 6,
+                "to": 7,
+                "campus": "本部",
+                "classroom": "正404"
+            }
+        ],
+        "programs": [
+            "金牌書院"
+        ],
+        "comment": "",
+        "restrict": "",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    }
+]

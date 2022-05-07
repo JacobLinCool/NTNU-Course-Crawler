@@ -1,0 +1,65 @@
+{
+    "year": 107,
+    "term": 2,
+    "name": "影像處理與分析（一）",
+    "teachers": [
+        "黃建智"
+    ],
+    "department": "SU40",
+    "code": "MAC9022",
+    "credit": 3,
+    "serial": 2714,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 3,
+            "from": 8,
+            "to": 10,
+            "campus": "公館",
+            "classroom": "教室自排"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "",
+    "classes": "9",
+    "dept_group": "",
+    "hours": 3,
+    "description": "這是一門處理影像噪訊與模糊問題的應用課程。在「影像處理與分析（一）」中，我們將介紹幾個經典的影像去噪與影像清晰化方法及其相關數學模型。",
+    "goals": [
+        "培養數學專業能力",
+        "培養應用數學解決問題的能力",
+        "提升抽象思考層次",
+        "以高觀點詮釋數學與其他學科連結"
+    ],
+    "syllabus": "1.        Introduction to Image Processing Problems by Examples (two weeks)\n\n2.        Stochastic Models of Noises (two weeks)\n\n3.        Random Signals from Stochastic Differential Equation (two weeks)\n\n4.        Total Variation Denoising (two weeks)\n\n5.        Denoising via Nonlinear Diffusion (two weeks)\n\n6.        Students' Midterm Reports (one week)\n\n7.        Models of Blurs (two weeks)\n\n8.        Image Deblurring by Wiener Filters (two weeks)\n\n9.        Deblurring of Bounded Variation Images (two weeks)\n\n10.     Students' Final Reports (one week)",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "講授課程內容"
+        },
+        {
+            "type": "討論法",
+            "note": "由同學分組討論報告內容重點"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 60,
+            "note": ""
+        },
+        {
+            "type": "報告",
+            "weight": 40,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

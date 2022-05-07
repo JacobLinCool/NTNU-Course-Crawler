@@ -1,0 +1,63 @@
+{
+    "year": 107,
+    "term": 2,
+    "name": "化學動力學",
+    "teachers": [
+        "李以仁"
+    ],
+    "department": "SU42",
+    "code": "CMC0113",
+    "credit": 3,
+    "serial": 2825,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 4,
+            "from": 2,
+            "to": 4,
+            "campus": "公館",
+            "classroom": "Ｃ105"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "",
+    "classes": "9",
+    "dept_group": "",
+    "hours": 3,
+    "description": "使學生瞭解化學動力學之理論基礎和相關知識。",
+    "goals": [
+        "使學生瞭解化學動力學之理論基礎和相關知識。"
+    ],
+    "syllabus": "**Part I: Chemical Kinetics**:  \n1.1. Basic concept of kinetics  \n1.2 Complex reactions  \n1.3. Kinetic theory of gases  \n1.4 Kinetic measurements  \n1.5. Reactions in liquid  \n1.6. Catalysis  \n1.7 Stochastic reactions\n\n**Part II Reaction Dynamics:  \n**2.1. Potential Energy Surface  \n2.2. Bimolecular Reactions  \n2.3. Experimental techniques on chemical dynamics  \n2.4 Transition State Theory  \n2.5 RRKM Theory",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "Chalk talks and slide presentations."
+        }
+    ],
+    "grading": [
+        {
+            "type": "期中考",
+            "weight": 40,
+            "note": "Midterm I (20%) Midterm II (20%)"
+        },
+        {
+            "type": "期末考",
+            "weight": 30,
+            "note": "Final Exam (30%) covers all contents."
+        },
+        {
+            "type": "出席",
+            "weight": 30,
+            "note": "Homework (weekly – biweekly) 40% (10% bonus included)"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

@@ -1,0 +1,63 @@
+{
+    "year": 110,
+    "term": 2,
+    "name": "代數專題（二）",
+    "teachers": [
+        "許志農"
+    ],
+    "department": "SM40",
+    "code": "MAC0172",
+    "credit": 3,
+    "serial": 2612,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 1,
+            "from": 16,
+            "to": 11,
+            "campus": "公館",
+            "classroom": "數學館311研討室"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程讓學生瞭解抽象代數的理論，以作為學生未來修習其他進階課程的基礎。",
+    "goals": [
+        "訓練學生掌握抽象代數的知識",
+        "訓練學生可以用代數的語言進行溝通、表達、寫作。"
+    ],
+    "syllabus": "本課程將延續上學期課程將利用交換代數 modules over P.I.D. 的概念, 介紹在其在代數上的應用. 特別著重於在線性代數上的應用.\n\n因此對於線性代數希望能有更進一步了解的同學相當有幫助. 尤其是要擔任線性代數助教的同學, 強烈推薦能修習本課程.\n\n預備的知識是大學的代數 (尤其是多項式環), 不過在本課程中我們會適當地複習及補充這些先備知識.  \n  \n1\\. Matrix and Linear Transformations, Ranks and Equivalence (4 Weeks)\n\n2\\. Primary Decomposition (4 Weeks)\n\n3\\. Canonical Forms (4 Weeks)  \n  \n4\\. Inner Product Spaces (4 Weeks)",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "課堂討論參與",
+            "weight": 50,
+            "note": ""
+        },
+        {
+            "type": "報告",
+            "weight": 50,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

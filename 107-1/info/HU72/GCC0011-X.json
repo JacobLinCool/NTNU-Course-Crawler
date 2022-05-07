@@ -1,0 +1,100 @@
+{
+    "year": 107,
+    "term": 1,
+    "name": "計算色彩學",
+    "teachers": [
+        "周遵儒"
+    ],
+    "department": "HU72",
+    "code": "GCC0011",
+    "credit": 3,
+    "serial": 3196,
+    "group": "",
+    "quota": {
+        "limit": 30,
+        "additional": 0
+    },
+    "schedule": [
+        {
+            "day": 3,
+            "from": 10,
+            "to": 12,
+            "campus": "本部",
+            "classroom": "教404"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎限大三大四 ◎限碩一碩二碩三以上修習",
+    "form_s": "",
+    "classes": "9",
+    "dept_group": "",
+    "hours": 3,
+    "description": "訓練學生對於使用各種計算工具與方法解決關於色彩量測、彩色影像輸出入、彩色影像處理、嵌入式彩色影像系統的問題，並輔導學生從事相關課題的學術研究",
+    "goals": [
+        "具有運用資訊科技及設計知能，從事圖像、文字及聲音之整合製作、出版與經營之能力。",
+        "具有邏輯歸納、創意思考、藝術整合與市場分析之能力。",
+        "養成包融多元藝術形式的胸襟、發揮創意，展現圖文傳播之新契機。",
+        "具有獨立批判與分析，學習進行對外溝通與自我實現之能力。"
+    ],
+    "syllabus": "1      Introduction\n\n2      Basic Theory of Color Science\n\n3      Preliminary Foundation of Mathematics and Statistics\n\n3.1    Calculus\n\n3.2    Linear Algebra\n\n3.3    Probability & Statistics\n\n3.4    Approximation\n\n3.5    Optimization\n\n4      Computational Tools\n\n4.1    C++\n\n4.2    Matlab\n\n4.3    Maple\n\n5      Color Image Acquisition\n\n5.1    Camera\n\n5.2    Scanner\n\n6      Color Image Display\n\n6.1    Digital Display\n\n6.2    Hardcopy Print\n\n7      Color Image Processing\n\n7.1    Image Based Rendering\n\n7.2    Digital Lighting\n\n7.3    Material, Texture, and Shade\n\n8      Color Characteristics of Illuminants\n\n8.1         LED Lighting\n\n8.2         Color Rendering Index\n\n8.3         Computational Measuring\n\n9      Study on Contemporary Researches",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": ""
+        },
+        {
+            "type": "問題解決教學",
+            "note": ""
+        },
+        {
+            "type": "合作學習",
+            "note": ""
+        },
+        {
+            "type": "實驗/實作",
+            "note": ""
+        },
+        {
+            "type": "媒體融入教學",
+            "note": ""
+        },
+        {
+            "type": "專題研究",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 20,
+            "note": ""
+        },
+        {
+            "type": "出席",
+            "weight": 10,
+            "note": ""
+        },
+        {
+            "type": "報告",
+            "weight": 10,
+            "note": ""
+        },
+        {
+            "type": "專題",
+            "weight": 40,
+            "note": ""
+        },
+        {
+            "type": "其他",
+            "weight": 20,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

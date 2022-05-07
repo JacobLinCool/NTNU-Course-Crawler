@@ -1,0 +1,90 @@
+{
+    "year": 109,
+    "term": 2,
+    "name": "光電半導體",
+    "teachers": [
+        "李亞儒"
+    ],
+    "department": "HU77",
+    "code": "OEC9105",
+    "credit": 3,
+    "serial": 1338,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 3,
+            "from": 2,
+            "to": 4,
+            "campus": "公館",
+            "classroom": "Ｓ305"
+        }
+    ],
+    "programs": [
+        "太陽能源與工程學程"
+    ],
+    "comment": "",
+    "restrict": "◎必須先修過【OEC9110  材料光學】",
+    "form_s": "",
+    "classes": "9",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程是是針對師大光電工程學系學生的進階課程，從基礎學理出發，透過基礎物理了解光電半導體元件之工作原理，包括基礎量子物理、能階構造及能帶結構、載子的統計分析與遷移、載子能帶間的傳輸與躍遷、特殊載子形成（電漿、聲子、激子等），最後延伸至產業界常用之異質結構半導體結構（量子井、量子點與奈米線等等），讓修習的學生不僅具有光電半導體基本學理涵養，並能與產業應用接軌。",
+    "goals": [
+        "藉由光電半導體，培育學生運用物理數學與光電電子工程知識與技術，以解決光電電子工程相關之問題。",
+        "藉由光電半導體，使學生具備執行光電電子工程實務所需技術、技巧及使用儀器工具之能力。",
+        "從光電半導體教學過程，培養學生獨立思考與分析問題並解決問題之能力，奠定學生終生學習之基礎。",
+        "以實作討論方式培養學生團隊合作態度。",
+        "藉由指導教師指導，培養學生專業倫理之態度及具備國際觀及服務社會之信念。"
+    ],
+    "syllabus": "第1週  課程簡介 (Introduction of This Class) 固態＆量子物理複習 (Review of Solid State and Quantum Physics)\n\n第2週  半導體元件物理複習I (Review of Semiconductor Device Physics)\n\n第3週  固體的光學性質 (Optical Properties of Solids)\n\n第4週  電子的傳輸理論 (Electron Transport Theory)\n\n第5週  P-N接面 (P-N Junction) 、P-N接面二極體 (P-N Junction Diodes)、半導體發光二極體 (Semiconductor Light Emitting Diodes)\n\n第6週  光電半導體產業業師分享\n\n第7週  雷射放大與雷射震盪介紹 (Laser Amplification and Oscillation)\n\n第8週  半導體雷射 (Semiconductor Lasers)\n\n第9週  光電半導體相關產業參訪\n\n第10週 光二極體 (Photodiodes) 、雪崩光二極體 (Avalanche Photodiodes, APDs)\n\n第11週 半導體產業一日實習\n\n第12週 光電晶體 (Phototransisters)、光偵測器 (Photodetectors)\n\n第13週 量子井 (Quantum Well)\n\n第14週 光電半導體產業 業師分享\n\n第15週 太陽能電池 (Photovoltaic Devices)\n\n第16週 期末報告 (Final Report)\n\n第17週 自主、數位學習\n\n第18週 自主、數位學習",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "講述光電半導體重要概念與理論、次世代光學材料、元件及系統應用技術與知識，加強思考未來應用領域。"
+        },
+        {
+            "type": "討論法",
+            "note": "開放課堂討論增加學生互動與交流，增加學生學習效益。"
+        },
+        {
+            "type": "問題解決教學",
+            "note": "透過習題與作業，讓學生課後練習，活用課堂講授內容，解決問題。"
+        },
+        {
+            "type": "實地考察、參訪",
+            "note": "安排實務半導體企業之參訪、交流及一日實習"
+        },
+        {
+            "type": "其他",
+            "note": "自主、數位學習"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 30,
+            "note": "學生撰寫研讀論文報告，由學生之繳交與得分情況評量作業成績。"
+        },
+        {
+            "type": "期中考",
+            "weight": 20,
+            "note": "測驗學生對光電半導體學理了解與熟悉程度。(簡答、計算)"
+        },
+        {
+            "type": "期末考",
+            "weight": 20,
+            "note": "測驗學生對光電半導體學理了解與熟悉程度。(簡答、問答)"
+        },
+        {
+            "type": "報告",
+            "weight": 30,
+            "note": "參訪心得報告繳交與回饋分享。"
+        }
+    ],
+    "prerequisite": "◎必須先修過【OEC9110  材料光學】",
+    "general_core": []
+}

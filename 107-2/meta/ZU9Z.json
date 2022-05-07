@@ -1,0 +1,91 @@
+[
+    {
+        "year": 107,
+        "term": 2,
+        "name": "MYP的教與學（IB）",
+        "teachers": [
+            "柘艾衛"
+        ],
+        "department": "EU",
+        "code": "IBU0003",
+        "credit": 3,
+        "serial": 646,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 5,
+                "from": 2,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "教室自排"
+            },
+            {
+                "day": 5,
+                "from": 6,
+                "to": 8,
+                "campus": "本部",
+                "classroom": "教室自排"
+            },
+            {
+                "day": 6,
+                "from": 2,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "誠105"
+            },
+            {
+                "day": 6,
+                "from": 6,
+                "to": 8,
+                "campus": "本部",
+                "classroom": "誠105"
+            }
+        ],
+        "programs": [
+            "國際教師學程-國際"
+        ],
+        "comment": "授課教師Dr, Eric Jabal。本課程為密集授課課程，實際授課時間為2/23 (六)、3/29 (五)、4/19 (五))、4/20 (六)、 5/10 (五) 、5/11 (六) 、5/31、 6/1 (六))、6/14 (五)、皆於9：00-16：00上課(中午休息一小時)。    上課時間異動:(五)於進修推廣部B1 003教室，(六)維持在誠105教室",
+        "restrict": "◎第二階段需人工加選  ◎第一階段限 國際教師學程-華語文 國際教師學程-數學 國際教師學程-物理 國際教師學程-國際◎限國際教師學程-華語文、國際教師學程-數學、國際教師學程-物理、國際教師學程-國際選修",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "教師專業發展（IB）",
+        "teachers": [
+            "林子斌"
+        ],
+        "department": "EU",
+        "code": "IBUE003",
+        "credit": 3,
+        "serial": 647,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 2,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "教310"
+            }
+        ],
+        "programs": [
+            "國際教師學程-國際"
+        ],
+        "comment": "",
+        "restrict": "◎第一階段限 國際教師學程-華語文 國際教師學程-數學 國際教師學程-物理 國際教師學程-國際◎限國際教師學程-華語文、國際教師學程-數學、國際教師學程-物理、國際教師學程-國際選修",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    }
+]

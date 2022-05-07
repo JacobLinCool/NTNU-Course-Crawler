@@ -1,0 +1,78 @@
+{
+    "year": 107,
+    "term": 1,
+    "name": "優選理論專題（一）",
+    "teachers": [
+        "陳界山"
+    ],
+    "department": "SM40",
+    "code": "MAC0081",
+    "credit": 3,
+    "serial": 2604,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 1,
+            "from": 6,
+            "to": 8,
+            "campus": "公館",
+            "classroom": "教室自排"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程主要是關於一般數理規劃（線性或非線性規劃），在有限制或無限制條件下對於一目標函數的極值問題之探討。課程內容是線性規劃與非線性規劃的延伸與加廣，並兼顧在理論與實用性的應用。",
+    "goals": [
+        "瞭解一般數理規劃問題的結構。",
+        "熟悉各種優選條件或最佳化條件。",
+        "瞭解各種相關的應用。"
+    ],
+    "syllabus": "今年的專題(I)(II)將以數值最佳化(Numerical Optimization)為主題，涵蓋了下列內容：\n\n1.  Foundamentals of Unconstrained Optimization\n\n2\\. Line Search Methods\n\n3\\. Trust-Region Methods\n\n4\\. Conjugate Gradient Methods\n\n5\\. Quasi-Newton Methods\n\n6\\. Large-Scale Unconstrained Optimization\n\n7\\. Derivative-Free Optimization\n\n8\\. Least-Squares Problems\n\n9\\. Nonlinear Equations\n\n10\\. Theory of Constrained Optimization\n\n11\\. Foundamentals of Algorithms for Nonlinear Constrained Optimization\n\n12\\. Quadratic Programming\n\n13\\. Penalty and Augmented Lagrangian Methods\n\n14\\. Sequential Quadatic Programming\n\n15\\. Interior-Point Methods",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "部分內容由授課老師講述"
+        },
+        {
+            "type": "討論法",
+            "note": "同學輪流上台報告相關內容"
+        },
+        {
+            "type": "專題研究",
+            "note": "輪流研讀論文"
+        }
+    ],
+    "grading": [
+        {
+            "type": "課堂討論參與",
+            "weight": 20,
+            "note": "參與討論在本課程是重要的"
+        },
+        {
+            "type": "出席",
+            "weight": 30,
+            "note": "出席與參與討論在本課程是重要的"
+        },
+        {
+            "type": "報告",
+            "weight": 40,
+            "note": "同學輪流上台報告指定研讀的內容"
+        },
+        {
+            "type": "其他",
+            "weight": 10,
+            "note": "參加相關研討會"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

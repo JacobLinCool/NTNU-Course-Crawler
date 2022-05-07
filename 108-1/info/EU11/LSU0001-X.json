@@ -1,0 +1,74 @@
+{
+    "year": 108,
+    "term": 1,
+    "name": "程式設計（一）",
+    "teachers": [
+        "蔡孟蓉"
+    ],
+    "department": "EU11",
+    "code": "LSU0001",
+    "credit": 3,
+    "serial": 913,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 1,
+            "from": 6,
+            "to": 8,
+            "campus": "本部",
+            "classroom": "教402"
+        }
+    ],
+    "programs": [
+        "學習與資訊學程",
+        "數位人文與藝術學程"
+    ],
+    "comment": "",
+    "restrict": "",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程介紹 Python之基本概念、技能與實作，包含資料結構與語法、數與運算介紹、實作與資料分析等。",
+    "goals": [
+        "能了解 Python程式設計的基本概念及技能並撰寫程式。",
+        "能根據指定的方法步驟，規畫程式架構、流程並據以實作。"
+    ],
+    "syllabus": "**教學目標**\n\n本課程為跨領域學習大學生之程式設計入門課程，目的在培養學生透過程式設計進行解決問題所需之基本概念和技能，提升學習程式設計的興趣和動機，奠定相關進階課程的基礎。本課程將強調運算思維的訓練和實作問題解決。此課程為學習科學學士學程的大一必修課程，不需要任何先修課程。\n\n**教學進度**\n\n週次\n\n日期\n\n主      題\n\n作業\n\n1\n\n \n\nIntroduction of Computer Programming\n\nInstall IDLE (Python 3.7)\n\n2\n\nCh 1: Python Basics\n\nHomework 1\n\n3\n\nCh 2: Flow Control\n\nHomework 2\n\n4\n\nCh 3: Functions\n\nHomework 3\n\n5\n\nLab Quiz 1\n\n6\n\nCh 4: Lists\n\nHomework 4\n\n7\n\nCh 5: Dictionaries and Structuring Data\n\nHomework 5\n\n8\n\nLab Quiz 2\n\n9\n\nCh 6-1: Manipulating Strings\n\nHomework 6\n\n10\n\nCh 6-2: Manipulating Strings (Appendix A, B)\n\nHomework 6 (project/bonus)\n\n11\n\nCh 7-1: Pattern Matching by Regular Expressions\n\nHomework 7\n\n12\n\nCh 7-2: Pattern Matching by Regular Expressions\n\nHomework 7 (project/bonus)\n\n13\n\nLab Quiz 3\n\n14\n\nCh 8: Reading & Writing Files\n\nHomework 8\n\n15\n\nCh 9: Organizing Files\n\nHomework 9\n\n16\n\nCh 10: Debugging\n\nHomework 10\n\n17\n\nLab Quiz 4\n\n18\n\nLab Quiz 5 (Optional)\n\n**Evaluation**\n\n1.  Homework        60%\n2.  Lab Quiz           40% (五選四)\n\n**Software**                                                           \n\n*   Python 3.7, Free Software, Download: [https://www.python.org/psf/](https://www.python.org/psf/)\n*   Python 3.7, Free Tutorial: [https://docs.python.org/3.7/tutorial/index.html](https://docs.python.org/3.7/tutorial/index.html)\n\n  \n[教學進度與主題附件](https://ap.itc.ntnu.edu.tw/NtnuFileShare/file.do?action=dl&gno=604e8afdf0a54c2dbbafb474ca6e2b31&fno=1fe52863f3c94753b22028a7bd622059)",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": ""
+        },
+        {
+            "type": "問題解決教學",
+            "note": ""
+        },
+        {
+            "type": "實驗/實作",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 60,
+            "note": "Homework"
+        },
+        {
+            "type": "其他",
+            "weight": 40,
+            "note": "Lab Quiz (五選四)"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

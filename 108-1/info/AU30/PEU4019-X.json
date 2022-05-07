@@ -1,0 +1,69 @@
+{
+    "year": 108,
+    "term": 1,
+    "name": "體育專業服務",
+    "teachers": [
+        "張家豪"
+    ],
+    "department": "AU30",
+    "code": "PEU4019",
+    "credit": 1,
+    "serial": 122,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 6,
+            "from": 1,
+            "to": 1,
+            "campus": "本部",
+            "classroom": "教室自排"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "4",
+    "classes": "",
+    "dept_group": "",
+    "hours": 1,
+    "description": "本課程係以不定時方式，由修課學生自行選擇安排體育、運動及身體活動相關活動進行非營利收入的專業服務，服務活動之後，經活動主管負責人證明簽署，再經導師認可後，即可以累計專業服務時數。",
+    "goals": [
+        "培養專業的服務態度與經驗",
+        "應用專業所學於實務參與",
+        "認識並且體驗社會責任"
+    ],
+    "syllabus": "參與體育相關的活動，進行學習與服務。",
+    "methodologies": [
+        {
+            "type": "合作學習",
+            "note": "小組合作"
+        },
+        {
+            "type": "實地考察、參訪",
+            "note": "參與活動"
+        }
+    ],
+    "grading": [
+        {
+            "type": "課堂討論參與",
+            "weight": 30,
+            "note": "問題討論"
+        },
+        {
+            "type": "出席",
+            "weight": 40,
+            "note": "出席狀況"
+        },
+        {
+            "type": "報告",
+            "weight": 30,
+            "note": "繳交報告"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

@@ -1,0 +1,86 @@
+{
+    "year": 108,
+    "term": 1,
+    "name": "工程數學（一）",
+    "teachers": [
+        "謝振傑"
+    ],
+    "department": "HU77",
+    "code": "OEU0003",
+    "credit": 3,
+    "serial": 1371,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 7,
+            "to": 9,
+            "campus": "公館",
+            "classroom": "綜合館201"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "2",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程即以數學方法解決實際工程問題中的應用，因此提供理解應用數學的概念和技術所需的綜合知識，其中會包含以下幾個特點：\n（i）模型化、利用眾多方法解此數學問題、詮釋數學結果;\n（ii）概述數值方法/統計軟體;\n（iii）統合原理;\n（iv）區別主題內容的概念架構。",
+    "goals": [
+        "教導學生分析處理實際工程問題所需之基本數學觀念及能力",
+        "訓練學生基本數學思惟及推理的能力，以奠定各專業所需的數學基礎"
+    ],
+    "syllabus": "週次\n\n教學大綱及進度\n\n1\n\n課程概述/常微分方程式-一階\n\n2\n\n常微分方程式-一階/二階\n\n3\n\n常微分方程式-二階\n\n4\n\n常微分方程式-高階\n\n5\n\n常微分方程式-ODE之方程組/相位平面/定性方法\n\n6\n\n常微分方程式-ODE之級數解/特殊函數\n\n7\n\n常微分方程式-Laplace轉換\n\n8\n\n常微分方程式-Laplace轉換/期中考重點複習\n\n9\n\n期中測驗評量\n\n10\n\n線性代數-矩陣/向量\n\n11\n\n線性代數-行列式/線性方程組\n\n12\n\n線性代數-矩陣特徵值問題\n\n13\n\n向量微分\n\n14\n\n向量積分\n\n15\n\n傅立葉分析\n\n16\n\n偏微分方程式\n\n17\n\n偏微分方程式/期末考重點複習\n\n18\n\n期末測驗評量",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "問題解決教學",
+            "note": ""
+        },
+        {
+            "type": "合作學習",
+            "note": ""
+        },
+        {
+            "type": "實驗/實作",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 20,
+            "note": ""
+        },
+        {
+            "type": "期中考",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 10,
+            "note": ""
+        },
+        {
+            "type": "出席",
+            "weight": 10,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

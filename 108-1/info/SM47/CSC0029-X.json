@@ -1,0 +1,87 @@
+{
+    "year": 108,
+    "term": 1,
+    "name": "電腦視覺",
+    "teachers": [
+        "王科植"
+    ],
+    "department": "SM47",
+    "code": "CSC0029",
+    "credit": 3,
+    "serial": 2771,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 3,
+            "from": 2,
+            "to": 4,
+            "campus": "公館",
+            "classroom": "綜合館002"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "Advanced study on computer vision, focusing on a set of computational techniques for 3-D imaging, this course covers a wide range of research problems encountered within computer vision and provides detailed algorithmic and theoretical treatments for each.\n\n本課程主要介紹3–D影像的電腦視覺相關處理技術。這門課程廣泛的探討與電腦視覺有關的研究問題，並為這些問題提供了詳細的演算法和理論分析。",
+    "goals": [
+        "Understand biological vision systems",
+        "Imitate biological vision systems",
+        "Build theoretical concepts of visual systems",
+        "Implement computational techniques of low, mid and high levels vision"
+    ],
+    "syllabus": "**本課程為英語授課**\n\n第一部分：影像處理基礎 (第1~4周)\n\n*   電腦視覺歷史\n*   電腦視覺應用\n*   OpenCV\n*   圖像操作\n*   型態學\n\n第二部分：移動偵測與物體追蹤 (第5~8周)\n\n*   特徵提取與方向梯度直方圖\n*   PCA\n*   光場\n*   Covariance追蹤\n*   Mean Shift追蹤\n\n第三部分：三維視覺 (第9~12周)\n\n*   相機模型\n*   相機校正\n*   圖像配准\n*   立體視覺\n*   三維重建\n\n第四部分：圖像辨識 (第13~16周)\n\n*   非監督式學習\n*   監督式學習\n*   類神經網路\n*   分類器訓練",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "教師以講授投影片內容為主"
+        },
+        {
+            "type": "討論法",
+            "note": "學生上課時針對講授內容討論"
+        },
+        {
+            "type": "合作學習",
+            "note": "期末分組專題需組員分工合作"
+        },
+        {
+            "type": "實驗/實作",
+            "note": "作業實作上課所教授之理論"
+        },
+        {
+            "type": "專題研究",
+            "note": "期末分組專題：實作電腦視覺系統"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 60,
+            "note": "實作上課所教的理論與方法"
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 5,
+            "note": "討論參與和發問"
+        },
+        {
+            "type": "出席",
+            "weight": 5,
+            "note": "出席"
+        },
+        {
+            "type": "成果展覽",
+            "weight": 30,
+            "note": "期末分組專題：每組選擇一題目實作出完整的系統並報告"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

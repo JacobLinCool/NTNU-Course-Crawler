@@ -1,0 +1,89 @@
+{
+    "year": 108,
+    "term": 1,
+    "name": "英文（一）",
+    "teachers": [
+        "吳佳琪"
+    ],
+    "department": "CU",
+    "code": "00UB7A3",
+    "credit": 2,
+    "serial": 302,
+    "group": "H",
+    "quota": {
+        "limit": 35,
+        "additional": 0
+    },
+    "schedule": [
+        {
+            "day": 5,
+            "from": 1,
+            "to": 2,
+            "campus": "本部",
+            "classroom": "樸202"
+        }
+    ],
+    "programs": [],
+    "comment": "文學院（英語系除外）、藝術學院、科技學院、車能學位學程、體育系、台文系、華語系一年級 (能力分班)",
+    "restrict": "◎第一階段需人工加選◎第二階段需人工加選◎加退選階段需人工加選",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 2,
+    "description": "共同科英文（一）課程為一學年課程，每學期兩學分，係為非英語系學生所開設的課程。目標在幫助大一學生活用中學時期所累積的英語知識，提昇英語聽、說、讀、寫整體的溝通能力。為達此目標，本課程要求教師盡量用英語上課，努力營造一個豐富的英語環境，讓學生不但有充分機會以英語參與課堂活動，且樂於使用英語與同學及老師溝通。",
+    "goals": [
+        "增進學生英語溝通表達能力",
+        "透過參與課程活動促進團隊精神",
+        "透過多面向英語閱讀促使學生了解多元文化，拓展學生國際化視野",
+        "透過課堂討論培養批判精神",
+        "提升學生英語學習動機及自主學習興趣"
+    ],
+    "syllabus": "  \n \n\n  \n[教學進度與主題附件](https://ap.itc.ntnu.edu.tw/NtnuFileShare/file.do?action=dl&gno=c0d32bcbca3d4c3eb5bf7525becbd1f0&fno=b77dedea0daf4b508a01d476757f6a12)",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": ""
+        },
+        {
+            "type": "問題解決教學",
+            "note": ""
+        },
+        {
+            "type": "合作學習",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "期末考",
+            "weight": 20,
+            "note": ""
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 35,
+            "note": ""
+        },
+        {
+            "type": "出席",
+            "weight": 25,
+            "note": ""
+        },
+        {
+            "type": "報告",
+            "weight": 15,
+            "note": "Group Presentation"
+        },
+        {
+            "type": "其他",
+            "weight": 5,
+            "note": "Extra Credit"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

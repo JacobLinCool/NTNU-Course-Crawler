@@ -1,0 +1,76 @@
+{
+    "year": 107,
+    "term": 2,
+    "name": "電路學（一）",
+    "teachers": [
+        "郭建宏"
+    ],
+    "department": "HU75",
+    "code": "AEU0014",
+    "credit": 3,
+    "serial": 1331,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 26
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 6,
+            "to": 8,
+            "campus": "本部",
+            "classroom": "誠109"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "1",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程是電機工程領域之入門課程，在本課程中首要加強電路分析能力，並進而學習如何設計電路之能力。",
+    "goals": [
+        "認識直流電路與相關電路元件",
+        "培養電路分析能力",
+        "培養電路暫態與穩態分析能力",
+        "建立交流電路分析與進階課程之基礎"
+    ],
+    "syllabus": "1.     Introduction\n\n2.     Circuit Variables and Laws\n\n3.     Properties of Resistive Circuits\n\n4.     Applications of Resistive Circuits\n\n5.     Systematic Analysis Methods\n\n6.     AC Circuits\n\n7.     AC Power",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "以投影片搭配板書方式進行"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 20,
+            "note": "章節作業"
+        },
+        {
+            "type": "期中考",
+            "weight": 25,
+            "note": "筆試"
+        },
+        {
+            "type": "期末考",
+            "weight": 30,
+            "note": "筆試"
+        },
+        {
+            "type": "出席",
+            "weight": 5,
+            "note": "課程出席情形"
+        },
+        {
+            "type": "其他",
+            "weight": 20,
+            "note": "小考2次"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

@@ -1,0 +1,78 @@
+{
+    "year": 107,
+    "term": 1,
+    "name": "實驗統計設計",
+    "teachers": [
+        "王健華"
+    ],
+    "department": "HM72",
+    "code": "GCM0021",
+    "credit": 3,
+    "serial": 1144,
+    "group": "",
+    "quota": {
+        "limit": 35,
+        "additional": 5
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 2,
+            "to": 4,
+            "campus": "本部",
+            "classroom": "教403"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎限碩一碩二碩三以上修習 ◎課程不開放上修",
+    "form_s": "1",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "了解1.統計的目的與方法、敘述統計與推論統計以及統計如何應用於圖文傳播相關實證研究",
+    "goals": [
+        "統計的目的與方法",
+        "敘述統計的推論統計",
+        "統計如何應用於圖文傳播相關實證研究"
+    ],
+    "syllabus": " ◆教學主題:\n\n在敘述性統計方面\n\n1.集中數量的測量: 中數、眾數、與平均數 （medium, mode, and mean）\n\n2.變異數量的測量: 標準差與變異數 （standard deviation and variance）\n\n3.百分位數、百分等級、以及標準分數\n\n4.常態分佈（normal distribution）的意義\n\n5.相關度的統計: 積差相關（correlation coefficient）\n\n6.迴歸（regression）與預測\n\n在推論統計方面\n\n1.取樣方法 (sampling and interval estimation)\n\n2.母群體分佈與樣本分佈 (population and sampling distribution)\n\n3.平均數、抽樣誤差、與標準差 （average, sampling error, and standard deviation）\n\n4.信心區間 （confidence interval）\n\n5.假設的檢定 (hypothesis testing)\n\nt – 檢定\n\nχ2 – 檢定\n\nF – 檢定 變異數分析與比較 （Analysis of Variance and Contrast）\n\n\\*進階議題\n\n1.問卷信度與效度之檢訂\n\n2.多元迴歸\n\n◆教材進度:\n\n課程介紹, 統計與圖傳應用研究\n\n標準差與變異數、常態分配\n\n抽樣與抽樣分配\n\n信賴區間\n\n相關度的統計: 積差相關、\n\n相關度的統計: 部份相關與淨相關\n\n簡單迴歸\n\n假設檢定\n\nt – 檢定 （獨立樣本，關聯樣本）\n\nF – 檢定與單因子變異數分析\n\n卡方檢定 （適合度檢定、關連度檢定）\n\n事後比較\n\n隨堂複習評量（open book【個人】）\n\nExcel與SPSS統計功能介紹\n\n進階議題：二因子與三因子變異數分析\n\n進階議題：多元迴歸與預測\n\n期末報告【分組】",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": ""
+        },
+        {
+            "type": "其他",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "期中考",
+            "weight": 40,
+            "note": "隨堂複習評量【個人】"
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 10,
+            "note": "平時成績"
+        },
+        {
+            "type": "出席",
+            "weight": 10,
+            "note": "平時成績"
+        },
+        {
+            "type": "報告",
+            "weight": 40,
+            "note": "實驗設計、模擬實施與分析【分組】"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

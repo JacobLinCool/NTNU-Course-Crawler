@@ -1,0 +1,83 @@
+{
+    "year": 110,
+    "term": 2,
+    "name": "認知神經科學導論",
+    "teachers": [
+        "顏妙璇"
+    ],
+    "department": "SM45",
+    "code": "SEC0088",
+    "credit": 3,
+    "serial": 2676,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 4,
+            "from": 16,
+            "to": 11,
+            "campus": "公館",
+            "classroom": "教室自排"
+        }
+    ],
+    "programs": [],
+    "comment": "◎數位課程",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程旨在建立對認知神經科學的基礎知識，包括腦的結構、各種研究工具與實驗方法、認知功能的研究議題，奠定學生日後閱讀認知神經科學應用於科教領域的研究文獻的基礎，並可運用研究成果於教學上。",
+    "goals": [
+        "熟悉並運用認知神經科學知識(包括研究議題和方法)",
+        "了解現今應用於科教領域的認知神經科學研究發展",
+        "搜集與研讀相關的認知神經科學文獻，並可整理、報導與評論認知神經科學相關的新知"
+    ],
+    "syllabus": "\\[16+2週\\]\n\n1\\. 認知神經科學簡介; 大腦結構 & 神經細胞\n\n2. 記憶\n\n3. 注意力\n\n4\\. 文獻導讀(1)：研究設計與資料分析\n\n5\\. 眼動簡介\n\n6\\. 文獻導讀(2)：眼動\n\n7&8. 眼動報告\n\n9\\. 腦波簡介 A. Ch3 The Electrophysiological Brain\n\n10\\. 文獻導讀(3)：腦波\n\n11\\. fMRI簡介 A. Ch4 The Imaged Brain & B. fMRI BOLD contrast\n\n12\\. 文獻導讀(4)：fMRI\n\n13.  TMS簡介 A. Ch5 The Lesioned Brain\n\n14&15. 報告 (fMRI & 腦波)\n\n16\\. 期末報告\n\n將視授課狀況調整進度",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": ""
+        },
+        {
+            "type": "合作學習",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 12,
+            "note": "兩次預習作業(教師指定導讀文章中之段落)"
+        },
+        {
+            "type": "期末考",
+            "weight": 15,
+            "note": "複習作業：關於神經科學研究工具與方法之整理"
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 28,
+            "note": "參與線上課程活動"
+        },
+        {
+            "type": "報告",
+            "weight": 30,
+            "note": "課堂口頭報告2次"
+        },
+        {
+            "type": "專題",
+            "weight": 15,
+            "note": "應用多媒體原則設計教案"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

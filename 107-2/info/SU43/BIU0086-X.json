@@ -1,0 +1,71 @@
+{
+    "year": 107,
+    "term": 2,
+    "name": "演化論",
+    "teachers": [
+        "黃士穎"
+    ],
+    "department": "SU43",
+    "code": "BIU0086",
+    "credit": 3,
+    "serial": 2902,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 2,
+            "to": 4,
+            "campus": "公館",
+            "classroom": "Ｅ201"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎必須先修過【BIU0044  遺傳學】",
+    "form_s": "3",
+    "classes": "2",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程之教學目標在使學生瞭解演化學之理論及各種演化現象形成之原因與其過程，並能初步認知演化假說的形成及理論基礎。教學目標亦希望能達成校訂相關之基本素養及系訂相關之核心能力之養成。",
+    "goals": [
+        "使學生瞭解演化學之理論及各種演化現象形成之原因與其過程"
+    ],
+    "syllabus": "Evolutionary biology Concepts\n\nGenetic tools for evolutionary research\n\nEvolution of Genes and Genomes\n\nOrigin of Genetic Variation\n\nGenetic variation and population genetics\n\nClassification and Phylogeny\n\nPatterns of Evolution\n\nGenetical Theory of Natural Selection\n\nMidterm examination\n\nGenetic Drift: Evolution at random\n\nNatural selection and adaptation\n\nPhenotypes and the Evolution of Quantitative Traits\n\nGeography of Evolution\n\n**教學方法**\n\n**方式**\n\n**說明**\n\n講述法\n\n \n\n討論法\n\n \n\n媒體融入教學\n\n \n\n**評量方法**\n\n**方式**\n\n**百分比**\n\n**說明**\n\n期中考\n\n45 %\n\n \n\n期末考\n\n45 %\n\n \n\n報告\n\n10 %\n\n \n\n**參考書目**\n\nEvolution. Second Edition, 2009. Douglas J. Futuyma. Sinauer Associates, Inc.\n\n九州圖書: 台北市新生南路三段88號5樓  電話：(02)2365-2183,2365-7917",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": ""
+        },
+        {
+            "type": "媒體融入教學",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "期中考",
+            "weight": 45,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 45,
+            "note": ""
+        },
+        {
+            "type": "報告",
+            "weight": 10,
+            "note": ""
+        }
+    ],
+    "prerequisite": "◎必須先修過【BIU0044  遺傳學】",
+    "general_core": []
+}

@@ -1,0 +1,82 @@
+{
+    "year": 108,
+    "term": 2,
+    "name": "大地工程學",
+    "teachers": [
+        "葉恩肇"
+    ],
+    "department": "SU44",
+    "code": "ESC9036",
+    "credit": 3,
+    "serial": 2863,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 1,
+            "from": 10,
+            "to": 12,
+            "campus": "公館",
+            "classroom": "Ｃ401"
+        }
+    ],
+    "programs": [],
+    "comment": "中階以上課程，適合大三以上學生修習，以作為探究研究所之先修課程，同時也開放碩士班無此課程基礎之學生選修。",
+    "restrict": "◎限大三大四 ◎限碩一碩二碩三以上修習",
+    "form_s": "",
+    "classes": "9",
+    "dept_group": "",
+    "hours": 3,
+    "description": "使學生於課堂中學習有關土壤性質與力學，基礎工程與施工程序等相關知識，並輔以案例介紹與作業以及環境工法讓學生熟悉大地工程之應用以及人類與環境共處之道。",
+    "goals": [
+        "學習土壤性質與力學知識",
+        "了解基礎工程與施工程序",
+        "以案例/作業學習與環境共處之道"
+    ],
+    "syllabus": "(中文)  \n01\\. 大地工程之介紹，土壤來源、重量—體積關係回顧  \n02\\. 土壤之塑性、結構與分類  \n03\\. 土壤夯實  \n04\\. 滲透性與滲流  \n05\\. 有效應力  \n06\\. 土體應力  \n07\\. 野外考察  \n08\\. 期中考  \n09\\. 土壤之壓縮性  \n10\\. 土壤之剪力強度I  \n11\\. 土壤之剪力強度II  \n12\\. 淺基礎之土壤承載值I  \n13\\. 淺基礎之土壤承載值II  \n14\\. 橫向土壓力：靜態、朗金與庫倫破裂準則，曲線破壞面  \n15\\. 邊坡穩定  \n16\\. 期末考  \n17\\. 地層探勘(自主學習)  \n18\\. 開挖支撐(自主學習)\n\n(英文)  \n01\\. Introduction, Origin of Soil, Weight-Volume Relationship  \n02\\. Plasticity, Structure and Classification of Soil  \n03\\. Soil Compaction  \n04\\. Permeability and Seepage  \n05\\. In Situ Stress  \n06\\. Stresses in a Soil Mass  \n07\\. Field Trip  \n08\\. Midterm Exam   \n09\\. Compressibility of Soil  \n10\\. Shear Strength of Soil I  \n11\\. Shear Strength of Soil II  \n12\\. Soil-Bearing Capacity for Shallow Foundations I  \n13\\. Soil-Bearing Capacity for Shallow Foundations II  \n14\\. Lateral Earth Pressure: At-Rest, Rankine, and Coulomb, Curved Failure Surface  \n15\\. Soil Stability  \n16\\. Final Exam  \n17\\. Subsurface Exploration (Self-Learning)  \n18\\. Excavation support (Self-Learning)",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "課堂講述基本原理\nLecture the fundamental knowledge"
+        },
+        {
+            "type": "討論法",
+            "note": "上課進行討論與習題說明\nStudent Groups discuss the material and home works"
+        },
+        {
+            "type": "合作學習",
+            "note": "分組討論案例分析\nStudent groups study and present case studies"
+        },
+        {
+            "type": "實地考察、參訪",
+            "note": "野外實際考察\nVisit sites of geotechnical foundation"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "期中考",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 10,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

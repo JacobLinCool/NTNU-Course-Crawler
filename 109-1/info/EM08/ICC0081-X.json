@@ -1,0 +1,95 @@
+{
+    "year": 109,
+    "term": 1,
+    "name": "數位學習管理系統",
+    "teachers": [
+        "張國恩",
+        "蕭顯勝"
+    ],
+    "department": "EM08",
+    "code": "ICC0081",
+    "credit": 3,
+    "serial": 520,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 5,
+            "from": 7,
+            "to": 9,
+            "campus": "本部",
+            "classroom": "教1011"
+        }
+    ],
+    "programs": [
+        "大數據學程"
+    ],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "This course provides students with an introduction to the principles and concepts of learning management systems (LMS) in general and some popular systems in particular. Students will learn methodologies and techniques of designing LMSs, and obtain practical experience of existing LMSs and also developing their own ones. They will also have the ability to evaluate diverse LMSs and propose solutions for improving them.",
+    "goals": [
+        "The student will develop a knowledge and understanding of learning management systems.",
+        "The student will develop skills associated with learning management systems.",
+        "The student will develop the ability to evaluate learning management systems.",
+        "The student will develop a sense of employing digital technologies in learning."
+    ],
+    "syllabus": "*   數位學習之演進與趨勢\n*   教材發展模式-ADDIE\n*   數位教材設計與製作I\n*   數位教材設計與製作II\n*   數位學習系統\n*   數位學習系統實例-以育碁LMS為例\n*   數位學習線上經營/課程品質\n*   數位學習成功案例\n*   數位教育訓練理論\n*   精準定位學習者需求\n*   數位教育訓練之挑戰\n*   轉移學習成果至職場\n*   數位教育訓練組織需求\n*   數位教育訓練成效評估",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": ""
+        },
+        {
+            "type": "合作學習",
+            "note": ""
+        },
+        {
+            "type": "實驗/實作",
+            "note": ""
+        },
+        {
+            "type": "專題研究",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 15,
+            "note": ""
+        },
+        {
+            "type": "期中考",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 5,
+            "note": ""
+        },
+        {
+            "type": "報告",
+            "weight": 20,
+            "note": ""
+        },
+        {
+            "type": "專題",
+            "weight": 30,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

@@ -1,0 +1,71 @@
+{
+    "year": 107,
+    "term": 2,
+    "name": "統計方法（一）",
+    "teachers": [
+        "蔡碧紋"
+    ],
+    "department": "SU40",
+    "code": "MAC0141",
+    "credit": 3,
+    "serial": 2711,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 2,
+            "to": 4,
+            "campus": "公館",
+            "classroom": "教室自排"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "",
+    "classes": "9",
+    "dept_group": "",
+    "hours": 3,
+    "description": "1. Fundamental of statistics: \n  Random variables, Probability mass (density) function, Cumulative distribution function\n  Mean and variance, Central limit theorem\n  Simulation\n\n2. Exploratory data analysis: \n  Measurement scales, data types, univariate data, bivariate data,multivariate data.\n  ggplot2 in R\n  \n3. Statistical decision making: Point estimate, Confidence interval hypothesis testing \n  Hypothesis testing for continuous random variable, \n  Hypothesis testing for categorical data, \n  Nonparametric statistical methods:\n  Computational methods: permutation test, bootstrap\n  Power and sample size\n  \n4. Regression analysis\n  Simple and multiple linear regressions for continuous data,matrix notation\n  Interpretation and estimation of regression coefficients\n  Confounding and interaction\n  Regression diagnostics\n  Generalised least squares (GLS)\n  lowess and bootstrap\n\n\n5. Analysis of Variance \n  Factors and contrasts.\n  Multistratum experiments and random effects models.\n  Expected mean squares for the split plot experiment.  \n  Least squares estimates for balanced factorial experiments. Averaging operators.\n  Analysis of Covariance\n  Repeated measures ANOVA\n\n7. Time series data",
+    "goals": [
+        "引導學生接觸並學習基本統計基本原理、資料探索方法(exploratory data analysis)、統計檢定(statistical hypothesis testing)相關的概念和方法、迴歸分析(regression analysis)、變異數分析（Analysis of Variance)、與時間序列分析(time series)等統計相關的概念和方法。"
+    ],
+    "syllabus": "本課程將以實際的資料分析，引導學生接觸並學習基本統計基本原理、資料探索方法(exploratory data analysis)、統計檢定(statistical hypothesis testing)相關的概念和方法、迴歸分析(regression analysis)、變異數分析（Analysis of Variance)、與時間序列分析(time series)等統計相關的概念和方法。本課程將實際操作統計軟體R，進而將統計分法運用在實際資料分析上。\n\n  \n1\\. Fundamental of statistics:   \n  Random variables, Probability mass (density) function, Cumulative distribution function  \n  Mean and variance, Central limit theorem  \n  Simulation\n\n2\\. Exploratory data analysis:   \n  Measurement scales, data types, univariate data, bivariate data,multivariate data.  \n  ggplot2 in R  \n    \n3\\. Statistical decision making: Point estimate, Confidence interval hypothesis testing   \n  Hypothesis testing for continuous random variable,   \n  Hypothesis testing for categorical data,   \n  Nonparametric statistical methods:  \n  Computational methods: permutation test, bootstrap  \n  Power and sample size  \n    \n4\\. Regression analysis  \n  Simple and multiple linear regressions for continuous data,matrix notation  \n  Interpretation and estimation of regression coefficients  \n  Confounding and interaction  \n  Regression diagnostics  \n  Generalised least squares (GLS)  \n  lowess and bootstrap\n\n  \n5\\. Analysis of Variance   \n  Factors and contrasts.  \n  Multistratum experiments and random effects models.  \n  Expected mean squares for the split plot experiment.    \n  Least squares estimates for balanced factorial experiments. Averaging operators.  \n  Analysis of Covariance  \n  Repeated measures ANOVA\n\n7\\. Time series data\n\n  \n課程實作計劃\n\n修課學生須完成一份資料分析的計劃。其目的在訓練學生運用課堂上所學的方法與技術，從問題形成、資料來源確認、資料搜集與整理、模型建立與分析、結果呈現、說明與視覺化，實作整個數據分析計畫。建議根據臺北捷運旅運量統計資料，配合中央氣象局臺北氣象站雨量與氣溫資料、人事行政局行事曆、以及臺北市政府民政局的北市行政區人口結構資料，自擬一個研究主題，發揮創意進行分析，發掘有價值的資訊。 https://www.cw.com.tw/article/article.action?id=5073543  \nhttps://conference.nccu.edu.tw/actnews/intro.php?Sn=145&OSn=548",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": ""
+        },
+        {
+            "type": "專題研究",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "期中考",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "報告",
+            "weight": 40,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

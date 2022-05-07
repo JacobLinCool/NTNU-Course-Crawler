@@ -1,0 +1,68 @@
+{
+    "year": 107,
+    "term": 2,
+    "name": "薄膜技術（二）",
+    "teachers": [
+        "廖書賢"
+    ],
+    "department": "HM77",
+    "code": "OEC8102",
+    "credit": 3,
+    "serial": 1183,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 5
+    },
+    "schedule": [
+        {
+            "day": 1,
+            "from": 7,
+            "to": 9,
+            "campus": "公館",
+            "classroom": "教室自排"
+        }
+    ],
+    "programs": [],
+    "comment": "教室：應用科學大樓B1演講廳",
+    "restrict": "◎課程不開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "薄膜技術(II)課程講授內容包括:\n1.引言Introduction; \n2.薄膜成長與特性(Thin film growth); \n3.約瑟芬元件研製與特性鑑定(Josephson Junctions); \n4.超導量子干涉元件(Fabrication of SQUIDs); \n5.磁量計特性(characteristics of magnetometer) \n6.梯度計特性(Characteristics of gradiometer); \n7.元件光罩設計與製造(Film patterning techniques);\n8.生物磁學系統與應用\n(biomagnetic systemand applications);\n9.低磁場核磁共振(low field NMR); \n10.腦磁應用(magnetoencephalography)",
+    "goals": [
+        "學習薄膜光電元件技術",
+        "由SQUID光電元件實作實驗訓練學生研製光電感測元件之"
+    ],
+    "syllabus": "第1週: 薄膜技術(II)-簡介  \n第2週 釔鋇銅氧薄膜成長與特性  \n第3-4週 約瑟芬元件研製與特性鑑定; (YBa2Cu3Oy 薄膜實驗實習)  \n第5-6週 超導量子干涉元件; (YBa2Cu3Oy 薄膜實驗實習)  \n第7-8週 磁量計特性; (階梯基板製作實習)  \n第9週 梯度計特性; (階梯基板製作實習)  \n第10週 期中實習報告;  \n第11-12週 元件光罩設計與製造; (超導量子干涉元件製作實習)  \n第13-14週 生物磁學系統與應用; (超導量子干涉元件特性鑑定實習)  \n第15-16週 低磁場核磁共振; (超導量子干涉元件雜訊實習)  \n第17週 腦磁測量與應用 (超導量子干涉元件雜訊實習)  \n第18週 期末實習報告",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "講授SQUID研製、物理特性與其生醫等應用"
+        },
+        {
+            "type": "實驗/實作",
+            "note": "藉由(1) YBa2Cu3Oy 薄膜製作與特性鑑定, (2) 階梯基板製作, (3) 超導量子干涉元件光罩設計 (4) 超導量子\n干涉元件製作、特性鑑定與雜訊測量等實習訓練來培養學生基本元件技術能力◦"
+        }
+    ],
+    "grading": [
+        {
+            "type": "期中考",
+            "weight": 30,
+            "note": "由報告之撰寫與實習實作報告評量薄膜技術期中成績"
+        },
+        {
+            "type": "期末考",
+            "weight": 50,
+            "note": "由報告之撰寫與實習實作報告評量薄膜技術期末成績"
+        },
+        {
+            "type": "出席",
+            "weight": 20,
+            "note": "由學生出席上課狀況評量"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

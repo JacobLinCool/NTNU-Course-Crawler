@@ -1,0 +1,79 @@
+{
+    "year": 107,
+    "term": 1,
+    "name": "教育統計學（一）",
+    "teachers": [
+        "吳清麟"
+    ],
+    "department": "E",
+    "code": "E0U0001",
+    "credit": 2,
+    "serial": 348,
+    "group": "D",
+    "quota": {
+        "limit": 30,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 6,
+            "to": 7,
+            "campus": "本部",
+            "classroom": "樸204"
+        }
+    ],
+    "programs": [],
+    "comment": "上課教室:教育學苑第三會議室",
+    "restrict": "",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 2,
+    "description": "本課程的目的在教授學生統計學基本原理與方法。總體來說，本課程期使學生能在具備統計學方法知識後，能適當的應用統計學方法於相關的研究與實務之中，並培養學生在相關研究與實務中具嚴謹專業客觀的能力與態度。",
+    "goals": [
+        "1.\t了解描述統計學的基本概念、原理與方法。",
+        "2.\t了解推論的基本概念、原理與方法。",
+        "3.\t應用統計學方法於心理與教育教學與研究工作。"
+    ],
+    "syllabus": "一、統計學基本概念  \n二、次數分配及圖示法  \n三、集中量數  \n四、變異量數  \n五、相對地位量數  \n六、常態分配  \n七、相關分析  \n八、推論統計概述",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 25,
+            "note": "不定期練習"
+        },
+        {
+            "type": "期中考",
+            "weight": 25,
+            "note": "選擇題、計算題、問答題"
+        },
+        {
+            "type": "期末考",
+            "weight": 25,
+            "note": "選擇題、計算題、問答題"
+        },
+        {
+            "type": "出席",
+            "weight": 10,
+            "note": ""
+        },
+        {
+            "type": "報告",
+            "weight": 15,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

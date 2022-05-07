@@ -1,0 +1,96 @@
+{
+    "year": 109,
+    "term": 1,
+    "name": "學習評量（教）",
+    "teachers": [
+        "林碧芳"
+    ],
+    "department": "EU",
+    "code": "00UE074",
+    "credit": 2,
+    "serial": 618,
+    "group": "E",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 6,
+            "to": 7,
+            "campus": "本部",
+            "classroom": "樸402"
+        }
+    ],
+    "programs": [
+        "國際教師學程-華語文",
+        "國際教師學程-數學",
+        "國際教師學程-物理",
+        "PASSION偏鄉教育學程",
+        "國際教師學程-國際"
+    ],
+    "comment": "師資培育大二以上卓獎生、師獎生與公費生優先選課。",
+    "restrict": "",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 2,
+    "description": "本課程旨在培養學生班級評量的素養(classroom assessment literacy)，內容主題包括測驗評量重要的概念、原理和原則、評量計畫、多元評量工具的設計、應用和評分，及成績的報告等，並藉由評量工具研發作業來強化學生相關的知能，以期奠定學生從事班級教學評量的專業知能和評量領域終身學習的根基。",
+    "goals": [
+        "具備學習評量的編製與實施結果的詮釋。"
+    ],
+    "syllabus": "**week**\n\n**Date**\n\n**Contents**\n\n**HW/Notes**\n\n1\n\n9/15\n\n課程簡介\n\n分組\n\n2\n\n9/22\n\n教育測驗與評量導論\n\n3\n\n9/29\n\n學習評量概論\n\n確定各組成就測驗編製的「學科」、「年級」與「範圍」\n\n4\n\n10/6\n\n信度\n\nLAB/資料蒐集\n\n5\n\n10/13\n\n效度\n\n資料蒐集\n\n6\n\n10/20\n\n發展評量計畫\n\n以某一課程為對象，設計出一個實用的評量計畫\n\n7\n\n10/27\n\n認知能力測驗編製I\n\nHW1：繳交評量計畫作業\n\n8\n\n11/3\n\n認知能力測驗編製II\n\n試題編寫\n\n9\n\n11/10\n\n期中考\n\n10\n\n11/17\n\n實作評量\n\nHW2：組卷/繳交試題卷\n\n11\n\n11/24\n\n歷程檔案評量\n\n實施測驗\n\n12\n\n12/1\n\n情意評量\n\n實施測驗\n\n13\n\n12/8\n\n試題分析I\n\nLAB\n\n14\n\n12/15\n\n試題分析II\n\nLAB\n\n15\n\n12/22\n\n評量分數解釋\n\nLAB\n\n16\n\n12/29\n\n期末報告I\n\n17\n\n1/5\n\n期末報告II\n\n繳交期末報告\n\n18\n\n1/12\n\n期末考\n\n  \n[教學進度與主題附件](https://ap.itc.ntnu.edu.tw/NtnuFileShare/file.do?action=dl&gno=b7ce617f416e40fabbb262cbb6adb8a2&fno=ebd314634a264bd8a42109eff8a5034c)",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "由授課老師針對重要概念進行講授，並佐以範例以為說明。"
+        },
+        {
+            "type": "討論法",
+            "note": "課堂講授後，提出相關議題讓學生以合作學習的方式分組討論。"
+        },
+        {
+            "type": "合作學習",
+            "note": "以合作學習的方式完成本學期的各項團體作業。"
+        },
+        {
+            "type": "實驗/實作",
+            "note": "針對本課程的學習，分組進行成就測驗命題，並以適合的學生進行測試，蒐集其作答反應，進行測驗試題分析，最後撰寫分析報告。"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 15,
+            "note": "平時交辦作業，準時於下週上課繳交。"
+        },
+        {
+            "type": "期中考",
+            "weight": 20,
+            "note": "本課程之形成性評量。"
+        },
+        {
+            "type": "期末考",
+            "weight": 20,
+            "note": "本課程之總結性評量。"
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 10,
+            "note": "課堂討論，活動參與，提問與答問，學習態度，團隊合作表現等等。"
+        },
+        {
+            "type": "出席",
+            "weight": 15,
+            "note": "出缺席狀況（依校方規定執行出缺席考核）。"
+        },
+        {
+            "type": "報告",
+            "weight": 20,
+            "note": "包含口頭與書面報告。"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

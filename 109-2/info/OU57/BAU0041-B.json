@@ -1,0 +1,83 @@
+{
+    "year": 109,
+    "term": 2,
+    "name": "統計學（二）",
+    "teachers": [
+        "邱皓政"
+    ],
+    "department": "OU57",
+    "code": "BAU0041",
+    "credit": 3,
+    "serial": 2477,
+    "group": "B",
+    "quota": {
+        "limit": 60,
+        "additional": 30
+    },
+    "schedule": [
+        {
+            "day": 4,
+            "from": 6,
+            "to": 8,
+            "campus": "本部",
+            "classroom": "誠102"
+        }
+    ],
+    "programs": [],
+    "comment": "企管系大二學生學號末碼為單數號請選修統計學(二)A班;學號末碼為雙數號請選修統計學(二)B班。 非企管系同學需待全校加退選階段，才得進行線上選課和利用授課碼選課方式。如需要授權碼，請在全校加退選階段開始後再跟授課老師索取，其它時間一律不發放。",
+    "restrict": "◎必須先修過【BAU0040  統計學（一）】",
+    "form_s": "2",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程是為主修管理的學生所設計的一門統計課程，內容涵蓋基本統計概念與操作技術。學生除了需要熟悉統計的原理與相關知識之外，也必須能夠活用課堂所學習到的統計方法，將其應用於日常生活或專業活動中。在實際應用部分，本課程將進行專題研究並搭配EXCEL來進行演練，因此學生必須準時完成所規定的作業，以利跟隨課程進度。",
+    "goals": [
+        "瞭解統計原理與相關衍生概念",
+        "連結統計方法與企業與商業經營實中的相關活動",
+        "具備判斷統計資料的分析能力，正確解讀資料並了解統計分析結果的意義。",
+        "透過團隊合作，熟悉並能利用現代電腦軟體，如SPSS與EXCEL等，來分析統計資料。"
+    ],
+    "syllabus": "週\n\n**日** **期**\n\n進     度     內     容\n\n章節\n\n1\n\n**03/01**\n\n課程回顧與假設檢定概說introduction to hypothesis testing\n\n**10**\n\n2\n\n**03/08**\n\n平均數假設檢定I Hypothesis testing of the means\n\n**10**\n\n3\n\n**03/15**\n\n平均數假設檢定I Hypothesis testing of the means\n\n**10**\n\n4\n\n**03/22**\n\n單因子變異數分析Oneway Analysis of variance I\n\n**11**\n\n5\n\n**03/29**\n\n單因子變異數分析Oneway Analysis of variance II\n\n**11**\n\n6\n\n**04/05**\n\n《春假 Spring break》\n\n7\n\n**04/12**\n\n多因子變異數分析Factorial Analysis of variance I\n\n**12**\n\n8\n\n**04/19**\n\n多因子變異數分析Factorial Analysis of variance II\n\n**12**\n\n9\n\n**04/26**\n\nQUIZ I (Chapter 10 to 12 )\n\n10\n\n**05/03**\n\n相關 Correlation\n\n**13**\n\n11\n\n**05/10**\n\n迴歸 Linear regression I\n\n**14**\n\n12\n\n**05/17**\n\n迴歸 Linear regression II\n\n**14**\n\n13\n\n**05/24**\n\n多元迴歸 Multiple regression\n\n**15**\n\n14\n\n**05/31**\n\nQUIZ II (Chapter 13 to 15 )\n\n15\n\n**06/07**\n\n時間序列分析 Time-series analysis I\n\n**16**\n\n16\n\n**06/14**\n\n時間序列分析 Time-series analysis II\n\n**16**\n\n17\n\n**06/21**\n\n無母數統計 Non-parametric statistics\n\n**17**\n\n18\n\n**06/28**\n\nFinal examination (Chapter 10-17)",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "解釋並說明統計原理與基本特性。推導相關數學與統計公式，使學生能夠瞭解每一個統計概念的邏輯與關聯性。"
+        },
+        {
+            "type": "問題解決教學",
+            "note": "提出可操作的課間習作或課外作業，讓學生能夠具體操作統計方法，得到具有啟發性的解答。"
+        },
+        {
+            "type": "實驗/實作",
+            "note": "透過實際數據的搜集與分析過程，瞭解統計方法應用在實際資料分析操作方法，並習得解釋統計分析的策略與技巧。"
+        },
+        {
+            "type": "媒體融入教學",
+            "note": "配合教學進度，鼓勵或指定學生利用文書處理軟體（EXCEL）或視覺化軟體（TABLEAU）進行教材範例或每章習作的實際演練，使學生不僅能實際進行軟體的應用分析。"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 20,
+            "note": "配合每章進度，完成老師所指定的作業。"
+        },
+        {
+            "type": "期中考",
+            "weight": 40,
+            "note": "檢視期中學生課堂知識吸收與概念學習的具體成果。（兩次，每次佔20%）"
+        },
+        {
+            "type": "期末考",
+            "weight": 30,
+            "note": "檢視學期學生課堂知識吸收與概念學習的具體成果。"
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 10,
+            "note": "包括出缺席狀況，課堂討論，活動參與，提問與答問，學習態度等。"
+        }
+    ],
+    "prerequisite": "◎必須先修過【BAU0040  統計學（一）】",
+    "general_core": []
+}

@@ -1,0 +1,63 @@
+{
+    "year": 108,
+    "term": 1,
+    "name": "離散數學",
+    "teachers": [
+        "鄭硯仁"
+    ],
+    "department": "SU40",
+    "code": "MAU0021",
+    "credit": 3,
+    "serial": 2829,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 25
+    },
+    "schedule": [
+        {
+            "day": 1,
+            "from": 8,
+            "to": 10,
+            "campus": "公館",
+            "classroom": "Ｅ101"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "2",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "離散數學討論的對象是非連續事物的性質，它是一個邏輯與函數的訓練基礎課程。而計數(Counting)的方法，也都有非常廣泛的應用。",
+    "goals": [
+        "能解決劑量的應用問題",
+        "能運用離散數學解決相關領域的問題",
+        "轉換數學模型的能力"
+    ],
+    "syllabus": "1.  計數原理(四週)\n2.  鴿籠原理(一週)\n3.  遞迴與生成函數(五週)\n4.  Polya 計數原理(二週)\n5.  排容原理(二週)\n6.  矩陣與組合(二週)",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": ""
+        },
+        {
+            "type": "問題解決教學",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "期中考",
+            "weight": 100,
+            "note": "三次期中考"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

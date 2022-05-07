@@ -1,0 +1,63 @@
+{
+    "year": 107,
+    "term": 2,
+    "name": "地理資訊分析",
+    "teachers": [
+        "張國楨"
+    ],
+    "department": "LM23",
+    "code": "GEM0050",
+    "credit": 2,
+    "serial": 1617,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 5
+    },
+    "schedule": [
+        {
+            "day": 4,
+            "from": 6,
+            "to": 7,
+            "campus": "本部",
+            "classroom": "教室自排"
+        }
+    ],
+    "programs": [],
+    "comment": "上課教室：文學院勤9F地理系研討室六。",
+    "restrict": "◎課程不開放上修",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 2,
+    "description": "本課程為地理資訊之進階課程，作為GIS專業人員之基礎訓練。",
+    "goals": [
+        "深入探討GIS的原理，瞭解GIS發展趨勢",
+        "熟悉ARCGIS 操作上完本課程後，應該能夠獨力完成GIS資料輸入、處理、分析及出圖整個工作流程"
+    ],
+    "syllabus": "1\\. Introduction to Geographic Information Analysis\n\n2\\. Geographic Data Models\n\n3\\. GeoDatabase\n\n4\\. Data Acquisition and Conversion\n\n5\\. Map Projection and Coordinate Systems\n\n6\\. Buffer and Overlay\n\n7\\. Spatial Interpolation\n\n8\\. Spatial Autocorrelation\n\n9\\. Network Analysis\n\n10\\. 3D modeling\n\n11\\. Programming in ArcGIS\n\n12\\. WebGIS",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "合作學習",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 40,
+            "note": "課堂作業"
+        },
+        {
+            "type": "報告",
+            "weight": 60,
+            "note": "分組報告30% + 期末書面報告30%"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

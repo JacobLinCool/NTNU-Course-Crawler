@@ -1,0 +1,90 @@
+{
+    "year": 110,
+    "term": 1,
+    "name": "機器學習",
+    "teachers": [
+        "陳世旺"
+    ],
+    "department": "SM47",
+    "code": "CSC0039",
+    "credit": 3,
+    "serial": 2767,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 3,
+            "from": 2,
+            "to": 4,
+            "campus": "公館",
+            "classroom": "Ｂ102"
+        }
+    ],
+    "programs": [
+        "人工智慧學程"
+    ],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "機械學習主要在研究如何利用各種統計模型的自動化學習方式讓電腦程式能夠經由訓練資料以及經的累積不斷改進其效能，並研究如何利用有效率的統計模型與軟體工具程式從大量、複雜富含資訊的資料集中分析並整理出有意義的結構化資訊成分。機械學習的研究涵蓋決策術學習法、貝氏學習法、關聯式學習法、加強式學習法、類神經網路、隱藏式馬可夫模型、模糊邏輯、分群與分類演算法、基因演算法等基礎理論以及如何處理大量複雜性資料集之整理、建構與呈現等研究課題。本課程除了將介紹機械學習的相關基礎理論與技術外，也會介紹其在各種不同領域的實際應用。同時配合實作練習，讓修課同學充分了解這些研究的方法與步驟，對未來從事研究或實務工作等方面都有幫助。課程內容深度適合資工、電機等相關系大學部或研究所同學。",
+    "goals": [
+        "能了解機器學習的各種理論基礎",
+        "能研讀機器學習的相關論文",
+        "能在課堂上進行報告與討論",
+        "能應用機器學習的各種理論於研究上"
+    ],
+    "syllabus": "課程進行方式: 授課方式採「16+2週」Machine learning is programming computers to optimize a performance criterion using example data or past experience. This course provides a broad introduction to machine learning, data mining, and statistical pattern recognition. \n\nA. Topics include:\n\nCh. 1 Introduction\n\nCh. 2 Supervised Learning\n\nCh. 3 Bayesian Decision Theory\n\nCh. 4 Parametric Methods\n\nCh. 5 Multivariate Methods\n\nCh. 6 Dimensionality Reduction\n\nCh. 7 Clustering\n\nCh. 8 Nonparametric Methods\n\nCh. 9 Decision Trees\n\nCh. 10 Linear Discrimination\n\nCh. 11 Multilayer Perceptrons\n\nCh. 12 Deep Learning\n\nCh. 13 Local Models\n\nCh. 14 Kernel Machines\n\nCh. 15 Graphical Models\n\nCh. 16 Hidden Markov Models\n\nCh. 17 Bayesian Estimation\n\nCh. 18 Combining Multiple Learners\n\nCh. 19 Reinforcement Learning\n\nCh. 20 Design and Analysis of Machine Learning Experiments\n\nAppendix: Probability\n\nB. Syllabus\n\nCh. 1 Introduction (第1週)\n\nCh. 2 Supervised Learning (第1,2週)\n\nCh. 3 Bayesian Decision Theory (第3週)\n\nCh. 4 Parametric Methods (第3週)\n\nCh. 5 Multivariate Methods (第4週)\n\nCh. 6 Dimensionality Reduction (第4,5週)\n\nCh. 7 Clustering (第6週)\n\nCh. 8 Nonparametric Methods (第7週)\n\nCh. 9 Decision Trees (第8週)\n\nCh. 10 Linear Discrimination (第8週)\n\nCh. 11 Multilayer Perceptrons (第9週)\n\nCh. 12 Deep Learning (第10,11週)\n\nCh. 13 Local Models(第--週)\n\nCh. 14 Kernel Machines(第12週)\n\nCh. 15 Graphical Models(第--週)\n\nCh. 16 Hidden Markov Models(第13週)\n\nCh. 17 Bayesian Estimation(第--週)\n\nCh. 18 Combining Multiple Learners(第--週)\n\nCh. 19 Reinforcement Learning(第14週)\n\nCh. 20 Design and Analysis of Machine Learning Experiments(第--週)\n\nPresentations (第15,16週)",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "理論與概念"
+        },
+        {
+            "type": "討論法",
+            "note": "隨堂提問"
+        },
+        {
+            "type": "媒體融入教學",
+            "note": "播放相關議題視訊"
+        },
+        {
+            "type": "專題研究",
+            "note": "引導研究主題,實作計畫"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 30,
+            "note": "平常作業"
+        },
+        {
+            "type": "期中考",
+            "weight": 20,
+            "note": "包括各種講述問題"
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 10,
+            "note": "隨堂提問"
+        },
+        {
+            "type": "出席",
+            "weight": 10,
+            "note": "缺席,遲到,早退考核"
+        },
+        {
+            "type": "專題",
+            "weight": 30,
+            "note": "論文研讀心得,口頭報告,實作成果展示"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

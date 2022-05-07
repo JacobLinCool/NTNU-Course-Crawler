@@ -1,0 +1,87 @@
+{
+    "year": 108,
+    "term": 2,
+    "name": "學習評量（教）",
+    "teachers": [
+        "王力億"
+    ],
+    "department": "EU",
+    "code": "00UE074",
+    "credit": 2,
+    "serial": 564,
+    "group": "C",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 1,
+            "from": 6,
+            "to": 7,
+            "campus": "本部",
+            "classroom": "誠203"
+        }
+    ],
+    "programs": [
+        "PASSION偏鄉教育學程"
+    ],
+    "comment": "",
+    "restrict": "",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 2,
+    "description": "本課程旨在培養學生班級評量的素養(classroom assessment literacy)，內容主題包括測驗評量重要的概念、原理和原則、評量計畫、多元評量工具的設計、應用和評分，及成績的報告等，並藉由評量工具研發作業來強化學生相關的知能，以期奠定學生從事班級教學評量的專業知能和評量領域終身學習的根基。",
+    "goals": [
+        "具備學習評量的編製與實施結果的詮釋。"
+    ],
+    "syllabus": "  \n[教學進度與主題附件](https://ap.itc.ntnu.edu.tw/NtnuFileShare/file.do?action=dl&gno=d40752a560394aefa8c992f06594a8bd&fno=51734142e20d42959b3079046d4002ae)",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "講述學習評量的理論及實務應用"
+        },
+        {
+            "type": "討論法",
+            "note": "討論學習評量在實務應用的議題"
+        },
+        {
+            "type": "合作學習",
+            "note": "學生參與課堂分組討論活動"
+        },
+        {
+            "type": "實驗/實作",
+            "note": "學生編製設計學習評量方法"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 10,
+            "note": "期中個人心得報告"
+        },
+        {
+            "type": "期末考",
+            "weight": 30,
+            "note": "針對教材內容回答相關問題"
+        },
+        {
+            "type": "出席",
+            "weight": 20,
+            "note": "上課出席情形"
+        },
+        {
+            "type": "報告",
+            "weight": 10,
+            "note": "期末個人反思報告"
+        },
+        {
+            "type": "成果展覽",
+            "weight": 30,
+            "note": "期末小組口頭報告"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

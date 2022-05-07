@@ -1,0 +1,85 @@
+{
+    "year": 110,
+    "term": 1,
+    "name": "語言發展",
+    "teachers": [
+        "徐東伯"
+    ],
+    "department": "IU84",
+    "code": "CLU1054",
+    "credit": 3,
+    "serial": 1569,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 3
+    },
+    "schedule": [
+        {
+            "day": 4,
+            "from": 6,
+            "to": 8,
+            "campus": "本部",
+            "classroom": "樸305"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "3",
+    "classes": "",
+    "dept_group": "B",
+    "hours": 3,
+    "description": "本課程主要介紹嬰幼兒以及孩童在習得語音、語法與語意的的過程並且對現行的語言習得理論作一概論的介紹。一方面能夠將之前學的語言學的知識運用到科學驗證外，另一方面，嬰幼兒的語音、語法以及語意的發展過程能夠作為將來進行二語教學時教學理念的參考以及對照標準。",
+    "goals": [
+        "使能了解雙語教學的基本原則",
+        "使能認識母語與第二語言如何相互影響",
+        "認識言語社區與家庭如何影響雙語形成",
+        "使能描述該領域主要的學說",
+        "認識雙語教育的課程設計和測量之基本原則",
+        "具備成為研究雙語教育及雙語語言學學者之基礎知識"
+    ],
+    "syllabus": "【授課方式：16+2週】\n\n1.     1st week (9/2): Themes of language acquisition （【授課方式：16+2週】，並明列彈性授課進行方式與時間。彈性週次自行研讀參考文獻。）\n\n2.     2nd week (9/9): Themes of language acquisition\n\n3.     3rd week (9/16): Themes of language acquisition\n\n4.     4th week (9/23): Themes of language acquisition; Chapter 2: linguistic principles\n\n5.     5th week (9/30): Chapter 2: linguistic principles\n\n6.     6th week (10/7): Chapter 2: linguistic principles; Chapter 3: psychological mechanisms\n\n7.     7th week (10/14): Chapter 3: psychological mechanisms\n\n8.     8th week (10/21): Midterm Exam (in class)\n\n9.     9th week (10/28): Chapter 10: early language acquisition\n\n10.  10th week (11/4): Chapter 10: early language acquisition\n\n11.  11th week (11/11): Chapter 11: late language acquisition\n\n12.  12th week (11/18): Chapter 11: late language acquisition\n\n13.  13th week (11/25): Chapter 12: processes of language acquisition\n\n14.  14th week (12/2): Chapter 12: processes of language acquisition\n\n15.  15th week (12/9): Chapter 12: processes of language acquisition\n\n16th week (12/16): Final Exam (Take home)",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "課程的主要內容由教師講授"
+        },
+        {
+            "type": "討論法",
+            "note": "不定期由老師在課堂上給予題目討論或者出題讓同學回家思考"
+        },
+        {
+            "type": "媒體融入教學",
+            "note": "適時給予與課堂內容知識相關的影片觀看或音檔聆聽"
+        },
+        {
+            "type": "其他",
+            "note": "讓同學約寫兩次的閱讀心得"
+        }
+    ],
+    "grading": [
+        {
+            "type": "期中考",
+            "weight": 35,
+            "note": "In-class exam"
+        },
+        {
+            "type": "期末考",
+            "weight": 45,
+            "note": "Take-home exam"
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 10,
+            "note": "課堂討論的質與量"
+        },
+        {
+            "type": "出席",
+            "weight": 10,
+            "note": "出席率"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

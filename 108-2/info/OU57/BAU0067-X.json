@@ -1,0 +1,88 @@
+{
+    "year": 108,
+    "term": 2,
+    "name": "金融科技",
+    "teachers": [
+        "鍾建屏"
+    ],
+    "department": "OU57",
+    "code": "BAU0067",
+    "credit": 3,
+    "serial": 2356,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 5,
+            "from": 7,
+            "to": 9,
+            "campus": "本部",
+            "classroom": "誠207"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "金融科技的發展與應用已經成為金融業未來的重要趨勢，不論是由金融業增加科技的應用以擴大服務範圍，或是由科技業跨足金融服務範疇，金融業和科技業必須要相互學習與交流。\n本課程將從不同的金融服務領域應用，幫助同學瞭解金融科技的技術內容、應用領域及商業模式，並透過專題介紹讓修課同學了解金融科技的底層技術，希望達到了解並運用此新興科技的目的。\n課程內容包括三大部分，第一部分由教師說明金融科技的主要趨勢與應用，包含金融科技創新應用的發展趨勢、群眾募資與資金融通、第三方支付與行動支付、金融業金融科技與監理、大數據應用、加密貨幣與區塊鍊、物聯網與人工智慧，等主題。\n第二部分由教師展示目前在區塊鍊與物聯網應用中，最為重要的基本知識。教師將以Python說明區塊鍊的結構與工作原理，讓學生可以在有限數理基礎知識下，了解區塊鍊的底層知識，包括加密技術、加密貨幣的產生、錢包的創造等。\n第三部分由學生分組報告，針對國外一些金融科技的創新應用，由學生分組討論，並在課堂上報告。使學生對創新應用的方向有更具體的認知。",
+    "goals": [
+        "Apply methods, tools, and software for acquiring, managing/storing, and accessing structured and unstructured data",
+        "Prepare data for statistical analysis, perform basic exploratory and descriptive analysis, and apply statistical techniques to analyze data",
+        "Apply descriptive, predictive and prescriptive analytics to business modeling and decision-making",
+        "Demonstrate orally, and in writing, the ability to explain complex analytical models and results"
+    ],
+    "syllabus": "week 1: 第一章 科技與金融\n\nweek 2: 第二章 互聯網與物聯網\n\nweek 3: 第三章 雲端運算與大數據分析\n\nweek 4: 第四章 人工智慧、區塊鏈與生物辨識\n\nweek 5: 第五章 網路與自動化金融服務\n\nweek 6: 第六章 行動金融服務\n\nweek 7: 第七章 社群金融服務\n\nweek 8: 第八章 電商金融服務\n\nweek 9: 第九章 金融創新營運的風險\n\nweek 10: 第十章 金融創新營運的監理\n\nweek 11: 人工智慧於創新服務之應用\n\nweek 12: 聊天機器人在智慧金融之應用實作(一)\n\nweek 13: 聊天機器人在智慧金融之應用實作(二)\n\nweek 14: 聊天機器人在智慧金融之應用實作(三)\n\nweek 15: 聊天機器人在智慧金融之應用實作(四)\n\nweek 16: 業師演講\n\nweek 17: 分組期末報告(上)\n\nweek 18: 分組期末報告(下)",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "課程內容講述"
+        },
+        {
+            "type": "討論法",
+            "note": "金融科技競賽小組報告"
+        },
+        {
+            "type": "問題解決教學",
+            "note": "傳統金融機構痛點與科技導入解決方案"
+        },
+        {
+            "type": "實驗/實作",
+            "note": "聊天機器人在智慧金融之應用實作"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 20,
+            "note": ""
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 10,
+            "note": ""
+        },
+        {
+            "type": "出席",
+            "weight": 10,
+            "note": ""
+        },
+        {
+            "type": "報告",
+            "weight": 30,
+            "note": "金融科技競賽小組報告"
+        },
+        {
+            "type": "成果展覽",
+            "weight": 30,
+            "note": "聊天機器人於金融產業之創新及應用的功能展示作業(其它:證照加分,凡在學期期間內考取金融數位力證照者，加總平均分數5分)"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

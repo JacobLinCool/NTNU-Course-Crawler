@@ -1,0 +1,86 @@
+{
+    "year": 109,
+    "term": 2,
+    "name": "人體動作分析",
+    "teachers": [
+        "蔡虔祿"
+    ],
+    "department": "AU30",
+    "code": "PEU0209",
+    "credit": 2,
+    "serial": 131,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 1,
+            "from": 8,
+            "to": 9,
+            "campus": "本部",
+            "classroom": "正205"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "4",
+    "classes": "",
+    "dept_group": "",
+    "hours": 2,
+    "description": "介紹人體動作分析之基本概念\n教授三角函數運算\n基礎解剖學與生物力學複習\n生物力學概念儀器操作示範",
+    "goals": [
+        "瞭解人體動作分析之基礎概念",
+        "瞭解基礎解剖學與生物力學之概念",
+        "認識生物力學相關儀器之應用"
+    ],
+    "syllabus": "課程介紹\n\n人體動作分析概說\n\n人體動作系統解剖學\n\n基礎力學複習\n\n人體動作分析儀器介紹\n\n人體動作分析分組討論\n\n人體基本動作分析探討\n\n人體步態分析探討\n\n人體跑步、跳躍、投擲動作分析探討\n\n人體體能訓練動作分析探討\n\n人體競技運動動作分析探討\n\n人體攝影分析\n\n影像擷取系統\n\n肌電訊號介紹\n\n測力板實驗\n\n人體動作實驗\n\n人體動作分析資料處理\n\n期末分組報告",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "教師講述授課"
+        },
+        {
+            "type": "討論法",
+            "note": "分組討論"
+        },
+        {
+            "type": "合作學習",
+            "note": "合作實驗"
+        },
+        {
+            "type": "實驗/實作",
+            "note": "儀器操作"
+        },
+        {
+            "type": "專題研究",
+            "note": "分組報告"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 40,
+            "note": "報告檔案上傳"
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 20,
+            "note": "隨堂討論參與語發問"
+        },
+        {
+            "type": "出席",
+            "weight": 10,
+            "note": "出席率"
+        },
+        {
+            "type": "報告",
+            "weight": 30,
+            "note": "報告表現"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

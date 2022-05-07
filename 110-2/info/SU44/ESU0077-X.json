@@ -1,0 +1,84 @@
+{
+    "year": 110,
+    "term": 2,
+    "name": "觀測地震學",
+    "teachers": [
+        "陳卉瑄"
+    ],
+    "department": "SU44",
+    "code": "ESU0077",
+    "credit": 3,
+    "serial": 2931,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 7,
+            "to": 9,
+            "campus": "公館",
+            "classroom": "Ｓ404"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "1",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "讓學生了解地震為什麼會發生、地震和斷層的關係、地震觀測的基本原理、種類、和應用。內容包含:1.地震動強度與地震規模 ; 2.地震儀之理論; 3.波傳理論4.震源特性; 5 統計地震學.; 6.工業活動誘發地震; 7.城市地震學; 8.應力觸發; 9.慢地震; 10.深震特論。",
+    "goals": [
+        "增加學生認識地震觀測之基本知識及技能。"
+    ],
+    "syllabus": "地震學是一個相對年輕的科學，發展迄今約200年左右。1800年左右，理論地震學家提出地震波的種類，後經地震儀的發展、電腦的使用、地震測站的密佈等，讓地震波充分被運用來釐清地球內部的特性。解密地震波，是這堂課的主旨。地震波不僅能讓我們釐清天然地震的震源（source)、路徑(path) 和場址(site)效應，也能讓我們探索人類活動引發地震的特徵。本堂課會讓學生進行大量的實作，利用簡便型的加速計進行人造地震的測量，希望配合學理介紹，學生們能充分探索地震訊號如何測量？如何描述？以及發生的機制為何？  \n本學期將採取16週課程及2週自主學習。\n\n1\\. Introduction (QCN + seisgram2K)  \n2\\. Tsunamis earthquakes   \n3\\. Ray theory  \n4\\. Inversion of travel time data    \n5\\. Source theory   \n6\\. Seismometer  \n7\\. Mid-term   \n8\\. Deep earthquake   \n9\\. Human-induced earthquake  \n10\\. Stress triggering   \n11\\. Dynamic triggering   \n12\\. Earthquake prediction   \n13\\. Episodic aseismic slip at plate boundaries   \n14\\. Final presentation  \n15\\. Final presentation   \n16\\. Final  exame",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "提供講義、投影片、錄影帶及地體構造模型等，讓修課者獲得充分的知識、深刻的認知"
+        },
+        {
+            "type": "討論法",
+            "note": "請學生分享資料搜尋心得"
+        },
+        {
+            "type": "合作學習",
+            "note": "將修課同學分為若干組別,共同進行儀器操作、小組討論與報告"
+        },
+        {
+            "type": "實驗/實作",
+            "note": "利用SeisGram2K進行地震資料處理"
+        },
+        {
+            "type": "其他",
+            "note": "課程實作:增加課堂、課後及電腦實作時間,加深學習層次、有利問題之自發性與自我解決能力培養"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 20,
+            "note": "每星期作業＋個別報告"
+        },
+        {
+            "type": "期中考",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "報告",
+            "weight": 20,
+            "note": "期末分組報告"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

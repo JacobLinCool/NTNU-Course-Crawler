@@ -1,0 +1,83 @@
+{
+    "year": 110,
+    "term": 2,
+    "name": "類別資料分析",
+    "teachers": [
+        "呂翠珊"
+    ],
+    "department": "SU40",
+    "code": "MAC9043",
+    "credit": 3,
+    "serial": 2722,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 4,
+            "from": 6,
+            "to": 8,
+            "campus": "公館",
+            "classroom": "Ｓ204"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "9",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程旨在介紹類別資料的基本概念及分析方法。類別資料在醫學上相當常見，本課程將討論不同的分析方法，在醫學或流行病學中的應用與解釋。",
+    "goals": [
+        "增進類別資料分析基本概念的理解",
+        "提升研究問題與分析資料的能力",
+        "了解類別資料分析在相關領域的應用"
+    ],
+    "syllabus": "第一週: Introduction to analysis of categorical data: scale of measurement, sampling frameworks, analysis strategies, contingency tables\n\n第二週: Introduction to analysis of categorical data: scale of measurement, sampling frameworks, analysis strategies, contingency tables\n\n第三週: The 2×2 table: hypothesis testing, exact methods, difference in proportions, measures of association, sensitivity and specificity, McNemar’s test for matched pair data\n\n第四週: The 2×2 table: hypothesis testing, exact methods, difference in proportions, measures of association, sensitivity and specificity, McNemar’s test for matched pair data\n\n第五週: Logistic regression I: dichotomous response; dichotomous, nominal, continuous and ordinal explanatory variables; model fitting; goodness of fit; testing hypotheses; maximum likelihood estimation\n\n第六週: Logistic regression I: dichotomous response; dichotomous, nominal, continuous and ordinal explanatory variables; model fitting; goodness of fit; testing hypotheses; maximum likelihood estimation\n\n第七週: Logistic regression I: dichotomous response; dichotomous, nominal, continuous and ordinal explanatory variables; model fitting; goodness of fit; testing hypotheses; maximum likelihood estimation\n\n第八週: 期中考\n\n第九週: Sets of 2×2 tables: Mantel-Haenszel test, measures of association\n\n第十週: Logistic regression II: polytomous response, proportional odds model, generalized logits model, model fitting\n\n第十一週: Sets of 2×r and s×2 tables: comparing two groups with ordered columns, comparing ordered groups with dichotomous response\n\n第十二週: Poisson regression\n\n第十三週: Generalized Estimating Equations (GEE)\n\n第十四週: The s×r table: tests for association, measures of association, exact test, observer agreement\n\n第十五週: Individual Oral Presentation\n\n第十六週: Group Oral Presentation\n\n第十七週: Additional Paper Assignment and Discussion\n\n第十八週: Additional Paper Assignment and Discussion",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "講述類別資料分析研究的重要概念與分析方法"
+        },
+        {
+            "type": "討論法",
+            "note": "討論類別資料的解題及相關議題，分為全班討論與小組討論"
+        },
+        {
+            "type": "專題研究",
+            "note": "透過教師引導，完成並報告資料分析的研究結果"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 30,
+            "note": "個人平時作業: 主要為課程相關的資料分析"
+        },
+        {
+            "type": "期中考",
+            "weight": 20,
+            "note": "命題形式包括資料分析與解釋結果"
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 10,
+            "note": "全班討論與小組討論"
+        },
+        {
+            "type": "報告",
+            "weight": 20,
+            "note": "小組依據分配的資料進行分析，內容包括資料背景、研究設計、分析方法及結論。須於期末在課堂發表，並接受同儕評論。"
+        },
+        {
+            "type": "專題",
+            "weight": 20,
+            "note": "個人依據分配的論文進行閱讀與分析，須於期末在課堂發表，並接受同儕評論。"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

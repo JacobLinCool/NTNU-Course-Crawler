@@ -1,0 +1,75 @@
+{
+    "year": 110,
+    "term": 2,
+    "name": "微處理機",
+    "teachers": [
+        "康立威"
+    ],
+    "department": "HU75",
+    "code": "AEU0023",
+    "credit": 3,
+    "serial": 1280,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 4,
+            "from": 2,
+            "to": 4,
+            "campus": "本部",
+            "classroom": "電機系電子實驗室"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "2",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程透過多個實作作業的設計，讓學生充分體會由需求，規格制定，演算法規畫，到實際完成作品，進行測試與版本修改的實際體驗，透過講授、閱讀、討論及問題解決教學與實作方式介紹微處理機的結構／概念，來培養學生對應系所所需的核心能力：\n1.第一階段先複習組成元件，透過HDL語言的模擬與實作，熟悉組成微處理機元件的特性。\n2.第二階段先進行由元件組成微處理機硬體電路的設計/分析；然後透過組合語言軟體程式設計，控制硬體電路",
+    "goals": [
+        "具備微處理機的基礎知識",
+        "具備HDL電路元件實作與測試分析的能力",
+        "會使用CAD工具，進行電路設計/模擬與下載驗證",
+        "培養描述問題能力，能獨力思考",
+        "培養電路與程式偵錯能力",
+        "能自我學習"
+    ],
+    "syllabus": "本學期本課程採用【16+2週】\n\n微處理機 (或更廣義的嵌入式系統) 之應用層面相當廣泛，從個人電腦、手持式裝置至嵌入式系統等都仰賴微處理機做為資訊處理的中樞。因此, 微處理機技術已經成為發展智慧型科技產品之必備基礎。本課程將介紹嵌入式系統的基本架構及設計原理, 及以微處理機來實現嵌入式系統的方法. 本課程大綱如下所示:\n\n第一週   Introduction\n\n第二週   A Systems Approach to Embedded Systems Design\n\n第三週   Know Your Standards\n\n第四週   Embedded Hardware Building Blocks and the Embedded Board\n\n第五週   DE1-SoC開發板之開發環境建立\n\n第六週   DE1-SoC開發板之初步應用\n\n第七週   DE1-SoC開發板之顯示控制-使用C語言\n\n第八週   期中考試\n\n第九週   利用DE1-SoC開發板進行簡易運算及顯示控制-使用C語言\n\n第十週   利用JTAG Port連結DE1-SoC開發板與個人電腦及進行簡易字元資料傳輸-使用C語言\n\n第十一週   DE1-SoC開發板之G-Sensor簡介及測試-使用C語言\n\n第十二週   DE1-SoC開發板之視訊資料輸出-使用C語言\n\n第十三週   DE1-SoC開發板之外接LCD觸控顯示器 (LT24) 簡介\n\n第十四週   專題實作(I)\n\n第十五週   專題實作(II)\n\n第十六週   期末考試\n\n第十七週   專題討論 (I)\n\n第十八週   專題討論 (II)",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": ""
+        },
+        {
+            "type": "問題解決教學",
+            "note": ""
+        },
+        {
+            "type": "實驗/實作",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "期中考",
+            "weight": 50,
+            "note": "期中口頭或書面報告"
+        },
+        {
+            "type": "期末考",
+            "weight": 50,
+            "note": "期末專題實作展演及口頭報告"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

@@ -1,0 +1,80 @@
+{
+    "year": 107,
+    "term": 1,
+    "name": "代數學（一）",
+    "teachers": [
+        "洪有情"
+    ],
+    "department": "SU40",
+    "code": "MAU0166",
+    "credit": 3,
+    "serial": 2769,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 3,
+            "to": 4,
+            "campus": "公館",
+            "classroom": "Ｃ003"
+        },
+        {
+            "day": 3,
+            "from": 6,
+            "to": 6,
+            "campus": "公館",
+            "classroom": "Ｃ003"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "2",
+    "classes": "3",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程讓學生瞭解群、環、體的基本理論，以作為學生未來修習其他進階課程的基礎。",
+    "goals": [
+        "訓練學生掌握抽象代數的基本知識",
+        "訓練學生可以用代數的語言進行溝通、表達、寫作",
+        "培養學生的直覺、欣賞與應用高等代數至其他學科的能力。"
+    ],
+    "syllabus": "1\\. Definition and examples of groups ( 2 weeks )  \n2\\. Cyclic groups, Lagrange theorem, Cosets ( 2 weeks )  \n3\\. Normal subgroups, Factor groups ( 2 weeks )  \n4\\. Group homomorphisms, Isomorphisms, Automorphisms ( 3 weeks )  \n5\\. Conjugation, Class equation, Cauchy theorem ( 3 weeks )  \n6\\. Direct product, Fundamental theorem of finite abelian groups ( 2 weeks )  \n7\\. Introduction of Sylow theorems and their applications ( 1 week )  \n8\\. Permutation groups ( 2 weeks )",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "上課講解理論與證明"
+        },
+        {
+            "type": "討論法",
+            "note": "即時要求學生參與討論"
+        },
+        {
+            "type": "問題解決教學",
+            "note": "每週習題"
+        }
+    ],
+    "grading": [
+        {
+            "type": "期中考",
+            "weight": 40,
+            "note": "習題為主"
+        },
+        {
+            "type": "期末考",
+            "weight": 50,
+            "note": "習題為主"
+        },
+        {
+            "type": "出席",
+            "weight": 10,
+            "note": "不定時簽到，做為平時成績"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

@@ -1,0 +1,81 @@
+{
+    "year": 108,
+    "term": 1,
+    "name": "流行病學研究",
+    "teachers": [
+        "李子奇"
+    ],
+    "department": "EM05",
+    "code": "HEC8001",
+    "credit": 2,
+    "serial": 475,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 3,
+            "from": 6,
+            "to": 7,
+            "campus": "本部",
+            "classroom": "教室自排"
+        }
+    ],
+    "programs": [],
+    "comment": "上課地點:誠大樓5樓 506教室(原博士班教室位置)",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 2,
+    "description": "瞭解流行病學之重要概念、研究方法及應用，期能於日後發揮於衛生教育工作上。",
+    "goals": [
+        "瞭解流行病學之重要概念、研究方法及應用"
+    ],
+    "syllabus": "1.學習流行病學研究方法。  \n2.學習用於各種流行病學研究方法的統計模型。  \n3.閱讀與討論流行病學研究英文文獻。\n\n1. Learning epidemiological methods  \n2. Learning statistical models for the various epidemiological methods  \n3. Read and discuss epidemiological studies English literature\n\n二、課程內容(上課進度將依據課程安排情況做適度調整)：\n\n項次 課程內容(中文) 課程內容(英文)  \n1 課程介紹  Introduction  \n2 流行病學常用的統計量 Measures in epidemiology  \n3 流行病學常用的統計量 Measures in epidemiology  \n4 直接與間接標準化率 Directly and indirectly standardized rate  \n5 空間流行病學 Spatial epidemiology  \n6 空間相關與迴歸分析 Spatial correlation and regression  \n7 隨機臨床實驗 Randomized clinical trial  \n8 專題報告(一)   Seminar (I)  \n9 期中考週 Mid-term Examination  \n10 病例對照研究 Case-control study  \n11 邏輯斯迴歸分析 Logistic regression  \n12 專題報告(二) Seminar (II)  \n13 世代研究 Cohort study  \n14 重複測量設計、線性混合模型與GEE Repeated measures design, linear mixed model and GEE analysis  \n15 專題報告(三) Seminar (III)  \n16 相關性與因果關係的推論 Inference of correlation and causality  \n17 相關性與因果關係的推論 Inference of correlation and causality  \n18 期末考週 Final-term Examination\n\nWeek English  \n1 Introduction  \n2 Measures in epidemiology  \n3 Measures in epidemiology  \n4 Directly and indirectly standardized rate  \n5 Spatial epidemiology  \n6 Spatial correlation and regression  \n7 Randomized clinical trial  \n8 Seminar (I)  \n9 Mid-term Examination  \n10 Case-control study  \n11 Logistic regression  \n12 Seminar (II)  \n13 Cohort study  \n14 Repeated measures design, linear mixed model and GEE analysis  \n15 Seminar (III)  \n16 Inference of correlation and causality  \n17 Inference of correlation and causality  \n18 Final-term Examination",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": ""
+        },
+        {
+            "type": "其他",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 20,
+            "note": "個人回家作業"
+        },
+        {
+            "type": "期中考",
+            "weight": 25,
+            "note": "紙筆測驗"
+        },
+        {
+            "type": "期末考",
+            "weight": 25,
+            "note": "紙筆測驗"
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 10,
+            "note": ""
+        },
+        {
+            "type": "報告",
+            "weight": 20,
+            "note": "分組文獻報告"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

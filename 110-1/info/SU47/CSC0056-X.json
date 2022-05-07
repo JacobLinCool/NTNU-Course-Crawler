@@ -1,0 +1,87 @@
+{
+    "year": 110,
+    "term": 1,
+    "name": "資料通訊",
+    "teachers": [
+        "王超"
+    ],
+    "department": "SU47",
+    "code": "CSC0056",
+    "credit": 3,
+    "serial": 3048,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 1,
+            "from": 7,
+            "to": 9,
+            "campus": "公館",
+            "classroom": "Ｓ101"
+        }
+    ],
+    "programs": [],
+    "comment": "◎數位課程",
+    "restrict": "",
+    "form_s": "",
+    "classes": "9",
+    "dept_group": "",
+    "hours": 3,
+    "description": "",
+    "goals": [
+        "了解資料通訊基本原理",
+        "學習點對點通訊、多重存取通訊、流量控制、網路路由與基礎排隊理論等主題",
+        "著重理論的整合與應用",
+        "了解當前相關科技之進展"
+    ],
+    "syllabus": "【授課方式：16+2週線上】\n\n**\\* This is an all-English course (with mandarin support) 全英語授課 (配合中文輔助).**\n\nData communication is essential for networked computing systems. The objectives of this course are for students to get some ideas into systems analysis, to have hands-on experience to systems development, and to engage in recent advances in data communication systems. In particular, we will learn the basics of the standard queueing model, the MQTT messaging protocol, and the Amazon AWS cloud-computing platform. We will also learn to do critical study on scientific papers. The homework assignments are designed to help students build hands-on experiences for systems research.\n\nIn the 2021 fall semester, this course is structured as a hybrid course (數位課程) and is also offered on [Taiwan Online Campus (全球遠距學院)](https://toc.co.ntnu.edu.tw/): the lectures are divided into three categories: asynchronous online (learn at your own pace), synchronous online (real-time remote class), and traditional face-to-face (i.e., come).\n\nFor details and class schedule please go to [https://wangc86.github.io/courses/](https://wangc86.github.io/courses/) \n\n**Prerequisites:**  \nWorking knowledge in C and Linux",
+    "methodologies": [
+        {
+            "type": "Formal lecture",
+            "note": ""
+        },
+        {
+            "type": "Group discussion",
+            "note": ""
+        },
+        {
+            "type": "Problem base learning",
+            "note": ""
+        },
+        {
+            "type": "Lab/Studio",
+            "note": ""
+        },
+        {
+            "type": "Media, audio, visual materials",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "Assignments",
+            "weight": 50,
+            "note": ""
+        },
+        {
+            "type": "Midterm Exam",
+            "weight": 20,
+            "note": ""
+        },
+        {
+            "type": "Final exam",
+            "weight": 25,
+            "note": ""
+        },
+        {
+            "type": "Class discussion involvement",
+            "weight": 5,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

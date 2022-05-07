@@ -1,0 +1,72 @@
+{
+    "year": 110,
+    "term": 1,
+    "name": "工程數學（二）",
+    "teachers": [
+        "賴以威"
+    ],
+    "department": "HU75",
+    "code": "AEU0015",
+    "credit": 3,
+    "serial": 1347,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 18
+    },
+    "schedule": [
+        {
+            "day": 4,
+            "from": 2,
+            "to": 4,
+            "campus": "本部",
+            "classroom": "誠208"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "2",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程含二部分：一、向量分析：介紹向量的定義，向量微分，及向量積分等。二、傅立葉級數：介紹傅立葉級數的定義，及其計算，介紹傅立葉轉換問題及傅立葉積分介紹與應用。",
+    "goals": [
+        "了解工程數學的理論概念、專業術語與解決方式"
+    ],
+    "syllabus": "Week 1           : Introduction\n\nWeek 2-3       : Linear Algebra: Matrix calculation (multiplication, inversion)\n\nWeek 4-5       : Linear Algebra: Rank and Dependency\n\nWeek 6          : Numerical Analysis: Iterative Method\n\nWeek 7          : Midterm examination\n\nWeek 8-10   : Numerical Analysis: Interpolation\n\nWeek 11-12   : Graph Theory: Introduction\n\nWeek 13        :  Graph Theory: Application\n\nWeek 14         : Final examination\n\nWeek 15-16         : Final report\n\nFlexible teaching methods: self-directed and digital learning",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "Powerpoint slides based on the reference books"
+        },
+        {
+            "type": "討論法",
+            "note": "Group discussion and final presentation"
+        }
+    ],
+    "grading": [
+        {
+            "type": "期中考",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 10,
+            "note": "Exercises and quiz"
+        },
+        {
+            "type": "報告",
+            "weight": 30,
+            "note": "Each group will give final presentations that introduce the applications of EM in EE domain"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

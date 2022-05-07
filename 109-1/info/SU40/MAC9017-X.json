@@ -1,0 +1,76 @@
+{
+    "year": 109,
+    "term": 1,
+    "name": "編碼學",
+    "teachers": [
+        "李華介"
+    ],
+    "department": "SU40",
+    "code": "MAC9017",
+    "credit": 3,
+    "serial": 2795,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 1,
+            "from": 2,
+            "to": 4,
+            "campus": "公館",
+            "classroom": "數學館M211"
+        }
+    ],
+    "programs": [
+        "科學計算學程"
+    ],
+    "comment": "",
+    "restrict": "",
+    "form_s": "",
+    "classes": "9",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程主要是運用我們了解的數學知識到處理現實世界的資訊問題。主要論及編碼的三大課題：經濟性(資訊壓縮)，可用性(除錯)以及隱密性(密碼)。\n此課程涵蓋前兩部分:資訊壓縮及除錯",
+    "goals": [
+        "瞭解編碼的基本性質。",
+        "瞭解近年來編碼及密碼的重要結果。",
+        "能將所學運用在未來相關的研究上。"
+    ],
+    "syllabus": "本課程介紹完編碼的基本概念後, 將探討如何利用代數幾何處理編碼問題.\n\n需要相當程度對線性代數的理解以及對於 finite field 的一些基本性質會有極大的幫助.\n\n1.  Coding and its uses（1週）\n2.  The Riemann-Roch Theorem （3週）\n3.  Algebraic Geometry Codes（2週）\n4.  Rational Algebraic Geometry Codes（2週）\n5.  The Residue Representation（2週）\n6.  Automorphisms of Algebraic Geometry Codes（2週）\n7.  Hermitian Codes（2週）\n8.  The Tsfasman-Vladut-Zink Theorem（2 週）\n9.  Decoding Algebraic Geometry Codes（2週）",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "講述重要概念與理論"
+        },
+        {
+            "type": "討論法",
+            "note": "不時提出問題與學生互動討論, 學生需參與問題討論"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 30,
+            "note": "平時作業包括課堂上所提問的問題"
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 30,
+            "note": "參與討論及提問的次數為依據"
+        },
+        {
+            "type": "出席",
+            "weight": 10,
+            "note": ""
+        },
+        {
+            "type": "報告",
+            "weight": 30,
+            "note": "對所學內容報告"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

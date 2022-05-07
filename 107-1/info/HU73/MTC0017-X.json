@@ -1,0 +1,82 @@
+{
+    "year": 107,
+    "term": 1,
+    "name": "線性控制系統",
+    "teachers": [
+        "呂有勝"
+    ],
+    "department": "HU73",
+    "code": "MTC0017",
+    "credit": 3,
+    "serial": 1283,
+    "group": "",
+    "quota": {
+        "limit": 30,
+        "additional": 12
+    },
+    "schedule": [
+        {
+            "day": 5,
+            "from": 2,
+            "to": 4,
+            "campus": "本部",
+            "classroom": "CAD/CAM"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "",
+    "classes": "9",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本科目延續「自動控制」科目之內容，其教學內容有 「自動控制」課程內容之回顧、頻域設計方法及狀態空間設計方法。",
+    "goals": [
+        "「自動控制」課程內容之回顧",
+        "頻域設計方法之介紹",
+        "狀態空間設計方法之介紹"
+    ],
+    "syllabus": "  \n\n週次\n\n上課日期\n\n每週教學主題\n\n備   註\n\n１\n\n© Overview on Automatic Control\n\n２\n\n© Modeling of Mechanical Systems\n\n３\n\n© Modeling of Electrical Systems\n\n©Modeling of Mixed-Discipline Systems\n\n４\n\n© Time Response and Frequency Response\n\n５\n\n© Essential Principles of Feedback (I)\n\nHW-I：Freq Response\n\n６\n\n© Essential Principles of Feedback (II)\n\n© Design via Frequency Response (I)\n\n７\n\n© Design via Frequency Response (II)\n\nHW-II：PID Control\n\n８\n\n© Design via Frequency Response (III)\n\n９\n\n© 期中考\n\n１０\n\n© State-Space Representation (I)\n\n１１\n\n© State-Space Representation (II)\n\nHW-III：State-Feedback Control\n\n１２\n\n© Dynamics of Linear Systems\n\n１３\n\n© Controllability and Observability\n\n１４\n\n© Shaping the Dynamic Response\n\nHW-IV： Set-Point Tracking\n\n１５\n\n© Linear State Observers\n\nHW-V：IMP\n\n１６\n\n© Compensator Design\n\nHW-VI：State Observer\n\n１７\n\n© 期末考\n\n１8\n\n© Control Systems in Optical Disk Drives",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "課堂講述與討論"
+        },
+        {
+            "type": "問題解決教學",
+            "note": "操作示範"
+        },
+        {
+            "type": "合作學習",
+            "note": "兩人為一組，進行作業分工與討論"
+        },
+        {
+            "type": "其他",
+            "note": "作業繳交及測驗方式進行"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 48,
+            "note": "四個作業，每個作業佔12%"
+        },
+        {
+            "type": "期中考",
+            "weight": 20,
+            "note": "考試範圍：「自動控制」課程內容之回顧、頻域設計方法"
+        },
+        {
+            "type": "期末考",
+            "weight": 22,
+            "note": "考試範圍：狀態空間設計方法"
+        },
+        {
+            "type": "出席",
+            "weight": 10,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

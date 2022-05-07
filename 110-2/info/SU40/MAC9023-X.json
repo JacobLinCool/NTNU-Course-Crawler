@@ -1,0 +1,90 @@
+{
+    "year": 110,
+    "term": 2,
+    "name": "影像處理與分析（二）",
+    "teachers": [
+        "陳建隆"
+    ],
+    "department": "SU40",
+    "code": "MAC9023",
+    "credit": 3,
+    "serial": 2718,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 4,
+            "from": 2,
+            "to": 4,
+            "campus": "公館",
+            "classroom": "數學館M210"
+        }
+    ],
+    "programs": [
+        "科學計算學程"
+    ],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "9",
+    "dept_group": "",
+    "hours": 3,
+    "description": "",
+    "goals": [
+        "Promote the professional skills in mathematics",
+        "Develop problem-solving skills with applied mathematics in Image Processes and Analysis.",
+        "Raise the level of mathematical abstract thinking",
+        "Interpreting the connection between mathematics and other disciplines from a high point of view"
+    ],
+    "syllabus": "This is a course for dealing with problems of image inpainting and image segmentation. Some classical methods and the related mathematical models will be introduced in this course.\n\nIt is expected to set up a one-year special course on image processing and analysis for students in the Department of Mathematics. We plan to propose and understand the topics of image processing from the perspective of building models, and provide a cross-domain course to expose students to cross-domain application knowledge. There are many important problems and skills in the field of image processing, such as denoising, deblurring, image enhancement, and image cutting. At the beginning of the course, students will learn the basic knowledges of image processing and the mathematical theory behind them. After completing the basic imaging skills, various image processing problems and topics will be introduced. Students will report in groups the related algorithms and computer programs for each selected topic. Through this learning mode, students can also use their understanding contents of image processing to apply mathematical skills for solving topic problems. Some basic knowledges of calculus and matrix calculations will be used in this course. \n\nThe followings are the plan of studing schedule:\n\n1. Geometry of Curves and Surfaces\n\n2. Deterministic Image Models\n\n3\\. Topic I: Algorithm and Implementation\n\n4. Interpolation Schemes for Image Inpainting\n\n5\\. Partial Differential Equation Inpainting Method \n\n6\\. Topic II: Algorithm and Implementation\n\n7\\. Active Contours for Image Segmentation\n\n8\\. Students' Midterm Reports\n\n9\\. Functions with Bounded Variations\n\n10\\. Variational Methods for Image Inpainting\n\n11\\. Topic III: Algorithm and Implementation\n\n12\\. Variational Methods for Image Segmentation\n\n13\\. Topic IV: Algorithm and Implementation\n\n14.     Students' Final Reports",
+    "methodologies": [
+        {
+            "type": "Formal lecture",
+            "note": "In this image processing and analysis course, we will teach the basic principles and applications of related mathematical algorithms with examples."
+        },
+        {
+            "type": "Group discussion",
+            "note": "The key points of the related studying topics are discussed in groups by students."
+        },
+        {
+            "type": "Lab/Studio",
+            "note": "The students of the course will discuss in groups the related algorithms and computer programs of image processing learned in the classroom."
+        },
+        {
+            "type": "Case studies",
+            "note": "The students of the course will report in groups the related algorithms and computer programs for each selected topics of image processe and analysis."
+        }
+    ],
+    "grading": [
+        {
+            "type": "Assignments",
+            "weight": 30,
+            "note": "The students will need to do the home works of image processes and analysis. This part will take 30% of final score."
+        },
+        {
+            "type": "Class discussion involvement",
+            "weight": 10,
+            "note": "We will discuss the related topics together in the class. This part will take 10% of final score."
+        },
+        {
+            "type": "Attendances",
+            "weight": 10,
+            "note": "The students will study the course lectures in the class or on-line class. This part will take 10% of final score."
+        },
+        {
+            "type": "Presentation",
+            "weight": 30,
+            "note": "For each group students will read and give a report of selected exercises for image processes. This part will take 30% of final score."
+        },
+        {
+            "type": "Case study reports",
+            "weight": 20,
+            "note": "For each group students will read, report and analysis each respective topics of selected topics for image processes. This part will 20% of final score."
+        }
+    ],
+    "prerequisite": "◎Available for junior and senior year B.A. program students (Doctoral program courses excepted) and M.A. program students.",
+    "general_core": []
+}

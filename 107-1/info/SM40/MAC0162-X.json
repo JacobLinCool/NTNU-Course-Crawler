@@ -1,0 +1,67 @@
+{
+    "year": 107,
+    "term": 1,
+    "name": "統計專題（二）",
+    "teachers": [
+        "蔡碧紋"
+    ],
+    "department": "SM40",
+    "code": "MAC0162",
+    "credit": 3,
+    "serial": 4442,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 6,
+            "to": 8,
+            "campus": "公館",
+            "classroom": "教室自排"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程之教學目的在介紹的不同統計法的異同與其對應的資料分析方法，利用例題與統計軟體操作解說。",
+    "goals": [
+        "讓學生能以客觀、科學化的方法蒐集到可靠、有效資料，並以正確的方式分析資料，提高實驗的效率，獲得最正確的結論。"
+    ],
+    "syllabus": "The course gives an introduction to the basics of modern extreme value theory and extreme value  \nstatistics including: the basic limit theorems with the generalized extreme value distribution  \nand the generalized extreme Pareto distribution in the limit. We will use exploratory  \nstatistical tools for discovering the distribution of extremes and also be provided more  \nsophisticated tools for the estimation of distribution tails and higher order quantiles of  \ndistributions.  \n1\\. Examples of extreme value theory applications, Transformation of random variables  \n2\\. Distributions of functions of random variables in bivariate case. Statistical inference,  \nbias, consistency, point estimation, method of moments.  \n3\\. Maximum likelihood method (mle), Asymptotic distribution of mle in one dimension, Fisher  \ninformation, asymptotic distribution of mle in the general case.  \n4\\. Extremal types theorem Max-stable distributions,  \n5\\. Statistical analysis of Maxima: Application of the GEV, return level, return period,  \nmoment and likelihood estimations  \n6\\. Thresholds approaches: Limiting results; Peaks Over Threshold (POT) analysis;  \nGeneralized Pareto Distribution (GPD); r-largest statistics method;  \n7\\. Point processes for extremes, connection with block maxima and POT-model",
+    "methodologies": [
+        {
+            "type": "討論法",
+            "note": ""
+        },
+        {
+            "type": "問題解決教學",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "課堂討論參與",
+            "weight": 20,
+            "note": ""
+        },
+        {
+            "type": "報告",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "專題",
+            "weight": 50,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

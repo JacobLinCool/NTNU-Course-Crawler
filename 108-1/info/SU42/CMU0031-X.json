@@ -1,0 +1,72 @@
+{
+    "year": 108,
+    "term": 1,
+    "name": "工業化學",
+    "teachers": [
+        "許貫中"
+    ],
+    "department": "SU42",
+    "code": "CMU0031",
+    "credit": 3,
+    "serial": 2953,
+    "group": "",
+    "quota": {
+        "limit": 100,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 1,
+            "from": 7,
+            "to": 9,
+            "campus": "公館",
+            "classroom": "Ｅ301"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "3",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程介紹學生認識化學工業之基本概念，並瞭解化工相關產業的產品與製造方法，同時介紹台灣化學工業發展的演進。",
+    "goals": [
+        "介紹學生認識化學工業之基本概念，並瞭解化工相關產業的產品與製造方法，同時介紹台灣化學工業發展的演進。"
+    ],
+    "syllabus": "1\\. 化學工業概論  \n2\\. 煉油與石化工業  \n3\\. 塑膠、纖維、橡膠工業  \n4\\. 鋼鐵工業  \n5\\. 陶瓷工業",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "媒體融入教學",
+            "note": "觀看Youtube"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 20,
+            "note": ""
+        },
+        {
+            "type": "期中考",
+            "weight": 35,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 35,
+            "note": ""
+        },
+        {
+            "type": "其他",
+            "weight": 10,
+            "note": "課堂小考"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

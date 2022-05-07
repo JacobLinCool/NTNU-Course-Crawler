@@ -1,0 +1,69 @@
+{
+    "year": 108,
+    "term": 2,
+    "name": "離散數學",
+    "teachers": [
+        "王弘倫"
+    ],
+    "department": "SU47",
+    "code": "CSU0011",
+    "credit": 3,
+    "serial": 2891,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 32
+    },
+    "schedule": [
+        {
+            "day": 1,
+            "from": 8,
+            "to": 8,
+            "campus": "公館",
+            "classroom": "Ｅ101"
+        },
+        {
+            "day": 5,
+            "from": 3,
+            "to": 4,
+            "campus": "公館",
+            "classroom": "Ｅ101"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "1",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程介紹電腦科學領域中重要的數學技巧、及推理能力。在計算的各層次中離散數學用處極大，此課程將深入討論離散數學在演算法、程式語言及系統中所扮演的角色。",
+    "goals": [
+        "能建立離散數學專業領域知識"
+    ],
+    "syllabus": "\\- (Logic and proofs)\n\n\\- Modular arithmetic and number theory\n\n\\- Sets and functions\n\n\\- Recursion and mathematical induction\n\n\\- Counting and discrete probability\n\n\\- Graphs \n\n\\- Boolean algebra\n\n期末考將於 6/19 (五) 隨堂舉行；第17與18週之課程將安排隨堂展演。",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "問題解決教學",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "期中考",
+            "weight": 60,
+            "note": "兩次期中考，各佔 30%"
+        },
+        {
+            "type": "期末考",
+            "weight": 40,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

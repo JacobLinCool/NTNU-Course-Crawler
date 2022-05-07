@@ -1,0 +1,88 @@
+{
+    "year": 107,
+    "term": 1,
+    "name": "電子商務",
+    "teachers": [
+        "賴香菊"
+    ],
+    "department": "OU57",
+    "code": "BAU0052",
+    "credit": 3,
+    "serial": 2436,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 4,
+            "from": 7,
+            "to": 9,
+            "campus": "本部",
+            "classroom": "誠207"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎必須先修過【BAU0048  企業管理概論】",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程企圖介紹電子商務沿革、驅動因素、影響、以及未來趨勢的各種實務應用，涉及的範圍將包括網路實際業務案例的鑑往知來、新興科技形塑未來商務環境的探討等，課程以講述沿革與探討、討論個案為主，也許將邀請若干業師到課堂參與討論。\n這門課的學生將被要求實際動手精通搜尋引擎搜尋命令語法、有效用且有效率的理解他人觀點並發展自己觀點、順暢表達Inventing the Wheel的見解描述或是Reinventing the Wheel的重點整理等。",
+    "goals": [
+        "瞭解網際網路等科技的演進為企業經營帶來的衝擊及機會，並著重其中引發的經營管理議題。",
+        "瞭解既存商務的領導公司所帶動發展的科技與商模等重要議題。",
+        "透過個案討論及實務演練，體驗電子商務應用及實務操作，以面對未來挑戰",
+        "企管學科乃在於培養人的品質，本課程藉用電子商務的發展過程以練習如何善用把已知及可調資源、迎向未知與挑戰。"
+    ],
+    "syllabus": "**Date**\n\n**Topics and Readings**\n\n09/13\n\nchap. 1 – Introduction to E-Commerce\n\n09/20\n\nchap. 2: E-commerce Infrastructure\n\n09/27\n\nCase: Will Apps Make the Web Irrelevant? (p.64-65)\n\nApps for Everything: The App Ecosystem (p. 161-162)\n\n10/04\n\nchap. 3 – Building an E-commerce Presence\n\n**雲端科技**\n\n10/11\n\nThink Your Smartphone is Secure? (p. 257-258)\n\nchap. 4 – E-Commerce Security and Payment Systems\n\n10/18\n\nOrbitz Worldwide Charts: Its Mobile Trajectory (p. 228-231)\n\nchap. 5 – E-commerce Business Strategies\n\n10/25\n\nDisrupting the European Eyewear Industry (p. 319-321)\n\nchap. 6 –E-Commerce Marketing and Advertising\n\n11/01\n\nProgramming Advertising: Real-Time Marketing (p. 449-452)\n\nchap. 7 – Social, Mobile, and Local Marketing\n\n11/08\n\n期中報告\n\n11/15\n\nOptimizing Social Marketing with Simply Measured (p. 479-480)\n\nchap. 8 – Ethics, Law, and E-Commerce\n\n11/22\n\nApple: Champion of Privacy? (p. 547-548)\n\nchap. 9 – Online Media\n\n11/29\n\nNetflix: How Does This Movie End? (p. 675-679)\n\nchap. 10 – Online Communities\n\n12/06\n\nThe Dark Side of Social Network (p. 697-699)\n\nchap. 11 –E-Commerce Retailing and Services\n\n12/13\n\nBig Data and Artificial Intelligence\n\n12/20\n\nBig Data and Predictive Marketing (p. 758-759)\n\n**新零售時代與****O2O**\n\n12/27\n\nChina’s E-Commerce King (p. 791-792)\n\nchap. 12 - B2B E-Commerce\n\n01/03\n\nWalmart Develops a Private Industrial Network (p. 835-836)\n\nElemica: Cooperation, Collaboration, and Community (p. 839-844)\n\n01/10\n\n期末報告",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "基本概念"
+        },
+        {
+            "type": "討論法",
+            "note": "個案討論"
+        },
+        {
+            "type": "問題解決教學",
+            "note": "個案討論、實做演練"
+        },
+        {
+            "type": "合作學習",
+            "note": "群組作業"
+        }
+    ],
+    "grading": [
+        {
+            "type": "期中考",
+            "weight": 20,
+            "note": "小考：基本概念測試"
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 15,
+            "note": "上課發言"
+        },
+        {
+            "type": "出席",
+            "weight": 10,
+            "note": ""
+        },
+        {
+            "type": "報告",
+            "weight": 40,
+            "note": "平日群組個案報告（20%）/期末群組專題報告（20%）"
+        },
+        {
+            "type": "其他",
+            "weight": 15,
+            "note": "個人報告"
+        }
+    ],
+    "prerequisite": "◎必須先修過【BAU0048  企業管理概論】",
+    "general_core": []
+}

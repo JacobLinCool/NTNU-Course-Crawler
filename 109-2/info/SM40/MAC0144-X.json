@@ -1,0 +1,69 @@
+{
+    "year": 109,
+    "term": 2,
+    "name": "非線性規劃（二）",
+    "teachers": [
+        "陳界山"
+    ],
+    "department": "SM40",
+    "code": "MAC0144",
+    "credit": 3,
+    "serial": 2645,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 1,
+            "from": 6,
+            "to": 8,
+            "campus": "公館",
+            "classroom": "教室自排"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程主要在研究各種非線性規劃問題的極小值問題，內容包括解的存在性與相關的演算法。本課程將從介紹凸分析知識出發，對無約束條件的最佳化問題與具有約束條件的最佳化問題，分別講授其相關的理論背景，再介紹其常用的演算法。",
+    "goals": [
+        "理解各種最佳化問題的理論背景",
+        "理解解決各種最佳化問題的演算法",
+        "瞭解各種最佳化問題的實際應用"
+    ],
+    "syllabus": "延續非線性規劃（I），本課程將對各種(無約束條件與具有約束條件)的最佳化問題的解的存在性與相關的演算法之理論部分作詳細的介紹，整體來說將涵蓋凸分析知識、Karush-Kuhn-Tucker定理、解存在性的限制資格(constraint qualification)、對偶定理(Duality theorem)、Quasi-Newton method、BFGS、Conjugate gradient、Barrier method、Penalty method、Proximal point method等各種演算法。",
+    "methodologies": [
+        {
+            "type": "討論法",
+            "note": "每個選修此課程的學生將被指定研讀的章節，並輪流上台報告所研讀的內容。"
+        },
+        {
+            "type": "其他",
+            "note": "專題討論(對特定主題邀請相關學者專家進一步講授，以增進學生對課程內容之瞭解。)"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 30,
+            "note": "指定論文、補充材料的閱讀。"
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 20,
+            "note": "出席並參與課堂討論、聆聽相關研討會演講的情形。"
+        },
+        {
+            "type": "報告",
+            "weight": 50,
+            "note": "輪流上台報告所研讀的內容對培養研究生作研究的態度與能力是非常重要的，因此將針對每位學生上台報告的講解中，評量其對研讀內容的理解程度。"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

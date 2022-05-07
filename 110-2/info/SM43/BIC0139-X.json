@@ -1,0 +1,63 @@
+{
+    "year": 110,
+    "term": 2,
+    "name": "蛋白質與酵素化學",
+    "teachers": [
+        "李冠群"
+    ],
+    "department": "SM43",
+    "code": "BIC0139",
+    "credit": 2,
+    "serial": 2649,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 4,
+            "from": 6,
+            "to": 7,
+            "campus": "公館",
+            "classroom": "Ｓ307"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程不開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 2,
+    "description": "介紹蛋白質與酵素學的基本學理，包括蛋白質與酵素的生化特性、分子結構、作用機轉及功能調控等，並介紹現今應用酵素學的相關生物技術。",
+    "goals": [
+        "能瞭解蛋白質與酵素的生化特性、分子結構、作用機轉及功能調控之基礎知識。",
+        "能根據所學來從事蛋白質與酵素相關研究，包括實驗設計、結果分析、及歸納結論。"
+    ],
+    "syllabus": "週次/主題\n\n1.    Introduction\n\n2.    Nomenclature and classification of enzymes\n\n3.    The structure of proteins\n\n4.    The folding and unfolding of proteins\n\n5.    The purification of proteins\n\n6.    An introduction to enzyme kinetics\n\n7.    The control of enzyme kinetics\n\n8.    The mechanism of enzyme action\n\n9.    期中考\n\n10.  Examples of enzyme mechanisms\n\n11.  The control of enzyme activity and metabolic pathways\n\n12.  Enzymes in organized systems\n\n13.  Examples of multienzyme complexes\n\n14.  Enzymes in the cell\n\n15.  Enzyme turnover\n\n16.  Clinical aspects of Enzymology\n\n17.  Enzyme technology\n\n18.  期末考",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "自製教學簡報檔案，自編講義授課"
+        },
+        {
+            "type": "媒體融入教學",
+            "note": "運用Moodle數位學習平台"
+        }
+    ],
+    "grading": [
+        {
+            "type": "期中考",
+            "weight": 50,
+            "note": "填空題(60%)：1-1具備探究生命科學之專業知識； 問答題(40%)：3-1具備針對實驗結果，進行正確分析、歸納並發表研究成果的能力"
+        },
+        {
+            "type": "期末考",
+            "weight": 50,
+            "note": "填空題(60%)：1-1具備探究生命科學之專業知識； 問答題(40%)：3-1具備針對實驗結果，進行正確分析、歸納並發表研究成果的能力"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

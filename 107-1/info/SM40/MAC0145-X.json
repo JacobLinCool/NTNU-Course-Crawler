@@ -1,0 +1,72 @@
+{
+    "year": 107,
+    "term": 1,
+    "name": "貝氏統計初探",
+    "teachers": [
+        "程毅豪"
+    ],
+    "department": "SM40",
+    "code": "MAC0145",
+    "credit": 3,
+    "serial": 4480,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 5,
+            "from": 2,
+            "to": 4,
+            "campus": "公館",
+            "classroom": "教室自排"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程將討論貝氏方法 (貝氏學派) 的一些觀念及方法，讓學生了解貝氏統計的基本理論與資料分析技巧，以及藉由統計軟體來解決問題。",
+    "goals": [
+        "讓學生了解貝氏統計的基本理論與資料分析技巧",
+        "藉由統計軟體來解決問題"
+    ],
+    "syllabus": "1-2 周: 基本貝氏統計觀念簡介\n\n3-4 周: 貝氏共軛族\n\n5-6 周: 貝氏估計理論\n\n7-8周: 貝氏統計計算(一) EＭ算法\n\n9-10周: 貝氏統計計算(二) Gibbs sampler算法\n\n11-12 周: 貝氏統計計算(三) Metroplis 算法\n\n13 周: 貝氏統計計算(四) Markov Chain Monte Carlo 方法\n\n14 周: 貝氏模型檢驗\n\n15 周: 貝氏假說檢定\n\n16-17 周: 貝氏統計應用\n\n18 周: 期末考",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": ""
+        },
+        {
+            "type": "實驗/實作",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 40,
+            "note": ""
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 30,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

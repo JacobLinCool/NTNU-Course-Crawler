@@ -1,0 +1,92 @@
+{
+    "year": 108,
+    "term": 2,
+    "name": "資訊管理",
+    "teachers": [
+        "何宗武"
+    ],
+    "department": "OM56",
+    "code": "IAM0087",
+    "credit": 3,
+    "serial": 2349,
+    "group": "",
+    "quota": {
+        "limit": 40,
+        "additional": 0
+    },
+    "schedule": [
+        {
+            "day": 5,
+            "from": 2,
+            "to": 4,
+            "campus": "本部",
+            "classroom": "雲608"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程不開放上修",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程主要目標係讓管院研究生瞭解如何利用資訊科技提升企業經營管理的效益、效率及提升競爭優勢。包含資訊科技的發展及其與經營管理需求的相互影響、資訊系統的要素、資訊系統規劃與建置、資訊管理於企業經營的應用、如何運用資訊科技提升競爭優勢以及相關的重要議題。",
+    "goals": [
+        "Understand the elements and development of information technology, and its role in business operations",
+        "Understand how to use information technology to enhance competitive advantage, and to plan and develop information systems",
+        "Understand the moral and ethical issues related to information technology",
+        "Cultivate the ability to collaborate with peers to share information technology knowledge with the public"
+    ],
+    "syllabus": "**日期**\n\n**Topics and Readings**\n\n1\n\n2月21日\n\nIntroduction— 認識管理個人與企業的資訊架構\n\n2\n\n2月28日\n\n例假日\n\n3\n\n3月6日\n\n認識程式語言1：Python/C#/Html5/JavaScript\n\n4\n\n3月13日\n\n認識程式語言2：R & RStudio 環境\n\n5\n\n3月20日\n\nR 視覺化和Markdown入門\n\n6\n\n3月27日\n\n認識資料庫1：從MS ACCESS開始，製作資料表與查詢\n\n1st quiz\n\n7\n\n4月3日\n\n例假日\n\n8\n\n4月10日\n\n認識資料庫2：SQL and Family (MS, light & MySQL)\n\n9\n\n4月17日\n\n認識資料庫3：MySQL\n\n10\n\n4月24日\n\n認識資料庫4：JSON\n\n11\n\n5月1日\n\nR的資料庫管理與數據分析\\-- MySQL\n\n12\n\n5月8日\n\nR的Markdown進階\n\n2nd quiz\n\n13\n\n5月15日\n\n專題介紹1：大數據資料庫介紹(Hadoop/Spark/…)\n\n14\n\n5月22日\n\n專題介紹2：網頁如何與資料庫互動(PHP)\n\n15\n\n5月29日\n\n專題介紹3：R/Python與微軟的科技整合\n\n16\n\n6月5日\n\n專題介紹4：R/Python與Google的科技整合\n\n17\n\n6月12日\n\n專題報告\n\n18\n\n6月19日\n\n專題報告或期末考",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "重要概念已講授方式傳授"
+        },
+        {
+            "type": "討論法",
+            "note": "提供個案及重要議題讓同學們進行討論"
+        },
+        {
+            "type": "問題解決教學",
+            "note": "利用個案讓同學們討論解決問題的可能性"
+        },
+        {
+            "type": "合作學習",
+            "note": "會進行分組，讓同學們學習如何進行團隊交流與學習"
+        },
+        {
+            "type": "專題研究",
+            "note": "會搭配適當的個案進行教學"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 20,
+            "note": ""
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 20,
+            "note": ""
+        },
+        {
+            "type": "出席",
+            "weight": 10,
+            "note": ""
+        },
+        {
+            "type": "報告",
+            "weight": 30,
+            "note": "平日個案報告"
+        },
+        {
+            "type": "專題",
+            "weight": 20,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

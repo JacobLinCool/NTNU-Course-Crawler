@@ -1,0 +1,84 @@
+{
+    "year": 108,
+    "term": 2,
+    "name": "類神經網路",
+    "teachers": [
+        "陳世旺",
+        "葉梅珍"
+    ],
+    "department": "SM47",
+    "code": "CSC0032",
+    "credit": 3,
+    "serial": 2631,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 3,
+            "from": 2,
+            "to": 4,
+            "campus": "公館",
+            "classroom": "Ｂ102"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "Advanced study on Artificial Neural Networks (ANN), focusing on understanding biological nervous systems and developing computational techniques for ANN, this course covers a wide \nrange of research problems encountered within ANN and provides detailed algorithmic and theoretical treatments for each. 本課程主要介紹類神經網路相關處理技術。這門課程廣泛的探討與類神經網路有關的研究問題，並為這些問題提供了詳細的演算法和理論分析。",
+    "goals": [
+        "Understand biological nervous systems",
+        "Imitate biological nervous systems",
+        "Build theoretical concepts of artificial neural networks (ANN)",
+        "Implement computational techniques of ANN"
+    ],
+    "syllabus": "**A. Topics:**\n\nCh.1:    Introduction (weeks 1, 2)\n\nCh.2:    Adaline and Madaline (weeks 2, 3)\n\nCh.4:    Backpropagation Neural Networks (weeks 4, 5)\n\nCh.6:    AM and BAM (week 6)\n\nCh.12:  Boltzmann Machine (weeks 7, 8)\n\nMid-term Exam. (week 9)",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "講述理論與概念"
+        },
+        {
+            "type": "討論法",
+            "note": "隨堂提問"
+        },
+        {
+            "type": "媒體融入教學",
+            "note": "播放相關議題視訊"
+        },
+        {
+            "type": "專題研究",
+            "note": "引導研究主題，實作計畫"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 40,
+            "note": "平常作業"
+        },
+        {
+            "type": "期中考",
+            "weight": 30,
+            "note": "包括各種講述問題"
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 20,
+            "note": "隨堂提問"
+        },
+        {
+            "type": "出席",
+            "weight": 10,
+            "note": "缺席、遲到、早退考核"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

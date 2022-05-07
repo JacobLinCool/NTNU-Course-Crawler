@@ -1,0 +1,138 @@
+[
+    {
+        "year": 109,
+        "term": 2,
+        "name": "認知與情緒",
+        "teachers": [
+            "陳學志"
+        ],
+        "department": "EM01",
+        "code": "PCC0073",
+        "credit": 3,
+        "serial": 436,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 8,
+                "to": 10,
+                "campus": "本部",
+                "classroom": "教育學院第1會議室"
+            }
+        ],
+        "programs": [
+            "學校心理學學程"
+        ],
+        "comment": "",
+        "restrict": "◎課程開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 2,
+        "name": "認知心理學專題研討",
+        "teachers": [
+            "吳昭容"
+        ],
+        "department": "EM01",
+        "code": "PCC0087",
+        "credit": 3,
+        "serial": 437,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 2,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "教500"
+            }
+        ],
+        "programs": [
+            "學校心理學學程"
+        ],
+        "comment": "",
+        "restrict": "◎課程不開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 2,
+        "name": "情緒障礙專題研究",
+        "teachers": [
+            "洪儷瑜"
+        ],
+        "department": "EM09",
+        "code": "SPC0033",
+        "credit": 3,
+        "serial": 510,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 10,
+                "to": 12,
+                "campus": "本部",
+                "classroom": "特116"
+            }
+        ],
+        "programs": [
+            "學校心理學學程"
+        ],
+        "comment": "部分時間採線上非同步上課",
+        "restrict": "◎課程開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 2,
+        "name": "應用行為分析",
+        "teachers": [
+            "王慧婷"
+        ],
+        "department": "EM09",
+        "code": "SPC0034",
+        "credit": 3,
+        "serial": 511,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 2,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "特230"
+            }
+        ],
+        "programs": [
+            "學校心理學學程"
+        ],
+        "comment": "",
+        "restrict": "◎課程開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    }
+]

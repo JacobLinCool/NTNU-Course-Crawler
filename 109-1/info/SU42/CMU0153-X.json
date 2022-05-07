@@ -1,0 +1,73 @@
+{
+    "year": 109,
+    "term": 1,
+    "name": "儀器分析（一）",
+    "teachers": [
+        "呂家榮"
+    ],
+    "department": "SU42",
+    "code": "CMU0153",
+    "credit": 2,
+    "serial": 2965,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 35
+    },
+    "schedule": [
+        {
+            "day": 4,
+            "from": 6,
+            "to": 7,
+            "campus": "公館",
+            "classroom": "Ｅ301"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "3",
+    "classes": "",
+    "dept_group": "",
+    "hours": 2,
+    "description": "銜接「分析化學」固有內容外，更涵蓋光譜分析與電子電路設計。",
+    "goals": [
+        "This course intends to cover principle of instruments used for analytical chemistry.",
+        "It will include those instruments needed for general analytical purposes and research goals.",
+        "The objective of this course aims at enhancing the knowledge of analytical techniques"
+    ],
+    "syllabus": "Ch 1 Introduction\n\nCh 2 Electrical Components\n\nCh 2 – Ch 3 Operational Amplifier\n\nCh 3 – Ch 4 Digital Electronics\n\nCh 4 – Ch 5 Signal & Noise\n\n **Exam1 Ch 1~ 5**\n\nCh 8 Introduction to Atomic Spectrometry\n\nCh 9 Atomic Absorbance & Fluorescence\n\nCh 10 Atomic Emission Spectrometry\n\nCh 11 Atomic Mass Spectrometry\n\n**Exam 2 Ch8~Ch11**\n\n Ch 21 Surface Characterization\n\nCh 30 Capillary Electrophoresis\n\n Ch 31 Thermal Method\n\n Ch 34 Particle Size Determination\n\n**Exam 3 Ch21****、****Ch30****、****Ch31****、****Ch34**",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": ""
+        },
+        {
+            "type": "媒體融入教學",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "期中考",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 40,
+            "note": ""
+        },
+        {
+            "type": "其他",
+            "weight": 30,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

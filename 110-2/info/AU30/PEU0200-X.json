@@ -1,0 +1,85 @@
+{
+    "year": 110,
+    "term": 2,
+    "name": "排球（四）",
+    "teachers": [
+        "邱得全"
+    ],
+    "department": "AU30",
+    "code": "PEU0200",
+    "credit": 2,
+    "serial": 114,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 4,
+            "from": 6,
+            "to": 7,
+            "campus": "公館",
+            "classroom": "體育館二3樓"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎必須先修過【PEU0250  排球（三）】 ◎課程開放上修",
+    "form_s": "3",
+    "classes": "",
+    "dept_group": "",
+    "hours": 2,
+    "description": "123",
+    "goals": [
+        "123"
+    ],
+    "syllabus": "  \n[教學進度與主題附件](https://ap.itc.ntnu.edu.tw/NtnuFileShare/file.do?action=dl&gno=ea81f92977f048488504f05efcc8066b&fno=49b9b0226ad140f4a028e24fe1f2a267)",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "教師進行課程講解"
+        },
+        {
+            "type": "問題解決教學",
+            "note": "提供活動讓同學進行省思與分析"
+        },
+        {
+            "type": "實驗/實作",
+            "note": "進行實際操作與分享"
+        },
+        {
+            "type": "專題研究",
+            "note": "進行自錄影片專題報告"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 10,
+            "note": "期末學習心得報告"
+        },
+        {
+            "type": "期中考",
+            "weight": 15,
+            "note": "各組自選排球項目考試"
+        },
+        {
+            "type": "期末考",
+            "weight": 15,
+            "note": "各組進行課堂教學演示"
+        },
+        {
+            "type": "出席",
+            "weight": 40,
+            "note": "出席率"
+        },
+        {
+            "type": "專題",
+            "weight": 20,
+            "note": "自錄排球專題教學影片"
+        }
+    ],
+    "prerequisite": "◎必須先修過【PEU0250  排球（三）】",
+    "general_core": []
+}

@@ -1,0 +1,76 @@
+{
+    "year": 110,
+    "term": 1,
+    "name": "流行病學研究",
+    "teachers": [
+        "連盈如"
+    ],
+    "department": "EM05",
+    "code": "HEC8001",
+    "credit": 2,
+    "serial": 442,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 5,
+            "from": 3,
+            "to": 4,
+            "campus": "本部",
+            "classroom": "誠506"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 2,
+    "description": "瞭解流行病學之重要概念、研究方法及應用，期能於日後發揮於衛生教育工作上。",
+    "goals": [
+        "瞭解流行病學之重要概念、研究方法及應用"
+    ],
+    "syllabus": "本課程涵蓋主題如下：\n\n*   流行病學簡史與測量的原理\n*   流行病學的測量\n*   流行病學的因果推論\n*   流行病學研究設計： 實驗性設計、世代追蹤研究、病例對照研究\n*   流行病學專題：傳染病流行病學、慢性流行病學、精神流行病學'、遺傳流行病學、臨床流行病學、統合分析等\n*   流行病學資料分析\n*   流行病學書報討論",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": ""
+        },
+        {
+            "type": "其他",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 20,
+            "note": "個人回家作業"
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 10,
+            "note": ""
+        },
+        {
+            "type": "報告",
+            "weight": 20,
+            "note": "分組文獻報告"
+        },
+        {
+            "type": "專題",
+            "weight": 50,
+            "note": "研究專題與分析報告(個人作業)"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

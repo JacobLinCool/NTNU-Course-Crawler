@@ -1,0 +1,69 @@
+{
+    "year": 109,
+    "term": 2,
+    "name": "數理統計",
+    "teachers": [
+        "蔡榮宗"
+    ],
+    "department": "SU47",
+    "code": "CSU0026",
+    "credit": 3,
+    "serial": 2985,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 5,
+            "from": 7,
+            "to": 9,
+            "campus": "公館",
+            "classroom": "Ｂ102"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "2",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程涵蓋數理統計的基礎理論與實際應用，將著重於抽樣方法與分佈、統計資料呈現與整理、模擬、信賴區間、假設檢定、線性回歸、多變量資料分析等主題。課程之前半部強調背景知識的建立，而後半部著重理論的整合與應用，以使修課同學能夠從多方面了解數理統計。",
+    "goals": [
+        "能了解數理統計的基礎理論",
+        "能將統計應用在各種研究領域"
+    ],
+    "syllabus": "The class is scheduled to present a solidfoundation in statistical theory while providing an indication of the relevanceand importance of the theory in solving practical problems in the real world.\n\n1.    What is Statistics?, Probability,Random variables and Probability distributions\n\n2.    Multivariable probabilitydistributions, Functions of random variables\n\n3.    Sampling distributions andCentral limit theorem\n\n4.    Estimation\n\n5.    Properties of Point Estimatorsand Methods of Estimation\n\n6.    Hypothesis Testing\n\n7.    Linear Models and Estimation byLeast Squares\n\n8.    …, the analysis of variance, …\n\n9\\. Bayesian method",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "Lecture in class"
+        }
+    ],
+    "grading": [
+        {
+            "type": "期中考",
+            "weight": 50,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 50,
+            "note": ""
+        },
+        {
+            "type": "出席",
+            "weight": 4,
+            "note": "Credits at most 4% will be added to final scores."
+        },
+        {
+            "type": "其他",
+            "weight": 100,
+            "note": "If some TA is assigned for the class, then homework, midterm exam, and final exam will take the weight 30%, 35%, and 35% of final grade, respectively."
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

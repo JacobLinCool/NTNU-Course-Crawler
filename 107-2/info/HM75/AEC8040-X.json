@@ -1,0 +1,74 @@
+{
+    "year": 107,
+    "term": 2,
+    "name": "積體電路可靠度",
+    "teachers": [
+        "林群祐"
+    ],
+    "department": "HM75",
+    "code": "AEC8040",
+    "credit": 3,
+    "serial": 1177,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 2,
+            "to": 4,
+            "campus": "本部",
+            "classroom": "工511"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "在所有積體電路產品中，皆必須於量產時符合可靠度的規範，以提供該積體電路產品足夠的耐用年限。近年來甚至有結合生醫與積體電路的電療技術，這類積體電路產品更要符合可靠度的規範，以讓使用者用的安心。本課程將介紹積體電路產品在設計、製造、測試等環節所面臨的各種可靠度問題，其中包括靜電放電破壞、電性過壓現象、故障模式分析等等，並介紹各種解決方案，讓學生能將積體電路設計的理論與實務技術做結合。",
+    "goals": [
+        "增進學生對積體電路可靠度問題的理解。",
+        "培養學生解決積體電路可靠度問題之能力。",
+        "使學生具備高階積體電路設計之能力，以符合IC設計公司之人力需求。",
+        "培養學生興趣，進一步奠定學生終身學習之基礎。"
+    ],
+    "syllabus": "1\\. Introduction on reliability events in integrated circuits.\n\n2\\. Industrial standards. \n\n3\\. Testing on IC products.\n\n4\\. Design concepts, including process issues, device issues, layout issues, and circuit issues.\n\n5\\. Case Study.",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": ""
+        },
+        {
+            "type": "問題解決教學",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "期中考",
+            "weight": 35,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 35,
+            "note": ""
+        },
+        {
+            "type": "報告",
+            "weight": 30,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

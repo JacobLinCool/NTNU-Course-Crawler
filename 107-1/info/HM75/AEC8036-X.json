@@ -1,0 +1,81 @@
+{
+    "year": 107,
+    "term": 1,
+    "name": "通訊系統應用",
+    "teachers": [
+        "王嘉斌"
+    ],
+    "department": "HM75",
+    "code": "AEC8036",
+    "credit": 3,
+    "serial": 1170,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 2,
+            "to": 4,
+            "campus": "本部",
+            "classroom": "電機系電子實驗室"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程主要以電路設計的方式使學生了解一個完整的通訊系統，包括調變器與解調器之設計與製作。",
+    "goals": [
+        "數位理論講授",
+        "通訊系統實作"
+    ],
+    "syllabus": "第一週&第二週: 第一單元課程：行動通訊技術之沿革與演進（兩週）\n\n第三週:  實驗一:建立Small Cell執行環境\n\n第四週&第五週:  第二單元課程：LTE/SAE 網路架構與元件(兩週)\n\n第六週: 實驗二:建立RRC連線\n\n第七週&第八週:第三單元課程：LTE MIMO之原理與技術介紹（兩週）\n\n第九週: 期中考\n\n第十週:  實驗三:觀察LTE Attach與Detach程序\n\n第十一週&第十二週: 第四單元課程：基本的排成機制之簡介（兩週）\n\n第十三週: 業師授課（一週）\n\n第十四週: 實驗四:量測Small Cell網路效能\n\n第十五週&第十六週: 綜合實驗（兩週）\n\n第十七週: 業師授課（一週）\n\n第十八週: 期末專題展示",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "說明第五代行動通訊Small Cell之原理"
+        },
+        {
+            "type": "合作學習",
+            "note": "學生分組完成專題製作，培養學生合作學習態度"
+        },
+        {
+            "type": "實驗/實作",
+            "note": "整個學期共有四個實驗，學生分組完成實驗內容"
+        },
+        {
+            "type": "專題研究",
+            "note": "學生分組完成專題製作"
+        }
+    ],
+    "grading": [
+        {
+            "type": "期中考",
+            "weight": 30,
+            "note": "測試同學基礎Small Cell之原理"
+        },
+        {
+            "type": "成果展覽",
+            "weight": 10,
+            "note": "同學針對其專題作專案報告與展示"
+        },
+        {
+            "type": "專題",
+            "weight": 30,
+            "note": "學生分組完成專題製作"
+        },
+        {
+            "type": "其他",
+            "weight": 30,
+            "note": "共有四個實驗，學生分組完成實驗內容"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

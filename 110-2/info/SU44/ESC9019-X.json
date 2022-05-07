@@ -1,0 +1,74 @@
+{
+    "year": 110,
+    "term": 2,
+    "name": "海洋地質學",
+    "teachers": [
+        "葉孟宛"
+    ],
+    "department": "SU44",
+    "code": "ESC9019",
+    "credit": 3,
+    "serial": 2919,
+    "group": "",
+    "quota": {
+        "limit": 30,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 4,
+            "from": 7,
+            "to": 9,
+            "campus": "公館",
+            "classroom": "Ｃ401"
+        }
+    ],
+    "programs": [],
+    "comment": "中階以上課程，適合大三以上學生修習，以作為探究研究所之先修課程，同時也開放碩士班無此課程基礎之學生選修。",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "9",
+    "dept_group": "",
+    "hours": 3,
+    "description": "",
+    "goals": [
+        "Develop an understanding of the structure of the earth beneath oceans, the history and character of processes that have shaped the earth beneath the sea, and oceanic and global history itself.",
+        "Understand the submarine erosional and depositional processes.",
+        "Can work with colleagues about the geology underneath the sea.",
+        "Can use the professional techniques to work on marine geological issues"
+    ],
+    "syllabus": "Outlines\n\nWeek 週次\n\nLecture topics 課程議題\n\nPrac 實作\n\n第一週 2/17\n\n課程簡介\n\nHistorical development of marine geology\n\n第二週 2/24\n\nMorphology of oceans\n\nGlobal ocean topography map reconstruction\n\n第三週 3/3\n\nStructure of the oceanic crust\n\nOceanic crust age reconstruction\n\n第四週 3/10\n\nComposition of the oceanic crust\n\nGlobal tectonic palaeo geographic evolution reconstruction\n\n第五週 3/17\n\nTectonic evolution of  the oceanic crust\n\nRock identification\n\n第六週 3/24\n\nField trip I\n\nField trip I\n\n第七週 3/31\n\nField trip I\n\nField trip I\n\n第八週 4//7\n\nField trip I\n\nField trip I\n\n第九週 4/14\n\nMidterm field report\n\n週次\n\n課程內容\n\nPrac 實作\n\n第十週 4/21\n\nSources and Composition of marine sediments\n\nGrain size analysis\n\n第十一週 4/28\n\nEffects of waves and currents\n\nMineral composition analysis\n\n第十二週 5/5\n\nSea-Level processes and effects of Sea-level change\n\nMineral separation\n\n第十三週 5/12\n\nProductivity of the Ocean and Implications\n\nStratigraphic column reconstruction\n\n第十四週 5/19\n\n  Benthic Organisms and Environmental Reconstruction\n\nFinal field trip report\n\n第十五週 5/26\n\n  Imprint of Climate Zonation on Marine Sediments\n\nFinal field trip report\n\n第十六週 6/2\n\n  Final exam\n\nFinal field trip report\n\n第十七週\n\n  Field trip II\n\n第十八週\n\n  Field trip II",
+    "methodologies": [
+        {
+            "type": "Formal lecture",
+            "note": "課堂講述"
+        },
+        {
+            "type": "Lab/Studio",
+            "note": "每週一小時實作"
+        },
+        {
+            "type": "Field work",
+            "note": "野外考察"
+        }
+    ],
+    "grading": [
+        {
+            "type": "Assignments",
+            "weight": 40,
+            "note": "每週實作課程之作業"
+        },
+        {
+            "type": "Final exam",
+            "weight": 20,
+            "note": "兩小時紙筆測驗"
+        },
+        {
+            "type": "Presentation",
+            "weight": 40,
+            "note": "兩個野外考察報告"
+        }
+    ],
+    "prerequisite": "◎Available for junior and senior year B.A. program students (Doctoral program courses excepted) and M.A. program students.",
+    "general_core": []
+}

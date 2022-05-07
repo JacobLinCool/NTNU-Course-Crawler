@@ -1,0 +1,64 @@
+{
+    "year": 107,
+    "term": 2,
+    "name": "流體力學",
+    "teachers": [
+        "曾莉珊"
+    ],
+    "department": "SU44",
+    "code": "ESU0198",
+    "credit": 3,
+    "serial": 2931,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 4,
+            "from": 6,
+            "to": 8,
+            "campus": "公館",
+            "classroom": "Ｃ003"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎必須先修過【MAU0180  微積分乙（一）】、【MAU0181  微積分乙（二）】◎必須先修過(也可以同時修)【PHU0251  普通物理乙（一）】、【PHU0252  普通物理乙（二）】",
+    "form_s": "2",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "課程簡介 (中文)：\n本課程介紹有關流體特性與行為的基本知識，內容包括流體的定義與特性、流體靜力學、變形與旋轉、質量守恆、動量守恆、能量守恆定律、白努利方程、無旋流與位勢流、亂流與層流、邊界層、波動理論等。主要在提供同學有關流體力學之基礎，為大氣、海洋、及其他相關地球科學領域基礎科目之一。",
+    "goals": [
+        "1.\t學生能夠加強現行中學地球科學課程的主要教材內容的學科基本知識",
+        "2.\t學生能夠熟習常用的一些地球科學教學方法教案撰寫"
+    ],
+    "syllabus": "**_Part I Fundamentals_**\n\n0.      Vector Analysis: Review\n\n1.      Introduction\n\n2.      Fluid Statics\n\n3.      Elementary Fluid Dynamics—The Bernoulli Equation\n\n4.      Fluid Kinematics\n\n**_Part II Conservation Principles_**\n\n5.      Finite Control Volume Analysis\n\n6.      Differential Analysis of Fluid Flow\n\n**_Part III Dimensional Analysis. Theory and Applications_**\n\n7.      Dimensional Analysis, Similitude, and Modeling\n\n8.      Introduction to Geophysical Fluid Dynamics",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "期中考",
+            "weight": 40,
+            "note": "2次"
+        },
+        {
+            "type": "期末考",
+            "weight": 30,
+            "note": ""
+        }
+    ],
+    "prerequisite": "◎必須先修過【MAU0180  微積分乙（一）】、【MAU0181  微積分乙（二）】◎必須先修過(也可以同時修)【PHU0251  普通物理乙（一）】、【PHU0252  普通物理乙（二）】",
+    "general_core": []
+}

@@ -1,0 +1,65 @@
+{
+    "year": 107,
+    "term": 1,
+    "name": "區域性網路",
+    "teachers": [
+        "蔡榮宗"
+    ],
+    "department": "SU47",
+    "code": "CSU0038",
+    "credit": 3,
+    "serial": 2985,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 5,
+            "from": 7,
+            "to": 9,
+            "campus": "公館",
+            "classroom": "Ｂ102"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "3",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程內容包含 網路第二層的MAC layer protocols 和Logical Link control ，Network management，無線訊號傳輸特徵 及 分析protocol必備的 Elementary Queueing Theory。",
+    "goals": [
+        "能了解網路MAC層的基本問題，設計原則，及分析方法。",
+        "能具有建構區域網路新架構的能力",
+        "能分析模擬實驗數據並增強網路功能"
+    ],
+    "syllabus": "1\\. Introduction and technical background  \n2\\. Classic stochastic models for performance analysis  \n3\\. LAN/MAN architecture  \n4\\. Ethernet LANs, IEEE 802.3  \n5\\. Token Ring/Bus LANs and MANs  \n6\\. Wireless LANs IEEE 802.11 (WiFi)  \n7\\. WiMAX, IEEE 802.16  \n8\\. Internetworking  \n9\\. Network Management",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 30,
+            "note": "Homework problem"
+        },
+        {
+            "type": "期中考",
+            "weight": 35,
+            "note": "Problem test"
+        },
+        {
+            "type": "期末考",
+            "weight": 35,
+            "note": "Problem test"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

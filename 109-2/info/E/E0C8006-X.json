@@ -1,0 +1,94 @@
+{
+    "year": 109,
+    "term": 2,
+    "name": "階層線性模式",
+    "teachers": [
+        "林世華"
+    ],
+    "department": "E",
+    "code": "E0C8006",
+    "credit": 3,
+    "serial": 375,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 4,
+            "from": 6,
+            "to": 8,
+            "campus": "本部",
+            "classroom": "教621"
+        }
+    ],
+    "programs": [
+        "大數據學程"
+    ],
+    "comment": "",
+    "restrict": "◎課程不開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "Hierarchical Linear Models(HLM) is an advanced methodology course. The goal of the course\nis to understand the concepts related to HLM; to be able to specify your own models and\nanalyze the data using one of the HLM related programs; to be able to interpret\nthe statistical findings to lay persons. The course emphasizes the mastery of concepts,\ndevelopment of skills in the use and interpretation of HLM software, and the development of\nanalysis skills for understanding research using multilevel models. Topics include multilevel\ndata structures, intraclass correlation, model building and testing, effect size, fixed and\nrandom effects, two and three level models, longitudinal models, model assumptions.",
+    "goals": [
+        "to understand the concepts related to HLM",
+        "to specify HLM models",
+        "to analyze the data using HLM programs",
+        "to interpret the result from HLM programs"
+    ],
+    "syllabus": "### 教學進度與主題\n\n*   第一週：Introduction \n*   第二週：General Lineal Model(GLM)\n*   第三週：Generalized Lineal Model(GZLM)\n*   第四週：Multilevel Data Structure\n*   第五週：Fitting Two-Level Models(I)\n*   第六週：Fitting Two-Level Models(II)\n*   第七週：Models of Three and More Levels (I)\n*   第八週：Models of Three and More Levels (II)\n*   第九週：Using Multilevel Models for Longitudinal Data(I)\n*   第十週：Using Multilevel Models for Longitudinal Data(II)\n*   第十一週：Introduction to Generalized Linear Models\n*   第十二週：Multilevel Generalized Linear Models(I)\n*   第十三週：Multilevel Generalized Linear Models(II)\n*   第十四週：Multilevel Generalized Linear Models(III)\n*   第十五週：Multilevel Modeling SEM (I)\n*   第十六週：Multilevel Modeling SEM (II)\n*   第十七週：Multilevel Modeling SEM (III)\n*   第十八週：Conclusion",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": ""
+        },
+        {
+            "type": "實驗/實作",
+            "note": ""
+        },
+        {
+            "type": "媒體融入教學",
+            "note": "因應新冠肺炎疫情，本課程結合非同步數位課程MOODLE系統與同步數位課程ZOOM系統，以利課程持續實施。"
+        },
+        {
+            "type": "專題研究",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 20,
+            "note": "Several homework projects will be planned which will provide a basis for exploring the range of applications available in HLM, gaining experience and facility in running HLM software and interpreting and reporting output."
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 15,
+            "note": "Participation (come to class, look very happy, and talk about statistical models)"
+        },
+        {
+            "type": "出席",
+            "weight": 15,
+            "note": "Participation (come to class, look very happy, and talk about statistical models)"
+        },
+        {
+            "type": "報告",
+            "weight": 20,
+            "note": "Final in-class presentation."
+        },
+        {
+            "type": "專題",
+            "weight": 30,
+            "note": "The proposal will involve identifying a research question and conducting preliminary literature review, selecting a dataset, and identifying relevant variables. Student should also identify the target journal."
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

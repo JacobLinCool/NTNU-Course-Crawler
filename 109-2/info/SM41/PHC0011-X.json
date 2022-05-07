@@ -1,0 +1,66 @@
+{
+    "year": 109,
+    "term": 2,
+    "name": "量子力學（一）",
+    "teachers": [
+        "陳鴻宜"
+    ],
+    "department": "SM41",
+    "code": "PHC0011",
+    "credit": 3,
+    "serial": 2651,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 4,
+            "from": 2,
+            "to": 4,
+            "campus": "公館",
+            "classroom": "Ｓ402"
+        }
+    ],
+    "programs": [],
+    "comment": "限已修過量子力學(一)但未通過的物理系碩士班學生",
+    "restrict": "◎第一階段需人工加選◎第二階段需人工加選◎加退選階段需人工加選 ◎課程開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "主要在介紹量子力學的基本原理、觀念、計算方法和應用，以作為進一步從事物理研究的準備。",
+    "goals": [
+        "瞭解量子力學的發展及理論",
+        "加強理性思維能力",
+        "簡介物理新知",
+        "物理研究能力培養"
+    ],
+    "syllabus": " \n\n**Term I: (Textbook Chapter 1-4)**\n\nFundamentals of Quantum Mechanics\n\nQuantum Dynamics\n\nAngular Momentum and Spin\n\nSymmetry  (if time allows, or will be discussed in term II)\n\n**Term II: (Textbook Chapter 5-7)**\n\nApproximation Methods\n\nScattering Theory\n\nIdentical Particles",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "一般上課方法"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 25,
+            "note": ""
+        },
+        {
+            "type": "期中考",
+            "weight": 35,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 40,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

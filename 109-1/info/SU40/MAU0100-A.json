@@ -1,0 +1,65 @@
+{
+    "year": 109,
+    "term": 1,
+    "name": "微分方程導論",
+    "teachers": [
+        "陳賢修"
+    ],
+    "department": "SU40",
+    "code": "MAU0100",
+    "credit": 3,
+    "serial": 2835,
+    "group": "A",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 3,
+            "from": 6,
+            "to": 8,
+            "campus": "公館",
+            "classroom": "Ｂ103"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "2",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "微分方程式大多起源於物理、工程、生命科學等領域。本課程提供學生有關微分方程之基本知識，其內容主要介紹階微分方程的來源，各類解法及應用。",
+    "goals": [
+        "熟悉微分方程的解法",
+        "對方程之解具定量定性分析的能力",
+        "認識其他領域所推導出的方程並瞭解在數學分析的背後原始問題的意義"
+    ],
+    "syllabus": "1.      主題一: 一階微分方程 ( 5 weeks)  \n介紹唯一存在定理，正合方程式，積分因子（含特殊積分因子和特殊變換），可分離變數方程式，齊次方程式，線性方程式，Bernoulli 方程式，簡介方程式的由來及應用實例。\n\n2.      主題二: 二階及高階微分方程 ( 4 weeks)  \n常係數線性齊次方程式， Wronskian ，未定係數法，參數變異法， Cauchy-Euler 方程式，共震效應, 簡介方程式的由來及應用實例。\n\n3.      主題三:  Laplace 變換 ( 4 weeks)Laplace 變換之定義與其基本性質，褶積，Laplace 變換之逆變換，Laplace 變換在線性方程式或在線性系統方程組上的應用。\n\n4.      主題四: 級數解 ( 2 weeks)  \n有關正規點或奇異點之冪級數解，Bessel 方程式，Legendre 方程式，簡介方程式的由來及應用實例。",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "以課堂講演為主，輔以習題、課堂小考與定期評量"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 20,
+            "note": "課後指定作業"
+        },
+        {
+            "type": "期中考",
+            "weight": 40,
+            "note": "紙筆測驗"
+        },
+        {
+            "type": "期末考",
+            "weight": 40,
+            "note": "紙筆測驗"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

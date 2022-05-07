@@ -1,0 +1,75 @@
+{
+    "year": 107,
+    "term": 2,
+    "name": "先進元件之電腦輔助設計模擬",
+    "teachers": [
+        "陳冠廷"
+    ],
+    "department": "HM77",
+    "code": "OEC8157",
+    "credit": 3,
+    "serial": 1194,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 5
+    },
+    "schedule": [
+        {
+            "day": 5,
+            "from": 10,
+            "to": 12,
+            "campus": "公館",
+            "classroom": "教室自排"
+        }
+    ],
+    "programs": [],
+    "comment": "※授課地點：AP307",
+    "restrict": "◎必須先修過【OEC7013  半導體物理】、【OEC9107  半導體物理】其中一門 ◎課程開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程旨在從半導體物理進入TCAD世界，培養學生具備使用軟體模擬半導體元件特性的能力，以因應CMOS設計的專業需求。",
+    "goals": [
+        "介半導體世界及應用、近代物理回顧",
+        "晶格結構、能帶與載子掺雜、載子濃度及費米能階、載子傳輸及複合與PN介面",
+        "半導體模擬軟體介紹",
+        "半導體模擬軟體實作示範或演示"
+    ],
+    "syllabus": "週次\n\n教學大綱及進度\n\n1\n\nClass Introduction\n\n2\n\n簡介普通物理之半導體範圍及回顧\n\n3\n\n半導體元件模擬平台(Sentaurus Workbench, SWB)介紹\n\n4\n\n半導體元件設計軟體(Sentaurus Structure Editor, SDE)介紹\n\n5\n\n2D Silicon CMOS元件設計\n\n6\n\n2D Silicon CMOS元件電性模擬\n\n7\n\n解讀及分析電性模擬結果\n\n8\n\n3D鰭式電晶體(FinFET)的元件設計、電性模擬及分析\n\n9\n\n期中測驗評量\n\n10\n\n製程整合模擬軟體(Sentaurus Process, SProcess)介紹\n\n11\n\n離子佈植(Implantation)製程模擬介紹\n\n12\n\n熱退火(Thermal Annealing)製程模擬介紹\n\n13\n\n沉積(Deposition)及蝕刻(Etching)製程模擬介紹\n\n14\n\n微影(Photolithography)製程模擬介紹\n\n15\n\n2D CMOS元件模擬製作\n\n16-17\n\n3D鰭式電晶體(FinFET)的元件製程、電性模擬及分析\n\n18\n\n期末測驗評量",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "講述機處理論與製程模擬介紹"
+        },
+        {
+            "type": "實驗/實作",
+            "note": "學生分組實驗"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 15,
+            "note": "依進度安排課堂作業"
+        },
+        {
+            "type": "期中考",
+            "weight": 30,
+            "note": "依學校行事曆進行期中考"
+        },
+        {
+            "type": "期末考",
+            "weight": 35,
+            "note": "依學校行事曆進行期末考"
+        },
+        {
+            "type": "出席",
+            "weight": 20,
+            "note": "出席率為評分項目之一，學生如不克出席需請假。"
+        }
+    ],
+    "prerequisite": "◎必須先修過【OEC7013  半導體物理】、【OEC9107  半導體物理】其中一門",
+    "general_core": []
+}

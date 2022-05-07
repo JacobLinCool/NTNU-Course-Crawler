@@ -1,0 +1,81 @@
+{
+    "year": 108,
+    "term": 1,
+    "name": "研究法",
+    "teachers": [
+        "麥康妮"
+    ],
+    "department": "AM31",
+    "code": "SRM0011",
+    "credit": 3,
+    "serial": 48,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 0
+    },
+    "schedule": [
+        {
+            "day": 5,
+            "from": 7,
+            "to": 9,
+            "campus": "本部",
+            "classroom": "綜508會議室"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程不開放上修",
+    "form_s": "1",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程主要是在培養學生具有研究之能力，並有能力完成研究計畫書。\n\n課程包括研究的基本概念、研究方法與論文寫作的方式三大部份。\n本課程之進行強調教師與學生互動，教師會針對所講授之主題提出問題來激發學員對此一主題之思考並設計小組討論與課後作業來評估學習成效。\n\n論文寫作演習課程\n個別討論時間：星期四 16:30-18:30（以預約同學為優先）\n地點: 綜合大樓六樓運動與休閒管理研究所",
+    "goals": [
+        "培養研究與完成研究計畫書之能力",
+        "培養研讀文獻與思考的習慣"
+    ],
+    "syllabus": "**Course Topics & Schedule:**\n\n1.          Week 1 – Mid-Autumn Festival, 13 Sep 2019 (No Lecture)\n\n2.          Introduction to the Course + What is research? What to research? + Form Groups\n\n3.          _How to decide your Research Topic, Research Questions and Research Objectives? What is Literature Review (LR)? (+ Systematic Literature Review, SLR)_\n\n4.          Understanding Research Methodology, Research Method and Research Design + Quantitative vs. Qualitative Approach\n\n5.          _Week 5 – The Day After National Day, 11 Oct 2019 (No Lecture)_\n\n6.          Quantitative Approach – Hypothesis \n\n7.          Quantitative Approach – Questionnaire Survey, Questionnaire Design and Pilot Test \n\n8.          Quantitative Approach – Sampling Technique \n\n9.          Week 10 – NTNU Sports Day, 15-16 Nov 2019 (No Lecture)\n\n10.      Quantitative Approach – Experimental Design, Reliability and Validity \n\n11.      Quantitative Approach – Data Collection & Data Analysis 1 \n\n12.      Quantitative Approach – Data Collection & Data Analysis 2 + Midterm Exam\n\n13.      Qualitative Approach – Interview, Focus Group & Observation \n\n14.      Qualitative Approach – Data Analysis \n\n15.      Why do we need to care about Research Ethics? + How to Report Your Findings (written, oral, poster)? \n\n16.      Presentation Session #1 (8-10 mins, 21 students, No. 1-21)\n\n17.      Presentation Session #2 (8-10 mins, 22 students, No. 22-43)\n\n18.      Wrap-up",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "Lecturing"
+        },
+        {
+            "type": "討論法",
+            "note": "Class Discussion"
+        },
+        {
+            "type": "合作學習",
+            "note": "Group Mini-task Presentation"
+        },
+        {
+            "type": "專題研究",
+            "note": "Individual Research Proposal Report and Presentation"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 20,
+            "note": "Group Mini-task Presentation (10-15 mins)"
+        },
+        {
+            "type": "期中考",
+            "weight": 30,
+            "note": "Midterm Exam (1 hour)"
+        },
+        {
+            "type": "出席",
+            "weight": 20,
+            "note": "Class Attendance and Participation"
+        },
+        {
+            "type": "報告",
+            "weight": 30,
+            "note": "Individual Research Proposal Report and Presentation (8-10 mins)"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

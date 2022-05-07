@@ -1,0 +1,68 @@
+{
+    "year": 110,
+    "term": 2,
+    "name": "分子生物學",
+    "teachers": [
+        "蘇銘燦",
+        "謝秀梅",
+        "林炎壽"
+    ],
+    "department": "SU43",
+    "code": "BIU0145",
+    "credit": 3,
+    "serial": 2910,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 3,
+            "from": 7,
+            "to": 9,
+            "campus": "公館",
+            "classroom": "Ｂ102"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎必須先修過【BIU0168  普通生物學甲（一）】、【BIU0169  普通生物學甲（二）】 ◎課程開放上修",
+    "form_s": "3",
+    "classes": "2",
+    "dept_group": "",
+    "hours": 3,
+    "description": "分子生物學課程內容為以分子層次的觀點探討生物個體細微運作的生命現象，重點強調基因之複製和修補、表現及調控機制，並介紹現今各項分子生物相關技術，而且以癌症作為一個實際之例子說明分子生物學之原理，過程及應用。其中基因的表現過程涵蓋轉錄、轉譯及轉譯後修飾等；基因的表現調控機制以原核生物的調控為基礎，再加上近期真核生物之基因表現調控發現，使學生學習到分子生物學知識的演變及最新的資訊。",
+    "goals": [
+        "以分子層次的觀點探討生物個體細微運作的生命現象，重點強調基因之複製和修補、表現及調控機制"
+    ],
+    "syllabus": "16 + 2 weeks\n\nWeek 01\\_DNA replication, transcription, and translation\n\nWeek 02\\_DNA repair and recombination\n\nWeek 03\\_Gene structure and chromosomal organization\n\nWeek 04\\_Transposable and organelle DNA\n\nWeek 05\\_Culturing and Perturbing Cells & **Midterm I**\n\nWeek 06\\_Visualizing cells\n\nWeek 07\\_Genetic analysis of mutations\n\nWeek 08\\_Study gene expression\n\nWeek 09\\_Control of gene expression in bacteria\n\nWeek 10\\_Regulation of transcription-factor activity & **Midterm II**\n\nWeek 11\\_Gene inactivation\n\nWeek 12\\_Post-transcriptional gene control in nucleus\n\nWeek 13\\_Post-transcriptional control in cytoplasm\n\nWeek 14\\_Onset and basis of cancer\n\nWeek 15\\_Oncogenes/tumor suppressor genes\n\nWeek 16\\_**Final Exam**\n\nWeek 17 & 18\\_Self-directed Learning",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "以自製講義配合影片及動畫等詳細說明分子生物學知識"
+        },
+        {
+            "type": "討論法",
+            "note": "不定時提出問題促使學生思考"
+        },
+        {
+            "type": "媒體融入教學",
+            "note": "以影片、動畫、及實體物品如晶片等等融入教學"
+        }
+    ],
+    "grading": [
+        {
+            "type": "期中考",
+            "weight": 50,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 50,
+            "note": ""
+        }
+    ],
+    "prerequisite": "◎必須先修過【BIU0168  普通生物學甲（一）】、【BIU0169  普通生物學甲（二）】",
+    "general_core": []
+}

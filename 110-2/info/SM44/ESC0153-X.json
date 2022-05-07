@@ -1,0 +1,71 @@
+{
+    "year": 110,
+    "term": 2,
+    "name": "氣候研究統計分析方法",
+    "teachers": [
+        "鄒治華"
+    ],
+    "department": "SM44",
+    "code": "ESC0153",
+    "credit": 3,
+    "serial": 2655,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 4,
+            "from": 7,
+            "to": 9,
+            "campus": "公館",
+            "classroom": "Ｃ409"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程不開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "介紹氣候研究所使用的相關統計分析方法，提供各種隨時空變化的氣象參數資料，使學生透過對分析工具的熟悉與實作的經驗，瞭解氣候統計方法的應用。",
+    "goals": [
+        "介紹氣候研究所使用的相關統計分析方法，提供各種隨時空變化的氣象參數資料，使學生透過對分析工具的熟悉與實作的經驗，瞭解氣候統計方法的應用。"
+    ],
+    "syllabus": "16+2.  2 flexible weeks are for self-learning.\n\nPART I: Preliminaries\n\nCHAPTER 1 Introduction\n\n1.   Introduction to Statistical (Machine) Learning\n2.   Uncertainty about the atmosphere   \n\nCHAPTER 2 Review of Probability\n\n      2.1 Basic Properties of Probability\n\n      2.2 The Frequency and Bayesian Interpretation of Probability\n\n      #Lab: Introduction to R\n\nCHAPTER 3 Empirical Distributions (Visualizing Data)\n\n     3.1 Central Tendencies\n\n     3.2 Spread\n\n     3.3 Symmetry\n\n     # Lab: Probability distributions and visualizing data\n\nCHAPTER 4 Parametric Probability Distributions\n\n    4.1 Discrete Distributions\n\n    4.2 Continuous Distributions\n\n    4.3 Gaussian (normal) Distributions\n\n    4.4 Gamma Distributions\n\n    #Lab: Functions for probability distributions\n\nPART II: Data Mining (machine learning)\n\nCHAPTER 5 Statistical Learning\n\n    5.1 What is Statistical Learning?\n\n    5.2 Assessing Model Accuracy\n\nCHAPTER 6 Statistical Modeling and Prediction\n\n    6.1 Simple Linear Regression\n\n    6.2 Assessing the Accuracy of the Model\n\n    6.3 Multiple Linear Regression\n\n    6.4 Improvements of the Linear Model\n\n    6.5 Ensemble Forecasting\n\n    #Lab: Linear Regression\n\nCHAPTER 7 Linear Model Selection and Regularization\n\n     7.1 Shrinkage Methods\n\n     7.2 Dimension Reduction Methods  \n\n    #Lab: Linear Model Selection\n\nCHAPTER 8 Principal Component (EOF) Analysis\n\n    8.1  Basics of Principal Component Analysis\n\n    8.2  Application of PCA to Geophysical Fields\n\n    8.3  Truncation of the Principal Components\n\n    8.4\\*  Rotation of the Eigenvectors\n\n    8.5\\* PCA via SVD\n\n    8.6\\* Some Additional Uses of PCA\n\nCHAPTER 9 Cluster Analysis\n\n    9.1 Cluster Analysis vs. Discriminant Analysis\n\n    9.2 Hierarchical Clustering\n\n    9.3 Nonhierarchical Clustering",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": ""
+        },
+        {
+            "type": "專題研究",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 50,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 30,
+            "note": "open book"
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 20,
+            "note": "出席率與回答"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

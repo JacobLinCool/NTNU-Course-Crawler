@@ -1,0 +1,54 @@
+{
+    "year": 109,
+    "term": 1,
+    "name": "空間技術",
+    "teachers": [
+        "張國楨"
+    ],
+    "department": "LM23",
+    "code": "GEC0069",
+    "credit": 3,
+    "serial": 1707,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 5
+    },
+    "schedule": [
+        {
+            "day": 5,
+            "from": 10,
+            "to": 12,
+            "campus": "本部",
+            "classroom": "地理系研討室六"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程不開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程之主要目標在於引導學生了解應用空間技術之理論與實作觀念。透過TERM PROJECT讓學生將所學到之理論與方法實際應用於相關之環境議題上。配合各種實際問題與軟體，期能培養學生利用此方法進行分析之能力。學生完成本課程後，除了瞭解空間資訊系統相關的技術及演算法外，還能獨立完成環境問題分析與報告撰寫，作為未來進修或進入職場的基礎。",
+    "goals": [
+        "引導學生了解應用空間技術之理論與實作觀念。",
+        "將所學到之理論與方法實際應用於相關之環境議題上。"
+    ],
+    "syllabus": "• 1 INTRODUCTION  \n• 2 Main Components of Spatial Information  \n• 3 Spatial Analysis in Vector Model  \n• 4 Spatial Analysis in Raster Model  \n• 5 Remote Sensing and Spatial Problems  \n• 6 Digital Image Analysis for Spatial Problem Solving  \n• 7 PPDAC and Spatial Problem Solving  \n• 8 Term Project Proposal  \n• 9 Spatial Programming and Application (I)  \n• 10 Spatial Programming and Application (II)  \n• 11 Spatial Programming and Application (III)  \n• 12 Global Warming and Spatial Techniques  \n• 13 Environment Change Detection and Spatial Techniques  \n• 14 Spatial Statistics and Spatial Problems  \n• 15 Digital Terrain Model and Spatial Problems  \n• 16 Spatial Techniques and Planning  \n• 17 FINAL PROJECT",
+    "methodologies": [
+        {
+            "type": "實驗/實作",
+            "note": "本課程著重理論與實作觀念。實施方式採課前指定教材，課中討論與實作，以及TERM PROJECT，讓學生將所學到之理論與方法實際應用於相關之環境議題上。修課學生必須事前研讀教材，參與課堂上的討論與實機操作"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 100,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

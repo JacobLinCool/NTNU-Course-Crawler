@@ -1,0 +1,806 @@
+[
+    {
+        "year": 108,
+        "term": 2,
+        "name": "高行健的文學與藝術",
+        "teachers": [
+            "李志宏",
+            "陳登武",
+            "白適銘",
+            "梁志民",
+            "吳義芳"
+        ],
+        "department": "L",
+        "code": "L0C9006",
+        "credit": 2,
+        "serial": 1486,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 3,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "誠202"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "",
+        "classes": "9",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 2,
+        "name": "政治生態學研討",
+        "teachers": [
+            "莫家俊"
+        ],
+        "department": "LM23",
+        "code": "GEC8027",
+        "credit": 3,
+        "serial": 1558,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 5
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 2,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "地理系會議室"
+            }
+        ],
+        "programs": [],
+        "comment": "上課教室：文學院勤10F地理系會議室。",
+        "restrict": "◎課程開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 2,
+        "name": "英語新聞編譯",
+        "teachers": [
+            "鄭永康"
+        ],
+        "department": "LM25",
+        "code": "TIM0037",
+        "credit": 2,
+        "serial": 1561,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 5,
+                "from": 9,
+                "to": 10,
+                "campus": "本部",
+                "classroom": "譯506"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎課程不開放上修",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 2,
+        "name": "文化認同與民族主義",
+        "teachers": [
+            "林芳玫"
+        ],
+        "department": "LM26",
+        "code": "TCC1003",
+        "credit": 3,
+        "serial": 1586,
+        "group": "",
+        "quota": {
+            "limit": 30,
+            "additional": 12
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 7,
+                "to": 9,
+                "campus": "本部",
+                "classroom": "雲306會議室"
+            }
+        ],
+        "programs": [],
+        "comment": "雲和街教學大樓3樓306會議室",
+        "restrict": "◎課程開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 2,
+        "name": "文心雕龍研討",
+        "teachers": [
+            "顏瑞芳"
+        ],
+        "department": "LM20",
+        "code": "CHC0012",
+        "credit": 3,
+        "serial": 1495,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 5,
+                "from": 2,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "勤603"
+            }
+        ],
+        "programs": [],
+        "comment": "上課地點：勤603教室",
+        "restrict": "◎課程不開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 2,
+        "name": "專家詩研討",
+        "teachers": [
+            "徐國能"
+        ],
+        "department": "LM20",
+        "code": "CHC0018",
+        "credit": 3,
+        "serial": 1496,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 2,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "勤603"
+            }
+        ],
+        "programs": [],
+        "comment": "上課地點：勤603教室",
+        "restrict": "◎課程不開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 2,
+        "name": "古文字學研討",
+        "teachers": [
+            "陳廖安"
+        ],
+        "department": "LM20",
+        "code": "CHC0045",
+        "credit": 3,
+        "serial": 1497,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 6,
+                "to": 8,
+                "campus": "本部",
+                "classroom": "勤602"
+            }
+        ],
+        "programs": [],
+        "comment": "上課地點：勤602教室",
+        "restrict": "◎課程開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 2,
+        "name": "美學研討",
+        "teachers": [
+            "劉滄龍"
+        ],
+        "department": "LM20",
+        "code": "CHC0073",
+        "credit": 3,
+        "serial": 1499,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 8,
+                "to": 10,
+                "campus": "本部",
+                "classroom": "勤604"
+            }
+        ],
+        "programs": [],
+        "comment": "上課地點：勤604教室",
+        "restrict": "◎課程開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 2,
+        "name": "書法專題研討",
+        "teachers": [
+            "黃明理"
+        ],
+        "department": "LM20",
+        "code": "CHC0085",
+        "credit": 3,
+        "serial": 1500,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 7,
+                "to": 9,
+                "campus": "本部",
+                "classroom": "勤603"
+            }
+        ],
+        "programs": [],
+        "comment": "上課地點：勤603教室",
+        "restrict": "◎課程開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 2,
+        "name": "專家詞研討",
+        "teachers": [
+            "林佳蓉"
+        ],
+        "department": "LM20",
+        "code": "CHC0090",
+        "credit": 3,
+        "serial": 1501,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 7,
+                "to": 9,
+                "campus": "本部",
+                "classroom": "勤602"
+            }
+        ],
+        "programs": [],
+        "comment": "上課地點：勤602教室",
+        "restrict": "◎課程不開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 2,
+        "name": "出土文獻思想專題研究",
+        "teachers": [
+            "陳麗桂"
+        ],
+        "department": "LM20",
+        "code": "CHC0100",
+        "credit": 3,
+        "serial": 1502,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 7,
+                "to": 9,
+                "campus": "本部",
+                "classroom": "勤602"
+            }
+        ],
+        "programs": [],
+        "comment": "上課地點：勤602教室",
+        "restrict": "◎課程不開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 2,
+        "name": "散文教學研究",
+        "teachers": [
+            "范宜如"
+        ],
+        "department": "LM20",
+        "code": "CHC0109",
+        "credit": 3,
+        "serial": 1503,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 7,
+                "to": 9,
+                "campus": "本部",
+                "classroom": "勤603"
+            }
+        ],
+        "programs": [],
+        "comment": "上課地點：勤603教室",
+        "restrict": "◎課程不開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 2,
+        "name": "閱讀教學研究",
+        "teachers": [
+            "李清筠"
+        ],
+        "department": "LM20",
+        "code": "CHC0111",
+        "credit": 3,
+        "serial": 1504,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 2,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "勤603"
+            }
+        ],
+        "programs": [],
+        "comment": "上課地點：勤603教室",
+        "restrict": "◎課程不開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 2,
+        "name": "歲時禮俗文化專題研究",
+        "teachers": [
+            "林素英"
+        ],
+        "department": "LM20",
+        "code": "CHC0152",
+        "credit": 3,
+        "serial": 1506,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 7,
+                "to": 9,
+                "campus": "本部",
+                "classroom": "勤601"
+            }
+        ],
+        "programs": [],
+        "comment": "上課地點：勤601教室",
+        "restrict": "◎課程不開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 2,
+        "name": "老子學專題研討",
+        "teachers": [
+            "江淑君"
+        ],
+        "department": "LM20",
+        "code": "CHC0168",
+        "credit": 3,
+        "serial": 1507,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 2,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "勤601"
+            }
+        ],
+        "programs": [],
+        "comment": "上課地點：勤601教室",
+        "restrict": "◎課程不開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 2,
+        "name": "道教文化專題研究",
+        "teachers": [
+            "謝聰輝"
+        ],
+        "department": "LM20",
+        "code": "CHC0180",
+        "credit": 3,
+        "serial": 1508,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 7,
+                "to": 9,
+                "campus": "本部",
+                "classroom": "勤601"
+            }
+        ],
+        "programs": [],
+        "comment": "上課地點：勤601教室",
+        "restrict": "◎課程不開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 2,
+        "name": "武俠小說研究",
+        "teachers": [
+            "林保淳"
+        ],
+        "department": "LM20",
+        "code": "CHC0181",
+        "credit": 3,
+        "serial": 1509,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 7,
+                "to": 9,
+                "campus": "本部",
+                "classroom": "勤603"
+            }
+        ],
+        "programs": [],
+        "comment": "上課地點：勤603教室",
+        "restrict": "◎課程開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 2,
+        "name": "現代散文專題研究",
+        "teachers": [
+            "陳義芝"
+        ],
+        "department": "LM20",
+        "code": "CHC8003",
+        "credit": 3,
+        "serial": 1510,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 2,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "勤602"
+            }
+        ],
+        "programs": [],
+        "comment": "上課地點：勤602教室",
+        "restrict": "◎課程不開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 2,
+        "name": "極短篇小說研究",
+        "teachers": [
+            "張春榮"
+        ],
+        "department": "LM20",
+        "code": "CHC8010",
+        "credit": 2,
+        "serial": 1511,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 7,
+                "to": 8,
+                "campus": "本部",
+                "classroom": "勤604"
+            }
+        ],
+        "programs": [],
+        "comment": "上課地點：勤604教室",
+        "restrict": "◎課程不開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 2,
+        "name": "敦煌學專題研討",
+        "teachers": [
+            "李幸玲"
+        ],
+        "department": "LM20",
+        "code": "CHC8017",
+        "credit": 3,
+        "serial": 1513,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 2,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "勤603"
+            }
+        ],
+        "programs": [],
+        "comment": "上課地點：勤603教室",
+        "restrict": "◎課程不開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 2,
+        "name": "神話學研究",
+        "teachers": [
+            "鍾宗憲"
+        ],
+        "department": "LM20",
+        "code": "CHC8025",
+        "credit": 3,
+        "serial": 1514,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 7,
+                "to": 9,
+                "campus": "本部",
+                "classroom": "勤603"
+            }
+        ],
+        "programs": [],
+        "comment": "上課地點：國文系專題討論室",
+        "restrict": "◎課程不開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 2,
+        "name": "中文辭典編纂研討",
+        "teachers": [
+            "許學仁"
+        ],
+        "department": "LM20",
+        "code": "CHC8030",
+        "credit": 3,
+        "serial": 1515,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 2,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "勤602"
+            }
+        ],
+        "programs": [],
+        "comment": "上課地點：勤602教室",
+        "restrict": "◎課程不開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 2,
+        "name": "漢譯佛典選讀",
+        "teachers": [
+            "李幸玲"
+        ],
+        "department": "LU20",
+        "code": "CHC0120",
+        "credit": 2,
+        "serial": 1601,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 8,
+                "to": 9,
+                "campus": "本部",
+                "classroom": "樸203"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "",
+        "classes": "9",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 2,
+        "name": "書經（二）",
+        "teachers": [
+            "許華峰"
+        ],
+        "department": "LU20",
+        "code": "CHC0170",
+        "credit": 2,
+        "serial": 1602,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 3,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "樸205"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "",
+        "classes": "9",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 2,
+        "name": "國文教科書編撰",
+        "teachers": [
+            "易理玉"
+        ],
+        "department": "LU20",
+        "code": "CHC9001",
+        "credit": 2,
+        "serial": 1603,
+        "group": "",
+        "quota": {
+            "limit": 30,
+            "additional": 0
+        },
+        "schedule": [
+            {
+                "day": 5,
+                "from": 6,
+                "to": 7,
+                "campus": "本部",
+                "classroom": "樸204"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "",
+        "classes": "9",
+        "dept_group": ""
+    }
+]

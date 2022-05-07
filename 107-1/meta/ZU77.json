@@ -1,0 +1,189 @@
+[
+    {
+        "year": 107,
+        "term": 1,
+        "name": "資料科學與程式設計",
+        "teachers": [
+            "蔣宗哲"
+        ],
+        "department": "GU",
+        "code": "05UG017",
+        "credit": 2,
+        "serial": 988,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 15
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 6,
+                "to": 7,
+                "campus": "本部",
+                "classroom": "教401"
+            }
+        ],
+        "programs": [
+            "資訊科技應用學程"
+        ],
+        "comment": "",
+        "restrict": "",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 1,
+        "name": "物聯網概論與應用",
+        "teachers": [
+            "賀耀華"
+        ],
+        "department": "SU47",
+        "code": "CSC9004",
+        "credit": 3,
+        "serial": 2969,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 7,
+                "to": 9,
+                "campus": "公館",
+                "classroom": "Ｂ101"
+            }
+        ],
+        "programs": [
+            "資訊科技應用學程"
+        ],
+        "comment": "",
+        "restrict": "",
+        "form_s": "",
+        "classes": "9",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 1,
+        "name": "程式設計（一）",
+        "teachers": [
+            "紀博文"
+        ],
+        "department": "SU47",
+        "code": "CSU0001",
+        "credit": 3,
+        "serial": 2971,
+        "group": "A",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 8,
+                "to": 9,
+                "campus": "公館",
+                "classroom": "理圖807"
+            },
+            {
+                "day": 5,
+                "from": 7,
+                "to": 7,
+                "campus": "公館",
+                "classroom": "理圖807"
+            }
+        ],
+        "programs": [
+            "資訊科技應用學程",
+            "人工智慧學程"
+        ],
+        "comment": "",
+        "restrict": "",
+        "form_s": "1",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 1,
+        "name": "程式設計（一）",
+        "teachers": [
+            "王弘倫"
+        ],
+        "department": "SU47",
+        "code": "CSU0001",
+        "credit": 3,
+        "serial": 2972,
+        "group": "B",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 5,
+                "from": 2,
+                "to": 4,
+                "campus": "公館",
+                "classroom": "理圖807"
+            }
+        ],
+        "programs": [
+            "資訊科技應用學程",
+            "人工智慧學程"
+        ],
+        "comment": "",
+        "restrict": "",
+        "form_s": "1",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 1,
+        "name": "資訊專題研究（二）：資訊系統",
+        "teachers": [
+            "方瓊瑤",
+            "侯文娟"
+        ],
+        "department": "SU47",
+        "code": "CSU0040",
+        "credit": 3,
+        "serial": 2987,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 5,
+                "to": 5,
+                "campus": "公館",
+                "classroom": "Ｂ102"
+            },
+            {
+                "day": 5,
+                "from": 5,
+                "to": 6,
+                "campus": "公館",
+                "classroom": "Ｂ102"
+            }
+        ],
+        "programs": [
+            "資訊科技應用學程"
+        ],
+        "comment": "",
+        "restrict": "",
+        "form_s": "4",
+        "classes": "",
+        "dept_group": ""
+    }
+]

@@ -1,0 +1,94 @@
+{
+    "year": 109,
+    "term": 1,
+    "name": "經濟學",
+    "teachers": [
+        "張可盈"
+    ],
+    "department": "ZU83",
+    "code": "PGUA006",
+    "credit": 3,
+    "serial": 3263,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 2,
+            "to": 4,
+            "campus": "本部",
+            "classroom": "正404"
+        }
+    ],
+    "programs": [
+        "基礎管理學程"
+    ],
+    "comment": "",
+    "restrict": "◎第一階段限 基礎管理學程",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "此課程介紹經濟學的基本原則，可以幫助學生瞭解決策方法、市場的基本運作原理、廠商理論基礎、與整體經濟體系的運作等。",
+    "goals": [
+        "瞭解經濟學的基礎理論與觀念",
+        "應用經濟學於日常生活",
+        "應用經濟學於工作場域"
+    ],
+    "syllabus": "1\\. 學習基本觀念及經濟理論。（To learn basicconcepts in economic theory)\n\n2\\. 相互依存與貿易利得 (Interdependency and gains from the trade)\n\n3\\. 供給與需求的市場力量 (Market power ofsupply and demand)\n\n4\\. 供給，需求，與政府政策 (Supply, demand, and government policy)\n\n5\\. 生產成本 (Production costs)\n\n6\\. 競爭市場的廠商 (Firms in competitive market)\n\n7\\. 獨占 (Monopoly)\n\n8\\. 獨占性競爭、寡占 (Monopolistic competition and monopoly)\n\n9\\. 期中考 (Midterm exam)\n\n10\\. 總體經濟學要旨、生產所得與就業 (Macroeconomic principles, income, and employment)\n\n11\\. 生活成本測量、經濟成長與生活水準提升、經濟波動 (Measurement of cost of living, economicgrowth, and business cycles)\n\n12\\. 儲蓄、投資、金融市場 (Saving, investment,and financial market)\n\n13\\. 失業 (unemployment)\n\n14.貨幣制度、物價與通貨膨脹 (Monetary system,price, and inflation)\n\n15\\. 開放經濟體系基本模型 (Basic economic modelof open-economy)\n\n16\\. 開放經濟體系總體理論 (Macroeconomic theory of open-economy)\n\n17\\. 經濟波動、 總需求與總供給 (EconomicFluctuations, aggregate demand and aggregate supply.)\n\n18\\. 期末考 (Final test)",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "按照課綱進度，講述基礎理論，並介紹相關應用分析\nLecturing on basic theory according to the planned schedule. Relevant applications are to be discussed."
+        },
+        {
+            "type": "討論法",
+            "note": "經濟理論衍申之問題的討論、解答、與解釋。Issues arose from economic theory are to be discussed, explained, and resolved."
+        },
+        {
+            "type": "問題解決教學",
+            "note": "習題、或個案問題解決。Problem solving and case discussion."
+        },
+        {
+            "type": "專題研究",
+            "note": "個案研究、分析探討。Case study, analysis, and discussion."
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 10,
+            "note": "學期中會有課堂／回家作業，於指定日期繳交。\nHome works and in-class activities are to be assigned and graded to be the part of the final course grade."
+        },
+        {
+            "type": "期中考",
+            "weight": 30,
+            "note": "學期中的會考，範圍包含上半學期的上課內容。\nMidterm exam that covers the materials taught in the first half of the semester is to be included as part of the final course grade."
+        },
+        {
+            "type": "期末考",
+            "weight": 30,
+            "note": "學期末的會考，範圍包含下半學期的上課內容。\nFinal exam that covers the materials taught in the second half of the semester is to be included as part of the final course grade."
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 10,
+            "note": "課堂上將有不定期的問題討論、個案研究的參與。\nCase study or related economic policy issues are to be discussed"
+        },
+        {
+            "type": "出席",
+            "weight": 2,
+            "note": "出席次數等比例做為成績考核項目。Class participation is included as part of the final course grade."
+        },
+        {
+            "type": "其他",
+            "weight": 18,
+            "note": "課堂小考"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

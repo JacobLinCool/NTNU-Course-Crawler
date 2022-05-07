@@ -1,0 +1,87 @@
+{
+    "year": 108,
+    "term": 2,
+    "name": "運動教育學",
+    "teachers": [
+        "林靜萍"
+    ],
+    "department": "AU30",
+    "code": "PEU3003",
+    "credit": 2,
+    "serial": 117,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 4,
+            "from": 3,
+            "to": 4,
+            "campus": "本部",
+            "classroom": "體001"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎必須先修過【PEUE101  體育教材教法（教）】",
+    "form_s": "3",
+    "classes": "",
+    "dept_group": "",
+    "hours": 2,
+    "description": "本課程為一學期之課程，旨在教導學生瞭解素養導向的體育教師所應有的初步條件，體驗微型教學，設計定型化的教學計畫，並且能夠從觀察中印證所習得之教學方法跟教材分析知識，進一步轉化應用到實踐場域中。\n課程之進行以講授、閱讀、發表、腦力激盪、感受陳述、討論、觀察、教案設計及微型教學演示等方式來實施，內容包括標準本位(standard-based)、模式本位(model-based)、一般體育教學方法及教案編寫等。\n在學習本課程之後，學生應能具備成為合格體育教師所應有的先備知識與觀念，以利進入下階段教學實習課程時能將該能力轉化為實際教學操作的能力而預作準備。",
+    "goals": [
+        "能瞭解素養導向體育教師的工作內涵與基本技能為何？",
+        "能具備基礎的課程設計能力與分析教材能力並能作出微型教學。",
+        "對新課程改革有初步的了解。",
+        "能對體育課堂教學進行觀察與評估。"
+    ],
+    "syllabus": "w1-素養導向的師資培育準則與觀點\n\nw2-Ch1 aligning standards, curriculum, and instruction with model-based instruction\n\nw3-Ch2 describing instructional models for physical education\n\nw4-Ch3 area of knowledge for model-based instruction in physical education\n\nw5-Ch4 teaching strategies for model-based instruction\n\nw6-Ch5 effective teaching for model-based instruction\n\n             教學觀察與討論\n\nw7-Ch6 planning for model-based instruction\n\nw8-Ch7 assessing student learning in model-based instruction\n\nw9-Ch8 direct instruction\n\n      Ch12 peer teaching小組試教與研討\n\nw10-Ch9 personalized system for instruction\n\nw11-Ch10 cooperative learning小組試教與研討\n\nw12-Ch11 sport education小組試教與研討\n\nw13-Ch13 inquiry teaching小組試教與研討\n\nw14-Ch14 tactical games小組試教與研討\n\nw15-Ch15 teaching personal and social responsibility小組試教與研討\n\nw16-期末考試",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "教師講述各種教學模式"
+        },
+        {
+            "type": "討論法",
+            "note": "分組討論"
+        },
+        {
+            "type": "合作學習",
+            "note": "小組合作 試教演練"
+        },
+        {
+            "type": "實驗/實作",
+            "note": "實地教學演練"
+        },
+        {
+            "type": "專題研究",
+            "note": "單元教案設計"
+        }
+    ],
+    "grading": [
+        {
+            "type": "期中考",
+            "weight": 20,
+            "note": "各種教學模式之理解"
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 20,
+            "note": "教學模式課堂討論 演練同儕回饋"
+        },
+        {
+            "type": "報告",
+            "weight": 30,
+            "note": "教案設計 教學反思"
+        },
+        {
+            "type": "成果展覽",
+            "weight": 30,
+            "note": "實地教學演練成果"
+        }
+    ],
+    "prerequisite": "◎必須先修過【PEUE101  體育教材教法（教）】",
+    "general_core": []
+}

@@ -1,0 +1,72 @@
+{
+    "year": 110,
+    "term": 2,
+    "name": "體育（扯鈴）",
+    "teachers": [
+        "陳昀宗"
+    ],
+    "department": "PE",
+    "code": "00UP031",
+    "credit": 1,
+    "serial": 2461,
+    "group": "",
+    "quota": {
+        "limit": 35,
+        "additional": 3
+    },
+    "schedule": [
+        {
+            "day": 3,
+            "from": 3,
+            "to": 4,
+            "campus": "本部",
+            "classroom": "日光大道"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "允許重複修 ◎課程開放上修",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 2,
+    "description": "本課程主要為扯鈴活動有興趣者設計。在認知方面，強調扯鈴對身體活動與健身基礎的健身運動知識；在實作方面，著重操作性動作技能，包含操作性的：拋、纏、繞等基礎動作之訓練；在表現方面，藉由個人、小組的動作呈現作為此堂課程學習重點與展現。本課堂上課運作模式以合作學習為主；在專業性知識與技巧解釋則多以講授與實際操作為主。",
+    "goals": [
+        "學會扯鈴運動的各種動作技能",
+        "養成規律運動之習慣，培養終身運動之興趣"
+    ],
+    "syllabus": "  \n[教學進度與主題附件](https://ap.itc.ntnu.edu.tw/NtnuFileShare/file.do?action=dl&gno=a34a4f9acf0c462180dd1e71483b6196&fno=4074c8440b314b6797eac99600b1a075)",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "教師動作講解與示範"
+        },
+        {
+            "type": "合作學習",
+            "note": "團隊合作、小組學習與討論"
+        },
+        {
+            "type": "實驗/實作",
+            "note": "學習並規劃個人表演動作與流程"
+        }
+    ],
+    "grading": [
+        {
+            "type": "期末考",
+            "weight": 50,
+            "note": "3分鐘個人扯鈴表演"
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 10,
+            "note": ""
+        },
+        {
+            "type": "出席",
+            "weight": 40,
+            "note": "服裝整齊，準時出席"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

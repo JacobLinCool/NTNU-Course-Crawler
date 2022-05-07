@@ -1,0 +1,79 @@
+{
+    "year": 110,
+    "term": 2,
+    "name": "印前科技專題研究",
+    "teachers": [
+        "廖信",
+        "周遵儒"
+    ],
+    "department": "HM72",
+    "code": "GCM0039",
+    "credit": 2,
+    "serial": 1101,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 4,
+            "from": 12,
+            "to": 13,
+            "campus": "本部",
+            "classroom": "教室自排"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程不開放上修",
+    "form_s": "2",
+    "classes": "",
+    "dept_group": "",
+    "hours": 2,
+    "description": "協助碩士班研究生進行印前科技相關之碩士論文研究及論文撰寫",
+    "goals": [
+        "研究方向確定與實驗之進行",
+        "研究結果數據分析與討論",
+        "學術研究論文撰寫與投稿發表"
+    ],
+    "syllabus": "教學目標:  \n  \n協助碩士班研究生進行印前科技相關之碩士論文研究及論文撰寫.  \n  \n教材內容:  \n  \n1\\. 研究方向確定與實驗之進行  \n2\\. 研究結果數據分析與討論  \n3\\. 學術研究論文撰寫與投稿發表",
+    "methodologies": [
+        {
+            "type": "討論法",
+            "note": "近期SSCI/SCI/EI/AHCI/TSSCI 期刊論文之研讀報告"
+        },
+        {
+            "type": "媒體融入教學",
+            "note": "moodle學習平台及ppt presentation"
+        },
+        {
+            "type": "專題研究",
+            "note": "協助碩士班研究生進行印前科技相關之碩士論文研究及論文撰寫."
+        }
+    ],
+    "grading": [
+        {
+            "type": "課堂討論參與",
+            "weight": 5,
+            "note": "Q & A between teacher and classmates"
+        },
+        {
+            "type": "出席",
+            "weight": 5,
+            "note": "無故缺席以曠課論"
+        },
+        {
+            "type": "報告",
+            "weight": 20,
+            "note": "近期SSCI/SCI/EI/AHCI/TSSCI 期刊論文研讀報告"
+        },
+        {
+            "type": "專題",
+            "weight": 70,
+            "note": "碩士論文研究及論文撰寫."
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

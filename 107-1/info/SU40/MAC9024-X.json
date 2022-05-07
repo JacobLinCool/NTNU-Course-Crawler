@@ -1,0 +1,65 @@
+{
+    "year": 107,
+    "term": 1,
+    "name": "電腦圖學中運動與形變的數學",
+    "teachers": [
+        "樂美亨"
+    ],
+    "department": "SU40",
+    "code": "MAC9024",
+    "credit": 3,
+    "serial": 2722,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 1,
+            "from": 6,
+            "to": 8,
+            "campus": "公館",
+            "classroom": "教室自排"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "",
+    "classes": "9",
+    "dept_group": "",
+    "hours": 3,
+    "description": "在這門課程中，我們將通過數學來介紹電腦圖學中的運動與形變，以及曲面匹配和形變的經典方法。",
+    "goals": [
+        "培養數學專業能力",
+        "培養應用數學解決問題的能力",
+        "提升抽象思考層次",
+        "以高觀點詮釋數學與其他學科連結"
+    ],
+    "syllabus": "1.         Discrete Curves and Surfaces (two weeks)\n\n2.         Half-Edge Data Structure (two weeks)\n\n3.         Rigid Motion and Registration (two weeks)\n\n4.         Affine Transformation and Registration (two weeks)\n\n5.         Shape Morphing (two weeks)\n\n6.         Students' Midterm Reports (one week)\n\n7.         Perspective Projection (two weeks)\n\n8.         Curvature-Based Deformations (two weeks)\n\n9.         Non-Rigid Registrations (two weeks)\n\n10.       Students' Final Reports (one week)",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "講授課程內容"
+        },
+        {
+            "type": "實驗/實作",
+            "note": "實作範例問題"
+        }
+    ],
+    "grading": [
+        {
+            "type": "課堂討論參與",
+            "weight": 60,
+            "note": ""
+        },
+        {
+            "type": "報告",
+            "weight": 40,
+            "note": "研讀相關書籍、近期及重要相關論文"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

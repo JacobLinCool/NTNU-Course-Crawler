@@ -1,0 +1,81 @@
+{
+    "year": 108,
+    "term": 2,
+    "name": "類別資料分析",
+    "teachers": [
+        "劉振維"
+    ],
+    "department": "E",
+    "code": "E0C8008",
+    "credit": 3,
+    "serial": 344,
+    "group": "A",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 3,
+            "from": 2,
+            "to": 4,
+            "campus": "本部",
+            "classroom": "教403"
+        }
+    ],
+    "programs": [
+        "大數據學程"
+    ],
+    "comment": "",
+    "restrict": "◎課程不開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "一般問卷中常會收集回答者的背景資料，這些背景資料通常只能顯示回答者在某些變項中的類別，該等資料為離散量，不適合採用分析連續量的統計方法進行相關的統計分析。分析類別資料的統計方法發展逾一百年，本課程主要的目的是以鳥瞰的形式，介紹不同的類別資料分析方法，我們會先從傳統的分析方法開始介紹到近代流行的分析方法，課程中會強調各種方法背後的意義、適合採用的情況、結果的詮釋，以及應用的相關層面。本課程將會介紹SAS統計軟體的操作，並期待學習者主動嘗試將課程相關資訊應用在自主提出的研究問題上。",
+    "goals": [
+        "瞭解教育、心理學與社會學研究中常遇到的類別資料之性質",
+        "瞭解近代分析類別資料的統計方法，以及掌握相關統計軟體的操作",
+        "瞭解如何應用類別資料的統計方法解決陌生的或自主提出的研究問題",
+        "透過合作學習解決非制式的問題"
+    ],
+    "syllabus": "第一週：Review of Basic Statistics\n\n第二週：An introduction to R\n\n第三週：Introduction to categorical data analysis\n\n第四週：Analyzing Contingency Tables\n\n第五週：Analyzing Contingency Tables\n\n第六週：Generalized Linear Models\n\n第七週：Logistic Regression\n\n第八週：Logistic Regression\n\n第九週：Midterm Exam\n\n第十週：Building and Applying Logistic Regression Models\n\n第十一週：Multicategory Logit Models\n\n第十二週：Multicategory Logit Models\n\n第十三週：Loglinear Models\n\n第十四週：Loglinear Models\n\n第十五週：Random Effects: Generalized Linear Mixed Models\n\n第十六週：Preparation for empirical data analysis\n\n第十七週：Presentations for empirical data analysis\n\n第十八週：Presentations for empirical data analysis",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "問題解決教學",
+            "note": ""
+        },
+        {
+            "type": "實驗/實作",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "期中考",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "出席",
+            "weight": 10,
+            "note": ""
+        },
+        {
+            "type": "專題",
+            "weight": 30,
+            "note": "學生必須運用課堂所學類別資料處理的知識，實務執行一個完整的小型資料研究。在課堂上報告，並繳交一份APA格式的小論文。"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

@@ -1,0 +1,83 @@
+{
+    "year": 110,
+    "term": 2,
+    "name": "日常生活藥理學",
+    "teachers": [
+        "呂國棟"
+    ],
+    "department": "GU",
+    "code": "06UG029",
+    "credit": 2,
+    "serial": 988,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 5,
+            "from": 3,
+            "to": 4,
+            "campus": "公館",
+            "classroom": "理圖001"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 2,
+    "description": "",
+    "goals": [
+        "Overview of pharmacological principles",
+        "Classification of therapeutic drugs, routes of administration",
+        "Correct use and safety of clinical drugs"
+    ],
+    "syllabus": "1.  Course introduction\n\n2.  Basic Principles of Pharmacology (1)(route of administration, bioavailability) \n\n3.  Basic Principles of Pharmacology (2)(ADME)\n\n4.  Basic Principles of Pharmacology (3)(Dose-dependent curve, agonists & antagonists)\n\n5.  Medicines of Neurological diseases (1)\n\n6.  Medicines of Neurological disease (2)\n\n7.  Medicines of Psychiatric diseases\n\n8.  Mid-term Exam.\n\n9.  Medicines of Cardiovascular diseases.\n\n10.Medicines of Gastrointestinal diseases.\n\n11.Medicines of Endocrine dysfunction.\n\n12.Medicines of anti-inflammation and pain.\n\n13.Medicines of lung disease.\n\n14.Chemotherapeutics.\n\n15:Term paper presentation (1)\n\n16\\. Term paperpresentation (2)",
+    "methodologies": [
+        {
+            "type": "Formal lecture",
+            "note": "配合課本及投影片講授課文內容。"
+        },
+        {
+            "type": "Cooperative learning",
+            "note": "分組作業、分組期末報告。"
+        },
+        {
+            "type": "Case studies",
+            "note": "針對新藥或特定類別藥物，進行分組期末報告。"
+        }
+    ],
+    "grading": [
+        {
+            "type": "Assignments",
+            "weight": 15,
+            "note": "共三次，每次占總成績5%"
+        },
+        {
+            "type": "Midterm Exam",
+            "weight": 35,
+            "note": "一次，單選及複選題、名詞解釋和簡答題。"
+        },
+        {
+            "type": "Class discussion involvement",
+            "weight": 10,
+            "note": "分組課堂討論"
+        },
+        {
+            "type": "Attendances",
+            "weight": 10,
+            "note": "缺席一次扣總成績1%；\n缺席三次以上者，缺席一次扣總成績3%"
+        },
+        {
+            "type": "Presentation",
+            "weight": 30,
+            "note": "一次，分組期末報告 (口頭報告附紙本)"
+        }
+    ],
+    "prerequisite": "◎Available for junior and senior year B.A. program students (Doctoral program courses excepted) and M.A. program students.",
+    "general_core": []
+}

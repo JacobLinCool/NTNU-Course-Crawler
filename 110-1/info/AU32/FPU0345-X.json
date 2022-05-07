@@ -1,0 +1,89 @@
+{
+    "year": 110,
+    "term": 1,
+    "name": "運動專長術科：徑賽",
+    "teachers": [
+        "林雯雯"
+    ],
+    "department": "AU32",
+    "code": "FPU0345",
+    "credit": 4,
+    "serial": 147,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 1,
+            "from": 8,
+            "to": 9,
+            "campus": "公館",
+            "classroom": "操場二"
+        },
+        {
+            "day": 2,
+            "from": 8,
+            "to": 9,
+            "campus": "公館",
+            "classroom": "操場二"
+        },
+        {
+            "day": 4,
+            "from": 8,
+            "to": 9,
+            "campus": "公館",
+            "classroom": "操場二"
+        },
+        {
+            "day": 5,
+            "from": 8,
+            "to": 9,
+            "campus": "公館",
+            "classroom": "操場二"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "允許重複修",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 8,
+    "description": "接力跑技術訓練 (1)學習和掌握中長跑途中跑技術 (2)學會和掌握中長跑的完整技術",
+    "goals": [
+        "建立中長跑技術概念",
+        "學會中長跑技術"
+    ],
+    "syllabus": "*   課程採16+2方式進行\n\n週次\n\n上課內容\n\n第一週\n\n專項技術訓練\n\n第二週\n\n專項技術訓練\n\n第三週\n\n專項體能訓練\n\n第四週\n\n專項體能訓練\n\n第五週\n\n比賽技術強化\n\n第六週\n\n比賽技術強化\n\n第七週\n\n比賽調整\n\n第八週\n\n比賽調整\n\n第九週\n\n基礎技術訓練\n\n第十週\n\n基礎技術訓練\n\n第十一週\n\n基礎技術訓練\n\n第十二週\n\n基礎技術訓練\n\n第十三週\n\n專項體能強化\n\n第十四週\n\n專項體能強化\n\n第十五週\n\n專項體能強化\n\n第十六週\n\n專項技術強化\n\n第十七週\n\n專項技術強化\n\n第十八週\n\n專項技術強化",
+    "methodologies": [
+        {
+            "type": "討論法",
+            "note": "個人技術影片分析"
+        },
+        {
+            "type": "實驗/實作",
+            "note": "訓練、比賽"
+        }
+    ],
+    "grading": [
+        {
+            "type": "期中考",
+            "weight": 30,
+            "note": "訓練狀況"
+        },
+        {
+            "type": "期末考",
+            "weight": 50,
+            "note": "比賽成績"
+        },
+        {
+            "type": "出席",
+            "weight": 20,
+            "note": "訓練出席狀況"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

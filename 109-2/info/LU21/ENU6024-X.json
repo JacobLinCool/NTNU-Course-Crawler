@@ -1,0 +1,84 @@
+{
+    "year": 109,
+    "term": 2,
+    "name": "英語語音學",
+    "teachers": [
+        "甯俐馨"
+    ],
+    "department": "LU21",
+    "code": "ENU6024",
+    "credit": 3,
+    "serial": 1778,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 15
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 3,
+            "to": 5,
+            "campus": "本部",
+            "classroom": "誠304"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "1",
+    "classes": "2",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程為語音學（聲音的研究）的入門課程。其主要目的是，透過介紹英語語音學的主要概念，來增加學生對英語音素的認識、培養英語音素的轉錄能力、以及增進英語發音的準確性。本課程的另一個目的是，讓學生熟悉英語以外的其他語言的聲音，特別是台灣和其他亞洲國家使用的語言。課程主題包括發音語音學和描述語音所需的技術術語、音標和用於轉錄英語（和其他語言）的標記符號、語音學的主要概念、以及字母和聲音之間的關係。",
+    "goals": [
+        "To increase students’ knowledge of the English sounds",
+        "To increase students’ ability to transcribe English sounds.",
+        "To increase students’ accuracy of the English pronunciation.",
+        "To familiarize the students with sounds in languages other than English."
+    ],
+    "syllabus": "**Week**\n\n**Date**\n\n**Content**\n\n**Assignment & Quiz**\n\nWeek 1\n\n2/23\n\nCourse overview; Chapter 1: Articulation and Acoustics\n\nWeek 2\n\n3/2\n\nChapter 1: Articulation and Acoustics\n\nWeek 3\n\n3/9\n\nChapter 1: Articulation and Acoustics\n\nWeek 4\n\n3/16\n\nChapter 6: Airstream Mechanisms and Phonation Types\n\nWeek 5\n\n3/23\n\nChapter 6: Airstream Mechanisms and Phonation Types\n\nWeek 6\n\n3/30\n\nChapter 3: The Consonants of English\n\nWeek 7\n\n4/6\n\nSpring break \\[No class\\]\n\nWeek 8\n\n4/13\n\nChapter 3: The Consonants of English\n\nWeek 9\n\n4/20\n\n**Midterm exam**\n\nWeek 10\n\n4/27\n\nChapter 4: English Vowels\n\nWeek 11\n\n5/4\n\nChapters 5 & 10: Syllables and Suprasegmental Features\n\nWeek 12\n\n5/11\n\nChapter 8: Acoustic Phonetics; Praat\n\nWeek 13\n\n5/18\n\nChapter 8: Acoustic Phonetics; Praat\n\nWeek 14\n\n5/25\n\nChapter 8: Acoustic Phonetics; Praat\n\nWeek 15\n\n6/1\n\nMandarin IPA\n\nWeek 16\n\n6/8\n\n**Final exam**\n\nWeek 17\n\n6/15\n\nPraat annotation project wrap-up\n\nWeek 18\n\n6/22\n\nPraat annotation project due",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "Lectures will be given."
+        },
+        {
+            "type": "討論法",
+            "note": "In-class discussion is expected."
+        },
+        {
+            "type": "實驗/實作",
+            "note": "Lab tutorials will be provided"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 20,
+            "note": "lab assignments"
+        },
+        {
+            "type": "期中考",
+            "weight": 20,
+            "note": "Midterm exam will be provided"
+        },
+        {
+            "type": "期末考",
+            "weight": 20,
+            "note": "Final exam will be provided"
+        },
+        {
+            "type": "出席",
+            "weight": 10,
+            "note": "Attendance is required"
+        },
+        {
+            "type": "報告",
+            "weight": 30,
+            "note": "group project"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

@@ -1,0 +1,72 @@
+{
+    "year": 109,
+    "term": 1,
+    "name": "分子生物學",
+    "teachers": [
+        "謝秀梅",
+        "林炎壽",
+        "蘇銘燦"
+    ],
+    "department": "SU43",
+    "code": "BIU0145",
+    "credit": 3,
+    "serial": 3011,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 3,
+            "from": 7,
+            "to": 9,
+            "campus": "公館",
+            "classroom": "Ｅ202"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎必須先修過(也可以同時修)【BIU0168  普通生物學甲（一）】、【BIU0169  普通生物學甲（二）】",
+    "form_s": "3",
+    "classes": "1",
+    "dept_group": "",
+    "hours": 3,
+    "description": "分子生物學課程內容為以分子層次的觀點探討生物個體細微運作的生命現象，重點強調基因之複製和修補、表現及調控機制，並介紹現今各項分子生物相關技術，而且以癌症作為一個實際之例子說明分子生物學之原理，過程及應用。其中基因的表現過程涵蓋轉錄、轉譯及轉譯後修飾等；基因的表現調控機制以原核生物的調控為基礎，再加上近期真核生物之基因表現調控發現，使學生學習到分子生物學知識的演變及最新的資訊。",
+    "goals": [
+        "以分子層次的觀點探討生物個體細微運作的生命現象，重點強調基因之複製和修補、表現及調控機制"
+    ],
+    "syllabus": "Content\n\nChapters       \n\nLecturer\n\nDNA replication, transcription, and translation\n\n5\n\nHsieh\n\nDNA repair and recombination\n\n5\n\nHsieh\n\nGene structure and chromosomal organization\n\n8\n\nHsieh\n\nTransposable and organelle DNA\n\n8\n\nHsieh\n\nCulturing and Perturbing Cells\n\n4.1, 4.4\n\nHsieh\n\n**Midterm I**\n\n**4.1, 4.4, 5, 8**\n\n**Hsieh**\n\nVisualizing cells\n\n4.2, 4.3\n\nSu\n\nGenetic analysis of mutations\n\n6.1, 6.2   \n\nSu\n\nStudy gene expression\n\n6.3, 6.4\n\nSu\n\nControl of gene expression in bacteria\n\n9.1-9.4\n\nSu\n\nRegulation of transcription-factor activity\n\n9.4-9.8\n\nSu\n\n**Midterm II**\n\n**4.2-3, 6.1-4, 9**\n\n**S****u**\n\nGene inactivation\n\n6.5\n\nLin\n\nPost-transcriptional gene control in nucleus\n\n10\n\nLin\n\nPost-transcriptional control in cytoplasm\n\n10\n\nLin\n\nOnset and basis of cancer\n\n24\n\nLin\n\nOncogenes/tumor suppressor genes      \n\n24\n\nLin\n\n**Final** **Exam**\n\n**6.5, 10, 24**\n\n**Lin**",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": "課堂問題討論"
+        },
+        {
+            "type": "問題解決教學",
+            "note": "課堂問題討論"
+        },
+        {
+            "type": "媒體融入教學",
+            "note": "影音短片撥放"
+        }
+    ],
+    "grading": [
+        {
+            "type": "期中考",
+            "weight": 66,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 34,
+            "note": ""
+        }
+    ],
+    "prerequisite": "◎必須先修過(也可以同時修)【BIU0168  普通生物學甲（一）】、【BIU0169  普通生物學甲（二）】",
+    "general_core": []
+}

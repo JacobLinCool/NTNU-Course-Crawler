@@ -1,0 +1,75 @@
+{
+    "year": 108,
+    "term": 1,
+    "name": "電路學",
+    "teachers": [
+        "陳美勇"
+    ],
+    "department": "HU73",
+    "code": "MTU0013",
+    "credit": 3,
+    "serial": 1313,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 1,
+            "from": 7,
+            "to": 9,
+            "campus": "本部",
+            "classroom": "誠301"
+        }
+    ],
+    "programs": [
+        "太陽能源與工程學程"
+    ],
+    "comment": "",
+    "restrict": "",
+    "form_s": "2",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "使學生了解基本工程電路之特性、原理、計算與分析方法。",
+    "goals": [
+        "直流分析：(1) 瞭解電阻、電壓、電流、電力等之基本知識。(2) 瞭解進階電路的電路分析技巧，包含重疊原理、戴維寧等效電路、諾頓等效電路等。",
+        "時域分析：(1) 儲能元件(電容、電感)特性介紹。(2) RC、RL、RLC電路之時域分析。",
+        "頻域分析：(1) 交流電路分析。(2) Laplace 轉換及應用。"
+    ],
+    "syllabus": " \n\n週次\n\n上課日期\n\n 每週教學主題\\*\\*\n\n １\n\n© Basic Concepts (1.1~1.8)\n\n ２\n\n© Circuit Element--Transducers and Switch Circuits (2.1~2.9)\n\n ３\n\n© Resistive Circuits(3.1~3.10)\n\n ４\n\n© Nodal and Loop Analysis Techniques of RC (4.1-4.4)\n\n ５\n\n© Nodal and Loop Analysis Techniques of RC (4.5-4.7)\n\n ６\n\n©  Nodal and Loop Analysis Techniques (4.8)\n\n©  Circuit Theorems-Thevenin(5.1-5.4)\n\n ７\n\n© Circuit Theorems Norton (5.5~5.6)\n\n ８\n\n© Operational Amplifiers(6.1-6.3)\n\n ９\n\n© Operational Amplifiers(6.4~6.7)\n\n１０\n\n© Energy Storage Elements-Capacitor (7.1~7.4)\n\n１１\n\n© Energy Storage Elements-Inductors (7.5-7.9)\n\n１２\n\n© First- and Second-Order Transient Circuits (8.1~8.3)\n\n１３\n\n© First- and Second-Order Transient Circuits (8.4~8.8 )\n\n１４\n\n© First- and Second-Order Transient Circuits (9.1~9.8)\n\n１５\n\n© Sinusoidal Steady-State Analysis (10.1~10.6)\n\n© Superposition and Phasor Diagrams (10.7~10.10)\n\n１６\n\n© Circuit Analysis Using the Laplace Transform (14.1~14.5)\n\n１７\n\n© Circuit Analysis Using the Laplace Transform (14.6~14.11)\n\n１8\n\n© Circuit Analysis Using the Laplace Transform (14.12~14.14)\n\n© Discussions",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "以講授及操作示範進行，包含模擬軟體之示範操作。"
+        },
+        {
+            "type": "問題解決教學",
+            "note": "以電路問題引導教學。"
+        },
+        {
+            "type": "其他",
+            "note": "測驗方式進行。"
+        }
+    ],
+    "grading": [
+        {
+            "type": "期中考",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "其他",
+            "weight": 40,
+            "note": "五次小考，取前四次高分考試成績。"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

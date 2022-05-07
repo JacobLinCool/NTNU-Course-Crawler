@@ -1,0 +1,72 @@
+{
+    "year": 108,
+    "term": 1,
+    "name": "植物形態學",
+    "teachers": [
+        "葉增勇"
+    ],
+    "department": "SU43",
+    "code": "BIU0017",
+    "credit": 3,
+    "serial": 2984,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 2,
+            "to": 4,
+            "campus": "公館",
+            "classroom": "綜合館B1小型演講廳"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "2",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "介紹藻類，蘚苔類，蕨類等低等植物及真菌內外部形態構造和生活史，並比較植物各群之間的親源關係",
+    "goals": [
+        "能認識低等植物(藻類，蘚苔類，蕨類)以及真菌等內外部形態構造和生活史",
+        "能比較植物各群之間的親源關係"
+    ],
+    "syllabus": "第1週 Introduction\n\n第2週 Cyanophyta\n\n第3週 Chlorophyta\n\n第4週 Chlorophyta(Cont.)\n\n第5週 Euglenophyta, Chrysophyta,\n\n第6週 Phaeophyta, Dinophyta,\n\n第7週 Rhodophyta\n\n第8週Bryophyta(Marchantiopsida, Anthocerotopsida)\n\n第9週 Midterm exam.\n\n第10週 Bryophyta(Bryopsida)\n\n第11週 Lycophytina(Lycopodiopsida)\n\n第12週 Euphyllophytina (Equisetopsida)\n\n第13週 Euphyllophytina(Polypodiopsida)(ferns)\n\n第14週Gymnomycota，第15週 Mastigomycota\n\n第16週Zygomycotina, Ascomycotina\n\n第17週 Basidiomycotina\n\n第18週Terminal exam.",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "使用講義配以power point及板書教學"
+        },
+        {
+            "type": "討論法",
+            "note": "引出問題由學生討論回答"
+        },
+        {
+            "type": "媒體融入教學",
+            "note": "配以圖片及影片融入教學"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 20,
+            "note": "訓練學生翻譯資料完成報告。"
+        },
+        {
+            "type": "期中考",
+            "weight": 40,
+            "note": "內容包含解釋名詞、複選選擇題、問答題、繪圖題等，以評量學生專業知識。"
+        },
+        {
+            "type": "期末考",
+            "weight": 40,
+            "note": "內容包含解釋名詞、複選選擇題、問答題、繪圖題等，以評量學生專業知識。"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

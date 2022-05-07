@@ -1,0 +1,69 @@
+{
+    "year": 108,
+    "term": 2,
+    "name": "數論與函數體的算術（二）",
+    "teachers": [
+        "許志農"
+    ],
+    "department": "SM40",
+    "code": "MAM0018",
+    "credit": 3,
+    "serial": 2539,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 3,
+            "from": 2,
+            "to": 4,
+            "campus": "公館",
+            "classroom": "數學館311研討室"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "讓學生瞭解利用函數體的算術處理數論的方法，以作為將來研究高深數論的準備。",
+    "goals": [
+        "可以用數論的語言進行溝通與表達",
+        "11.　訓練學生掌握函數體的算術處理數論的原理",
+        "13.　培養學生直覺，欣賞與應用數論至其它領域的能力"
+    ],
+    "syllabus": "1. Gauss Reciprocity law, Quadratic extension over Q(4週)。\n\n2. P-adic fields(4週)。\n\n3. Algebraic Number Fields and Algebraic Function Fields (4週)。\n\n4. Elliptic Curves(4週)。",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "問題解決教學",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 40,
+            "note": ""
+        },
+        {
+            "type": "期中考",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 30,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

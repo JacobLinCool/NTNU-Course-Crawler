@@ -1,0 +1,58 @@
+{
+    "year": 107,
+    "term": 2,
+    "name": "聚類分析（一）",
+    "teachers": [
+        "張少同"
+    ],
+    "department": "SM40",
+    "code": "MAC8021",
+    "credit": 3,
+    "serial": 2612,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 4,
+            "from": 2,
+            "to": 4,
+            "campus": "公館",
+            "classroom": "教室自排"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "聚類分析是將大量資料依其特徵的相似性分成若干群集的學問，主要在探索最新發展的聚類方法、理論及其應用。直到今日，聚類分析已被成功地應用在資料分類、影像處理、圖形辨識、教育、機器學習、醫學、經濟、市場管理、人工智慧等各種不同的領域。",
+    "goals": [
+        "能了解群體的差異，並利用變數建立聚類規則，進而將所給定的資料做分群，並找到資料中所隠藏的訊息。"
+    ],
+    "syllabus": "每週主題(上課週數，共18週)\n\n區別分析法(1)\n\n階層式聚類法(1)\n\n機率模型及EM演算法(2)\n\nK均值聚類法(2)\n\n硬式分割到模糊分割的演變(2)\n\n隨機收斂性與最佳化理論探討(2)\n\n其他型式的聚類演算法(2)\n\n穏健性(Robustness)的探討(2)\n\n聚類分析在不同領域上的應用(4)",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "以上課講授為主"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 50,
+            "note": ""
+        },
+        {
+            "type": "報告",
+            "weight": 50,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

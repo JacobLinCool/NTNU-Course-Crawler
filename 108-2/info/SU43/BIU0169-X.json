@@ -1,0 +1,80 @@
+{
+    "year": 108,
+    "term": 2,
+    "name": "普通生物學甲（二）",
+    "teachers": [
+        "張永達",
+        "廖培鈞",
+        "郭奇芊"
+    ],
+    "department": "SU43",
+    "code": "BIU0169",
+    "credit": 3,
+    "serial": 2826,
+    "group": "",
+    "quota": {
+        "limit": 70,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 3,
+            "from": 7,
+            "to": 9,
+            "campus": "公館",
+            "classroom": "Ｅ201"
+        }
+    ],
+    "programs": [],
+    "comment": "生科系雙主修、輔系跨域專業探索課程",
+    "restrict": "",
+    "form_s": "1",
+    "classes": "1",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程內容為延續高中生物課程的加深加廣知識，主要為未來學習生物學各專業領域課程而準備。",
+    "goals": [
+        "能熟知生物學專有名詞，並瞭解分子生物學、細胞學、個體生物學、演化及生態學之基本概念",
+        "能在課堂或課後主動參與生命科學相關議題之討論",
+        "能體認生命科學的重要性，並應用生命科學的知識在人類的生存、生態保育與地球的永續發展"
+    ],
+    "syllabus": "第一週 Animal Evolution-The Invertebrates\n\n第二週 Animal Evolution-The Chordates\n\n第三週 Plant Tissues & Plant Nutrition and Transport\n\n第四週 Plant Reproduction\n\n第五週 Plant Growth and Development\n\n第六週 Animal Tissues and Organ Systems; Neural Control & Sensory Perception\n\n第七週 Endocrine Control; Structural Support and Movement (I)\n\n第八週 Structural Support and Movement (II); Circulation\n\n第九週 Immunity; Respiration (I)\n\n第十週 Respiration (II); Digestion and Human Nutrition\n\n第十一週 Maintaining the Internal Environment; Animal Reproductive Systems (I)\n\n第十二週 Animal Reproductive Systems (II); Animal Development\n\n第十三週 Animal Behavior\n\n第十四週 Population Ecology\n\n第十五週 Community structure and Biodiversity\n\n第十六週 Ecosystems\n\n第十七週 The Biosphere and Human Impacts on the Biosphere\n\n  第十八週 期末考",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "教師整理各教學主題之重要概念及相關時事，製成投影片，以口頭講述說明"
+        },
+        {
+            "type": "討論法",
+            "note": "課堂時，主要由教師提出問題，由學生回答討論。課後，在學校之Moodle教學平台的討論區，由學生提出問題或議題進行討論"
+        },
+        {
+            "type": "媒體融入教學",
+            "note": "配合各主題，以電腦動畫、影片等進行教學"
+        }
+    ],
+    "grading": [
+        {
+            "type": "期中考",
+            "weight": 54,
+            "note": "共舉行兩次，為筆試型式，題型可能包含是非題、選擇題、填充題、解釋名詞及簡答題"
+        },
+        {
+            "type": "期末考",
+            "weight": 27,
+            "note": "為筆試型式，題型可能包含是非題、選擇題、填充題、解釋名詞及簡答題"
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 3,
+            "note": "由課堂討論及課後教學平台網路討論之參與情形評分"
+        },
+        {
+            "type": "其他",
+            "weight": 16,
+            "note": "為筆試型式，題型可能包含選擇題及填充題"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

@@ -1,0 +1,240 @@
+[
+    {
+        "year": 108,
+        "term": 2,
+        "name": "文學概論",
+        "teachers": [
+            "鍾宗憲"
+        ],
+        "department": "LU20",
+        "code": "CHU0015",
+        "credit": 3,
+        "serial": 1604,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 1,
+                "to": 3,
+                "campus": "本部",
+                "classroom": "樸303"
+            }
+        ],
+        "programs": [
+            "文學創作學程"
+        ],
+        "comment": "",
+        "restrict": "",
+        "form_s": "1",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 2,
+        "name": "現代散文",
+        "teachers": [
+            "范宜如"
+        ],
+        "department": "LU20",
+        "code": "CHU0325",
+        "credit": 2,
+        "serial": 1613,
+        "group": "A",
+        "quota": {
+            "limit": 30,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 6,
+                "to": 7,
+                "campus": "本部",
+                "classroom": "樸203"
+            }
+        ],
+        "programs": [
+            "文學創作學程"
+        ],
+        "comment": "",
+        "restrict": "",
+        "form_s": "1",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 2,
+        "name": "現代散文",
+        "teachers": [
+            "石曉楓"
+        ],
+        "department": "LU20",
+        "code": "CHU0325",
+        "credit": 2,
+        "serial": 1614,
+        "group": "B",
+        "quota": {
+            "limit": 30,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 5,
+                "from": 8,
+                "to": 9,
+                "campus": "本部",
+                "classroom": "樸203"
+            }
+        ],
+        "programs": [
+            "文學創作學程"
+        ],
+        "comment": "",
+        "restrict": "",
+        "form_s": "1",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 2,
+        "name": "現代散文",
+        "teachers": [
+            "陳室如"
+        ],
+        "department": "LU20",
+        "code": "CHU0325",
+        "credit": 2,
+        "serial": 1615,
+        "group": "C",
+        "quota": {
+            "limit": 30,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 3,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "樸302"
+            }
+        ],
+        "programs": [
+            "文學創作學程"
+        ],
+        "comment": "",
+        "restrict": "",
+        "form_s": "1",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 2,
+        "name": "旅行文學",
+        "teachers": [
+            "陳室如"
+        ],
+        "department": "LU20",
+        "code": "CHU0195",
+        "credit": 2,
+        "serial": 1629,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 6,
+                "to": 7,
+                "campus": "本部",
+                "classroom": "樸304"
+            }
+        ],
+        "programs": [
+            "文學創作學程"
+        ],
+        "comment": "",
+        "restrict": "",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 2,
+        "name": "現代詩寫作指導",
+        "teachers": [
+            "羅智成"
+        ],
+        "department": "ZU94",
+        "code": "PGUU016",
+        "credit": 2,
+        "serial": 3123,
+        "group": "",
+        "quota": {
+            "limit": 30,
+            "additional": 2
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 3,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "樸302"
+            }
+        ],
+        "programs": [
+            "文學創作學程"
+        ],
+        "comment": "",
+        "restrict": "◎第一階段限 文學創作學程",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 2,
+        "name": "影像文學",
+        "teachers": [
+            "許紘源"
+        ],
+        "department": "ZU94",
+        "code": "PGUU029",
+        "credit": 2,
+        "serial": 3124,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 8,
+                "to": 9,
+                "campus": "本部",
+                "classroom": "樸204"
+            }
+        ],
+        "programs": [
+            "文學創作學程"
+        ],
+        "comment": "",
+        "restrict": "◎第一階段限 文學創作學程",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    }
+]

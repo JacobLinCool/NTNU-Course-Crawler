@@ -1,0 +1,74 @@
+{
+    "year": 110,
+    "term": 2,
+    "name": "學校諮商實習（二）",
+    "teachers": [
+        "姜兆眉"
+    ],
+    "department": "EU01",
+    "code": "PCU0151",
+    "credit": 2,
+    "serial": 679,
+    "group": "A",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 9,
+            "to": 10,
+            "campus": "本部",
+            "classroom": "教602"
+        },
+        {
+            "day": 5,
+            "from": 10,
+            "to": 11,
+            "campus": "本部",
+            "classroom": "教602"
+        }
+    ],
+    "programs": [
+        "PASSION偏鄉教育學程"
+    ],
+    "comment": "實地學習時數15小時。",
+    "restrict": "◎必須先修過【PCU0130  諮商理論】、【PCU0131  諮商技術】、【PCU0011  團體輔導】、【PCU0150  學校諮商實習（一）】◎必須先修過【PCU0117  輔導原理與實務】、【00UE008  輔導原理與實務（教）】其中一門 ◎課程開放上修",
+    "form_s": "4",
+    "classes": "",
+    "dept_group": "",
+    "hours": 4,
+    "description": "此課程提供學生實務經驗，藉由在在國高中實習進行諮商輔導，學習如何與青少年工作，並經由專業督導來提升專業能力。",
+    "goals": [
+        "協助學生認識並體驗學校輔導與諮商的實務工作。",
+        "協助學生至實習學校進行諮商實習，獲得實際接案經驗，並在督導下提升個別諮商的效能。",
+        "協助學生運用諮商理論與技巧於國、高中青少年的晤談工作。",
+        "透過實習機會，增進學生對諮商專業的認同與成長諮商實務應用的能力。"
+    ],
+    "syllabus": "  \n \n\n  \n[教學進度與主題附件](https://ap.itc.ntnu.edu.tw/NtnuFileShare/file.do?action=dl&gno=804e26adba29464f98229c1262af8f11&fno=2c86d8f3ee1b44ed9984306b9515325a)",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "課程定向"
+        },
+        {
+            "type": "討論法",
+            "note": "個別督導"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 85,
+            "note": "請見附件PDF檔案"
+        },
+        {
+            "type": "期末考",
+            "weight": 15,
+            "note": "學校專業督導評分"
+        }
+    ],
+    "prerequisite": "◎必須先修過【PCU0130  諮商理論】、【PCU0131  諮商技術】、【PCU0011  團體輔導】、【PCU0150  學校諮商實習（一）】◎必須先修過【PCU0117  輔導原理與實務】、【00UE008  輔導原理與實務（教）】其中一門",
+    "general_core": []
+}

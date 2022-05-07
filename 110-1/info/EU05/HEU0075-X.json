@@ -1,0 +1,108 @@
+{
+    "year": 110,
+    "term": 1,
+    "name": "安全教育",
+    "teachers": [
+        "王國川"
+    ],
+    "department": "EU05",
+    "code": "HEU0075",
+    "credit": 2,
+    "serial": 749,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 6,
+            "to": 7,
+            "campus": "本部",
+            "classroom": "正103"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎必須先修過(也可以同時修)【HEU0156  健康促進與衛生教育導論】",
+    "form_s": "1",
+    "classes": "",
+    "dept_group": "",
+    "hours": 2,
+    "description": "",
+    "goals": [
+        "體會安全教育的方法與要點",
+        "提升他們個人安全意識，充實個人安全知能",
+        "賦予個人安全行為"
+    ],
+    "syllabus": "  \n \n\n  \n[教學進度與主題附件](https://ap.itc.ntnu.edu.tw/NtnuFileShare/file.do?action=dl&gno=6db1f6843fa84b32bc18ce7db567a70e&fno=b21a1647cbee441d9d5b7bd8b8b60e61)",
+    "methodologies": [
+        {
+            "type": "Formal lecture",
+            "note": "安全教育概論,現代社會與事故傷害,影響安全行為的因素,自然災害發生時的行動"
+        },
+        {
+            "type": "Group discussion",
+            "note": "家庭安全,學校安全,社區安全,休旅安全"
+        },
+        {
+            "type": "Problem base learning",
+            "note": "參訪安全社區及問卷調查,參訪安全學校"
+        },
+        {
+            "type": "Cooperative learning",
+            "note": "參訪安全社區及問卷調查,參訪安全學校"
+        },
+        {
+            "type": "Lab/Studio",
+            "note": "交通安全研習-參訪機車安全駕駛訓練"
+        },
+        {
+            "type": "Field work",
+            "note": "防災教育(參訪台北市內湖防災科學教育館),職業安全衛生(參訪新北市汐止勞工安全衛生展示館)"
+        },
+        {
+            "type": "Media, audio, visual materials",
+            "note": "家庭安全,學校安全,社區安全,休旅安全,交通安全等影片"
+        },
+        {
+            "type": "Other:",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "Assignments",
+            "weight": 20,
+            "note": "隨堂考試(採取開放式網上填寫考試)"
+        },
+        {
+            "type": "Final exam",
+            "weight": 20,
+            "note": "期末考試(採取開放式網上填寫考試)"
+        },
+        {
+            "type": "Class discussion involvement",
+            "weight": 10,
+            "note": "各次課堂參與"
+        },
+        {
+            "type": "Attendances",
+            "weight": 10,
+            "note": "各次課堂出席"
+        },
+        {
+            "type": "Presentation",
+            "weight": 30,
+            "note": "參訪心得報告"
+        },
+        {
+            "type": "other:",
+            "weight": 10,
+            "note": "學習動機主動、積極，學習態度開心、愉快等"
+        }
+    ],
+    "prerequisite": "Prerequisite course(can be taken in the same semester): 【HEU0156  Introduction to Health Promotion and Health Educat】",
+    "general_core": []
+}

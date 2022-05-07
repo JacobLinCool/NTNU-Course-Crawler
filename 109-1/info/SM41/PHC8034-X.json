@@ -1,0 +1,73 @@
+{
+    "year": 109,
+    "term": 1,
+    "name": "凝態物理中的量子場論（一）",
+    "teachers": [
+        "陳鴻宜"
+    ],
+    "department": "SM41",
+    "code": "PHC8034",
+    "credit": 3,
+    "serial": 2698,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 6,
+            "to": 8,
+            "campus": "公館",
+            "classroom": "Ｃ006"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "凝態場論由於有較高的門檻，往往使得很多學生無法領略它的優美與深邃，甚至對其毫無所悉。\n本課程希望透過介紹一些具有普遍性，且通用於各理論物理分支的數學方法，讓同學一窺其概貌，\n並且作為進階學習與研究之基礎。",
+    "goals": [
+        "熟習物理理論",
+        "學習物理相關的抽象思考能力及科學新知的進修與學習能力",
+        "培養直覺、物理感"
+    ],
+    "syllabus": "**第****1****週：**\n\n**1\\. Linear Response**\n\n1-1 Response Functions\n\n1-2 Correlation Functions\n\n**第****2****週：**\n\n1-3 Spectral Functions\n\n**2\\. Green's Function**\n\n**第****3****週：**\n\n2-1 Second Quantization\n\n**第****4****週：**\n\n2-2 Real Time Green's Function\n\n**第****5****週：**\n\n2-3 Finite Temperature Green'sFunction\n\n**第****6****週：**\n\n2-4 Green’s Funtion for theCorrelation Funtion\n\n**第****7****週：**\n\n**3\\. Path Integral**\n\n3-1 Path Integral\n\n**第****8-9****週：**\n\n3-2 Partition Function\n\n**第****10****週：**\n\n3-3 Effective Theory\n\n**第****11****週：**\n\n3-4 Path Integral for the Correlation Function\n\n**4\\. Renormalization Group**\n\n**第****12-13****週：**\n\n4-1 Renormalization Group Transformations\n\n**第****14****週：**\n\n4-2 Fixed Points\n\n**第****15-16****週：**\n\n4-3 Origin of Scaling\n\n**第****17-18****週：**\n\n4-4RG for the Correlation Function",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "媒體融入教學",
+            "note": ""
+        },
+        {
+            "type": "專題研究",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "期中考",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 40,
+            "note": ""
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 30,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

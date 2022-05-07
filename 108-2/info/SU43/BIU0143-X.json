@@ -1,0 +1,65 @@
+{
+    "year": 108,
+    "term": 2,
+    "name": "生物化學",
+    "teachers": [
+        "蘇銘燦",
+        "王玉麒",
+        "李冠群"
+    ],
+    "department": "SU43",
+    "code": "BIU0143",
+    "credit": 4,
+    "serial": 2836,
+    "group": "",
+    "quota": {
+        "limit": 60,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 4,
+            "from": 1,
+            "to": 4,
+            "campus": "公館",
+            "classroom": "Ｅ202"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎必須先修過【BIU0008  有機化學】、【CMU0178  普通化學乙】、【CMU0177  普通化學甲（二）】、【CMU0176  普通化學甲（一）】、【CMU0137  有機化學（一）】、【CMU0138  有機化學（二）】其中一門",
+    "form_s": "2",
+    "classes": "1",
+    "dept_group": "",
+    "hours": 4,
+    "description": "本科目為近代生物學之基礎學科，講授內容包括生物體內各巨分子之組成、結構及代謝反應。",
+    "goals": [
+        "1.能熟悉並認知生物化學專有名詞及其意涵，能敘述並解釋蛋白質、醣類及脂肪的基本定義，與其在細胞中的分解與合成的代謝反應",
+        "2.能體認生命基本物質為細胞生物學及生理學之基礎，並以生活上出現的現象為例，印證生命科學之相關議題"
+    ],
+    "syllabus": "蘇銘燦\n\n1  9/12  Water  \n2  9/19  Amino acids, Peptides, and Proteins  \n3  9/26  The Three-Dimensional Structure of Proteins  \n4  10/3  The Three-Dimensional Structure of Proteins\n\n蘇銘燦/王玉麒  \n5  10/10(國慶日放假1天)  Protein Function (9:00-10:20, 蘇) (10:40-12:00, 王)  \n6  10/17  Enzymes\n\n王玉麒  \n7  10/24  Carbohydrates and Glycobiology  \n8  10/31  Carbohydrates and Glycobiology  \n9  11/7   Lipids  \n10 11/16(六)  期中考  (9:00-12:00, 教室E202)\n\n方剛  \n10 11/14  Ch. 10 Introduction to Metabolism  \n11 11/21  Ch. 10 Introduction to Metabolism  \n12 11/28  Ch. 11 Glycolysis  \n13 12/5   Ch. 12 Gluconeogenesis, the Pentose Phosphate Pathway and Glycogen metabolism\n\n方剛/李冠群  \n14 12/12  Ch. 13 The Citric Acid Cycle (9:00-10:20, 方) (10:40-12:00, 李)\n\n李冠群  \n15  12/19  Ch. 14 Electron Transport and ATP Synthesis  \n16  12/26  Ch. 16 Lipid Metabolism  \n17  1/2   Ch. 16 Lipid Metabolism  \n18  1/9  Ch. 17 Amino Acid Metabolism  \n19  1/14(二)  期末考(9:00-12:00, 教室 E202)",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "使用一般課本、自編講義媒材授課"
+        },
+        {
+            "type": "媒體融入教學",
+            "note": "運用數位平台與自製簡報檔案教學"
+        }
+    ],
+    "grading": [
+        {
+            "type": "期中考",
+            "weight": 50,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 50,
+            "note": ""
+        }
+    ],
+    "prerequisite": "◎必須先修過【BIU0008  有機化學】、【CMU0178  普通化學乙】、【CMU0177  普通化學甲（二）】、【CMU0176  普通化學甲（一）】、【CMU0137  有機化學（一）】、【CMU0138  有機化學（二）】其中一門",
+    "general_core": []
+}

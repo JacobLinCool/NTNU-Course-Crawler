@@ -1,0 +1,78 @@
+{
+    "year": 108,
+    "term": 2,
+    "name": "振動學",
+    "teachers": [
+        "屠名正"
+    ],
+    "department": "HU73",
+    "code": "MTU0107",
+    "credit": 3,
+    "serial": 1239,
+    "group": "",
+    "quota": {
+        "limit": 30,
+        "additional": 12
+    },
+    "schedule": [
+        {
+            "day": 1,
+            "from": 10,
+            "to": 12,
+            "campus": "本部",
+            "classroom": "CAD/CAM"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎必須先修過【MTU0101  動力學】",
+    "form_s": "4",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "振動學是動力學的延續。許多自然或人造結構、機構與機器在受到力的作用都有振動現象。許多工程問題牽涉到振動學。本課內容從一個自由度、二個自由度開始，推導振動公式，並發展到連續體的振動。探討系統的由自然振動、簡諧激振以及非簡諧振動。本課目的在理解振動學的基本原理，以及振動分析的基本方法，瞭解自然頻率、模態等振動現象對系統動態的影響。此外並學習CAE軟體，以獲得對系統進行振動分析的能力。",
+    "goals": [
+        "理解振動學的基本原理以及振動分析的基本方法",
+        "習得以CAE軟體對一般機械系統進行振動分析的技術",
+        "解決機械系統之振動問題",
+        "學習CAE軟體(外文操作介面)"
+    ],
+    "syllabus": "1\\. Introduction\n\n2\\. Free vibration:1 DOF\n\n3\\. Free vibration: 1 DOF\n\n4\\. Harmonical vibration\n\n5\\. Harmonical vibration\n\n6\\. Non-harmonical vibration\n\n7.Two DOF vibration\n\n8.Two DOF vibration\n\n9\\. Vibration of continuous systems\n\n10\\. Vibration of continuous systems\n\n11\\. CAE software: Patran/Nastran\n\n12\\. CAE software practices：free vibration\n\n13\\. CAE software practices：harmonical vibration\n\n14\\. CAE software practices：non-harmonical vibration\n\n15\\. CAE software practices：Two DOF vibration\n\n16\\. CAE software practices：continuous systems vibration\n\n17\\. CAE software practices：continuous systems vibration\n\n18.Final test",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "定義、原理及應用範例解說"
+        },
+        {
+            "type": "討論法",
+            "note": "概念討論、疑難解決"
+        },
+        {
+            "type": "問題解決教學",
+            "note": "例題求解示範演練"
+        },
+        {
+            "type": "實驗/實作",
+            "note": "CAE電腦軟體隨堂演練操作"
+        }
+    ],
+    "grading": [
+        {
+            "type": "課堂討論參與",
+            "weight": 60,
+            "note": "隨堂操作電腦軟體演練，缺席扣分"
+        },
+        {
+            "type": "報告",
+            "weight": 20,
+            "note": "專題作業，期末上台報告"
+        },
+        {
+            "type": "其他",
+            "weight": 20,
+            "note": "隨堂測驗"
+        }
+    ],
+    "prerequisite": "◎必須先修過【MTU0101  動力學】",
+    "general_core": []
+}

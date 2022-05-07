@@ -1,0 +1,75 @@
+{
+    "year": 110,
+    "term": 1,
+    "name": "量子力學（二）",
+    "teachers": [
+        "陳鴻宜"
+    ],
+    "department": "SM41",
+    "code": "PHC0012",
+    "credit": 3,
+    "serial": 2677,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 4,
+            "from": 2,
+            "to": 4,
+            "campus": "公館",
+            "classroom": "Ｓ601"
+        }
+    ],
+    "programs": [],
+    "comment": "需已修過本課程但未獲通過者方可選修本課程(不含停修或缺考學生)",
+    "restrict": "◎第一階段需人工加選◎第二階段需人工加選◎加退選階段需人工加選 ◎課程開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "",
+    "goals": [
+        "Understand the development and theory of quantum mechanics",
+        "Strengthen rational thinking skills",
+        "Introduction to Physics News",
+        "Physical research ability development"
+    ],
+    "syllabus": "  \n\n1.Symmetries\n\n   A. Systems with N Degrees of Freedom\n\n   B. Symmetries and Their Consequences\n\n  \n\n2.General Theory of Angular Momentum: \n\n    A. Rotational Invariance and Angular Momentum\n\n    B. Addition of Angular Momentum \n\n    C. Spin\n\n  \n\n3\\. The Hydrogen atom\n\n  \n\n4\\. EPR Paradox and Quantum Entanglement\n\n  \n\n5\\. Approximation Methods\n\n    A. Variational and WKB Methods\n\n    B. Time-Independent Perturbation Theory\n\n    C. Time-Dependent Perturbation Theory and Adiabatic Approximation\n\n  \n\n6\\. Relativistic Quantum Mechanics:\n\n    A. The Klein-Gordan Equation\n\n    B. The Dirac Equation",
+    "methodologies": [
+        {
+            "type": "Formal lecture",
+            "note": ""
+        },
+        {
+            "type": "Group discussion",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "Assignments",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "Midterm Exam",
+            "weight": 25,
+            "note": ""
+        },
+        {
+            "type": "Final exam",
+            "weight": 35,
+            "note": ""
+        },
+        {
+            "type": "Class discussion involvement",
+            "weight": 10,
+            "note": ""
+        }
+    ],
+    "prerequisite": "◎First phase of courses enrollment: Course enrollment by manual◎Second phase of courses enrollment: Course enrollment by manual◎Add/Drop period: Course enrollment by manual ◎Available for junior and senior year B.A. program students (Doctoral program courses excepted) and M.A. program students.",
+    "general_core": []
+}

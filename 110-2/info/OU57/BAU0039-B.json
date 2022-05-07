@@ -1,0 +1,92 @@
+{
+    "year": 110,
+    "term": 2,
+    "name": "經濟學（二）",
+    "teachers": [
+        "印永翔"
+    ],
+    "department": "OU57",
+    "code": "BAU0039",
+    "credit": 3,
+    "serial": 2438,
+    "group": "B",
+    "quota": {
+        "limit": 60,
+        "additional": 30
+    },
+    "schedule": [
+        {
+            "day": 4,
+            "from": 7,
+            "to": 9,
+            "campus": "本部",
+            "classroom": "誠302"
+        }
+    ],
+    "programs": [],
+    "comment": "企管系大一學生學號末碼為單數號請選修經濟學(二)A班;末碼為雙數號請選修經濟學(二)B班。欲加修本課程的學生，請務必出席第一節課處理授權碼事宜，不必事先寫信給教授。2/17和2/24採線上上課,上課網址: https://meet.google.com/ppd-fbof-gbh",
+    "restrict": "◎必須先修過【BAU0038  經濟學（一）】",
+    "form_s": "1",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "",
+    "goals": [
+        "Students will understand the general business fundamentals and advanced management knowledge",
+        "Students will have a solid comprehension of and be able to employ compelling quantitative analytical methodologies in the business setting.",
+        "Students will comprehend, from a global perspective, political, economic, social, and technological factors that may shape business operation and performance.",
+        "Students will be able to make clear and logical oral presentation."
+    ],
+    "syllabus": "Week 1. Introduction of Macroeconomics, Measures of Income\n\nWeek 2. Measures of Cost of Living\n\nWeek 3. Economioc Growth, Standard of Living\n\nWeek 4. Saving, Investment and Financial Market\n\nWeek 5. Basic Financial Tools\n\nWeek 6. Unemployment\n\nWeek 7. Midterm Exam\n\nWeek 8. Money\n\nWeek 9. Inflation\n\nWeek 10. Open-Economy: Basic concepts\n\nWeek 11. Open-Economy: Theories and Applications\n\nWeek 12. Economic Flucations and Aggregate Demand and Aggregate Supply\n\nWeek 13. Monetary Polices\n\nWeek 14. Fiscal Policies\n\nWeek 15. Trade off between Inflation and Unemployment\n\nWeek 16. Final Exam",
+    "methodologies": [
+        {
+            "type": "Formal lecture",
+            "note": "Regular lecture for each topic in order of the appearance in the syllabus."
+        },
+        {
+            "type": "Group discussion",
+            "note": "Group discussion will be initiated for certain topics."
+        },
+        {
+            "type": "Problem base learning",
+            "note": "Questions or problems will be thrown to students spontaneously during class."
+        },
+        {
+            "type": "Cooperative learning",
+            "note": "One group project will be assigned with relevant topics."
+        },
+        {
+            "type": "Media, audio, visual materials",
+            "note": "Relevant video clips from social media will be assigned for viewing for class discussion."
+        }
+    ],
+    "grading": [
+        {
+            "type": "Midterm Exam",
+            "weight": 35,
+            "note": "Midterm Exam: multiple choice questions and short essays and problems."
+        },
+        {
+            "type": "Final exam",
+            "weight": 30,
+            "note": "Final Exam: multiple choice questions and short essays and problems."
+        },
+        {
+            "type": "Class discussion involvement",
+            "weight": 20,
+            "note": "Class discussion and participation"
+        },
+        {
+            "type": "Attendances",
+            "weight": 5,
+            "note": "Attendances"
+        },
+        {
+            "type": "Presentation",
+            "weight": 10,
+            "note": "Group project and presentations"
+        }
+    ],
+    "prerequisite": "Prerequisite course: 【BAU0038  Economics (I)】",
+    "general_core": []
+}

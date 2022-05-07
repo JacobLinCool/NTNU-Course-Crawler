@@ -1,0 +1,86 @@
+{
+    "year": 110,
+    "term": 2,
+    "name": "教育心理學（教）",
+    "teachers": [
+        "張文哲"
+    ],
+    "department": "EU",
+    "code": "00UE002",
+    "credit": 2,
+    "serial": 506,
+    "group": "B",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 5,
+            "from": 9,
+            "to": 10,
+            "campus": "本部",
+            "classroom": "教511"
+        }
+    ],
+    "programs": [
+        "國際教師學程-華語文",
+        "國際教師學程-數學",
+        "國際教師學程-物理",
+        "PASSION偏鄉教育學程",
+        "國際教師學程-國際"
+    ],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 2,
+    "description": "教育心理學是教育學的重要基礎學科，本課程希望藉由在課堂所介紹的教育心理學相關概念與理論，以及師資生反思自己本身的學習經驗，運用教師和學生二個角度，來幫助自己成為專家型教師。具體目標如下： 1.能了解學生的身心發展、以及個別差異。 2.能了解學生的思維、學習、記憶和動機的歷程和概念。 3.結合理論概念與個人學習經驗，設計或提出適合學生學習的班級環境或教學策略。",
+    "goals": [
+        "使學生了解未來教學對象之身心發展。",
+        "使學生認識各種學習理論的基礎與應用。",
+        "培養學生了解未來教學對象的個別差異現象。",
+        "建立學生結合教育心理學理論與實務的能力。",
+        "培養學生關心教育心理學議題的興趣。"
+    ],
+    "syllabus": "本課程為 16+2 週（第17週為期末考）\n\n Chapter 01    緒論  Slavin (2018). Chap. 1\n\n Chapter 02    教育心理學的研究方法  Slavin (2018). Chap. 1\n\n Chapter 03    行為取向的學習理論  Slavin (2018). Chap. 5\n\n Chapter 04    個體發展與教育  Slavin (2018). Chap. 2-3\n\n Chapter 05    社會認知學習論  Slavin (2018). Chap. 5\n\n Chapter 06    道德行為與教育  Slavin (2018). Chap. 3\n\n Chapter 07    認知取向的學習理論  Slavin (2018). Chap. 6\n\n Chapter 08    動機   Slavin (2018). Chap. 9\n\n Chapter 09    個別差異   Slavin (2018). Chap. 4\n\n Chapter 10    學校社會歷程\n\n Chapter 11    心理健康        \n\n\\* Chapter 12   測量與評鑑  Slavin (2018). Chap. 10\n\n\\* Chapter 13   有效的一課與建構主義教學  Slavin (2018). Chaps. 7, 8",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "教師講授"
+        },
+        {
+            "type": "討論法",
+            "note": "小組討論"
+        },
+        {
+            "type": "媒體融入教學",
+            "note": "影片賞析與討論"
+        }
+    ],
+    "grading": [
+        {
+            "type": "期中考",
+            "weight": 40,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 50,
+            "note": "（考試時使用手機、頭或嘴有不正常動作等也視為作弊。0分）"
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 5,
+            "note": ""
+        },
+        {
+            "type": "出席",
+            "weight": 5,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

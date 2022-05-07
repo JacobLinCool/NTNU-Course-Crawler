@@ -1,0 +1,72 @@
+{
+    "year": 107,
+    "term": 2,
+    "name": "量化語料庫語言學特論",
+    "teachers": [
+        "陳正賢"
+    ],
+    "department": "LM21",
+    "code": "ENC2056",
+    "credit": 3,
+    "serial": 1601,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 5,
+            "from": 2,
+            "to": 4,
+            "campus": "本部",
+            "classroom": "雲201"
+        }
+    ],
+    "programs": [],
+    "comment": "上課教室在雲和街大樓二樓，地址為雲和街1號(位於雲和小火鍋斜對面、Cafe a la mode正對面)，從師大側門右轉看見Starbucks右轉進入巷子步行約2分鐘(130公尺)，右手邊就會看到雲和街大樓，亦可使用Google Maps APP查詢位置。請同學使用學生證感應，進出雲和街上課教室。",
+    "restrict": "◎課程不開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "The objective of this course is to introduce students to a range of topics and research methods in quantitative corpus linguistics, including association models on collocation and collostruction, predictive models/classifiers on semantic profiles as well as other basic exploratory methods (e.g. cluster analysis). The topics will cover corpus-based linguistic analyses on different sub-disciplines, including lexis (collocations), phraseology (lexical bundles and multiword expressions), syntax (patterns and alternations), semantics (lexical relations), semantic change (grammaticalization), and language ideology (semantic prosody and keywords).",
+    "goals": [
+        "To introduce students to the current trends in corpus linguistics",
+        "To introduce students to the quantitative methods in corpus linguistics"
+    ],
+    "syllabus": "Instructor: Alvin C.-H. Chen 陳正賢\n\nE-mail: alvinworks@gmail.com\n\nOffice: R720, Cheng Building\n\nClass hours: Friday morning\n\n**_Topics on Quantitative Corpus Linguistics_**\n\n(Tentative syllabus)\n\nFeb 2019\n\n**Course Description**\n\nThe objective of this course is to introduce students to a range of topics and research methods in quantitative corpus linguistics, including association models on collocation and collostruction, predictive models/classifiers on semantic profiles as well as other basic exploratory methods (e.g. cluster analysis). The topics will cover corpus-based linguistic analyses on different sub-disciplines, including lexis (collocations), phraseology (lexical bundles and multiword expressions), syntax (patterns and alternations), semantics (lexical relations), semantic change (grammaticalization), and language ideology (semantic prosody and keywords).\n\n**Grading Policies**\n\n*   Class Presentations: 30%\n*   Final Project: 40%\n*   Accessible Summaries: 30%\n\n**Topics and Tentative Schedules**\n\n_(Note: Papers marked with_ ¨ _are for in-class presentations. Those marked with_ Ø _are for references; they may not be discussed during the class, or may only be briefly discussed in lecture notes. Normally we would discuss one complete study and half of the next paper for each week. In other words, the dates here are only an approximation and it is very likely that the discussion of one paper will be split in two consecutive weeks.)_\n\n**Week**\n\n**Date**\n\n**Topics**\n\n**Readings**\n\n0222\n\nOrientation\n\n0301\n\n**Holiday**\n\n0308\n\n*   Fundamentals: Quantitative Corpus Linguistics\n\n*   Fundamentals: Theoretical framework: usage-based grammar\n\n*   Gries, Stefan. 2017. Quantitative corpus linguistics with R. 2nd ed. London & New York: Routledge, Taylor & Francis Group. (Ch1-2).\n\n*   Croft, W., & Cruse, D. A. (2004). Cognitive linguistics. Cambridge University Press. (Ch11: Usage-based Grammar)\n\n0315\n\n*   Lexicon: Collocation\n\n*   Gablasova, D., Brezina, V., & McEnery, T. (2017). Collocations in corpus‐based language learning research: Identifying, comparing, and interpreting the evidence. Language Learning, 67, 155-179.\n*   Pecina, P. (2010). Lexical association measures and collocation extraction. Language Resources and Evaluation, 44, 137-158.\n\n*   Evert, S. (2009). Corpora and collocations. In A. Ludeling & M. Kyto (Eds.), Corpus linguistics: An international handbook (Vol. 2, pp. 1212-1248). Berlin: Mouton De Gruyter.\n\n0322\n\n*   Lexicon: Directionality\n\n*   Lexicon: Lexical bundles\n\n*   Gries, Stefan. 2015. 50-something years of work on collocations: what is or should be next … In Sebastian Hoffmann, Bettina Fischer-Starcke, & Andrea Sand (eds.), Current issues in phraseology, 135-164. Amsterdam & Philadelphia: John Benjamins.\n\n*   Biber, D., Conrad, S., & Cortes, V. (2004). If you look at ...: Lexical bundles in university teaching and textbooks. Applied Linguistics, 25(3), 371-405.\n\n0329\n\n*   Constructions: Collocation methods: Phraseology and Multiword Expressions\n\n*   Wei, N., & Li, J. (2013). A new computing method for extracting contiguous phraseological sequences from academic text corpora. International Journal of Corpus Linguistics, 18(4), 506-535.\n\n0405\n\n**Holiday**\n\n0412\n\n*   Constructions: Collostruction Analysis\n\n*   Stefanowitsch, A., & Gries, S. T. (2003). Collostructions: Investigating the interaction of words and constructions. International Journal of Corpus Linguistics, 8, 209-243\n\n0419\n\n**Midterm**\n\n**Due for Annotated Bibliography**\n\n0426\n\n*   Constructions: Covarying Collexeme Analysis\n\n*   Constructions: Distinctive Collexeme Analysis\n\n*   Stefanowitsch, Anatol & Stefan Th. Gries. 2005. Covarying collexemes. Corpus Linguistics and Linguistic Theory 1(1). 1-43.\n*   Gries, S. T., & Stefanowitsch, A. (2004b). Extending collostructional analysis: A corpus-based perspective on alternations'. International journal of corpus linguistics, 9(1), 97-129.\n\n0503\n\n*   Meaning: Polysemy\n\n*   Divjak, Dagmar S. & Stefan Th. Gries. 2006. Ways of trying in Russian: clustering behavioral profiles. Corpus Linguistics and Linguistic Theory 2(1). 23-60.\n\n*   Gries, Stefan. 2010. Behavioral profiles: A fine-grained and quantitative approach in corpus-based lexical semantics. The Mental Lexicon 5(3): 323-346.\n\n0510\n\n*   Meaning: Antonymy and Synonymy\n\n*   Gries, Stefan Th. & Naoki Otani. 2009. Behavioral profiles: a corpus-based perspective on synonymy and antonymy. ICAME Journal 34. 121-150.\n\n0517\n\n*   Semantic Change: Grammaticalization\n\n*   Gries, S., & Hilpert, M. (2008). The identification of stages in diachronic data: variability-based neighbour clustering. Corpora, 3(1), 59-81.\n\n0524\n\n*   Discourse: Semantic Prosody\n\n*   Xiao, R., & McEnery, T. (2006). Collocation, semantic prosody, and near synonymy: A cross-linguistic perspective. Applied Linguistics, 27(1), 103-129.\n\n*   Hunston, S. (2007). Semantic prosody revisited. International Journal of Corpus Linguistics, 12(2), 249-268.\n\n0531\n\n*   Discourse: Keyword Analysis\n\n*   Rayson, P. (2008). From key words to key semantic domains. International Journal of Corpus Linguistics, 13(4), 519-549.\n\n*   Pojanapunya and Todd. (2018). Log-likelihood and odds ratio: Keyness statistics for different purposes of keyword analysis. Corpus Linguistics and Linguistic Theory 14(1): 133-167.\n\n0607\n\n**Holiday**\n\n0614\n\n**Final Project**\n\n**Oral Presentation**\n\n0621\n\n**Final Project**\n\n**Oral Presentation**\n\n**Research** **Project**\n\nStudents are expected to follow the schedule to complete their final project:\n\n*   Research Proposal (Week 1-5)\n*   Research Question, Hypothesis, and Methodology (Week 7)\n*   Progress Report and Annotated Bibliography (Week 12)\n*   Research Proposal Presentation (Week 17)\n*   Research Proposal in Print (End of Semester)\n\n**Accessible Summaries**\n\n1.  After the discussion of each presented paper, please write up an Accessible Summary for the paper. Presenters do NOT have to submit the Accessible Summary for the paper they present.\n2.  Please follow [the instructions and guidelines for Accessible Summaries](https://www.dropbox.com/s/k1tt9vlrwuj3jhq/AccessibleSummary_Instructions.docx?dl=0).\n3.  Please use the [MS-DOC template](https://www.dropbox.com/s/tnpplbqw8vltaqu/Accessible_Summary_Template.docx?dl=0) for Accessible Summaries.",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": "Student paper presentation"
+        },
+        {
+            "type": "專題研究",
+            "note": "Final project"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 30,
+            "note": "Summary & Critique"
+        },
+        {
+            "type": "報告",
+            "weight": 30,
+            "note": "Final Project Presentation"
+        },
+        {
+            "type": "專題",
+            "weight": 40,
+            "note": "Final Project"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

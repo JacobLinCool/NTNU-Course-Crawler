@@ -1,0 +1,64 @@
+{
+    "year": 109,
+    "term": 2,
+    "name": "微分方程特論",
+    "teachers": [
+        "陳賢修"
+    ],
+    "department": "SU40",
+    "code": "MAU0023",
+    "credit": 3,
+    "serial": 2775,
+    "group": "A",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 3,
+            "from": 6,
+            "to": 8,
+            "campus": "公館",
+            "classroom": "Ｅ101"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "2",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程承接微分方程導論，介紹微分方程的一些基本理論，如邊界值問題、非線性方程之定性問題、解的存在性及唯一性等。",
+    "goals": [
+        "分析微分方程解之性質",
+        "認識其他領域所推導出的方程並瞭解在數學分析的背後原始問題的意義"
+    ],
+    "syllabus": "1.      主題一:  ( 1 week )\n\n一階微分方程解之存在唯一性定理的證明。初值問題的解與初值條件或與非齊次項之關連性。\n\n2.      主題二: ( 6 weeks )\n\n非線性方程式：相平面，路徑，自主(automomous)方程，平衡解之線性化方程，\n\n平衡解之穩定性分析及及其分類，Liapunov 方法，極限圈與週期解，典型之生態\n\n族群競爭模型系統之介紹。\n\n3.      主題三: ( 5 weeks )\n\n   Sturm-Liouville 邊界值問題，非齊次邊界直問題及Fourier Series。\n\n4.      主題四: ( 3 weeks )\n\n基本偏微分方程式: 熱方程，波方程，拉普拉斯方程。",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "上課以課堂講演為主，多提供實例以印證理論。"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 10,
+            "note": "上習演課討論"
+        },
+        {
+            "type": "出席",
+            "weight": 5,
+            "note": ""
+        },
+        {
+            "type": "其他",
+            "weight": 85,
+            "note": "三次考試"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

@@ -1,0 +1,82 @@
+{
+    "year": 109,
+    "term": 1,
+    "name": "專題討論（一）",
+    "teachers": [
+        "林冠慧"
+    ],
+    "department": "SD46",
+    "code": "EED0023",
+    "credit": 1,
+    "serial": 2666,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 1,
+            "from": 8,
+            "to": 9,
+            "campus": "公館",
+            "classroom": "行409"
+        }
+    ],
+    "programs": [],
+    "comment": "要求具備相關基礎課程",
+    "restrict": "◎課程不開放上修",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 2,
+    "description": "本課程之目的在於協助並督導同學進行博士論文研究、訓練發表技能、以及培養參與學術討論文的研究興趣與能力。",
+    "goals": [
+        "協助並督導同學進行博士論文研究",
+        "訓練發表技能",
+        "培養參與學術討論文的研究興趣與能力"
+    ],
+    "syllabus": "  \n[教學進度與主題附件](https://ap.itc.ntnu.edu.tw/NtnuFileShare/file.do?action=dl&gno=130c331ae98a4c099964f01bc0850573&fno=e2a2d6b8aa354dedb094083cc3b29d1e)",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "邀請環境教育研究領域相關之學者演講(每位同學找一位，需和自身研究領域相符)。"
+        },
+        {
+            "type": "討論法",
+            "note": "同學發表研究進度與成果、相互討論與評論。"
+        },
+        {
+            "type": "合作學習",
+            "note": "共同籌辦小型研討會或工作坊，激發研究興趣與視野。"
+        },
+        {
+            "type": "專題研究",
+            "note": "進行專題研究，提升論文發表能力與素養。"
+        }
+    ],
+    "grading": [
+        {
+            "type": "課堂討論參與",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "出席",
+            "weight": 20,
+            "note": ""
+        },
+        {
+            "type": "報告",
+            "weight": 20,
+            "note": ""
+        },
+        {
+            "type": "專題",
+            "weight": 30,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

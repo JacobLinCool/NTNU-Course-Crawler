@@ -1,0 +1,1183 @@
+[
+    {
+        "year": 109,
+        "term": 1,
+        "name": "地球科學概論甲（含實習）",
+        "teachers": [
+            "王重傑",
+            "葉恩肇",
+            "李悅寧",
+            "葉庭光"
+        ],
+        "department": "SU44",
+        "code": "ESU0218",
+        "credit": 4,
+        "serial": 3021,
+        "group": "A",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 6,
+                "to": 9,
+                "campus": "公館",
+                "classroom": "Ｓ401"
+            }
+        ],
+        "programs": [],
+        "comment": "第一、二階段限生科系選修，之後加退選期間開放除地科系外的學生選修。此為自然領域師培生必備科目之一，為配合生科系學生多數可修習時間開設。",
+        "restrict": "◎限外系修習",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 1,
+        "name": "地球科學概論甲（含實習）",
+        "teachers": [
+            "黃婉如",
+            "曾瑋玲",
+            "賴昱銘",
+            "鄭志文"
+        ],
+        "department": "SU44",
+        "code": "ESU0218",
+        "credit": 4,
+        "serial": 3022,
+        "group": "B",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 6,
+                "to": 9,
+                "campus": "公館",
+                "classroom": "Ｓ601"
+            }
+        ],
+        "programs": [],
+        "comment": "第一、二階段限物理系選修，之後加退選期間開放除地科系外的學生選修。此為自然領域師培生必備科目之一，為配合物理系學生多數可修習時間開設。",
+        "restrict": "◎限外系修習",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 1,
+        "name": "數值天氣預報",
+        "teachers": [
+            "徐月娟"
+        ],
+        "department": "SU44",
+        "code": "ESC0009",
+        "credit": 3,
+        "serial": 3023,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 2,
+                "to": 4,
+                "campus": "公館",
+                "classroom": "Ｃ409"
+            }
+        ],
+        "programs": [],
+        "comment": "本門課程為中階以上課程，適合大三以上學生修習，以作為探究研究所之先修課程，同時也開放碩士班無此課程基礎之學生選修。",
+        "restrict": "◎限大三大四 ◎限碩一碩二碩三以上修習",
+        "form_s": "",
+        "classes": "9",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 1,
+        "name": "氣候學",
+        "teachers": [
+            "曾莉珊"
+        ],
+        "department": "SU44",
+        "code": "ESC0010",
+        "credit": 3,
+        "serial": 3024,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 5,
+                "from": 3,
+                "to": 4,
+                "campus": "公館",
+                "classroom": "Ｃ409"
+            },
+            {
+                "day": 5,
+                "from": 6,
+                "to": 6,
+                "campus": "公館",
+                "classroom": "Ｃ409"
+            }
+        ],
+        "programs": [
+            "環境監測學程"
+        ],
+        "comment": "本門課程為中階以上課程，適合大三以上學生修習，以作為探究研究所之先修課程，同時也開放碩士班無此課程基礎之學生選修。",
+        "restrict": "◎限大三大四 ◎限碩一碩二碩三以上修習◎必須先修過【MAU0180  微積分乙（一）】、【MAU0181  微積分乙（二）】、【PHU0251  普通物理乙（一）】、【PHU0252  普通物理乙（二）】",
+        "form_s": "",
+        "classes": "9",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 1,
+        "name": "電波天文學",
+        "teachers": [
+            "管一政"
+        ],
+        "department": "SU44",
+        "code": "ESC0022",
+        "credit": 3,
+        "serial": 3025,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 5,
+                "from": 7,
+                "to": 9,
+                "campus": "公館",
+                "classroom": "Ｂ413"
+            }
+        ],
+        "programs": [],
+        "comment": "本門課程為中高階課程，需要之數理運算較一般課程多，所以適合大四以上學生修習。",
+        "restrict": "◎限大四 ◎限碩一碩二碩三以上修習",
+        "form_s": "",
+        "classes": "9",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 1,
+        "name": "洋流學",
+        "teachers": [
+            "吳朝榮"
+        ],
+        "department": "SU44",
+        "code": "ESC0122",
+        "credit": 3,
+        "serial": 3026,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 7,
+                "to": 9,
+                "campus": "公館",
+                "classroom": "Ｓ604"
+            }
+        ],
+        "programs": [],
+        "comment": "本門課程為中階以上課程，適合大三以上學生修習，以作為探究研究所之先修課程，同時也開放碩士班無此課程基礎之學生選修。",
+        "restrict": "◎限大三大四 ◎限碩一碩二碩三以上修習",
+        "form_s": "",
+        "classes": "9",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 1,
+        "name": "地球化學",
+        "teachers": [
+            "謝奈特"
+        ],
+        "department": "SU44",
+        "code": "ESC0129",
+        "credit": 3,
+        "serial": 3027,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 7,
+                "to": 9,
+                "campus": "公館",
+                "classroom": "Ｃ403"
+            }
+        ],
+        "programs": [],
+        "comment": "本門課程為中階以上課程，適合大三以上學生修習，以作為探究研究所之先修課程，同時也開放碩士班無此課程基礎之學生選修。",
+        "restrict": "◎限大三大四 ◎限碩一碩二碩三以上修習",
+        "form_s": "",
+        "classes": "9",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 1,
+        "name": "古地磁學",
+        "teachers": [
+            "李德貴"
+        ],
+        "department": "SU44",
+        "code": "ESC0237",
+        "credit": 3,
+        "serial": 3028,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 5,
+                "from": 2,
+                "to": 4,
+                "campus": "公館",
+                "classroom": "Ｃ403"
+            }
+        ],
+        "programs": [],
+        "comment": "本門課程為中階以上課程，適合大三以上學生修習，以作為探究研究所之先修課程，同時也開放碩士班無此課程基礎之學生選修。",
+        "restrict": "◎限大三大四 ◎限碩一碩二碩三以上修習",
+        "form_s": "",
+        "classes": "9",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 1,
+        "name": "地球科學資料處理",
+        "teachers": [
+            "林佩瑩"
+        ],
+        "department": "SU44",
+        "code": "ESC9001",
+        "credit": 3,
+        "serial": 3029,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 2,
+                "to": 4,
+                "campus": "公館",
+                "classroom": "Ｃ403"
+            }
+        ],
+        "programs": [],
+        "comment": "本門課程為中階以上課程，適合大三以上學生修習，以作為探究研究所之先修課程，同時也開放碩士班無此課程基礎之學生選修。",
+        "restrict": "◎限大三大四 ◎限碩一碩二碩三以上修習",
+        "form_s": "",
+        "classes": "9",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 1,
+        "name": "全球強震特論",
+        "teachers": [
+            "陳卉瑄"
+        ],
+        "department": "SU44",
+        "code": "ESC9003",
+        "credit": 3,
+        "serial": 3030,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 7,
+                "to": 9,
+                "campus": "公館",
+                "classroom": "Ｃ403"
+            }
+        ],
+        "programs": [],
+        "comment": "本門課程為中階以上課程，適合大三以上學生修習，以作為探究研究所之先修課程，同時也開放碩士班無此課程基礎之學生選修。",
+        "restrict": "◎限大三大四 ◎限碩一碩二碩三以上修習",
+        "form_s": "",
+        "classes": "9",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 1,
+        "name": "礦物學（含實習）",
+        "teachers": [
+            "賴昱銘"
+        ],
+        "department": "SU44",
+        "code": "ESC9008",
+        "credit": 3,
+        "serial": 3031,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 5,
+                "from": 2,
+                "to": 4,
+                "campus": "公館",
+                "classroom": "Ｃ401"
+            }
+        ],
+        "programs": [
+            "環境監測學程"
+        ],
+        "comment": "本門課程為中低階以上課程，適合大二以上學生修習，以作為中階課程之銜接及探究研究所之先修課程，同時也開放碩士班無此課程基礎之學生選修。",
+        "restrict": "◎限大二大三大四 ◎限碩一碩二碩三以上修習",
+        "form_s": "",
+        "classes": "9",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 1,
+        "name": "構造地質學（含實習）",
+        "teachers": [
+            "葉恩肇"
+        ],
+        "department": "SU44",
+        "code": "ESC9013",
+        "credit": 3,
+        "serial": 3032,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 16,
+                "to": 11,
+                "campus": "公館",
+                "classroom": "Ｃ401"
+            }
+        ],
+        "programs": [
+            "環境監測學程"
+        ],
+        "comment": "本門課程為中階以上課程，適合大三以上學生修習，以作為探究研究所之先修課程，同時也開放碩士班無此課程基礎之學生選修。",
+        "restrict": "◎限大三大四 ◎限碩一碩二碩三以上修習",
+        "form_s": "",
+        "classes": "9",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 1,
+        "name": "天氣學",
+        "teachers": [
+            "王重傑"
+        ],
+        "department": "SU44",
+        "code": "ESC9015",
+        "credit": 3,
+        "serial": 3033,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 4,
+                "to": 4,
+                "campus": "公館",
+                "classroom": "Ｃ409"
+            },
+            {
+                "day": 4,
+                "from": 6,
+                "to": 7,
+                "campus": "公館",
+                "classroom": "Ｃ409"
+            }
+        ],
+        "programs": [
+            "環境監測學程"
+        ],
+        "comment": "本門課程為中階以上課程，適合大三以上學生修習，以作為探究研究所之先修課程，同時也開放碩士班無此課程基礎之學生選修。",
+        "restrict": "◎限大三大四 ◎限碩一碩二碩三以上修習",
+        "form_s": "",
+        "classes": "9",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 1,
+        "name": "石油地質學",
+        "teachers": [
+            "李通藝"
+        ],
+        "department": "SU44",
+        "code": "ESC9018",
+        "credit": 3,
+        "serial": 3034,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 7,
+                "to": 9,
+                "campus": "公館",
+                "classroom": "Ｃ401"
+            }
+        ],
+        "programs": [],
+        "comment": "本門課程為中階以上課程，適合大三以上學生修習，以作為探究研究所之先修課程，同時也開放碩士班無此課程基礎之學生選修。",
+        "restrict": "◎限大三大四 ◎限碩一碩二碩三以上修習",
+        "form_s": "",
+        "classes": "9",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 1,
+        "name": "海洋地質學",
+        "teachers": [
+            "李通藝",
+            "葉孟宛"
+        ],
+        "department": "SU44",
+        "code": "ESC9019",
+        "credit": 3,
+        "serial": 3035,
+        "group": "",
+        "quota": {
+            "limit": 15,
+            "additional": 3
+        },
+        "schedule": [
+            {
+                "day": 5,
+                "from": 7,
+                "to": 9,
+                "campus": "公館",
+                "classroom": "Ｃ401"
+            }
+        ],
+        "programs": [],
+        "comment": "本課程因須執行國際野外，經費有限，故人數須限縮至15人、3張授權碼、三校各1人；中階以上課程，適合大三以上學生修習，以作為探究研究所之先修課程，同時也開放碩士班無此課程基礎之學生選修。",
+        "restrict": "◎限大三大四 ◎限碩一碩二碩三以上修習",
+        "form_s": "",
+        "classes": "9",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 1,
+        "name": "沉積與地層學",
+        "teachers": [
+            "李通藝"
+        ],
+        "department": "SU44",
+        "code": "ESC9021",
+        "credit": 3,
+        "serial": 3036,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 2,
+                "to": 4,
+                "campus": "公館",
+                "classroom": "Ｃ401"
+            }
+        ],
+        "programs": [
+            "環境監測學程"
+        ],
+        "comment": "本門課程為中階以上課程，適合大三以上學生修習，以作為探究研究所之先修課程，同時也開放碩士班無此課程基礎之學生選修。",
+        "restrict": "◎限大三大四 ◎限碩一碩二碩三以上修習",
+        "form_s": "",
+        "classes": "9",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 1,
+        "name": "新興海洋科學發展趨勢",
+        "teachers": [
+            "吳朝榮",
+            "鄭志文",
+            "葉庭光"
+        ],
+        "department": "SU44",
+        "code": "ESC9025",
+        "credit": 3,
+        "serial": 3037,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 7,
+                "to": 9,
+                "campus": "公館",
+                "classroom": "Ｓ602"
+            }
+        ],
+        "programs": [],
+        "comment": "本門課程為中階以上課程，適合大三以上學生修習，以作為探究研究所之先修課程，同時也開放碩士班無此課程基礎之學生選修。",
+        "restrict": "◎限大三大四 ◎限碩一碩二碩三以上修習",
+        "form_s": "",
+        "classes": "9",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 1,
+        "name": "海洋物理學概論",
+        "teachers": [
+            "鄭志文"
+        ],
+        "department": "SU44",
+        "code": "ESC9026",
+        "credit": 3,
+        "serial": 3038,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 2,
+                "to": 4,
+                "campus": "公館",
+                "classroom": "Ｓ307"
+            }
+        ],
+        "programs": [],
+        "comment": "本門課程為中階以上課程，適合大三以上學生修習，以作為探究研究所之先修課程，同時也開放碩士班無此課程基礎之學生選修。",
+        "restrict": "◎限大三大四 ◎限碩一碩二碩三以上修習",
+        "form_s": "",
+        "classes": "9",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 1,
+        "name": "地球系統科學實地研究",
+        "teachers": [
+            "曾莉珊",
+            "葉恩肇",
+            "曾瑋玲",
+            "葉庭光"
+        ],
+        "department": "SU44",
+        "code": "ESC9035",
+        "credit": 3,
+        "serial": 3039,
+        "group": "",
+        "quota": {
+            "limit": 36,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 16,
+                "to": 11,
+                "campus": "公館",
+                "classroom": "Ｓ603"
+            }
+        ],
+        "programs": [],
+        "comment": "本門課程為中階以上課程，適合大三以上學生修習，以作為探究研究所之先修課程，同時也開放碩士班無此課程基礎之學生選修。",
+        "restrict": "◎限大三大四 ◎限碩一碩二碩三以上修習",
+        "form_s": "",
+        "classes": "9",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 1,
+        "name": "地球科學產學實務與實習（二）",
+        "teachers": [
+            "葉恩肇",
+            "葉庭光"
+        ],
+        "department": "SU44",
+        "code": "ESC9038",
+        "credit": 3,
+        "serial": 3040,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 16,
+                "to": 11,
+                "campus": "公館",
+                "classroom": "教室自排"
+            }
+        ],
+        "programs": [],
+        "comment": "教室:S801-2；",
+        "restrict": "◎必須先修過【ESU0219  地球科學產學實務與實習（一）】",
+        "form_s": "",
+        "classes": "9",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 1,
+        "name": "體育",
+        "teachers": [
+            "林雯雯"
+        ],
+        "department": "SU44",
+        "code": "00UP001",
+        "credit": 1,
+        "serial": 3041,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 7,
+                "to": 8,
+                "campus": "公館",
+                "classroom": "操場二"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "1",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 1,
+        "name": "地球科學概論（含實習）",
+        "teachers": [
+            "葉庭光"
+        ],
+        "department": "SU44",
+        "code": "ESU0177",
+        "credit": 2,
+        "serial": 3042,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 5,
+                "from": 7,
+                "to": 8,
+                "campus": "公館",
+                "classroom": "Ｓ601"
+            }
+        ],
+        "programs": [
+            "環境監測學程"
+        ],
+        "comment": "",
+        "restrict": "",
+        "form_s": "1",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 1,
+        "name": "普通地質學（含實習）",
+        "teachers": [
+            "葉恩肇",
+            "賴昱銘"
+        ],
+        "department": "SU44",
+        "code": "ESU0180",
+        "credit": 3,
+        "serial": 3043,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 2,
+                "to": 4,
+                "campus": "公館",
+                "classroom": "Ｓ601"
+            }
+        ],
+        "programs": [
+            "環境監測學程"
+        ],
+        "comment": "",
+        "restrict": "",
+        "form_s": "1",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 1,
+        "name": "應用數學（一）",
+        "teachers": [
+            "林月珍"
+        ],
+        "department": "SU44",
+        "code": "ESU0023",
+        "credit": 3,
+        "serial": 3044,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 2,
+                "to": 4,
+                "campus": "公館",
+                "classroom": "Ｃ006"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 1,
+        "name": "大氣熱力學",
+        "teachers": [
+            "簡芳菁"
+        ],
+        "department": "SU44",
+        "code": "ESU0049",
+        "credit": 3,
+        "serial": 3384,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 7,
+                "to": 9,
+                "campus": "公館",
+                "classroom": "Ｅ301"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 1,
+        "name": "太陽系",
+        "teachers": [
+            "曾瑋玲"
+        ],
+        "department": "SU44",
+        "code": "ESU0095",
+        "credit": 3,
+        "serial": 3045,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 5,
+                "from": 2,
+                "to": 4,
+                "campus": "公館",
+                "classroom": "Ｃ006"
+            }
+        ],
+        "programs": [
+            "天文重力學程",
+            "太陽能源與工程學程"
+        ],
+        "comment": "初中階以上課程，適合大二以上學生修習，以作為中階課程銜接之先修課程。",
+        "restrict": "◎限大二大三大四修習",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 1,
+        "name": "環境地質學",
+        "teachers": [
+            "米泓生"
+        ],
+        "department": "SU44",
+        "code": "ESU0098",
+        "credit": 3,
+        "serial": 3046,
+        "group": "",
+        "quota": {
+            "limit": 35,
+            "additional": 3
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 7,
+                "to": 9,
+                "campus": "公館",
+                "classroom": "Ｓ603"
+            }
+        ],
+        "programs": [],
+        "comment": "初中階課程，適合大二以上學生修習。  本課程因含野外考察行程，考量一輛大型巴士載客人數限制，且因分車而造成教師與學生不同車的情形，不利教學，以及增加經費支出，故而調整修課人數上限至40人",
+        "restrict": "◎限大二大三大四修習",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 1,
+        "name": "海洋生物概論",
+        "teachers": [
+            "葉孟宛"
+        ],
+        "department": "SU44",
+        "code": "ESU0143",
+        "credit": 2,
+        "serial": 3047,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 6,
+                "to": 7,
+                "campus": "公館",
+                "classroom": "Ｓ403"
+            }
+        ],
+        "programs": [],
+        "comment": "本門課程為初中階以上課程，適合大二以上學生修習，以作為中階課程銜接之先修課程。",
+        "restrict": "◎限大二大三大四修習",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 1,
+        "name": "地球物理通論（含實習）",
+        "teachers": [
+            "陳卉瑄",
+            "林佩瑩"
+        ],
+        "department": "SU44",
+        "code": "ESU0184",
+        "credit": 3,
+        "serial": 3048,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 6,
+                "to": 8,
+                "campus": "公館",
+                "classroom": "Ｅ301"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 1,
+        "name": "星系天文學",
+        "teachers": [
+            "陳林文"
+        ],
+        "department": "SU44",
+        "code": "ESU0194",
+        "credit": 3,
+        "serial": 3049,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 0
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 7,
+                "to": 9,
+                "campus": "公館",
+                "classroom": "Ｂ413"
+            }
+        ],
+        "programs": [
+            "天文重力學程"
+        ],
+        "comment": "需先修過大一的天文學後，才適合修習本門課程。",
+        "restrict": "◎限大二大三大四修習◎必須先修過【ESU0178  天文學（含實習）】",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 1,
+        "name": "大氣觀測（含實習）",
+        "teachers": [
+            "曾莉珊"
+        ],
+        "department": "SU44",
+        "code": "ESU0199",
+        "credit": 3,
+        "serial": 3050,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 5,
+                "from": 7,
+                "to": 9,
+                "campus": "公館",
+                "classroom": "Ｃ403"
+            }
+        ],
+        "programs": [
+            "太陽能源與工程學程"
+        ],
+        "comment": "需先修過大一的大氣科學概論後，才適合修習本門課程。",
+        "restrict": "◎限大二大三大四修習◎必須先修過【ESU0179  大氣科學概論（含實習）】",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 1,
+        "name": "大氣動力學（一）",
+        "teachers": [
+            "陳正達"
+        ],
+        "department": "SU44",
+        "code": "ESU0058",
+        "credit": 3,
+        "serial": 3051,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 8,
+                "to": 9,
+                "campus": "公館",
+                "classroom": "Ｃ409"
+            },
+            {
+                "day": 5,
+                "from": 9,
+                "to": 9,
+                "campus": "公館",
+                "classroom": "Ｃ409"
+            }
+        ],
+        "programs": [
+            "太陽能源與工程學程"
+        ],
+        "comment": "本門課程為中階課程，適合大三以上學生修習。",
+        "restrict": "◎限大三大四修習",
+        "form_s": "3",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 1,
+        "name": "地球科學產學實務與實習（一）",
+        "teachers": [
+            "葉恩肇",
+            "葉庭光"
+        ],
+        "department": "SU44",
+        "code": "ESU0219",
+        "credit": 3,
+        "serial": 3052,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 16,
+                "to": 11,
+                "campus": "公館",
+                "classroom": "Ｓ101"
+            }
+        ],
+        "programs": [],
+        "comment": "教室:S801-2；本門課程為配合暑期產學合作實習課程，故適合修畢5大領域必修課程之大三以上學生修習。",
+        "restrict": "◎限大三大四修習",
+        "form_s": "3",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 1,
+        "name": "地球科學教材教法（教）",
+        "teachers": [
+            "張俊彥"
+        ],
+        "department": "SU44",
+        "code": "ESUE001",
+        "credit": 2,
+        "serial": 3053,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 1,
+                "to": 2,
+                "campus": "公館",
+                "classroom": "教室自排"
+            }
+        ],
+        "programs": [],
+        "comment": "本門課程為教育學程課程，適合修畢部分或即將修畢教育學程之學生修習。",
+        "restrict": "◎限大三大四修習",
+        "form_s": "3",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 1,
+        "name": "地球科學教學實習（一）（教）",
+        "teachers": [
+            "許瑛玿",
+            "楊芳瑩"
+        ],
+        "department": "SU44",
+        "code": "ESUE110",
+        "credit": 2,
+        "serial": 3054,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 1,
+                "to": 4,
+                "campus": "公館",
+                "classroom": "教室自排"
+            }
+        ],
+        "programs": [],
+        "comment": "本門課程為教育學程課程，適合修畢或即將修畢教育學程之學生修習。",
+        "restrict": "◎限大四修習",
+        "form_s": "4",
+        "classes": "",
+        "dept_group": ""
+    }
+]

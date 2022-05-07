@@ -1,0 +1,82 @@
+{
+    "year": 110,
+    "term": 2,
+    "name": "統計學",
+    "teachers": [
+        "何英奇"
+    ],
+    "department": "GU",
+    "code": "05UG020",
+    "credit": 2,
+    "serial": 957,
+    "group": "",
+    "quota": {
+        "limit": 55,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 6,
+            "to": 7,
+            "campus": "本部",
+            "classroom": "教401"
+        }
+    ],
+    "programs": [],
+    "comment": "心輔系學士班學生修習通識課程「心理學」、「統計學」不計入畢業學分。",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 2,
+    "description": "",
+    "goals": [
+        "了解描述統計學的基本概念、原理與方法",
+        "了解推論的基本概念、原理與方法",
+        "應用統計學方法於心理與教育教學與研究工作"
+    ],
+    "syllabus": "Week 1  (2/15)  課程介紹  統計學基本概念  \nWeek 2  (2/22)  統計概論、Excel 介紹  \nWeek 3  (3/1)  描述統計—集中量數 (用Excel來做描述性統計)  \nWeek 4  (3/8) 描述統計—變異量數 (用Excel來做描述性統計)  \nWeek 5  (3/15) 相對地位量數: 百分等級、標準分數   \nWeek 6  (3/22) 常態分配       \nWeek 7  (3/29)  相關分析  回歸分析  \nWeek 8  (4/5)   清明節 停課   \nWeek 9  (4/12)   期中考試  \nWeek 10  (4/19)  推論統計基本概念  \nWeek 11  (4/26)  中央極限定理 (用Excel模擬)  \nWeek 12  (5/3)  一個母數的假設考驗與區間估計     \nWeek 13  (5/10)  兩組平均數的差異檢定  \nWeek 14  (5/17 )  google 表單設計、網路資料蒐集、統計分析  \nWeek 15  (5/24)   期末考試複習  \nWeek 16  (5/31)   期末考試  \nWeek 17  (6/7)  彈性補充教學\n\nWeek 18  (6/14)   彈性補充教學",
+    "methodologies": [
+        {
+            "type": "Formal lecture",
+            "note": "教師講解"
+        },
+        {
+            "type": "Group discussion",
+            "note": "師生團體討論"
+        },
+        {
+            "type": "Lab/Studio",
+            "note": "以EXCEL進行實際統計分析"
+        },
+        {
+            "type": "Media, audio, visual materials",
+            "note": "部分時間遠距教學"
+        }
+    ],
+    "grading": [
+        {
+            "type": "Assignments",
+            "weight": 15,
+            "note": "作業有可能是隨堂作或帶回家作"
+        },
+        {
+            "type": "Midterm Exam",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "Final exam",
+            "weight": 40,
+            "note": ""
+        },
+        {
+            "type": "Attendances",
+            "weight": 15,
+            "note": "本科目非常重視出席率"
+        }
+    ],
+    "prerequisite": "◎Available for junior and senior year B.A. program students (Doctoral program courses excepted) and M.A. program students.",
+    "general_core": []
+}

@@ -1,0 +1,79 @@
+{
+    "year": 110,
+    "term": 1,
+    "name": "高級衛生統計學研討",
+    "teachers": [
+        "王國川"
+    ],
+    "department": "ED05",
+    "code": "HED0022",
+    "credit": 2,
+    "serial": 356,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 4,
+            "from": 1,
+            "to": 2,
+            "campus": "本部",
+            "classroom": "誠506"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程不開放上修",
+    "form_s": "1",
+    "classes": "",
+    "dept_group": "",
+    "hours": 2,
+    "description": "",
+    "goals": [
+        "56566666666666666666666"
+    ],
+    "syllabus": "**這門課係針對博士班學生手邊資料性質的特殊統計需求開設。欲選課學生最好諮詢開課教師有關課程內容。**\n\nProfessor\n\nDr. Kuo-chang Wang\n\nPhone: 02-7734-1744\n\nEmail: wangkc@ntnu.edu.tw\n\nOffice hours: Thu 12-13pm, Wed 12-13 pm, First come, first served.\n\nAt other times by apt.\n\n**Required Course Material**\n\n**A.Book**\n\nKline, R. B. (2016). **_Principles and practice of structuralequation modeling_** (4th ed.). New York: The Guilford Press.\n\n**B.Softwares**\n\nJoreskog, K., & Sorbom, D. (1993). **_LISREL8 : Structural equation modeling with the SIMPLIS command language_**. Lincolnwood, IL: Scientific Software International.\n\nSAS Institute, Inc (2018). _**SAS/STAT(CALIS) 15.1 User's Guide**_. Cary, NC: SAS Institute, Inc.\n\n**Course Overview**\n\nThis course will build upon students’knowledge of structural equation modeling. This technique encompasses an entire family of methods, path analysis, confirmatory factor analysis, structuralregression models, latent growth models, multilevel models, and so on. An understanding of structural equation modeling will be developed by relating it to students’ previous knowledge of multiple linear regression and exploratoryfactor analysis, and expanding to allow for correlated and casually related latent constructs.\n\n**This course assumes no prior experience with this technique, and is intended as both a theoretical and practical introduction. The software package LISREL and SAS will be used to for exploring and confirming support for measurement and structural models**. Additionally,some examples using the other softwares will be provided toward the end of the semester. _In general, this course will proceed through the following topics, (1) recursive path analysis, (2) confirmatory factor analysis, (3) structural equation models, (4) structural models over time, (5) higher-order measurement models, (6) multi-group models,(7) structural means models, (8) latent variable growth curve models, and (9) multilevel models._ **Power and samples are introduced via GPower for all statistical models.**_._\n\n**Course Assessment**\n\nDoing exercises is the major party of course assessment.",
+    "methodologies": [
+        {
+            "type": "Formal lecture",
+            "note": "講授主題"
+        },
+        {
+            "type": "Group discussion",
+            "note": "問題討論"
+        },
+        {
+            "type": "Cooperative learning",
+            "note": "分組學習"
+        },
+        {
+            "type": "Lab/Studio",
+            "note": "資料分析"
+        },
+        {
+            "type": "Case studies",
+            "note": "主題研討"
+        }
+    ],
+    "grading": [
+        {
+            "type": "Assignments",
+            "weight": 70,
+            "note": "軟體操作"
+        },
+        {
+            "type": "Class discussion involvement",
+            "weight": 10,
+            "note": "結果討論"
+        },
+        {
+            "type": "Attendances",
+            "weight": 20,
+            "note": "參與學習"
+        }
+    ],
+    "prerequisite": "◎Unavailable for M.A. program students (M.A. program courses excepted) and B.A. program students.",
+    "general_core": []
+}

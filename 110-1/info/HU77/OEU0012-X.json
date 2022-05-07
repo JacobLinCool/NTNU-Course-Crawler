@@ -1,0 +1,91 @@
+{
+    "year": 110,
+    "term": 1,
+    "name": "光電電子學",
+    "teachers": [
+        "楊承山"
+    ],
+    "department": "HU77",
+    "code": "OEU0012",
+    "credit": 3,
+    "serial": 1384,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 7,
+            "to": 9,
+            "campus": "公館",
+            "classroom": "Ｓ504"
+        }
+    ],
+    "programs": [
+        "太陽能源與工程學程"
+    ],
+    "comment": "",
+    "restrict": "",
+    "form_s": "3",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "光電子學在現今的生活與科技產業已有很廣泛的應用。本課程將從基本的光電子特性與常用光電元件之發展歷史開始說明，進而再切入光學原理、半導體物理的基礎介紹，接著說明各種不同光電元件的工作原理，如光纖、發光二極體(LED)、雷射(laser)、光伏元件、太陽能電池等等。",
+    "goals": [
+        "學習波動光學與光波傳導特性",
+        "認識光電子學中之量子相關理論",
+        "學習現代光電子元件與其工作原理",
+        "認識與學習最新穎之光電子科技發展"
+    ],
+    "syllabus": "1.  Overview of the Course\n\n2.   Review of Electromagnetic Optics (一)\n\n3.   Review of Electromagnetic Optics (二)\n\n4.   Polarization Optics\n\n5.   Photonic-Crystal Optics\n\n6.   Guided-Wave Optics (一)\n\n7.   Guided-Wave Optics (二)\n\n8.   Resonator Optics\n\n9.   Laser Amplifiers\n\n10\\. Lasers\n\n11\\. Semiconductor Optics\n\n12\\. Acousto-Optics\n\n13\\. Electro-Optics\n\n14\\. Nonlinear Optics (一)\n\n15\\. Nonlinear Optics (二)\n\n16\\. Ultrafast Optics (一)\n\n17\\. Ultrafast Optics (二)\n\n18\\. Review of the Course",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "由教師講述課程"
+        },
+        {
+            "type": "討論法",
+            "note": "分組進行學生討論"
+        },
+        {
+            "type": "合作學習",
+            "note": "由各組學生彼此於報告活動中學習"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 20,
+            "note": ""
+        },
+        {
+            "type": "期中考",
+            "weight": 30,
+            "note": "共兩次期中考,各佔15%"
+        },
+        {
+            "type": "期末考",
+            "weight": 20,
+            "note": ""
+        },
+        {
+            "type": "出席",
+            "weight": 10,
+            "note": "這邊指準時出席,遲到酌量扣分."
+        },
+        {
+            "type": "報告",
+            "weight": 10,
+            "note": "口頭或書面報告"
+        },
+        {
+            "type": "其他",
+            "weight": 10,
+            "note": "印象分數"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

@@ -1,0 +1,73 @@
+{
+    "year": 110,
+    "term": 2,
+    "name": "數理統計（二）",
+    "teachers": [
+        "程毅豪"
+    ],
+    "department": "SU40",
+    "code": "MAC9033",
+    "credit": 3,
+    "serial": 2720,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 5,
+            "from": 2,
+            "to": 4,
+            "campus": "公館",
+            "classroom": "數學館310研討室"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "9",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程是研究隨機現象統計規律的一門學科。它提供統計研究與應用的理論基礎。內容包括多變量分配之介紹、極限定理、參數之估計及檢定、迴歸模型、統計量之充分性、完備性、獨立性等，期能建構推論統計學的理論基礎。",
+    "goals": [
+        "建構推論統計學的理論基礎",
+        "奠定未來資料分析應用實務之基礎"
+    ],
+    "syllabus": "延續課程 \"數理統計(一)\", 本課程將介紹統計學的基本觀念、理論及方法, 包括下列主題:\n\n1.     Comparison of estimates - optimality theory\n\n        a.     Criteria of estimation\n\n        b.     Uniformly minimum variance unbiased estimates\n\n        c.     The information theory\n\n        d.     Large sample theory: consistency, asymptotic normality and asymptotic efficiency\n\n2.     Confidence intervals\n\n        a.     The one dimensional case\n\n        b.     Confidence regions of higher dimension\n\n3.     Hypothesis testing\n\n        a.     The elements of hypothesis testing\n\n        b.    Power and sample size\n\n        c.     The Neyman-Pearson lemma\n\n        d.    Uniformly most powerful tests\n\n        e.    Likelihood ratio tests",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "講述數理統計重要概念與理論"
+        },
+        {
+            "type": "討論法",
+            "note": "討論數理統計的應用"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 25,
+            "note": "完成課堂指定作業"
+        },
+        {
+            "type": "期中考",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 35,
+            "note": ""
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 10,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

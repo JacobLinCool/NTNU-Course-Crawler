@@ -1,0 +1,66 @@
+{
+    "year": 108,
+    "term": 2,
+    "name": "實變分析（二）",
+    "teachers": [
+        "朱亮儒"
+    ],
+    "department": "SU40",
+    "code": "MAC0088",
+    "credit": 3,
+    "serial": 2648,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 1,
+            "from": 2,
+            "to": 4,
+            "campus": "公館",
+            "classroom": "數學館310研討室"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "",
+    "classes": "9",
+    "dept_group": "",
+    "hours": 3,
+    "description": "介紹高等分析理論，作為進階分析學之必備基礎",
+    "goals": [
+        "培養數學專業能力",
+        "銜接高等分析課程",
+        "提升抽象思考層次",
+        "以高觀點詮釋數學與其他學科連結"
+    ],
+    "syllabus": "1\\. Repeated Integration\n\n   Fubini theorem, Tonelli theorem, Convolution\n\n2\\. Differentiation\n\n    Indefinite integral, Absolute continuous, Lebesgue differentiation theorem\\*, Vitali covering lemma\\*, Lebesgue differentiation theorem\\*, Hardy-Littlewood theorem\\*,  \n\n    Monotone functions,  Convex functions\n\n3\\. Lp-Classes\n\n    Essential supremum, Normed linear spaces, Banach Spaces, Hilbert spaces, Baire category theorem, Lp-spaces, lp-spaces, Separable spaces, Dual spaces, Holder\n\n    inequality, Minkowski inequality, Hahn-Banach theorem, Parseval formula, Bessel inequality, Complete orthonormal system, Riesz-Fischer theorem, Ascoli-Arzela\n\n    theorem\\*, Stone-Weierstrass theorem\\*, Uryson lemma\\*, Tietze extention theorem\\*\n\n4\\. Abstract Measure Theory\n\n    Signed measure, Additive set measure, Hahn decomposition theorem, Jordan decomposition\\*, Radon-Nikodym theorem",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "以上課講授為主，並輔以習題研討。"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 40,
+            "note": ""
+        },
+        {
+            "type": "期中考",
+            "weight": 30,
+            "note": "命題形式包括名詞解釋、證明題。"
+        },
+        {
+            "type": "期末考",
+            "weight": 30,
+            "note": "命題形式包括名詞解釋、證明題。"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

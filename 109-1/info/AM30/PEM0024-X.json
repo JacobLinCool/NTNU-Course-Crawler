@@ -1,0 +1,82 @@
+{
+    "year": 109,
+    "term": 1,
+    "name": "統計與實驗設計（一）",
+    "teachers": [
+        "張育愷"
+    ],
+    "department": "AM30",
+    "code": "PEM0024",
+    "credit": 3,
+    "serial": 16,
+    "group": "",
+    "quota": {
+        "limit": 60,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 1,
+            "from": 2,
+            "to": 4,
+            "campus": "本部",
+            "classroom": "樸401"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "統計與實驗設計 (一) 之主要目地係使研究生進行量化研究時，具備實驗設計與統計處理之基礎能力。課程中將著重於實驗設計概念、統計知識概念，以及統計處理資料的實務能力。",
+    "goals": [
+        "基本的實驗設計知識",
+        "進行統計處理之能力"
+    ],
+    "syllabus": "第一週：課程介紹\n\n第二週：統計學概說\n\n第三週：描述統計\n\n第四週：相對量數與標準分數\n\n第五週：抽樣分配\n\n第六週：參數估計\n\n第七週：假設考驗的原理\n\n第八週：實驗設計 (一)\n\n第九週：實驗設計 (二)\n\n第十週：單變項假設考驗\n\n第十一週：期中考\n\n第十二週：平均數差異考驗\n\n週：單因子變異數分析\n\n第十四週：多重比較\n\n第十五週：受試者間雙因子變異數分析\n\n第十六週：受試者內雙因子變異數分析\n\n週：期末計畫報告\n\n第十八週：期末考試",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "實驗/實作",
+            "note": ""
+        },
+        {
+            "type": "專題研究",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "期中考",
+            "weight": 20,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 20,
+            "note": ""
+        },
+        {
+            "type": "出席",
+            "weight": 10,
+            "note": ""
+        },
+        {
+            "type": "報告",
+            "weight": 20,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

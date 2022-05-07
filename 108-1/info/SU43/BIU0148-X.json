@@ -1,0 +1,86 @@
+{
+    "year": 108,
+    "term": 1,
+    "name": "免疫學",
+    "teachers": [
+        "陳玫潔"
+    ],
+    "department": "SU43",
+    "code": "BIU0148",
+    "credit": 3,
+    "serial": 3004,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 5,
+            "from": 6,
+            "to": 8,
+            "campus": "公館",
+            "classroom": "綜合館B1小型演講廳"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎必須先修過【BIU0044  遺傳學】、【BIU0143  生物化學】",
+    "form_s": "4",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "This course will enable the student to gain a broad foundation base and build upon that base for understanding the defense mechanisms of the human body. These topics will include innate and adaptive immunity, antigen capture and recognition, mechanisms of immune reactions, immunological tolerance, immunological diseases, vaccine and immunological assays.",
+    "goals": [
+        "Demonstrate a comprehensive and practical understanding of basic immunological principles involved in research and clinical/applied science.",
+        "Discuss current immunology news and issues"
+    ],
+    "syllabus": "**Part I: An Introduction to Immunobiology and Innate Immunity**  \nChapter 1: Basic Concepts in Immunology  \nChapter 2: Innate Immunity: The First Lines of Defense  \nChapter 3: The Induced Responses of Innate Immunity\n\n**Part II: The Recognition of Antigen**  \nChapter 4: Antigen Recognition by B-cell and T-cell Receptors  \nChapter 5: The Generation of Lymphocyte Antigen Receptors   \nChapter 6: Antigen Presentation to T Lymphocytes\n\n_Section Examination I (Ch1~5)_\n\n**Part III: The Development of Mature Lymphocyte Receptor Repertoires**  \nChapter 7: Lymphocyte Receptor Signaling  \nChapter 8: The Development and of B and T Lymphocytes\n\n**Part IV: The Adaptive Immune Response**  \nChapter 9: T Cell-Mediated Immunity   \nChapter 10: The Humoral Immune Response  \nChapter 11: Integrated Dynamics of Innate and Adaptive Immunity   \nChapter 12: The Mucosal Immune System\n\n_Section Examination II (Ch6~11)_\n\n**Part V: The Immune System in Health and Disease**  \nChapter 13: Failures of Host Defense Mechanisms  \nChapter 14: Allergy and Allergic Diseases  \nChapter 15: Autoimmunity and Transplantation  \nChapter 16: Manipulation of the Immune Response\n\n_Paper Presentation and Discussion_\n\n_Section Examination III  (Ch13~16)_",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": "課堂中針對相關時事進行討論"
+        },
+        {
+            "type": "合作學習",
+            "note": ""
+        },
+        {
+            "type": "媒體融入教學",
+            "note": "分組或個人完成報告"
+        }
+    ],
+    "grading": [
+        {
+            "type": "期中考",
+            "weight": 40,
+            "note": "Section Examination I (Ch1~5), II (Ch6~11)"
+        },
+        {
+            "type": "期末考",
+            "weight": 20,
+            "note": "Section Examination III  (Ch13~16)"
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 5,
+            "note": ""
+        },
+        {
+            "type": "出席",
+            "weight": 5,
+            "note": ""
+        },
+        {
+            "type": "報告",
+            "weight": 30,
+            "note": "Paper Presentation and Discussion"
+        }
+    ],
+    "prerequisite": "◎必須先修過【BIU0044  遺傳學】、【BIU0143  生物化學】",
+    "general_core": []
+}

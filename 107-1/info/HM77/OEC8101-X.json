@@ -1,0 +1,68 @@
+{
+    "year": 107,
+    "term": 1,
+    "name": "薄膜技術（一）",
+    "teachers": [
+        "廖書賢"
+    ],
+    "department": "HM77",
+    "code": "OEC8101",
+    "credit": 3,
+    "serial": 1178,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 1,
+            "from": 7,
+            "to": 9,
+            "campus": "公館",
+            "classroom": "綜合館201"
+        }
+    ],
+    "programs": [],
+    "comment": "因實驗技術與基礎課程限制",
+    "restrict": "◎課程不開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "薄膜技術(I)課程講授內容包括: 真空與技術、系統設計與薄膜製作方法◦ 介紹熱蒸鍍, 磁控射頻濺鍍, 雷射蒸膜, 化學\n蒸氣鍍膜, 分子束磊晶薄膜學理, 以及紫外光曝光與Ar離子蝕刻製作微米元件等◦ 由不同之實驗實習來了解薄膜技術,\n實作內容包括: (1) 熱蒸鍍金屬薄膜, (2) 濺鍍YBa2Cu3Oy薄膜, (3) 薄膜導電性測量, (4) 薄膜平整度測量, (5) 曝光與Ar\n離子蝕刻製作微米元件與(6)真空鍍膜系統測漏與維修等◦",
+    "goals": [
+        "讓學生了解薄膜技術之學理",
+        "由薄膜實作實驗訓練學生研製光電感測元件之能力"
+    ],
+    "syllabus": "第1週:薄膜技術(I)-簡介(Introduction to thin film technology)\n\n第2, 3週\\`真空科學與技術(Vacuum science and technology)\n\n第4週 熱蒸鍍 (Thermal vapor deposition)\n\n第5週 磁控濺鍍(Magnetron sputtering ) (熱蒸鍍實驗實習)\n\n第6週 化學蒸氣鍍膜 (Chemical vapor deposition) (熱蒸鍍實驗實習)\n\n第7週 脈衝雷射鍍膜 (Pulsed laser deposition)) (濺鍍薄膜實驗實習)\n\n第 8週 分子束磊晶鍍膜 (Molecular beam epitaxity) (濺鍍薄膜實驗實習)\n\n第 9 週 多層薄膜 (multilayer and its characterization) (濺鍍薄膜實驗實習)\n\n第10-11 微米與奈米元件技術 (micro- and Nano- technologies) (微米元件實驗實習)\n\n第12週 實習期中報告 第 13週 曝光與顯影實習\n\n第 14 週 Ar離子蝕刻實習\n\n第 15 週 真空鍍膜系統實習\n\n第 16 週 真空鍍膜系統測漏實習\n\n第 17 週 真空測漏與鍍膜系統維修實習\n\n第 18 週 實習期末報告",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "講授真空技術、薄膜技術之學理與應用"
+        },
+        {
+            "type": "實驗/實作",
+            "note": "藉由(1)熱蒸鍍, (2)濺鍍薄膜, (3)薄膜導電性測量, (4)薄膜平整度測量, (5)曝光與Ar離子蝕刻製作微米元件與(6)真空鍍膜系統測漏與維修等實驗實習訓練來培養學生基本光電元件技術能力◦"
+        }
+    ],
+    "grading": [
+        {
+            "type": "課堂討論參與",
+            "weight": 10,
+            "note": "由學生上課或實習的討論與參與程度評量。"
+        },
+        {
+            "type": "出席",
+            "weight": 20,
+            "note": "由學生出席上課狀況評量。"
+        },
+        {
+            "type": "報告",
+            "weight": 70,
+            "note": "期中報告與期末報告，評量學生實習的學習狀況。"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

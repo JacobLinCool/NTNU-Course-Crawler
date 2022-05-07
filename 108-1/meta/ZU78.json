@@ -1,0 +1,156 @@
+[
+    {
+        "year": 108,
+        "term": 1,
+        "name": "機器學習",
+        "teachers": [
+            "陳世旺"
+        ],
+        "department": "SM47",
+        "code": "CSC0039",
+        "credit": 3,
+        "serial": 2774,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 7,
+                "to": 9,
+                "campus": "公館",
+                "classroom": "Ｃ003"
+            }
+        ],
+        "programs": [
+            "人工智慧學程"
+        ],
+        "comment": "",
+        "restrict": "◎課程開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 1,
+        "name": "程式設計（一）",
+        "teachers": [
+            "紀博文"
+        ],
+        "department": "SU47",
+        "code": "CSU0001",
+        "credit": 3,
+        "serial": 3050,
+        "group": "A",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 8,
+                "to": 9,
+                "campus": "公館",
+                "classroom": "理圖807"
+            },
+            {
+                "day": 5,
+                "from": 7,
+                "to": 7,
+                "campus": "公館",
+                "classroom": "理圖807"
+            }
+        ],
+        "programs": [
+            "資訊科技應用學程",
+            "人工智慧學程"
+        ],
+        "comment": "",
+        "restrict": "",
+        "form_s": "1",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 1,
+        "name": "程式設計（一）",
+        "teachers": [
+            "王弘倫"
+        ],
+        "department": "SU47",
+        "code": "CSU0001",
+        "credit": 3,
+        "serial": 3051,
+        "group": "B",
+        "quota": {
+            "limit": 50,
+            "additional": 15
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 2,
+                "to": 4,
+                "campus": "公館",
+                "classroom": "理圖801"
+            }
+        ],
+        "programs": [
+            "資訊科技應用學程",
+            "人工智慧學程"
+        ],
+        "comment": "",
+        "restrict": "",
+        "form_s": "1",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 1,
+        "name": "資訊專題研究（二）：資訊理論",
+        "teachers": [
+            "黃文吉",
+            "蔡榮宗",
+            "方瓊瑤"
+        ],
+        "department": "SU47",
+        "code": "CSU0039",
+        "credit": 3,
+        "serial": 3063,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 5,
+                "to": 6,
+                "campus": "公館",
+                "classroom": "Ｃ007"
+            },
+            {
+                "day": 5,
+                "from": 5,
+                "to": 5,
+                "campus": "公館",
+                "classroom": "Ｃ007"
+            }
+        ],
+        "programs": [
+            "人工智慧學程"
+        ],
+        "comment": "",
+        "restrict": "",
+        "form_s": "4",
+        "classes": "",
+        "dept_group": ""
+    }
+]

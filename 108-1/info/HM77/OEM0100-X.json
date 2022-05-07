@@ -1,0 +1,100 @@
+{
+    "year": 108,
+    "term": 1,
+    "name": "光學（一）",
+    "teachers": [
+        "邱爾德"
+    ],
+    "department": "HM77",
+    "code": "OEM0100",
+    "credit": 3,
+    "serial": 1211,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 5,
+            "from": 3,
+            "to": 4,
+            "campus": "公館",
+            "classroom": "Ｃ002"
+        },
+        {
+            "day": 5,
+            "from": 6,
+            "to": 6,
+            "campus": "公館",
+            "classroom": "Ｃ002"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程旨在介紹基礎光學與光電工程相關知識。使學生對於光的特性與光學的理論有廣泛的認識與瞭解。",
+    "goals": [
+        "光的特性",
+        "光學原理",
+        "光學元件簡介",
+        "光學儀器簡介",
+        "光學系統設計"
+    ],
+    "syllabus": "Week週次\n\nContent & Class Schedule (教學進度)\n\n1\n\nIntroduction, Overview, & Basic Mathematics\n\n2\n\nGeometrical (Ray) Optics & Image Formation\n\n3\n\nMatrix Optics (I)\n\n4\n\nMatrix Optics (II)\n\n5\n\nMatrix Optics (III): General Optical Imaging Systems\n\n6\n\nBasic Mathematics of Wave Propagation\n\n7\n\nPlane-wave, Spherical Wave, and Cylindrical Wave\n\n8\n\nFresnel Reflection, Equations, and Applications (I)\n\n9\n\nMid-Term Exam (期中測驗評量)\n\n10\n\nFresnel Reflection, Equations, and Applications (II)\n\n11\n\nGaussian Beam Optics (I)\n\n12\n\nGaussian Beam Optics (II)\n\n13\n\nGaussian Beam Transformation\n\n14\n\nOptical Resonators\n\n15\n\nCoherence & Dispersion\n\n16\n\nInterference of 2 Plane-waves\n\n17\n\nOptical Interferometers\n\n18\n\nFinal Exam (期末測驗評量)",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": ""
+        },
+        {
+            "type": "問題解決教學",
+            "note": ""
+        },
+        {
+            "type": "合作學習",
+            "note": ""
+        },
+        {
+            "type": "媒體融入教學",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 10,
+            "note": ""
+        },
+        {
+            "type": "期中考",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 40,
+            "note": ""
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 15,
+            "note": "課堂小考"
+        },
+        {
+            "type": "出席",
+            "weight": 5,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

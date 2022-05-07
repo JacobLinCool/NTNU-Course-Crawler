@@ -1,0 +1,79 @@
+{
+    "year": 108,
+    "term": 2,
+    "name": "資訊檢索與擷取",
+    "teachers": [
+        "陳柏琳"
+    ],
+    "department": "SM47",
+    "code": "CSC0014",
+    "credit": 3,
+    "serial": 2627,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 2,
+            "to": 4,
+            "campus": "公館",
+            "classroom": "Ｂ101"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "電腦科技與網際網路的蓬勃發展，使得各式各樣的數位化多媒體資訊如文字、語音及影像資訊等大量的增加。如何讓使用者能方便且有效率地存取、處理甚至學習資訊，已成為很重要的課題。本課程除了將介紹傳統文字資訊處理及檢索的基本原理外，也會介紹目前愈趨重要的多媒體資訊檢索技術。同時配合實作練習，讓修課同學瞭解資訊檢索之相關研究。",
+    "goals": [
+        "能了解資訊檢索與擷取的基礎原理",
+        "能進行資訊檢索與擷取的相關應用",
+        "能了解當前新穎資訊檢索與擷取的技術",
+        "能進行系統實作與評估"
+    ],
+    "syllabus": "1\\. Course Overview & Introduction  \n2\\. Retrieval Performance Evaluation - Measures & Reference Collections  \n3\\. Retrieval Models (I) - Classic Retrieval Models (Boolean, Vector Space, Probabilistic Model, Fuzzy Set, Extended Boolean, Generalized Vector Space Model, Latent Semantic Analysis, etc)  \n4\\. Query Operations - Query Expansion and Term Re-weighting  \n5\\. Retrieval Models (II)- Language Model Approaches (HMM/N-gram, Probabilistic Latent Semantic Analysis, Latent Dirichlet Allocation, etc.)  \n6\\. Text Statistics and Operations  \n7\\. Text Classification & Clustering (SVM, Naive Bayes, etc.; HAC, k-means, EM, etc.)  \n8\\. Word Sense Disambiguation  \n9\\. Indexing and Searching  \n10\\. Web Search and Link Analysis  \n11\\. Text and Spoken Document Summarization",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": ""
+        },
+        {
+            "type": "實驗/實作",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "期中考",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 10,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

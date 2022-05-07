@@ -1,0 +1,68 @@
+{
+    "year": 108,
+    "term": 2,
+    "name": "次世代定序：理論及方法",
+    "teachers": [
+        "蔡怡陞"
+    ],
+    "department": "SD50",
+    "code": "DIC8031",
+    "credit": 3,
+    "serial": 2537,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 3,
+            "from": 7,
+            "to": 9,
+            "campus": "校外",
+            "classroom": "校外教室"
+        }
+    ],
+    "programs": [],
+    "comment": "中研院B208 BRC,AS(中研院生物多樣性大樓B208教室)",
+    "restrict": "◎課程不開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "This module aims to cover the backgrounds of next generation sequencing (NGS), and what you can do with it in research. This module will also provides hands-on exercises from real-world scenarios.",
+    "goals": [
+        "Basic background in NGS and to deliver the most updated knowledge, skills and applications of genomics to current biological problems",
+        "Includes hands-on exercises throughout"
+    ],
+    "syllabus": "**Purpose：**Basic background in NGS and to deliver the most updated knowledge, skills and applications of genomics to current biological problems\n\n**Week**\n\n**Date**\n\n**Topic**\n\nWeek 1\n\n3/1\n\nIntroductory lecture (Dr. Isheng Jason Tsai)\n\nWeek 2\n\n3/8\n\nBasic usage of Linux and R ; Practical I: R (Dr. Isheng Jason Tsai)\n\nWeek 3\n\n3/15\n\nGenome Assembly (Dr. Isheng Jason Tsai)\n\nWeek 4\n\n3/22\n\nMapping and Case studies (Dr. Isheng Jason Tsai)\n\nWeek 5\n\n3/29\n\nFrom sequence to alignment to phylogenies (Professor Jia-Ming Chang+Dr. Isheng Jason Tsai)\n\nWeek 6\n\n4/5\n\nNo class (Tomb Sweeping Day)\n\nWeek 7\n\n4/12\n\nDNA/RNA preparation and different sequencing technologies\n\n(Dr. Meiyeh Lu)\n\nWeek 8\n\n4/19\n\nRNAseq and Genome Annotation (Dr. Isheng Jason Tsai)\n\nWeek 9\n\n4/26\n\nComparative Genomics (Dr. Isheng Jason Tsai)\n\nWeek 10\n\n5/3\n\nPopulation Genomics (Dr. Isheng Jason Tsai)\n\nWeek 11\n\n5/10\n\nAmplicon / Metagenomic (Dr. Isheng Jason Tsai)\n\nWeek 12\n\n5/17\n\nDiscussion (Dr. Isheng Jason Tsai)\n\nEnrolled students only\n\nWeek 13\n\n5/24\n\nMidterm report / Presentation (Dr. Isheng Jason Tsai)\n\nWeek 14\n\n5/31\n\nPractical II: Assembly and Mapping (Dr. Isheng Jason Tsai)\n\nWeek 15\n\n6/7\n\nPractical III: Sequence alignment + phylogeny (Dr. Isheng Jason Tsai)\n\nWeek 16\n\n6/14\n\nAdjusts to Dragon Boast Festival\n\nWeek 17\n\n6/21\n\nIn-class written exam (Dr. Isheng Jason Tsai)\n\nWeek 18\n\n6/28\n\nFinal report due (no class)",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "This module aims to cover the backgrounds of next generation sequencing (NGS). All lectures will be taught in English. \n\nSome lectures are focused around the theories behind a topic (how does genome assembly work?), whereas others focus around a question (why are we interested in this?). Strong emphasis are placed around evolutionary and ecological genomic topics in non-model organisms (i.e., non-human).\n\nTarget audiences are NTNU-TIGP students, NTU-GSB students who handed in work on time, or any postgraduate students who have sequencing data from non-model organisms but everyone in your lab including your PI have no idea about how to do with them. \n\nDepending on the number and ability of students I may tailor week12-16 to include more advanced practical or even let students to try real time sequencing using MinION."
+        },
+        {
+            "type": "問題解決教學",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 40,
+            "note": "Assignment; Students are expected hand in written assignments every two weeks as well as preparing a grant proposal. Failure to hand in written assignment late in two or more times will result in zero marks across entire assignment marks.\nThe grant proposal will be assessed by your own peers."
+        },
+        {
+            "type": "期末考",
+            "weight": 40,
+            "note": "Final Exam; Multiple choice questions as well as short essays."
+        },
+        {
+            "type": "出席",
+            "weight": 20,
+            "note": "Attendance"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

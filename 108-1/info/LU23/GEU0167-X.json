@@ -1,0 +1,73 @@
+{
+    "year": 108,
+    "term": 1,
+    "name": "計量地理",
+    "teachers": [
+        "陳哲銘"
+    ],
+    "department": "LU23",
+    "code": "GEU0167",
+    "credit": 3,
+    "serial": 1972,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 5
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 7,
+            "to": 9,
+            "campus": "本部",
+            "classroom": "正206"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "1",
+    "classes": "2",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程以培養學生能活用基礎統計方法於地理問題解決為目標，內容涵蓋敘述統計、推論統計、相關與迴歸和空間統計。課程以實際地理問題個案為腳本，解釋如何應用適當的統計方法來解決問題，並使用Excel軟體實際操作。",
+    "goals": [
+        "培養學生數據資料的整理、說明與分析的基礎能力",
+        "能藉樣本資料進行估計與驗證的能力",
+        "能說明與應用統計分析的結果"
+    ],
+    "syllabus": "1\\. 課程介紹\n\n2\\. 地理與統計\n\n3\\. 敘述統計\n\n4\\. 敘述空間統計\n\n5\\. 機率\n\n6\\. 抽樣的基本要素\n\n7\\. 抽樣估計\n\n8\\. 推論統計的要素\n\n9\\. 兩組樣本之檢定\n\n10\\. 變異數分析\n\n11\\. 適合度檢定\n\n12\\. 推論空間統計\n\n13\\. 相關分析\n\n14\\. 迴歸分析",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": ""
+        },
+        {
+            "type": "實驗/實作",
+            "note": "統計軟體操作"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 20,
+            "note": ""
+        },
+        {
+            "type": "期中考",
+            "weight": 40,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 40,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

@@ -1,0 +1,91 @@
+{
+    "year": 109,
+    "term": 1,
+    "name": "微分幾何（一）",
+    "teachers": [
+        "樂美亨"
+    ],
+    "department": "SU40",
+    "code": "MAU0106",
+    "credit": 3,
+    "serial": 2855,
+    "group": "B",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 5,
+            "from": 6,
+            "to": 7,
+            "campus": "公館",
+            "classroom": "Ｅ301"
+        },
+        {
+            "day": 5,
+            "from": 8,
+            "to": 8,
+            "campus": "公館",
+            "classroom": "理圖807"
+        }
+    ],
+    "programs": [
+        "天文重力學程"
+    ],
+    "comment": "",
+    "restrict": "",
+    "form_s": "3",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程主要訓練學生瞭解曲線及曲面在三維歐氏空間的一些基本性質。",
+    "goals": [
+        "瞭解歐氏空間中的曲線及曲面的介紹",
+        "增進邏輯推理與歸納的能力",
+        "增進數學思維與批判性思考的能力"
+    ],
+    "syllabus": "1.預備知識的回顧：空間向量的運算、微分、積分等，反函數定理、隱函數定理、微分方程存在唯一基本定理等。\n\n2.曲線：曲線的參數弧長化、曲率、扭率、Frenet公式，曲線的存在唯一基本定理及等周長問題之應用等。\n\n3.曲面：介紹曲面上的向量場、切平面、賦向、第一、二基本式、曲面上曲線的測地曲率、法曲率，曲面的高斯曲率、均曲率，高斯曲率的內在性定理，測地線、指數變換、 Gauss-Bonnet定理、共變微分、平行性、保距變換、保角變換、旋轉曲面、最小曲面、直紋曲面等。",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": ""
+        },
+        {
+            "type": "問題解決教學",
+            "note": ""
+        },
+        {
+            "type": "實驗/實作",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 20,
+            "note": ""
+        },
+        {
+            "type": "期中考",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 40,
+            "note": ""
+        },
+        {
+            "type": "出席",
+            "weight": 10,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

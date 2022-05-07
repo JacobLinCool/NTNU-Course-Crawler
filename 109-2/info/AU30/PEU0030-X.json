@@ -1,0 +1,90 @@
+{
+    "year": 109,
+    "term": 2,
+    "name": "運動生物力學",
+    "teachers": [
+        "蔡虔祿"
+    ],
+    "department": "AU30",
+    "code": "PEU0030",
+    "credit": 2,
+    "serial": 83,
+    "group": "",
+    "quota": {
+        "limit": 70,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 1,
+            "from": 6,
+            "to": 7,
+            "campus": "本部",
+            "classroom": "誠302"
+        }
+    ],
+    "programs": [
+        "運動傷害防護學程"
+    ],
+    "comment": "",
+    "restrict": "",
+    "form_s": "2",
+    "classes": "",
+    "dept_group": "",
+    "hours": 2,
+    "description": "瞭解運動生物力學的歷史發展與演進, 學習與操作各種運動生物力學的實驗方法",
+    "goals": [
+        "瞭解運動生物力學的歷史發展與演進",
+        "瞭解學習運動生物力學的作用與目的",
+        "學習各種運動生物力學的實驗方法",
+        "學習操作運動生物力學的實驗器材"
+    ],
+    "syllabus": "課程介紹\n\n概說\n\n骨骼肌肉解剖\n\n解剖複習\n\n運動學\n\n運動學\n\n靜力學\n\n動力學\n\n**期中考**\n\n動力學\n\n儀器與資料處理\n\n儀器實作\n\n儀器實作\n\n人體測量學\n\n運動技術力學分析\n\n碰撞與流體力學\n\n**期末考**",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "教師講述"
+        },
+        {
+            "type": "討論法",
+            "note": "分組討論"
+        },
+        {
+            "type": "合作學習",
+            "note": "團隊合作"
+        },
+        {
+            "type": "實驗/實作",
+            "note": "儀器操作"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 20,
+            "note": "報告檔案上傳"
+        },
+        {
+            "type": "期中考",
+            "weight": 20,
+            "note": "期中考試"
+        },
+        {
+            "type": "期末考",
+            "weight": 20,
+            "note": "期末考試"
+        },
+        {
+            "type": "出席",
+            "weight": 10,
+            "note": "出席勤惰"
+        },
+        {
+            "type": "報告",
+            "weight": 30,
+            "note": "報告表現"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

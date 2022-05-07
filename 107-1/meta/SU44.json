@@ -1,0 +1,969 @@
+[
+    {
+        "year": 107,
+        "term": 1,
+        "name": "地球科學概論甲（含實習）",
+        "teachers": [
+            "曾莉珊",
+            "葉恩肇",
+            "曾瑋玲",
+            "鄭志文"
+        ],
+        "department": "SU44",
+        "code": "ESU0218",
+        "credit": 4,
+        "serial": 2937,
+        "group": "A",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 6,
+                "to": 9,
+                "campus": "公館",
+                "classroom": "綜合館002"
+            }
+        ],
+        "programs": [],
+        "comment": "第一、二階段選課限生科系學生選修，之後加退選期間開放除地科系外的學生選修。此為自然領域師培生必備科目之一。此課程為配合生科系學生多數可修習時間開設。",
+        "restrict": "◎限外系修習",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 1,
+        "name": "地球科學概論甲（含實習）",
+        "teachers": [
+            "管一政",
+            "黃婉如",
+            "賴昱銘",
+            "鄭志文"
+        ],
+        "department": "SU44",
+        "code": "ESU0218",
+        "credit": 4,
+        "serial": 2938,
+        "group": "B",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 6,
+                "to": 9,
+                "campus": "公館",
+                "classroom": "Ｂ102"
+            }
+        ],
+        "programs": [],
+        "comment": "第一、二階段選課限物理系學生選修，之後加退選期間開放除地科系外的學生選修。此為自然領域師培生必備科目之一。此課程為配合物理系學生多數可修習時間開設。",
+        "restrict": "◎限外系修習",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 1,
+        "name": "地球科學產學實務與實習（二）",
+        "teachers": [
+            "葉恩肇",
+            "葉庭光"
+        ],
+        "department": "SU44",
+        "code": "ESU0220",
+        "credit": 3,
+        "serial": 2939,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 16,
+                "to": 11,
+                "campus": "公館",
+                "classroom": "Ｃ401"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎必須先修過【ESU0219  地球科學產學實務與實習（一）】",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 1,
+        "name": "數值天氣預報",
+        "teachers": [
+            "徐月娟"
+        ],
+        "department": "SU44",
+        "code": "ESC0009",
+        "credit": 3,
+        "serial": 2940,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 7,
+                "to": 9,
+                "campus": "公館",
+                "classroom": "Ｃ409"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎限大三大四 ◎限碩一碩二碩三以上修習",
+        "form_s": "",
+        "classes": "9",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 1,
+        "name": "氣候學",
+        "teachers": [
+            "曾莉珊"
+        ],
+        "department": "SU44",
+        "code": "ESC0010",
+        "credit": 3,
+        "serial": 2941,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 6,
+                "to": 8,
+                "campus": "公館",
+                "classroom": "Ｃ409"
+            }
+        ],
+        "programs": [
+            "環境監測學程"
+        ],
+        "comment": "",
+        "restrict": "◎限大三大四 ◎限碩一碩二碩三以上修習◎必須先修過【MAU0181  微積分乙（二）】、【MAU0180  微積分乙（一）】、【PHU0252  普通物理乙（二）】、【PHU0251  普通物理乙（一）】",
+        "form_s": "",
+        "classes": "9",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 1,
+        "name": "洋流學",
+        "teachers": [
+            "吳朝榮"
+        ],
+        "department": "SU44",
+        "code": "ESC0122",
+        "credit": 3,
+        "serial": 2942,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 7,
+                "to": 9,
+                "campus": "公館",
+                "classroom": "Ｃ002"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎限大三大四 ◎限碩一碩二碩三以上修習",
+        "form_s": "",
+        "classes": "9",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 1,
+        "name": "穩定同位素地質學",
+        "teachers": [
+            "米泓生"
+        ],
+        "department": "SU44",
+        "code": "ESC0123",
+        "credit": 3,
+        "serial": 2943,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 2,
+                "to": 4,
+                "campus": "公館",
+                "classroom": "Ｃ403"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎限大三大四 ◎限碩一碩二碩三以上修習",
+        "form_s": "",
+        "classes": "9",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 1,
+        "name": "地球科學資料處理",
+        "teachers": [
+            "林佩瑩"
+        ],
+        "department": "SU44",
+        "code": "ESC9001",
+        "credit": 3,
+        "serial": 4265,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 2,
+                "to": 4,
+                "campus": "公館",
+                "classroom": "Ｃ403"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎限大三大四 ◎限碩一碩二碩三以上修習",
+        "form_s": "",
+        "classes": "9",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 1,
+        "name": "全球強震特論",
+        "teachers": [
+            "陳卉瑄"
+        ],
+        "department": "SU44",
+        "code": "ESC9003",
+        "credit": 3,
+        "serial": 2944,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 7,
+                "to": 9,
+                "campus": "公館",
+                "classroom": "Ｃ403"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎限大三大四 ◎限碩一碩二碩三以上修習",
+        "form_s": "",
+        "classes": "9",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 1,
+        "name": "岩石學（含實習）",
+        "teachers": [
+            "賴昱銘"
+        ],
+        "department": "SU44",
+        "code": "ESC9004",
+        "credit": 3,
+        "serial": 2945,
+        "group": "",
+        "quota": {
+            "limit": 31,
+            "additional": 5
+        },
+        "schedule": [
+            {
+                "day": 5,
+                "from": 2,
+                "to": 4,
+                "campus": "公館",
+                "classroom": "Ｃ403"
+            }
+        ],
+        "programs": [
+            "環境監測學程"
+        ],
+        "comment": "",
+        "restrict": "◎限大三大四 ◎限碩一碩二碩三以上修習",
+        "form_s": "",
+        "classes": "9",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 1,
+        "name": "構造地質學（含實習）",
+        "teachers": [
+            "葉恩肇"
+        ],
+        "department": "SU44",
+        "code": "ESC9013",
+        "credit": 3,
+        "serial": 2946,
+        "group": "",
+        "quota": {
+            "limit": 30,
+            "additional": 5
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 16,
+                "to": 11,
+                "campus": "公館",
+                "classroom": "Ｃ401"
+            }
+        ],
+        "programs": [
+            "環境監測學程"
+        ],
+        "comment": "",
+        "restrict": "◎限大三大四 ◎限碩一碩二碩三以上修習",
+        "form_s": "",
+        "classes": "9",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 1,
+        "name": "天氣學",
+        "teachers": [
+            "王重傑"
+        ],
+        "department": "SU44",
+        "code": "ESC9015",
+        "credit": 3,
+        "serial": 2947,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 2,
+                "to": 2,
+                "campus": "公館",
+                "classroom": "Ｃ002"
+            },
+            {
+                "day": 1,
+                "from": 8,
+                "to": 9,
+                "campus": "公館",
+                "classroom": "Ｃ002"
+            }
+        ],
+        "programs": [
+            "環境監測學程"
+        ],
+        "comment": "",
+        "restrict": "◎限大三大四 ◎限碩一碩二碩三以上修習",
+        "form_s": "",
+        "classes": "9",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 1,
+        "name": "行星地質學",
+        "teachers": [
+            "謝奈特"
+        ],
+        "department": "SU44",
+        "code": "ESC9016",
+        "credit": 3,
+        "serial": 2948,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 7,
+                "to": 9,
+                "campus": "公館",
+                "classroom": "Ｃ403"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎限大三大四 ◎限碩一碩二碩三以上修習",
+        "form_s": "",
+        "classes": "9",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 1,
+        "name": "海洋物理學概論",
+        "teachers": [
+            "鄭志文"
+        ],
+        "department": "SU44",
+        "code": "ESC9026",
+        "credit": 3,
+        "serial": 2949,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 7,
+                "to": 9,
+                "campus": "公館",
+                "classroom": "Ｃ403"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎限大三大四 ◎限碩一碩二碩三以上修習",
+        "form_s": "",
+        "classes": "9",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 1,
+        "name": "地球系統科學實地研究",
+        "teachers": [
+            "曾莉珊",
+            "葉恩肇",
+            "曾瑋玲",
+            "葉庭光"
+        ],
+        "department": "SU44",
+        "code": "ESC9035",
+        "credit": 3,
+        "serial": 2950,
+        "group": "",
+        "quota": {
+            "limit": 30,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 16,
+                "to": 11,
+                "campus": "公館",
+                "classroom": "Ｃ005"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎限大三大四 ◎限碩一碩二碩三以上修習",
+        "form_s": "",
+        "classes": "9",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 1,
+        "name": "體育",
+        "teachers": [
+            "杜珈霖"
+        ],
+        "department": "SU44",
+        "code": "00UP001",
+        "credit": 1,
+        "serial": 2951,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 7,
+                "to": 8,
+                "campus": "公館",
+                "classroom": "操場二"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "1",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 1,
+        "name": "地震觀測與災害",
+        "teachers": [
+            "林正洪"
+        ],
+        "department": "SU44",
+        "code": "ESU0170",
+        "credit": 2,
+        "serial": 2952,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 5,
+                "from": 7,
+                "to": 8,
+                "campus": "公館",
+                "classroom": "理圖002"
+            }
+        ],
+        "programs": [
+            "環境監測學程"
+        ],
+        "comment": "",
+        "restrict": "",
+        "form_s": "1",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 1,
+        "name": "大氣科學概論（含實習）",
+        "teachers": [
+            "黃婉如"
+        ],
+        "department": "SU44",
+        "code": "ESU0179",
+        "credit": 3,
+        "serial": 2953,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 5,
+                "from": 3,
+                "to": 5,
+                "campus": "公館",
+                "classroom": "Ｅ102"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "1",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 1,
+        "name": "普通地質學（含實習）",
+        "teachers": [
+            "葉恩肇",
+            "賴昱銘"
+        ],
+        "department": "SU44",
+        "code": "ESU0180",
+        "credit": 3,
+        "serial": 2954,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 2,
+                "to": 4,
+                "campus": "公館",
+                "classroom": "Ｅ101"
+            }
+        ],
+        "programs": [
+            "環境監測學程"
+        ],
+        "comment": "",
+        "restrict": "",
+        "form_s": "1",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 1,
+        "name": "應用數學（一）",
+        "teachers": [
+            "林惠娥"
+        ],
+        "department": "SU44",
+        "code": "ESU0023",
+        "credit": 3,
+        "serial": 2955,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 2,
+                "to": 4,
+                "campus": "公館",
+                "classroom": "綜合館002"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎必須先修過【MAU0180  微積分乙（一）】、【MAU0181  微積分乙（二）】",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 1,
+        "name": "大氣熱力學",
+        "teachers": [
+            "簡芳菁"
+        ],
+        "department": "SU44",
+        "code": "ESU0049",
+        "credit": 3,
+        "serial": 2956,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 5,
+                "from": 2,
+                "to": 4,
+                "campus": "公館",
+                "classroom": "理圖002"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎限大二大三大四修習◎必須先修過【ESU0179  大氣科學概論（含實習）】",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 1,
+        "name": "太陽系",
+        "teachers": [
+            "曾瑋玲"
+        ],
+        "department": "SU44",
+        "code": "ESU0095",
+        "credit": 3,
+        "serial": 2957,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 5,
+                "from": 2,
+                "to": 4,
+                "campus": "公館",
+                "classroom": "Ｃ409"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎限大二大三大四修習",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 1,
+        "name": "環境地質學",
+        "teachers": [
+            "米泓生"
+        ],
+        "department": "SU44",
+        "code": "ESU0098",
+        "credit": 3,
+        "serial": 2958,
+        "group": "",
+        "quota": {
+            "limit": 35,
+            "additional": 3
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 2,
+                "to": 4,
+                "campus": "公館",
+                "classroom": "數學館211媒體教室"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎限大二大三大四修習",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 1,
+        "name": "地球物理通論（含實習）",
+        "teachers": [
+            "陳卉瑄",
+            "林佩瑩"
+        ],
+        "department": "SU44",
+        "code": "ESU0184",
+        "credit": 3,
+        "serial": 2959,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 7,
+                "to": 9,
+                "campus": "公館",
+                "classroom": "理圖002"
+            }
+        ],
+        "programs": [],
+        "comment": "修過微積分後，較適合修習本門課程。",
+        "restrict": "◎限大二大三大四修習",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 1,
+        "name": "星系天文學",
+        "teachers": [
+            "陳林文"
+        ],
+        "department": "SU44",
+        "code": "ESU0194",
+        "credit": 3,
+        "serial": 2960,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 0
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 7,
+                "to": 9,
+                "campus": "公館",
+                "classroom": "Ｂ413"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎必須先修過【ESU0178  天文學（含實習）】",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 1,
+        "name": "大氣觀測（含實習）",
+        "teachers": [
+            "曾莉珊"
+        ],
+        "department": "SU44",
+        "code": "ESU0199",
+        "credit": 3,
+        "serial": 2961,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 5,
+                "from": 6,
+                "to": 8,
+                "campus": "公館",
+                "classroom": "Ｃ409"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎必須先修過【ESU0179  大氣科學概論（含實習）】",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 1,
+        "name": "大氣動力學（一）",
+        "teachers": [
+            "陳正達"
+        ],
+        "department": "SU44",
+        "code": "ESU0058",
+        "credit": 3,
+        "serial": 2962,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 3,
+                "to": 4,
+                "campus": "公館",
+                "classroom": "Ｃ409"
+            },
+            {
+                "day": 4,
+                "from": 3,
+                "to": 3,
+                "campus": "公館",
+                "classroom": "Ｃ409"
+            }
+        ],
+        "programs": [],
+        "comment": "適合修習過應用數學（二）、流體力學、大氣熱力學的大三以上學生修習。",
+        "restrict": "◎限大三大四修習",
+        "form_s": "3",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 1,
+        "name": "地球科學教材教法（教）",
+        "teachers": [
+            "張俊彥"
+        ],
+        "department": "SU44",
+        "code": "ESUE001",
+        "credit": 2,
+        "serial": 2963,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 1,
+                "to": 2,
+                "campus": "公館",
+                "classroom": "科教大樓101"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎限大三大四修習",
+        "form_s": "3",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 1,
+        "name": "地球科學教學實習（一）（教）",
+        "teachers": [
+            "許瑛玿",
+            "楊芳瑩"
+        ],
+        "department": "SU44",
+        "code": "ESUE110",
+        "credit": 2,
+        "serial": 2964,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 1,
+                "to": 4,
+                "campus": "公館",
+                "classroom": "科教大樓101"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎限大四修習",
+        "form_s": "4",
+        "classes": "",
+        "dept_group": ""
+    }
+]

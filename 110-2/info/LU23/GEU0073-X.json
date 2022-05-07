@@ -1,0 +1,71 @@
+{
+    "year": 110,
+    "term": 2,
+    "name": "遙測學",
+    "teachers": [
+        "張國楨"
+    ],
+    "department": "LU23",
+    "code": "GEU0073",
+    "credit": 3,
+    "serial": 1894,
+    "group": "",
+    "quota": {
+        "limit": 25,
+        "additional": 5
+    },
+    "schedule": [
+        {
+            "day": 3,
+            "from": 6,
+            "to": 8,
+            "campus": "本部",
+            "classroom": "地理系電腦教室"
+        }
+    ],
+    "programs": [
+        "學習與資訊學程",
+        "數位人文與藝術學程",
+        "環境監測學程",
+        "空間學程"
+    ],
+    "comment": "",
+    "restrict": "◎必須先修過【GEU0166  地理資訊系統】 ◎課程開放上修",
+    "form_s": "2",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "瞭解遙測技術原理及影像處理方式，並研討其可能的應用層面，以作為研究之工具。",
+    "goals": [
+        "瞭解遙測技術原理及影像處理方式，並研討其可能的應用層面，以作為論文研究之工具。"
+    ],
+    "syllabus": "1.History and Principles of Remote Sensing  \n2.Introduction to Remote Sensing System  \n3.Active vs. Passive Remote Sensing  \n4.Energy Source Radiation Principles  \n5.Photographic Perspective  \n6.Aerial Photography I  \n7.Aerial Photography II  \n8.Image Interpretation I  \n9.Image Interpretation II  \n10.Mid-term Ex.  \n11.Geo-rectification I  \n12\\. Geo-rectification II  \n13\\. Image Mosaic and Color Balance  \n14\\. Stereo Pair Analysis  \n15.Application of Remote Sensing I  \n16.Application of Remote Sensing II  \n17.Term Project  \n18.Closing Session",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "On-line remote conference / physical instruction of weekly topic"
+        },
+        {
+            "type": "討論法",
+            "note": "Based on week topic, students will be asked to participate discussion"
+        },
+        {
+            "type": "實驗/實作",
+            "note": "Based on weekly topic, students will practice and operate RS/GIS software"
+        }
+    ],
+    "grading": [
+        {
+            "type": "期中考",
+            "weight": 30,
+            "note": "On-line / physical close-book in-class mid-term."
+        },
+        {
+            "type": "專題",
+            "weight": 70,
+            "note": "Students will be divided into groups to work on final term project"
+        }
+    ],
+    "prerequisite": "◎必須先修過【GEU0166  地理資訊系統】",
+    "general_core": []
+}

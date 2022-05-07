@@ -1,0 +1,88 @@
+{
+    "year": 108,
+    "term": 2,
+    "name": "原子力顯微術之原理與應用",
+    "teachers": [
+        "邱顯智"
+    ],
+    "department": "SM41",
+    "code": "PHC8028",
+    "credit": 3,
+    "serial": 2560,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 1,
+            "from": 6,
+            "to": 8,
+            "campus": "公館",
+            "classroom": "Ｆ101"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程是為了物理系需要使用原子力顯微鏡術作為研究工具的研究生所設計。課程的內容將著重在探究原子力顯微術的基本運作原理，除了各式影像取得模式的物理理論，亦包括這些技術在各個科學領域中的應用。此外本課程中還會加入實驗設計與數據分析的技巧，以幫助同學在研究工作中使用此顯微術時能更加得心應手。",
+    "goals": [
+        "了解掃描探針顯微術的發展歷史與其基本的工作原理",
+        "了解掃描探針顯微術於各種科學領域的應用與發展",
+        "建立搜尋新知，自我學習的能力",
+        "利用口頭報告，訓練溝通與表達能力",
+        "利用實作與分析，了解實驗設計與數據分析之技巧"
+    ],
+    "syllabus": "\\*本課程以物理系研究生為授課對象。建議選課同學為預計在自己的研究工作中使用原子力顯微鏡，並已有一年以上的相關經驗，方能在此課程中得到最大收獲。因此，選課前請先與指導教授討論。\n\n\\*因應COVID-19疫情之彈性授課，將另外安排兩次探究與實作專題報告。\n\n1      Development of scanningprobe microscopy: an introduction\n\n2      Basic components of a SPMsystem\n\n3    Visiting the SPM lab and demonstrations\n\n4      Introductionto interfacial forces\n\n5      Basic imaging modes:contact and tapping mode AFM\n\n6    SPM hands-on training I\n\n7      Methodsin AFM imageprocessing\n\n8    Understanding the Force-distance curves and theirapplications\n\n9    Force measurements with AFM\n\n10   Electric and magneticmeasurements I\n\n11    SPM hands-on training II\n\n12   Electric and magnetic measurements II\n\n13    Applications of AFM inbiology\n\n14    Applications of AFM in nano-materials\n\n15    Advanced AFM modes and systemmodifications\n\n16    OralPresentation I\n\n17    OralPresentation II\n\n18    FinalExam",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "問題解決教學",
+            "note": ""
+        },
+        {
+            "type": "合作學習",
+            "note": ""
+        },
+        {
+            "type": "實驗/實作",
+            "note": ""
+        },
+        {
+            "type": "專題研究",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "期末考",
+            "weight": 35,
+            "note": ""
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 20,
+            "note": ""
+        },
+        {
+            "type": "出席",
+            "weight": 10,
+            "note": ""
+        },
+        {
+            "type": "報告",
+            "weight": 35,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

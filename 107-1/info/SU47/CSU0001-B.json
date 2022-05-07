@@ -1,0 +1,71 @@
+{
+    "year": 107,
+    "term": 1,
+    "name": "程式設計（一）",
+    "teachers": [
+        "王弘倫"
+    ],
+    "department": "SU47",
+    "code": "CSU0001",
+    "credit": 3,
+    "serial": 2972,
+    "group": "B",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 5,
+            "from": 2,
+            "to": 4,
+            "campus": "公館",
+            "classroom": "理圖807"
+        }
+    ],
+    "programs": [
+        "資訊科技應用學程",
+        "人工智慧學程"
+    ],
+    "comment": "",
+    "restrict": "",
+    "form_s": "1",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程介紹 C 程式語言之基礎語法，包含輸入/輸出、選擇控制、迴圈控制、陣列、函式、指標、字元、字串與結構型態等。",
+    "goals": [
+        "能了解 C/C++ 程式語言的基本語法並撰寫程式。",
+        "能根據指定的方法步驟，規畫程式架構、流程並據以實作。"
+    ],
+    "syllabus": "1\\. Introduction\n\n2\\. Data in the memory -- I/O and variables\n\n3\\. Operations on numbers\n\n4\\. Conditional control\n\n5\\. Loop\n\n6\\. Array\n\n7\\. Function\n\n8\\. Pointer\n\n9\\. Characters and strings\n\n11\\. Structure\n\n12\\. Selected topics",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "實驗/實作",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 60,
+            "note": "含課堂小考"
+        },
+        {
+            "type": "期中考",
+            "weight": 20,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 20,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

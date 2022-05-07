@@ -1,0 +1,69 @@
+{
+    "year": 110,
+    "term": 1,
+    "name": "動力系統理論在運動行為的應用",
+    "teachers": [
+        "劉有德"
+    ],
+    "department": "AM32",
+    "code": "FPM0062",
+    "credit": 3,
+    "serial": 3335,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 4,
+            "from": 2,
+            "to": 4,
+            "campus": "公館",
+            "classroom": "研002"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "Introducing the basics of dynamical systems theory and provides some applications in the current MB research issues.",
+    "goals": [
+        "Understand the basic concepts of Dynamical Systems Theory",
+        "Understand the connections between the Dynamical Systems Theory and the study of motor behavior",
+        "The ability to apply the Dynamical Systems Theory to the research of motor behavior"
+    ],
+    "syllabus": "18-week schedule\n\n1.       Introduction to the Dynamical Systems Theory\n\n2.       Basic Concepts of Dynamics\n\n3.       Applications\n\n4.       Limit Sets\n\n5.       Applications\n\n6.       Logistic map\n\n7.       Applications\n\n8.       Midterm Report\n\n9.     Chaos\n\n10.     Applications\n\n11.     Bifurcation\n\n12.     Applications\n\n13.     Dimensional Analyses and Fractal Dimensions\n\n14.     Applications\n\n15.     Ecological Dynamics\n\n16.     Applications\n\n17.     Project Report\n\n18.   Final Examination",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 30,
+            "note": "包括課內及課後作業"
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 10,
+            "note": ""
+        },
+        {
+            "type": "報告",
+            "weight": 60,
+            "note": "包括期中及期末報告"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

@@ -1,0 +1,2222 @@
+[
+    {
+        "year": 107,
+        "term": 2,
+        "name": "程式設計",
+        "teachers": [
+            "范洪源"
+        ],
+        "department": "SU40",
+        "code": "MAU0032",
+        "credit": 3,
+        "serial": 2703,
+        "group": "A",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 8,
+                "to": 10,
+                "campus": "公館",
+                "classroom": "理圖807"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "程式設計",
+        "teachers": [
+            "楊青育"
+        ],
+        "department": "SU40",
+        "code": "MAU0032",
+        "credit": 3,
+        "serial": 2704,
+        "group": "B",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 8,
+                "to": 10,
+                "campus": "公館",
+                "classroom": "理圖807"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "微分幾何（二）",
+        "teachers": [
+            "郭庭榕"
+        ],
+        "department": "SU40",
+        "code": "MAU0107",
+        "credit": 3,
+        "serial": 4372,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 5,
+                "from": 6,
+                "to": 8,
+                "campus": "公館",
+                "classroom": "理圖001"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "微積分乙（二）",
+        "teachers": [
+            "蔡天鉞"
+        ],
+        "department": "SU40",
+        "code": "MAU0181",
+        "credit": 3,
+        "serial": 2705,
+        "group": "K",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 6,
+                "to": 8,
+                "campus": "校外",
+                "classroom": "校外教室"
+            }
+        ],
+        "programs": [],
+        "comment": "本課程於師大附中上課，並搭配高中開學日，修課學生僅能透過人工選課或授權碼選課。",
+        "restrict": "◎第一階段需人工加選◎第二階段需人工加選◎加退選階段需人工加選",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "數學教學實習（二）（IB）",
+        "teachers": [
+            "謝豐瑞"
+        ],
+        "department": "SU40",
+        "code": "MAUE310",
+        "credit": 1,
+        "serial": 2707,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 6,
+                "to": 6,
+                "campus": "公館",
+                "classroom": "教室自排"
+            }
+        ],
+        "programs": [
+            "國際教師學程-數學"
+        ],
+        "comment": "",
+        "restrict": "◎必須先修過(也可以同時修)【MAUE210  數學教學實習（二）（教）】",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "實變分析（二）",
+        "teachers": [
+            "孟悟理"
+        ],
+        "department": "SU40",
+        "code": "MAC0088",
+        "credit": 3,
+        "serial": 2708,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 2,
+                "to": 4,
+                "campus": "公館",
+                "classroom": "教室自排"
+            }
+        ],
+        "programs": [],
+        "comment": "授課教師Ulrich Menne",
+        "restrict": "",
+        "form_s": "",
+        "classes": "9",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "複變分析（二）",
+        "teachers": [
+            "張毓麟"
+        ],
+        "department": "SU40",
+        "code": "MAC0090",
+        "credit": 3,
+        "serial": 2709,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 2,
+                "to": 4,
+                "campus": "公館",
+                "classroom": "教室自排"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "",
+        "classes": "9",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "近世代數（二）",
+        "teachers": [
+            "劉家新"
+        ],
+        "department": "SU40",
+        "code": "MAC0094",
+        "credit": 3,
+        "serial": 2710,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 6,
+                "to": 8,
+                "campus": "公館",
+                "classroom": "教室自排"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "",
+        "classes": "9",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "統計方法（一）",
+        "teachers": [
+            "蔡碧紋"
+        ],
+        "department": "SU40",
+        "code": "MAC0141",
+        "credit": 3,
+        "serial": 2711,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 2,
+                "to": 4,
+                "campus": "公館",
+                "classroom": "教室自排"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "",
+        "classes": "9",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "密碼學",
+        "teachers": [
+            "李華介"
+        ],
+        "department": "SU40",
+        "code": "MAC9016",
+        "credit": 3,
+        "serial": 2712,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 5,
+                "from": 2,
+                "to": 4,
+                "campus": "公館",
+                "classroom": "教室自排"
+            }
+        ],
+        "programs": [],
+        "comment": "本課程強調學生上台進行論證演示，需要數論、有限體的基本知識。",
+        "restrict": "",
+        "form_s": "",
+        "classes": "9",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "計算共形幾何（二）",
+        "teachers": [
+            "樂美亨"
+        ],
+        "department": "SU40",
+        "code": "MAC9021",
+        "credit": 3,
+        "serial": 2713,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 5,
+                "from": 6,
+                "to": 8,
+                "campus": "公館",
+                "classroom": "教室自排"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "",
+        "classes": "9",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "影像處理與分析（一）",
+        "teachers": [
+            "黃建智"
+        ],
+        "department": "SU40",
+        "code": "MAC9022",
+        "credit": 3,
+        "serial": 2714,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 8,
+                "to": 10,
+                "campus": "公館",
+                "classroom": "教室自排"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "",
+        "classes": "9",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "組合數學（IB）",
+        "teachers": [
+            "林延輯"
+        ],
+        "department": "SU40",
+        "code": "MAC9025",
+        "credit": 3,
+        "serial": 2715,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 6,
+                "to": 8,
+                "campus": "公館",
+                "classroom": "教室自排"
+            }
+        ],
+        "programs": [
+            "國際教師學程-數學"
+        ],
+        "comment": "",
+        "restrict": "",
+        "form_s": "",
+        "classes": "9",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "數學史（IB）",
+        "teachers": [
+            "洪萬生"
+        ],
+        "department": "SU40",
+        "code": "MAC9028",
+        "credit": 1,
+        "serial": 2716,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 9,
+                "to": 9,
+                "campus": "公館",
+                "classroom": "教室自排"
+            }
+        ],
+        "programs": [
+            "國際教師學程-數學"
+        ],
+        "comment": "",
+        "restrict": "◎必須先修過(也可以同時修)【MAU0077  數學史】",
+        "form_s": "",
+        "classes": "9",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "微積分乙（二）",
+        "teachers": [
+            "葉弘裕"
+        ],
+        "department": "SU40",
+        "code": "MAU0181",
+        "credit": 3,
+        "serial": 2717,
+        "group": "A",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 6,
+                "to": 8,
+                "campus": "公館",
+                "classroom": "Ｃ006"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "1",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "微積分乙（二）",
+        "teachers": [
+            "陳賢修"
+        ],
+        "department": "SU40",
+        "code": "MAU0181",
+        "credit": 3,
+        "serial": 2718,
+        "group": "B",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 6,
+                "to": 8,
+                "campus": "公館",
+                "classroom": "Ｃ005"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "1",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "微積分乙（二）",
+        "teachers": [
+            "黃文達"
+        ],
+        "department": "SU40",
+        "code": "MAU0181",
+        "credit": 3,
+        "serial": 2719,
+        "group": "C",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 6,
+                "to": 8,
+                "campus": "公館",
+                "classroom": "Ｃ006"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "1",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "微積分乙（二）",
+        "teachers": [
+            "林惠娥"
+        ],
+        "department": "SU40",
+        "code": "MAU0181",
+        "credit": 3,
+        "serial": 2720,
+        "group": "D",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 6,
+                "to": 8,
+                "campus": "公館",
+                "classroom": "Ｃ005"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "1",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "微積分乙（二）",
+        "teachers": [
+            "郭庭榕"
+        ],
+        "department": "SU40",
+        "code": "MAU0181",
+        "credit": 3,
+        "serial": 2721,
+        "group": "E",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 6,
+                "to": 8,
+                "campus": "公館",
+                "classroom": "Ｃ004"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "1",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "微積分乙（二）",
+        "teachers": [
+            "王藹農"
+        ],
+        "department": "SU40",
+        "code": "MAU0181",
+        "credit": 3,
+        "serial": 2722,
+        "group": "F",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 6,
+                "to": 8,
+                "campus": "公館",
+                "classroom": "Ｅ102"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "1",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "微積分乙（二）",
+        "teachers": [
+            "楊青育"
+        ],
+        "department": "SU40",
+        "code": "MAU0181",
+        "credit": 3,
+        "serial": 2723,
+        "group": "G",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 6,
+                "to": 8,
+                "campus": "本部",
+                "classroom": "正305"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎限學習科學學位學程（學、工教系（學）、科技系（學）、機電系（學）、電機系（學）、車能學位學程（學）、光電學位學程（學）選修",
+        "form_s": "1",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "微積分乙（二）",
+        "teachers": [
+            "范洪源"
+        ],
+        "department": "SU40",
+        "code": "MAU0181",
+        "credit": 3,
+        "serial": 2724,
+        "group": "H",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 6,
+                "to": 8,
+                "campus": "本部",
+                "classroom": "誠109"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎限學習科學學位學程（學、工教系（學）、科技系（學）、機電系（學）、電機系（學）、車能學位學程（學）、光電學位學程（學）選修",
+        "form_s": "1",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "微積分乙（二）",
+        "teachers": [
+            "陳瑞堂"
+        ],
+        "department": "SU40",
+        "code": "MAU0181",
+        "credit": 3,
+        "serial": 2725,
+        "group": "I",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 6,
+                "to": 8,
+                "campus": "本部",
+                "classroom": "正405"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎限學習科學學位學程（學、工教系（學）、科技系（學）、機電系（學）、電機系（學）、車能學位學程（學）、光電學位學程（學）選修",
+        "form_s": "1",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "微積分乙（二）",
+        "teachers": [
+            "黃建豪"
+        ],
+        "department": "SU40",
+        "code": "MAU0181",
+        "credit": 3,
+        "serial": 2726,
+        "group": "J",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 6,
+                "to": 8,
+                "campus": "本部",
+                "classroom": "誠203"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎限學習科學學位學程（學、工教系（學）、科技系（學）、機電系（學）、電機系（學）、車能學位學程（學）、光電學位學程（學）選修",
+        "form_s": "1",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "數論",
+        "teachers": [
+            "洪有情"
+        ],
+        "department": "SU40",
+        "code": "MAU0003",
+        "credit": 3,
+        "serial": 2727,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 6,
+                "to": 8,
+                "campus": "公館",
+                "classroom": "Ｅ301"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "1",
+        "classes": "1",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "線性代數（二）",
+        "teachers": [
+            "胡舉卿"
+        ],
+        "department": "SU40",
+        "code": "MAU0161",
+        "credit": 3,
+        "serial": 2728,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 3,
+                "to": 3,
+                "campus": "公館",
+                "classroom": "Ｃ006"
+            },
+            {
+                "day": 4,
+                "from": 3,
+                "to": 4,
+                "campus": "公館",
+                "classroom": "Ｃ006"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎必須先修過【MAU0160  線性代數（一）】",
+        "form_s": "1",
+        "classes": "1",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "微積分探索（二）",
+        "teachers": [
+            "郭君逸"
+        ],
+        "department": "SU40",
+        "code": "MAU0171",
+        "credit": 1,
+        "serial": 2729,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 8,
+                "to": 8,
+                "campus": "公館",
+                "classroom": "Ｃ006"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎必須先修過(也可以同時修)【MAU0179  微積分甲（二）】",
+        "form_s": "1",
+        "classes": "1",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "線性代數探索（二）",
+        "teachers": [
+            "胡舉卿"
+        ],
+        "department": "SU40",
+        "code": "MAU0173",
+        "credit": 1,
+        "serial": 2730,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 4,
+                "to": 4,
+                "campus": "公館",
+                "classroom": "Ｃ006"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎必須先修過(也可以同時修)【MAU0161  線性代數（二）】",
+        "form_s": "1",
+        "classes": "1",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "微積分甲（二）",
+        "teachers": [
+            "郭君逸"
+        ],
+        "department": "SU40",
+        "code": "MAU0179",
+        "credit": 4,
+        "serial": 2731,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 6,
+                "to": 7,
+                "campus": "公館",
+                "classroom": "Ｃ006"
+            },
+            {
+                "day": 4,
+                "from": 1,
+                "to": 2,
+                "campus": "公館",
+                "classroom": "Ｃ006"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎必須先修過【MAU0178  微積分甲（一）】",
+        "form_s": "1",
+        "classes": "1",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "數論",
+        "teachers": [
+            "紀文鎮"
+        ],
+        "department": "SU40",
+        "code": "MAU0003",
+        "credit": 3,
+        "serial": 2732,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 6,
+                "to": 8,
+                "campus": "公館",
+                "classroom": "理圖001"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "1",
+        "classes": "2",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "線性代數（二）",
+        "teachers": [
+            "李華介"
+        ],
+        "department": "SU40",
+        "code": "MAU0161",
+        "credit": 3,
+        "serial": 2733,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 3,
+                "to": 3,
+                "campus": "公館",
+                "classroom": "Ｃ005"
+            },
+            {
+                "day": 4,
+                "from": 3,
+                "to": 4,
+                "campus": "公館",
+                "classroom": "Ｃ005"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎必須先修過【MAU0160  線性代數（一）】",
+        "form_s": "1",
+        "classes": "2",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "微積分探索（二）",
+        "teachers": [
+            "張幼賢"
+        ],
+        "department": "SU40",
+        "code": "MAU0171",
+        "credit": 1,
+        "serial": 2734,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 8,
+                "to": 8,
+                "campus": "公館",
+                "classroom": "Ｃ005"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎必須先修過(也可以同時修)【MAU0179  微積分甲（二）】",
+        "form_s": "1",
+        "classes": "2",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "線性代數探索（二）",
+        "teachers": [
+            "李華介"
+        ],
+        "department": "SU40",
+        "code": "MAU0173",
+        "credit": 1,
+        "serial": 2735,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 4,
+                "to": 4,
+                "campus": "公館",
+                "classroom": "Ｃ005"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎必須先修過(也可以同時修)【MAU0161  線性代數（二）】",
+        "form_s": "1",
+        "classes": "2",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "微積分甲（二）",
+        "teachers": [
+            "張幼賢"
+        ],
+        "department": "SU40",
+        "code": "MAU0179",
+        "credit": 4,
+        "serial": 2736,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 6,
+                "to": 7,
+                "campus": "公館",
+                "classroom": "Ｃ005"
+            },
+            {
+                "day": 4,
+                "from": 1,
+                "to": 2,
+                "campus": "公館",
+                "classroom": "Ｃ005"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎必須先修過【MAU0178  微積分甲（一）】",
+        "form_s": "1",
+        "classes": "2",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "數論",
+        "teachers": [
+            "許志農"
+        ],
+        "department": "SU40",
+        "code": "MAU0003",
+        "credit": 3,
+        "serial": 2737,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 2,
+                "to": 2,
+                "campus": "公館",
+                "classroom": "Ｃ004"
+            },
+            {
+                "day": 5,
+                "from": 3,
+                "to": 4,
+                "campus": "公館",
+                "classroom": "Ｃ004"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "1",
+        "classes": "3",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "線性代數（二）",
+        "teachers": [
+            "夏良忠"
+        ],
+        "department": "SU40",
+        "code": "MAU0161",
+        "credit": 3,
+        "serial": 2738,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 3,
+                "to": 3,
+                "campus": "公館",
+                "classroom": "Ｃ004"
+            },
+            {
+                "day": 4,
+                "from": 3,
+                "to": 4,
+                "campus": "公館",
+                "classroom": "Ｃ004"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎必須先修過【MAU0160  線性代數（一）】",
+        "form_s": "1",
+        "classes": "3",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "微積分探索（二）",
+        "teachers": [
+            "林月珍"
+        ],
+        "department": "SU40",
+        "code": "MAU0171",
+        "credit": 1,
+        "serial": 2739,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 8,
+                "to": 8,
+                "campus": "公館",
+                "classroom": "Ｂ103"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎必須先修過(也可以同時修)【MAU0179  微積分甲（二）】",
+        "form_s": "1",
+        "classes": "3",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "線性代數探索（二）",
+        "teachers": [
+            "夏良忠"
+        ],
+        "department": "SU40",
+        "code": "MAU0173",
+        "credit": 1,
+        "serial": 2740,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 4,
+                "to": 4,
+                "campus": "公館",
+                "classroom": "Ｃ004"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎必須先修過(也可以同時修)【MAU0161  線性代數（二）】",
+        "form_s": "1",
+        "classes": "3",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "微積分甲（二）",
+        "teachers": [
+            "林月珍"
+        ],
+        "department": "SU40",
+        "code": "MAU0179",
+        "credit": 4,
+        "serial": 2741,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 6,
+                "to": 7,
+                "campus": "公館",
+                "classroom": "Ｂ103"
+            },
+            {
+                "day": 4,
+                "from": 6,
+                "to": 7,
+                "campus": "公館",
+                "classroom": "Ｂ103"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎必須先修過【MAU0178  微積分甲（一）】",
+        "form_s": "1",
+        "classes": "3",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "離散數學",
+        "teachers": [
+            "鄭硯仁"
+        ],
+        "department": "SU40",
+        "code": "MAU0021",
+        "credit": 3,
+        "serial": 2742,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 22
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 8,
+                "to": 10,
+                "campus": "公館",
+                "classroom": "Ｅ101"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "圖形學",
+        "teachers": [
+            "郭君逸"
+        ],
+        "department": "SU40",
+        "code": "MAU0022",
+        "credit": 3,
+        "serial": 2743,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 40
+        },
+        "schedule": [
+            {
+                "day": 5,
+                "from": 6,
+                "to": 8,
+                "campus": "公館",
+                "classroom": "Ｂ103"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "微分方程特論",
+        "teachers": [
+            "林月珍"
+        ],
+        "department": "SU40",
+        "code": "MAU0023",
+        "credit": 3,
+        "serial": 2744,
+        "group": "A",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 6,
+                "to": 8,
+                "campus": "公館",
+                "classroom": "Ｃ002"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "微分方程特論",
+        "teachers": [
+            "林惠娥"
+        ],
+        "department": "SU40",
+        "code": "MAU0023",
+        "credit": 3,
+        "serial": 2745,
+        "group": "B",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 5,
+                "from": 2,
+                "to": 4,
+                "campus": "公館",
+                "classroom": "Ｃ002"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "高等幾何（一）",
+        "teachers": [
+            "陳瑞堂"
+        ],
+        "department": "SU40",
+        "code": "MAU0128",
+        "credit": 3,
+        "serial": 2746,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 6,
+                "to": 7,
+                "campus": "公館",
+                "classroom": "Ｃ002"
+            },
+            {
+                "day": 2,
+                "from": 8,
+                "to": 8,
+                "campus": "公館",
+                "classroom": "理圖801"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "機率導論",
+        "teachers": [
+            "呂翠珊"
+        ],
+        "department": "SU40",
+        "code": "MAU0153",
+        "credit": 3,
+        "serial": 2747,
+        "group": "A",
+        "quota": {
+            "limit": 50,
+            "additional": 25
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 6,
+                "to": 8,
+                "campus": "公館",
+                "classroom": "Ｅ102"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "機率導論",
+        "teachers": [
+            "蔡碧紋"
+        ],
+        "department": "SU40",
+        "code": "MAU0153",
+        "credit": 3,
+        "serial": 2748,
+        "group": "B",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 6,
+                "to": 8,
+                "campus": "公館",
+                "classroom": "Ｂ103"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "高等微積分（二）",
+        "teachers": [
+            "林延輯"
+        ],
+        "department": "SU40",
+        "code": "MAU0163",
+        "credit": 4,
+        "serial": 2749,
+        "group": "A",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 3,
+                "to": 4,
+                "campus": "公館",
+                "classroom": "Ｅ302"
+            },
+            {
+                "day": 4,
+                "from": 6,
+                "to": 7,
+                "campus": "公館",
+                "classroom": "Ｅ302"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎必須先修過【MAU0162  高等微積分（一）】",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "高等微積分（二）",
+        "teachers": [
+            "陳賢修"
+        ],
+        "department": "SU40",
+        "code": "MAU0163",
+        "credit": 4,
+        "serial": 2750,
+        "group": "B",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 3,
+                "to": 4,
+                "campus": "公館",
+                "classroom": "Ｃ002"
+            },
+            {
+                "day": 4,
+                "from": 6,
+                "to": 7,
+                "campus": "公館",
+                "classroom": "Ｃ002"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎必須先修過【MAU0162  高等微積分（一）】",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "高等微積分探索（二）",
+        "teachers": [
+            "林延輯"
+        ],
+        "department": "SU40",
+        "code": "MAU0175",
+        "credit": 1,
+        "serial": 2751,
+        "group": "A",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 8,
+                "to": 8,
+                "campus": "公館",
+                "classroom": "Ｅ302"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎必須先修過(也可以同時修)【MAU0163  高等微積分（二）】",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "高等微積分探索（二）",
+        "teachers": [
+            "陳賢修"
+        ],
+        "department": "SU40",
+        "code": "MAU0175",
+        "credit": 1,
+        "serial": 2752,
+        "group": "B",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 8,
+                "to": 8,
+                "campus": "公館",
+                "classroom": "Ｃ002"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎必須先修過(也可以同時修)【MAU0163  高等微積分（二）】",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "代數學（二）",
+        "teachers": [
+            "紀文鎮"
+        ],
+        "department": "SU40",
+        "code": "MAU0167",
+        "credit": 3,
+        "serial": 2753,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 3,
+                "to": 4,
+                "campus": "公館",
+                "classroom": "Ｅ202"
+            },
+            {
+                "day": 4,
+                "from": 3,
+                "to": 3,
+                "campus": "公館",
+                "classroom": "Ｃ003"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎必須先修過【MAU0166  代數學（一）】",
+        "form_s": "2",
+        "classes": "1",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "代數學探索（二）",
+        "teachers": [
+            "紀文鎮"
+        ],
+        "department": "SU40",
+        "code": "MAU0177",
+        "credit": 1,
+        "serial": 2754,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 4,
+                "to": 4,
+                "campus": "公館",
+                "classroom": "Ｃ003"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎必須先修過(也可以同時修)【MAU0167  代數學（二）】",
+        "form_s": "2",
+        "classes": "1",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "代數學（二）",
+        "teachers": [
+            "劉容真"
+        ],
+        "department": "SU40",
+        "code": "MAU0167",
+        "credit": 3,
+        "serial": 2755,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 3,
+                "to": 4,
+                "campus": "公館",
+                "classroom": "Ｂ103"
+            },
+            {
+                "day": 4,
+                "from": 3,
+                "to": 3,
+                "campus": "公館",
+                "classroom": "Ｂ103"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎必須先修過【MAU0166  代數學（一）】",
+        "form_s": "2",
+        "classes": "2",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "代數學探索（二）",
+        "teachers": [
+            "劉容真"
+        ],
+        "department": "SU40",
+        "code": "MAU0177",
+        "credit": 1,
+        "serial": 2756,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 4,
+                "to": 4,
+                "campus": "公館",
+                "classroom": "Ｂ103"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎必須先修過(也可以同時修)【MAU0167  代數學（二）】",
+        "form_s": "2",
+        "classes": "2",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "代數學（二）",
+        "teachers": [
+            "洪有情"
+        ],
+        "department": "SU40",
+        "code": "MAU0167",
+        "credit": 3,
+        "serial": 2757,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 3,
+                "to": 4,
+                "campus": "公館",
+                "classroom": "Ｅ101"
+            },
+            {
+                "day": 3,
+                "from": 6,
+                "to": 6,
+                "campus": "公館",
+                "classroom": "Ｃ003"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎必須先修過【MAU0166  代數學（一）】",
+        "form_s": "2",
+        "classes": "3",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "代數學探索（二）",
+        "teachers": [
+            "洪有情"
+        ],
+        "department": "SU40",
+        "code": "MAU0177",
+        "credit": 1,
+        "serial": 2758,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 7,
+                "to": 7,
+                "campus": "公館",
+                "classroom": "Ｃ003"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎必須先修過(也可以同時修)【MAU0167  代數學（二）】",
+        "form_s": "2",
+        "classes": "3",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "複變數函數論",
+        "teachers": [
+            "張毓麟"
+        ],
+        "department": "SU40",
+        "code": "MAU0013",
+        "credit": 3,
+        "serial": 2759,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 2,
+                "to": 4,
+                "campus": "公館",
+                "classroom": "Ｃ002"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎必須先修過【MAU0179  微積分甲（二）】、【MAU0181  微積分乙（二）】其中一門",
+        "form_s": "3",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "拓樸學（一）",
+        "teachers": [
+            "林俊吉"
+        ],
+        "department": "SU40",
+        "code": "MAU0027",
+        "credit": 3,
+        "serial": 2760,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 5,
+                "from": 2,
+                "to": 4,
+                "campus": "公館",
+                "classroom": "數學館M210"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "3",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "代數特論（二）",
+        "teachers": [
+            "劉容真"
+        ],
+        "department": "SU40",
+        "code": "MAU0031",
+        "credit": 3,
+        "serial": 2761,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 7,
+                "to": 9,
+                "campus": "公館",
+                "classroom": "Ｅ101"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "3",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "微分幾何（二）",
+        "teachers": [
+            "陳瑞堂"
+        ],
+        "department": "SU40",
+        "code": "MAU0107",
+        "credit": 3,
+        "serial": 2762,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 5,
+                "from": 6,
+                "to": 6,
+                "campus": "公館",
+                "classroom": "理圖807"
+            },
+            {
+                "day": 5,
+                "from": 7,
+                "to": 8,
+                "campus": "公館",
+                "classroom": "Ｃ002"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "3",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "學習評量（教）",
+        "teachers": [
+            "陳建誠"
+        ],
+        "department": "SU40",
+        "code": "MAUE074",
+        "credit": 2,
+        "serial": 2763,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 6,
+                "to": 7,
+                "campus": "公館",
+                "classroom": "教室自排"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "3",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "課程發展與設計（教）",
+        "teachers": [
+            "王婷瑩"
+        ],
+        "department": "SU40",
+        "code": "MAUE075",
+        "credit": 2,
+        "serial": 2764,
+        "group": "",
+        "quota": {
+            "limit": 30,
+            "additional": 6
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 6,
+                "to": 7,
+                "campus": "公館",
+                "classroom": "教室自排"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "3",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "數理統計（一）",
+        "teachers": [
+            "張少同"
+        ],
+        "department": "SU40",
+        "code": "MAU0056",
+        "credit": 3,
+        "serial": 2765,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 6,
+                "to": 8,
+                "campus": "公館",
+                "classroom": "Ｃ005"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "4",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "數學教學解題（二）",
+        "teachers": [
+            "游森棚"
+        ],
+        "department": "SU40",
+        "code": "MAU0150",
+        "credit": 3,
+        "serial": 2766,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 6,
+                "to": 8,
+                "campus": "公館",
+                "classroom": "教室自排"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "4",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "數學教學實習（二）（教）",
+        "teachers": [
+            "楊凱琳"
+        ],
+        "department": "SU40",
+        "code": "MAUE210",
+        "credit": 2,
+        "serial": 2767,
+        "group": "A",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 5,
+                "from": 1,
+                "to": 4,
+                "campus": "公館",
+                "classroom": "教室自排"
+            }
+        ],
+        "programs": [
+            "國際教師學程-數學"
+        ],
+        "comment": "",
+        "restrict": "",
+        "form_s": "4",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "數學教學實習（二）（教）",
+        "teachers": [
+            "王婷瑩"
+        ],
+        "department": "SU40",
+        "code": "MAUE210",
+        "credit": 2,
+        "serial": 2768,
+        "group": "B",
+        "quota": {
+            "limit": 30,
+            "additional": 6
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 1,
+                "to": 4,
+                "campus": "公館",
+                "classroom": "教室自排"
+            }
+        ],
+        "programs": [
+            "國際教師學程-數學"
+        ],
+        "comment": "",
+        "restrict": "",
+        "form_s": "4",
+        "classes": "",
+        "dept_group": ""
+    }
+]

@@ -1,0 +1,81 @@
+{
+    "year": 108,
+    "term": 2,
+    "name": "體育（太極拳初級）",
+    "teachers": [
+        "黃長福"
+    ],
+    "department": "PE",
+    "code": "00UP121",
+    "credit": 1,
+    "serial": 2454,
+    "group": "C",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 6,
+            "to": 7,
+            "campus": "本部",
+            "classroom": "武術房一"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 2,
+    "description": "認識太極拳的源流及背景思想，學習傾聽身體活動中的身心線索。",
+    "goals": [
+        "認識太極拳的源流及背景思想，學習傾聽身體活動中的身心線索。",
+        "學會太極功操，養成太極拳正確身形，熟習太極老架套拳的頭、中段。",
+        "培養以太極拳為休閒、養生、練身的生活習慣。"
+    ],
+    "syllabus": "每週教學進度： 第一週：基本功操 1. 搖柱 2. 拉筋揉膝、壓腿、擺尾、攀足、開閤後瞧、搖頭 第二週：側舉、聳肩、涮腰 3. 轉腰 4. 揉胯 5. 套腿 第三週：OO五白鶴亮翅、OO六摟膝拗步 第四週：OO七手揮琵琶、OO八摟膝拗步 第五週：OO九手揮琵琶、O一O摟膝拗步 第六週：各組分開教學觀摩 第七週：OO三單鞭、OO四提手上勢 第八週：OO一太極起式、OO二攬雀尾複習一般架式 第九週：O一一搬攔捶 第十週：O一二如封似閉、O一三十字手 第十一週：複習第一段分組教學觀摩 第十二週：O一四抱虎歸山 第十三週：O一五單鞭、O一六肘底捶 第十四週：O一七倒輦猴、O一八斜飛+綜合複習 第十五週：期末考試 第十六週：期末考試 第十七週：早晨師大武場練習+自主學習 第十八週：早晨師大武場練習+自主學習",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "Lecture and demo in the class"
+        },
+        {
+            "type": "合作學習",
+            "note": "group practice and improvement"
+        },
+        {
+            "type": "實驗/實作",
+            "note": "practice with other students and correct the mistakes"
+        },
+        {
+            "type": "媒體融入教學",
+            "note": "photos and taichi video clips on Moodle class"
+        },
+        {
+            "type": "專題研究",
+            "note": "discussion in the class related to the correct movement"
+        }
+    ],
+    "grading": [
+        {
+            "type": "課堂討論參與",
+            "weight": 30,
+            "note": "group practice and discussion"
+        },
+        {
+            "type": "出席",
+            "weight": 30,
+            "note": "must present and practice in the class"
+        },
+        {
+            "type": "成果展覽",
+            "weight": 40,
+            "note": "final test"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

@@ -1,0 +1,66 @@
+{
+    "year": 110,
+    "term": 2,
+    "name": "量子力學（一）",
+    "teachers": [
+        "陳鴻宜"
+    ],
+    "department": "SM41",
+    "code": "PHC0011",
+    "credit": 3,
+    "serial": 2620,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 4,
+            "from": 2,
+            "to": 4,
+            "campus": "公館",
+            "classroom": "Ｓ406"
+        }
+    ],
+    "programs": [],
+    "comment": "僅限本系已修過量子力學(一)但未獲取學分之學生",
+    "restrict": "◎第一階段需人工加選◎第二階段需人工加選◎加退選階段需人工加選 ◎課程開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "",
+    "goals": [
+        "瞭解量子力學的發展及理論",
+        "加強理性思維能力",
+        "簡介物理新知",
+        "物理研究能力培養"
+    ],
+    "syllabus": " \n\n**Term I: (Textbook Chapter 1-4)**\n\nFundamentals of Quantum Mechanics\n\nQuantum Dynamics\n\nAngular Momentum and Spin\n\nSymmetry  (if time allows, or will be discussed in term II)\n\n**Term II: (Textbook Chapter 5-7)**\n\nApproximation Methods\n\nScattering Theory\n\nIdentical Particles",
+    "methodologies": [
+        {
+            "type": "Formal lecture",
+            "note": "一般上課方法"
+        }
+    ],
+    "grading": [
+        {
+            "type": "Assignments",
+            "weight": 25,
+            "note": ""
+        },
+        {
+            "type": "Midterm Exam",
+            "weight": 35,
+            "note": ""
+        },
+        {
+            "type": "Final exam",
+            "weight": 40,
+            "note": ""
+        }
+    ],
+    "prerequisite": "◎First phase of courses enrollment: Course enrollment by manual◎Second phase of courses enrollment: Course enrollment by manual◎Add/Drop period: Course enrollment by manual ◎Available for junior and senior year B.A. program students (Doctoral program courses excepted) and M.A. program students.",
+    "general_core": []
+}

@@ -1,0 +1,77 @@
+{
+    "year": 110,
+    "term": 1,
+    "name": "普通心理學（一）",
+    "teachers": [
+        "許禕芳"
+    ],
+    "department": "EU01",
+    "code": "PCU0152",
+    "credit": 2,
+    "serial": 696,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 1,
+            "from": 3,
+            "to": 4,
+            "campus": "本部",
+            "classroom": "教511"
+        }
+    ],
+    "programs": [
+        "音樂輔教學程",
+        "高齡學程"
+    ],
+    "comment": "",
+    "restrict": "",
+    "form_s": "1",
+    "classes": "",
+    "dept_group": "",
+    "hours": 2,
+    "description": "本課程是對心理學的主要範疇、研究方法、重要理論、及研究趨勢等內容做入門性的介紹，以幫助初學者瞭解心理學的基本知識。",
+    "goals": [
+        "瞭解人類行為與心理特質的發展。",
+        "熟悉心理學的理論及研究趨勢。",
+        "瞭解心理學常用的研究方法。"
+    ],
+    "syllabus": "授課方式：16+2週(Research participation)\n\n第01週 (27SEP)：Introduction  \n第02週 (04OCT)：The nature of psychology (Chapter01)  \n第03週 (11OCT)：Holiday  \n第04週 (18OCT)：Biological foundations of psychology (Chapter02)  \n第05週 (25OCT)：Psychological development (Chapter03)  \n第06週 (01NOV)：Exam 1  \n第07週 (08NOV)：Sensory processes (Chapter04)  \n第08週 (15NOV)：Perception (Chapter05)  \n第09週 (22NOV)：Perception (Chapter05)  \n第10週 (29NOV)：Consciousness (Chapter06)  \n第11週 (06DEC)：Exam 2  \n第12週 (13DEC)：Leaning and conditioning (Chapter07)  \n第13週 (20DEC)：Leaning and conditioning (Chapter07)  \n第14週 (27DEC)：Memory (Chapter08)  \n第15週 (03JAN)：Language and thought (Chapter09)  \n第16週 (10JAN)：Exam 3  \n第17週 (17JAN)：Research participation  \n第18週 (24JAN)：Research participation",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "期中考",
+            "weight": 50,
+            "note": "考試時間兩節課，第1次內容包含第01-03章，第2次內容包含第04-06章。"
+        },
+        {
+            "type": "期末考",
+            "weight": 25,
+            "note": "考試時間兩節課，內容包含第07-09章。"
+        },
+        {
+            "type": "出席",
+            "weight": 20,
+            "note": "準時出席並積極參與課程活動。"
+        },
+        {
+            "type": "其他",
+            "weight": 5,
+            "note": "學期當中至少擔任兩次心理學研究參與者。"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

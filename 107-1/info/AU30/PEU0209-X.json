@@ -1,0 +1,78 @@
+{
+    "year": 107,
+    "term": 1,
+    "name": "人體動作分析",
+    "teachers": [
+        "李恆儒"
+    ],
+    "department": "AU30",
+    "code": "PEU0209",
+    "credit": 2,
+    "serial": 121,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 1,
+            "from": 8,
+            "to": 9,
+            "campus": "本部",
+            "classroom": "樸106"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "4",
+    "classes": "",
+    "dept_group": "",
+    "hours": 2,
+    "description": "介紹人體動作分析之基本概念\n教授三角函數運算\n基礎解剖學與生物力學複習\n生物力學概念儀器操作示範",
+    "goals": [
+        "瞭解人體動作分析之基礎概念",
+        "瞭解基礎解剖學與生物力學之概念",
+        "認識生物力學相關儀器之應用"
+    ],
+    "syllabus": "week 1: 課程簡介 \n\nweek 2-4: 向量定義\n\nweek 4-5: 三角函數運算  \nweek 6-7: 基礎解剖學複習  \nweek 8: 期中考\n\nweek 9-12: 生物力學概念  \nweek 13-14: 儀器操作示範與學習  \nweek 15-17: 資料採集與分析\n\nweek 18: 期末考",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "課堂授課"
+        },
+        {
+            "type": "討論法",
+            "note": "分組討論"
+        },
+        {
+            "type": "實驗/實作",
+            "note": "實驗操作"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 20,
+            "note": ""
+        },
+        {
+            "type": "期中考",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "出席",
+            "weight": 20,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

@@ -1,0 +1,74 @@
+{
+    "year": 110,
+    "term": 1,
+    "name": "車輛控制器設計",
+    "teachers": [
+        "林湛喬"
+    ],
+    "department": "HU76",
+    "code": "VEU0042",
+    "credit": 3,
+    "serial": 1363,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 5,
+            "from": 6,
+            "to": 8,
+            "campus": "本部",
+            "classroom": "工209"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程提供車輛控制器設計實務概論，課程一開始先針對動力系統建模、控制理論與嵌入式控制器等背景做介紹，接著以電動車為平台講解核心控制器(整車控制器、電池管理系統、馬達控制器)的原理及設計，後續延伸至混動車與燃料電池車上的控制系統，並對車輛動態控制系統做介紹；最後著重於說明車輛控制器的軟硬體實現與其在汽車產業中的設計開發相關流程及標準。",
+    "goals": [
+        "具備車用控制器所需之知識與理解力。",
+        "具備車用控制器所需之問題解決能力。",
+        "具備車用控制器之設備操作與檢修實務技能。",
+        "具備主動積極與終身學習之人格特質。",
+        "具備良好的溝通與表達能力。",
+        "具備職場專業倫理與社會服務的理解與行動。",
+        "具備尊重智慧財產權的認知與態度。"
+    ],
+    "syllabus": "課程實施時間與綱要：\n\n第一週    課程簡介 Course Introduction\n\n第二週    系統建模與控制簡介 Background on modeling and controls\n\n第三週    嵌入式控制系統簡介 Background on embedded control system\n\n第四週    電動車架構與分析 Electric vehicle architecture and analysis\n\n第五週    整車控制器 Vehicle Control Unit (VCU)\n\n第六週    電池管理系統 Battery Management System (BMS)\n\n第七週    馬達控制器 Motor Control Unit (MCU)\n\n第八週    混動車&燃料電池車控制 Hybrid vehicle & fuel cell vehicle controls\n\n第九週    期中考試 Mid-term exam\n\n第十週    引擎與車輛縱向控制 Engine and vehicle longitudinal controls\n\n第十一週 車輛橫向與垂向控制 Vehicle lateral and vertical controls\n\n第十二週 車輛控制器硬體 Vehicle controller hardware\n\n第十三週 車輛控制器軟體 Vehicle controller software\n\n第十四週 車輛傳感器與致動器 Vehicle sensors and actuators\n\n第十五週 車輛通訊網路與故障診斷 Communication network and diagnostics\n\n第十六週 車輛控制系統開發流程 Vehicle control system development process\n\n第十七週 相關標準及案例分析 Reference standards and case study\n\n第十八週 期末報告 Finals",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "期中考",
+            "weight": 25,
+            "note": ""
+        },
+        {
+            "type": "報告",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "其他",
+            "weight": 15,
+            "note": "小考"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

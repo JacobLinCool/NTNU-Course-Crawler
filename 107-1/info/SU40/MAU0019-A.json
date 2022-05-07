@@ -1,0 +1,85 @@
+{
+    "year": 107,
+    "term": 1,
+    "name": "數值分析（一）",
+    "teachers": [
+        "謝世峰"
+    ],
+    "department": "SU40",
+    "code": "MAU0019",
+    "credit": 3,
+    "serial": 2773,
+    "group": "A",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 1,
+            "from": 6,
+            "to": 7,
+            "campus": "公館",
+            "classroom": "Ｂ103"
+        },
+        {
+            "day": 1,
+            "from": 8,
+            "to": 8,
+            "campus": "公館",
+            "classroom": "理圖807"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "3",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程在介紹如何利用電腦來處理我們所熟悉的數學問題，如求解聯立方程式、矩陣之特徵值與特徵向量、積分與微分、微分方程之解等，進而對計算結果進行誤差分析，是科學計算領域中的一門基礎科目。",
+    "goals": [
+        "建立數值誤差觀念",
+        "培養撰寫程式解決數學問題的能力",
+        "提昇程式效能概念及數值結果比較與整理的能力"
+    ],
+    "syllabus": "課程介紹: 1週\n\nMathematical preliminaries: 2~3週\n\nDirect methods for solving linear systems: 3~4週\n\nIterative techniques in matrix algebra: 4~5週\n\nSolutions of equations in one variable: 3~4週\n\nNumerical solutions of nonlinear systems of equations: 3~4週",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "透過講述方式介紹課程內容"
+        },
+        {
+            "type": "討論法",
+            "note": "分析同學所撰寫之程式，討論如何修改以增進其效能"
+        },
+        {
+            "type": "其他",
+            "note": "程式撰寫(經由指定之程式作業，增進同學學習效果)"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 10,
+            "note": ""
+        },
+        {
+            "type": "期中考",
+            "weight": 35,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 35,
+            "note": ""
+        },
+        {
+            "type": "報告",
+            "weight": 20,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

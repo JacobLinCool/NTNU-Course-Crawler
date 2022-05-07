@@ -1,0 +1,173 @@
+[
+    {
+        "year": 109,
+        "term": 1,
+        "name": "影像處理",
+        "teachers": [
+            "陳皇利"
+        ],
+        "department": "HU72",
+        "code": "GCU0027",
+        "credit": 2,
+        "serial": 3362,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 10,
+                "to": 11,
+                "campus": "本部",
+                "classroom": "教401"
+            }
+        ],
+        "programs": [
+            "知識轉譯學程"
+        ],
+        "comment": "",
+        "restrict": "",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 1,
+        "name": "影視劇本編寫",
+        "teachers": [
+            "劉立行"
+        ],
+        "department": "HU72",
+        "code": "GCU0037",
+        "credit": 3,
+        "serial": 1300,
+        "group": "",
+        "quota": {
+            "limit": 30,
+            "additional": 0
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 11,
+                "to": 13,
+                "campus": "本部",
+                "classroom": "綜701"
+            }
+        ],
+        "programs": [
+            "知識轉譯學程"
+        ],
+        "comment": "",
+        "restrict": "",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 1,
+        "name": "動畫實務基礎",
+        "teachers": [
+            "張晏榕"
+        ],
+        "department": "HU72",
+        "code": "GCU0186",
+        "credit": 3,
+        "serial": 1304,
+        "group": "",
+        "quota": {
+            "limit": 30,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 5,
+                "from": 2,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "教403"
+            }
+        ],
+        "programs": [
+            "科技藝術學程",
+            "知識轉譯學程"
+        ],
+        "comment": "因受限電腦教室可容納人數，無法開放授權碼",
+        "restrict": "",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 1,
+        "name": "社區文化資產保存與臺灣史研究",
+        "teachers": [
+            "范燕秋"
+        ],
+        "department": "LM27",
+        "code": "THM0044",
+        "credit": 3,
+        "serial": 1760,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 2,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "勤308"
+            }
+        ],
+        "programs": [
+            "知識轉譯學程"
+        ],
+        "comment": "",
+        "restrict": "◎課程開放上修",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 1,
+        "name": "公眾史學的理論與實作",
+        "teachers": [
+            "許佩賢"
+        ],
+        "department": "LM27",
+        "code": "THM0076",
+        "credit": 3,
+        "serial": 1762,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 5,
+                "from": 6,
+                "to": 8,
+                "campus": "本部",
+                "classroom": "勤308"
+            }
+        ],
+        "programs": [
+            "知識轉譯學程"
+        ],
+        "comment": "",
+        "restrict": "◎課程開放上修",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    }
+]

@@ -1,0 +1,74 @@
+{
+    "year": 110,
+    "term": 2,
+    "name": "財務管理",
+    "teachers": [
+        "周德瑋"
+    ],
+    "department": "OU57",
+    "code": "BAU0007",
+    "credit": 3,
+    "serial": 2442,
+    "group": "B",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 2,
+            "to": 4,
+            "campus": "本部",
+            "classroom": "誠201"
+        }
+    ],
+    "programs": [],
+    "comment": "企管系大二學生學號末碼為單數號請選修財務管理A班;末碼為雙數號請選修財務管理B班。",
+    "restrict": "◎必須先修過【BAU0037  會計學（二）】 ◎課程開放上修",
+    "form_s": "2",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "這堂課的目標在於介紹公司財務之基本概念，主題包含理論與實務的探討，希望透過這堂課的訓練，能讓學生對公司之投資及融資活動有進一步之瞭解。",
+    "goals": [
+        "知識／認知",
+        "職能導向",
+        "價值/倫理"
+    ],
+    "syllabus": "**Week Date Topic**\n\n1.Orientation to the class: discuss syllabus and course assignments, explore student’s expectation about this course\n\n 2.Corporate Finance and the Financial Manage\n\n**Ch1:**\n\n**Shareholder Activism and Voting Rights**\n\n**NYSE, AMEX, DJIA, S&P500: Awash in Acronyms**\n\n 3.Introduction to Financial Statement Analysis\n\n**Ch2:**\n\n**International Financial Reporting Standards**\n\n**Common Mistake---Mismatched Ratios**\n\n**Interview with Sue Frieden**\n\n4.The Valuation Principle: The Foundation of Financial Decision Making\n\n**Ch3:**\n\n**Your Personal Financial Decisions**\n\n**When Competitive Market Prices Are Not Available**\n\n**An Old Joke**\n\n5.NPV and The Time Value of Money\n\n**Ch4:**\n\n**Common Mistake---Summing Cash Flows Across Time**\n\n**Historical Examples of Perpetuities**\n\n**Common Mistake---Discounting One Too Many Times(11)**\n\n6.Interest Rates + Quiz 1\n\n**Ch5:**\n\n**Common Mistake---Using the EAR in the Annuity Formula**\n\n**How Is Inflation Actually Calculated?**\n\n**Common Mistake---Using the Annuity Formula When Discount Rates Vary**\n\n**Interest Rates, Discount Rates, and the Cost of Capital**\n\n7.Valuing Bonds\n\n**Ch6:**\n\n**The U.S. Treasury Market**\n\n**Finding Bond Prices on the Web**\n\n**Clean and Dirty Prices for Coupon Bonds**\n\n8.Valuing Bonds\n\n**Ch6**\n\n**Interview with Lisa Black**\n\n**Bond Ratings and the 2007-2008 Subprime Crisis**\n\n9.Mid-term Exam\n\n10.Valuing Stocks\n\n**Ch9:**\n\n**Interview with Marilyn Fedak**\n\n11.Valuing Stocks\n\n12.Investment Decision Rules / Fundamental of Capital Budgeting\n\n**Ch7:**\n\n**Common Mistake---IRR Versus the IRR Rule**\n\n**Why Do Rules Other Than the NPV Rule Persist?**\n\n**Interview with Dick Grannis**\n\n13.Fundamental of Capital Budgeting\n\n**Ch8:**\n\n**Common Mistake---The Opportunity Cost of and Idle Asset**\n\n14.Risk and Return in Capital Markets\n\n**Ch10:**\n\n**Arithmetic Average Returns Versus Compound Annual Returns**\n\n**Common Mistake**\n\n**Common Mistake---A Fallacy of Long-Run diversification**\n\n15.Risk and Return in Capital Markets + Quiz 2\n\n16.Systematic Risk and the Equity Risk Premium\n\n**Ch11:**\n\n**Nobel Prize---Harry Markowitz**\n\n**Index Funds**\n\n**Common Mistake---Mixing Standard Deviation and Beta**\n\n17.Systematic Risk and the Equity Risk Premium  \n**Why Not Estimate Expected Returns Directly?**\n\n**Nobel Prize---William Sharpe**\n\n18.Final Exam.",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "詳細講述教材內容，探討理論和實務之議題，從公司的基本介紹到各種工具和評價模式的運用，最後再講解相關之個案內容。 Explain textbook content and case."
+        },
+        {
+            "type": "其他",
+            "note": "上台報告：課堂中針對不同議題報告、互動討論、提出不同觀點和解決方案，再藉由個案的討論分析達到訓練學生思辨、增進溝通能力。\nDiscuss different methods and viewpoints for any given scenario."
+        }
+    ],
+    "grading": [
+        {
+            "type": "期中考",
+            "weight": 30,
+            "note": "Multiple choice and problems solving."
+        },
+        {
+            "type": "期末考",
+            "weight": 30,
+            "note": "Multiple choice and problems solving."
+        },
+        {
+            "type": "報告",
+            "weight": 20,
+            "note": "Presentation + Participation"
+        },
+        {
+            "type": "其他",
+            "weight": 20,
+            "note": "Quiz: Multiple choice and problems solving. If student is found to be absent from class without any reason more than five times, s/he will fail this course."
+        }
+    ],
+    "prerequisite": "◎必須先修過【BAU0037  會計學（二）】",
+    "general_core": []
+}

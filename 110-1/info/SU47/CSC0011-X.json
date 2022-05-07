@@ -1,0 +1,69 @@
+{
+    "year": 110,
+    "term": 1,
+    "name": "電腦輔助VLSI設計",
+    "teachers": [
+        "黃文吉"
+    ],
+    "department": "SU47",
+    "code": "CSC0011",
+    "credit": 3,
+    "serial": 3047,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 5,
+            "from": 7,
+            "to": 9,
+            "campus": "公館",
+            "classroom": "Ｂ101"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "",
+    "classes": "9",
+    "dept_group": "",
+    "hours": 3,
+    "description": "課程主要教學目的為介紹VLSI設計方法，包含硬體描述語言、VLSI設計流程，以及相關電腦輔助設計工具等。",
+    "goals": [
+        "了解VHDL以及Verilog等硬體描述語言",
+        "了解FPGA以及ASIC等相關之VLSI設計流程",
+        "介紹Quantus II、Modelsim以及Design Compiler等電腦輔助設計工具"
+    ],
+    "syllabus": "授課方式：16週\n\n1.Introduction to VLSI Design\n\n  \n2.VHDL and Verilog\n\n3.Implementation of Register, Counter and FSM\n\n  \n4.Implementation of MIPS CPU\n\n5.Test Bench Design\n\n6.Programmable Logic Device\n\n7.VLSI Realization of Digital Filters\n\n8.VLSI Realization of 2D Filters\n\n9.Standard Cell Design",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "以 ppt講述"
+        },
+        {
+            "type": "實驗/實作",
+            "note": "以 VHDL/Verilog實作為主"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 40,
+            "note": "約5-6作業，以 VHDL/Verilog實作為主"
+        },
+        {
+            "type": "期中考",
+            "weight": 30,
+            "note": "紙筆測驗"
+        },
+        {
+            "type": "期末考",
+            "weight": 30,
+            "note": "紙筆測驗"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

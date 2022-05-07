@@ -1,0 +1,72 @@
+{
+    "year": 108,
+    "term": 2,
+    "name": "數論",
+    "teachers": [
+        "劉家新"
+    ],
+    "department": "SU40",
+    "code": "MAU0003",
+    "credit": 3,
+    "serial": 2657,
+    "group": "A",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 2,
+            "to": 2,
+            "campus": "公館",
+            "classroom": "Ｂ103"
+        },
+        {
+            "day": 5,
+            "from": 3,
+            "to": 4,
+            "campus": "公館",
+            "classroom": "Ｂ103"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "1",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程讓學生瞭解邏輯、推理、歸納與論證的能力與基礎數論的基本理論，以作為學生未來修習其他數學課程的基礎。",
+    "goals": [
+        "訓練學生掌握數論的基本理論",
+        "訓練學生可以用算術的語言進行溝通、表達",
+        "培養學生將數論知識應用到其他學科的能力"
+    ],
+    "syllabus": "1\\. Elementary properties of integers (3 weeks)  \n2\\. Arithmetic functions (3 weeks)  \n3\\. Congruence (2 weeks)\n\nMidterm exam\n\n4\\. Congruence equations, Chinese remainder theorem (3 weeks)  \n5\\. Quadratic congruences (4 weeks)  \n6\\. Selected topics (1 week)\n\nFinal exam",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "課堂講解、文獻閱讀、習題及期中期末評量。"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 20,
+            "note": ""
+        },
+        {
+            "type": "期中考",
+            "weight": 40,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 40,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

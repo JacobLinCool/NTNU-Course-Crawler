@@ -1,0 +1,93 @@
+{
+    "year": 107,
+    "term": 2,
+    "name": "資料庫理論",
+    "teachers": [
+        "柯佳伶"
+    ],
+    "department": "SU47",
+    "code": "CSU0034",
+    "credit": 3,
+    "serial": 2957,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 1,
+            "from": 3,
+            "to": 4,
+            "campus": "公館",
+            "classroom": "Ｂ102"
+        },
+        {
+            "day": 5,
+            "from": 2,
+            "to": 2,
+            "campus": "公館",
+            "classroom": "理圖807"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "3",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "介紹資料庫資料模型、設計方法、理論、查詢語言，及基本運作原理，並建立學生發展以資料庫為底層之應用程式實作能力",
+    "goals": [
+        "1.具有軟體開發能力 2.能熟悉資訊基礎理論 3.具有資訊系統發展分析與整合能力 4.具有研究創新的能力"
+    ],
+    "syllabus": " **week 1**\n\n**Introduction**\n\n **week 2**\n\n**Relational Model**\n\n**Team member and Porject topic due**\n\n **week 3**\n\n**Entity-Relationship Model**\n\n **week 4**\n\n**Entity-Relationship Model**\n\n**Project Report 1-1 due**\n\n **week 5**\n\n**Relational Algebra**\n\n **week 6**\n\n**Relational Algebra**\n\n**Project Report 1-2 due**\n\n **week 7**\n\n**Relational Algebra**\n\n **week 8**\n\n**SQL**\n\n **week 9**\n\n**SQL**\n\n**Project Report 2 due**\n\n **week 10**\n\n**SQL**\n\n **week 11**\n\n**SQL**\n\n**Midterm Exam** \n\n **week 12**\n\n**SQL**              \n\n **week 13**\n\n**Inte**r**mediate SQL**\n\n**Project Report 3** \n\n **week 14**\n\n**Relational Database Design**\n\n **week 15**\n\n**Relational Database Design**\n\n **week 16**\n\n**Relational Database Design**\n\n **week 17**\n\n**Relational Database Design**              \n\n**Final Exam.**\n\n **week 18**\n\n**Project Demo**",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "合作學習",
+            "note": "分組討論上課練習"
+        },
+        {
+            "type": "實驗/實作",
+            "note": "進行project規劃及實做"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 15,
+            "note": "含作業小考"
+        },
+        {
+            "type": "期中考",
+            "weight": 20,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 20,
+            "note": ""
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 10,
+            "note": "課堂練習及Lab練習"
+        },
+        {
+            "type": "專題",
+            "weight": 25,
+            "note": "分組資料庫應用設計及實作"
+        },
+        {
+            "type": "其他",
+            "weight": 10,
+            "note": "小組認真繳交及回答課堂提問, 小組同學進步表現。"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

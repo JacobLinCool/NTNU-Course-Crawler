@@ -1,0 +1,86 @@
+{
+    "year": 108,
+    "term": 1,
+    "name": "電子學（一）",
+    "teachers": [
+        "蘇崇彥"
+    ],
+    "department": "HU75",
+    "code": "AEU0006",
+    "credit": 3,
+    "serial": 1337,
+    "group": "B",
+    "quota": {
+        "limit": 50,
+        "additional": 0
+    },
+    "schedule": [
+        {
+            "day": 4,
+            "from": 7,
+            "to": 9,
+            "campus": "本部",
+            "classroom": "樸105"
+        }
+    ],
+    "programs": [
+        "太陽能源與工程學程"
+    ],
+    "comment": "",
+    "restrict": "",
+    "form_s": "2",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "使學生了解最基本的電子元件和電路。內容包括信號源的種類、運算放大器(OPA)、二極體(diode)、金氧半場效電晶體(MOSFET)、雙極性電晶體(BJT)、以及放大器等主題。",
+    "goals": [
+        "增進電子學基本概念的理解",
+        "教育學生運用電子學知識與技術，以解決電子相關之工程問題",
+        "培養學生獨立思考電子相關工程問題之能力",
+        "培養學生對電子學的興趣，進一步奠定學生終身學習之基礎"
+    ],
+    "syllabus": "第1週 (9/14) 課程簡介\n\n第2週 (9/21) 電子電機相關產業發展趨勢  \n       Ch.1 Electronics andSemiconductors  \n       1.1 Signals  \n       1.2 Frequency Spectrumof Signals  \n       1.3Analog and Digital Signals  \n       1.4 Amplifiers \n\n第3週(9/28)  \n        1.5 Circuit Models forAmplifiers  \n        1.6 Frequency Responseof Amplifiers\n\n第4週(10/5)  \n        1.7 Intrinsic Semiconductors  \n        1.8 Doped Semiconductors  \n        1.9-12 Topics on pnJunction\n\n第5週 (10/12)  \n        Ch.2 Operational Amplifiers  \n        2.1 The Ideal Op Amp  \n        2.2 The Inverting Configuration  \n        2.3 The NoninvertingConfiguration  \n        2.4 Difference Amplifiers\n\n第6週(10/19)  \n         2.5 Integrators andDifferentiators  \n         2.6 DC Imperfections  \n         2.7 Effect of Finite Open-Loop Gain andBandwidth on Circuit Performance  \n         2.8 Large-Signal Operation of Op Amps\n\n第7週(10/26)  \n        Ch.3 Diodes  \n        3.1 The Ideal Diode  \n        3.2 Terminal Characteristicsof Junction Diodes  \n        3.3 Modeling the DiodeForward Characteristic  \n        3.4 Operation in theReverse Breakdown Region—Zener Diodes  \n      \n\n第8週(11/2)\n\n        3.5 Rectifier Circuits  \n        3.6 Limiting and ClampingCircuits  \n        3.7 Special Diode Types\n\n第9週(11/9) 期中考\n\n第10週(11/16) 全校運動會(停課一次)\n\n第11週(11/23)  \n        Ch.5 MOS Field-EffectTransistors(MOSFETs)  \n        5.1 Device Structureand Physical Operation  \n        5.2 Current-VoltageCharacteristics  \n        5.3 MOSFET Circuits at DC\n\n第12週(11/30)  \n        5.4 The Body Effect and Other Topics  \n        Ch.4 Bipolar Junction Transistors (BJTs)  \n        4.1 Device Structure and Physical Operation\n\n第13週(12/7)\n\n        4.2 Current-Voltage Characteristics  \n        4.3 BJT Circuits at DC  \n        4.4 Transistor Breakdown and Temperature Effects\n\n第14週(12/14)  \n        Ch.6 Transistor Amplifiers  \n        6.1 Basic Principles  \n        6.2 Small-SignalOperation and Models\n\n第15週(12/21)  \n        6.3 Basic Configurations\n\n第16週(12/28)  \n        6.4 Biasing  \n        6.5 Discrete-Circuit Amplifiers\n\n第17週(1/4)  \n        Review of Amplifiers\n\n第18週(1/11) 期末考",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "講述電子電路工作原理與理論"
+        },
+        {
+            "type": "討論法",
+            "note": "課程進行過程當中，會有一些小問題，提供同學互相討論並回答"
+        },
+        {
+            "type": "媒體融入教學",
+            "note": "透過power point與數位板進行教學"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 20,
+            "note": "上課練習與心得"
+        },
+        {
+            "type": "期中考",
+            "weight": 25,
+            "note": "命題形式包括名詞解釋、簡答題與計算題"
+        },
+        {
+            "type": "期末考",
+            "weight": 25,
+            "note": "命題形式包括名詞解釋、簡答題與計算題"
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 15,
+            "note": "參與課堂討論情形"
+        },
+        {
+            "type": "出席",
+            "weight": 15,
+            "note": "出席率"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

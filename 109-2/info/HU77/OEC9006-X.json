@@ -1,0 +1,81 @@
+{
+    "year": 109,
+    "term": 2,
+    "name": "虛擬儀控程式設計",
+    "teachers": [
+        "廖書賢"
+    ],
+    "department": "HU77",
+    "code": "OEC9006",
+    "credit": 3,
+    "serial": 1336,
+    "group": "",
+    "quota": {
+        "limit": 34,
+        "additional": 0
+    },
+    "schedule": [
+        {
+            "day": 5,
+            "from": 2,
+            "to": 4,
+            "campus": "公館",
+            "classroom": "理圖802"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "",
+    "classes": "9",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本門課將教授如何利用圖形化程式語言(graphical programming language)－Labview設計虛擬儀控程式進行訊號之輸出、擷取以及儀器控制，使學生熟悉虛擬儀控程式的撰寫並進行實際應用操作。將經由課堂講授、作業、程式實作與報告，讓學生學習如何進行虛擬儀控程式的設計與應用，建立未來進入產業與研究之基礎。",
+    "goals": [
+        "使學生了解虛擬儀控程式之基本撰寫",
+        "使學生了解虛擬儀控程式之基本撰寫"
+    ],
+    "syllabus": "第1週      課程介紹\n\n第2週      LabVIEW環境簡介\n\n第3~4週    LabVIEW程式撰寫 VI、Express VIs、 子VI程式的撰寫\n\n第5~7週    程式執行架構-for loop, while loop, case sequence等\n\n第8~9週    複合資料型態:陣列與資料叢集\n\n第10~11週  資料顯示功能:圖形與圖表的應用\n\n第12~13週  字串與檔案輸出入\n\n第14~16週  資料擷取與儀器控制\n\n第17週     期末實作報告",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "講述程式功能、架構與各函式使用方法。"
+        },
+        {
+            "type": "討論法",
+            "note": "進行作業與實作報告討論，加深學生學習與程式撰寫交流。"
+        },
+        {
+            "type": "問題解決教學",
+            "note": "程式撰寫討論、資料收集方法學習如何解決程式問題。"
+        },
+        {
+            "type": "實地考察、參訪",
+            "note": "進行分組實作"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 30,
+            "note": "學生撰寫課後作業，由學生之繳交與得分情況評量作業成績。"
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 20,
+            "note": "課堂討論的積極程度與"
+        },
+        {
+            "type": "出席",
+            "weight": 10,
+            "note": "由學生上課出席狀況評量"
+        },
+        {
+            "type": "報告",
+            "weight": 40,
+            "note": "學生完成實作後進行報告，依報告內容與實作情形評量"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

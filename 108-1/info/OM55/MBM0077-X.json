@@ -1,0 +1,74 @@
+{
+    "year": 108,
+    "term": 1,
+    "name": "企業實習",
+    "teachers": [
+        "黃嘉威"
+    ],
+    "department": "OM55",
+    "code": "MBM0077",
+    "credit": 1,
+    "serial": 2502,
+    "group": "",
+    "quota": {
+        "limit": 30,
+        "additional": 12
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 10,
+            "to": 11,
+            "campus": "本部",
+            "classroom": "雲508"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 2,
+    "description": "主旨藉由學生實習過程，增進財金理論與企業實務之交流互動，並培養出學生良好之工作習慣與職業道德，同步透過實習機會與經驗，讓學生在發揮所學之餘，亦可開拓其畢業後就業管道。",
+    "goals": [
+        "知識與認知層面",
+        "職能導向層面",
+        "個人特質層面",
+        "價值與倫理層面"
+    ],
+    "syllabus": "Week 1 課程介紹及企業實習注意事項與執行方式說明\n\nWeek 2 實習公司志願填寫\n\nWeek 3 實習公司志願分發\n\nWeek 4~12 實習公司實習\n\nWeek 18企業實習期末報告與分享暨實習心得",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "講述企業實習前注意事項與執行方式說明。"
+        },
+        {
+            "type": "討論法",
+            "note": "期末報告分享與討論。"
+        },
+        {
+            "type": "實驗/實作",
+            "note": "學生在教師協助安排下到各大企業實習。"
+        }
+    ],
+    "grading": [
+        {
+            "type": "課堂討論參與",
+            "weight": 40,
+            "note": "企業導師評分-實習單位實習狀況。"
+        },
+        {
+            "type": "出席",
+            "weight": 30,
+            "note": "企業導師評分-實習出勤狀況。"
+        },
+        {
+            "type": "報告",
+            "weight": 30,
+            "note": "期末成果及口頭報告"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

@@ -1,0 +1,80 @@
+{
+    "year": 109,
+    "term": 1,
+    "name": "顯微構造地質學",
+    "teachers": [
+        "葉恩肇",
+        "葉孟宛"
+    ],
+    "department": "SM44",
+    "code": "ESC0286",
+    "credit": 3,
+    "serial": 2730,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 1,
+            "from": 2,
+            "to": 4,
+            "campus": "公館",
+            "classroom": "Ｃ401"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程不開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "構造地質學主要研究地質區域內之構造型態，其成因及在漫長的地質歷史中之演化，本課程主要目標為讓學生瞭解岩石圈板塊運動是地質構造演化的主因，並介紹如何於顯微之尺度下進行顯微構造學之觀測，辨認岩石中不同礦物成長歷史與構造事件之關係，連結岩石學之溫壓條件與不同期之構造事件，由顯微至大區域範圍，連結全地質區域整體的地質於板塊作用幾何上，垂直之溫度與壓力轉變之演化。本課共分為兩大單元：第一單元為基礎至中級相關知識與學說等介紹，由共同授課教師以課堂講述進行教學。其第二單元皆為以主題性討論與實作單元。藉由教師之研究區域（或學生有興趣之區域）為實際例子，引導學生針對一個小的研究區域藉由一系列之實作單元，進行實際之顯微構造與顯微岩石學之分析與討論，以課堂講述、實作、學生報告與討論進行，共同授課教師亦會與學生參與全程之課程。",
+    "goals": [
+        "瞭解岩石圈板塊運動是地質構造演化的主因",
+        "瞭解如何於顯微之尺度下進行顯微構造學之觀測",
+        "辨認岩石中不同礦物成長歷史與構造事件之關係",
+        "由顯微至大區域範圍，連結全地質區域整體的地質於板塊作用幾何上，垂直之溫度與壓力轉變之演化"
+    ],
+    "syllabus": "Week\n\nTopics\n\nReading assignments\n\nWeek 1\n\nIntroduction: natural of microstructural geology\n\nJournal of Structural Geology 22 (2000) 1527-1540\n\nMicrotectonics: Ch1\n\nWeek 2-3\n\nFlow and deformation\n\nMicrotectonics: Ch2\n\nAn outline of structural geology Ch1\n\nEarth structure: Ch5\n\nWeek 4-5\n\nBrittle Deformation mechanisms and their microstructure\n\nDeformation microstructures and mechanisms in minerals and rocks: Ch 1, 2 Microtectonics: Ch3\n\nEarth structure: Ch9\n\nAn outline of structural geology Ch2\n\nWeek 6-8\n\nDuctile Deformation mechanisms and their microstructure\n\nDeformation microstructures and mechanisms in minerals and rocks: Ch 3,4\n\nDeformation microstructures and mechanisms in minerals and rocks: Ch 5,6\n\nWeek 9-11\n\nMetamorphic textures\n\nIntroduction to metamorphic textures and microstructures\n\nEarth structure: Ch11, 13\n\nMicrotectonics: Ch 4\n\nWeek 12-13\n\nOrogenic belt and Shear zone\n\nMicrotectonics: Ch 5\n\nHigh-strain zones1-24\n\nEarth structure: Ch12\n\nWeek 14-18\n\nSpecial topics\n\nPractice home work",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "主要由教師於課堂以多媒體授課"
+        },
+        {
+            "type": "實驗/實作",
+            "note": "針對一區域同一剖面之5-10定向岩石樣本之定向岩石薄片進行顯微構造與岩石學之分析"
+        },
+        {
+            "type": "專題研究",
+            "note": "藉由教師之研究區域（或學生有興趣之區域）為實際例子，引導學生針對一個小的研究區域藉由一系列之實作單元，進行實際之顯微構造與顯微岩石學之分析與討論"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 20,
+            "note": "課程每週之實作作業報告"
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 5,
+            "note": ""
+        },
+        {
+            "type": "報告",
+            "weight": 25,
+            "note": "Review paper 書面+口頭報告(< 20頁)\n針對不同顯微構造形成之機制，分析方法，或研究演進作一文獻回顧統整"
+        },
+        {
+            "type": "專題",
+            "weight": 50,
+            "note": "個人期末書面報告Case study paper（>20頁）：針對一區域同一剖面之5-10定向岩石樣本之定向岩石薄片進行顯微構造與岩石學之分析，釐清不同顯微構造形成之機制，重建研究區域之演化史，並將前人針對此區域之研究作一回顧統整。"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

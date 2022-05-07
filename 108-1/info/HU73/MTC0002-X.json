@@ -1,0 +1,83 @@
+{
+    "year": 108,
+    "term": 1,
+    "name": "機器人學",
+    "teachers": [
+        "陳俊達"
+    ],
+    "department": "HU73",
+    "code": "MTC0002",
+    "credit": 3,
+    "serial": 1292,
+    "group": "",
+    "quota": {
+        "limit": 30,
+        "additional": 12
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 10,
+            "to": 12,
+            "campus": "本部",
+            "classroom": "機電301會議室"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "",
+    "classes": "9",
+    "dept_group": "",
+    "hours": 3,
+    "description": "機器人學講述機器人之運動分析，控制原理及軟硬體設計技術。課程中說明機器人之發展與應用領域，運動學與動力學分析，軌跡規畫與機器人的控制架構。透過課堂說明，範例演算及人形機器人之實際操控，學生將可學習到機器人基本設計概念及分析與控制技術，達到設計與控制機器人的要求。",
+    "goals": [
+        "瞭解機器人之發展與應用領域。",
+        "使學生熟悉機器人運動學、動力學及控制理論。",
+        "使學生具備設計機器人之知識。",
+        "具有操控機器人之實務技術。"
+    ],
+    "syllabus": "第 1 週 Introduction\n\n第 2 週 Rigid Motions and Homogeneous Transformations\n\n第 3 週 Rigid Motions and Homogeneous Transformations\n\n第 4 週 Forward and Inverse Kinematics \n\n第 5 週 Forward and Inverse Kinematics \n\n第 6 週 Velocity Kinematics: Jacobian \n\n第 7 週 Path and Trajectory Planning \n\n第 8 週 Dynamics\n\n第 9 週 Dynamics\n\n第 10 週 期中考\n\n第 11 週 Independent Joint Contro \n\n第 12 週 Independent Joint Contro \n\n第 13 週 人形機器人簡介與開發系統/ INNOBASIC語言 \n\n第 14 週 基本輸出／輸入實驗/馬達控制\n\n第 15 週 週邊模組結合範例/人形機器人控制實例\n\n第 16 週 人形機器人運動控制 \n\n第 17 週 期末專題報告\n\n第 18 週 期末考",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "講述機器人學理論與控制技術"
+        },
+        {
+            "type": "討論法",
+            "note": "課堂隨機討論"
+        },
+        {
+            "type": "實驗/實作",
+            "note": "人形機器人之動作操控實作"
+        },
+        {
+            "type": "專題研究",
+            "note": "分組合作完成機器人相關之期末專題計畫"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 25,
+            "note": ""
+        },
+        {
+            "type": "期中考",
+            "weight": 25,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 25,
+            "note": ""
+        },
+        {
+            "type": "專題",
+            "weight": 25,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

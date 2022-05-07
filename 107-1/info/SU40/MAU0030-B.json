@@ -1,0 +1,74 @@
+{
+    "year": 107,
+    "term": 1,
+    "name": "代數特論（一）",
+    "teachers": [
+        "劉容真"
+    ],
+    "department": "SU40",
+    "code": "MAU0030",
+    "credit": 3,
+    "serial": 2776,
+    "group": "B",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 1,
+            "from": 7,
+            "to": 9,
+            "campus": "公館",
+            "classroom": "Ｅ102"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "3",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程讓學生瞭解抽象代數的理論，以作為學生未來修習其他進階課程的基礎。",
+    "goals": [
+        "訓練學生掌握抽象代數的知識",
+        "訓練學生可以用代數的語言進行溝通、表達、寫作。",
+        "培養學生的直覺、欣賞與應用代數至其他學科的能力"
+    ],
+    "syllabus": "1\\. Unique Factorization Domains  \n2\\. Euclidean Domains  \n3\\. Gaussian Integers and Multiplicative Norms  \n4\\. Group Action on a Set  \n5\\. Sylow Theorems  \n6\\. Applications of the Sylow Theory  \n7\\. Field extensions  \n8\\. Automorphisms of Fields",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 15,
+            "note": ""
+        },
+        {
+            "type": "期中考",
+            "weight": 28,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 42,
+            "note": ""
+        },
+        {
+            "type": "其他",
+            "weight": 15,
+            "note": "小考"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

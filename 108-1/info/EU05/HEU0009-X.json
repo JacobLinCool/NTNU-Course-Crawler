@@ -1,0 +1,80 @@
+{
+    "year": 108,
+    "term": 1,
+    "name": "微生物學",
+    "teachers": [
+        "賴韻如"
+    ],
+    "department": "EU05",
+    "code": "HEU0009",
+    "credit": 2,
+    "serial": 754,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 1,
+            "from": 6,
+            "to": 7,
+            "campus": "公館",
+            "classroom": "理圖003"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎必須先修過(也可以同時修)【HEU0156  健康促進與衛生教育導論】",
+    "form_s": "2",
+    "classes": "",
+    "dept_group": "",
+    "hours": 2,
+    "description": "1. To understand the general properties of diverse microorganisms \n2. To familiar the medical aspects of some pathogenic microorganisms",
+    "goals": [
+        "To understand the general properties of diverse microorganisms",
+        "To familiar the medical aspects of some pathogenic microorganisms"
+    ],
+    "syllabus": "教材內容:  \n\n1.     微生物學的發展史與展望\n\n2.     微生物的觀察\n\n3.     微生物的構造\n\n4.     微生物生長環境的需求\n\n5.     微生物的培養\n\n6.     微生物的生長特性\n\n7.     微生物生長的測定\n\n8.     微生物的控制\n\n9.     物理與化學控制法\n\n10.   化學治療法\n\n11.   微生物的感染與疾病的發生\n\n12.   宿主的非特異性抵抗力\n\n13.   宿主的特異性免疫力\n\n14.   微生物引起人類的疾病\n\n15.   病原體的實驗室診斷",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": ""
+        },
+        {
+            "type": "問題解決教學",
+            "note": ""
+        },
+        {
+            "type": "合作學習",
+            "note": ""
+        },
+        {
+            "type": "其他",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 20,
+            "note": ""
+        },
+        {
+            "type": "期中考",
+            "weight": 40,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 40,
+            "note": ""
+        }
+    ],
+    "prerequisite": "◎必須先修過(也可以同時修)【HEU0156  健康促進與衛生教育導論】",
+    "general_core": []
+}

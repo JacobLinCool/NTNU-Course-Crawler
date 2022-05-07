@@ -1,0 +1,73 @@
+{
+    "year": 108,
+    "term": 2,
+    "name": "地理資訊系統研討",
+    "teachers": [
+        "張國楨"
+    ],
+    "department": "LM23",
+    "code": "GEC8019",
+    "credit": 3,
+    "serial": 1555,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 0
+    },
+    "schedule": [
+        {
+            "day": 4,
+            "from": 5,
+            "to": 7,
+            "campus": "本部",
+            "classroom": "地理系研討室六"
+        }
+    ],
+    "programs": [],
+    "comment": "上課教室：文學院勤9F地理系研討室六。",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "Understand the principles of Geographic information Science and Analysis, familiar with the techniques and operations of GIS software and is capable of using GIS for researches and applications.",
+    "goals": [
+        "understand the principles of Geographic information Science",
+        "familiar with the techniques and operations of GIS software",
+        "is capable of using GIS for researches and applications"
+    ],
+    "syllabus": "1.     ntroduction\n\n2.     Vector Data\n\n3.     Vector Analysis\n\n4.     Raster Data\n\n5.     Raster Analysis\n\n6.     Data Quality\n\n7.     Spatial Database I\n\n8.     Spatial Database II\n\n9.     Mobile Geodatabase\n\n10\\. Modeling Techniques\n\n11\\. Network Modeling\n\n12\\. Network Analysis\n\n13\\. Landscape Modeling\n\n14\\. Landscape Analysis\n\n15\\. Integrated Modeling- Local Government example I\n\n16\\. Integrated Modeling- Local Government example II\n\n17\\. GIS Application Program development\n\n18.Project Presentation",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "即時遠距視訊會議"
+        },
+        {
+            "type": "問題解決教學",
+            "note": "依照主題指定小型論文包括資料蒐集與分析與報告寫作"
+        },
+        {
+            "type": "實驗/實作",
+            "note": "學生自行在自己電腦上實驗主題所涵蓋方法與技術"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 40,
+            "note": "依照進度指定"
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 20,
+            "note": "即時遠距視訊會議"
+        },
+        {
+            "type": "專題",
+            "weight": 40,
+            "note": "依照學生研究主題指定小型論文包括資料蒐集與分析與報告寫作"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

@@ -1,0 +1,525 @@
+[
+    {
+        "year": 109,
+        "term": 2,
+        "name": "高級教育統計學（甲）",
+        "teachers": [
+            "劉振維"
+        ],
+        "department": "E",
+        "code": "E0C8001",
+        "credit": 3,
+        "serial": 371,
+        "group": "A",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 2,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "教育學院第2會議室-大"
+            }
+        ],
+        "programs": [
+            "學習與資訊學程",
+            "大數據學程"
+        ],
+        "comment": "",
+        "restrict": "◎課程不開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 2,
+        "name": "教育研究論文寫作",
+        "teachers": [
+            "林宗進",
+            "蔡今中"
+        ],
+        "department": "E",
+        "code": "E0C8010",
+        "credit": 3,
+        "serial": 376,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 5,
+                "to": 7,
+                "campus": "本部",
+                "classroom": "教育學院第2會議室-大"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎課程不開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 2,
+        "name": "社會科學哲學專題研究",
+        "teachers": [
+            "王錦雀"
+        ],
+        "department": "ED07",
+        "code": "CED0073",
+        "credit": 2,
+        "serial": 400,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 6,
+                "to": 7,
+                "campus": "本部",
+                "classroom": "誠4樓公領系研究所三"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎課程開放上修",
+        "form_s": "1",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 2,
+        "name": "領導專題研究",
+        "teachers": [
+            "陳永龍"
+        ],
+        "department": "ED07",
+        "code": "CED0085",
+        "credit": 3,
+        "serial": 401,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 6,
+                "to": 8,
+                "campus": "本部",
+                "classroom": "誠4樓公領系研究所二"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎課程開放上修",
+        "form_s": "1",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 2,
+        "name": "學生權利與校園法律問題專題研究",
+        "teachers": [
+            "陳新民"
+        ],
+        "department": "ED07",
+        "code": "CED0107",
+        "credit": 3,
+        "serial": 402,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 2,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "教室自排"
+            }
+        ],
+        "programs": [],
+        "comment": "上課教室：進修推廣學院304研究室",
+        "restrict": "◎課程開放上修",
+        "form_s": "1",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 2,
+        "name": "公民教育理論基礎專題研究",
+        "teachers": [
+            "劉若蘭",
+            "陳永龍",
+            "楊智元"
+        ],
+        "department": "ED07",
+        "code": "CED0120",
+        "credit": 3,
+        "serial": 403,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 2,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "誠4樓公領系研究所二"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎課程開放上修",
+        "form_s": "1",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 2,
+        "name": "休閒教育專題研究",
+        "teachers": [
+            "吳崇旗"
+        ],
+        "department": "ED07",
+        "code": "CED0046",
+        "credit": 3,
+        "serial": 404,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 2,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "誠4樓公領系研究所二"
+            }
+        ],
+        "programs": [
+            "高齡學程"
+        ],
+        "comment": "",
+        "restrict": "◎課程開放上修",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 2,
+        "name": "公民教育思潮專題研究",
+        "teachers": [
+            "王錦雀"
+        ],
+        "department": "ED07",
+        "code": "CED0099",
+        "credit": 3,
+        "serial": 405,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 6,
+                "to": 8,
+                "campus": "本部",
+                "classroom": "誠4樓公領系研究所三"
+            }
+        ],
+        "programs": [
+            "哲學學程"
+        ],
+        "comment": "",
+        "restrict": "◎課程開放上修",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 2,
+        "name": "戶外探索活動專題研究",
+        "teachers": [
+            "謝智謀"
+        ],
+        "department": "ED07",
+        "code": "CED0117",
+        "credit": 3,
+        "serial": 406,
+        "group": "",
+        "quota": {
+            "limit": 20,
+            "additional": 0
+        },
+        "schedule": [
+            {
+                "day": 6,
+                "from": 6,
+                "to": 8,
+                "campus": "本部",
+                "classroom": "教室自排"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎第一階段需人工加選◎第二階段需人工加選◎加退選階段需人工加選 ◎課程開放上修",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 2,
+        "name": "臺灣政治發展研究",
+        "teachers": [
+            "黃信豪"
+        ],
+        "department": "EM07",
+        "code": "CEC0012",
+        "credit": 3,
+        "serial": 483,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 5,
+                "from": 2,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "誠4樓公領系研究所一"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎課程開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 2,
+        "name": "學校環境與學生發展研究",
+        "teachers": [
+            "劉若蘭",
+            "蔡昕璋"
+        ],
+        "department": "EM07",
+        "code": "CEC0024",
+        "credit": 3,
+        "serial": 485,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 10,
+                "to": 12,
+                "campus": "本部",
+                "classroom": "誠4樓公領系研究所一"
+            }
+        ],
+        "programs": [],
+        "comment": "◎進階服務學習",
+        "restrict": "◎課程開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 2,
+        "name": "電子計算機之應用",
+        "teachers": [
+            "劉秀嫚"
+        ],
+        "department": "EM07",
+        "code": "CEC0058",
+        "credit": 3,
+        "serial": 486,
+        "group": "",
+        "quota": {
+            "limit": 40,
+            "additional": 0
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 8,
+                "to": 10,
+                "campus": "本部",
+                "classroom": "教403"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎課程開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 2,
+        "name": "野外生活技能研究",
+        "teachers": [
+            "陳永龍"
+        ],
+        "department": "EM07",
+        "code": "CEC0080",
+        "credit": 3,
+        "serial": 487,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 8,
+                "to": 10,
+                "campus": "本部",
+                "classroom": "誠4樓公領系研究所三"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎課程開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 2,
+        "name": "獨處與反思研究",
+        "teachers": [
+            "謝智謀"
+        ],
+        "department": "EM07",
+        "code": "CEC8008",
+        "credit": 3,
+        "serial": 488,
+        "group": "",
+        "quota": {
+            "limit": 13,
+            "additional": 0
+        },
+        "schedule": [
+            {
+                "day": 6,
+                "from": 9,
+                "to": 10,
+                "campus": "本部",
+                "classroom": "教室自排"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎第一階段需人工加選◎第二階段需人工加選◎加退選階段需人工加選 ◎課程開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 2,
+        "name": "公私協力研究",
+        "teachers": [
+            "曾冠球"
+        ],
+        "department": "EM07",
+        "code": "CEC8011",
+        "credit": 3,
+        "serial": 489,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 10,
+                "to": 12,
+                "campus": "本部",
+                "classroom": "誠4樓公領系研究所一"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎課程開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 2,
+        "name": "冒險方案設計與評估研究",
+        "teachers": [
+            "謝智謀"
+        ],
+        "department": "EM07",
+        "code": "CEC8012",
+        "credit": 3,
+        "serial": 490,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 10,
+                "to": 12,
+                "campus": "本部",
+                "classroom": "誠大樓公團部"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎課程開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    }
+]

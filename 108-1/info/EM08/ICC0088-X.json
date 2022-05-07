@@ -1,0 +1,78 @@
+{
+    "year": 108,
+    "term": 1,
+    "name": "模擬式數位學習",
+    "teachers": [
+        "陳志洪"
+    ],
+    "department": "EM08",
+    "code": "ICC0088",
+    "credit": 3,
+    "serial": 520,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 2,
+            "to": 4,
+            "campus": "本部",
+            "classroom": "教1004"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "A simulation is an interactive computer program that models some real world object and/or process. A simulated model provides that its behavior can be defined by a computer program. Within education, the interactive, dynamic, and open nature of simulations puts the user in creating a valuable learning experience.",
+    "goals": [
+        "foster a comprehensive understanding of systematic instructional design methods for e-learning.",
+        "foster a comprehensive understanding of systematic instructional design methods for e-learning.",
+        "critically investigate the design issues in implementing e-learning using the systematic/constructive ID methods."
+    ],
+    "syllabus": "1.      Simulation and education\n\n2.      Teaching models in simulation and educational case studies\n\n3.      Design and use of simulators for educational purposes\n\n4.      Computer and web based education and training\n\n5.      Development of multimedia models and their application in education\n\n6.      Virtual reality and potential applications of VR in education\n\n7.      Computer-based and simulation-integrated laboratories\n\n8.      Experiences in integrating computers and software tools in education\n\n9.      New educational paradigms and their impact",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": ""
+        },
+        {
+            "type": "專題研究",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 20,
+            "note": ""
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 20,
+            "note": ""
+        },
+        {
+            "type": "報告",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "專題",
+            "weight": 30,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

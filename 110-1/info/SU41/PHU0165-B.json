@@ -1,0 +1,78 @@
+{
+    "year": 110,
+    "term": 1,
+    "name": "實驗物理（一）",
+    "teachers": [
+        "傅祖怡"
+    ],
+    "department": "SU41",
+    "code": "PHU0165",
+    "credit": 3,
+    "serial": 2888,
+    "group": "B",
+    "quota": {
+        "limit": 30,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 4,
+            "from": 6,
+            "to": 8,
+            "campus": "公館",
+            "classroom": "Ｄ101"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "2",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "1. 藉由實驗驗證理論課程所學，增進對相關內容的認知與了解。\n2. 使學生認知實驗技術,並能應用於研究或其他工作。\n3. 使學生知悉解決問題的工具、方法及步驟，增進培養實際動手解決問題的能力。",
+    "goals": [
+        "瞭解物理基礎理論與實驗的配合",
+        "學習實驗技術、加強動手操作能力",
+        "訓練整合與思辨"
+    ],
+    "syllabus": "**【授課方式：16+2****週】**\n\n實驗物理一的課程主要是大二的學生上的一門與實驗物理的課程。\n\n**目標:  \n1\\. 藉由實驗驗證理論課程所學，增進對相關內容的認知與了解。  \n2\\. 使學生認知實驗技術,並能應用於研究或其他工作。  \n3\\. 使學生知悉解決問題的工具、方法及步驟，增進培養實際動手解決問題的能力。  \n  \n**\n\n目前的規劃教學的內容有:\n\n1.Error Analysis(誤差),and Introduction of report writing\n\nContent:\n\nWhat isexperiment?\n\nHow towrite reports? Notes or Articles?\n\nErrorAnalysis (Emphasize on the plot！)\n\nUsefulsoftware that can be found in web, and can help on the experiment.\n\n2.Simple-Pendulum-Like periodic motion on an inclined plane\n\nContent:\n\nThe periodmeasured by stop watch?\n\nTheoreticalPrediction\n\nDoesenergy conserve?\n\nDryfriction force\n\n3.Effect Mass of Real Spring (Includes mass, gravity, spring constant)\n\nContent:\n\nDoes thespring mass has effect on the force constant?\n\nStaticCase\n\nDynamicalCase\n\n4.Thermal Experiments with calibrated thermocouples\n\nContent:\n\nCalibratea Thermocouple\n\nNewtonCooling Law\n\n5.Magnetic Probe and Magnetic Forces Problems\n\nContent:\n\nResonanceof a magnetic tip   \nResonance frequency and external force   \nUse the result 2, to calibrate force and frequency   \nUse the device to determine the depth of buried magnets\n\nOpticalsensor for Optics experiments\n\n6.Traditional Experiments\n\nContent:\n\n氣體γ值的測定\n\n氣體的狀態方程式\n\n金屬導體熱傳導與電導係數測量\n\n平行板電容\n\n電容器的充電曲線與經驗公式\n\n載流導線與磁場的交互作用\n\n載流導線外部磁場與 Helmholtz線圈中心磁場測量\n\n法拉第電磁感應定律\n\n熱輻射\n\n相圖與臨界點\n\n熱傳導係數\n\n單一線圈磁場測量\n\n螺線管的自感\n\n微波 ( 一 ) 、 ( 二 ) 、 ( 三 )\n\n電容器、電感器儲存的能量\n\n渦電流\n\n交流 χ 值量測\n\n疫後修訂：\n\n上課日期\n\n內容\n\n作業說明\n\n9/23\\*\n\n課程說明與分組(防疫備案說明)\n\n備妥分析及作圖軟硬體\n\n9/30\\*\n\n課程說明(不確定度的估計)\n\n10/7\\*\n\n1.扭擺(理論推導或進行備案操作)\n\n防疫實驗包檢收\\*擺實驗\n\n10/14\n\n1 Torsion Pendulum with Tracker\n\n**步驟**\n\n10/21\n\n2 DNA分子繞射\n\n             \\*光繞射實驗\n\n10/28\n\n2.Diffraction of DNA Molecules\n\n**作圖****+**完整報告1 (11/11)\n\n11/4\n\n3\\. 光學感應器\n\n             \\*LED實驗\n\n11/11\n\n3 Optical Sensors\n\n**數據分析**\n\n11/18\n\n4\\. 場效電晶體\n\n             \\*FET實驗\n\n11/25\n\n4\\. Field effect transistor \n\n**結果與討論****+**完整報告2 (12/9)\n\n12/2\n\n5\\. 非虎克系統\n\n             \\* Arduino Project\n\n12/9\n\n5 Non-Hookean System\n\n**摘要**\n\n12/16\n\n自由選作\n\n12/23\n\n自由選作(Arduino Project)\n\n完整報告3 (1/6)\n\n12/30\n\n期末筆試\n\n實驗記錄簿Lab Note\n\n1/6\n\n期末報告(一)\n\n(每人8-10分鐘)\n\n1/13\n\n期末報告(二)\n\n1/20\n\n彈性補充教學",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "實驗內容講述"
+        },
+        {
+            "type": "討論法",
+            "note": "學生對於實驗結果的討論"
+        },
+        {
+            "type": "實驗/實作",
+            "note": "學生進行實驗操作"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 50,
+            "note": "有7份實驗報告要撰寫"
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 20,
+            "note": "分組相互合作，針對結果進行討論"
+        },
+        {
+            "type": "出席",
+            "weight": 10,
+            "note": "一組僅有兩人，因此不能缺課"
+        },
+        {
+            "type": "報告",
+            "weight": 20,
+            "note": "將實驗的果報告"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

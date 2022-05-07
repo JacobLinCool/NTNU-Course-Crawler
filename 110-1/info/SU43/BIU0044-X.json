@@ -1,0 +1,66 @@
+{
+    "year": 110,
+    "term": 1,
+    "name": "遺傳學",
+    "teachers": [
+        "蘇銘燦",
+        "謝秀梅",
+        "廖培鈞"
+    ],
+    "department": "SU43",
+    "code": "BIU0044",
+    "credit": 3,
+    "serial": 2993,
+    "group": "",
+    "quota": {
+        "limit": 60,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 2,
+            "to": 4,
+            "campus": "公館",
+            "classroom": "Ｅ201"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "2",
+    "classes": "1",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程目標為介紹遺傳學之基本概念、發展經過及目前之研究概況，使學生瞭解性狀的遺傳、基因的功能與調節、族群遺傳多樣性與演化等。",
+    "goals": [
+        "能熟悉並認知遺傳學專有名詞及遺傳現象之意涵，能敘述遺傳現象、解釋性狀遺傳、基因的功能與調節、族群遺傳多樣性與演化等",
+        "能體認遺傳變異為族群演化及物種多樣性之基礎，並以社會醫藥時事為例論述生命科學之相關議題",
+        "能解釋、計算、分析遺傳數據"
+    ],
+    "syllabus": "授課方式：16+2週\n\n**蘇銘燦老師**\n\n第1週 Introduction to Genetics & Mitosis and Meiosis\n\n第2週 Mendelian Genetics & Extensions of Mendelian Genetics\n\n第3週 Sex Determination and Sex Chromosomes & Chromosome Mutations: Variation in Chromosome Number and Arrangement\n\n第4週 Chromosome Mapping in Eukaryotes\n\n第5週 Genetic Analysis and Mapping in Bacteria and Bacteriophages& Extranuclear Inheritance **(Exam I)**\n\n**謝秀梅老師**\n\n第6週 DNA Structure and Analysis & DNA Replication and Recombination\n\n第7週 DNA Organization in Chromosomes\n\n第8週 The Genetic Code and Transcription\n\n第9週 Translation and Proteins\n\n第10週 Gene Mutation, DNA Repair, and Transposition **(Exam II)**\n\n第11週 邀請演講\n\n**廖培鈞****老師**\n\n第12週 Quantitative Genetics and Multifactorial Traits\n\n第13週 Genetics and Behavior\n\n第14週 Population Genetics\n\n第15週 Evolutionary Genetics\n\n第16週 Conservation Genetics **(Exam III)**\n\n第17週 彈性補充教學\n\n第18週 彈性補充教學",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "使用一般課本、自編講義媒材授課"
+        },
+        {
+            "type": "媒體融入教學",
+            "note": "運用數位平台與自製簡報檔案教學"
+        }
+    ],
+    "grading": [
+        {
+            "type": "期中考",
+            "weight": 67,
+            "note": "期中考I：選擇題(40%) 是非題(30%) 問答題(30%)    期中考II：選擇題(40%) 填充配合(30%) 問答題(30%)"
+        },
+        {
+            "type": "期末考",
+            "weight": 33,
+            "note": "簡答題含名詞解釋、比較題(60%)、問答題含數據解讀及實驗設計(40%)"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

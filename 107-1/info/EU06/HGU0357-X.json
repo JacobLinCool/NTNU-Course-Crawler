@@ -1,0 +1,74 @@
+{
+    "year": 107,
+    "term": 1,
+    "name": "膳食療養（一）",
+    "teachers": [
+        "吳文惠"
+    ],
+    "department": "EU06",
+    "code": "HGU0357",
+    "credit": 3,
+    "serial": 791,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 8,
+            "to": 10,
+            "campus": "本部",
+            "classroom": "誠205"
+        }
+    ],
+    "programs": [],
+    "comment": "與膳食療養實驗（一）需同時修",
+    "restrict": "◎必須先修過【HGU0382  營養學（一）】、【HGU0383  營養學（二）】",
+    "form_s": "3",
+    "classes": "",
+    "dept_group": "F",
+    "hours": 3,
+    "description": "本課程為以營養專業為職志之學生開設，非通識教學，目的在培養學生營養師之實務能力，本課程且為營養師高考最重要科目，未滿50分，則不論總分如何，均不得錄取。學生須同時選俢膳食療養實驗。本學期內容包括肥胖、糖尿病、高血脂、高血壓、心臟衰竭、骨質疏鬆、風濕性疾病、神經疾病、先天代謝異常疾病。",
+    "goals": [
+        "了解與營養相關的各種疾病病因、症狀與治療",
+        "了解如何以飲食預防疾病及設計飲食輔助疾病治療",
+        "使學生具備營養師執業能力與資格",
+        "使學生具備營養與疾病之研究能力"
+    ],
+    "syllabus": "1.introduction  \n2.1\\. Over wt (21)  \n3.1\\. Over wt (21)  \n4.1.Over & under Wt (21&22)  \n5.2\\. DM (30)  \n6.2\\. DM (30)  \n7.2\\. DM&Hypoglycemia (30)  \n8.3\\. CVD (32)  \n9.3\\. CVD (32)  \n10.3\\. CVD (32)  \n11.4\\. Hypertension (33)  \n12.5\\. Heart failure (34)  \n13.6\\. Pulmonary (35)  \n14.7\\. Osteoporosis (24)  \n15.8\\. Rheumatic disorder (40)  \n16.9\\. Neurology (41)  \n17.10\\. Inborn error of Metabolism  \n18.考試(1/6考試開始)",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "老師自製ppt講授為主，上課前將講義上傳至Moodle"
+        },
+        {
+            "type": "討論法",
+            "note": "上課中可任意提問並討論"
+        },
+        {
+            "type": "媒體融入教學",
+            "note": "放映臨床治療影片"
+        }
+    ],
+    "grading": [
+        {
+            "type": "期中考",
+            "weight": 90,
+            "note": "6次段考"
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 5,
+            "note": ""
+        },
+        {
+            "type": "出席",
+            "weight": 5,
+            "note": ""
+        }
+    ],
+    "prerequisite": "◎必須先修過【HGU0382  營養學（一）】、【HGU0383  營養學（二）】",
+    "general_core": []
+}

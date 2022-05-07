@@ -1,0 +1,79 @@
+{
+    "year": 110,
+    "term": 1,
+    "name": "行銷管理",
+    "teachers": [
+        "沈永正"
+    ],
+    "department": "OM55",
+    "code": "MBM0002",
+    "credit": 3,
+    "serial": 2486,
+    "group": "",
+    "quota": {
+        "limit": 30,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 4,
+            "from": 2,
+            "to": 4,
+            "campus": "本部",
+            "classroom": "雲508"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "",
+    "goals": [
+        "知識/認知",
+        "職能導向",
+        "個人特質",
+        "價值/倫理"
+    ],
+    "syllabus": "**Week**\n\n**Date**\n\n**Topic**\n\n**Cases**\n\n1\n\n9/12\n\n課程大綱說明\n\nNA\n\n2\n\n9/19\n\n行銷策略\n\n3\n\n9/26\n\n中秋節\n\n4\n\n10/3\n\n行銷環境\n\n個案 1\n\n5\n\n10/10\n\n行銷研究\n\n6\n\n10/17\n\n消費者行為\n\n個案 2\n\n7\n\n10/24\n\nGuest speaker 1\n\n8\n\n10/31\n\n期中考\n\n9\n\n11/7\n\n市場區隔，目標市場，產品定位 1\n\n10\n\n11/14\n\n市場區隔，目標市場，產品定位 2\n\n個案 3\n\n11\n\n11/21\n\n產品策略 1\n\n12\n\n11/28\n\n產品策略 2\n\n個案 4\n\n13\n\n12/5\n\n定價策略\n\n14\n\n12/12\n\n通路策略\n\n個案 5\n\n15\n\n12/19\n\n促銷策略 1\n\n16\n\n12/26\n\n促銷策略2\n\n個案 6\n\n17\n\n1/2\n\n期末考\n\n18\n\n1/9\n\nGuest speaker 2",
+    "methodologies": [
+        {
+            "type": "Formal lecture",
+            "note": ""
+        },
+        {
+            "type": "Group discussion",
+            "note": ""
+        },
+        {
+            "type": "Case studies",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "Midterm Exam",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "Final exam",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "Class discussion involvement",
+            "weight": 20,
+            "note": ""
+        },
+        {
+            "type": "Presentation",
+            "weight": 20,
+            "note": ""
+        }
+    ],
+    "prerequisite": "◎Available for junior and senior year B.A. program students (Doctoral program courses excepted) and M.A. program students.",
+    "general_core": []
+}

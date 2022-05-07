@@ -1,0 +1,74 @@
+{
+    "year": 110,
+    "term": 1,
+    "name": "比較解剖學",
+    "teachers": [
+        "陳世煌"
+    ],
+    "department": "SU43",
+    "code": "BIU0096",
+    "credit": 2,
+    "serial": 2989,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 4,
+            "from": 8,
+            "to": 9,
+            "campus": "公館",
+            "classroom": "Ｓ601"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎必須先修過【BIU0168  普通生物學甲（一）】、【BIU0169  普通生物學甲（二）】其中一門",
+    "form_s": "2",
+    "classes": "",
+    "dept_group": "",
+    "hours": 2,
+    "description": "1.\t了解脊椎動物和後口類無脊椎動物之間的親緣關係。\n2.\t探討各類脊椎動物的胚胎發生過程，以了解器官的形成及其同源構造。\n3.\t能夠比較各類脊椎動物之器官與系統在形態和功能上的異同，及演化上的意義。",
+    "goals": [
+        "1.\t了解脊椎動物和後口類無脊椎動物之間的親緣關係",
+        "2.\t探討各類脊椎動物的胚胎發生過程，以了解器官的形成及其同源構造。",
+        "3.\t能夠比較各類脊椎動物之器官與系統在形態和功能上的異同，及演化上的意義。"
+    ],
+    "syllabus": "Introduction (Chap. 1)\n\nConcepts and Premises (Chap. 1, 4, 5)\n\nProtochordates & origin of vertebrates (Chap. 2)\n\nVertebrates of the world (Chap.3)\n\nEarly vertebrate mrphogenesis (Chap. 5)\n\nIntegument (Chap. 6)\n\nSkeletal system I (Chap. 7 & 8)\n\nSkeletal system I (Chap. 8) ;**期中考-1**\n\nSkeletal system II (Chap. 9)\n\nSkeletal system III (Chap. 10)\n\nMuscles (Chap. 11); Digestive system (Chap. 12)\n\nRespiratory system (Chap. 13)\n\nRespiratory system (Chap. 13) ;**期中考-2**\n\nCirculatory system (Chap. 14)\n\nUrogenital system (Chap. 15)\n\nNervous system (Chap. 16)\n\nSense organs (Chap. 17); Endocrine organs (Chap. 18)(opt)",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "期中考",
+            "weight": 50,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 35,
+            "note": ""
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 10,
+            "note": ""
+        },
+        {
+            "type": "其他",
+            "weight": 5,
+            "note": ""
+        }
+    ],
+    "prerequisite": "◎必須先修過【BIU0168  普通生物學甲（一）】、【BIU0169  普通生物學甲（二）】其中一門",
+    "general_core": []
+}

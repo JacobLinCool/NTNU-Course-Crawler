@@ -1,0 +1,72 @@
+{
+    "year": 109,
+    "term": 1,
+    "name": "程式設計（一）",
+    "teachers": [
+        "王弘倫"
+    ],
+    "department": "SU47",
+    "code": "CSU0001",
+    "credit": 3,
+    "serial": 3063,
+    "group": "B",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 1,
+            "from": 2,
+            "to": 4,
+            "campus": "公館",
+            "classroom": "理圖807"
+        }
+    ],
+    "programs": [
+        "音樂科技學程",
+        "資訊科技應用學程",
+        "人工智慧學程"
+    ],
+    "comment": "本系、雙主修、輔系學生優先，如仍有名額則再開放外系學生選課。",
+    "restrict": "◎限本系(含雙主修)、輔系修習",
+    "form_s": "1",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程介紹 C 程式語言之基礎語法，包含輸入/輸出、選擇控制、迴圈控制、陣列、函式、指標、字元、字串與結構型態等。",
+    "goals": [
+        "能了解 C/C++ 程式語言的基本語法並撰寫程式。",
+        "能根據指定的方法步驟，規畫程式架構、流程並據以實作。"
+    ],
+    "syllabus": "week 1 (09/14) Introduction / edit, compile, and run your program\n\nweek 2 (09/21) Variables and I/O  \n\nweek 3 (09/28) Operations \n\nweek 4 (10/05) Conditional control / Quiz01 \n\nweek 5 (10/12) Loop \n\nweek 6 (10/19) Loop \n\nweek 7 (10/26) Array / Quiz02 \n\nweek 8 (11/02) Array \n\nweek 9 (11/09) Midterm exam\n\nweek 10 (11/16) Floating point numbers\n\nweek 11 (11/23) Function \n\nweek 12 (11/30) Function / Quiz03 \n\nweek 13 (12/07) Pointer \n\nweek 14 (12/14) Pointer \n\nweek 15 (12/21) Character & string / Quiz04 \n\nweek 16 (12/28) Character & string \n\nweek 17 (01/04) Structure / selected topics\n\nweek 18 (01/11) Final exam\n\n除第一週，期中考週，期末考週以外，每週皆有程式作業 (3-5題)，繳交期限為隔週，不得遲交。\n\n第三階段選課會開放全校同學加選，請到時上系統選課。若系統人數額滿，會開放授權碼領取，但因有數量上限，會於開學第一堂課公告領取順序。",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "實驗/實作",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 61,
+            "note": "15次作業 + 4次小考"
+        },
+        {
+            "type": "期中考",
+            "weight": 19,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 20,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

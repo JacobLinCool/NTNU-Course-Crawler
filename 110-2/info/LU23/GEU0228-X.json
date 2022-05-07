@@ -1,0 +1,70 @@
+{
+    "year": 110,
+    "term": 2,
+    "name": "進階地理資訊系統",
+    "teachers": [
+        "吳秉昇"
+    ],
+    "department": "LU23",
+    "code": "GEU0228",
+    "credit": 3,
+    "serial": 1907,
+    "group": "",
+    "quota": {
+        "limit": 25,
+        "additional": 5
+    },
+    "schedule": [
+        {
+            "day": 4,
+            "from": 6,
+            "to": 8,
+            "campus": "本部",
+            "classroom": "地理系電腦教室"
+        }
+    ],
+    "programs": [
+        "區域學程"
+    ],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "3",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課成為地理資訊之進階課程，作為GIS專業人員之基礎訓練。",
+    "goals": [
+        "深入探討GIS的原理，瞭解GIS發展趨勢",
+        "熟悉ARCVGIS 操作上完本課程後，應該能夠獨力完成GIS資料輸入、處理、分析及出圖整個工作流程"
+    ],
+    "syllabus": "Introduction  \nGIS and Python  \nFundamentals of Python  \nThe syntax of Python  \nThe structure of Python  \nPython – Pandas \\[I\\]  \nPython – Pandas \\[II\\]  \nPython – Pandas \\[III\\]  \nIntroduction of ArcPy  \nThe use of ArcPy \\[I\\]  \nThe use of ArcPy \\[II\\]  \nThe future of GIS  \nE-learning (Week 17 & 18)",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "實驗/實作",
+            "note": "上機實習"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 40,
+            "note": ""
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 10,
+            "note": ""
+        },
+        {
+            "type": "報告",
+            "weight": 50,
+            "note": "期末書面報告 (中文) 與口頭報告 (英文)"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

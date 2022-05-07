@@ -1,0 +1,77 @@
+{
+    "year": 108,
+    "term": 2,
+    "name": "氣候學",
+    "teachers": [
+        "翁叔平"
+    ],
+    "department": "LU23",
+    "code": "GEU0136",
+    "credit": 3,
+    "serial": 1819,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 5
+    },
+    "schedule": [
+        {
+            "day": 4,
+            "from": 7,
+            "to": 9,
+            "campus": "本部",
+            "classroom": "正205"
+        }
+    ],
+    "programs": [
+        "環境監測學程"
+    ],
+    "comment": "",
+    "restrict": "◎必須先修過【GEU0047  氣象學】",
+    "form_s": "1",
+    "classes": "1",
+    "dept_group": "",
+    "hours": 3,
+    "description": "氣候學的基本內容，特別著重大氣現象的時空分布，及與人類活動的關係。本課程除了介紹氣候學的基本知識，並將介紹大氣的運動、行星風系、 氣團和盛行風 、季風系統、鋒面系統 、海氣交互作用、聖嬰現象與南方震盪、年代際變化 、全球暖化與氣候變遷等課題，讓同學理解目前地球所面臨的環境危機。 \n\n介紹氣候學的基本內容，特別著重大氣現象的時空分布，及與人類活動的關係。本課程並將介紹聖嬰現象、全球暖化與氣候變遷等課題，讓同學理解目前地球所面臨的環境危機。",
+    "goals": [
+        "理解氣候學的基本內容",
+        "認識大氣現象的時空分布",
+        "瞭解聖嬰現象、全球暖化與氣候變遷等課題",
+        "理解目前地球所面臨與氣候相關的環境危機"
+    ],
+    "syllabus": "01: Class overview  \n02: Introduction: What is Climate?  \n03: The Earth System: Overview of current climate  \n04: Radiation & Planetary Energy Balance  \n05: Atmospheric Radiative Transfer  \n06: Surface Energy Budget; 1st essay report due  \n07: Land Surface Processes  \n08: Hydrological Cycle  \n09: Mid-term exam.  \n10: Atmospheric Circulation; 2nd essay report due  \n11: Ocean Circulation  \n12: Climate Feedback Processes  \n13: Paleoclimate: Ice Ages & orbital changes  \n14: Paleoclimate (cont.); 3rd essay report  \n15: Climate Modeling: An introduction  \n16: Future Climates  \n17: Final exam.",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "期中考",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "出席",
+            "weight": 10,
+            "note": ""
+        },
+        {
+            "type": "報告",
+            "weight": 30,
+            "note": "3 Essay reports No longer than 1500 words"
+        }
+    ],
+    "prerequisite": "◎必須先修過【GEU0047  氣象學】",
+    "general_core": []
+}

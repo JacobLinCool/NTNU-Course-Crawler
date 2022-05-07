@@ -1,0 +1,78 @@
+{
+    "year": 109,
+    "term": 1,
+    "name": "社會科學研究法",
+    "teachers": [
+        "盧承杰"
+    ],
+    "department": "I",
+    "code": "I0M0004",
+    "credit": 3,
+    "serial": 1402,
+    "group": "",
+    "quota": {
+        "limit": 30,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 4,
+            "from": 2,
+            "to": 4,
+            "campus": "本部",
+            "classroom": "誠104"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "This course aims to build knowledge and skills for graduate students to conduct social research. It is designed to enable students to become informed, critical consumers of research published in their field of practice, with the goal of becoming evidence based professionals/practitioners. Ethical standards of scientific inquiry will be emphasized. Ultimately, students are expected to be able to access, critically evaluate, and appropriately conduct and utilize empirical research to inform and evaluate their work with target population.",
+    "goals": [
+        "瞭解研究相關的價值與倫理議題 Understanding relevant values and ethical issues relate to research process",
+        "了解研究結果對個人及社會所帶來的影響 Demonstrating the ability to recognize the impact of research decisions on individuals and society",
+        "運用研究技巧確認,整合並分析相關資訊以提供實務者所用 Applying skills needed to identify, synthesize, and analyze relevant information to inform practitioners in social sciences"
+    ],
+    "syllabus": "**Week 01 Course Introduction**\n\n·        Kumar, R. (2011). _Researchmethodology: A step-by-step guide for beginners._ Ch.1 & 2\n\n**Week 02 Conducting Literature Review**\n\n·        Kumar, R. (2011). _Researchmethodology: A step-by-step guide for beginners._ Ch.3 & 4\n\n**Week 03 Quantitative vs.Qualitative Research**\n\n·        Kumar, R. (2011). _Researchmethodology: A step-by-step guide for beginners._ Ch.5 & 6\n\n**Week 04 Quantitative ResearchDesign I**\n\n·        Kumar, R. (2011). _Researchmethodology: A step-by-step guide for beginners._ Ch.7\n\n**Week 05** **Quantitative Research DesignII**\n\n·        Kumar, R. (2011). _Researchmethodology: A step-by-step guide for beginners._ Ch.8\n\n**Week 06 Quantitative ResearchDesign III**\n\n·        Kumar, R. (2011). _Researchmethodology: A step-by-step guide for beginners._ Ch.9\n\n**Week 07** **QuantitativeResearch Design IV**\n\n·        Kumar, R. (2011). _Researchmethodology: A step-by-step guide for beginners._ Ch.10\n\n**Week 08 Research Ethics &APA format**\n\n·        Reading TBA\n\n**Week 09 Data Collection I**\n\n·        Kumar, R. (2011). _Researchmethodology: A step-by-step guide for beginners._ Ch.11 & 12\n\n**Week 10** **Data Collection I**\n\n·        Kumar, R. (2011). _Researchmethodology: A step-by-step guide for beginners._ Ch.13\n\n**Week 11 Mid-Term Exam**\n\n**Week 12 Introduction to SPSS**\n\n·        Descriptive Statistics & Introducing SPSS; Handout will be distributedin the class\n\n**Week 13 Data Analysis usingSPSS I**\n\n·        Chi-square, Correlation; Handout will be distributed in the class\n\n**Week 14 Data Analysis usingSPSS II**\n\n·        t-test, and ANOVA; Handout will be distributed in the class\n\n**Week 15 Data Analysis usingSPSS III**\n\n·        Multiple Regression, Hierarchical Regression; Handout will be distributedin the class\n\n**Week 16** **DataAnalysis using SPSS IV**\n\n·        Moderating & Mediating Models ; Handout will be distributed in theclass\n\n**Week 17 Data Analysis usingSPSS V**\n\n·        Confirmatory Factor Analysis (CFA), validity & reliability testprocedure; Handout will be distributed in the class\n\n**Week 18 Final projectpresentation**",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "教師講授\nLectures by the instructor"
+        },
+        {
+            "type": "討論法",
+            "note": "課堂分組討論與報告\nGroup discussion and presentation"
+        },
+        {
+            "type": "媒體融入教學",
+            "note": "以電影及短片方式結合課程內容\nUsing movies and short films to demonstrate course content"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 30,
+            "note": "上機作業Lab Assignments-3個SPSS統計上機作業3 SPSS lab assignments"
+        },
+        {
+            "type": "期中考",
+            "weight": 35,
+            "note": "期中考Midterm Exam"
+        },
+        {
+            "type": "報告",
+            "weight": 30,
+            "note": "期末報告Final Project"
+        },
+        {
+            "type": "其他",
+            "weight": 5,
+            "note": "倫理訓練Ethical Training-通過國立臺灣師範大學學術研究倫理教育研習之檢定測驗，繳交通過證明\nPassing NTNU research ethics training"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

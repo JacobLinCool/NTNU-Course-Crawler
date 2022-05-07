@@ -1,0 +1,84 @@
+{
+    "year": 107,
+    "term": 2,
+    "name": "資料分析（二）",
+    "teachers": [
+        "譚克平"
+    ],
+    "department": "SM45",
+    "code": "SEC0040",
+    "credit": 3,
+    "serial": 2671,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 1,
+            "from": 10,
+            "to": 12,
+            "campus": "公館",
+            "classroom": "教室自排"
+        }
+    ],
+    "programs": [
+        "大數據學程"
+    ],
+    "comment": "本課程希望具備科學教育或數學教育背景的同學選修",
+    "restrict": "◎課程不開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "同學可以獲得實務教育研究中常用的多變量統計概念及應用方法，包含重覆量數變異數分析、共變異數分析、卡方考驗、線性迴歸與邏輯思迴歸，課程主要目標包含:\n1.\t了解多變量統計概念、與分析邏輯。\n2.\t採用值化與量化方式來診斷相關議題與進行模型最佳化。\n3.\t運用多變量統計來實際分析資料。\n4.\t學習解析結果與撰寫統計分析報告。\n5.\t在科學與數學教育研究中應用這些方法解決實務的研究問題。",
+    "goals": [
+        "了解基本統計概念、邏輯分析技巧",
+        "具備解析與撰寫統計分析結果能力",
+        "利用統計進行客觀邏輯驗證",
+        "落實證據導向的決策，成為一位科學教育研究者"
+    ],
+    "syllabus": "本課程最主要的教學內容為多元迴歸與部分多變量統計的相關主題，並會深入探討多元迴歸所需要的假設，以及近代學者所關心的迴歸分析議題。本課程基本上接續資料分析(一)的內容，學期開始時將首先會處理上學期來不及教導的內容，接著會介紹多元迴歸分析的方法，其中以相關理論的概念瞭解為主，並輔以SAS統計軟體的操作，進度視修課學生的背景與程度調整，期末將會處理多變量變異數分析和多變量重複測量變異數分析，並對多變量統計作扼要簡介，若有足夠教學時間會進一步介紹因素分析以及其他相關主題。\n\n  \n  \nTopics to be covered in this course:\n\n1.      Review of univariate repeated measures ANOVA: one way repeated measures; the meaning and test of sphericity; adjustment of the degrees of freedom by means of the Huynh-Feldt approach and the Greenhouse-Geisser approach; introduction to the multivariate approach, ANOVA approach to reliability of test instrument\n\n2.      Introduction to analysis of covariance: basic assumptions, rationale, and interpretation of printout, Johnson-Neyman approach\n\n3.      Review of simple linear regression, least squares principle, partition of sum of squares\n\n4.      Introduction to multiple regression\n\n5.      Hypothesis testing in regression\n\n6.      Regression diagnostics I\n\n7.      Regression diagnostics II\n\n8.      Relation to ANOVA and analysis of interaction effect\n\n9.      The problem of multicollinearity\n\n10.  Detection of multicollinearity\n\n11.  Ridge regression, component regression and partial least square regression\n\n12.  Variables selection I\n\n13.  Variables selection II\n\n14.  Binary logistic regression\n\n15.  Hotelling’s T-squares\n\n16.  Multivariate analysis of variance\n\n17.  Discriminant analysis\n\n18\\. Canonical analysis",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "講述量化資料分析的重要方法與概念"
+        },
+        {
+            "type": "討論法",
+            "note": "以與同學分小組的方式進行討論"
+        },
+        {
+            "type": "問題解決教學",
+            "note": "以重覆分析及評論已發表論文結果之合宜性"
+        },
+        {
+            "type": "媒體融入教學",
+            "note": "應用統計軟體進行資料分析"
+        },
+        {
+            "type": "專題研究",
+            "note": "透過教師引導，發展個人期末專題研究計畫"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 20,
+            "note": "分析與廻歸或多變量資料有關的平時作業"
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 10,
+            "note": "參與課堂討論的情形"
+        },
+        {
+            "type": "出席",
+            "weight": 20,
+            "note": "出席課堂的情形"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

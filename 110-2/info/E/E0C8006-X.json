@@ -1,0 +1,98 @@
+{
+    "year": 110,
+    "term": 2,
+    "name": "階層線性模式",
+    "teachers": [
+        "林世華"
+    ],
+    "department": "E",
+    "code": "E0C8006",
+    "credit": 3,
+    "serial": 337,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 5,
+            "from": 6,
+            "to": 8,
+            "campus": "本部",
+            "classroom": "教600"
+        }
+    ],
+    "programs": [
+        "大數據學程"
+    ],
+    "comment": "",
+    "restrict": "◎課程不開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "Hierarchical Linear Models(HLM) is an advanced methodology course. The goal of the course\nis to understand the concepts related to HLM; to be able to specify your own models and\nanalyze the data using one of the HLM related programs; to be able to interpret\nthe statistical findings to lay persons. The course emphasizes the mastery of concepts,\ndevelopment of skills in the use and interpretation of HLM software, and the development of\nanalysis skills for understanding research using multilevel models. Topics include multilevel\ndata structures, intraclass correlation, model building and testing, effect size, fixed and\nrandom effects, two and three level models, longitudinal models, model assumptions.",
+    "goals": [
+        "to understand the concepts related to HLM",
+        "to specify HLM models",
+        "to analyze the data using HLM programs",
+        "to interpret the result from HLM programs"
+    ],
+    "syllabus": "### Tentative Schedule\n\n*   01\\. Introduction \n*   02\\. Getting Started with Multilevel Analysis\n*   03\\. Multilevel Regression Models(1)\n*   04\\. Multilevel Regression Models(2)\n*   05\\. Extending the Two-level Regression Model(1)\n*   06\\. Extending the Two-level Regression Model(2) \n*   07\\. Methods for Examining and Organizational Change(1)\n*   08\\. Methods for Examining and Organizational Change(2)\n*   09\\. Multilevel Models with Categorical Variables(1)\n*   10\\. Multilevel Models with Categorical Variables(2)\n*   11\\. Multilevel Structural Equation Models(1)\n*   12\\. Multilevel Structural Equation Models(2)\n*   13\\. Multilevel Structural Equation Models(3)\n*   14\\. Multilevel Latent Growth and Mixture Models(1)\n*   15\\. Multilevel Latent Growth and Mixture Models(2)\n*   16\\. Multilevel Latent Growth and Mixture Models(3)\n*   17\\. Data Considerations in Examining Multilevel Models\n*   18\\. Conclusion",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": ""
+        },
+        {
+            "type": "實驗/實作",
+            "note": ""
+        },
+        {
+            "type": "媒體融入教學",
+            "note": "因應新冠肺炎疫情，本課程結合非同步數位課程MOODLE系統與同步數位課程TEAM系統，以利課程持續實施。"
+        },
+        {
+            "type": "專題研究",
+            "note": ""
+        },
+        {
+            "type": "其他",
+            "note": "Team link: https://bit.ly/3GT8f9q"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 20,
+            "note": "Several homework projects will be planned which will provide a basis for exploring the range of applications available in HLM, gaining experience and facility in running HLM software and interpreting and reporting output."
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 15,
+            "note": "Participation (come to class, look very happy, and talk about statistical models)"
+        },
+        {
+            "type": "出席",
+            "weight": 15,
+            "note": "Participation (come to class, look very happy, and talk about statistical models)"
+        },
+        {
+            "type": "報告",
+            "weight": 20,
+            "note": "Final in-class presentation."
+        },
+        {
+            "type": "專題",
+            "weight": 30,
+            "note": "The proposal will involve identifying a research question and conducting preliminary literature review, selecting a dataset, and identifying relevant variables. Student should also identify the target journal."
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

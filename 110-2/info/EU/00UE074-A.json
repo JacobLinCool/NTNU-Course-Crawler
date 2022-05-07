@@ -1,0 +1,81 @@
+{
+    "year": 110,
+    "term": 2,
+    "name": "學習評量（教）",
+    "teachers": [
+        "廖育秀"
+    ],
+    "department": "EU",
+    "code": "00UE074",
+    "credit": 2,
+    "serial": 545,
+    "group": "A",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 4,
+            "from": 3,
+            "to": 4,
+            "campus": "本部",
+            "classroom": "正204"
+        }
+    ],
+    "programs": [
+        "國際教師學程-華語文",
+        "國際教師學程-數學",
+        "國際教師學程-物理",
+        "PASSION偏鄉教育學程",
+        "國際教師學程-國際"
+    ],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 2,
+    "description": "本課程旨在培養學生班級評量的素養(classroom assessment literacy)，內容主題包括測驗評量重要的概念、原理和原則、評量計畫、多元評量工具的設計、應用和評分，及成績的報告等，並藉由評量工具研發作業來強化學生相關的知能，以期奠定學生從事班級教學評量的專業知能和評量領域終身學習的根基。",
+    "goals": [
+        "具備學習評量的編製與實施結果的詮釋。"
+    ],
+    "syllabus": "課程進度 【16+2週】\n\n課程進度\n\n週次\n\n日期\n\n單元主題\n\n備註\n\n第1週\n\n2/17\n\n課程簡介\n\n分組\n\n第2週\n\n2/24\n\n評量的意義與趨勢、學習目標與評量\n\nCh 1-2\n\n第3週\n\n3/3\n\n效度\n\nCh 3\n\n第4週\n\n3/10\n\n信度\n\nCh 4\n\n第5週\n\n3/17\n\n期初評量\n\nCh 5\n\n第6週\n\n3/24\n\n形成性評量\n\nCh 6\n\n第7週\n\n3/31\n\n總結性評量\n\nCh 7\n\n第8週\n\n4/7\n\n期中考\n\n第9週\n\n4/14\n\n客觀測驗、解釋題\n\nCh 8-10\n\n第10週\n\n4/21\n\n論述題\n\nCh 11\n\n第11週\n\n4/28\n\n教師自編成就測驗\n\nCh 12\n\n第12週\n\n5/5\n\n實作評量\n\nCh 13\n\n第13週\n\n5/12\n\n檔案評量\n\nCh 14\n\n第14週\n\n5/19\n\n非認知傾向與技能評量\n\nCh 15\n\n第15週\n\n5/26\n\n成績評量與報告\n\nCh 16\n\n第16週\n\n6/2\n\n期末考\n\n分組報告測驗編製\n\n第17週\n\n6/9\n\n彈性教學\n\n第18週\n\n6/16\n\n自主學習\n\n  \n \n\n  \n \n\n  \n[教學進度與主題附件](https://ap.itc.ntnu.edu.tw/NtnuFileShare/file.do?action=dl&gno=a638e3b268254276b0a81bceaa9802d8&fno=8d32dcad510a4d4f86853cd2b157f331)",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "針對重要概念進行講授，並以範例以為說明。"
+        },
+        {
+            "type": "討論法",
+            "note": "提出相關議題讓學生以合作學習的方式分組討論。"
+        },
+        {
+            "type": "合作學習",
+            "note": "以合作學習的方式完成各項分組報告。"
+        },
+        {
+            "type": "實驗/實作",
+            "note": "分組進行成就測驗命題，進行測驗試題分析，最後分析報告。"
+        }
+    ],
+    "grading": [
+        {
+            "type": "期末考",
+            "weight": 40,
+            "note": ""
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 30,
+            "note": "根據課堂討論，活動參與，學習態度，團隊合作表現、及出缺席進行考核。"
+        },
+        {
+            "type": "報告",
+            "weight": 30,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

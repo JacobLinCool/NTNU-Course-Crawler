@@ -1,0 +1,77 @@
+{
+    "year": 110,
+    "term": 1,
+    "name": "高等計算機網路",
+    "teachers": [
+        "陳俊祥"
+    ],
+    "department": "SM47",
+    "code": "CSC0036",
+    "credit": 3,
+    "serial": 2765,
+    "group": "",
+    "quota": {
+        "limit": 30,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 4,
+            "from": 7,
+            "to": 9,
+            "campus": "公館",
+            "classroom": "Ｓ203"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程針對新興之網路技術、應用系統與研究方法，進行課堂介紹與專題研究，希望引起同學們對此領域的興趣，並投入相關的研究與應用。本課程內容涵蓋網路量測技術、同儕網路系統、位置感知應用服務與群眾外包服務，並同時介紹當前相關科技之進展，以使修課同學能夠從多方面瞭解進階網路系統與各項應用。",
+    "goals": [
+        "了解各項新興進階網路系統與應用技術",
+        "專題研究- 針對特定主題進行深入研究",
+        "成果發表- 期末報告與成果展示",
+        "能培養學生獨立閱讀論文的能力",
+        "能建立學生口頭表達能力",
+        "能建立學生專業領域知識",
+        "能培養學生正確思考批判的能力"
+    ],
+    "syllabus": "Week 1: Computer Network Overview & Protocol Hierarchies  \nWeek 2: OSI & TCP/IP Models  \nWeek 3: Physical and Data Link Layers  \nWeek 4: Media Access Control & Network Layer Overview  \nWeek 5: Network Layer in Details  \nWeek 6: Transport Layer & Socket API  \nWeek 7: Socket Programming  \nWeek 8: Session Layer, Presentation Layer & Relevant Issues  \nWeek 9: Application Layer and Clouds  \nWeek 10: Cloud Computing Architecture & Mid Term  \nWeek 11: Cloud Computing, Edge Computing & More   \nWeek 12: Security Architectures  \nWeek 13: Data Privacy & Governing  \nWeek 14: Blockchain and Biz Models  \nWeek 15: Advanced Topic Reading & Assignment  \nWeek 16: Resilience Other Than Replication  \nWeek 17: Advanced Topic Reading Presentation\n\nWeek 18: Advanced Topic Reading Presentation & Finals",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "由教師針對授課主題進行講授教學"
+        },
+        {
+            "type": "討論法",
+            "note": "由教師引導針對特定主題進行討論"
+        },
+        {
+            "type": "合作學習",
+            "note": "小組文獻探討及報告"
+        }
+    ],
+    "grading": [
+        {
+            "type": "期中考",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 40,
+            "note": ""
+        },
+        {
+            "type": "報告",
+            "weight": 30,
+            "note": "小組文獻探討及報告"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

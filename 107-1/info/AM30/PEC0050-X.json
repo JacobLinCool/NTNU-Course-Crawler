@@ -1,0 +1,78 @@
+{
+    "year": 107,
+    "term": 1,
+    "name": "肌電圖分析專題研究",
+    "teachers": [
+        "李恆儒"
+    ],
+    "department": "AM30",
+    "code": "PEC0050",
+    "credit": 3,
+    "serial": 25,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 2,
+            "to": 4,
+            "campus": "公館",
+            "classroom": "體育館三樓視聽教室"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "教授肌電圖相關原理\n並讓學生實際操作實驗儀器",
+    "goals": [
+        "肌電圖相關原理之理解",
+        "熟練相關儀器之操作",
+        "理解實際應用之方法"
+    ],
+    "syllabus": "week 1: Introduction to Electromyography  \nweek 2: Basic Physiology and Biophysics of EMG Signal Generation  \nweek 3: Instrumentation and Electrode of EMG  \nweek 4: General Assessment Consideration  \nweek 5: Surface EMG Applications  \nweek 6: Proposal Presentation  \nweek 7: Midterm  \nweek 8: Assessment and Clinical Protocol (1)  \nweek 9: Assessment and Clinical Protocol (2)  \nweek 10: Static and Dynamic Assessment (1)  \nweek 11: Static and Dynamic Assessment (2)  \nweek 12: EMG Signal Processing (1)  \nweek 13: EMG Signal Processing (2)  \nweek 14: Electrode Placement (1)  \nweek 15: Electrode Placement (2)  \nweek16: Final Report",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "藉由系統性授課來協助學生瞭解肌電圖相關原理"
+        },
+        {
+            "type": "討論法",
+            "note": "分組討論"
+        },
+        {
+            "type": "實驗/實作",
+            "note": "實際操作實驗儀器"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 20,
+            "note": ""
+        },
+        {
+            "type": "期中考",
+            "weight": 30,
+            "note": "期中報告"
+        },
+        {
+            "type": "期末考",
+            "weight": 40,
+            "note": "期末報告"
+        },
+        {
+            "type": "出席",
+            "weight": 10,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

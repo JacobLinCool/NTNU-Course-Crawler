@@ -1,0 +1,94 @@
+{
+    "year": 108,
+    "term": 2,
+    "name": "讀寫訓練（二）",
+    "teachers": [
+        "李育娟"
+    ],
+    "department": "IU84",
+    "code": "CLU0067",
+    "credit": 4,
+    "serial": 1387,
+    "group": "A",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 3,
+            "to": 4,
+            "campus": "本部",
+            "classroom": "樸403"
+        },
+        {
+            "day": 4,
+            "from": 6,
+            "to": 7,
+            "campus": "本部",
+            "classroom": "樸403"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎限外籍生修習◎必須先修過【CLU0066  讀寫訓練（一）】",
+    "form_s": "1",
+    "classes": "",
+    "dept_group": "A",
+    "hours": 4,
+    "description": "上課內容以華語文綜合讀本為依據，另外搭配其他補充材料，目的在於提升閱讀的能力，擴增詞彙的範圍，進而加強語文表達能力，能書寫、說明個人意見及看法。",
+    "goals": [
+        "提升閱讀的能力，掌握篇章的網要",
+        "籍由精讀文章，深入瞭解句型結構",
+        "加強語文、書寫表達能力"
+    ],
+    "syllabus": "week1 課程說明\n\nweek2 第一課\n\nweek3 第一課第二課\n\nweek4 第二課\n\nweek5 第三課\n\nweek6 第三課第四課\n\nweek7 期中考\n\nweek8 第四課\n\nweek9 第五課\n\nweek10 第五課第六課  \n\nweek11 第六課\n\nweek12 第七課\n\nweek13 期中考\n\nweek14 第七課第八課\n\nweek15 第八課\n\nweek16 第九課\n\nweek17 第九課/課程總復習\n\nweek18 期末考",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": ""
+        },
+        {
+            "type": "合作學習",
+            "note": ""
+        },
+        {
+            "type": "媒體融入教學",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 10,
+            "note": ""
+        },
+        {
+            "type": "期中考",
+            "weight": 30,
+            "note": "每上完四課考一次"
+        },
+        {
+            "type": "期末考",
+            "weight": 20,
+            "note": ""
+        },
+        {
+            "type": "報告",
+            "weight": 30,
+            "note": "作文"
+        },
+        {
+            "type": "其他",
+            "weight": 10,
+            "note": "小考"
+        }
+    ],
+    "prerequisite": "◎必須先修過【CLU0066  讀寫訓練（一）】",
+    "general_core": []
+}

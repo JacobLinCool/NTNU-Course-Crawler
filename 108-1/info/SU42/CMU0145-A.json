@@ -1,0 +1,77 @@
+{
+    "year": 108,
+    "term": 1,
+    "name": "無機化學（一）",
+    "teachers": [
+        "李位仁"
+    ],
+    "department": "SU42",
+    "code": "CMU0145",
+    "credit": 3,
+    "serial": 2955,
+    "group": "A",
+    "quota": {
+        "limit": 80,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 3,
+            "to": 4,
+            "campus": "公館",
+            "classroom": "Ｅ102"
+        },
+        {
+            "day": 4,
+            "from": 2,
+            "to": 2,
+            "campus": "公館",
+            "classroom": "Ｅ302"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "3",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "To train students to have the basic concepts of CFT and complexes.",
+    "goals": [
+        "The hydrogen atomic structure and the trend of the periodical elements.",
+        "Molecular structures and bonding theories.",
+        "Main group elements and their compounds.",
+        "CFT and electronic spectra."
+    ],
+    "syllabus": "Week 1-6, CFT and complexes.\n\nWeek 7-12, Grp 1-Grp 18\n\nWeek 13-18, d-block metals and organometallics.",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "媒體融入教學",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "期中考",
+            "weight": 50,
+            "note": "共2次"
+        },
+        {
+            "type": "期末考",
+            "weight": 35,
+            "note": ""
+        },
+        {
+            "type": "其他",
+            "weight": 15,
+            "note": "小考"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

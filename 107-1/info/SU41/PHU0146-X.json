@@ -1,0 +1,69 @@
+{
+    "year": 107,
+    "term": 1,
+    "name": "電子學（二）",
+    "teachers": [
+        "陸健榮"
+    ],
+    "department": "SU41",
+    "code": "PHU0146",
+    "credit": 3,
+    "serial": 2838,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 1,
+            "from": 8,
+            "to": 10,
+            "campus": "公館",
+            "classroom": "Ｆ104"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "4",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "1.提高學生對電子學的知識，加強理解其基本概念；\n2.為學生提供將來學習光電工程、及其他應用科學的基礎。",
+    "goals": [
+        "瞭解電子元件、儀器的操作原理和相關理論",
+        "瞭解電子元件、儀器實際運用",
+        "簡介電子學新知"
+    ],
+    "syllabus": "1\\. Device Structure and Physical Operation of FET\n\n2\\. Current-Voltage Characteristics of FET\n\n3\\. MOSFET Circuits at DC\n\n4\\. Applying the MOSFET in Amplifier Design\n\n5\\. Small-Signal Operation and Models of FET\n\n6\\. CMOS Logic-Gate Circuit\n\n7\\. Digital Logic Inverters\n\n8\\. The CMOS Inverter\n\n9. Dynamic operation of the CMOS Inverter\n\n10. Mid-term\n\n11. IC Design Introduction\n\n12\\. Pseudo-NMOS logic circuits\n\n13\\. Pass-transistor logic circuits\n\n14. Dynamic MOS logic circuits\n\n15\\. Latches and Filp-Flops\n\n16\\. Semiconductor Memorys\n\n17\\. Random-Access Memory\n\n18\\. Final",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "媒體融入教學",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "期中考",
+            "weight": 35,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 35,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

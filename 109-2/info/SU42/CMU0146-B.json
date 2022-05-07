@@ -1,0 +1,91 @@
+{
+    "year": 109,
+    "term": 2,
+    "name": "無機化學（二）",
+    "teachers": [
+        "劉沂欣"
+    ],
+    "department": "SU42",
+    "code": "CMU0146",
+    "credit": 3,
+    "serial": 2886,
+    "group": "B",
+    "quota": {
+        "limit": 50,
+        "additional": 0
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 3,
+            "to": 4,
+            "campus": "公館",
+            "classroom": "Ｃ102"
+        },
+        {
+            "day": 4,
+            "from": 2,
+            "to": 2,
+            "campus": "公館",
+            "classroom": "Ｃ102"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "3",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "To train students to have the basic concepts of CFT and complexes.",
+    "goals": [
+        "The hydrogen atomic structure and the trend of the periodical elements.",
+        "Molecular structures and bonding theories.",
+        "Main group elements and their compounds.",
+        "CFT and electronic spectra."
+    ],
+    "syllabus": "Chemistry of the main group elements Coordination chemistry I: structures and isomers Coordination chemistry II: bonding Coordination chemistry III: electronic spectra Coordination chemistry IV: reactions and mechanisms Organometallic chemistry Organometallic reactions and catalysis Parallels between main group and organometallic chemistry",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "問題解決教學",
+            "note": ""
+        },
+        {
+            "type": "媒體融入教學",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 10,
+            "note": "每章習題"
+        },
+        {
+            "type": "期中考",
+            "weight": 75,
+            "note": "共5次"
+        },
+        {
+            "type": "出席",
+            "weight": 5,
+            "note": "每次上課點名"
+        },
+        {
+            "type": "報告",
+            "weight": 5,
+            "note": "解題影片"
+        },
+        {
+            "type": "其他",
+            "weight": 5,
+            "note": "創意題"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

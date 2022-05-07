@@ -1,0 +1,78 @@
+{
+    "year": 107,
+    "term": 1,
+    "name": "計量經濟學",
+    "teachers": [
+        "何宗武"
+    ],
+    "department": "OM55",
+    "code": "MBM0061",
+    "credit": 3,
+    "serial": 2420,
+    "group": "",
+    "quota": {
+        "limit": 30,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 7,
+            "to": 9,
+            "campus": "本部",
+            "classroom": "教室自排"
+        }
+    ],
+    "programs": [],
+    "comment": "上課教室：雲508室",
+    "restrict": "◎必須先修過【BAU0040  統計學（一）】 ◎課程不開放上修",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程學生將學到如何估計資料及解讀實證結果。本課程將討論計量經濟的理論基礎和應用，且示範如何以統計軟體R運用在實際的資料上。",
+    "goals": [
+        "討論隨機變數的測量原理和應用，瞭解資料的機率分佈",
+        "討論計量經濟的理論基礎和應用，運用實證研究及解讀實證結果",
+        "R統計軟體運用在實際的資料上"
+    ],
+    "syllabus": "1\\. Statistics and Econometric Methods; R Primer  \n2\\. The Philosophy of Probability & Statistics—  Random Variable and Expectation; R Lab  \n3\\. Regression Analysis: LS Estimation and Inference; R Lab  \n4\\. Regression Analysis: Residual Diagnosis; R Lab  \n5\\. Heteroskedasticity Problem & Robustness; R Lab  \n6\\. Regression Analysis: Discrete Choice Variable; R Lab  \n7\\. Regression Analysis: Discrete Choice Variable; R Lab  \n8\\. Simultaneous Equation Regression; R Lab  \n9\\. Instrumental Variables Estimation and GMM; R Lab  \n10\\. GMM; R Lab  \n11\\. Univariate Analysis of Time Series Data: ARMA; R Lab  \n12\\. Heteroskedasticity Problem in Time Series Regressions; R Lab  \n13\\. Univariate Analysis of Time Series Data: ARIMA and ADF; R lab  \n14\\. Multivariate Time Series Regression-- VAR and Causality; R Lab  \n15\\. Panel Data  \n16~17. Panel Data; R Lab  \n18\\. Endogeneity Problem",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "上課講授"
+        },
+        {
+            "type": "問題解決教學",
+            "note": "R 軟體運用在實際資料的分析上"
+        },
+        {
+            "type": "實驗/實作",
+            "note": "作業"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 40,
+            "note": "自主學習、認真負責"
+        },
+        {
+            "type": "期中考",
+            "weight": 25,
+            "note": "具備問題解決與決策制定的能力"
+        },
+        {
+            "type": "期末考",
+            "weight": 25,
+            "note": "具備問題解決與決策制定的能力"
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 10,
+            "note": "具備經營管理的能力"
+        }
+    ],
+    "prerequisite": "◎必須先修過【BAU0040  統計學（一）】",
+    "general_core": []
+}

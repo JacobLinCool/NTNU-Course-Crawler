@@ -1,0 +1,71 @@
+[
+    {
+        "year": 107,
+        "term": 2,
+        "name": "社區高齡者服務實習",
+        "teachers": [
+            "李育齊"
+        ],
+        "department": "E",
+        "code": "E0U0006",
+        "credit": 2,
+        "serial": 4328,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 16,
+                "to": 10,
+                "campus": "本部",
+                "classroom": "誠105"
+            }
+        ],
+        "programs": [
+            "高齡學程"
+        ],
+        "comment": "◎進階服務學習",
+        "restrict": "",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "高齡者健康輔具",
+        "teachers": [
+            "姜義村",
+            "梁桂嘉"
+        ],
+        "department": "E",
+        "code": "E0U0005",
+        "credit": 2,
+        "serial": 361,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 3,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "教室自排"
+            }
+        ],
+        "programs": [
+            "高齡學程"
+        ],
+        "comment": "外校選修者，第一週課程另找時間補課。  教室：教育學院第2會議室",
+        "restrict": "◎第一階段限 高齡學程",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    }
+]

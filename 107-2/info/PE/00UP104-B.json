@@ -1,0 +1,74 @@
+{
+    "year": 107,
+    "term": 2,
+    "name": "體育（籃球初級）",
+    "teachers": [
+        "吳詩薇"
+    ],
+    "department": "PE",
+    "code": "00UP104",
+    "credit": 1,
+    "serial": 2465,
+    "group": "B",
+    "quota": {
+        "limit": 50,
+        "additional": 5
+    },
+    "schedule": [
+        {
+            "day": 1,
+            "from": 6,
+            "to": 7,
+            "campus": "本部",
+            "classroom": "室外籃球場一"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 2,
+    "description": "認識籃球運動之起源、歷史發展現況及籃球運動傷害之防治",
+    "goals": [
+        "認識籃球運動之起源、歷史發展現況及籃球運動傷害之防治",
+        "瞭解籃球規則",
+        "培養學生各項籃球基本技能",
+        "培養對籃球運動之興趣及欣賞能力"
+    ],
+    "syllabus": "  \n[教學進度與主題附件](https://ap.itc.ntnu.edu.tw/NtnuFileShare/file.do?action=dl&gno=619585fd8abb4554b32c339fb7ffa216&fno=0c4d97ff45fa43f195f3c12d44d43340)",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "口頭說明相關動作要領"
+        },
+        {
+            "type": "合作學習",
+            "note": "課程活動內容大多以團隊為主，團隊間之合作是完成課程要求的必要條件"
+        },
+        {
+            "type": "實驗/實作",
+            "note": "實際操作及練習都與成績與課程目標相關"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 70,
+            "note": "2種測驗*15%=30％；循環賽積分40％"
+        },
+        {
+            "type": "出席",
+            "weight": 17,
+            "note": "出席率採積分制，準時者1分，遲到者或缺課0.5分，課中不告而別以曠課論"
+        },
+        {
+            "type": "其他",
+            "weight": 13,
+            "note": "課堂參與表現"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

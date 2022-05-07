@@ -1,0 +1,70 @@
+{
+    "year": 108,
+    "term": 1,
+    "name": "實變分析（一）",
+    "teachers": [
+        "朱亮儒"
+    ],
+    "department": "SU40",
+    "code": "MAC0087",
+    "credit": 3,
+    "serial": 2791,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 1,
+            "from": 2,
+            "to": 4,
+            "campus": "公館",
+            "classroom": "教室自排"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "",
+    "classes": "9",
+    "dept_group": "",
+    "hours": 3,
+    "description": "介紹高等分析理論，作為進階分析學之必備基礎",
+    "goals": [
+        "培養數學專業能力",
+        "銜接高等分析課程",
+        "提升抽象思考層次",
+        "以高觀點詮釋數學與其他學科連結"
+    ],
+    "syllabus": "  \n實變函數是數學分析的基礎，本課程主要目的是介紹基本的實變數函數論及其應用，教材內容如下：  \n  \n1\\. Functions of Bounded Variational  \n    Jordan theorem, Riemann-Stieltjes integral  \n  \n2\\. Lebesgue Measure and Outer Measure  \n    Algebra, Borel sets, Measure spaces, Littlewood 3 principles, Cantor sets, Cantor-Lebesgue functions, Caratheodory measurable    \n\n    sets, Steinhaus theorem, Vitali nonmeasurable sets  \n  \n3\\. Lebesgue Measurable Functions  \n    Lusin theorem, Egorov theorem, Convergence a.e. (in measure, in L^p,  a.u.)  \n  \n4\\. Lebesgue Integral  \n    Convergence theorem (MCT, LDCT, BCT, UCT), Fatou lemma, Tchebyshey inequality, Relation between R-S integral and\n\n    Lebesgue integral  \n  \n5\\. Repeated Integration  \n   Fubini theorem, Tonelli theorem, Convolution",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "利用黑板之教室教學"
+        },
+        {
+            "type": "討論法",
+            "note": "隨堂討論"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 40,
+            "note": "每二週一次作業(至少繳交6次作業)"
+        },
+        {
+            "type": "期中考",
+            "weight": 30,
+            "note": "期中考一次集中筆試"
+        },
+        {
+            "type": "期末考",
+            "weight": 30,
+            "note": "期末考一次集中筆試"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

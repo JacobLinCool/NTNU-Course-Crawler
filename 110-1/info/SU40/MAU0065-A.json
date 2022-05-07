@@ -1,0 +1,71 @@
+{
+    "year": 110,
+    "term": 1,
+    "name": "電子計算機概論",
+    "teachers": [
+        "范洪源"
+    ],
+    "department": "SU40",
+    "code": "MAU0065",
+    "credit": 3,
+    "serial": 2791,
+    "group": "A",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 1,
+            "from": 6,
+            "to": 8,
+            "campus": "公館",
+            "classroom": "Ｃ002"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "1",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程介紹計算機與網路基本概念，包括電腦軟硬體設備、作業系統、資料儲存型式、程式語言等，為學習計算機及其應用的基本科目。",
+    "goals": [
+        "培養學生資訊基本素養與電腦基本概念",
+        "瞭解電腦的軟硬體架構及應用",
+        "電腦網路、智慧財產權與電腦病毒的認知",
+        "程式設計、演算法與資料庫的基本認識與應用"
+    ],
+    "syllabus": "課程簡介與評分標準說明 (1 week)\n\nChapter 01  計算機簡介 (2 weeks)\n\nChapter 02  數位資料表示法 (2 weeks)\n\nChapter 03  計算機組織 (2 weeks)\n\n第一次期中考 (1 week)\n\nChapter 04  作業系統 (2 weeks)\n\nChapter 05  網際網路 (3 weeks)\n\nChapter 06  程式語言 (3 weeks)\n\n第二次期中考 (1 week)\n\n期末報告 (1 week)",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "以口述並搭配投影片方式教學授課"
+        }
+    ],
+    "grading": [
+        {
+            "type": "期中考",
+            "weight": 30,
+            "note": "詳見http://math.ntnu.edu.tw/~hyfan/linked_files/courses/IntroCompSci/100_2_IntroCompSci.htm"
+        },
+        {
+            "type": "期末考",
+            "weight": 30,
+            "note": "詳見http://math.ntnu.edu.tw/~hyfan/linked_files/courses/IntroCompSci/100_2_IntroCompSci.htm"
+        },
+        {
+            "type": "出席",
+            "weight": 10,
+            "note": "詳見http://math.ntnu.edu.tw/~hyfan/linked_files/courses/IntroCompSci/100_2_IntroCompSci.htm"
+        },
+        {
+            "type": "報告",
+            "weight": 30,
+            "note": "詳見http://math.ntnu.edu.tw/~hyfan/linked_files/courses/IntroCompSci/100_2_IntroCompSci.htm"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

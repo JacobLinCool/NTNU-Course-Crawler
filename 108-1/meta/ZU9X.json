@@ -1,0 +1,513 @@
+[
+    {
+        "year": 108,
+        "term": 1,
+        "name": "哲學概論",
+        "teachers": [
+            "王錦雀"
+        ],
+        "department": "EU07",
+        "code": "CEU0006",
+        "credit": 2,
+        "serial": 829,
+        "group": "",
+        "quota": {
+            "limit": 60,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 6,
+                "to": 7,
+                "campus": "本部",
+                "classroom": "樸301"
+            }
+        ],
+        "programs": [
+            "哲學學程"
+        ],
+        "comment": "",
+        "restrict": "",
+        "form_s": "1",
+        "classes": "1",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 1,
+        "name": "哲學概論",
+        "teachers": [
+            "王錦雀"
+        ],
+        "department": "EU07",
+        "code": "CEU0006",
+        "credit": 2,
+        "serial": 836,
+        "group": "",
+        "quota": {
+            "limit": 60,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 6,
+                "to": 7,
+                "campus": "本部",
+                "classroom": "誠402"
+            }
+        ],
+        "programs": [
+            "哲學學程"
+        ],
+        "comment": "",
+        "restrict": "",
+        "form_s": "1",
+        "classes": "2",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 1,
+        "name": "批判性思考與寫作",
+        "teachers": [
+            "張崑將"
+        ],
+        "department": "IU83",
+        "code": "EAU0154",
+        "credit": 3,
+        "serial": 1467,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 2,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "誠107"
+            }
+        ],
+        "programs": [
+            "哲學學程"
+        ],
+        "comment": "文化與應用領域，第一階段限大一修習。",
+        "restrict": "",
+        "form_s": "1",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 1,
+        "name": "世界思潮經典導讀",
+        "teachers": [
+            "劉滄龍"
+        ],
+        "department": "L",
+        "code": "L0U0001",
+        "credit": 2,
+        "serial": 1567,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 5
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 8,
+                "to": 9,
+                "campus": "本部",
+                "classroom": "正401"
+            }
+        ],
+        "programs": [
+            "哲學學程"
+        ],
+        "comment": "",
+        "restrict": "◎第一階段限 哲學學程",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 1,
+        "name": "中學哲學教材教法（一）",
+        "teachers": [
+            "蒲世豪"
+        ],
+        "department": "L",
+        "code": "L0U3001",
+        "credit": 2,
+        "serial": 1594,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 10,
+                "to": 11,
+                "campus": "本部",
+                "classroom": "誠106"
+            }
+        ],
+        "programs": [
+            "哲學學程"
+        ],
+        "comment": "",
+        "restrict": "◎第一階段限 哲學學程",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 1,
+        "name": "西洋哲學史（一）",
+        "teachers": [
+            "蒲世豪"
+        ],
+        "department": "L",
+        "code": "L0U3003",
+        "credit": 2,
+        "serial": 1595,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 5
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 10,
+                "to": 11,
+                "campus": "本部",
+                "classroom": "誠106"
+            }
+        ],
+        "programs": [
+            "哲學學程"
+        ],
+        "comment": "",
+        "restrict": "◎第一階段限 哲學學程",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 1,
+        "name": "法哲學與文學",
+        "teachers": [
+            "李雨鍾"
+        ],
+        "department": "L",
+        "code": "L0U3005",
+        "credit": 2,
+        "serial": 1596,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 5
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 10,
+                "to": 11,
+                "campus": "本部",
+                "classroom": "誠204"
+            }
+        ],
+        "programs": [
+            "哲學學程"
+        ],
+        "comment": "",
+        "restrict": "◎第一階段限 哲學學程",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 1,
+        "name": "政治哲學",
+        "teachers": [
+            "葉浩"
+        ],
+        "department": "L",
+        "code": "L0U3006",
+        "credit": 2,
+        "serial": 1597,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 5
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 10,
+                "to": 11,
+                "campus": "本部",
+                "classroom": "誠106"
+            }
+        ],
+        "programs": [
+            "哲學學程"
+        ],
+        "comment": "",
+        "restrict": "◎第一階段限 哲學學程",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 1,
+        "name": "中國哲學史（一）",
+        "teachers": [
+            "江淑君"
+        ],
+        "department": "LU20",
+        "code": "CHU0318",
+        "credit": 2,
+        "serial": 1798,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 8,
+                "to": 9,
+                "campus": "本部",
+                "classroom": "樸304"
+            }
+        ],
+        "programs": [
+            "哲學學程"
+        ],
+        "comment": "",
+        "restrict": "",
+        "form_s": "3",
+        "classes": "1",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 1,
+        "name": "中國哲學史（一）",
+        "teachers": [
+            "江淑君"
+        ],
+        "department": "LU20",
+        "code": "CHU0318",
+        "credit": 2,
+        "serial": 1801,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 11
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 1,
+                "to": 2,
+                "campus": "本部",
+                "classroom": "樸303"
+            }
+        ],
+        "programs": [
+            "哲學學程"
+        ],
+        "comment": "",
+        "restrict": "",
+        "form_s": "3",
+        "classes": "2",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 1,
+        "name": "中國哲學史（一）",
+        "teachers": [
+            "鄭燦山"
+        ],
+        "department": "LU20",
+        "code": "CHU0318",
+        "credit": 2,
+        "serial": 1804,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 8,
+                "to": 9,
+                "campus": "本部",
+                "classroom": "樸303"
+            }
+        ],
+        "programs": [
+            "哲學學程"
+        ],
+        "comment": "",
+        "restrict": "",
+        "form_s": "3",
+        "classes": "3",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 1,
+        "name": "中國哲學史（三）",
+        "teachers": [
+            "江淑君"
+        ],
+        "department": "LU20",
+        "code": "CHU0303",
+        "credit": 2,
+        "serial": 1816,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 11
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 3,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "樸304"
+            }
+        ],
+        "programs": [
+            "哲學學程"
+        ],
+        "comment": "",
+        "restrict": "",
+        "form_s": "4",
+        "classes": "1",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 1,
+        "name": "中國哲學史（三）",
+        "teachers": [
+            "鄭燦山"
+        ],
+        "department": "LU20",
+        "code": "CHU0303",
+        "credit": 2,
+        "serial": 1817,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 5,
+                "from": 3,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "樸204"
+            }
+        ],
+        "programs": [
+            "哲學學程"
+        ],
+        "comment": "",
+        "restrict": "",
+        "form_s": "4",
+        "classes": "2",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 1,
+        "name": "中國哲學史（三）",
+        "teachers": [
+            "鄭燦山"
+        ],
+        "department": "LU20",
+        "code": "CHU0303",
+        "credit": 2,
+        "serial": 1818,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 3,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "樸203"
+            }
+        ],
+        "programs": [
+            "哲學學程"
+        ],
+        "comment": "",
+        "restrict": "",
+        "form_s": "4",
+        "classes": "3",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 1,
+        "name": "現代歐陸哲學選讀",
+        "teachers": [
+            "黃涵榆"
+        ],
+        "department": "LU21",
+        "code": "ENC1093",
+        "credit": 3,
+        "serial": 1824,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 6,
+                "to": 8,
+                "campus": "本部",
+                "classroom": "正305"
+            }
+        ],
+        "programs": [
+            "歐洲文化學程",
+            "哲學學程"
+        ],
+        "comment": "",
+        "restrict": "◎限大三大四 ◎限碩一碩二碩三以上修習",
+        "form_s": "",
+        "classes": "9",
+        "dept_group": ""
+    }
+]

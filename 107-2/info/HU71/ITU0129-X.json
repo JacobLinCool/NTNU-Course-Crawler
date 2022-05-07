@@ -1,0 +1,87 @@
+{
+    "year": 107,
+    "term": 2,
+    "name": "作業系統",
+    "teachers": [
+        "李啟龍"
+    ],
+    "department": "HU71",
+    "code": "ITU0129",
+    "credit": 3,
+    "serial": 1243,
+    "group": "",
+    "quota": {
+        "limit": 30,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 4,
+            "from": 16,
+            "to": 11,
+            "campus": "本部",
+            "classroom": "科213"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎限大二修習",
+    "form_s": "2",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "作業系統為計算機中最重要的系統程式，它控制了整個計算機系統的運作，本課程目的為介紹作業系統的原則及運作情形，並介紹作業系統中各重要單元及其作業方式。課程包括：Computer-System Structures、Operating-System Structures、Processes、CPU Scheduling、Process Synchronization、Deadlocks、Memory Management、Virtual Memory、File Systems、I/O Systems、Secondary-Storage Structure。",
+    "goals": [
+        "介紹作業系統的原則及運作",
+        "介紹作業系統中各重要單元及其作業方式"
+    ],
+    "syllabus": "1\\. Introduction\n\n2\\. Operating-System Structures\n\n3\\. Processes\n\n4\\. CPU Scheduling\n\n5\\. Process Synchronization\n\n6\\. Process Synchronization\n\n7\\. Process Synchronization\n\n8\\. Deadlocks\n\n9\\. Deadlocks\n\n10\\. Memory Management\n\n11\\. Virtual Memory\n\n12\\. Virtual Memory\n\n13\\. File-System Interface/Implementation\n\n14\\. I/O Systems\n\n15\\. Secondary-Storage Structure\n\n16\\. Disk Scheduling",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "說明作業系統各重要單元的運作原理"
+        },
+        {
+            "type": "問題解決教學",
+            "note": "運用問題解決方式進行引導式教學"
+        },
+        {
+            "type": "合作學習",
+            "note": "以小組方式進行作業系統簡報"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 10,
+            "note": ""
+        },
+        {
+            "type": "期中考",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 10,
+            "note": ""
+        },
+        {
+            "type": "出席",
+            "weight": 10,
+            "note": ""
+        },
+        {
+            "type": "報告",
+            "weight": 10,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

@@ -1,0 +1,78 @@
+{
+    "year": 107,
+    "term": 1,
+    "name": "教育統計學",
+    "teachers": [
+        "吳明振"
+    ],
+    "department": "HM70",
+    "code": "IEM0001",
+    "credit": 2,
+    "serial": 1101,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 3,
+            "to": 4,
+            "campus": "本部",
+            "classroom": "研討六"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 2,
+    "description": "本課程旨在引導學生瞭解教育統計的基礎理論和常用方法，熟悉其運算操作，並能在研究實務上作適當的應用。",
+    "goals": [
+        "培養學生有關教育統計之知識與能力",
+        "協助學生執行研究論文所需之統計分析",
+        "培養學生應用電腦來解決統計分析之相關問題",
+        "提升學生進行量化研究之思維、能力與熱忱"
+    ],
+    "syllabus": "**教學進度與主題**（可說明每週進度，請以週次填寫，計18週）\n\n週次\n\n內          容\n\n備註\n\n1\n\nCHAP 1  INTRODUCTION TO\n\n         STATISTICS\n\n2\n\nCHAP 2  FREQUENCY DISTRIBUTIONS   \n\n3\n\nCHAP 3  CENTRAL TENDENCY (I)\n============================\n\n4\n\nCHAP 3  CENTRAL TENDENCY (II)\n\n5\n\nCHAP 4  VARIABILITY (I)\n\n6\n\nCHAP 4  VARIABILITY (II)\n\n7\n\nCHAP 5  Z-SCORES:  LOCATION OF\n\n         SCORES AND STANDARIZED\n\n         DISTRIBUTIONS (I)\n\n8\n\nCHAP 5  Z-SCORES:  LOCATION OF\n\n         SCORES AND STANDARIZED\n\n         DISTRIBUTIONS (II)\n\n9\n\nCHAP 6  PROBABILITY (I)\n\n10\n\nCHAP 6  PROBABILITY (II)\n\n**期中測驗** **(Chap 1-6)**\n\n11\n\nCHAP 7  PROBABILITY AND SAMPLES:\n\n        THE DISTRIBUTION OF\n\n         SAMPLE MEANS (I)\n\n12\n\nCHAP 7  PROBABILITY AND SAMPLES: THE DISTRIBUTION OF\n\n         SAMPLE MEANS (II)\n\n13\n\nCHAP 8  INTRODUCTION TO\n\n         HYPOTHESIS TESTING(I)\n\n14\n\nCHAP 8  INTRODUCTION TO\n\n         HYPOTHESIS TESTING(II)\n\n15\n\nCHAP 16  CORRELATION (I)\n\n16\n\nCHAP 16  CORRELATION (II)\n\n17\n\nCHAP 17  REGRESSION (I)\n\n18\n\nCHAP 17  REGRESSION (II)\n\n**期末測驗** **(Chap 7-8,16-17)**\n\n  \n  \n12 Introduction to analysis of variance (ANOVA) (I)  \n13 Introduction to analysis of variance (ANOVA) (II)  \n14 Repeated-measures analysis of variance (I)  \n15 Repeated-measures analysis of variance (II)  \n16 Application of computer software (SPSS) in statistical (I)  \n17 Application of computer software (SPSS) in statistical (II)  \n18（Final Examination）  \n1\\. 教學方法：講述、問答、討論、實例演算、作業練習  \n2\\. 評量標準：期中測驗 45%  \n期末測驗 45%  \n上課出席與表現 10%",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": ""
+        },
+        {
+            "type": "實驗/實作",
+            "note": ""
+        },
+        {
+            "type": "其他",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "期中考",
+            "weight": 45,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 45,
+            "note": ""
+        },
+        {
+            "type": "出席",
+            "weight": 10,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

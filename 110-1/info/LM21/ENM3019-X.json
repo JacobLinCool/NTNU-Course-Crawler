@@ -1,0 +1,80 @@
+{
+    "year": 110,
+    "term": 1,
+    "name": "電腦與語言教學",
+    "teachers": [
+        "林至誠"
+    ],
+    "department": "LM21",
+    "code": "ENM3019",
+    "credit": 3,
+    "serial": 4927,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 1,
+            "from": 8,
+            "to": 10,
+            "campus": "本部",
+            "classroom": "誠701A"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程不開放上修",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "",
+    "goals": [
+        "to have solid understanding about CALL."
+    ],
+    "syllabus": "  \nCourse objectives:  \n  \n1\\. This introductory course guides students to the field of computer assisted language learning (CALL) by first reviewing the literature in some but not comprehensive areas. By so doing, students must feel comfortable with the jargons and paper formats used in the readings. The major product from reviewing the literature is to write a term paper on a CALL related topic.  \n  \n2\\. When reviewing the CALL literature, students once in a while will confront some commercialized language learning programs and websites compiled and constructed based upon some language learning theories. In order to practice their theoretical trainings, students will be asked to evaluate some language learning programs and/or websites.  \n  \n3\\. Finally, this course of CALL is designed to familiarize students with some commercialized programs for tailor-making CALL lessons, which include multimedia (graphics, audio, and video) and web-based tools. Assignments will be given to examine students’ fluency in using the programs.  \nTopics include:  \n1\\. Course introduction  \n2\\. History of CALL  \n3\\. CALL Environments  \n4\\. CALL Evaluation & Effectiveness  \n5\\. Computer-Mediated Communication (CMC)  \n6\\. Web-Enhanced Language Learning (WELL)  \n7\\. Concordancing in Language Learning  \n8\\. Mobile-Assisted Language Learning (MALL)  \nApplications, language learning programs and websites will be introduced on a weekly basis in each meeting.",
+    "methodologies": [
+        {
+            "type": "Formal lecture",
+            "note": ""
+        },
+        {
+            "type": "Group discussion",
+            "note": ""
+        },
+        {
+            "type": "Cooperative learning",
+            "note": ""
+        },
+        {
+            "type": "Media, audio, visual materials",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "Assignments",
+            "weight": 50,
+            "note": "Learning journal: 10% Software/website evaluation: 20% A Web-based lesson plan: 20%"
+        },
+        {
+            "type": "Class discussion involvement",
+            "weight": 15,
+            "note": "Class and online participation: 15%"
+        },
+        {
+            "type": "Presentation",
+            "weight": 25,
+            "note": "Paper: 25%"
+        },
+        {
+            "type": "other:",
+            "weight": 10,
+            "note": "Opinions survey: 10%"
+        }
+    ],
+    "prerequisite": "◎Unavailable for M.A. program students (M.A. program courses excepted) and B.A. program students.",
+    "general_core": []
+}

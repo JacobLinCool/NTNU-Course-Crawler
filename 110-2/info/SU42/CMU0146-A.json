@@ -1,0 +1,81 @@
+{
+    "year": 110,
+    "term": 2,
+    "name": "無機化學（二）",
+    "teachers": [
+        "謝明惠"
+    ],
+    "department": "SU42",
+    "code": "CMU0146",
+    "credit": 3,
+    "serial": 2858,
+    "group": "A",
+    "quota": {
+        "limit": 50,
+        "additional": 0
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 3,
+            "to": 4,
+            "campus": "公館",
+            "classroom": "理圖001"
+        },
+        {
+            "day": 4,
+            "from": 2,
+            "to": 2,
+            "campus": "公館",
+            "classroom": "理圖001"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "3",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "To train students to have the basic concepts of CFT and complexes.",
+    "goals": [
+        "The hydrogen atomic structure and the trend of the periodical elements.",
+        "Molecular structures and bonding theories.",
+        "Main group elements and their compounds.",
+        "CFT and electronic spectra."
+    ],
+    "syllabus": "Course Syllabus: 16+2 weeks\n\nChemistry of the main group elements and coordination chemistry\n\nI: structures and isomers Coordination chemistry (4 weeks)\n\nII: bonding Coordination chemistry (4 weeks)\n\nIII: electronic spectra Coordination chemistry (4 weeks)\n\nIV: reactions and mechanisms (4 weeks)\n\nV: Organometallic chemistry (1 week)\n\nVI: Organometallic reactions and catalysis (1 week)",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": ""
+        },
+        {
+            "type": "媒體融入教學",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "期中考",
+            "weight": 50,
+            "note": "共2次"
+        },
+        {
+            "type": "期末考",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "其他",
+            "weight": 20,
+            "note": "小考"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

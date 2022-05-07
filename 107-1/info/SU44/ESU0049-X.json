@@ -1,0 +1,67 @@
+{
+    "year": 107,
+    "term": 1,
+    "name": "大氣熱力學",
+    "teachers": [
+        "簡芳菁"
+    ],
+    "department": "SU44",
+    "code": "ESU0049",
+    "credit": 3,
+    "serial": 2956,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 5,
+            "from": 2,
+            "to": 4,
+            "campus": "公館",
+            "classroom": "理圖002"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎限大二大三大四修習◎必須先修過【ESU0179  大氣科學概論（含實習）】",
+    "form_s": "2",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "教學目標： \n本課程先講授古典熱力學的基礎觀念，包括：純物質性質、功和熱、熱力學第一定律、熱力學第二定律、和entropy。然後講授大氣的熱力性質，包括：水氣和溼空氣熱力學、大氣熱力圖、及大氣的熱力過程等。 \n1.\t前言 \n2.\t一些觀念和定義 \n3.\t純物質性質 \n4.\t功和熱 \n5.\t熱力學第一定律 \n6.\t熱力學第二定律 \n7.\t熵 \n8.\t水氣和溼空氣熱力學 \n9.\t大氣熱力圖 \n10.\t大氣的熱力過程",
+    "goals": [
+        "本課程先講授古典熱力學的基礎觀念，包括：純物質性質、功和熱、熱力學第一定律、熱力學第二定律、和entropy。然後講授大氣的熱力性質，包括：水氣和溼空氣熱力學、大氣熱力圖、及大氣的熱力過程等。"
+    ],
+    "syllabus": "本課程係以地球科學系二年級(及以上)學生為授課對象，為三學分的選修課程，是進入大氣科學(氣象學)領域之重要先修課程，學生需有微積分和普通物理的基礎知識。\n\n    課程主要講授熱力學在大氣上的應用，包括熱力學基礎觀念和大氣熱力性質。課程內容包括：功和熱，熱力學第一定律，熱力學第二定律，熵，溼空氣和雲，大氣熱力圖，以及大氣熱力過程與穩定度等。\n\n1\\. Atmospheric Composition and Structure\n\n2\\. Thermodynamic Systems and Variables\n\n3\\. Physical Properties of Air\n\n4\\. Atmospheric Pressure\n\n5\\. The First Law and Its Consequences\n\n6\\. The Second Law and Its Consequences\n\n7\\. Moist Processes\n\n8\\. Atmospheric Stability",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "期中考",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 40,
+            "note": ""
+        }
+    ],
+    "prerequisite": "◎必須先修過【ESU0179  大氣科學概論（含實習）】",
+    "general_core": []
+}

@@ -1,0 +1,72 @@
+{
+    "year": 108,
+    "term": 1,
+    "name": "代數幾何導論（一）",
+    "teachers": [
+        "夏良忠"
+    ],
+    "department": "SM40",
+    "code": "MAC0201",
+    "credit": 3,
+    "serial": 2680,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 6,
+            "to": 8,
+            "campus": "公館",
+            "classroom": "教室自排"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "向同學介紹代數幾何的基本概念，同時希望能引起同學對這個領域的興趣。",
+    "goals": [
+        "習得代數幾何的基本知識",
+        "活用代數幾何的應用"
+    ],
+    "syllabus": "這門課主要目的是向同學介紹代數幾何的基本概念，同時希望能引起同學對這個領域的興趣。以下是希望在地這學期的課程裡能夠涵蓋的內容：\n\n1\\. Algebraic curves in the plane -- plane curves, relation with field theory, rational maps, the projective plane\n\n2\\. Closed subsets of affine space -- definition, regular functions on a closed subset, regular maps\n\n3\\. Rational functions -- irreducible algebraic subsets, rational functions and rational maps\n\n4\\. Quasiprojective varieties -- closed subsets of projective spaces, regular functions, rational functions\n\n5\\. Products and maps of quasiprojective varieties\n\n6\\. Dimension -- definition, dimension of intersection with a hypersurface, the theorem on the dimension of fibres, lines on surfaces.",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": ""
+        },
+        {
+            "type": "問題解決教學",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 50,
+            "note": ""
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 25,
+            "note": ""
+        },
+        {
+            "type": "報告",
+            "weight": 25,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

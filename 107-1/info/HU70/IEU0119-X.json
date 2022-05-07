@@ -1,0 +1,79 @@
+{
+    "year": 107,
+    "term": 1,
+    "name": "程式設計",
+    "teachers": [
+        "黃奇武"
+    ],
+    "department": "HU70",
+    "code": "IEU0119",
+    "credit": 3,
+    "serial": 1192,
+    "group": "",
+    "quota": {
+        "limit": 30,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 2,
+            "to": 4,
+            "campus": "本部",
+            "classroom": "工209"
+        }
+    ],
+    "programs": [],
+    "comment": "工209為電腦教室，可容納人數為30人。",
+    "restrict": "",
+    "form_s": "1",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程教導學生高階語言程式的應用技巧，強調原理的了解與實作解題經驗，透過多個作業的指定,熟悉解題歷程與技巧，建立程式設計的基本概念。",
+    "goals": [
+        "了解電算機架構與資料表示法",
+        "學會問題解決的基本演算法",
+        "培養程式設計的分析與解釋之能力",
+        "解決程式設計技術問題之能力"
+    ],
+    "syllabus": "1.     電算機概念、高階語言架構與問題解決\n\n2.     演算法與程式設計流程\n\n3.     基本資料型態\n\n4.     輸入與輸出\n\n5.     控制結構\n\n6.     函式基本架構與呼叫方法\n\n7.     字串\n\n8.     陣列\n\n9.     期中考\n\n10.  排序法\n\n11.  結構與其他資料型態\n\n12.  偵錯\n\n13.  檔案處理\n\n14.  類別與物件\n\n15.  繼承\n\n16.  資料結構1\n\n17.  資料結構2  \n18.期末考",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "問題解決教學",
+            "note": ""
+        },
+        {
+            "type": "實驗/實作",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 20,
+            "note": ""
+        },
+        {
+            "type": "期中考",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "出席",
+            "weight": 20,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

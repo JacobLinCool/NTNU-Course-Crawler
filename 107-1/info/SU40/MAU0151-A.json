@@ -1,0 +1,82 @@
+{
+    "year": 107,
+    "term": 1,
+    "name": "數學導論",
+    "teachers": [
+        "劉容真"
+    ],
+    "department": "SU40",
+    "code": "MAU0151",
+    "credit": 3,
+    "serial": 2729,
+    "group": "A",
+    "quota": {
+        "limit": 50,
+        "additional": 25
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 2,
+            "to": 2,
+            "campus": "公館",
+            "classroom": "Ｂ103"
+        },
+        {
+            "day": 5,
+            "from": 3,
+            "to": 4,
+            "campus": "公館",
+            "classroom": "Ｂ103"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "1",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程讓學生瞭解邏輯、推理、歸納與論證的能力與集合論的基本理論，以作為學生未來修習其他數學課程的基礎。",
+    "goals": [
+        "訓練學生掌握集合論的基本理論",
+        "訓練學生可以用邏輯與集合的語言進行溝通、表達、寫作",
+        "培養學生推理、論證的能力"
+    ],
+    "syllabus": "1\\. The Logic and Language of Proofs\n\n2\\. Sets\n\n3\\. Mathematical Induction\n\n4\\. Relations\n\n5\\. Functions\n\n6\\. Countable and Uncountable sets",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 11,
+            "note": ""
+        },
+        {
+            "type": "期中考",
+            "weight": 44,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 33,
+            "note": ""
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 1,
+            "note": ""
+        },
+        {
+            "type": "其他",
+            "weight": 11,
+            "note": "小考"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

@@ -1,0 +1,84 @@
+{
+    "year": 110,
+    "term": 2,
+    "name": "流體力學",
+    "teachers": [
+        "陳韋任"
+    ],
+    "department": "HU70",
+    "code": "IEU1843",
+    "credit": 3,
+    "serial": 1147,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 7,
+            "to": 9,
+            "campus": "本部",
+            "classroom": "工401"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "",
+    "goals": [
+        "Acquire in-field knowledge comprehensively",
+        "Acquire in-field problem solving techniques",
+        "Become an in-field design professional",
+        "Prepare to engage in lifelong learning actively",
+        "Practice personal and social responsibility",
+        "Respect intellectual property rights"
+    ],
+    "syllabus": "Week 1：Syllabus\n\nWeek 2：Introduction\n\nWeek 3：Fluid Statics I\n\nWeek 4：Fluid Statics II\n\nWeek 5：Elementary Fluid Dynamics—TheBernoulli Equation I\n\nWeek 6：Elementary Fluid Dynamics—TheBernoulli Equation II\n\nWeek 7：Fluid Kinematics I\n\nWeek 8：Fluid Kinematics II\n\nWeek 9：Midterm Exam\n\nWeek 10：Finite Control Volume AnalysisI\n\nWeek 11：Finite Control Volume AnalysisII\n\nWeek 12：Dimensional Analysis,Similitude, and Modeling I\n\nWeek 13：Dimensional Analysis,Similitude, and Modeling II\n\nWeek 14：Viscous Flow in Pipes I\n\nWeek 15：Viscous Flow in Pipes II\n\nWeek 16：FinalExam\n\nWeek 17:  Alternative curriculum\n\nWeek 18:  Alternative curriculum",
+    "methodologies": [
+        {
+            "type": "Formal lecture",
+            "note": "A comprehensive description, as well as relevant outline and summary, will be provided in each chapter"
+        },
+        {
+            "type": "Group discussion",
+            "note": "Creative thinking is encouraged in class"
+        },
+        {
+            "type": "Problem base learning",
+            "note": "A real-world engineering challenge will be provided for students to practice the skills/knowledge learned in class"
+        },
+        {
+            "type": "Cooperative learning",
+            "note": "Students will be assigned in groups to develop the cooperative ability"
+        },
+        {
+            "type": "Media, audio, visual materials",
+            "note": "PPT slides are utilized as media of instruction"
+        }
+    ],
+    "grading": [
+        {
+            "type": "Midterm Exam",
+            "weight": 40,
+            "note": ""
+        },
+        {
+            "type": "Final exam",
+            "weight": 40,
+            "note": ""
+        },
+        {
+            "type": "Class discussion involvement",
+            "weight": 20,
+            "note": "engineering challenge"
+        }
+    ],
+    "prerequisite": "◎Available for junior and senior year B.A. program students (Doctoral program courses excepted) and M.A. program students.",
+    "general_core": []
+}

@@ -1,0 +1,88 @@
+{
+    "year": 110,
+    "term": 1,
+    "name": "學習理論",
+    "teachers": [
+        "王力億"
+    ],
+    "department": "EU00",
+    "code": "EDU0117",
+    "credit": 2,
+    "serial": 661,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 5,
+            "from": 3,
+            "to": 4,
+            "campus": "本部",
+            "classroom": "教802"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "2",
+    "classes": "",
+    "dept_group": "",
+    "hours": 2,
+    "description": "學習理論是學校學生學習和教師教學的重要基礎知識。本課程不僅有系統的介紹行為主義的、認知主義的和自然主義的學習理論內容並注重理論的應用層面，以便從事教育工作時能選擇和採用多元策略。",
+    "goals": [
+        "能認識學習理論的基本派典",
+        "能依歷史發展順序，熟悉重要的學習理論支派",
+        "能統整各重要學習理論在教育上的應用策略",
+        "能調查學習理論在教育上的應用實例"
+    ],
+    "syllabus": "  \n \n\n  \n[教學進度與主題附件](https://ap.itc.ntnu.edu.tw/NtnuFileShare/file.do?action=dl&gno=2ae142c279db451499afe9b8f2b0a119&fno=fddefd02ad7546fd8053f2927732420b)",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "講述學習的理論及在教學上的應用"
+        },
+        {
+            "type": "討論法",
+            "note": "討論學習理論在教學應用上的議題"
+        },
+        {
+            "type": "合作學習",
+            "note": "討論及設計小組教學計畫"
+        },
+        {
+            "type": "實驗/實作",
+            "note": "說明及演示小組教學計畫"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 10,
+            "note": "期中個人反思報告"
+        },
+        {
+            "type": "出席",
+            "weight": 20,
+            "note": "課堂出席情況"
+        },
+        {
+            "type": "報告",
+            "weight": 20,
+            "note": "期末個人反思報告"
+        },
+        {
+            "type": "成果展覽",
+            "weight": 30,
+            "note": "期末小組口頭報告"
+        },
+        {
+            "type": "其他",
+            "weight": 20,
+            "note": "期末同儕回饋報告"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

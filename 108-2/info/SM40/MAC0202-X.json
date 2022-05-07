@@ -1,0 +1,72 @@
+{
+    "year": 108,
+    "term": 2,
+    "name": "代數幾何導論（二）",
+    "teachers": [
+        "夏良忠"
+    ],
+    "department": "SM40",
+    "code": "MAC0202",
+    "credit": 3,
+    "serial": 2551,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 6,
+            "to": 8,
+            "campus": "公館",
+            "classroom": "數學館M211"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "向同學介紹代數幾何的基本概念，同時希望能引起同學對這個領域的興趣。",
+    "goals": [
+        "習得代數幾何的基本知識",
+        "活用代數幾何的應用"
+    ],
+    "syllabus": "本課程介紹代數幾何的基本概念，期望能引起同學對於這門課的興趣並且介紹一些代數幾何在算術問題中的應用。第二學期的課程內容將涵蓋以下列的主題：\n\n(A) Local properties of varieties (8 weeks) \n\n\\- Singular and nonsingular points: power series expansions,  properties of nonsingular points, nonsingular varieties \n\n\\- Rational functions and rational maps: definitions and basic properties, graphs of rational maps, birational maps and blow ups in projective space\n\n\\- Normal varieties: normalization of an affine variety, normalization of a curve\n\n(B) Intersections in projective space (3 weeks) \n\n\\- Definitions and examples, basic properties\n\n\\- Degrees: degrees of varieties, degree of maps, Bezout's Theorem\n\n(C) Algebraic curves (5 weeks) \n\n\\- Nonsingular curves: birational models, valuation theory, divisors and linear systems, genus of a curve and the Riemann-Roch theorem, \n\n\\- Curves of genus 0, 1 and genus of at least 2 \n\n\\- Jacobian of an algebraic curve \n\n自主學習以及專題報告 (2 weeks) \n\nElliptic curves -- geometry and arithmetics",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": ""
+        },
+        {
+            "type": "問題解決教學",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 50,
+            "note": ""
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 20,
+            "note": "需要上台報告"
+        },
+        {
+            "type": "專題",
+            "weight": 30,
+            "note": "專題報告"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

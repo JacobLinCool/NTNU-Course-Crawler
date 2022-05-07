@@ -1,0 +1,77 @@
+{
+    "year": 107,
+    "term": 1,
+    "name": "教學軟體設計與評鑑",
+    "teachers": [
+        "陳志洪"
+    ],
+    "department": "EM08",
+    "code": "ICC0041",
+    "credit": 3,
+    "serial": 489,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 4,
+            "from": 2,
+            "to": 4,
+            "campus": "本部",
+            "classroom": "教1011"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "This course introduces evidenced-based guidelines on how to create efficient instructional environments which result in faster and better learning.",
+    "goals": [
+        "學生能了解教學軟體之發展程序及各階段之實作策略，並能評量教學軟體之優劣",
+        "學生能說明教學軟體設計之重點",
+        "學生能實作高品質之教學軟體",
+        "學生能將教學軟體設計準則運用於教學軟體製作",
+        "學生能針對不同學習階段之學習者設計合宜之教學軟體",
+        "學生能分析教學軟體設計之相關議題",
+        "學生能體認設計優質教學軟體對於提升教學成效之重要性"
+    ],
+    "syllabus": "主題一：軟體設計與評鑑概論（3週）\n\n主題二：3D建模軟體教學與應用（5週）\n\n主題三：遊戲式學習開發設計與應用（5週）\n\n主題四：行動式學習開發設計與應用（5週）",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "透過投影片提供開發工具之基本介紹，並教導學生如何運用這些功能，進而開發應用軟體。"
+        },
+        {
+            "type": "討論法",
+            "note": "透過放聲思考法以及使用者經驗，讓同學熟悉軟體開發的設計與評鑑流程。"
+        },
+        {
+            "type": "實驗/實作",
+            "note": "依照課堂提供的素材及學到的軟體操作方式，實際開發一個教學或學習軟體。"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 20,
+            "note": "隨堂練習"
+        },
+        {
+            "type": "出席",
+            "weight": 20,
+            "note": "上課出席參與"
+        },
+        {
+            "type": "專題",
+            "weight": 60,
+            "note": "期末專題與期中專題"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

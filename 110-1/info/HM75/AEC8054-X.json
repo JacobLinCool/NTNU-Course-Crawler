@@ -1,0 +1,76 @@
+{
+    "year": 110,
+    "term": 1,
+    "name": "控制系統設計",
+    "teachers": [
+        "呂藝光"
+    ],
+    "department": "HM75",
+    "code": "AEC8054",
+    "credit": 3,
+    "serial": 1204,
+    "group": "",
+    "quota": {
+        "limit": 30,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 6,
+            "from": 7,
+            "to": 9,
+            "campus": "本部",
+            "classroom": "電機與感測實驗室"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "The goal of this course is to familiarize students with the analysis and design of control systems. The main contents of the course include the existing methods for control systems, their stability properties, and how to implement them.",
+    "goals": [
+        "增進控制理論概念的理解。",
+        "學習控制器設計所需的知識、工具與技術。",
+        "從作業的練習中培養獨立思考與解決問題的能力。",
+        "從作業資料的搜集，訓練學生積極的學習態度。",
+        "經由師生與同學間的學習互動，及實務的講述，瞭解專業倫理的重要。"
+    ],
+    "syllabus": "1.Introduction\n\n2.LQR controller design\n\n3.Backstepping controller design\n\n4.期中書面報告\n\n5\\. Advanced controller design\n\n6\\. Applications of controllers\n\n7.期末口語報告\n\n先備知識:線性代數、控制系統、適應控制",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "專題研究",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 30,
+            "note": "控制器推導與模擬(Matlab)"
+        },
+        {
+            "type": "期中考",
+            "weight": 30,
+            "note": "期刊研讀與書面報告"
+        },
+        {
+            "type": "期末考",
+            "weight": 30,
+            "note": "控制器實現或模擬專題之口語報告"
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 10,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

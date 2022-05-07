@@ -1,0 +1,69 @@
+{
+    "year": 109,
+    "term": 2,
+    "name": "數位信號處理",
+    "teachers": [
+        "黃文吉"
+    ],
+    "department": "SM47",
+    "code": "CSC0008",
+    "credit": 3,
+    "serial": 2723,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 1,
+            "from": 7,
+            "to": 9,
+            "campus": "公館",
+            "classroom": "理圖001"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "To introduce the basic concepts and techniques of digital signal processing. Topics of interests include the discrete Fourier transform and digital filter design and applications.\n\n本課程介紹數位訊號處理的基本概念和技術。探討主題包括離散傅立葉轉換(discrete Fourier transform)與數位濾波器的設計和應用",
+    "goals": [
+        "了解數位信號處理基本數學理論",
+        "能分析數位濾波器之數據",
+        "能設計數位濾波器"
+    ],
+    "syllabus": "1.     Sinusoids\n\n2.     Spectrum Representation\n\n3.     Sampling and Aliasing\n\n4.     FIR Filters\n\n5.     Frequency Response of FIR Filters\n\n6.     Discrete Fourier Transform\n\n6.     Z-Transforms\n\n7.     IIR Filters (自主學習)",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "講述 Digital Signal Processing重要概念與理論"
+        },
+        {
+            "type": "實驗/實作",
+            "note": "Matlab 程式寫作"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 40,
+            "note": "約4-5份作業，包含Matlab 程式寫作"
+        },
+        {
+            "type": "期中考",
+            "weight": 30,
+            "note": "紙筆測驗"
+        },
+        {
+            "type": "期末考",
+            "weight": 30,
+            "note": "紙筆測驗"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

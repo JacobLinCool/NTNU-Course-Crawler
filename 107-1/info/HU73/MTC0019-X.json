@@ -1,0 +1,75 @@
+{
+    "year": 107,
+    "term": 1,
+    "name": "應用光學",
+    "teachers": [
+        "鄧敦建"
+    ],
+    "department": "HU73",
+    "code": "MTC0019",
+    "credit": 3,
+    "serial": 1284,
+    "group": "",
+    "quota": {
+        "limit": 30,
+        "additional": 12
+    },
+    "schedule": [
+        {
+            "day": 3,
+            "from": 5,
+            "to": 6,
+            "campus": "本部",
+            "classroom": "CAD/CAM"
+        },
+        {
+            "day": 3,
+            "from": 16,
+            "to": 10,
+            "campus": "本部",
+            "classroom": "CAD/CAM"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "",
+    "classes": "9",
+    "dept_group": "",
+    "hours": 3,
+    "description": "針對光學理論中的應用部分做比較詳盡深入的介紹，例如幾何光學、干涉光學、與繞射光學等部分，另外再舉一些實際的應用例子或是光學軟體模擬讓同學瞭解如何實際應用光學理論去解決問題。課程安排是由淺入深，盡量以應用為主，避免繁雜的數學理論。目標是讓同學修習後能具備透鏡元件設計、光學檢測、精密量測以及光學鍍膜等基礎知識。",
+    "goals": [
+        "學習光學中比較常用的應用理論，包括幾何光學、干涉光學，以及繞射光學三大部分。",
+        "藉由相關的應用例，讓學生可以從基礎的理論跨入實際的應用，培養學生日後分析與設計複雜光學系統的能力。"
+    ],
+    "syllabus": "1.  Introduction to Optics光學簡介\n2.  Refraction and reflection of light光的折射與反射\n3.  Aberration 像差\n4.  Imaging principle of lens透鏡成像原理\n5.  Simulation software example I 模擬軟體範例練習I (Doublet lens)\n6.  Simulation software example II 模擬軟體範例練習II (Distortion Analysis)\n7.  Simulation software example III 模擬軟體範例練習III (MTF Analysis of a Cooke)\n8.  Simulation software example IV 模擬軟體範例練習IV (Cooke Triplet)\n9.  Simulation software example V模擬軟體範例練習V (Cooke 透鏡最佳化)\n10.  Simulation software example VI模擬軟體範例練習VI (Auto Focus System)\n11.  Wave Equation, Polarization, Retarder波方程式、偏振與相位延遲\n12.  Coherence 光的同調特性\n13.  Superposition principle 疊加理論（Two-beam interference 雙光束干涉、Multi-beam interference 多道光干涉、Interferometer 干涉儀範例）\n14.  Scalar Diffraction Theory 純量繞射理論\n15.  Principle of color mixing 色彩混合理論\n16.  Simulation software example VII 模擬軟體範例練習VII\n17.  Simulation software example VIII 模擬軟體範例練習VIII\n18.  Final exam/presentation 期末測驗/報告",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "講述應用光學重要概念與理論"
+        },
+        {
+            "type": "討論法",
+            "note": "以軟體模擬(CODE V)電腦實機教學，並且針對重要應用例做理論說明，著重學員參與討論"
+        }
+    ],
+    "grading": [
+        {
+            "type": "出席",
+            "weight": 10,
+            "note": "每堂點名，每次不到扣10分，2次（含）以內不扣分，透過請假系統完成請假手續則總計3次（含）以內可不扣分（碩班同學為4次以內不扣分）。課堂擾亂秩序規勸不聽者一次扣5分。另外發問問題或主動答題者酌予可加分。"
+        },
+        {
+            "type": "報告",
+            "weight": 40,
+            "note": "專題分組報告"
+        },
+        {
+            "type": "其他",
+            "weight": 50,
+            "note": "採用隨堂筆試/實作或口頭問答"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

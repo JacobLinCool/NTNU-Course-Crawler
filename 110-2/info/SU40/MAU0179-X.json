@@ -1,0 +1,73 @@
+{
+    "year": 110,
+    "term": 2,
+    "name": "微積分甲（二）",
+    "teachers": [
+        "林惠娥"
+    ],
+    "department": "SU40",
+    "code": "MAU0179",
+    "credit": 4,
+    "serial": 2748,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 1,
+            "from": 6,
+            "to": 7,
+            "campus": "公館",
+            "classroom": "Ｓ502"
+        },
+        {
+            "day": 4,
+            "from": 3,
+            "to": 4,
+            "campus": "公館",
+            "classroom": "Ｓ502"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎必須先修過【MAU0178  微積分甲（一）】 ◎課程開放上修",
+    "form_s": "1",
+    "classes": "3",
+    "dept_group": "",
+    "hours": 4,
+    "description": "本課程目標是在銜接高中數學，並做為其他高等數學課程的基礎。內容主要介紹函數的極限概念、連續性、微分與積分方法、以及在數學與相關學科上的應用。課程的呈現為理論與方法並重，在假設實數系之基本性質的基礎之上，建立一個完整的體系。",
+    "goals": [
+        "增進數學分析基本概念的理解",
+        "增進邏輯推理與歸納的能力",
+        "增進數學思維與批判性思考的能力",
+        "進專業知識及追求真理的態度"
+    ],
+    "syllabus": "Syllabus for Calculus A (II), Spring 2022 \n\nThe sections with \\* are supplementary. \n\nWeek 1 (2/14(ㄧ) or 2/15(二),  2/17(四)) \n\n*   11.5 Alternating Series and Absolute Convergence \n*   11.6 The Ratio and Root Tests\n*   11.8 Power Series\n\nWeek 2 (2/21(ㄧ) or 2/22(二),  2/24(四)) \n\n*   11.9 Representations of Functions as Power Series\n*   11.10 Taylor and Maclaurin Series\n*   2/24（四）統一考試 (sec 5.5, 7.1~7.5, 7.8)\n\nWeek 3 (2/28(ㄧ)放假 or 3/1(二),  3/3(四)) \n\n*   11.11 Applications of Taylor Polynomials\n*   10.1 Curves Defined by Parametric Equations \n*   10.2. Calculus with Parametric Curves \n\nWeek 4 (3/7(ㄧ) or 3/8(二),  3/10(四)) \n\n*   10.3 Polar Coordinates \n*   10.4 Calculus in Polar Coordinates \n*   \\*10.5 Conic Sections \n*   \\*10.6 Conic Sections in Polar Coordinates \n*   \\*12.1~12.5\n*   12.6 Cylinders and Quadric Surfaces \n\nWeek 5 (3/14(ㄧ) or 3/15(二),  3/17(四)) \n\n*   13.1 Vector Functions and Space Curves \n*   13.2 Derivatives and Integrals of Vector Functions \n*   13.3 Arc Length and Curvature \n*   13.4 Motion in Space: Velocity and Acceleration \n\nWeek 6 (3/21(ㄧ) or 3/22(二),  3/24(四)) \n\n*   14.1 Functions of Several Variables \n*   14.2 Limits and Continuity \n*   14.3 Partial Derivatives \n\nWeek 7 (3/28(ㄧ) or 3/29(二),  3/31(四)) \n\n*    14.4 Tangent Planes and Linear Approximations\n*    14.5 The Chain Rule\n\nWeek 8 (4/5(ㄧ) or 4/6(二) 春假 ,  4/7(四)) \n\n**期中考**\n\nWeek 9 (4/11(ㄧ) or 4/12(二),  4/14 (四))\n\n*   14.6 Directional Derivatives and the Gradient Vector \n*   14.7 Maximum and Minimum Values \n\nWeek 10 (4/18(ㄧ) or 4/19(二),  4/21 (四))\n\n*   14.8 Lagrange Multipliers \n*   15.1 Double Integrals over Rectangles\n*   15.2 Double Integrals over General Regions \n\nWeek 11 (4/25(ㄧ) or 4/26(二),  4/28 (四))\n\n*   15.3 Double Integrals in Polar Coordinates \n*   \\*15.4 Applications of Double Integrals \n*   15.5 Surface Area \n*   15.6 Triple Integrals \n\nWeek 12 (5/2(ㄧ) or 5/3(二),  5/5 (四))\n\n*   15.7 Triple Integrals in Cylindrical Coordinates \n*   15.8 Triple Integrals in Spherical Coordinates \n*   15.9 Change of Variables in Multiple Integrals \n\n Week 13 (5/9(ㄧ) or 5/10(二),  5/12 (四))\n\n   • 16.1 Vector Fields\n\n• 16.2 Line Integrals\n\n•  16.3 The Fundamental Theorem for Line Integrals \n\nWeek 14 (5/16(ㄧ) or 5/17(二),  5/19 (四))\n\n*   16.4 Green’s Theorem \n*   16.5 Curl and Divergence \n*   16.6 Parametric Surfaces and Their Areas \n\nWeek 15 (5/23(ㄧ) or 5/24(二),  5/26 (四))\n\n*   16.7 Surface Integrals \n*   16.8 Stokes’ Theorem \n*   16.9 The Divergence Theorem \n\nWeek 16 (5/30(ㄧ) or 5/31(二),  6/2 (四))\n\n    **期末考**\n\n第 17, 18 週自行研讀打星號章節\n\n  \n[教學進度與主題附件](https://ap.itc.ntnu.edu.tw/NtnuFileShare/file.do?action=dl&gno=91810492a0df40d19490627984d13710&fno=fed290f0cc834de799667471bed4a9e8)",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "課堂講述概念及例題"
+        }
+    ],
+    "grading": [
+        {
+            "type": "期中考",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 40,
+            "note": ""
+        },
+        {
+            "type": "其他",
+            "weight": 30,
+            "note": "積分技巧 10% ，平時成績 20%"
+        }
+    ],
+    "prerequisite": "◎必須先修過【MAU0178  微積分甲（一）】",
+    "general_core": []
+}

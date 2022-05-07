@@ -1,0 +1,97 @@
+{
+    "year": 110,
+    "term": 1,
+    "name": "高等天氣學",
+    "teachers": [
+        "王重傑"
+    ],
+    "department": "SM44",
+    "code": "ESC0242",
+    "credit": 3,
+    "serial": 2720,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 2,
+            "to": 2,
+            "campus": "公館",
+            "classroom": "Ｓ201"
+        },
+        {
+            "day": 4,
+            "from": 6,
+            "to": 7,
+            "campus": "公館",
+            "classroom": "Ｓ201"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程不開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "",
+    "goals": [
+        "講授進階之大氣運行原理，瞭解天氣系統之發展、演變及其伴隨天氣變化之物理過程，進而驗證天氣變化與氣象預測之學理，並加強學生進行研究之基礎與專業知識。"
+    ],
+    "syllabus": "第一週  General review and useful concepts\n\n第二週  Basic equations and their application\n\n第三週  Atmospheric stability and precipitation processes\n\n第四週  Relationship of pressure and wind fields\n\n第五週  Review of basic kinematics\n\n第六週  Quasi-geostrophic theory and its applications\n\n第七週  Front and frontogenesis\n\n第八週  期中考\n\n第九週  Extratropical cyclone and cyclogenesis\n\n第十週  Upper-level divergence and jet stream\n\n第十一週  Potential vorticity (PV) and its applications\n\n第十二週  Tropical atmosphere and tropical cyclone\n\n第十三週  Vertical motion and its calculation\n\n第十四週  Monsoon and Mei-yu systems\n\n第十五週  Energetics of synoptic weather systems\n\n第十六週  期末考\n\n第十七週  學生期末論文選讀報告\n\n第十八週  學生期末論文選讀報告",
+    "methodologies": [
+        {
+            "type": "Formal lecture",
+            "note": "上課以課堂講述為主，配合學術論文之選讀、報告、及課堂討論。"
+        },
+        {
+            "type": "Group discussion",
+            "note": ""
+        },
+        {
+            "type": "Cooperative learning",
+            "note": ""
+        },
+        {
+            "type": "Case studies",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "Assignments",
+            "weight": 10,
+            "note": ""
+        },
+        {
+            "type": "Midterm Exam",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "Final exam",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "Class discussion involvement",
+            "weight": 10,
+            "note": ""
+        },
+        {
+            "type": "Attendances",
+            "weight": 10,
+            "note": ""
+        },
+        {
+            "type": "Presentation",
+            "weight": 10,
+            "note": ""
+        }
+    ],
+    "prerequisite": "◎Unavailable for M.A. program students (M.A. program courses excepted) and B.A. program students.",
+    "general_core": []
+}

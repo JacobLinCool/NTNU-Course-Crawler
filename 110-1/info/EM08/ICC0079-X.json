@@ -1,0 +1,86 @@
+{
+    "year": 110,
+    "term": 1,
+    "name": "數位學習導論",
+    "teachers": [
+        "李文瑜"
+    ],
+    "department": "EM08",
+    "code": "ICC0079",
+    "credit": 3,
+    "serial": 489,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 5
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 2,
+            "to": 4,
+            "campus": "本部",
+            "classroom": "教1011"
+        }
+    ],
+    "programs": [
+        "大數據學程"
+    ],
+    "comment": "",
+    "restrict": "◎課程不開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "E-learning involves the use of a computer or electronic device (e.g. a mobile phone) in some way to provide training, educational or learning material. The course is foundation to the study of e-learning program. It overviews the analysis, design, development, and evaluation of e-learning environment. The course also addresses how e-learning be applied in corporate training and discusses some considerations in the training.",
+    "goals": [
+        "數位學習之學習原理",
+        "數位學習之教學設計與管理系統之重點",
+        "應用數位學習專案管理方法進行學習管理",
+        "認同及肯定數位學習推動之價值",
+        "積極主動提供推動組織內、外數位學習之資訊"
+    ],
+    "syllabus": "1.  數位學習演進與趨勢\n2.  數位學習系統\n3.  同步與非同步學習活動 (一)\n4.  同步與非同步學習活動 (二)\n5.  網路學習之學習面(一)\n6.  網路學習之學習面(二)\n7.  網路學習之學習面(三)\n8.  網路學習之教學面\n9.  電腦化測驗與評量\n10.  即時回饋系統\n11.  電腦化心智工具\n12.  數位科學實驗\n13.  電腦模擬\n14.  行動學習\n15.  遊戲學習",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "教學活動以課堂論文導讀、討論及電腦上機操作為主。"
+        },
+        {
+            "type": "討論法",
+            "note": "閱讀與討論近年來相關文獻探討，了解數位教學與學習的發展趨勢。"
+        },
+        {
+            "type": "實驗/實作",
+            "note": ""
+        },
+        {
+            "type": "媒體融入教學",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 35,
+            "note": ""
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 20,
+            "note": ""
+        },
+        {
+            "type": "出席",
+            "weight": 15,
+            "note": ""
+        },
+        {
+            "type": "報告",
+            "weight": 30,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

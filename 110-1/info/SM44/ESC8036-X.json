@@ -1,0 +1,83 @@
+{
+    "year": 110,
+    "term": 1,
+    "name": "岩心－電測整合分析",
+    "teachers": [
+        "葉恩肇"
+    ],
+    "department": "SM44",
+    "code": "ESC8036",
+    "credit": 3,
+    "serial": 2722,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 3,
+            "from": 10,
+            "to": 12,
+            "campus": "公館",
+            "classroom": "Ｃ401"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程不開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "",
+    "goals": [
+        "介紹鑽井工程與岩心處理流程",
+        "明瞭電測原理，應用與解釋",
+        "整合岩心與電測資料",
+        "利用實際資料進行分析與解釋"
+    ],
+    "syllabus": "授課方式：16+2週  \n彈性授課方式：學生自主學習。學生閱讀並學習有關鑽井工程與井下電測施測與分析的基本知識、原理、儀器設備、操作技巧以及分析方式，並於課餘時間進行實習作業操作，以及參與戶外教學，以利課程進展。\n\n01\\. 鑽井工程  \n02\\. 岩蕊鑽取工程  \n03\\. 岩屑分析  \n04\\. 岩心處理  \n05\\. 岩心描述(沈積岩)  \n06\\. 岩心描述(地質構造)  \n07\\. 非破壞性岩心量測  \n08\\. 破壞性岩心量測  \n09\\. 溫度＆井徑電測  \n10\\. 自然電位與電阻率電測  \n11\\. 加碼射線電測  \n12\\. 聲波電測  \n13\\. 密度與中子電測  \n14\\. 影像電測  \n15\\. 岩心電測深度校正  \n16\\. 期末分享與報告",
+    "methodologies": [
+        {
+            "type": "Formal lecture",
+            "note": ""
+        },
+        {
+            "type": "Group discussion",
+            "note": "讓學生針對論文報告討論"
+        },
+        {
+            "type": "Lab/Studio",
+            "note": "以實習課程輔佐課程瞭解"
+        },
+        {
+            "type": "Field work",
+            "note": "以野外實際考察操作地質構造觀察與量測方式"
+        }
+    ],
+    "grading": [
+        {
+            "type": "Assignments",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "Final exam",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "Class discussion involvement",
+            "weight": 10,
+            "note": ""
+        },
+        {
+            "type": "Presentation",
+            "weight": 30,
+            "note": ""
+        }
+    ],
+    "prerequisite": "◎Unavailable for M.A. program students (M.A. program courses excepted) and B.A. program students.",
+    "general_core": []
+}

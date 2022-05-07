@@ -1,0 +1,80 @@
+{
+    "year": 109,
+    "term": 1,
+    "name": "物聯網概論與應用",
+    "teachers": [
+        "賀耀華"
+    ],
+    "department": "SU47",
+    "code": "CSC9004",
+    "credit": 3,
+    "serial": 3060,
+    "group": "",
+    "quota": {
+        "limit": 34,
+        "additional": 0
+    },
+    "schedule": [
+        {
+            "day": 4,
+            "from": 7,
+            "to": 9,
+            "campus": "公館",
+            "classroom": "理圖802"
+        }
+    ],
+    "programs": [
+        "資訊科技應用學程"
+    ],
+    "comment": "",
+    "restrict": "",
+    "form_s": "",
+    "classes": "9",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程介紹物聯網的基本概念，包含物聯網中感知層、網路層與應用層的核心技術與最新發展現況，同時並注重物聯網前端設備與後端系統的整體架構，以及後端系統在資料處理、分析與視覺化的各項技術。本課程將以課堂授課搭配專題方式進行，透過實作演練，實際體驗物聯網各項技術與應用。",
+    "goals": [
+        "了解物聯網的概念與應用",
+        "理解物聯網感知、網路與應用層的各項核心技術",
+        "實作物聯網專題開發"
+    ],
+    "syllabus": "本課程介紹物聯網的基本概念，包含物聯網中感知層、網路層與應用層的核心技術與最新發展現況，同時並注重物聯網前端設備與後端系統的整體架構，以及後端系統在資料處理、分析與視覺化的各項技術。本課程將以課堂授課搭配專題方式進行，透過實作演練，實際體驗物聯網各項技術與應用。\n\n1.  了解物聯網的概念與應用\n2.  理解物聯網感知、網路與應用層的各項核心技術\n3.  實作物聯網專題開發\n\nDescription:\n\n*   This is a project-printed course with focuses on IoT, smart city, and participatory urban sensing related issues. During the lectures, we will introduce the maker movement, IoT technology, and the concept of participatory urban sensing. There will be plenty of hand-on activities in the class, and this grading of this course will be based on the projects.\n*   It is recommended (but not a must) that students bring their own laptops to the class activities, and it is expected that students carry out their own projects at the end of his course. All the IoT platforms and sensors will be prepared by the lecturer and distributed in the course. Basic programming and quick self-learning (by reading Internet documents) skills are required for taking this course.\n*   If you are not sure whether you have met the prerequisite of the course, please contact the instructor directly.\n\nTextbook:\n\n*   There are no textbooks in this course, but you are expected to read MANY technical articles on the Internet as the project goes. Please do feel free to contact the instructors if you have any questions about this course (and the projects).\n*   Recommended\n    *   Internet of Things: A Hands-On Approach, Arshdeep Bahga and Vijay Madisetti, Vijay Madisetti.\n    *   Designing the Internet of Things, Adrian McEwen and Hakim Cassimally, Wiley.\n\nGrading:\n\n*   There are no exams in this couse, and the grading of this course will be mainly based on the class participation and projects. The specific scoring percentage of each project is:\n    *   Participation: 10%\n    *   In-class assignments: 30%\n    *   Project Checkpoints: 20%\n    *   Term Project: 40%",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "Lectures"
+        },
+        {
+            "type": "討論法",
+            "note": "Discussion and Project"
+        },
+        {
+            "type": "實驗/實作",
+            "note": "This is a project-printed course with focuses on IoT, smart city, and participatory urban sensing related issues."
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 30,
+            "note": "In-class assignments"
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 10,
+            "note": "Participation"
+        },
+        {
+            "type": "專題",
+            "weight": 40,
+            "note": "Term Project"
+        },
+        {
+            "type": "其他",
+            "weight": 20,
+            "note": "Project Checkpoints"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

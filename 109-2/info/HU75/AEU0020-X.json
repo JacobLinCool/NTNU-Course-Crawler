@@ -1,0 +1,79 @@
+{
+    "year": 109,
+    "term": 2,
+    "name": "電子學（三）",
+    "teachers": [
+        "林群祐"
+    ],
+    "department": "HU75",
+    "code": "AEU0020",
+    "credit": 3,
+    "serial": 1311,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 4,
+            "from": 2,
+            "to": 4,
+            "campus": "本部",
+            "classroom": "工401"
+        }
+    ],
+    "programs": [
+        "太陽能源與工程學程"
+    ],
+    "comment": "",
+    "restrict": "◎必須先修過【AEU0006  電子學（一）】",
+    "form_s": "3",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "使學生了解電子電路之重要應用。內容包括濾波器(filter)及調變放大器、信號產生器與波形整型電路、輸出級與功率放大器、CMOS數位邏輯電路、進階MOS及BJT邏輯電路、以及記憶體電路等主題。",
+    "goals": [
+        "教育學生運用科學與工程知識與技術，以解決電機電子工程相關之問題",
+        "培養學生獨立思考之能力，奠定學生終身學習之基礎",
+        "培養學生團隊合作與專業倫理之態度，具備國際觀及服務社會之信念"
+    ],
+    "syllabus": "教學目標：  \n使學生了解積體電路之基本設計原理。內容包括輸出級與功率放大器、運算放大器、濾波器及調變放大器、信號產生器與波形整型電路、CMOS數位邏輯電路、進階邏輯電路、以及記憶體電路等主題。  \n  \n進度與主題：\n\n第1週\n\nCh. 11. Output Stages and Power Amplifiers\n\n第2~3週\n\nCh. 12. Operational-Amplifier Circuits\n\n第4~7週\n\nCh. 13. Filters and Tuned Amplifiers\n\n第8週\n\n期中考\n\n第9~11週\n\nCh. 14. Signal Generators and Waveform-Shaping Circuits\n\n第12~13週\n\nCh. 15. CMOS Digital Logic Circuits\n\n第14週\n\nCh. 16. Advanced Topics in Digital Integrated-Circuit Design\n\n第15週\n\nCh. 17. Memory Circuits\n\n第16週\n\n期末考\n\n\\*第17~18週之課程時間將會分散於前16週 (包含彈性延長上課時間和自主學習等活動)  \n\\*教學進度會依實際情況略作調整",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "針對課程內容進行講授。"
+        },
+        {
+            "type": "討論法",
+            "note": "課程中會提出一些思考問題，讓同學們互相討論並回答。"
+        },
+        {
+            "type": "問題解決教學",
+            "note": "訓練學生思考與解決電子電路設計問題。"
+        },
+        {
+            "type": "媒體融入教學",
+            "note": "透過power point進行教學。"
+        }
+    ],
+    "grading": [
+        {
+            "type": "期中考",
+            "weight": 30,
+            "note": "上半學期課程內容測驗"
+        },
+        {
+            "type": "期末考",
+            "weight": 30,
+            "note": "下半學期課程內容測驗"
+        },
+        {
+            "type": "其他",
+            "weight": 40,
+            "note": "課程內容相關之作業與小考"
+        }
+    ],
+    "prerequisite": "◎必須先修過【AEU0006  電子學（一）】",
+    "general_core": []
+}

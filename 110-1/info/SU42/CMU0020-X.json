@@ -1,0 +1,74 @@
+{
+    "year": 110,
+    "term": 1,
+    "name": "化學數學",
+    "teachers": [
+        "王禎翰"
+    ],
+    "department": "SU42",
+    "code": "CMU0020",
+    "credit": 3,
+    "serial": 2936,
+    "group": "",
+    "quota": {
+        "limit": 100,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 2,
+            "to": 4,
+            "campus": "公館",
+            "classroom": "Ｅ301"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "2",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "The objective of this course is to guide students to establish the basic mathematical concepts of the following topics, including linear algebra, differential equation, Laplace transformation and Fourier analysis, and to introduce their connections to the physical chemistry.",
+    "goals": [
+        "To establish basic knowledge of chem math",
+        "To solve problem of this topic",
+        "To conduct independent thinking on this topic"
+    ],
+    "syllabus": "1.Matrix, Linear Algebra\n\n2.Differential equation\n\n3.Laplace transform\n\n4.Fourier analysis",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "媒體融入教學",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "期中考",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 10,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

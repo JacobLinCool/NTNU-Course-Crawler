@@ -1,0 +1,90 @@
+{
+    "year": 110,
+    "term": 2,
+    "name": "微分方程（二）",
+    "teachers": [
+        "陳建隆"
+    ],
+    "department": "SM40",
+    "code": "MAC0002",
+    "credit": 3,
+    "serial": 2607,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 3,
+            "from": 2,
+            "to": 4,
+            "campus": "公館",
+            "classroom": "數學館M210"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程承接微分方程特論，介紹微分方程的一些基本理論，主要包含初始值問題與邊界值問題。",
+    "goals": [
+        "讓學生瞭解微分方程的一些基本理論",
+        "認識其他領域所推導出的方程並瞭解在數學分析的背後原始問題的意義"
+    ],
+    "syllabus": "The teaching progress and theme of this course\n\n(1) Try to apply the basic theory of differential equations and explore basic mathematical models from epidemiology, biology, image processing, and physics.\n\n(2) Learn the basic theorems of the nonlinear stability of ordinary differential equations (ODE)\n\n(3) Explore the relevant stable mathematical theories and applications of basic mathematical models from the fields of biology, data science and physics.\n\n(4) Further topics related to power systems and models.\n\n(5) Discussion on the basic theory and application of partial differential equations.\n\nIn this course, we will learn the following at the same time:\n\n(A) Basic mathematical models from the fields of biology, data science, image processing and physics.\n\n(B) Phase plane analysis of a two-dimensional autonomous system.\n\n(C) The basic qualitative properties of nonlinear ordinary differential equations, Dulac Q., Omega Limit Set and Invariant Set.\n\n(D) Poincare-Bendixson theorem and the application of related dynamic systems.\n\n(E) Basic Theorems of Partial Differential Equations (PDEs): Elliptic PDE, Wave Equations, Heat Equations.\n\n(F) Applications of Partial Differential Equations.\n\n\\------------------------------------------------------------------\n\n本課程的教學進度與主題\n\n(1) 將微分方程的基本理論嘗試運用及探討來自流行病學、生物學、影像處理和物理學等領域的基本數學模型。\n\n(2) 學習常微分方程(ODE)非線性穩定性的基本定理\n\n(3) 探討來自生物學、數據科學和物理學等領域的基本數學模型的相關穩定性數學理論與應用.\n\n(4) 相關動力系統和模型的進一步主題。\n\n(5) 偏微分方程的基本理論及其應用之探討。\n\n在本課程中，我們同時學習以下內容：\n\n(A) 來自生物學、數據科學、圖像處理和物理學等領域的基本數學模型。\n\n(B) 二維自主系統的像平面分析 (Phase plane analysis)。\n\n(C) 非線性常微分方程、Dulac Q.、Omega Limit Set and Invariant Set 極限集和不變量集的基本定性性質。\n\n(D) Poincare-Bendixson 定理和相關動力系統的應用。\n\n(E) Basic Theorems of Partial Differential Equations (PDEs): Elliptic PDE, Wave Equations, Heat Equations。\n\n(F) Applications of Partial Differential Equations。",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "來自生物學、數據科學和物理學等領域的基本數學模型來舉例學習與研究 II"
+        },
+        {
+            "type": "討論法",
+            "note": "讓同學分組討論課堂數學建模與相關習題實作 II"
+        },
+        {
+            "type": "問題解決教學",
+            "note": "讓同學分組討論課堂數學建模與相關習題實作 II"
+        },
+        {
+            "type": "合作學習",
+            "note": "同學分組討論課堂數學建模與相關習題實作 II"
+        },
+        {
+            "type": "實驗/實作",
+            "note": "同學分組討論課堂數學建模與相關習題實作 II"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 50,
+            "note": ""
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 15,
+            "note": ""
+        },
+        {
+            "type": "出席",
+            "weight": 10,
+            "note": ""
+        },
+        {
+            "type": "報告",
+            "weight": 15,
+            "note": ""
+        },
+        {
+            "type": "成果展覽",
+            "weight": 10,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

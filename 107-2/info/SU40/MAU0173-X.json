@@ -1,0 +1,69 @@
+{
+    "year": 107,
+    "term": 2,
+    "name": "線性代數探索（二）",
+    "teachers": [
+        "李華介"
+    ],
+    "department": "SU40",
+    "code": "MAU0173",
+    "credit": 1,
+    "serial": 2735,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 4,
+            "to": 4,
+            "campus": "公館",
+            "classroom": "Ｃ005"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎必須先修過(也可以同時修)【MAU0161  線性代數（二）】",
+    "form_s": "1",
+    "classes": "2",
+    "dept_group": "",
+    "hours": 1,
+    "description": "在於讓學生親身經歷線性代數解題的思維歷程，以達到對線性代數概念和計算法則的熟練，進而應用解決相關問題。",
+    "goals": [
+        "讓學生親身經歷線性代數解題的思維歷程",
+        "讓學生熟練線性代數概念和計算法則",
+        "應用線性代數解決相關數學問題。"
+    ],
+    "syllabus": "1\\. 行列式 (Determinants): \n\n  •二階行列式 (Determinants of order 2) --面積\n\n  • n 階行列式 (Determinants of order n)  --體積\n\n  • 行列式的性質 (Properties of determinants) \n\n  • 行列式的特徵 (A characterization of determinant) \n\n2\\. 固有值與固有向量 (Eigenvalues and eigenvectors)\n\n第一次期中考\n\n3\\. 座標變換矩陣 (The change of coordinate matrix)\n\n4\\. 對角化 (Diagonalizabiity) \n\n5\\. 矩陣極限與馬可夫鍊 (Matrix limits and Markov chains)\n\n6\\. 不變子空間與開立-漢米爾敦定理 (Invariant subspaces and the Caley-Hamilton Theorem)\n\n第二次期中考\n\n7\\. 內積向量空間 (Inner product spaces)\n\n  • 內積與範數 (inner products and norms)\n\n  • 格蘭-史密斯正交化程序、正交補集 (Gram-Schmidt orthogonalizatio process and orthogonal complements) \n\n  •  正交投影 (Orthogonal projection and spectral theorem)\n\n  • 雙線性與二次型 (Bilinear forms and quadratic forms) \n\n期末考",
+    "methodologies": [
+        {
+            "type": "討論法",
+            "note": ""
+        },
+        {
+            "type": "問題解決教學",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "出席",
+            "weight": 40,
+            "note": ""
+        }
+    ],
+    "prerequisite": "◎必須先修過(也可以同時修)【MAU0161  線性代數（二）】",
+    "general_core": []
+}

@@ -1,0 +1,91 @@
+{
+    "year": 110,
+    "term": 2,
+    "name": "資料分析（一）",
+    "teachers": [
+        "林志鴻",
+        "劉湘瑤"
+    ],
+    "department": "SM45",
+    "code": "SEC0039",
+    "credit": 3,
+    "serial": 2672,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 1,
+            "from": 2,
+            "to": 4,
+            "campus": "公館",
+            "classroom": "教室自排"
+        }
+    ],
+    "programs": [
+        "大數據學程"
+    ],
+    "comment": "本課程希望由具備科學教育或數學教育先備知識的同學選修.",
+    "restrict": "◎課程不開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "What will be covered in this class will depend on the background of the participants as well as their interests. Basically, the following topics are intended to be covered to a certain extent. However, the technicality that we will go through will again be dependent on the background of the participants. Participants will be required to review the basics in hypothesis testing up to the level covered in a typical elementary statistics course. This course will emphasize on the conceptual understanding as well as the technicality behind the statistical concepts. Various data analyses procedures by means of SAS will be discussed in classes. Emphasis will be on the interpretation of the printouts. Course grade will be determined based on class attendance record, an exam, several exercises and one project.",
+    "goals": [
+        "具備基礎統計概念",
+        "具備基礎資料分析能力",
+        "具備批判研究分析方法的能力與態度",
+        "具備研究與教學之實務能力"
+    ],
+    "syllabus": "**注意事項**:\n---------\n\n1\\. 110學年度第2學期授課方式採「16+2週」，即「授課16週＋2週彈性教學（第17、18週）」。\n\n  \n[教學進度與主題附件](https://ap.itc.ntnu.edu.tw/NtnuFileShare/file.do?action=dl&gno=624c8878f6fd4da2b417aae5d91e672a&fno=18bc38ef08fa479d9b9002487bcb27c0)\n\nweek\n\n日期\n\ntopic\n\n1\n\n2/14\n\n1.課程簡介，Why data analysis?\n\n2\n\n2/21\n\n2.統計基本概念，研究問題，實驗設計\n\n3\n\n2/21\n\n3.測量基本概念，資料視覺化，統計圖表與機率分佈\n\n4.統計軟體使用與安裝介紹(SPSS, Python)\n\n4\n\n2/28\n\n放假\n\n5\n\n3/7\n\n5.集中量數 (Central Tendency)，變異性 (Variability)，偏態(Skewness)與峰態(Kurtosis)\n\n6\n\n3/14\n\n6.百分位數，百分等級，z-score\n\n7.期望值、變異數、標準差、標準誤\n\n7\n\n3/21\n\n8.樣本分佈，大數法則，中央極限定理\n\n8\n\n3/28\n\n9\\. 統計推論\n\n9\n\n4/4\n\n放假\n\n10\n\n4/11\n\n期中考試\n\n11\n\n4/18\n\nQ&A—期中考試講解\n\n10.假設檢定、z檢定(假設考驗)、與信賴區間\n\n12\n\n4/25\n\n11.相關與共變\n\n13\n\n5/2\n\n12.單母數檢定，t檢定(假設考驗)\n\n14\n\n5/9\n\n13.雙母數檢定，單因子變異數分析理論與基本假設\n\n15\n\n5/16\n\n14.變異數分析理論介紹\n\n16\n\n5/23\n\n15.(獨立)單因子變異數分析ANOVA-1、報告撰寫\n\n17\n\n5/30\n\n期末考試\n\n18\n\n6/6\n\n16.探究: 搜尋2篇使用ANOVA或2篇使用t-test的文獻，列出撰寫報告時需要呈現的部分\n\n18\n\n6/13\n\n17.實作: 以統計軟體(SPSS或Python)練習ANOVA分析、撰寫報告",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": ""
+        },
+        {
+            "type": "問題解決教學",
+            "note": ""
+        },
+        {
+            "type": "實驗/實作",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 10,
+            "note": "練習使用python處理資料"
+        },
+        {
+            "type": "期中考",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "出席",
+            "weight": 10,
+            "note": ""
+        },
+        {
+            "type": "報告",
+            "weight": 20,
+            "note": "Topic17(10pt)、Topic18(10pt)"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

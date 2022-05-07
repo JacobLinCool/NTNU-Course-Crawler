@@ -1,0 +1,73 @@
+{
+    "year": 107,
+    "term": 1,
+    "name": "數值分析",
+    "teachers": [
+        "屠名正"
+    ],
+    "department": "HU73",
+    "code": "MTC0007",
+    "credit": 3,
+    "serial": 1280,
+    "group": "",
+    "quota": {
+        "limit": 30,
+        "additional": 12
+    },
+    "schedule": [
+        {
+            "day": 5,
+            "from": 10,
+            "to": 12,
+            "campus": "本部",
+            "classroom": "CAD/CAM"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎必須先修過【MTU0012  程式設計】、【MAU0180  微積分乙（一）】、【MAU0181  微積分乙（二）】、【MTU0009  工程數學（一）】",
+    "form_s": "",
+    "classes": "9",
+    "dept_group": "",
+    "hours": 3,
+    "description": "數值分析是探討數值方法以及應用電腦求解數學問題。工程所遭遇的問題多數以數學來描述，最終形式為數學模型，數值分析是工程分析的實際解決技術。在理學、工程及科技學院的許多科系都有開設數值分析。本課學目的在習得工程問題之數值解法：多項式與超越方程式之根、聯立方程式、特徵值問題、曲線擬合與近似、數值微分與積分、常微分方程解法。\n此外並搭配數學軟體練習程式語言在數值解法之實作。",
+    "goals": [
+        "學習數值分析的原理與技術",
+        "理解數值分析技術在工程的應用",
+        "以數值分析軟體解決工程問題",
+        "學習數值分析原理(外文書籍)"
+    ],
+    "syllabus": "1.Introduction\n\n2.Mathematical background\n\n3\\. Mathematical background\n\n4\\. Mathematic software and programming\n\n5.Nonlinear equation\n\n6.Nonlinear equation\n\n7.Linear system equations\n\n8.Linear system equations\n\n9.Approximation and Interpolation\n\n10.Approximation and Interpolation\n\n11.Numerical Differentiation\n\n12.Numerical Differentiation\n\n13.Numerical Integration\n\n14.Numerical Integration\n\n15.Numerical Solutions for ODE: Initial value problems\n\n16.Numerical Solutions for ODE: Initial value problems\n\n17.Numerical Solutions for ODE: Boundary values problems\n\n18.Numerical Solutions for ODE: Boundary values problems",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "定義、原理及應用範例解說"
+        },
+        {
+            "type": "討論法",
+            "note": "概念討論、疑難解決"
+        },
+        {
+            "type": "問題解決教學",
+            "note": "例題求解示範演練"
+        },
+        {
+            "type": "實驗/實作",
+            "note": "電腦數學軟體隨堂演練操作"
+        }
+    ],
+    "grading": [
+        {
+            "type": "課堂討論參與",
+            "weight": 50,
+            "note": "隨堂操作電腦軟體演練，缺席扣分"
+        },
+        {
+            "type": "報告",
+            "weight": 50,
+            "note": "課後家庭作業(電腦程式作業)"
+        }
+    ],
+    "prerequisite": "◎必須先修過【MTU0012  程式設計】、【MAU0180  微積分乙（一）】、【MAU0181  微積分乙（二）】、【MTU0009  工程數學（一）】",
+    "general_core": []
+}

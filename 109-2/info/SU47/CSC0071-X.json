@@ -1,0 +1,82 @@
+{
+    "year": 109,
+    "term": 2,
+    "name": "啟發式演算法與解題應用",
+    "teachers": [
+        "蔣宗哲"
+    ],
+    "department": "SU47",
+    "code": "CSC0071",
+    "credit": 3,
+    "serial": 2972,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 7,
+            "to": 9,
+            "campus": "公館",
+            "classroom": "理圖003"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "",
+    "classes": "9",
+    "dept_group": "",
+    "hours": 3,
+    "description": "在資訊工程的領域中，我們常需面對最佳化的問題，而這些問題又常常因為本身複雜度太高或規模太大而難以使用傳統的精確演算法(exact algorithms)來解決。在近代電腦智能的研究中，有一支稱為啟發式演算法的研究已快速興起。本課程將介紹多種隸屬於啟發式演算法的演算法，包含其基本設計、理論基礎、與相關應用。課程中也希望修課同學能將講授的演算法應用在自身的研究領域，或針對現有之設計方式提出改良的構想。",
+    "goals": [
+        "了解啟發式演算法的原理與應用。",
+        "能將啟發式演算法應用於求解實際問題。",
+        "能分析啟發式演算法之優劣，並提出改進之構想。"
+    ],
+    "syllabus": "在資訊工程的領域中，我們常需面對最佳化的問題，而這些問題又常常因為本身複雜度太高或規模太大而難以使用傳統的精確演算法 (exact algorithms) 來解決。在近代電腦智能的研究中，有一支稱為啟發式演算法 (metaheuristics) 的研究已快速興起。本課程將介紹多種隸屬於啟發式演算法的演算法，包含其基本設計、理論基礎、與相關應用；期許修課同學能將講授的演算法應用在自身的研究領域，或針對現有之設計方式提出改良的構想。課程中設計多次的團隊合作專案，結合論文研討、程式實作以及口頭報告，歡迎想學習如何作研究的同學修習。  \n  \nWeek 1: Introduction  \nWeek 2-3: Trajectory-based metaheuristics  \nWeek 4, 5, 9: Evolutionary algorithms  \nWeek 6, 8, 14: 3-hour team project  \nWeek 7: Spring break  \nWeek10: Mid-term presentation  \nWeek11: Parameter control  \nWeek12: Applications (I)  \nWeek13: Applications (II)  \nWeek15: Applications (III)  \nWeek16-17: Evolutionary multiobjective optimization  \nWeek18: Final presentation",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "以自編教材和投影片講授。"
+        },
+        {
+            "type": "合作學習",
+            "note": "分組方式進行實驗和學期專題製作。"
+        },
+        {
+            "type": "實驗/實作",
+            "note": "撰寫程式並進行實驗。"
+        },
+        {
+            "type": "專題研究",
+            "note": "由學生自行決定專題內容並進行研究。"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 30,
+            "note": "兩個程式作業（含書面報告），各 15%"
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 30,
+            "note": "三次團體活動（含報告），各 10%"
+        },
+        {
+            "type": "報告",
+            "weight": 20,
+            "note": "專題期中口頭報告 10%，專題期末口頭報告 10%"
+        },
+        {
+            "type": "專題",
+            "weight": 20,
+            "note": "專題期末書面報告 20%"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

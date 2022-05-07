@@ -1,0 +1,103 @@
+{
+    "year": 107,
+    "term": 2,
+    "name": "光學（二）",
+    "teachers": [
+        "邱爾德"
+    ],
+    "department": "HM77",
+    "code": "OEM0101",
+    "credit": 3,
+    "serial": 1181,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 5
+    },
+    "schedule": [
+        {
+            "day": 5,
+            "from": 3,
+            "to": 4,
+            "campus": "公館",
+            "classroom": "Ｃ005"
+        },
+        {
+            "day": 5,
+            "from": 6,
+            "to": 6,
+            "campus": "公館",
+            "classroom": "Ｃ005"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程接續光學(一)課程內容, 介紹光學與光電工程所需相關知識。使學生對於光的特性與光學的理論及應用有廣泛的認識與瞭解。",
+    "goals": [
+        "波動光學簡介",
+        "干涉與繞射原理及其應用",
+        "傅氏光學簡介",
+        "雷射簡介"
+    ],
+    "syllabus": "週次\n\n教學進度\n\n1\n\nA Brief Overview & Review of Geometrical & Matrix Optics\n\n2\n\nReview of Basic Mathematics of Scalar Waves & Fresnel Equations\n\n3\n\nGaussian Beam Optics\n\n4\n\nGaussian Beam Transformation + \\[In-class Test (1)\\]\n\n5\n\nOptical Resonators\n\n6\n\nPolarization Optics: Jones Vectors and Jones Calculus (I)\n\n7\n\nPolarization Optics: Jones Vectors and Jones Calculus (II)\n\n8\n\nMid-Term Test: 期中測驗評量\n\n9\n\nOptical Anisotropy & Optical Indicatrix\n\n10\n\nCoherence & Dispersion\n\n11\n\nInterference & Interferometers\n\n12\n\nHolography; Basic Concepts and Mathematics + \\[In-class Test (2)\\]\n\n13\n\nDiffraction (I): Basic Concepts & Mathematics\n\n14\n\nDiffraction (II): Point-Spread Function and Diffraction–Limited Two-Point Resolution, Diffraction Gratings\n\n15\n\nA Brief Introduction to Laser Theory\n\n16\n\nElectro-optic & Acousto-optic Effects & Devices\n\n17\n\nA Brief Introduction to Nonlinear Optics\n\n18\n\n期末測驗評量",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": ""
+        },
+        {
+            "type": "問題解決教學",
+            "note": ""
+        },
+        {
+            "type": "合作學習",
+            "note": ""
+        },
+        {
+            "type": "媒體融入教學",
+            "note": ""
+        },
+        {
+            "type": "其他",
+            "note": "​Detail Lecture Notes, Materials for In-class Discussion, Exercises, & Test, and Homework Assignment & Detail Solutions will be posted weekly via the Campus E-System."
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 10,
+            "note": ""
+        },
+        {
+            "type": "期中考",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 35,
+            "note": ""
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 5,
+            "note": ""
+        },
+        {
+            "type": "其他",
+            "weight": 20,
+            "note": "隨堂小考"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

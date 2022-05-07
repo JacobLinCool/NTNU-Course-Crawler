@@ -1,0 +1,85 @@
+{
+    "year": 107,
+    "term": 1,
+    "name": "高等演算法",
+    "teachers": [
+        "林順喜"
+    ],
+    "department": "SM47",
+    "code": "CSC0017",
+    "credit": 3,
+    "serial": 2698,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 3,
+            "from": 2,
+            "to": 4,
+            "campus": "公館",
+            "classroom": "Ｂ102"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程介紹電腦科學中演算法的基本原理、分析技術、與設計策略，訓練學生能設計各種演算法，以解決實際的問題。熟知這些演算法知識，乃為未來可能做的學術研究打下基礎。",
+    "goals": [
+        "實作以程式為主的作業",
+        "介紹電腦科學中演算法的基本原理、分析技術、與設計策略",
+        "訓練學生能熟悉資訊基礎理論",
+        "探討解決問題所需的時間及空間複雜度",
+        "研究其它特殊專題及未來趨勢"
+    ],
+    "syllabus": "Ch. 1-4  數學基礎\n\nInsertion sort、Selection sort、Merge sort、Tower of Hanoi、四柱河內塔\n\nCh. 5  亂數化演算法(Fire Pi、Buffon\\`s Needle、阿基米得法、BDD問題、亂數化簡演算法)\n\nCh. 6-9  排序問題(Insertion sort、Selection sort、Bubble sort、Shell sort、Merge sort、Heap sort、Quicksort、Bucket sort、Radix sort、Blum selection演算法)\n\nCh. 10-14  一般資料結構(Binary search tree、Skip list、Hash table、AVL-tree、紅黑樹、Josephus game)\n\nCh. 15  動態規劃(矩陣連乘、0/1背包、多邊形三角化、最佳二元搜尋樹)\n\nCh. 16  Greedy演算法(Huffman編碼、摩爾斯電碼、Scheduling with deadlines)\n\nCh. 17  Amortized分析法\n\nCh. 18  高等資料結構(B-tree、B+ tree、Min heap、Max Heap、Trie)\n\nCh. 22-26  圖的各種演算法(令人迷惑的圖、 Kruskal MST、Djikstra\\`s algorithm)\n\nCh. 29  線性規劃\n\nCh. 31 密碼學及安全確認問題(Euclid\\`s Game、extended GCD、modulo運算、Cryptarithms、RSA密碼)\n\nCh. 34  NP-complete問題(3n+1 problem、旅行推銷員)\n\nCh. 35  近似演算法\n\nCh. 99  其它特殊專題(logic games、The game of Nim)",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "上課口授及討論"
+        },
+        {
+            "type": "討論法",
+            "note": "上課口授及討論"
+        },
+        {
+            "type": "問題解決教學",
+            "note": "課堂將針對相關課題討論"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 50,
+            "note": "平時作業約5次（每次約佔總成績10％）"
+        },
+        {
+            "type": "期中考",
+            "weight": 20,
+            "note": "共二次考試（每次約佔總成績20％）"
+        },
+        {
+            "type": "期末考",
+            "weight": 20,
+            "note": "共二次考試（每次約佔總成績20％）"
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 5,
+            "note": "課堂將針對相關課題討論"
+        },
+        {
+            "type": "出席",
+            "weight": 5,
+            "note": "抽點未到者，將逐次扣分。公假、事假或病假需附正式証明始得另以公式計分。"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

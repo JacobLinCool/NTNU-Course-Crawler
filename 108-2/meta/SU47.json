@@ -1,0 +1,925 @@
+[
+    {
+        "year": 108,
+        "term": 2,
+        "name": "資訊科技概論教學實習（教）",
+        "teachers": [
+            "李忠謀",
+            "紀博文",
+            "方瓊瑤"
+        ],
+        "department": "SU47",
+        "code": "CSUE110",
+        "credit": 2,
+        "serial": 2879,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 5,
+                "from": 6,
+                "to": 9,
+                "campus": "公館",
+                "classroom": "Ｂ101"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 2,
+        "name": "編譯系統設計",
+        "teachers": [
+            "黃冠寰"
+        ],
+        "department": "SU47",
+        "code": "CSC0004",
+        "credit": 3,
+        "serial": 2880,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 7,
+                "to": 9,
+                "campus": "公館",
+                "classroom": "Ｃ003"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "",
+        "classes": "9",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 2,
+        "name": "物件導向分析與設計",
+        "teachers": [
+            "林均翰"
+        ],
+        "department": "SU47",
+        "code": "CSC0005",
+        "credit": 3,
+        "serial": 2881,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 2,
+                "to": 4,
+                "campus": "公館",
+                "classroom": "Ｂ101"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "",
+        "classes": "9",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 2,
+        "name": "無線通訊",
+        "teachers": [
+            "賀耀華"
+        ],
+        "department": "SU47",
+        "code": "CSC0010",
+        "credit": 3,
+        "serial": 2882,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 7,
+                "to": 9,
+                "campus": "公館",
+                "classroom": "綜合館201"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "",
+        "classes": "9",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 2,
+        "name": "資訊安全",
+        "teachers": [
+            "紀博文"
+        ],
+        "department": "SU47",
+        "code": "CSC0072",
+        "credit": 3,
+        "serial": 2883,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 25
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 7,
+                "to": 9,
+                "campus": "公館",
+                "classroom": "Ｂ102"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "",
+        "classes": "9",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 2,
+        "name": "資料視覺化",
+        "teachers": [
+            "王科植"
+        ],
+        "department": "SU47",
+        "code": "CSC9005",
+        "credit": 3,
+        "serial": 2884,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 5,
+                "from": 2,
+                "to": 4,
+                "campus": "公館",
+                "classroom": "Ｃ007"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "",
+        "classes": "9",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 2,
+        "name": "即時系統",
+        "teachers": [
+            "王超"
+        ],
+        "department": "SU47",
+        "code": "CSC9006",
+        "credit": 3,
+        "serial": 2885,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 2,
+                "to": 4,
+                "campus": "公館",
+                "classroom": "Ｓ403"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "",
+        "classes": "9",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 2,
+        "name": "程式設計（二）",
+        "teachers": [
+            "紀博文"
+        ],
+        "department": "SU47",
+        "code": "CSU0002",
+        "credit": 3,
+        "serial": 2886,
+        "group": "A",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 7,
+                "to": 7,
+                "campus": "公館",
+                "classroom": "理圖807"
+            },
+            {
+                "day": 3,
+                "from": 8,
+                "to": 9,
+                "campus": "公館",
+                "classroom": "理圖807"
+            }
+        ],
+        "programs": [
+            "資訊科技應用學程",
+            "人工智慧學程"
+        ],
+        "comment": "",
+        "restrict": "◎必須先修過【CSU0001  程式設計（一）】",
+        "form_s": "1",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 2,
+        "name": "程式設計（二）",
+        "teachers": [
+            "王弘倫"
+        ],
+        "department": "SU47",
+        "code": "CSU0002",
+        "credit": 3,
+        "serial": 2887,
+        "group": "B",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 2,
+                "to": 4,
+                "campus": "公館",
+                "classroom": "理圖807"
+            }
+        ],
+        "programs": [
+            "資訊科技應用學程",
+            "人工智慧學程"
+        ],
+        "comment": "",
+        "restrict": "◎必須先修過【CSU0001  程式設計（一）】",
+        "form_s": "1",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 2,
+        "name": "基礎電子學",
+        "teachers": [
+            "王超"
+        ],
+        "department": "SU47",
+        "code": "CSU0007",
+        "credit": 3,
+        "serial": 2888,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 2,
+                "to": 4,
+                "campus": "公館",
+                "classroom": "Ｃ007"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "1",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 2,
+        "name": "數位邏輯",
+        "teachers": [
+            "吳榮根"
+        ],
+        "department": "SU47",
+        "code": "CSU0009",
+        "credit": 3,
+        "serial": 2889,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 8,
+                "to": 9,
+                "campus": "公館",
+                "classroom": "理圖003"
+            },
+            {
+                "day": 5,
+                "from": 7,
+                "to": 7,
+                "campus": "公館",
+                "classroom": "理圖003"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "1",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 2,
+        "name": "數位邏輯實驗",
+        "teachers": [
+            "吳榮根"
+        ],
+        "department": "SU47",
+        "code": "CSU0010",
+        "credit": 1,
+        "serial": 2890,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 0
+        },
+        "schedule": [
+            {
+                "day": 5,
+                "from": 8,
+                "to": 9,
+                "campus": "公館",
+                "classroom": "Ｃ208"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "1",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 2,
+        "name": "離散數學",
+        "teachers": [
+            "王弘倫"
+        ],
+        "department": "SU47",
+        "code": "CSU0011",
+        "credit": 3,
+        "serial": 2891,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 32
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 8,
+                "to": 8,
+                "campus": "公館",
+                "classroom": "Ｅ101"
+            },
+            {
+                "day": 5,
+                "from": 3,
+                "to": 4,
+                "campus": "公館",
+                "classroom": "Ｅ101"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "1",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 2,
+        "name": "邏輯概論",
+        "teachers": [
+            "侯文娟"
+        ],
+        "department": "SU47",
+        "code": "CSU0012",
+        "credit": 3,
+        "serial": 2892,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 2,
+                "to": 4,
+                "campus": "公館",
+                "classroom": "理圖002"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "1",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 2,
+        "name": "演算法",
+        "teachers": [
+            "葉梅珍"
+        ],
+        "department": "SU47",
+        "code": "CSU0018",
+        "credit": 3,
+        "serial": 2893,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 26
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 3,
+                "to": 4,
+                "campus": "公館",
+                "classroom": "綜合館3F國際會議廳"
+            },
+            {
+                "day": 4,
+                "from": 2,
+                "to": 2,
+                "campus": "公館",
+                "classroom": "Ｂ102"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎必須先修過【CSU0001  程式設計（一）】",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 2,
+        "name": "計算機網路",
+        "teachers": [
+            "蔡榮宗"
+        ],
+        "department": "SU47",
+        "code": "CSU0019",
+        "credit": 3,
+        "serial": 2894,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 8,
+                "to": 9,
+                "campus": "公館",
+                "classroom": "Ｂ101"
+            },
+            {
+                "day": 4,
+                "from": 7,
+                "to": 7,
+                "campus": "公館",
+                "classroom": "Ｂ101"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 2,
+        "name": "程式語言結構",
+        "teachers": [
+            "黃冠寰"
+        ],
+        "department": "SU47",
+        "code": "CSU0020",
+        "credit": 3,
+        "serial": 2895,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 7,
+                "to": 7,
+                "campus": "公館",
+                "classroom": "Ｂ101"
+            },
+            {
+                "day": 4,
+                "from": 8,
+                "to": 9,
+                "campus": "公館",
+                "classroom": "Ｂ101"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 2,
+        "name": "計算機結構",
+        "teachers": [
+            "林均翰"
+        ],
+        "department": "SU47",
+        "code": "CSU0029",
+        "credit": 3,
+        "serial": 2896,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 39
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 2,
+                "to": 2,
+                "campus": "公館",
+                "classroom": "Ｂ102"
+            },
+            {
+                "day": 4,
+                "from": 3,
+                "to": 4,
+                "campus": "公館",
+                "classroom": "Ｂ102"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 2,
+        "name": "進階程式設計",
+        "teachers": [
+            "蔣宗哲"
+        ],
+        "department": "SU47",
+        "code": "CSU0030",
+        "credit": 3,
+        "serial": 2897,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 5,
+                "from": 7,
+                "to": 9,
+                "campus": "公館",
+                "classroom": "理圖807"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "3",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 2,
+        "name": "作業系統",
+        "teachers": [
+            "賀耀華"
+        ],
+        "department": "SU47",
+        "code": "CSU0033",
+        "credit": 3,
+        "serial": 2898,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 8,
+                "to": 9,
+                "campus": "公館",
+                "classroom": "Ｂ101"
+            },
+            {
+                "day": 5,
+                "from": 3,
+                "to": 3,
+                "campus": "公館",
+                "classroom": "Ｂ101"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "3",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 2,
+        "name": "資料庫理論",
+        "teachers": [
+            "柯佳伶"
+        ],
+        "department": "SU47",
+        "code": "CSU0034",
+        "credit": 3,
+        "serial": 2899,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 3,
+                "to": 4,
+                "campus": "公館",
+                "classroom": "理圖807"
+            },
+            {
+                "day": 5,
+                "from": 2,
+                "to": 2,
+                "campus": "公館",
+                "classroom": "Ｅ101"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "3",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 2,
+        "name": "資訊專題研究（一）：資訊理論",
+        "teachers": [
+            "葉梅珍",
+            "黃文吉"
+        ],
+        "department": "SU47",
+        "code": "CSU0036",
+        "credit": 3,
+        "serial": 2900,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 16,
+                "to": 11,
+                "campus": "公館",
+                "classroom": "Ｃ003"
+            }
+        ],
+        "programs": [
+            "人工智慧學程"
+        ],
+        "comment": "",
+        "restrict": "",
+        "form_s": "3",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 2,
+        "name": "資訊專題研究（一）：資訊系統",
+        "teachers": [
+            "黃冠寰",
+            "陳柏琳",
+            "李忠謀"
+        ],
+        "department": "SU47",
+        "code": "CSU0037",
+        "credit": 3,
+        "serial": 2901,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 5,
+                "from": 16,
+                "to": 11,
+                "campus": "公館",
+                "classroom": "Ｃ007"
+            }
+        ],
+        "programs": [
+            "資訊科技應用學程"
+        ],
+        "comment": "",
+        "restrict": "",
+        "form_s": "3",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 2,
+        "name": "影像處理",
+        "teachers": [
+            "陳世旺"
+        ],
+        "department": "SU47",
+        "code": "CSU0041",
+        "credit": 3,
+        "serial": 2902,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 2,
+                "to": 4,
+                "campus": "公館",
+                "classroom": "Ｂ101"
+            }
+        ],
+        "programs": [
+            "人工智慧學程"
+        ],
+        "comment": "",
+        "restrict": "",
+        "form_s": "3",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 2,
+        "name": "人工智慧",
+        "teachers": [
+            "林順喜"
+        ],
+        "department": "SU47",
+        "code": "CSU0042",
+        "credit": 3,
+        "serial": 2903,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 7,
+                "to": 7,
+                "campus": "公館",
+                "classroom": "Ｂ102"
+            },
+            {
+                "day": 4,
+                "from": 8,
+                "to": 9,
+                "campus": "公館",
+                "classroom": "Ｂ102"
+            }
+        ],
+        "programs": [
+            "人工智慧學程"
+        ],
+        "comment": "",
+        "restrict": "",
+        "form_s": "3",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 2,
+        "name": "行動應用程式開發",
+        "teachers": [
+            "王科植"
+        ],
+        "department": "SU47",
+        "code": "CSU0046",
+        "credit": 3,
+        "serial": 2904,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 7,
+                "to": 9,
+                "campus": "公館",
+                "classroom": "Ｂ102"
+            }
+        ],
+        "programs": [
+            "資訊科技應用學程"
+        ],
+        "comment": "",
+        "restrict": "",
+        "form_s": "3",
+        "classes": "",
+        "dept_group": ""
+    }
+]

@@ -1,0 +1,88 @@
+{
+    "year": 107,
+    "term": 2,
+    "name": "微處理機",
+    "teachers": [
+        "張國維"
+    ],
+    "department": "HU73",
+    "code": "MTU0114",
+    "credit": 3,
+    "serial": 1314,
+    "group": "",
+    "quota": {
+        "limit": 30,
+        "additional": 5
+    },
+    "schedule": [
+        {
+            "day": 1,
+            "from": 2,
+            "to": 4,
+            "campus": "本部",
+            "classroom": "CAD/CAM"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "2",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "引導學生培養微處理機應用與實驗之能力，以及培養他們具有微處理機應用模組製作(含程式設計)技能，以及引導他們使用所需之現代工具，進而具有完成小型微處理機專題之能力。此課程以教師講述為起始，引導學生合作與討論，期間教師以教具展示與操作，來提升學生學習動機，並以課堂練習、課後作業、紙筆測驗、口語表達來反應學生的學習成效。",
+    "goals": [
+        "培養學生具有微處理機基礎知識。",
+        "培養微處理機基礎理論分析、解釋、撰寫報告之能力",
+        "培養使用微處理機現代工具之技能",
+        "瞭解微處理機在環境與社會應用上的影響"
+    ],
+    "syllabus": "W1. Introduction  \nW2.  The single chip 89S51  \nW3-4. Keil C programming for the chip with LEDs  \nW4-5. Speaker control (with transistor)  \nW6-7. Seven-segment display  \nW8.  Midterm exam.  \nW9-10. Interrupt  \nW11-12. A/D converter  \nW13-14. Timer  \nW15-16. RS232 comm.  \nW17-18. Final exam. and evaluation.",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "講述微處理機基礎概念"
+        },
+        {
+            "type": "討論法",
+            "note": "討論重要主題，分為全班討論與小組討論"
+        },
+        {
+            "type": "合作學習",
+            "note": "3人一小組進行分析與經驗分享(以個人之成績評量為原則)"
+        },
+        {
+            "type": "實驗/實作",
+            "note": "透過教師引導，進行分析驗證"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 10,
+            "note": "課堂上機測驗(個人關書)"
+        },
+        {
+            "type": "期中考",
+            "weight": 20,
+            "note": "課堂上機測驗(個人關書)"
+        },
+        {
+            "type": "期末考",
+            "weight": 15,
+            "note": "期末作業(分組)：檢驗學習他組輪值題之成效"
+        },
+        {
+            "type": "專題",
+            "weight": 25,
+            "note": "期末專題(分組)"
+        },
+        {
+            "type": "其他",
+            "weight": 30,
+            "note": "翻轉教學(分組)：課前預習/實作、影音錄製、課堂講演/輪值(展示)、分工合作、跨組教學與除錯。"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

@@ -1,0 +1,77 @@
+{
+    "year": 109,
+    "term": 2,
+    "name": "財務工程與創新",
+    "teachers": [
+        "蔡蒔銓"
+    ],
+    "department": "OM55",
+    "code": "MBM0058",
+    "credit": 3,
+    "serial": 2445,
+    "group": "",
+    "quota": {
+        "limit": 30,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 5,
+            "from": 7,
+            "to": 9,
+            "campus": "本部",
+            "classroom": "雲608"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎必須先修過【MBM0063  投資學】 ◎課程不開放上修",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "財務工程 ( financial engineering) 是一個包含財務數學 （mathematical finance），數值方法（numerical methods）以及電腦模擬（computer simulations）等的一個跨領域學科。相關知識可以廣泛協助決策者交易、投資、風險管理。隨著金融環境及商品的多元化發展，近年來財務工程領域逐漸興起。本課程將著重各類衍生性商品的定價、避險、風險管理，介紹給學生各類衍生性金融商品、基礎資產價格模型、選擇權評價模型於金融市場與財務風險管理之應用，並建立學生財務工程相關之基礎觀念。\nFinancial engineering involves the design, the development, and the implementation of innovative financial instruments and process, and the formulation of creative solutions to problems in finance. With the prevailing of Financial Engineering and products diversification, many of the financial engineering-relative products have been seen in the market. This course introduces popular financial derivatives and structured products. It places emphasis on the fundamental theories and methods on pricing, hedging and risk management, along with their implementation in practical applications.",
+    "goals": [
+        "知識／認知",
+        "職能導向",
+        "個人特質"
+    ],
+    "syllabus": "1.  Introduction\n2.  Risk and Returns\n3.  Methods in Financial Engineering\n4.  Monte Carlo Simulation\n5.  Index and ETF\n6.  Futures Contracts: Hedging and Arbitrage\n7.  Brownian Motion and Ito’s Lemma\n8.  Options Contracts: Pricing, Trading, Greeks, and Hedging\n9.  Arrow Debreu Theory and Options Pricing\n10.  Black-Scholes PDE, Feynmen-Kac Theorem and Numerical Methods\n11.  Volatility Smile and Volatility Trading\n12.  Swaps\n13.  Python and Derivative Pricing\n14.  Matlab and Derivative Pricing\n15.  Foreign Exchange Derivatives\n16.  Interest Rate Derivatives\n17.  Credit Derivatives\n18.  Structured Products",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "課堂授課、文獻導讀"
+        },
+        {
+            "type": "合作學習",
+            "note": "分組討論"
+        },
+        {
+            "type": "專題研究",
+            "note": "專題報告"
+        },
+        {
+            "type": "其他",
+            "note": "個案研究"
+        }
+    ],
+    "grading": [
+        {
+            "type": "課堂討論參與",
+            "weight": 20,
+            "note": ""
+        },
+        {
+            "type": "報告",
+            "weight": 40,
+            "note": "報告及討論參與"
+        },
+        {
+            "type": "專題",
+            "weight": 40,
+            "note": ""
+        }
+    ],
+    "prerequisite": "◎必須先修過【MBM0063  投資學】",
+    "general_core": []
+}

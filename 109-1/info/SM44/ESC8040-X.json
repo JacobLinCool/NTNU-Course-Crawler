@@ -1,0 +1,78 @@
+{
+    "year": 109,
+    "term": 1,
+    "name": "斷層帶動力學",
+    "teachers": [
+        "陳卉瑄"
+    ],
+    "department": "SM44",
+    "code": "ESC8040",
+    "credit": 3,
+    "serial": 2734,
+    "group": "",
+    "quota": {
+        "limit": 30,
+        "additional": 5
+    },
+    "schedule": [
+        {
+            "day": 3,
+            "from": 2,
+            "to": 4,
+            "campus": "公館",
+            "classroom": "Ｃ403"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "The understanding of dynamic fault weakening during the nucleation and the propagation of a seismic rupture is a major task for seismologists.\nThe purpose of this course is to understand the mechanics of earthquakes and faulting by introducing observations and performing theoretical analyses and laboratory experiments on earthquakes rupture dynamics.",
+    "goals": [
+        "培養學生閱讀、報告、邏輯推理能力",
+        "訓練學生對斷層動力學的知識",
+        "培養學生由教科書內容思考可進行之專題方向"
+    ],
+    "syllabus": "Lecture 1 Mechanics of faulting\n\nLecture 2 Mechanics of earthquake\n\nLecture 3 Geology of the crustal earthquake source\n\nLecture 4 Fault zone structure and deformation processes\n\nLecture 5 Dynamic ruptures in recent models of earthquake faults\n\nLecture 6 Rate and state frictional constitutive laws\n\nLecture 7 Dynamic weakening processes\n\nLecture 8 Lab. experiments on fault friction\n\nLecture 9 Scaling from Lab. to natural faults\n\nLecture 10 Aseismic to seismic transition\n\nLecture 11 Statistical physics approach to understanding the multiscale dynamics of earthquake fault systems\n\nLecture 12 Pseudotachylytes and earthquake source mechanics\n\nLecture 13 Case study of dynamic rupture propagation",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "第一小時由教師講述教科書"
+        },
+        {
+            "type": "討論法",
+            "note": "第二小時由學生依據教科書內容尋找適合參考文獻、提出口頭報告"
+        },
+        {
+            "type": "問題解決教學",
+            "note": "第三小時由學生提出問題、老師學生一同討論、解決問題、並蒐集此主題的相關專題、討論下一周的主題方向"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 30,
+            "note": "每周指定閱讀作業"
+        },
+        {
+            "type": "期中考",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "出席",
+            "weight": 10,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

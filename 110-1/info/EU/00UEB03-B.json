@@ -1,0 +1,81 @@
+{
+    "year": 110,
+    "term": 1,
+    "name": "雙語教育概論（教）",
+    "teachers": [
+        "柯琦"
+    ],
+    "department": "EU",
+    "code": "00UEB03",
+    "credit": 2,
+    "serial": 627,
+    "group": "B",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 5,
+            "from": 1,
+            "to": 2,
+            "campus": "本部",
+            "classroom": "樸301"
+        }
+    ],
+    "programs": [
+        "國際教師學程-華語文",
+        "國際教師學程-數學",
+        "國際教師學程-物理",
+        "國際教師學程-國際"
+    ],
+    "comment": "請選修此門課的學生詳讀課程綱要之上課用書需求",
+    "restrict": "",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 2,
+    "description": "This course introduces students to the foundations of bilingual education. The theories and practices driving bilingual education will be discussed with a particular focus on their application in Taiwan’s classrooms. By the end of this course, students will have developed a personal philosophy on bilingual education and demonstrate its application in their future classroom.",
+    "goals": [
+        "透過本課程的介紹，使學生認識哲學的基本概念及各種教育思想的特點。"
+    ],
+    "syllabus": "**Course Schedule**\n\n**Week**\n\n**Date**\n\n**Topic**\n\n**Objectives**\n\n1\n\n9/24\n\nBilingualism: Definitions & Distinctions\n\n(1) explain various views regarding what it means to be bilingual\n\n2\n\n10/1\n\nEndangered Languages: Planning and Revitalization\n\n(1) list the status of languages in Taiwan\n\n(2) describe the process of language revitalization\n\n3\n\n10/8\n\nLanguages in Society\n\n(1) discuss the role of languages in a local and global society\n\n(2) define principles related to English as a lingua franca and World Englishes\n\n4\n\n10/15\n\nDevelopment of Bilingualism\n\n(1) describe individual factors that affect bilingual development\n\n(2) explain the stages of language acquisition\n\n5\n\n10/22\n\nTheories of Second Language Acquisition and Bilingualism\n\n(1) explain prominent theories related to bilingualism and second language acquisition\n\n6\n\n10/29\n\nBilingualism, Cognition, and the Brain\n\n(1) discuss research related to bilingualism and its relation to cognition and the brain\n\n7\n\n11/5\n\nGlobal & Local Bilingual Education Policy\n\n(1) critique bilingual education policy both locally and globally\n\n8\n\n11/12\n\n**Assignment 1: Country Case Study Presentations**\n\n9\n\n11/19\n\n10\n\n11/26\n\nEducation Arrangements for Bilingualism\n\n(1) define various types of arrangements associated with bilingual education\n\n(2) differentiate between monolingual and bilingual outcomes in content-based approaches\n\n11\n\n12/3\n\nLiteracy in the Bilingual Classroom\n\n(1) describe theories related to literacy development in an additional language\n\n(2) discuss factors that affect student literacy development\n\n12\n\n12/10\n\n_School Holiday (Sports Games)_\n\n13\n\n12/17\n\nSupporting Special Needs Students\n\n(1) describe issues related to bilingual education and students with exceptional children\n\n(2) explain the importance of advocating for bilingual education for all students\n\n14\n\n12/24\n\nIdeology, Identity, and Empowerment\n\n(1) discuss the effect of bilingual education and bilingualism on student identity\n\n15\n\n12/31\n\n _National Holiday_\n\n16\n\n1/7\n\n**Assignment 2: Final Exam**\n\n17\n\n1/14\n\n**Assignment 3: Bilingual Teaching Philosophy Statement**\n\n18\n\n1/21",
+    "methodologies": [
+        {
+            "type": "討論法",
+            "note": "Students will discuss theory and research related to bilingual education."
+        },
+        {
+            "type": "合作學習",
+            "note": "Students will work in groups for research and presentations."
+        },
+        {
+            "type": "專題研究",
+            "note": "Students will research bilingual education in other countries."
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 10,
+            "note": "Exit Tickets: Students will complete a weekly exit ticket after each class to reflect on their learning."
+        },
+        {
+            "type": "期末考",
+            "weight": 30,
+            "note": "Students will complete a written final exam covering material discussed throughout the course."
+        },
+        {
+            "type": "報告",
+            "weight": 30,
+            "note": "Bilingual Teaching Philosophy Statement: Students will write a one-page teaching philosophy statement that discusses views of bilingual education and advocacy for students."
+        },
+        {
+            "type": "專題",
+            "weight": 30,
+            "note": "Country Case Study: [Group] Students will present on a country of their choice. The presentation should include information on majority and minority languages of the country and education policies related to language learning."
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

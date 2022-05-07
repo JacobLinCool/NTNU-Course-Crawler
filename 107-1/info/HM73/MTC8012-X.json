@@ -1,0 +1,79 @@
+{
+    "year": 107,
+    "term": 1,
+    "name": "高功率半導體元件",
+    "teachers": [
+        "鄭淳護"
+    ],
+    "department": "HM73",
+    "code": "MTC8012",
+    "credit": 3,
+    "serial": 1156,
+    "group": "",
+    "quota": {
+        "limit": 30,
+        "additional": 12
+    },
+    "schedule": [
+        {
+            "day": 5,
+            "from": 2,
+            "to": 4,
+            "campus": "本部",
+            "classroom": "機電302會議室"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程內容將由半導體材料、元件操作機制、元件結構設計，循序介紹多種功率半導體元件基礎理論，以及相關應用技術。學生除了可學習功率電子元件原理與特性外，也有助於提升學生分析電力電子電路可靠度與失效模式之能力。",
+    "goals": [
+        "習得功率電子元件操作原理與特性",
+        "能利用電性量測方法驗證分析功率電子元件性能、可靠度及失效模式",
+        "習得功率電子元件設計架構與相關應用技術"
+    ],
+    "syllabus": "Week 1. Introduction to Semiconductor Devices\n\nWeek 2-4 Semiconductor Device Physics \n\nWeek 5-6. High Voltage Breakdown Mechanism\n\nWeek 7-8. Power Rectifiers\n\nWeek 9-11. Power BJT & Thyristors\n\nWeek 12-13. Power MOSFET\n\nWeek 14-15. Insulated Gate Bipolar Transistors\n\nWeek 16-17. Thermal Management of Power Devices\n\nWeek 18. Power ICs for High-Voltage & RF Applications",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "課堂講述各種功率元件操作原理、高壓／高電流機制、元件失效模式以及相關應用技術"
+        },
+        {
+            "type": "實驗/實作",
+            "note": "課程中搭配元件電性與可靠度量測實驗，驗收學習成效"
+        }
+    ],
+    "grading": [
+        {
+            "type": "期中考",
+            "weight": 35,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 35,
+            "note": ""
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 5,
+            "note": ""
+        },
+        {
+            "type": "出席",
+            "weight": 10,
+            "note": ""
+        },
+        {
+            "type": "報告",
+            "weight": 15,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

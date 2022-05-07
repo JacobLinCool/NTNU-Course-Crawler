@@ -1,0 +1,81 @@
+{
+    "year": 110,
+    "term": 1,
+    "name": "空間資訊模擬",
+    "teachers": [
+        "張國楨"
+    ],
+    "department": "LM23",
+    "code": "GEC8021",
+    "credit": 3,
+    "serial": 1686,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 5
+    },
+    "schedule": [
+        {
+            "day": 5,
+            "from": 10,
+            "to": 12,
+            "campus": "本部",
+            "classroom": "地理系研討室六"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程不開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "數值模擬廣泛應用於資訊，工程，以及地科領域。在地理資訊科學領域，數值模擬常見於都市發展，交通運輸，自然環境景況分析，災害防救等議題。由於地理數值資料具空間特性，故進行數值模型時需考量地理資料之時空動態分佈。細胞自動機 (cellular automata, CA) 與代理人模型結構 (agent-based modeling, ABM) 為地理資訊模擬中常見的模型機制。本課程將深入淺出介紹 CA 與 ABM 之原理與使用情境，利用實例應用，協助學生理解並依據研究議題之特性，選擇參數與模型，建構適當的模擬機制。",
+    "goals": [
+        "學習地理資訊模擬機制",
+        "應用於具時空動態變化特性之地理議題"
+    ],
+    "syllabus": "Week 1    Introduction\n\nWeek 2    Simulationin Geography\n\nWeek 3    Deterministicand Stochastic Modeling\n\nWeek 4    CellularAutomata: Rationale\n\nWeek 5    CellularAutomata: Mechanism\n\nWeek 6    Agent-basedModeling: Rationale\n\nWeek 7    Agent-basedModeling: Mechanism\n\nWeek 8    TransitionRules\n\nWeek 9    Probabilityof Transition Rules\n\nWeek 10  Validation\n\nWeek 11  ModelingDesign\n\nWeek 12  DevelopmentTools of GeoSimulation\n\nWeek 13  GeoSimulationApplication (I)\n\nWeek 14  GeoSimulationApplication (II)\n\nWeek 15  Casestudy (I)\n\nWeek 16  Casestudy (II)\n\nWeek 17  StudentPresentation\n\nWeek 18  Student Presentation",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "問題解決教學",
+            "note": ""
+        },
+        {
+            "type": "實驗/實作",
+            "note": ""
+        },
+        {
+            "type": "專題研究",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 20,
+            "note": ""
+        },
+        {
+            "type": "報告",
+            "weight": 25,
+            "note": ""
+        },
+        {
+            "type": "專題",
+            "weight": 25,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

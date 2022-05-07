@@ -1,0 +1,55 @@
+{
+    "year": 108,
+    "term": 2,
+    "name": "幾何測度論（二）",
+    "teachers": [
+        "孟悟理"
+    ],
+    "department": "SM40",
+    "code": "MAC0198",
+    "credit": 3,
+    "serial": 2550,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 5,
+            "from": 7,
+            "to": 9,
+            "campus": "公館",
+            "classroom": "數學館M210"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "A very successful strategy for the study of geometric variational problems is to firstly prove existence in an enlarged class of competitors by means of compactness theorems and subsequently study the regularity of the solution therein.  For instance, instead of considering only smooth submanifolds, one proves existence in the classes of boundaries of sets of finite perimeter, integral currents, or integral varifolds - all of which are based on the more basic concept of rectifiable set.  In the ensuing regularity theory, the generality of varifolds allows to unify a substantial part of the treatment.  The purpose of the course Geometric Measure Theory I+II is to develop, after providing the necessary infrastructure, the concept of rectifiable set as well as key elements of the theory of varifolds.",
+    "goals": [
+        "培養數學專業能力",
+        "增進邏輯推理與歸納的能力",
+        "增進數學思維與批判性思考的能力"
+    ],
+    "syllabus": "**Change of schedule** No lecture on Friday, 21 Feb 2020, due to 2019-nCoV prevention measures – make up lecture on Monday, 4 May 2020 (same time and room); thus, the first lecture is Friday, 6 March 2020.\n\n**Prerequisites** We continue the course Geometric Measure Theory I.\n\n**Course outline** We firstly cover Carathéodory’s construction (Hausdorff measure and spherical measure, densities, Cantor sets, Steiner symmetrisation, equality of measures on Euclidean spaces, extensions of Lipschitzian functions). Next, we complete differentiation theory (curves of finite length). Then, differentials and tangents (differentiation Lebesgue almost everywhere, factorisation near generic points, submanifolds of Euclidean space, tangent vectors, relative differentials, second fundamental form) are treated; this is followed by the area of Lipschitzian maps (Jacobi, area of mappings in Euclidean space, rectifiable sets, approximate tangent vectors and differentials, area of maps of rectifiable sets, agreement of measures on rectifiable sets, Grassmann manifold). To prepare for rectifiable varifolds, selected elements of structure theory are presented. If time permits, the basic theory of varifolds (first variation, monotonicity identity) followed by the isoperimetric inequality and compactness theorems is developed; otherwise, this material could be covered in the planned subsequent reading course _Topics in Geometric Measure Theory I_.\n\n**Sources for the course and other information on the course** Our main sources are \\[Fed69\\] and, concerning varifolds, \\[All72\\] supplemented by more detailed LATEX-ed lecture notes; some simplifications from \\[Men16\\] and \\[MS18\\] will also be employed. A survey of the concept of varifold is available at \\[Men17\\].\n\n1.  The course is offered both at the National Taiwan Normal University and in the programme of the Taiwan Mathematics School.\n2.  Video-recordings of the lectures will be made available to the participants of the course.",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "The lecture will be conducted in English.  Weekly updated LaTeXed lecture notes shall be made available."
+        }
+    ],
+    "grading": [
+        {
+            "type": "期末考",
+            "weight": 100,
+            "note": "Individual oral examination conducted in English."
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

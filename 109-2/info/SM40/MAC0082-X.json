@@ -1,0 +1,69 @@
+{
+    "year": 109,
+    "term": 2,
+    "name": "優選理論專題（二）",
+    "teachers": [
+        "張毓麟"
+    ],
+    "department": "SM40",
+    "code": "MAC0082",
+    "credit": 3,
+    "serial": 2642,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 6,
+            "to": 8,
+            "campus": "公館",
+            "classroom": "教室自排"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程主要是關於一般數理規劃（線性或非線性規劃），在有限制或無限制條件下對於一目標函數的極值問題之探討。課程內容是線性規劃與非線性規劃的延伸與加廣，在理論與實用性的應用上亦得兼顧。",
+    "goals": [
+        "瞭解一般數理規劃問題的結構。",
+        "熟悉各種優選條件或最佳化條件。",
+        "了解各種相關的應用。"
+    ],
+    "syllabus": "本課需要有優選理論基礎。\n\n我們主要分成傳統上課分式與課堂分享讀書心得。本學期以 manifold optimization 為主",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 40,
+            "note": ""
+        },
+        {
+            "type": "期中考",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 30,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

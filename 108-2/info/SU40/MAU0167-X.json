@@ -1,0 +1,76 @@
+{
+    "year": 108,
+    "term": 2,
+    "name": "代數學（二）",
+    "teachers": [
+        "劉家新"
+    ],
+    "department": "SU40",
+    "code": "MAU0167",
+    "credit": 3,
+    "serial": 2700,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 3,
+            "to": 4,
+            "campus": "公館",
+            "classroom": "Ｃ002"
+        },
+        {
+            "day": 4,
+            "from": 3,
+            "to": 3,
+            "campus": "公館",
+            "classroom": "Ｃ002"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎必須先修過【MAU0166  代數學（一）】",
+    "form_s": "2",
+    "classes": "3",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程讓學生瞭解群、環、體的基本理論，以作為學生未來修習其他進階課程的基礎。",
+    "goals": [
+        "訓練學生掌握抽象代數的基本知識",
+        "訓練學生可以用代數的語言進行溝通、表達、寫作。",
+        "培養學生的直覺、欣賞與應用高等代數至其他學科的能力。"
+    ],
+    "syllabus": "  \n1\\. Elementary properties of rings. (1 week)  \n2\\. Zero divisors, units, subrings, examples. (1 week)  \n3\\. Ideals, quotients. (2 weeks)  \n4\\. Isomorphism theorems.(2 weeks)  \n5\\. Ring of integers, polynomial rings.(2 weeks)\n\nMidterm exam\n\n6\\. Euclidean domain, PID, UFD.(3 weeks)  \n7\\. Fields, extension fields.(2 weeks)  \n8\\. Algebraic elements, algebraic closure, roots of polynomials.(2 weeks)  \n9\\. Finite fields.(1 week)\n\nFinal exam",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 20,
+            "note": ""
+        },
+        {
+            "type": "期中考",
+            "weight": 40,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 40,
+            "note": ""
+        }
+    ],
+    "prerequisite": "◎必須先修過【MAU0166  代數學（一）】",
+    "general_core": []
+}

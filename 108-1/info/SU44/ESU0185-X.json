@@ -1,0 +1,77 @@
+{
+    "year": 108,
+    "term": 1,
+    "name": "數值分析",
+    "teachers": [
+        "王重傑"
+    ],
+    "department": "SU44",
+    "code": "ESU0185",
+    "credit": 3,
+    "serial": 3033,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 5,
+            "from": 7,
+            "to": 9,
+            "campus": "公館",
+            "classroom": "理圖002"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎限大二大三大四修習",
+    "form_s": "2",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程介紹地球與大氣科學常用的各類數值方法，為使用電腦進行數值計算之基礎課程。內容包括數值方法的基本原理、誤差的產生與傳播、方程式求根與定點疊代、內插法、函數的近似、數值微分與數值積分、求解線性聯立方程組、微分方程等。本課程主要在提供同學數值方法之認識，為未來數值預報相關課程之基礎。\nThe objectives of this course are to provide the basic knowledge about the theory and application of numerical methods, as one of the fundamental courses for the subject of numerical computation in Earth and atmospheric sciences. Course content: Chapter 1: Taylor polynomials, Chapter 2: The expression of numbers in computers, Chapter 3: Errors, Chapter 4: Root finding, Chapter 5: Interpolation, Chapter 6: Approximation of functions, Chapter 7: Numerical differentiation and integration, Chapter 8: Solutions of a set of linear equations, Chapter 9: Numerical solutions of differential equations.",
+    "goals": [
+        "本課程介紹地球與大氣科學常用的各類數值方法，為使用電腦進行數值計算之基礎課程。"
+    ],
+    "syllabus": "第1章: 泰勒多項式,誤差,多項式求值 (weeks 1-2)\n\n第2章: 計算機的數字表示法 (week 3)\n\n第3章: 誤差,誤差的來源,誤差的傳播 (week 4)\n\n第4章: 方程式求根,半間距法,牛頓法,割線法,假位法,定點疊代 (weeks 5-7)\n\n第5章: 插值法,多項式內插,差分方程內插,內插法之誤差,三次仿樣函數 (weeks 8-9)\n\n第6章: 函數近似,最小平方近似法,柴比雪夫多項式近似 (weeks 10-11)\n\n第7章: 數值積分,梯形法,辛普森法,高階法,高斯積分,數值微分 (weeks 11-13)\n\n第8章: 線性聯立方程的解,消去法,上下矩陣分解,疊代法, 非線性系統 (weeks 14-16)\n\n第9章: 微分方程之數值解,尤拉法,泰勒法,朗奇庫塔法,多階法 (weeks 17-18)",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "教師上課口頭講述，配合課堂實際演練與作業練習。"
+        },
+        {
+            "type": "實驗/實作",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 15,
+            "note": ""
+        },
+        {
+            "type": "期中考",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 35,
+            "note": ""
+        },
+        {
+            "type": "出席",
+            "weight": 15,
+            "note": ""
+        },
+        {
+            "type": "其他",
+            "weight": 5,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

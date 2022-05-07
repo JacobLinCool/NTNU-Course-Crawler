@@ -1,0 +1,614 @@
+[
+    {
+        "year": 110,
+        "term": 1,
+        "name": "社區營養學",
+        "teachers": [
+            "盧立卿"
+        ],
+        "department": "SU51",
+        "code": "NSU0023",
+        "credit": 3,
+        "serial": 3070,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 6,
+                "to": 8,
+                "campus": "公館",
+                "classroom": "Ｓ403"
+            }
+        ],
+        "programs": [
+            "高齡學程"
+        ],
+        "comment": "該課為大四必修課程建議修習過膳食療養（二）、膳食療養實驗（二）、營養評估課程。",
+        "restrict": "",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 1,
+        "name": "營養與癌症",
+        "teachers": [
+            "蘇純立"
+        ],
+        "department": "SU51",
+        "code": "NSC9001",
+        "credit": 3,
+        "serial": 3071,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 12
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 2,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "正305"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎必須先修過【NSU0009  生物化學】",
+        "form_s": "",
+        "classes": "9",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 1,
+        "name": "體育",
+        "teachers": [
+            "林雯雯"
+        ],
+        "department": "SU51",
+        "code": "00UP001",
+        "credit": 1,
+        "serial": 3072,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 5,
+                "from": 3,
+                "to": 4,
+                "campus": "公館",
+                "classroom": "操場二"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "允許重複修",
+        "form_s": "1",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 1,
+        "name": "食物學",
+        "teachers": [
+            "蔡帛蓉"
+        ],
+        "department": "SU51",
+        "code": "NSU0001",
+        "credit": 3,
+        "serial": 3073,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 6,
+                "to": 8,
+                "campus": "本部",
+                "classroom": "誠202"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "1",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 1,
+        "name": "食物學實驗",
+        "teachers": [
+            "蔡帛蓉"
+        ],
+        "department": "SU51",
+        "code": "NSU0002",
+        "credit": 1,
+        "serial": 3074,
+        "group": "",
+        "quota": {
+            "limit": 33,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 9,
+                "to": 10,
+                "campus": "本部",
+                "classroom": "勤001"
+            }
+        ],
+        "programs": [],
+        "comment": "因選課人數已屆教室容量，調降限修人數",
+        "restrict": "◎限本系(含雙主修)修習◎必須先修過【NSU0001  食物學】",
+        "form_s": "1",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 1,
+        "name": "食物製備原理",
+        "teachers": [
+            "沈賜川"
+        ],
+        "department": "SU51",
+        "code": "NSU0026",
+        "credit": 1,
+        "serial": 3075,
+        "group": "",
+        "quota": {
+            "limit": 30,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 6,
+                "to": 6,
+                "campus": "本部",
+                "classroom": "勤001"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "1",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 1,
+        "name": "食物製備實驗",
+        "teachers": [
+            "沈賜川"
+        ],
+        "department": "SU51",
+        "code": "NSU0045",
+        "credit": 1,
+        "serial": 3076,
+        "group": "",
+        "quota": {
+            "limit": 30,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 7,
+                "to": 9,
+                "campus": "本部",
+                "classroom": "勤001"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "1",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 1,
+        "name": "營養學（二）",
+        "teachers": [
+            "吳啟豪"
+        ],
+        "department": "SU51",
+        "code": "NSU0007",
+        "credit": 2,
+        "serial": 3077,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 3,
+                "to": 4,
+                "campus": "公館",
+                "classroom": "Ｅ301"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎必須先修過【NSU0006  營養學（一）】",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 1,
+        "name": "營養學實驗",
+        "teachers": [
+            "吳啟豪"
+        ],
+        "department": "SU51",
+        "code": "NSU0008",
+        "credit": 1,
+        "serial": 3078,
+        "group": "",
+        "quota": {
+            "limit": 40,
+            "additional": 12
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 3,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "勤001"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎必須先修過【NSU0003  人體生理學】、【NSU0004  有機化學】",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 1,
+        "name": "生物化學",
+        "teachers": [
+            "李桂楨",
+            "蘇銘燦"
+        ],
+        "department": "SU51",
+        "code": "NSU0009",
+        "credit": 3,
+        "serial": 3079,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 6,
+                "to": 8,
+                "campus": "公館",
+                "classroom": "綜合館B1小型演講廳"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎必須先修過【NSU0004  有機化學】、【CMU0178  普通化學乙】",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 1,
+        "name": "生物化學實驗",
+        "teachers": [
+            "李桂楨",
+            "蘇銘燦"
+        ],
+        "department": "SU51",
+        "code": "NSU0010",
+        "credit": 2,
+        "serial": 3080,
+        "group": "",
+        "quota": {
+            "limit": 30,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 5,
+                "from": 8,
+                "to": 10,
+                "campus": "公館",
+                "classroom": "Ｄ313"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 1,
+        "name": "食品衛生與安全",
+        "teachers": [
+            "蔡帛蓉"
+        ],
+        "department": "SU51",
+        "code": "NSU0014",
+        "credit": 3,
+        "serial": 3081,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 6,
+                "to": 8,
+                "campus": "公館",
+                "classroom": "Ｓ403"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 1,
+        "name": "營養評估",
+        "teachers": [
+            "葉宛儒"
+        ],
+        "department": "SU51",
+        "code": "NSU0015",
+        "credit": 2,
+        "serial": 3082,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 6,
+                "to": 7,
+                "campus": "本部",
+                "classroom": "正404"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎必須先修過【NSU0007  營養學（二）】、【NSU0008  營養學實驗】",
+        "form_s": "3",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 1,
+        "name": "膳食療養（一）",
+        "teachers": [
+            "葉宛儒"
+        ],
+        "department": "SU51",
+        "code": "NSU0016",
+        "credit": 3,
+        "serial": 3083,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 6,
+                "to": 8,
+                "campus": "公館",
+                "classroom": "Ｓ602"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎必須先修過【NSU0007  營養學（二）】",
+        "form_s": "3",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 1,
+        "name": "膳食療養實驗（一）",
+        "teachers": [
+            "葉宛儒"
+        ],
+        "department": "SU51",
+        "code": "NSU0017",
+        "credit": 1,
+        "serial": 3084,
+        "group": "",
+        "quota": {
+            "limit": 40,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 2,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "勤001"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎必須先修過【NSU0007  營養學（二）】",
+        "form_s": "3",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 1,
+        "name": "團體膳食管理",
+        "teachers": [
+            "沈賜川"
+        ],
+        "department": "SU51",
+        "code": "NSU0018",
+        "credit": 2,
+        "serial": 3085,
+        "group": "",
+        "quota": {
+            "limit": 30,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 6,
+                "to": 7,
+                "campus": "本部",
+                "classroom": "正403"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎必須先修過【NSU0026  食物製備原理】、【NSU0011  膳食計畫】",
+        "form_s": "3",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 1,
+        "name": "團體膳食管理實驗",
+        "teachers": [
+            "沈賜川"
+        ],
+        "department": "SU51",
+        "code": "NSU0019",
+        "credit": 1,
+        "serial": 3086,
+        "group": "",
+        "quota": {
+            "limit": 30,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 2,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "正403"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎必須先修過【NSU0011  膳食計畫】◎必須先修過【NSU0025  食物製備】、【NSU0045  食物製備實驗】其中一門",
+        "form_s": "3",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 1,
+        "name": "營養生化（二）",
+        "teachers": [
+            "吳啟豪"
+        ],
+        "department": "SU51",
+        "code": "NSU0038",
+        "credit": 3,
+        "serial": 3087,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 14
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 6,
+                "to": 8,
+                "campus": "公館",
+                "classroom": "Ｓ402"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎必須先修過【NSU0007  營養學（二）】、【NSU0009  生物化學】",
+        "form_s": "3",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 1,
+        "name": "臨床營養",
+        "teachers": [
+            "蘇純立"
+        ],
+        "department": "SU51",
+        "code": "NSU0024",
+        "credit": 2,
+        "serial": 3088,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 8,
+                "to": 9,
+                "campus": "本部",
+                "classroom": "樸202"
+            }
+        ],
+        "programs": [],
+        "comment": "該課為大四必修課程建議修習過營養學（二）課程。",
+        "restrict": "",
+        "form_s": "4",
+        "classes": "",
+        "dept_group": ""
+    }
+]

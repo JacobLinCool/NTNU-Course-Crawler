@@ -1,0 +1,97 @@
+{
+    "year": 110,
+    "term": 1,
+    "name": "文字探勘",
+    "teachers": [
+        "何宗武"
+    ],
+    "department": "OM56",
+    "code": "IAM0101",
+    "credit": 3,
+    "serial": 2507,
+    "group": "",
+    "quota": {
+        "limit": 35,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 5,
+            "from": 2,
+            "to": 4,
+            "campus": "本部",
+            "classroom": "雲608"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程不開放上修",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程涵蓋文字探勘相關的理論與實作，主要內容包括多變量統計、資料探勘及知識地圖等。",
+    "goals": [
+        "瞭解文字探勘如何協助企業的知識管理",
+        "瞭解文字的本質，以及取得、呈現與使用的流程",
+        "瞭解文字探勘相關的資訊科技技術",
+        "運用軟體進行文字探勘"
+    ],
+    "syllabus": "【授課方式：18週】\n\n1. Overview of Text-Mining\n\n2. The Nature of Text & Software (R, Python & Colab)\n\n3. Text analytics in R-- Tidyverse in a nutshell\n\n4.  R 字串和資料清理 String in R and Data cleaning\n\n5.  文字量化入門 Text quantification and introductory data mining methods\n\n6.  文字分類法與探勘工具 Data mining methods and texts classification\n\n7.  文字探勘分析之文本篇 Analytics of text from books and files (1/2)\n\n8.   文字探勘分析之文本篇 Analytics of text from books and files (2/2)\n\n9.  文字探勘分析之爬蟲篇 Analytics of text from web and social networks(1/2)\n\n10\\. 文字探勘分析之爬蟲篇  Analytics of text from web and social networks(2/2)\n\n11. 期中考 Midterm\n\n12. 主題模型 Topic model(1/2)\n\n13.  主題模型 Topic model(2/2)\n\n14.  文字視覺化 Visualization of text data(1/2)\n\n15.  文字視覺化 Visualization of text data(2/2)\n\n16.  期末考 Final\n\n17.  分組報告 Presentation\n\n18.  Final Presentation",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "理論與觀念講述"
+        },
+        {
+            "type": "討論法",
+            "note": "個案討論"
+        },
+        {
+            "type": "合作學習",
+            "note": "團隊作業與報告"
+        },
+        {
+            "type": "實驗/實作",
+            "note": "軟體操作 R & Python"
+        },
+        {
+            "type": "專題研究",
+            "note": "期末專題報告"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 10,
+            "note": "依據主題分派作業"
+        },
+        {
+            "type": "期末考",
+            "weight": 30,
+            "note": "瞭解學生整體課程的吸收程度"
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 10,
+            "note": "啟發學生思考"
+        },
+        {
+            "type": "出席",
+            "weight": 5,
+            "note": "鼓勵學生參與課程"
+        },
+        {
+            "type": "報告",
+            "weight": 20,
+            "note": "課堂主題分組報告"
+        },
+        {
+            "type": "專題",
+            "weight": 25,
+            "note": "學習成果展示"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

@@ -1,0 +1,90 @@
+{
+    "year": 107,
+    "term": 1,
+    "name": "量化研究方法",
+    "teachers": [
+        "張瓅勻"
+    ],
+    "department": "IM84",
+    "code": "CLM0068",
+    "credit": 3,
+    "serial": 1380,
+    "group": "B",
+    "quota": {
+        "limit": 30,
+        "additional": 0
+    },
+    "schedule": [
+        {
+            "day": 3,
+            "from": 2,
+            "to": 4,
+            "campus": "本部",
+            "classroom": "教室自排"
+        }
+    ],
+    "programs": [],
+    "comment": "上課教室：綜10樓華語系教室",
+    "restrict": "◎課程不開放上修",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "This course aims at equipping students with the skills to use quantitative research methods that are adopted in educational research. The teaching contents include the data collection methods, survey research, experimental research, quasi-experimental research, design-based research, etc. Additionally, related research papers will be discussed to increase students’ understanding about the implementation of the introduced research methods in empirical studies.",
+    "goals": [
+        "Develop students’ ability to read articles related to research design in research on digital Chinese language teaching and learning",
+        "Enhance students’ ability to conduct research in digital Chinese language teaching through technologies"
+    ],
+    "syllabus": "週次\n\n主題\n\n1\n\n課程介紹與相關概念解說：何謂「研究」？為何要進行研究？\n\n2\n\n研究方法的哲學基礎：「問題意識」的形成、典範轉移\n\n3\n\n理論的定義與角色功能：實證主義／後實證主義\n\n4\n\n科學研究的組成要素：假設、自變項、依變項、抽樣、統計推論\n\n5\n\n調查法1：問卷設計、量表與測驗、信度、效度\n\n6\n\n調查法2：研究倫理、研究場域與推論議題\n\n7\n\n實驗法1：基本實驗設計、Eprime簡介\n\n8\n\n實驗法2：準實驗設計與實驗控制\n\n9\n\n語言/閱讀心理學常用之實驗派典：介紹與體驗\n\n10\n\n期中考\n\n11\n\n統計基本概念1：描述統計與抽樣分配\n\n12\n\n統計基本概念2：假設考驗與推論統計\n\n13\n\nSPSS簡介與基本操作、資料處理實作\n\n14\n\n變異數分析基本概念、單因子變異數分析\n\n15\n\n二因子變異數分析（獨立、相依樣本、混合設計）\n\n16\n\n相關檢定與簡單迴歸分析\n\n17\n\n多元迴歸分析\n\n18\n\n期末考",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "教師講述量化研究方法的重要概念，並鼓勵學生參與演講，瞭解特定主題之理論與應用。"
+        },
+        {
+            "type": "討論法",
+            "note": "課程中會安排討論議題，激勵學生討論、思辨，也鼓勵學生積極發問以澄清疑問。"
+        },
+        {
+            "type": "合作學習",
+            "note": "透過分組於課中進行討論、課後完成作業，同儕相互學習。"
+        },
+        {
+            "type": "實驗/實作",
+            "note": "教師介紹實驗軟體，引導學生設計基本實驗並參與實驗。"
+        },
+        {
+            "type": "媒體融入教學",
+            "note": "教師使用Moodle數位學習平台與學生分享資源、討論，並利用實驗展示、簡報、影片等多媒體輔助教學。"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 20,
+            "note": "形成性評量：搭配主題進行小組任務與合作學習"
+        },
+        {
+            "type": "期中考",
+            "weight": 30,
+            "note": "總結性評量：期中考前所介紹之理論與實驗設計"
+        },
+        {
+            "type": "期末考",
+            "weight": 30,
+            "note": "總結性評量：區別不同統計方法的適用情境"
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 10,
+            "note": "課堂討論與參與之貢獻度"
+        },
+        {
+            "type": "出席",
+            "weight": 10,
+            "note": "出缺席（依學校規定處理之）"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

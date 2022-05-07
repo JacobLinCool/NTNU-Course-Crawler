@@ -1,0 +1,75 @@
+{
+    "year": 110,
+    "term": 2,
+    "name": "編譯系統設計",
+    "teachers": [
+        "黃冠寰"
+    ],
+    "department": "SU47",
+    "code": "CSC0004",
+    "credit": 3,
+    "serial": 2944,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 1,
+            "from": 7,
+            "to": 9,
+            "campus": "公館",
+            "classroom": "Ｓ302"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "9",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程教授變異系統設計之基本理論及實務，課程亦包含重要工具軟體之使用。",
+    "goals": [
+        "使同學瞭解Lex及yacc程式設計的方法",
+        "使同學瞭解編譯系統的實作方法",
+        "使同學瞭解編譯系統的理論",
+        "具有持續追求新知的精神"
+    ],
+    "syllabus": " \n\nWeek 1: Introduction\n\nWeek 2-3: A Simple Compiler\n\nWeek 4-5: Scanning\n\nWeek 6: Lex軟體使用\n\nWeek 7-8: Grammars and Parsing\n\nWeek 9-11: LL(1) Grammars and Parsing\n\nWeek 12-14: LR Parsing\n\nWeek 15-16: Yacc軟體使用",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "使用投影片教授，引導同學研讀教科書內容"
+        },
+        {
+            "type": "實驗/實作",
+            "note": "期末同學要以lex及yacc完成一個編譯系統"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 10,
+            "note": ""
+        },
+        {
+            "type": "期中考",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "專題",
+            "weight": 30,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

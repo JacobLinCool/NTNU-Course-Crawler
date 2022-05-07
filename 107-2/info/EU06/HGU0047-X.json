@@ -1,0 +1,69 @@
+{
+    "year": 107,
+    "term": 2,
+    "name": "食品化學",
+    "teachers": [
+        "林世航"
+    ],
+    "department": "EU06",
+    "code": "HGU0047",
+    "credit": 3,
+    "serial": 819,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 5,
+            "from": 8,
+            "to": 10,
+            "campus": "本部",
+            "classroom": "誠206"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎必須先修過【HGU0007  食物學】、【HGU0008  食物學實驗】、【HGU0005  有機化學】",
+    "form_s": "3",
+    "classes": "",
+    "dept_group": "F",
+    "hours": 3,
+    "description": "食品化學式食品科學與營養科學的專業基礎課程之一。本課程介紹食品化學的基礎理論及其相關的食用知識，內容包括食品六大營養素和食品色香味成分的結構、性質、在食品加工貯藏中的變化與對食品品質和安全性的影響、酵素和食品添加物在食品工業的應用、食品中的有害物質等。",
+    "goals": [
+        "使學生了解食品的組成及化學特性",
+        "熟悉食品在加工過程或儲藏期間的化學反應與變化"
+    ],
+    "syllabus": "課程進度  \n週次 日期 單元主題  \n第1週 Introduction; Chemistry and food chemistry: an overview  \n第2週 Water  \n第3週 Carbohydrates (I)  \n第4週 Carbohydrates (II)  \n第5週 Lipids (I)  \n第6週 Lipids (II)  \n第7週 The 1st Exam  \n第8週 Amino acids  \n第9週 Proteins (I)  \n第10週 Proteins (II)  \n第11週 Vitamins  \n第12週 Mineral  \n第13週 The 2nd Exam    \n第14週 Enzymes  \n第15週 Pigments  \n第16週 Taste compounds  \n第17週 Flavors  \n第18週 The 3th Exam",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "期中考",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "出席",
+            "weight": 20,
+            "note": ""
+        },
+        {
+            "type": "其他",
+            "weight": 20,
+            "note": "報告"
+        }
+    ],
+    "prerequisite": "◎必須先修過【HGU0007  食物學】、【HGU0008  食物學實驗】、【HGU0005  有機化學】",
+    "general_core": []
+}

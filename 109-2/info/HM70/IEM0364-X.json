@@ -1,0 +1,99 @@
+{
+    "year": 109,
+    "term": 2,
+    "name": "電腦輔助設計與分析",
+    "teachers": [
+        "周明"
+    ],
+    "department": "HM70",
+    "code": "IEM0364",
+    "credit": 3,
+    "serial": 4551,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 5,
+            "from": 3,
+            "to": 5,
+            "campus": "本部",
+            "classroom": "教室自排"
+        }
+    ],
+    "programs": [],
+    "comment": "上課教室：機械大樓4樓工程設計實驗室",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程講授電腦輔助設計/分析所需之理論以及相關應用系統，培養學生運用這些電腦輔助工程技術進行產品開發或工程系統規劃，為使理論與實務互相結合，授課過程中亦搭配實作訓練，讓學生進一步瞭解電腦輔助設計/分析在產業上之應用。",
+    "goals": [
+        "瞭解電腦輔助設計/分析所需之理論以及相關應用系統",
+        "培養學生運用這些電腦輔助工程技術進行產品開發或工程系統規劃",
+        "讓學生進一步瞭解電腦輔助設計/分析在產業上之應用"
+    ],
+    "syllabus": "一、教學目標：   \n本課程講授電腦輔助設計/分析所需之理論以及相關應用系統，培養學生運用這些電腦輔助工程技術進行產品開發或工程系統規劃，為使理論與實務互相結合，授課過程中亦搭配實作訓練，讓學生進一步瞭解電腦輔助設計/分析在產業上之應用。   \n  \n二、教材內容：   \n1.Introduction to Computer-Aided Design   \n2.Representing Objects and Relations   \n3.Graphical Techniques   \n4.Wire-frame Modeling   \n5.Surface Modeling   \n6.Geometry of Curves   \n7.Geometry of Surfaces   \n8.Solid Modeling   \n9.Finite Element Analysis   \n10.Kinematic Analysis   \n11.Realism in Computer Graphics   \n12.Geometry in Motion   \n13.Shape Grammars and Generation of Designs   \n14.Integrating Databases and Data Transfer",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": ""
+        },
+        {
+            "type": "問題解決教學",
+            "note": ""
+        },
+        {
+            "type": "合作學習",
+            "note": ""
+        },
+        {
+            "type": "實驗/實作",
+            "note": ""
+        },
+        {
+            "type": "媒體融入教學",
+            "note": ""
+        },
+        {
+            "type": "專題研究",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "期末考",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 10,
+            "note": ""
+        },
+        {
+            "type": "出席",
+            "weight": 10,
+            "note": ""
+        },
+        {
+            "type": "報告",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "專題",
+            "weight": 20,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

@@ -1,0 +1,60 @@
+{
+    "year": 110,
+    "term": 2,
+    "name": "實變分析（二）",
+    "teachers": [
+        "孟悟理"
+    ],
+    "department": "SU40",
+    "code": "MAC0088",
+    "credit": 3,
+    "serial": 2714,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 5,
+            "from": 2,
+            "to": 4,
+            "campus": "公館",
+            "classroom": "數學館M210"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "9",
+    "dept_group": "",
+    "hours": 3,
+    "description": "介紹高等分析理論，作為進階分析學之必備基礎",
+    "goals": [
+        "培養數學專業能力",
+        "銜接高等分析課程",
+        "提升抽象思考層次",
+        "以高觀點詮釋數學與其他學科連結"
+    ],
+    "syllabus": "**Course outline** In part I, locally compact Hausdorff spaces, measures and measurable sets (including numerical summation and measurable hulls), Borel sets (Borel families, the space of sequences of positive integers, images of Borel sets, and Borel functions), Borel regular measures (approximation by closed sets, nonmeasurable sets, Radon measures, and their images), and measurable functions (approximation theorems and spaces of measurable functions) were treated. In the present part II, after establishing the necessary background on tensor products and functional analysis, Lebesgue integration (limit theorems and Lebesgue spaces), linear functionals (lattices of functions, Daniell integrals, linear functionals on Lebesgue spaces, Riesz’s representation theorem, curve length, and Riemann-Stieltjes integration), and product measures (Fubini’s theorem and Lebesgue measure) shall be covered; some of the material on functional analysis will be relegated to the self-study phase.\n\n**Details of the course** The main reference text will be the instructor’s weekly updated lecture notes written in LaTeX. They are based on and expand the relevant parts of Federer’s treatise \\[Fed69\\] and, concerning topology, Kelley’s book \\[Kel75\\]. Grading is solely determined by individual oral examinations conducted in English; to be admitted to these examinations, at least 50% of the possible credits need to be obtained in weekly exercises. _The course will be accompanied by a tutorial conducted in Mandarin_ to review these exercises and to provide assistance with the study of the course and repetition of relevant prerequisites (see below). The course is conducted in the format 16 weeks of lectures plus 2 weeks of self-study.\n\n**Prerequisites** Part II assumes basic knowledge of locally compact Hausdorff spaces and a good knowledge of general measure theory; the lecture notes of Part I (see \\[Men22\\]) cover this material.\n\n**Course material** For Part I, lecture notes, videos, and further information are available for download from <[https://cantor.math.ntnu.edu.tw/nc/index.php/s/NFwnQ3GLkYnEe87](https://cantor.math.ntnu.edu.tw/nc/index.php/s/NFwnQ3GLkYnEe87)\\>; the password is available from [Cathy Li](https://cantor.math.ntnu.edu.tw/index.php/en/staff-en/). Similar material will be made available during Part II.\n\n**Tutorial in Mandarin** This weekly tutorial starts in the second week of the lecture period.  Its time will be discussed with the participants in the first lecture.\n\n**Format** The lectures are conducted in person; video recordings thereof will be available for download.  The tutorial is conducted online.",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "Lecture in English with weekly updated lecture notes (LaTeX) in English."
+        },
+        {
+            "type": "問題解決教學",
+            "note": "Weekly exercises in English; tutorial in Mandarin."
+        }
+    ],
+    "grading": [
+        {
+            "type": "期末考",
+            "weight": 100,
+            "note": "Individual oral exam conducted in English determining pass or fail as well as the grade for the course.  To be eligible to take the oral exam, a student needs to have obtained at least 50% of the maximal score in the weekly exercises to be submitted in English."
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

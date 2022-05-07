@@ -1,0 +1,69 @@
+{
+    "year": 108,
+    "term": 2,
+    "name": "計量財務分析",
+    "teachers": [
+        "楊智元"
+    ],
+    "department": "ZU84",
+    "code": "PGUB015",
+    "credit": 3,
+    "serial": 3106,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 1,
+            "from": 10,
+            "to": 12,
+            "campus": "本部",
+            "classroom": "教402"
+        }
+    ],
+    "programs": [
+        "財金學程"
+    ],
+    "comment": "",
+    "restrict": "",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "以計量經濟學中適用財務的實證知識，採用線性迴歸與相關方法，探討財務理論的報酬與風險之量測，並加強財務計量模型之操作。",
+    "goals": [
+        "使學習者對重要的計量財務分析有一基本的認識，並能將習得的知識應用於日常生活中。"
+    ],
+    "syllabus": "#更新：因應COVID-19疫情，部分課程改為非同步錄影或同步線上視訊等，請同學注意公告，謝謝。\n\n\\--------------------------------------------------------\n\n詳細內容請參閱PDF檔，謝謝。\n\n第一週：課程介紹與計量經濟學導論\n\n第二週：經濟與財務資料的介紹、蒐集與整理\n\n第三週：簡單線性迴歸模型：設定與估計\n\n第四週：最小平方估計式的性質\n\n第五週：簡單線性迴歸模型之推論-區間估計、假設檢定\n\n第六週：複迴歸模型（上機操作）\n\n第七週：虛擬變數\n\n第八週：異質變異與自我相關之概念\n\n**第九週：期中考**\n\n第十週：自我迴歸模型AR\n\n第十一週：ARMA Model\n\n第十二週：ARMA模型的估計（上機操作）\n\n第十三週：結構轉變的考量\n\n第十四週：條件異質變異模型-GARCH Model\n\n第十五週：GARCH Family的估計（上機操作）\n\n第十六週：VAR-向量自我迴歸模型\n\n第十七週：共整合與誤差修正模型\n\n**第十八週：期末考**（上機考試）\n\n  \n[教學進度與主題附件](https://ap.itc.ntnu.edu.tw/NtnuFileShare/file.do?action=dl&gno=dd1f8b3a461f4cc5a09c6e368376256f&fno=9ae4b7c922b84a71a8182d91bcf267d0)",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "Lecture"
+        },
+        {
+            "type": "實驗/實作",
+            "note": "上機實作"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 40,
+            "note": ""
+        },
+        {
+            "type": "期中考",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 30,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

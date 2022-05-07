@@ -1,0 +1,82 @@
+{
+    "year": 108,
+    "term": 1,
+    "name": "科學語言",
+    "teachers": [
+        "楊文金"
+    ],
+    "department": "SM45",
+    "code": "SEC8003",
+    "credit": 3,
+    "serial": 2746,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 3,
+            "from": 7,
+            "to": 9,
+            "campus": "公館",
+            "classroom": "教室自排"
+        }
+    ],
+    "programs": [],
+    "comment": "選修同學須具備科學教育或數學教育基礎",
+    "restrict": "◎課程不開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程介紹科學英語的發展過程、科學家從經驗構作科學意義的語言特性，說明並熟悉諸如語法隱喻(grammatical metaphor)、名物化(nominalization)、蘊含序列(implication sequence)、技術建構(technicality construction)等重要的科學語言資源的結構，介紹用以體現科學思維(諸如「定義」、「分類」、「類比」、「形成假說」、「因果關係」等)的語言資源，以及科學論述的各種體裁(genres)，探討科學語言與現行漢語的差異，並將上述各種科學語言特徵應用於中小學科學教科書的解構與重構。",
+    "goals": [
+        "瞭解科學語言的發展過程",
+        "熟悉科學語言的特性與資源",
+        "瞭解科學語言與漢語的差異",
+        "應用科學語言於科學文本解構與重構"
+    ],
+    "syllabus": "週次\n\n主題\n\n附註\n\n1\n\n導論\n\n說明課程大綱\n\n2-4\n\n科學英語的發展史\n\n漢語科學論述的現況及困境\n\n5-8\n\n科學語言的特性：語法隱喻(grammatical metaphor)、名物化(nominalization)、蘊含序列(implication sequence)、技術建構(technicality construction)\n\n9-12\n\n科學思維的資源介紹與熟悉：「定義」、「分類」、「類比」、「形成假說」、「因果關係」等的語言資源。\n\n13-14\n\n科學文本的體裁分析：做科學、描述科學、解釋科學、以及挑戰科學的體裁。\n\n15-16\n\n科學文本的解構與重構：以光合作用、溫度與熱、食物網等文本為例，說明科學文本如何解構與重構，並呈現文本重構對閱讀學習的影響。\n\n17-18\n\n同學作品發展、討論與分享。",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "陳述與說明重要的理論"
+        },
+        {
+            "type": "討論法",
+            "note": "同儕與師生之間針對特定與非特定議題進行多方詰問"
+        },
+        {
+            "type": "問題解決教學",
+            "note": "收集與體驗科學語言的現況與問題，並尋求解決之道"
+        },
+        {
+            "type": "合作學習",
+            "note": "同儕組成小組共同探討科學語言、科學文本特特，並進而解構與重構文本"
+        },
+        {
+            "type": "實驗/實作",
+            "note": "實際解構與重構科學文本"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 20,
+            "note": "每週例行作業"
+        },
+        {
+            "type": "期末考",
+            "weight": 50,
+            "note": "期末書面及口頭報告"
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 30,
+            "note": "課堂出席及參與情形"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

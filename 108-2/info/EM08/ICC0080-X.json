@@ -1,0 +1,79 @@
+{
+    "year": 108,
+    "term": 2,
+    "name": "數位教學設計",
+    "teachers": [
+        "陳明溥"
+    ],
+    "department": "EM08",
+    "code": "ICC0080",
+    "credit": 3,
+    "serial": 475,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 7,
+            "to": 9,
+            "campus": "本部",
+            "classroom": "教1011"
+        }
+    ],
+    "programs": [
+        "學習與資訊學程",
+        "大數據學程"
+    ],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "There are two major goals of this course: a) to foster an comprehensive understanding of the knowledge domain of instructional design for e-Learning, and b) to acquire expertise in designing and conducting instructional design for e-Learning courseware.",
+    "goals": [
+        "foster an understanding of the fundamental principles of learning and memory."
+    ],
+    "syllabus": "1.         Introduction to Instructional Systems Design\n\n2.         Conducting the Needs Assessment\n\n3.         Defining the Instructional Goal\n\n4.         The Learner and the Environment\n\n5.         Learning Outcomes & The Events of Instruction\n\n6.         Information Processing Analysis\n\n7.         Prerequisite Skills Analysis\n\n8.         Writing Instructional Objectives\n\n9.         Creating Assessment Approaches\n\n10.      Instructional Strategies\n\n11.      Delivery and Management\n\n12.      Production\n\n13.      Formative & Summative Evaluation\n\n14.      The Future of ISD",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "教師將就系統性教學設計模式之各項重點內容進行介紹"
+        },
+        {
+            "type": "討論法",
+            "note": "修課同學們將分組就系統性教學設計模式之各項重點內容進行討論及報告"
+        },
+        {
+            "type": "實驗/實作",
+            "note": "修課同學將就系統性教學設計模式之各項重點進行專題實作"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 30,
+            "note": "系統性教學設計模式各項重點之實作作業"
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 20,
+            "note": "系統性教學設計模式之各項重點內容討論"
+        },
+        {
+            "type": "報告",
+            "weight": 20,
+            "note": "系統性教學設計模式各項重點討論後之報告"
+        },
+        {
+            "type": "專題",
+            "weight": 30,
+            "note": "系統性教學設計專題實作"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

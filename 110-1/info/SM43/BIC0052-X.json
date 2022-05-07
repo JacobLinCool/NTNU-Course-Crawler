@@ -1,0 +1,72 @@
+{
+    "year": 110,
+    "term": 1,
+    "name": "神經藥理學",
+    "teachers": [
+        "呂國棟"
+    ],
+    "department": "SM43",
+    "code": "BIC0052",
+    "credit": 3,
+    "serial": 2705,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 2,
+            "to": 4,
+            "campus": "公館",
+            "classroom": "Ｃ303B"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程不開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "簡介神經藥理學之基礎知識，如藥物在中樞神經系統中的吸收、分佈及代謝等，並將講授藥物動力學的基本觀念及計算方法，最後會計對常用的藥物，例如作用在中樞神經系統藥物、治療精神疾病的藥物、神經退化性疾病治療藥物及常用的神經藥理學研究方法及實驗設計，作詳細的介紹。",
+    "goals": [
+        "簡介神經藥理學之基礎知識"
+    ],
+    "syllabus": "Holiday\n\nThe anatomy of nervous system\n\nNeural conduction & synaptic transmission (1)\n\nNeural conduction & synaptic transmission (2)\n\nHoliday\n\nPharmacokinetic aspects of neuropharmacology\n\nResearch methods of neuropharmacology\n\nCatecholamines\n\nIndolamine\n\nAcetylchomine\n\nExcitatory and inhibitory amino acid\n\nNeuropeptides\n\nMiscellaneous neurotranmitters\n\nDrug treatment of psychiatric disease (1)\n\nDrug treatment of psychiatric disease (2)\n\nAlzheimer\\`s disease and stroke. Possible biochemical causes and treatment strategies.\n\nNeuropharmacology of Drug abuse.\n\nFinal Exam",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "媒體融入教學",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 20,
+            "note": "約3次"
+        },
+        {
+            "type": "期中考",
+            "weight": 35,
+            "note": "筆試"
+        },
+        {
+            "type": "出席",
+            "weight": 10,
+            "note": ""
+        },
+        {
+            "type": "報告",
+            "weight": 35,
+            "note": "期末報告"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

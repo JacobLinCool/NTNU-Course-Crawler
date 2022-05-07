@@ -1,0 +1,86 @@
+{
+    "year": 110,
+    "term": 2,
+    "name": "普通化學甲（二）",
+    "teachers": [
+        "劉沂欣",
+        "李祐慈"
+    ],
+    "department": "SU42",
+    "code": "CMU0177",
+    "credit": 3,
+    "serial": 2840,
+    "group": "A",
+    "quota": {
+        "limit": 70,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 2,
+            "to": 4,
+            "campus": "公館",
+            "classroom": "Ｅ302"
+        }
+    ],
+    "programs": [],
+    "comment": "化一甲",
+    "restrict": "◎課程開放上修",
+    "form_s": "1",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "Understand Basic Chemical Principles.",
+    "goals": [
+        "To provide students with a solid background for in the field of chemistry.",
+        "To train students apply the chemical skills to understand the phenomenon and solve the important problems in the nature science.",
+        "3\tTo help students recognize new technologies and understand the detail chemistry behind them."
+    ],
+    "syllabus": "**教學內容**\n\n**Chemical Equilibria** (2 weeks for Chapter 14, except 14.3 and 14.7):  \n\n1\\. Nature of chemical equilibrium.\n\n2\\. The Law of Mass Action.\n\n3\\. Equilibrium constants.\n\n4\\. Predicting the direction of reactions.\n\n5\\. Equilibrium calculations.\n\n6\\. Le Chatelier\\`s principle.\n\n  \n\n**Acid-Base Equilibria** (3 weeks for Chapter 15): \n\n1\\. Classification and properties of acids and bases\n\n2\\. strong and weak acids and bases .\n\n3\\. The autoionization of water.\n\n4\\. The pH scale.\n\n5\\. The pH of weak acids, bases and buffers.\n\n6\\. Titrations and indicators.\n\n7\\. Polyprotic acids. \n\n  \n\n**Solubility Equilibria** (1 week for Chapter 16):\n\n1\\. Solubility products. \n\n2\\. Common ion effect.\n\n3\\. Precipitation and selective precipitation.\n\n  \n\n**Thermodynamics, Part 1** (2 weeks for Chapter 12): \n\n1\\. Heat, work and energy\n\n2\\. The first law; systems.\n\n3\\. State functions, path functions, cycles and processes.\n\n4\\. Calorimetry.\n\n5\\. Enthalpy.\n\n6\\. Heat capacity.\n\n7\\. Enthalpies of physical and chemical changes. \n\n  \n\n**Thermodynamics, Part 2** (3 weeks for Chapter 13, 14.3, 14.7): \n\n1\\. Nature of spontaneous processes.\n\n2\\. entropy and spontaneity (the second law).\n\n3\\. The microscopic interpretation of entropy.\n\n4\\. Entropy changes in physical and chemical processes.\n\n5\\. The third law.\n\n6\\. Standard molar entropies.\n\n7\\. Gibbs free energy.\n\n8\\. The thermodynamic description of equilibrium.\n\n9\\. Temperature dependence of equilibrium constants.\n\n  \n\n**Electrochemistry** (2 weeks for Chapter 17): \n\n1\\. Galvanic cells.\n\n2\\. Gibbs free energy and cell voltage.\n\n3\\. Concentration effects and the Nernst equation.\n\n4\\. pH meters.\n\n5\\. Batteries. \n\n6\\. Fuel cells.\n\n7\\. Corrosion.\n\n8\\. Electrolysis.\n\n  \n\n**Chemical Kinetics** (2 weeks for Chapter 18): \n\n1\\. Rates of chemical reactions. \n\n2\\. Rate laws.\n\n3\\. Reaction mechanisms.\n\n4\\. The effect of temperature on reaction rates.\n\n5\\. Collision theory.\n\n6\\. Catalysis and catalysts.\n\n  \n\n**Physical Equilibria** (2 weeks for Chapters 10, 11): \n\n1\\. Vapor pressure of pure liquids.\n\n2\\. The variation of vapor pressure with temperature.\n\n3\\. Freezing and melting.\n\n4\\. Phase diagrams.\n\n5\\. Solutions and solubility.\n\n6\\. Colligative properties.\n\n7\\. Binary liquid mixtures.",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "把上課內容結合故事性、實事性、未來性輔助教材來講述"
+        },
+        {
+            "type": "討論法",
+            "note": "採用夜間群組討論"
+        },
+        {
+            "type": "問題解決教學",
+            "note": "每週課堂休息時間時開放學習問答 (office hours)：每週三、五早上"
+        },
+        {
+            "type": "合作學習",
+            "note": "採小組學習"
+        },
+        {
+            "type": "媒體融入教學",
+            "note": "以影片、實作來吸引學生對化學課程內容的興趣"
+        },
+        {
+            "type": "其他",
+            "note": "http://epaper.heeact.edu.tw/archive/2013/01/01/5915.aspx"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 30,
+            "note": "每次課後指定、下次上課第二堂課下課前小考。總分累記、可超過20％"
+        },
+        {
+            "type": "期中考",
+            "weight": 40,
+            "note": "共兩次。所教授範圍。暫定4/11及5/16（二）於上課時段"
+        },
+        {
+            "type": "期末考",
+            "weight": 30,
+            "note": "所有上學期範圍。暫定6/20（二）於上課時段"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

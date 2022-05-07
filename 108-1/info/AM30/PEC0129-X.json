@@ -1,0 +1,76 @@
+{
+    "year": 108,
+    "term": 1,
+    "name": "生物工程與生物力學",
+    "teachers": [
+        "張家豪"
+    ],
+    "department": "AM30",
+    "code": "PEC0129",
+    "credit": 3,
+    "serial": 33,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 4,
+            "from": 7,
+            "to": 9,
+            "campus": "公館",
+            "classroom": "研001"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "瞭解何謂生物醫學工程及其重要性，並熟悉生物力學所扮演角色。",
+    "goals": [
+        "..."
+    ],
+    "syllabus": "1\\. 解剖生理學\n\n2\\. 臨床工程\n\n3\\. 硬組織生物力學\n\n4\\. 軟組織生物力學\n\n5\\. 牙科生物力學\n\n6\\. 人體動作生物力學\n\n7\\. 生醫材料\n\n8\\. 軟組織再生\n\n9\\. 硬組織再生\n\n10\\. 奈米生醫科技",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "講述"
+        },
+        {
+            "type": "討論法",
+            "note": "分組討論"
+        },
+        {
+            "type": "問題解決教學",
+            "note": "分組討論"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 20,
+            "note": "回家作業"
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 30,
+            "note": "參與討論情形"
+        },
+        {
+            "type": "出席",
+            "weight": 20,
+            "note": "出席狀況"
+        },
+        {
+            "type": "報告",
+            "weight": 30,
+            "note": "期末報告"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

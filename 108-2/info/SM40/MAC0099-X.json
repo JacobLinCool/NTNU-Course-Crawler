@@ -1,0 +1,73 @@
+{
+    "year": 108,
+    "term": 2,
+    "name": "組合專題（二）",
+    "teachers": [
+        "游森棚"
+    ],
+    "department": "SM40",
+    "code": "MAC0099",
+    "credit": 3,
+    "serial": 2546,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 1,
+            "from": 10,
+            "to": 12,
+            "campus": "公館",
+            "classroom": "數學館M210"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "此為進階課程, 主題為對稱函數與相關理論. 修課學生需有研所組合I/II 與大學部進階代數之基礎. 本課程為研究論文導向, 每個學生會指定若干篇前研學術論文研讀並報告.",
+    "goals": [
+        "能解決計數的應用問題",
+        "能運用組合數學解決相關領域的問題",
+        "轉換數學模式的能力"
+    ],
+    "syllabus": "此為進階課程, 主題為對稱函數與相關理論. 修課學生建議需有研所組合I/II 與大學部進階代數之基礎. 本課程為研究論文導向, 每個學生會指定若干篇前研學術論文研讀並報告.\n\nThis is an advanced topic course on enumerative/algebraic combinatorics. We will focus around the symmetric functions and relative ones. The following preliminaries are strongly recommended (Graduate combinatorics I/II, Undergraduate advanced algebra) before taking this course.  This course is research paper-oriented. Each student will be assigned research papers for studying and delivering oral report. \n\n\\[Notice for the Wuhan epidemic, aka nCov19\\]\n\nTo cope with the 16-week semester, we will accelerate our pace. However the materials are the same, which means whoever taking this course is anticipated to work harder.",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": ""
+        },
+        {
+            "type": "合作學習",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "課堂討論參與",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "出席",
+            "weight": 20,
+            "note": ""
+        },
+        {
+            "type": "報告",
+            "weight": 50,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

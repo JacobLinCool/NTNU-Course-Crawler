@@ -1,0 +1,65 @@
+{
+    "year": 108,
+    "term": 2,
+    "name": "天文中的物理",
+    "teachers": [
+        "陳林文"
+    ],
+    "department": "SU44",
+    "code": "ESU0201",
+    "credit": 3,
+    "serial": 2877,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 3,
+            "from": 7,
+            "to": 9,
+            "campus": "公館",
+            "classroom": "Ｂ413"
+        }
+    ],
+    "programs": [],
+    "comment": "中階課程，適合大三以上學生修習。",
+    "restrict": "◎限大三大四修習◎必須先修過【ESU0178  天文學（含實習）】",
+    "form_s": "3",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "This course is designed to introduce students to fundamental physical concepts and their applications in Astronomy. Although this course will cover a wide range of astrophysics, it will be kept close to practical consideration.  The study of astronomical objects, that are planets, stars, galaxies and the Universe itself, require a good understanding of the fundamental physics, from the classical concepts to the modern ones.   This course will provide an overview of the basics in Physics and how it is applied to understand Astronomy. Qualitative lectures will be supported by quantitative exercise during the lectures and under the form of homework. Midterm and final exams will assess the work of the students.",
+    "goals": [
+        "To introduce students to fundamental physical concepts and their applications in Astronomy."
+    ],
+    "syllabus": "Weekly topics\n\n1.  lecture introduction -- co-evolution of physics and astronomy\n2.  Overview of topics in astrophysics, units, physics & observations\n3.  From kepler’s laws to Newtonian mechanics: Orbital motion in planetary systems\n4.  Classical astrophysical problem - binary systems\n5.  Potential energy and stellar systems: star clusters and galaxies\n6.  dark matter: matter distribution in galaxies and large scale structure\n7.  Compact objects and modern physics in astronomy\n8.  midterm exam\n9.  Review of midterm exam / Tidal force and accretion phenomena\n10.  instability and structure formation – thermal pressure and gravitational force\n11.  Interstellar & star formation\n12.  Stellar structure and evolution - HR diagram\n13.  Nature of light: blackbody radiation and continuum radiation\n14.  Atomic physics and spectral lines – atmospheres, nebulae, & AGN\n15.  Opacity and atmospheres / Superluminal motion and, lensing / Relativity and cosmological models\n16.  final exam\n17.  term project Presentations / Review of final exam\n18.  term project Presentations / Review of final exam",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": ""
+        },
+        {
+            "type": "問題解決教學",
+            "note": ""
+        },
+        {
+            "type": "專題研究",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "其他",
+            "weight": 100,
+            "note": "presentations and term essay, Homework, Mid-term and final exams / quizzes, In-class participation"
+        }
+    ],
+    "prerequisite": "◎必須先修過【ESU0178  天文學（含實習）】",
+    "general_core": []
+}

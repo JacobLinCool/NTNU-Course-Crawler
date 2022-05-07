@@ -1,0 +1,82 @@
+{
+    "year": 109,
+    "term": 2,
+    "name": "預防保健服務與實務",
+    "teachers": [
+        "李子奇"
+    ],
+    "department": "EU05",
+    "code": "HEC9003",
+    "credit": 3,
+    "serial": 735,
+    "group": "",
+    "quota": {
+        "limit": 38,
+        "additional": 6
+    },
+    "schedule": [
+        {
+            "day": 1,
+            "from": 6,
+            "to": 8,
+            "campus": "本部",
+            "classroom": "教403"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎必須先修過(也可以同時修)【HEU0156  健康促進與衛生教育導論】、【HEU0011  個人衛生】",
+    "form_s": "",
+    "classes": "9",
+    "dept_group": "",
+    "hours": 3,
+    "description": "發展 AI 人工智慧已是時代趨勢，未來若能成功導入AI於預防保健服務業，對於民眾的健康會帶來正向影響。「數據資料」是 AI 人工智慧應用發展最為重要的基礎材料；開發匯集民眾或受照顧者多元個人數據資料的視窗應用程式，並利用所匯集之資料進行即時的分析與反饋是建構科技預防保健服務系統的基礎",
+    "goals": [
+        "程式設計的邏輯與其應用",
+        "運用於健康促進與衛生教育的工作之中",
+        "認識視窗應用程式的開發過程"
+    ],
+    "syllabus": "發展 AI 人工智慧已是時代趨勢，未來若能成功導入AI於預防保健服務業，對於民眾的健康會帶來正向影響。「數據資料」是 AI 人工智慧應用發展最為重要的基礎材料；開發匯集民眾或受照顧者多元個人數據資料的視窗應用程式，並利用所匯集之資料進行即時的分析與反饋是建構科技預防保健服務系統的基礎。隨著.NET Framework技術的演進，Visual C# (唸作sharp)程式開發語言除了在Windows傳統桌面開發應用程式外，也能在行動裝置做開發。本課程介紹Visual C#程式語言，包含基本的程式語法介紹與視窗應用程式的開發演練。\n\n週次\n\n**課程內容****(****中文****)**\n\n**課程內容****(****英文****)**\n\n1\n\n認識程式運算思維與C#\n\nIntroduction to programming thinking and C#\n\n2\n\n我的第一支C#程式\n\nMy first C# program\n\n3\n\n資料處理與運算子\n\nData management and operator\n\n4\n\n程式流程控制\n\nProgram flow control\n\n5\n\n陣列與字串\n\nArray and string\n\n6\n\n物件導向程式設計\n\nObject-Orented Programming, OOP\n\n7\n\n函數與參數傳遞\n\nFunction and parameter\n\n8\n\n繼承與介面\n\nInheritance and interface\n\n9\n\n期中考\n\nMid-term Examination\n\n10\n\n表單與訊息回應\n\nWindows form and message response\n\n11\n\n鍵盤、滑鼠事件\n\nKeyboard and mouse event\n\n12\n\n功能表與工具列\n\nManuStrip and ToolStrip\n\n13\n\n對話方塊\n\nDialog box\n\n14\n\n檔案輸入與輸出\n\nFile input and output\n\n15\n\n繪圖\n\nDrawing\n\n16\n\n期末考\n\nFinal-term test\n\n17\n\n自主學習與問題討論\n\nSelf-learning, Q & A\n\n18\n\n自主學習與問題討論\n\nSelf-learning, Q & A\n\n自主學習:自行綜整研習本學期的課程, 遇有疑難問題, 洽老師討論研習 (網路教學或面對面教學)。",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": ""
+        },
+        {
+            "type": "問題解決教學",
+            "note": ""
+        },
+        {
+            "type": "其他",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "期中考",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "出席",
+            "weight": 10,
+            "note": ""
+        }
+    ],
+    "prerequisite": "◎必須先修過(也可以同時修)【HEU0156  健康促進與衛生教育導論】、【HEU0011  個人衛生】",
+    "general_core": []
+}

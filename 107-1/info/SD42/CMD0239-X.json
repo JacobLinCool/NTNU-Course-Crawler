@@ -1,0 +1,73 @@
+{
+    "year": 107,
+    "term": 1,
+    "name": "高等分析儀器專論",
+    "teachers": [
+        "林震煌"
+    ],
+    "department": "SD42",
+    "code": "CMD0239",
+    "credit": 3,
+    "serial": 2577,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 1,
+            "from": 2,
+            "to": 4,
+            "campus": "公館",
+            "classroom": "Ｆ318"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "介紹與討論最新分析化學之儀器設計、結構與應用",
+    "goals": [
+        "使博士班學生具備將化學分析方法儀器化之能力",
+        "使博士班學生了解分析化學儀器之共同基礎知識",
+        "使博士班學生知悉目前最新穎之儀器發展趨勢"
+    ],
+    "syllabus": "第1週: SAMPLING THEORY AND SAMPLING DEVICES\n\n第2週: ERRORS DURING THE MEASUREMENT PROCESS\n\n第3週: ELECTRICAL INDICATING AND TEST INSTRUMENTS\n\n第4週: FLUIDIC SYSTEM DESIGN AND FLOW MEASUREMENT  \n第5週: TEMPERATURE & PRESSURE MEASUREMENT第6週: SIGNAL DETECTIONAND TRANSMISSION\n\n第7週: CALIBRATION OF MEASURING SENSORS AND INSTRUMENTS第8週: ELECTRICAL INDICATING AND TEST INSTRUMENTS\n\n第9週: MID-TERM PAPER DISCUSSIONS\n\n第10週: MEASUREMENT NOISE AND SIGNAL PROCESSING\n\n第11週: DIGITAL COMPUTATION AND INTELLIGENT DEVICES\n\n第12週: INSTRUMENTATION/COMPUTER NETWORKS\n\n第13週: DISPLAY, RECORDING AND PRESENTATION OF DATA\n\n第14週: APLLICATION OF CHEMOMETRICS\n\n第15週: OPTICS ELEMENTS FOR SPECTROMETRY\n\n第16週: LIQUID CHROMATOGRAPHY INSTRUMENT\n\n第17週: GAS CHROMATOGRAPHY INSTRUMENT\n\n第18週: FINAL PROJECT PRESENTATION",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "配合主題講解原理與設計方法"
+        },
+        {
+            "type": "討論法",
+            "note": "專題文獻討論"
+        },
+        {
+            "type": "媒體融入教學",
+            "note": "Power Point 講解"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 20,
+            "note": "特定主題之科學文獻收集與程現"
+        },
+        {
+            "type": "報告",
+            "weight": 40,
+            "note": "儀器原理之專書口頭報告與討論"
+        },
+        {
+            "type": "其他",
+            "weight": 40,
+            "note": "期刊之最新儀器原理口頭報告與討論"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

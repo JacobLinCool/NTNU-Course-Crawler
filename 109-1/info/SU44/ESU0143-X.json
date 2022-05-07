@@ -1,0 +1,85 @@
+{
+    "year": 109,
+    "term": 1,
+    "name": "海洋生物概論",
+    "teachers": [
+        "葉孟宛"
+    ],
+    "department": "SU44",
+    "code": "ESU0143",
+    "credit": 2,
+    "serial": 3047,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 4,
+            "from": 6,
+            "to": 7,
+            "campus": "公館",
+            "classroom": "Ｓ403"
+        }
+    ],
+    "programs": [],
+    "comment": "本門課程為初中階以上課程，適合大二以上學生修習，以作為中階課程銜接之先修課程。",
+    "restrict": "◎限大二大三大四修習",
+    "form_s": "2",
+    "classes": "",
+    "dept_group": "",
+    "hours": 2,
+    "description": "本課程為二學分。課程內容將探討海洋生物學相關的基礎概念與原理，並輔以實例說明。授課大綱主要包括四大部份：1. 海洋科學基本原理；2. 生存在海洋環境中的生物；3. 海洋生態系的構造與功能；4.人類與海洋。",
+    "goals": [
+        "能熟悉並認知1. 海洋科學基本原理；2. 生存在海洋環境中的生物；3. 海洋生態系的構造與功能；4.人類與海洋等相關主題。"
+    ],
+    "syllabus": "第一週Course Introduction; The science of marine biology (Ch. 1)\n\n第二週The sea floor (Ch. 2)\n\n第三週Chemical and physical features of seawater and the world ocean (Ch. 3); Some basics of biology (Ch. 4)\n\n第四週The microbial world (Ch. 5); Multicellular primary production (Ch. 6)\n\n第五週Marine animals without a backbone (Ch. 7)\n\n第六週Marine Fishes (Ch. 8);\n\n第七週Marine Reptiles, Birds, Mammals (Ch. 9)\n\n第八週Mid-Term Exam (Chapters 1~9)\n\n第九週An introduction to ecology (Ch. 10); Between the tides (Ch. 11)\n\n第十週Estuaries: Where rivers meet the sea (Ch. 12)\n\n第十一週Life on the continental shelf (Ch. 13)\n\n第十二週Coral reefs (Ch. 14)\n\n第十三週Life near the surface (Ch. 15); The ocean depth (Ch. 16)\n\n第十四週Resources for the sea (Ch. 17)\n\n第十五週The impact of humans on the marine environment (Ch. 18); The oceans and Human affairs (Ch. 19)\n\n第十六週Final Exam (Chapters 10~19)\n\n第十七週Students’ presentation\n\n第十八週Students’ presentation",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "採互動式的課堂講授為主，輔以生動活潑的幻燈片。"
+        },
+        {
+            "type": "討論法",
+            "note": "海洋生物相關問題探討與論"
+        },
+        {
+            "type": "媒體融入教學",
+            "note": "運用數位平台與自製簡報檔案教學"
+        },
+        {
+            "type": "專題研究",
+            "note": "選定個人興趣之海洋生物相關議題，蒐集相關論文、期刊資料，進行專題研究。"
+        }
+    ],
+    "grading": [
+        {
+            "type": "期中考",
+            "weight": 35,
+            "note": "簡答題(40%), 申論題(60%)"
+        },
+        {
+            "type": "期末考",
+            "weight": 35,
+            "note": "簡答題(40%), 申論題(60%)"
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 5,
+            "note": "依據學生課堂參與討論、提問情形"
+        },
+        {
+            "type": "出席",
+            "weight": 5,
+            "note": "參酌學生出、缺席狀況"
+        },
+        {
+            "type": "報告",
+            "weight": 20,
+            "note": "依專題研究進行口頭與書面報告"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

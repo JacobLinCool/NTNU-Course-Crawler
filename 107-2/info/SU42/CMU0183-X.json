@@ -1,0 +1,88 @@
+{
+    "year": 107,
+    "term": 2,
+    "name": "物理化學－動力學",
+    "teachers": [
+        "洪偉修"
+    ],
+    "department": "SU42",
+    "code": "CMU0183",
+    "credit": 3,
+    "serial": 2855,
+    "group": "",
+    "quota": {
+        "limit": 110,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 8,
+            "to": 9,
+            "campus": "公館",
+            "classroom": "Ｅ302"
+        },
+        {
+            "day": 3,
+            "from": 7,
+            "to": 7,
+            "campus": "公館",
+            "classroom": "Ｅ302"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "3",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "1.To provide students with a solid background for in the fields of chemical kinetics and dynamics. \n2.To help students understand the basic concepts of chemical kinetics and dynamics and their related applications in physical chemistry.  \n3.To train students practically calculating kinetic and dynamic properties and qualitatively predict phenomenon in chemical changes",
+    "goals": [
+        "To provide students with a solid background for in the fields of chemical kinetics and dynamics.",
+        "To help students understand the basic concepts of chemical kinetics and dynamics and their related applications in physical chemistry.",
+        "To train students practically calculating kinetic and dynamic properties and qualitatively predict phenomenon in chemical changes"
+    ],
+    "syllabus": "第1週 The rates of reactions 第2~3週Experimental techniques 第4週Rate laws and rate constants 第5週Reaction mechanisms 第6週Temperature dependence of reaction rates 第7週mid-term exam 第8週Kinetics of complicated reactions 第9~10週Kinetics of Catalysis 第11週Enzyme reaction 第12週molecules in motion 第13週 mid-term exam 第14~15週Chemical dynamics 第16週Transition state theory 第17週Kinetics of reactions at surfaces 第18週final exam",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "講解以板書與投影並用"
+        },
+        {
+            "type": "討論法",
+            "note": "主要由老師提出討論的問題"
+        },
+        {
+            "type": "問題解決教學",
+            "note": "學生在課堂隨時提問, 較冗長的問題在課後討論"
+        },
+        {
+            "type": "實驗/實作",
+            "note": "包含於物理化學實驗課內"
+        },
+        {
+            "type": "其他",
+            "note": "編寫講義提供學生學習的輔助"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 10,
+            "note": "在每次期中考和期末考時繳交"
+        },
+        {
+            "type": "期中考",
+            "weight": 60,
+            "note": "兩次期中考(每次30%)"
+        },
+        {
+            "type": "期末考",
+            "weight": 30,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

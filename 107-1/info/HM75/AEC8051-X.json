@@ -1,0 +1,94 @@
+{
+    "year": 107,
+    "term": 1,
+    "name": "嵌入式系統程式設計",
+    "teachers": [
+        "黃奇武"
+    ],
+    "department": "HM75",
+    "code": "AEC8051",
+    "credit": 3,
+    "serial": 1174,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 5,
+            "from": 2,
+            "to": 4,
+            "campus": "本部",
+            "classroom": "教室自排"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程透過講授、閱讀、討論及問題解決教學與實作方式的設計，介紹下列數種嵌入式系統的結構/概念，\n．在CentOS（Linux）下操作Wiscore Arm7 嵌入式系統（三星4510+Xilix CPLD）\n．Keil C與Silab實驗板\n．Microblaze嵌入式系統\n來培養學生對應系所所需的核心能力。",
+    "goals": [
+        "具備嵌入式系統的基礎知識",
+        "具備嵌入式系統程式設計實作與測試分析的能力",
+        "具備嵌入式系統軟/ 硬體協同設計規劃/ 模擬與下載驗證能力",
+        "培養描述問題能力，能獨立思考",
+        "培養電路與程式偵錯能力",
+        "能自我學習"
+    ],
+    "syllabus": "1.  Introduction to embedded systems and SoC platform\n2.  Review of microprocessor system design\n3.  Reading switches and adding structure to your code\n4.  Meeting real-time constraints and creating an embedded OS\n5.  Multi-state systems and function sequences\n6.  Case study\n7.  Use Vivado to build an Embedded System  and Add IP cores in PL\n8.   Custom IP to the system and Software Writing and Debugging  for Timer\n9.  MidTerm\n10.  Embedded Linux on the ARM Cortex-A9\n11.  Custom Hardware Development and Interface\n12.  Device driver and interrupts servicing mechanism\n13.  Custom Device Driver Development\n14.  Build and Boot an Image\n15.  Application Development and Debug\n16.  Networking and TCP/IP\n17.  Hardware-software co-design in an embedded system\n18.  Final Exam",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": ""
+        },
+        {
+            "type": "問題解決教學",
+            "note": ""
+        },
+        {
+            "type": "合作學習",
+            "note": ""
+        },
+        {
+            "type": "實驗/實作",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 20,
+            "note": ""
+        },
+        {
+            "type": "期中考",
+            "weight": 25,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 25,
+            "note": ""
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 15,
+            "note": ""
+        },
+        {
+            "type": "出席",
+            "weight": 15,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

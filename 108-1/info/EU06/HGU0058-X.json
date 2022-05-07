@@ -1,0 +1,70 @@
+{
+    "year": 108,
+    "term": 1,
+    "name": "營養評估",
+    "teachers": [
+        "吳文惠"
+    ],
+    "department": "EU06",
+    "code": "HGU0058",
+    "credit": 2,
+    "serial": 816,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 3,
+            "from": 6,
+            "to": 7,
+            "campus": "本部",
+            "classroom": "誠205"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎必須先修過【HGU0382  營養學（一）】、【HGU0383  營養學（二）】、【HGU0013  營養學實驗】",
+    "form_s": "3",
+    "classes": "",
+    "dept_group": "F",
+    "hours": 2,
+    "description": "此課程須修過先備課程。目標為\n1.以體位測量、生化檢驗、飲食調查、臨床症狀四大方式評估營養狀態\n2.各種營養素缺乏或過剩時此四方面異常浮現次序，如何提早發現判讀診斷與治療\n3. 我國國民營養現況調查方法與結果\n4. 為學生將來從事營養專業 (營養研究或 營養師) 必備課程",
+    "goals": [
+        "了解各種營養素狀態的各種評估方法，有能力分辨早期中期晚期營養不良或過剩",
+        "了解預防與治療營養不良之監控方法，使學生具備營養師執業能力與資格",
+        "使學生瞭解國民營養現況",
+        "使學生具備營養與疾病相關性之研究能力"
+    ],
+    "syllabus": "**Content**\n\n**Note**\n\n1\n\n課程介紹\n\n2\n\n**Anthropometric assessment** **1**\n\nLength, weight, frame size, waist to hip ratio, 9 site skinfold measurements\n\n3\n\n體位測量實習\n\n皮脂厚度測量\n\n4\n\n國慶日放假\n\n5\n\n**Anthropometric assessment** **2**\n\n**arm muscle circumference, densitometry, total body water, total body potassium, neutron activation analysis**\n\n6\n\n**Anthropometric assessment 3**\n\nelectrical conductance, ultrasound computed tomography, MRI, Dual-energy X-ray.\n\n生物電阻體脂肪測量\n\n超音波骨強度測量\n\n7\n\n**Dietary surveys 1**\n\n24 hr recall, food diary, food frequency questionnaire\n\n體位測量作業繳交\n\n8\n\n**Dietary surveys 2**\n\nduplicate food collections, food accounts, food balance sheets.\n\n9\n\n**Dietary surveys 3**\n\n全國營養調查，營養素建議攝取量與標準\n\n10\n\n期中考\n\n11\n\n**Biochemical assessment 1**\n\nProtein status: serum proteins, immunocompetence, urinary creatinine, 3-methylhistidine.\n\n飲食調查作業繳交：\n\n(24 h 回顧、三日飲食日記、飲食頻率問卷)\n\n12\n\n**Biochemical assessment 2**\n\n**Mineral status: Fe, Ca, Zn**\n\nVitamin status: Vit A, Vit D, Vit E\n\n13\n\n**Biochemical assessment 3**\n\nVitamin status: Vit C, thiamin, riboflavin, Vit B6,\n\nfolic acid, Vit B12.\n\n14\n\n**Biochemical assessment 4**\n\nBlood chemistry test: liver and kidney function, DM, blood lipids.\n\n15\n\n**Clinical assessment 1**\n\nSubject Global Assessment\n\n16\n\n**Clinical assessment 2**\n\nslide presentation of clinical symptoms\n\ndocumentation\n\n17\n\n期末考",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "其他",
+            "note": "操作實習、ppt"
+        }
+    ],
+    "grading": [
+        {
+            "type": "期中考",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "報告",
+            "weight": 40,
+            "note": "體位&飲食調查"
+        }
+    ],
+    "prerequisite": "◎必須先修過【HGU0382  營養學（一）】、【HGU0383  營養學（二）】、【HGU0013  營養學實驗】",
+    "general_core": []
+}

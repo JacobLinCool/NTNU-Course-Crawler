@@ -1,0 +1,65 @@
+{
+    "year": 110,
+    "term": 2,
+    "name": "高等量子力學（二）",
+    "teachers": [
+        "陳傳仁"
+    ],
+    "department": "SM41",
+    "code": "PHC0034",
+    "credit": 3,
+    "serial": 2624,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 5,
+            "from": 6,
+            "to": 8,
+            "campus": "公館",
+            "classroom": "Ｓ701"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "",
+    "goals": [
+        "Learn about relativistic quantum mechanics and fundamental quantum field theory",
+        "Strengthen rational thinking skills",
+        "Introduction to Physics News",
+        "Physical research ability development"
+    ],
+    "syllabus": "lecture hours: 3 hrs/week, 16+2 weeks in total\n\n1.     Week 1: Regularizations and  \\\\phi^4 theory I\n\n2.     Week 2: Regularizations and  \\\\phi^4 theory II\n\n3.     Week 3: QED I\n\n4.     Week  4: QED II\n\n5.     Week  5: Renormalization of Yang-Mills theories I\n\n6.     Week 6: Renormalization of Yang-Mills theories II\n\n7.     Week 6: Renormalization of Yang-Mills theories III\n\n8.     Week  7: Effective action I\n\n9.     Week 8: Effective action II\n\n10.   Week 9: Covariant Gaussian approximation I\n\n11.  Week 10: Covariant Gaussian approximation II\n\n12.   Week  11: Topological objects in field theories I\n\n13.  Week 12:  Topological objects in field theories II\n\n14.  Week 13: Finite temperature Quantum field theories\n\n15.  Week 14: Schwinger Keldysh formalism I\n\n16.  Week 15: Schwinger Keldysh formalism II\n\n17.  Week 16: Reoprt I\n\n18.  Week 17: Reoprt II",
+    "methodologies": [
+        {
+            "type": "Formal lecture",
+            "note": ""
+        },
+        {
+            "type": "Group discussion",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "Assignments",
+            "weight": 70,
+            "note": ""
+        },
+        {
+            "type": "Presentation",
+            "weight": 30,
+            "note": ""
+        }
+    ],
+    "prerequisite": "◎Available for junior and senior year B.A. program students (Doctoral program courses excepted) and M.A. program students.",
+    "general_core": []
+}

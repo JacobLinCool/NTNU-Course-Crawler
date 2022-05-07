@@ -1,0 +1,79 @@
+{
+    "year": 110,
+    "term": 2,
+    "name": "光電系統量測專題研究",
+    "teachers": [
+        "李亞儒"
+    ],
+    "department": "HM77",
+    "code": "OEC8129",
+    "credit": 3,
+    "serial": 1133,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 6,
+            "from": 2,
+            "to": 4,
+            "campus": "公館",
+            "classroom": "教室自排"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎必須先修過【OEC9105  光電半導體】 ◎課程不開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "",
+    "goals": [
+        "Introduce the measurement system required for optoelectronic semiconductor components, and cultivate students to use the knowledge and technology of optoelectronic physics and optoelectronic engineering to understand the problems related to the measurement of optoelectronic components.",
+        "To equip students with the skills, skills and the ability to use instruments and tools required for practical operation of optoelectronic measurement systems.",
+        "From the teaching and practical operation of measuring optoelectronic components, students are trained to think independently, analyze and solve problems, and lay the foundation for students' life-long learning.",
+        "To cultivate students' teamwork attitude through practical discussion.",
+        "Through the guidance and discussion of academic papers by instructors, students develop professional ethics attitudes and the belief of having an international outlook and serving the society."
+    ],
+    "syllabus": "【Teaching method: 16+2 weeks】\n\nWeek 1  Introduction\n\nWeek 2  Solid State Optics Review\n\nWeek 3  Semiconductor Component Physics Review\n\nWeek 4  Introduction to Photoluminescence Excitation Spectroscopy\n\nWeek 5  Practical operation of photoluminescence excitation spectroscopy\n\nWeek 6  Optoelectronic Semiconductor Component Fabrication\n\nWeek 7  Introduction and Practical Operation of Electroluminescence Excitation Spectroscopy\n\nWeek 8  Introduction and Practical Operation of Raman Spectroscopy Optics\n\nWeek 9  Opto-semiconductor-related industry visits\n\nWeek 10  Mid-term report\n\nWeek 11  Introduction and Practical Operation of Ellipsometry Spectroscopy\n\nWeek 12  Introduction of perovskite quantum dots and analysis of related optoelectronic properties and required measurement systems\n\nWeek 13  Introduction of graphene materials and analysis of related optoelectronic properties and required measurement systems\n\nWeek 14  Introduction of two-dimensional materials and analysis of related optoelectronic properties and required measurement systems\n\nWeek 15  Sharing by Optoelectronic Semiconductor Industry Experts\n\nWeek 16  Final report\n\nWeek 17  Self-learning\n\nWeek 18  Self-learning",
+    "methodologies": [
+        {
+            "type": "Formal lecture",
+            "note": "Describe the important concepts and theories of optoelectronic measurement systems, novel optoelectronic materials, components and system application technologies and knowledge, and strengthen thinking about future application fields."
+        },
+        {
+            "type": "Group discussion",
+            "note": "Open classroom discussions and professional-teacher exchanges increase student interaction and communication, and increase student learning benefits."
+        },
+        {
+            "type": "Lab/Studio",
+            "note": "Practical operation of the relevant optoelectronic component measurement system, enriching the students' practical experience, is conducive to the connection of the optoelectronic industry."
+        },
+        {
+            "type": "Other:",
+            "note": "Self-learning"
+        }
+    ],
+    "grading": [
+        {
+            "type": "Midterm Exam",
+            "weight": 40,
+            "note": "Test students' understanding and familiarity with research related to optoelectronic semiconductor components and measurement systems. (Oral report)"
+        },
+        {
+            "type": "Final exam",
+            "weight": 40,
+            "note": "Test students' understanding and familiarity with research related to optoelectronic semiconductor components and measurement systems. (Oral report)"
+        },
+        {
+            "type": "other:",
+            "weight": 20,
+            "note": "The report of visit experience and share feedback. (Written report)"
+        }
+    ],
+    "prerequisite": "Prerequisite course: 【OEC9105  Semiconductors for Electro-Optics】 ◎Unavailable for M.A. program students (M.A. program courses excepted) and B.A. program students.",
+    "general_core": []
+}

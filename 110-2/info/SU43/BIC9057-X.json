@@ -1,0 +1,83 @@
+{
+    "year": 110,
+    "term": 2,
+    "name": "組織學",
+    "teachers": [
+        "陳均"
+    ],
+    "department": "SU43",
+    "code": "BIC9057",
+    "credit": 2,
+    "serial": 2886,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 5,
+            "from": 6,
+            "to": 7,
+            "campus": "公館",
+            "classroom": "Ｅ202"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎必須先修過【BIU0168  普通生物學甲（一）】、【BIU0169  普通生物學甲（二）】 ◎課程開放上修",
+    "form_s": "",
+    "classes": "9",
+    "dept_group": "",
+    "hours": 2,
+    "description": "",
+    "goals": [
+        "Understand the structure of cells and tissues and their corresponding functions",
+        "Understand the relationship between structural functions such as cells and tissues and anatomy and physiology, which will become the basis for future study of other courses",
+        "Understanding of histological techniques is the basis for future related experimental operations"
+    ],
+    "syllabus": "1.    General methods of histology.\n\n2.    Epithelial tissue\n\n3.    Connective tissue\n\n4.    Cartilage and bone\n\n5.    Adipose tissue and Blood\n\n6.    Muscle tissue & Nervous tissue\n\n7.    Midterm exam\n\n8.    Cardiovascular system\n\n9.    Lymphatic system\n\n10.  Digestive system\n\n11.  Respiratory system\n\n12.  Urinary system\n\n13.  Endocrine system\n\n14.  Reproductive system\n\n15.  Special sense (eye and ear)\n\n16.  Final exam",
+    "methodologies": [
+        {
+            "type": "Formal lecture",
+            "note": "課程講授輔以投影片或影片教學"
+        },
+        {
+            "type": "Group discussion",
+            "note": "課堂間問題提問及討論"
+        },
+        {
+            "type": "Media, audio, visual materials",
+            "note": "課程講授輔以投影片或影片教學"
+        }
+    ],
+    "grading": [
+        {
+            "type": "Midterm Exam",
+            "weight": 30,
+            "note": "選擇題（含整合性選擇題）約40-50題,實得分數乘以所占百分比"
+        },
+        {
+            "type": "Final exam",
+            "weight": 35,
+            "note": "選擇題（含整合性選擇題）約40-50題,實得分數乘以所占百分比"
+        },
+        {
+            "type": "Class discussion involvement",
+            "weight": 10,
+            "note": "參與討論,課堂提問與問題回答"
+        },
+        {
+            "type": "Attendances",
+            "weight": 15,
+            "note": "不能出席者需請假"
+        },
+        {
+            "type": "Presentation",
+            "weight": 10,
+            "note": "期末心得報告"
+        }
+    ],
+    "prerequisite": "Prerequisite course: 【BIU0168  General Biology A (I)】、【BIU0169  General Biology A (II)】 ◎Available for junior and senior year B.A. program students (Doctoral program courses excepted) and M.A. program students.",
+    "general_core": []
+}

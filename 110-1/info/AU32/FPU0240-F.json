@@ -1,0 +1,79 @@
+{
+    "year": 110,
+    "term": 1,
+    "name": "游泳（一）",
+    "teachers": [
+        "梁嘉音"
+    ],
+    "department": "AU32",
+    "code": "FPU0240",
+    "credit": 2,
+    "serial": 137,
+    "group": "F",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 1,
+            "from": 1,
+            "to": 2,
+            "campus": "校外",
+            "classroom": "教室自排"
+        }
+    ],
+    "programs": [],
+    "comment": "授課地點暫定為台科大游泳池。惟視本校游泳館整修進度，可能調回本部游泳館。",
+    "restrict": "",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 2,
+    "description": "1.學習各種泳姿。\n2.學習游泳指導教學方法",
+    "goals": [
+        "學會各式泳姿"
+    ],
+    "syllabus": "  \n \n\n  \n[教學進度與主題附件](https://ap.itc.ntnu.edu.tw/NtnuFileShare/file.do?action=dl&gno=a3e80a1d9f52433e90bd0bacd6fa3689&fno=49a52f60f75a45f5978816e52a90b4a6)",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "說明並示範課程中各種動作技能要領"
+        },
+        {
+            "type": "問題解決教學",
+            "note": "自各種動作技能要領中，學會如何判別動作的對錯"
+        },
+        {
+            "type": "合作學習",
+            "note": "自分組練習與競爭中，促進學習的效率與動機"
+        },
+        {
+            "type": "實驗/實作",
+            "note": "實際操作各種動作技能"
+        },
+        {
+            "type": "媒體融入教學",
+            "note": "以多媒體簡介各動作技能要領"
+        }
+    ],
+    "grading": [
+        {
+            "type": "期中考",
+            "weight": 30,
+            "note": "術科測驗(1)：蹬牆漂浮、術科測驗(2)：25M捷泳打水、術科測驗(3)：25M仰泳打水"
+        },
+        {
+            "type": "期末考",
+            "weight": 50,
+            "note": "術科測驗(4)：100M 捷泳測驗、術科測驗(5)：50M仰泳"
+        },
+        {
+            "type": "出席",
+            "weight": 20,
+            "note": "平常出缺席(含課外練習)"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

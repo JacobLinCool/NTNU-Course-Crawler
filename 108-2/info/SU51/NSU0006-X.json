@@ -1,0 +1,79 @@
+{
+    "year": 108,
+    "term": 2,
+    "name": "營養學（一）",
+    "teachers": [
+        "吳啟豪"
+    ],
+    "department": "SU51",
+    "code": "NSU0006",
+    "credit": 2,
+    "serial": 2909,
+    "group": "",
+    "quota": {
+        "limit": 70,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 4,
+            "from": 8,
+            "to": 9,
+            "campus": "本部",
+            "classroom": "誠101"
+        }
+    ],
+    "programs": [],
+    "comment": "營養學程雙主修、輔系跨域專業探索課程",
+    "restrict": "",
+    "form_s": "1",
+    "classes": "",
+    "dept_group": "",
+    "hours": 2,
+    "description": "本課程為營養專業入門課程，內容涵蓋醣、脂質、蛋白質、礦物質、維生素在人體之消化、吸收、分佈、代謝與生理生化功能，各營養素之食物來源，缺乏與過多症狀，及人體的熱量消耗。為一年課程，前半年營養學（一）以巨量營養素為主，後半年營養學（二）以能量與微量營養素為主。",
+    "goals": [
+        "建構營養科學與自然科學、人文科學之基礎關係與互通特質",
+        "了解六大營養要素之功能與食物來源",
+        "建立營養素與新陳代謝之基本互動觀念",
+        "瞭解能量平衡與體重控制之正確關念"
+    ],
+    "syllabus": "1\\. The Sciences of Nutrition\n\n  \n\n2\\. Physiology for Nutrition\n\n  \n\n3\\. Macronutrients / Energy Nutrients: CHO (I) Functions\n\n  \n\n4-5. Macronutrients / Energy Nutrients: CHO (II) Application\n\n  \n\n6-7. Macronutrients / Energy Nutrients: Lipids (I) Functions\n\n  \n\n8-9. Macronutrients / Energy Nutrients: Lipids (II) Application\n\n  \n\n10-11. Macronutrients / Energy Nutrients: Proteins (I) Functions\n\n  \n\n12-13. Macronutrients / Energy Nutrients: Proteins (II) Functions\n\n  \n\n14-15. Macronutrients / Energy Nutrients: Proteins (III) Application\n\n  \n\n16-17. Metabolism, Energy Balance, and Weight Control\n\n  \n\n18.期末考",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "教師自做講義以ppt教學"
+        },
+        {
+            "type": "討論法",
+            "note": "鼓勵學生主動提問與參與討論"
+        },
+        {
+            "type": "媒體融入教學",
+            "note": "觀看you tube相關影片"
+        }
+    ],
+    "grading": [
+        {
+            "type": "期中考",
+            "weight": 75,
+            "note": "三次，利用營養學實驗課時間。"
+        },
+        {
+            "type": "期末考",
+            "weight": 25,
+            "note": "一次。期中和期末執行評量方式為四次筆試（月考）成績之平均得分。試卷以英文出題，以提升學習者之英語專業能力。"
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 5,
+            "note": "(bonus)鼓勵學習者主動提問與參與討論。必要時，指定學習者口語回答或於白板上繪圖、計算等臨場作答，以訓練其機智與膽識。"
+        },
+        {
+            "type": "其他",
+            "weight": 5,
+            "note": "(bonus)本科（非英文課）以英文試卷命題，額外加分以緩衝語文上之學習障礙。"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

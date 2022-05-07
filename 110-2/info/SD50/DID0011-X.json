@@ -1,0 +1,87 @@
+{
+    "year": 110,
+    "term": 2,
+    "name": "臺灣生態進階課程",
+    "teachers": [
+        "游智凱",
+        "王忠信"
+    ],
+    "department": "SD50",
+    "code": "DID0011",
+    "credit": 3,
+    "serial": 2601,
+    "group": "",
+    "quota": {
+        "limit": 10,
+        "additional": 5
+    },
+    "schedule": [
+        {
+            "day": 5,
+            "from": 2,
+            "to": 4,
+            "campus": "校外",
+            "classroom": "教室自排"
+        }
+    ],
+    "programs": [],
+    "comment": "本課程在中研院B204教室上課(B204,BRC,AS Campus)",
+    "restrict": "◎課程不開放上修",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "",
+    "goals": [
+        "To understand and explore the professional background knowledge of biological ecology",
+        "Study the traditional and emerging research techniques of the biological ecology",
+        "To understand the relevant knowledge of microbiology, including topics such as biodiversity, physiology and metabolism, molecular genetics, genomics, evolution, ecology, etc."
+    ],
+    "syllabus": "第一週：Introduction\n\nCourse approach, expectations, andweekly schedule\n\nLecture on the basics and overview ofecology and biodiversity studies: Questions asked, techniques used, modernapproaches (case studies)\n\nExample studies from both marine andterrestrial biology\n\n第二週：Basic concept inmolecular ecology.\n\nWhat is DNA, RNA, DNA sequencing, use ofDNA sequencing in biodiversity/phylogeny. NGS sequencing and its applications,metabarcoding, etc..\n\n第三週：Lab practical: DNA extraction forSanger sequencing– practice for DNA extraction and PCR\n\n第四週：Supply-side Ecology and hypothesissetup\n\nThis lectureintroduces the concept of supply-side ecology and biology/ecology of differentmarine larvae. Introduce the project in this course.\n\n第五週：Sampling strategies and techniques anddata lecture <1 hr lecture>\n\nSampling of plankton by boat, initialprepping of samples; sampling to test supply side ecology (different depths <halfday>\n\n第六週：Standard morphology, taxonomy,preservation, curation of samples <1 hr lecture>\n\nSorting specimens by eye and identifymajor groups of larvae <half day practical>\n\n第七週：Learn and fix samples for molecular(and microscopy) studies <1 hr lecture>\n\nLearn DNA, RNA purification (meta, eDNAand single organisms/individuals) <half day practical >\n\n第八週：Barcoding (individual-based), metabarcoding,environmental DNA, metatranscriptomics <1 hr lecture>\n\nSecond sampling with aim for NGS or Sequencing<1 hr>\n\nDo/apply sample classification; lab:Simple PCR of organism barcodes (PCR and basic molecular biology)\n\n第九週：Second and third generation sequencingand application to ecology <1 hr lecture>\n\nOn-site Oxford Nanopore sequencing withpromising samples or unsequenced species <half day practical>\n\n第十週：Organization and presentation of data obtainedfrom Green Island\n\n第十一週：Bioinformatic analysis of NGS andOxford Nanopore data, part 1 <1 hr lecture>\n\nPrepare eDNA and RNA samples for NGSsequencing <half day practical>\n\n第十二週：Bioinformatic analysis of NGS andOxford Nanopore data, part 2 <1 hr>\n\nFinish preparing eDNA and RNA samplesfor NGS sequencing <half day practical>\n\n第十三週：Learn basics of simple NGS analysisand assembly; introduction to genome annotation and analysis<1 hr lecture>\n\nComputer lab to learn basic command lineinterface; conduct analysis on mock data and real data from class #11 <halfday practical>\n\n第十四週：Teaching manuscript writing 1 (using 'communities'as a focal point) <1 hr lecture>\n\nAnnotation of genome or partial genome<half day practical>\n\n第十五週：eDNA and metatranscriptomics data analysispipeline <1 hr lecture>\n\nAnalysis of eDNA and metatranscriptomics<half day practical>\n\n第十六週：Teaching manuscript writing 2 (using'behavioral ecology' as focal point) <1 hr lecture>\n\nGuide writing of results and materialsand methods.\n\nGuide good figure and tablepresentations.\n\nContinue analysis of eDNA andmetatranscriptomics\n\n<half day practical>",
+    "methodologies": [
+        {
+            "type": "Formal lecture",
+            "note": "本課程將系統性的介紹生物生態學的背景知識以及新興研究方法與技術"
+        },
+        {
+            "type": "Group discussion",
+            "note": "包含學生之口頭報告與討論。"
+        },
+        {
+            "type": "Cooperative learning",
+            "note": "教導學生共同分析研究與討論實驗成果"
+        },
+        {
+            "type": "Lab/Studio",
+            "note": "教導學生分生技術與實驗操作技術"
+        },
+        {
+            "type": "Field work",
+            "note": "帶領學生實地外調查、採集樣本"
+        }
+    ],
+    "grading": [
+        {
+            "type": "Midterm Exam",
+            "weight": 20,
+            "note": "progress report after Green Island field work"
+        },
+        {
+            "type": "Final exam",
+            "weight": 30,
+            "note": "draft of manuscript"
+        },
+        {
+            "type": "Class discussion involvement",
+            "weight": 20,
+            "note": "data analysis and presentation"
+        },
+        {
+            "type": "Attendances",
+            "weight": 30,
+            "note": "class participation including homework and teamwork"
+        }
+    ],
+    "prerequisite": "◎Unavailable for M.A. program students (M.A. program courses excepted) and B.A. program students.",
+    "general_core": []
+}

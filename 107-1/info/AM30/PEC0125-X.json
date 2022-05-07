@@ -1,0 +1,99 @@
+{
+    "year": 107,
+    "term": 1,
+    "name": "高級運動生物力學",
+    "teachers": [
+        "黃長福"
+    ],
+    "department": "AM30",
+    "code": "PEC0125",
+    "credit": 3,
+    "serial": 34,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 7,
+            "to": 9,
+            "campus": "公館",
+            "classroom": "研002"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程為提升學生了解運動生物力學原理及學習運動器材儀器收集分析影像，測力板及肌電圖等資料，並學習批判當今研究報告，了解運動生物力學研究趨勢。",
+    "goals": [
+        "了解運動學、動力學、肌電圖等力學原理與應用",
+        "學習2D、3D影像 測力板和肌電圖資料收集與分析",
+        "學習如何閱讀和批判運動生物力學研究報告",
+        "了解當今運動生物力學研究趨勢"
+    ],
+    "syllabus": "week 1    Historical aspects of biomechanical analyses  \n\nweek 2   Photo-optical issues and lenses  \nweek 3   Kinematics I  \nweek 4   Kinematics II  \nweek 5   Kinetics I  \nweek 6   Kinetics II  \nweek 7   2D motion analysis and force plate I  \nweek 8   2D motion analysis and force plate II\n\nweek 9   Introduction to 3D motion analysis I\n\nweek 10  Introduction to 3D motion analysis II\n\nweek 11  EMG I\n\nweek 12  EMG II\n\nweek 13  paper review and presentation I\n\nweek 14  paper review and presentation II\n\nweek 15  paper review and presentation III\n\nweek 15  paper review and presentation IV\n\nweek 16  paper review and presentation V\n\nweek 17  Final exam",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "Powerpoint presentation"
+        },
+        {
+            "type": "討論法",
+            "note": "Discussion with students related to the biomechanics topics"
+        },
+        {
+            "type": "問題解決教學",
+            "note": "solve biomechanics related problems"
+        },
+        {
+            "type": "合作學習",
+            "note": "group work in the lab sessions"
+        },
+        {
+            "type": "實驗/實作",
+            "note": "data collection and analysis in lab sessions"
+        },
+        {
+            "type": "媒體融入教學",
+            "note": "movie and video presentation in the class"
+        },
+        {
+            "type": "專題研究",
+            "note": "paper review and discussion in the class"
+        },
+        {
+            "type": "其他",
+            "note": "paper presentation"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 20,
+            "note": "five homeworks for the class"
+        },
+        {
+            "type": "期末考",
+            "weight": 30,
+            "note": "Final exam"
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 20,
+            "note": "paper reading and discussion"
+        },
+        {
+            "type": "報告",
+            "weight": 30,
+            "note": "paper review and presentation"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

@@ -1,0 +1,79 @@
+{
+    "year": 108,
+    "term": 2,
+    "name": "模糊理論",
+    "teachers": [
+        "方瓊瑤"
+    ],
+    "department": "SM47",
+    "code": "CSC0031",
+    "credit": 3,
+    "serial": 2630,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 5,
+            "from": 2,
+            "to": 4,
+            "campus": "公館",
+            "classroom": "Ｂ102"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程主要目的在讓學生了解並認識模糊理論。\n1. 從集合的模糊化，模糊運算，模糊關係，模糊邏輯等議題的探討，深入了解各數學理論模糊化後的性質及過程。\n2. 利用課程中的各種證明例題，增加學生數學證明的能力。\n3. 能將模糊理論用在自己的研究中。",
+    "goals": [
+        "能了解各數學理論模糊化後的性質及過程",
+        "能將模糊理論用在自己的研究中",
+        "能研讀報告模糊理論應用之相關論文"
+    ],
+    "syllabus": "教學目標:\n\n本課程主要目的在讓學生了解並認識模糊理論。  \n1\\. 從集合的模糊化，模糊運算，模糊關係，模糊邏輯等議題的探討，深入了解各數學理論模糊化後的性質及過程。  \n2\\. 利用課程中的各種證明例題，增加學生數學證明的能力。  \n3\\. 能將模糊理論用在自己的研究中。\n\nChapter 1: From crisp sets to fuzzy sets  \nChapter 2: Fuzzy sets versus crisp sets  \nChapter 3: Operations on fuzzy sets  \nChapter 4: Fuzzy arithmetic  \nChapter 5: Fuzzy relations  \nChapter 7: Possibility theory  \nChapter 8: Fuzzy logic  \nChapter 9: Uncertainty-based information  \n  \n1\\. Fuzzy sets and fuzzy logic: Theory and application, G. Klir and B. Yuan, Prentice Hall, London, 1995.  \n2\\. IEEE transactions on fuzzy system",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 15,
+            "note": "課堂作業或小考"
+        },
+        {
+            "type": "期中考",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "出席",
+            "weight": 10,
+            "note": ""
+        },
+        {
+            "type": "報告",
+            "weight": 15,
+            "note": "上台報告"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

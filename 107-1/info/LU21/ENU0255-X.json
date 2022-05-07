@@ -1,0 +1,81 @@
+{
+    "year": 107,
+    "term": 1,
+    "name": "中級法文（一）",
+    "teachers": [
+        "李曉芸"
+    ],
+    "department": "LU21",
+    "code": "ENU0255",
+    "credit": 2,
+    "serial": 1853,
+    "group": "",
+    "quota": {
+        "limit": 30,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 6,
+            "to": 7,
+            "campus": "本部",
+            "classroom": "正304"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "3",
+    "classes": "",
+    "dept_group": "",
+    "hours": 2,
+    "description": "訓練學生聽、讀、寫法文的能力",
+    "goals": [
+        "訓練學生聽、讀、寫法文的能力"
+    ],
+    "syllabus": "1\\. 09/13  Révisions : le passe composé avec les verbes simples et pronominaux\n\n2. 09/20  Les adjectifs démonstratifs et la possession\n\n3. 09/27  Le comparatif et les transports  \n4. 10/04  Les dialogues  \n5. 10/11  Le week-end rouge, voyager en France\n\n6. 10/18  Les partitifs, les quantités\n\n7. 10/25  L'interrogation\n\n8. 11/01  Aller au restaurant\n\n9.  11/08  Examen mi-semestriel \n\n10\\. 11/15 Film français : L'aile ou la cuisse  \n11\\. 11/22 Les dialogues    \n12\\. 11/29 Comment mangez-vous ? \n\n13\\. 12/06  L'impératif\n\n14\\. 12/13  Les dialogues  \n15\\. 12/20  Tout est gratuit... ou presque\n\n16\\. 12/27  Acheter\n\n17\\. 01/03  Révisions\n\n18\\. 01/10  Examen final",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "法語發音及文法講述"
+        },
+        {
+            "type": "實驗/實作",
+            "note": "分組練習會話"
+        },
+        {
+            "type": "媒體融入教學",
+            "note": "法國電影賞析"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 15,
+            "note": "短文寫作與聽寫"
+        },
+        {
+            "type": "期中考",
+            "weight": 30,
+            "note": "筆試"
+        },
+        {
+            "type": "期末考",
+            "weight": 30,
+            "note": "口試"
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 15,
+            "note": "分組對話練習"
+        },
+        {
+            "type": "出席",
+            "weight": 10,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

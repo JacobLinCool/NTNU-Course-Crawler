@@ -1,0 +1,87 @@
+{
+    "year": 108,
+    "term": 1,
+    "name": "系統演化學",
+    "teachers": [
+        "黃士穎",
+        "廖培鈞"
+    ],
+    "department": "SU43",
+    "code": "BIC7012",
+    "credit": 3,
+    "serial": 2971,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 1,
+            "from": 6,
+            "to": 8,
+            "campus": "公館",
+            "classroom": "理圖807"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "",
+    "classes": "7",
+    "dept_group": "",
+    "hours": 3,
+    "description": "Phylogenetics explores how organisms, genes, and traits have evolved, and seeks to represent the history of life’s divergence through the use of phylogenetic trees. Phylogenetics has contributed to a wide variety of research particularly in the fields of systematics, biogeography (phylogeography), adaptive evolution and community structure. Lectures will emphasize the logical basis and computational principles of various tree-building algorithms and associated methods of hypothesis testing, as well as application of next-generation sequencing data in phylogenetic tree building. In general, this course will focus on the use, interpretation and methods of reconstructing evolutionary trees.",
+    "goals": [
+        "To understand the logical basis and computational principles of various tree-building algorithms",
+        "To understand and perform hypothesis testing",
+        "To learn how to interpret evolutionary trees"
+    ],
+    "syllabus": "1 Introduction and course organization\n\n2 Introduction to phylogenetic analysis using genotyping and DNA sequences data\n\n3  Molecular homology, multiple sequence alignments\n\n4  Distance methods: models of nucleotide and protein evolution\n\n5  Parsimony: tree length and other indices, molecular clock, substitution modeling testing,   tree-searching algorithms, consensus trees\n\n6  Maximum likelihood theory and methods; Phylip, PAUP\\*, RaxML, Garli, and Mesquite\n\n7  Accuracy and performance of MP & ML; Assessment, Tree Confidence; Phylip and PAUP\\*\n\n8  Maximum likelihood theory and methods; Topology tests (Templeton, KH, SH, AU and SOWH tests)\n\n9  Midterm examination\n\n10  Bayesian methods; Introduction to MrBayes\n\n11  Molecular divergence dating (1)\n\n12  Molecular divergence dating (2)\n\n13  Applications in phylogeography research (1)\n\n14  Applications in phylogeography research (2)\n\n15  Applications in adaptive evolution research (1)\n\n16  Applications in adaptive evolution research (2)\n\n17  Applications in community structure research\n\n18  Final examination",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": ""
+        },
+        {
+            "type": "問題解決教學",
+            "note": ""
+        },
+        {
+            "type": "實驗/實作",
+            "note": ""
+        },
+        {
+            "type": "專題研究",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 25,
+            "note": ""
+        },
+        {
+            "type": "期中考",
+            "weight": 25,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 25,
+            "note": ""
+        },
+        {
+            "type": "報告",
+            "weight": 25,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

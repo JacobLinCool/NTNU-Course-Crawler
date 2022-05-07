@@ -1,0 +1,78 @@
+{
+    "year": 110,
+    "term": 1,
+    "name": "混合信號積體電路佈局",
+    "teachers": [
+        "郭建宏"
+    ],
+    "department": "HM75",
+    "code": "AEC8030",
+    "credit": 3,
+    "serial": 1195,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 2,
+            "to": 4,
+            "campus": "本部",
+            "classroom": "多媒體與通訊實驗室"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程主要是在學生有電子學的基礎上，訓練學生瞭解混合信號處理電路在系統中所扮演的角色，以及這類電路的理論、設計、與佈局。在學習過程中，將運用數值分析模擬軟體(如Simulink)、電路模擬軟體(如Hspice)、以及Cadence來輔助電路的設計分析、佈局、和驗證，來更進一步瞭解並學習積體電路(Integrated Circuits, ICs) 這項高科技的所需具備的知識與技術。",
+    "goals": [
+        "增進微電子電路基本概念的理解",
+        "藉由作業的練習，培養學生電路模擬與信號分析的能力",
+        "學習積體電路設計所需的知識、工具、與電路技術",
+        "從作業的練習中培養獨立思考與解決問題的能力",
+        "培養問題導向的思維與處理的能力",
+        "透過實際操作，訓練學生積極的學習態度",
+        "透過實務的探討，瞭解全球積體電路的發展趨勢"
+    ],
+    "syllabus": "【授課方式：16+2週】\n\n16 週內容：\n\n1\\. Mixed-Signal Design Considerations – Digital Logics \n\n2\\. Laker Advanced Design Platform – Schematic & Symbol \n\n3\\. Pre-Layout Simulation & Modifications – Netlist & Function Verification\n\n4\\. Layout Design Rule, Electrical Rule Check\n\n5\\. Mixed-Signal Layout Verification – Layout versus Schematic\n\n6\\. Mixed-Signal Layout Integration – Basic Layout Techniques\n\n7\\. Mixed-Signal Parasitic Extraction and Post-Layout Simulation\n\n8\\. Layout Modifications for Simulation\n\n9\\. Case Study & Exercise\n\n彈性教學2週：  \n期末專題實作需於第17與18兩週內完成，並上傳繳交至 moodle。",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "投影片教學"
+        },
+        {
+            "type": "實驗/實作",
+            "note": "上機教學，以及當週電路主題實作模擬與佈局"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 45,
+            "note": "每週電路主題作業"
+        },
+        {
+            "type": "期中考",
+            "weight": 20,
+            "note": "數位積體電路的佈局與後模擬"
+        },
+        {
+            "type": "出席",
+            "weight": 10,
+            "note": "課堂點名"
+        },
+        {
+            "type": "專題",
+            "weight": 25,
+            "note": "期末專題：類比運算放大器積體電路的佈局與後模擬"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

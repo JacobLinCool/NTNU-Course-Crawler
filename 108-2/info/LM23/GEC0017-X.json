@@ -1,0 +1,67 @@
+{
+    "year": 108,
+    "term": 2,
+    "name": "地理資訊網路應用",
+    "teachers": [
+        "周學政"
+    ],
+    "department": "LM23",
+    "code": "GEC0017",
+    "credit": 2,
+    "serial": 1549,
+    "group": "",
+    "quota": {
+        "limit": 25,
+        "additional": 0
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 8,
+            "to": 9,
+            "campus": "本部",
+            "classroom": "地理系電腦教室"
+        }
+    ],
+    "programs": [],
+    "comment": "上課教室：文學院勤10F地理系電腦教室。",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 2,
+    "description": "網路資訊的搜尋、整理與應用為現代人的基本素養，本課程除介紹有關一般網路應用之技能，並強調電子地圖，行動平台等網路平台之應用。",
+    "goals": [
+        "瞭解資訊網路的最新發展趨勢",
+        "如何利用網路資訊進行地理學研究。"
+    ],
+    "syllabus": "2020/4/7及2020/4/14日，因防疫需求，改為線上自學課程，內容為html技術，詳情請看MOODLE課程網站，並完成線上作業。\n\n1\\. 資料搜尋、評斷與管理  \n1.1 搜尋引擎原理  \n1.2 搜尋技巧- Google Search, Google Scholar, Amazon  \n1.3 研究論文的搜尋與管理-WEB of Science 與 endnote 使用  \n  \n2\\. WEB 2.0 原理與應用  \n2.1 Wikipedia編寫  \n2.2 Flickr,Youtube,Facebook 應用  \n  \n3\\. WEB Mapping 的原理與使用  \n3.1 Web GIS 原理  \n3.1 Google Map 使用及客製化(My Map & Map Api)  \n3.2 Google Earth 使用及客製化(kml)  \n3.3 ArcGIS Online  \n  \n4\\. Location Based Service (LBS)  \n4.1 定位技術原理  \n4.2 GEOTAG方式  \n4.3 GPS Logger 應用  \n4.4 Augmented Reality  \n5\\. 應用範例  \n5.1 地理教育  \n5.2 零售市場  \n5.3 防救災  \n5.4 其他",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": ""
+        },
+        {
+            "type": "實驗/實作",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 50,
+            "note": ""
+        },
+        {
+            "type": "報告",
+            "weight": 50,
+            "note": "期末報告"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

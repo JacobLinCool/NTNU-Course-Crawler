@@ -1,0 +1,72 @@
+{
+    "year": 108,
+    "term": 1,
+    "name": "工程數學（二）",
+    "teachers": [
+        "賴以威"
+    ],
+    "department": "HU75",
+    "code": "AEU0015",
+    "credit": 3,
+    "serial": 1339,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 2,
+            "to": 4,
+            "campus": "本部",
+            "classroom": "誠109"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "2",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程含二部分：一、向量分析：介紹向量的定義，向量微分，及向量積分等。二、傅立葉級數：介紹傅立葉級數的定義，及其計算，介紹傅立葉轉換問題及傅立葉積分介紹與應用。",
+    "goals": [
+        "了解工程數學的理論概念、專業術語與解決方式"
+    ],
+    "syllabus": "Week 1           : Introduction\n\nWeek 2-4       : Linear Algebra: Matrix calculation (multiplication, inversion)\n\nWeek 5-6       : Linear Algebra: Rank and Dependency\n\nWeek 7-8       : Linear Algebra: Matrix decomposition and eigenvalue\n\nWeek 9          : Midterm examination\n\nWeek 10-12   : Numerical Analysis: Iterative Method\n\nWeek 13-14   : Numerical Analysis: Interpolation\n\nWeek 15-16  :  Numerical Analysis: Applications\n\nWeek 17         : Final examination\n\nWeek 18         : Final report",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "用投影片搭配課本進行課程講解"
+        },
+        {
+            "type": "討論法",
+            "note": "分組討論問題與準備報告"
+        }
+    ],
+    "grading": [
+        {
+            "type": "期中考",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 10,
+            "note": "課堂習題練習與回答"
+        },
+        {
+            "type": "報告",
+            "weight": 30,
+            "note": "分組報告，介紹工程數學在電機領域或其他方面的應用"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

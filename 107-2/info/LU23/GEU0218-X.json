@@ -1,0 +1,98 @@
+{
+    "year": 107,
+    "term": 2,
+    "name": "全球定位系統",
+    "teachers": [
+        "陳哲銘"
+    ],
+    "department": "LU23",
+    "code": "GEU0218",
+    "credit": 2,
+    "serial": 1918,
+    "group": "",
+    "quota": {
+        "limit": 30,
+        "additional": 0
+    },
+    "schedule": [
+        {
+            "day": 4,
+            "from": 6,
+            "to": 7,
+            "campus": "本部",
+            "classroom": "正301"
+        }
+    ],
+    "programs": [
+        "環境監測學程",
+        "空間學程"
+    ],
+    "comment": "",
+    "restrict": "",
+    "form_s": "3",
+    "classes": "2",
+    "dept_group": "",
+    "hours": 2,
+    "description": "本課程目標是介紹全球定位系統原理，修習本課程可瞭解全球定位系統的定位原理和主要誤差來源，課程強調理論與實務並重，以實機操作的方式學習如何進行野外定位測量與資料收集，測量儀器的使用包括調查級（毫米級）與休閒級（米級）GPS，並與Google Earth和地理資訊系統結合應用。",
+    "goals": [
+        "能瞭解全球定位系統的定位原理和主要誤差來源",
+        "能進行野外定位測量與資料收集",
+        "能整合全球定位系統與地理資訊系統資料",
+        "能與團隊合作完成專案"
+    ],
+    "syllabus": "1\\. 全球定位系統簡介\n\n2\\. 大地基準與坐標系統\n\n3\\. GPS信號結構與定位原理\n\n4\\. GPS主要誤差來源\n\n5\\. 休閒級Garmin 60CSx GPS戶外教學\n\n6\\. GPS定位模式\n\n7\\. e-GPS衛星定位測量基準網與VBS-RTK\n\n8\\. 調查級Leica ATX 1230 GPS 戶外實作\n\n9\\. GPS與Google Earth和GIS的整合\n\n10\\. GPS在各領域的應用\n\n11\\. 其他衛星定位系統簡介（GLONASS, Galileo, 中國北斗衛星, QZSS）",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": ""
+        },
+        {
+            "type": "合作學習",
+            "note": ""
+        },
+        {
+            "type": "實驗/實作",
+            "note": ""
+        },
+        {
+            "type": "實地考察、參訪",
+            "note": ""
+        },
+        {
+            "type": "媒體融入教學",
+            "note": ""
+        },
+        {
+            "type": "專題研究",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "期中考",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "報告",
+            "weight": 10,
+            "note": ""
+        },
+        {
+            "type": "專題",
+            "weight": 30,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

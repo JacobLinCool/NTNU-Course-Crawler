@@ -1,0 +1,76 @@
+{
+    "year": 109,
+    "term": 1,
+    "name": "數位系統",
+    "teachers": [
+        "林政宏",
+        "高文忠"
+    ],
+    "department": "HU75",
+    "code": "AEU0003",
+    "credit": 3,
+    "serial": 1353,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 1,
+            "from": 7,
+            "to": 9,
+            "campus": "本部",
+            "classroom": "誠108"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "1",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程旨在介紹數位系統及設計與分析的概念, 讓學生認識用於數位系統設計及分析的現代化工具。",
+    "goals": [
+        "增進學生數位系統基本概念的理解",
+        "教育學生運用數位系統知識與能力",
+        "培養學生獨立思考數位系統設計與實作",
+        "培養學生對數位系統的興趣，進一步奠定學生終身學習之基礎"
+    ],
+    "syllabus": "This course provides a modern introduction to logic design and the basic building blocks used in digital systems, in particular digital computers. It starts with a discussion of combinational logic: logic gates, minimization techniques, arithmetic circuits, and modern logic devices such as field programmable logic gates. The second part of the course deals with sequential circuits: flip-flops, synthesis of sequential circuits, and case studies, including counters, registers, and random access memories. State machines will then be discussed and illustrated through case studies of more complex systems using programmable logic devices. Different representations including truth table, logic gate, timing diagram, switch representation, and state diagram will be discussed.\n\nTopics:\n\nOutlines\n\nIntroduction of digital system and the trend of its development\n\nChap 1: Binary Systems and binary numbers\n\nChap 2: Boolean Algebra and Logic Gates\n\nChap 3: Gate-Level Minimization\n\nChap 4: Combinational Logic\n\nChap 5: Synchronous Sequential Circuit\n\nChap 6: Registers and counters\n\nChap 7: Memory and Programmable Logic\n\nChap 8: Design at the register transfer level\n\nFPGA Design Flow\n\nVerilog HDL introduction",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 20,
+            "note": ""
+        },
+        {
+            "type": "期中考",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "其他",
+            "weight": 20,
+            "note": "課堂小考"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

@@ -1,0 +1,72 @@
+{
+    "year": 110,
+    "term": 1,
+    "name": "結構方程模式",
+    "teachers": [
+        "林世華"
+    ],
+    "department": "E",
+    "code": "E0C8005",
+    "credit": 3,
+    "serial": 337,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 4,
+            "from": 6,
+            "to": 8,
+            "campus": "本部",
+            "classroom": "教600"
+        }
+    ],
+    "programs": [
+        "大數據學程"
+    ],
+    "comment": "",
+    "restrict": "◎課程不開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程主要目的是教授碩博士班學生關於共變數結構分析(結構方程模型)的原理與方法。主要內容包括測量模型、結構模型與潛在因果結構模型。本課程期使學生能理解相關原理與方法，進而能規劃並運用於碩博士論文研究當中，同時也能對使用共變數結構分析(結構方程模型)的研究，評鑑其合理性與適當性。",
+    "goals": [
+        "理解共變數結構分析(結構方程模型)的概念、原理與方法。",
+        "執行共變數結構分析(結構方程模型)的程序與步驟。",
+        "規劃及應用共變數結構分析(結構方程模型)的原理與方法。",
+        "評鑑使用共變數結構分析(結構方程模型)的分析與研究"
+    ],
+    "syllabus": "**【授課方式：16+2週】，並明列彈性授課進行方式與時間。**  \n \n\nWeek 01 Introduction & Ch 1 Introduction\n\nWeek 02 Ch2 Basic Statistical Concepts: I. Correlation and Regression\n\nWeek 02 Ch3 Basic Statistical Concepts:II. Data Preparation and Screening\n\nWeek 04 Ch4 Core SEM Techniques and Software\n\nWeek 05 Ch5 Introduction to Path Analysis\n\nWeek 06 Ch6 Details of Path Analysis\n\nWeek 07 Open discussion\n\nWeek 08 Ch7 Measurement Models and Confirmatory Factor Analysis\n\nWeek 09 Ch8 Models with Structural and Measurement Components\n\nWeek 10 Open discussion\n\nWeek 11 Ch9 Nonrecursive Structural Models\n\nWeek 12 Ch10 Mean Structures and Latent Growth Models\n\nWeek 13 Open discussion\n\nWeek 14 Ch11 Multiple-Sample SEM(1)\n\nWeek 15 Ch11 Multiple-Sample SEM(2)\n\nWeek 16 Ch12 How to Fool Yourself with SEM\n\nWeek 17 Ch13 Other Horizons\n\nWeek 18 Conclusion",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "課堂討論參與",
+            "weight": 5,
+            "note": ""
+        },
+        {
+            "type": "出席",
+            "weight": 5,
+            "note": ""
+        },
+        {
+            "type": "報告",
+            "weight": 90,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

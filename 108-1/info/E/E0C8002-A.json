@@ -1,0 +1,90 @@
+{
+    "year": 108,
+    "term": 1,
+    "name": "高級教育統計學（乙）",
+    "teachers": [
+        "李子奇"
+    ],
+    "department": "E",
+    "code": "E0C8002",
+    "credit": 3,
+    "serial": 366,
+    "group": "A",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 3,
+            "from": 2,
+            "to": 4,
+            "campus": "本部",
+            "classroom": "教401"
+        }
+    ],
+    "programs": [
+        "學習與資訊學程",
+        "大數據學程"
+    ],
+    "comment": "",
+    "restrict": "◎課程不開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "統計學是從事量化研究必備的知能，本課程理論和實務並重，除講授統計分析原理和技術外，並結合套裝程式的操作。為強化學生學以致用的能力，各種統計方法皆設計單元作業，提供數個真實研究的資料檔，要求學生自擬研究問題和假設，應用套裝程式執行分析，並依學術論文格式撰寫分析結果報告。",
+    "goals": [
+        "1.\t了解常用統計檢定方法的原理及其適用時機",
+        "2.\t選擇適切的分析方法解決問題和解釋分析結果",
+        "3.\t運用統計軟體執行資料分析並撰寫分析結果報告"
+    ],
+    "syllabus": "Prerequisites:  \nWe encourage you to speak in English in this course. The lecture and discussion will be performed by speaking in English.  \nYou should have experience with fundamental statistics. Experience using with IBM SPSS is not necessary, though basic familiarity with Factor analysis and Structural Equation Modeling would be helpful.\n\nCourse Description:  \nAccording to social and behavioral science research methods increasingly complex and advanced in computer technology in recent years, a variety of multivariate statistical method has good application in the analysis of social and behavioral sciences research data. This course describes the use of SPSS statistical software and the use of multivariate statistical methods to analyze research data.\n\nThis course is designed for graduate students who had completed course of Educational Statistics (I) or equivalent. Content will include concepts of inferential statistics, the assumptions associated with and the application of selected inferential statistical procedures, including z-test, t-tests, Chi-square, one-way ANOVA, factorial designs of ANOVA, analysis of covariance, and linear regressions. Computer software (SPSS) will be employed to assist in the analysis of data for this course. The emphasis in this course will be upon understanding statistical concepts, developing skills for carrying out data analyses, and interpreting and reporting findings.\n\nAssessment Methodologies:  \nAssignments 20%  \nMidterm Exam 30%  \nFinal exam 30%  \nClass discussion involvement 10%  \nPresentation 10%\n\nSchedule:  \nWeek Content  \n1 Introduction of quantitate study  \n2 SPSS statistical software practice I  \n3 SPSS statistical software practice II  \n4 SPSS statistical software practice III  \n5 SPSS statistical software practice IV  \n6 SPSS statistical software practice V  \n7 Factorial analysis of variance I  \n8 Factorial analysis of variance II  \n9 Mid-term Examination  \n10 Multiple regression I  \n11 Multiple regression II  \n12 Item analysis, validity and reliability  \n13 Explore factor analysis  \n14 Confirmatory factor analysis  \n15 Structure equation modeling I  \n16 Structure equation modeling II  \n17 Structure equation modeling III  \n18 Final-term Examination\n\nRequired and Recommended Texts/Readings with References:  \nJulie Pallant  (2010) SPSS Survival Manual : A step by step guide to data analysis using SPSS ISBN：9780335242399",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "Analysis by PC"
+        },
+        {
+            "type": "討論法",
+            "note": "Analysis by PC"
+        },
+        {
+            "type": "問題解決教學",
+            "note": "Analysis by PC"
+        },
+        {
+            "type": "實驗/實作",
+            "note": "Analysis by PC"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 20,
+            "note": "Take home homework"
+        },
+        {
+            "type": "期中考",
+            "weight": 30,
+            "note": "Analysis by PC"
+        },
+        {
+            "type": "期末考",
+            "weight": 30,
+            "note": "Analysis by PC"
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 10,
+            "note": "credit"
+        },
+        {
+            "type": "出席",
+            "weight": 10,
+            "note": "credit"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

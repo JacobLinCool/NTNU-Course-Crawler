@@ -1,0 +1,81 @@
+{
+    "year": 110,
+    "term": 1,
+    "name": "中級法文（一）",
+    "teachers": [
+        "李曉芸"
+    ],
+    "department": "LU21",
+    "code": "ENU0255",
+    "credit": 2,
+    "serial": 1902,
+    "group": "",
+    "quota": {
+        "limit": 30,
+        "additional": 5
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 6,
+            "to": 7,
+            "campus": "本部",
+            "classroom": "正304"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "3",
+    "classes": "",
+    "dept_group": "",
+    "hours": 2,
+    "description": "訓練學生聽、讀、寫法文的能力",
+    "goals": [
+        "訓練學生聽、讀、寫法文的能力"
+    ],
+    "syllabus": "【授課方式：16+2週】\n\n1\\. 09/28     Révisions Echo A1-Leçon 1-5. Le passe composé.\n\n2. 10/05    Echo A1-Leçon 6-Les partitifs, les quantités ; vocabulaire : les aliments\n\n3. 10/12     L'interrogation\n\n4. 10/19     Aller au restaurant\n\n5. 10/26     Les dialogues  \n\n6. 11/02     Comment mangez-vous ? \n\n7. 11/09    Echo A1-Leçon 7-les verbes pronominaux\n\n8. 11/16     Examen mi-semestriel : écrit 期中筆試\n\n9.  11/23   Les verbes pronominaux au passé composé et au futur proche\n\n10\\. 11/30   L'impératif\n\n11\\. 12/07   Les dialogues\n\n12\\. 12/14   Tout est gratuit... ou presque\n\n13\\. 12/21    Acheter\n\n14\\. 12/28    Echo A1-Leçon 8-les prépositions de lieu, les directions\n\n15\\. 01/04    S'orienter\n\n16\\. 01/11    Examen final : oral et écrit 期末口試和筆試\n\n17\\. 01/18    Digital learning 數位學習\n\n18\\. 01/25    Digital learning 數位學習",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "法語發音及文法講述"
+        },
+        {
+            "type": "合作學習",
+            "note": "分組會話練習"
+        },
+        {
+            "type": "媒體融入教學",
+            "note": "法國影片、歌曲賞析"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 15,
+            "note": "短文寫作、聽寫、小考"
+        },
+        {
+            "type": "期中考",
+            "weight": 30,
+            "note": "筆試"
+        },
+        {
+            "type": "期末考",
+            "weight": 30,
+            "note": "分組對話口試和筆試"
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 15,
+            "note": "分組對話練習"
+        },
+        {
+            "type": "出席",
+            "weight": 10,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

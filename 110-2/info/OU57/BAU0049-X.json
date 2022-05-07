@@ -1,0 +1,61 @@
+{
+    "year": 110,
+    "term": 2,
+    "name": "管理數學",
+    "teachers": [
+        "何宗武"
+    ],
+    "department": "OU57",
+    "code": "BAU0049",
+    "credit": 3,
+    "serial": 2439,
+    "group": "",
+    "quota": {
+        "limit": 60,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 5,
+            "from": 7,
+            "to": 9,
+            "campus": "本部",
+            "classroom": "誠109"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎必須先修過【BAU0064  商用微積分】 ◎課程開放上修",
+    "form_s": "1",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程介紹積分基本概念與其在財務、經濟、管理和其它領域的應用。",
+    "goals": [
+        "增進數學分析基本概念的理解，使得學生學習管理數學之技巧",
+        "增進邏輯推理與歸納的能力",
+        "增進數學思維與批判性思考的能力",
+        "增進專業知識及追求真理的態度，助學生在管理數學領域上的學習與運用"
+    ],
+    "syllabus": "**課程綱要**\n\n本課程延伸商用微積分課程(BAU0064)，介紹矩陣代數與數學最佳化的應用。同學必須利用微積分的觀念及技巧來佐證自己的答案。\n\n**教學進度**\n\n週次\n\n日期\n\n進度\n\n1\n\n2月26日\n\n矩陣入門\n\n2\n\n3月5日\n\n矩陣代數基礎\n\n4\n\n3月12日\n\n矩陣的進一步應用\n\n5\n\n3月19日\n\nPython 教學\n\n6\n\n3月26日\n\n第一次 Test\n\n7\n\n4月2日\n\n數學規劃入門\n\n8\n\n4月9日\n\n單變數函數的優化問題\n\n9\n\n4月16日\n\n續&Python 教學\n\n10\n\n4月23日\n\n第二次 Test\n\n11\n\n4月30日\n\n雙變數函數的優化問題\n\n12\n\n5月7日\n\n續&Python 教學\n\n13\n\n5月14日\n\n續\n\n14\n\n5月21日\n\n具限制條件下的最佳化問題\n\n15\n\n5月28日\n\n續&Python 教學\n\n16\n\n6月4日\n\n期末 Test\n\n17\n\n6月11日\n\nPython 教學與資源\n\n18\n\n6月18日\n\nPython 教學與資源",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "解題講述"
+        }
+    ],
+    "grading": [
+        {
+            "type": "期中考",
+            "weight": 60,
+            "note": "兩次，各30%"
+        },
+        {
+            "type": "期末考",
+            "weight": 40,
+            "note": ""
+        }
+    ],
+    "prerequisite": "◎必須先修過【BAU0064  商用微積分】",
+    "general_core": []
+}

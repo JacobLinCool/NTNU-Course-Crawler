@@ -1,0 +1,99 @@
+{
+    "year": 110,
+    "term": 2,
+    "name": "運動生物力學專題研究",
+    "teachers": [
+        "黃長福"
+    ],
+    "department": "AM30",
+    "code": "PEC0076",
+    "credit": 3,
+    "serial": 20,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 5,
+            "from": 6,
+            "to": 8,
+            "campus": "公館",
+            "classroom": "體育館三樓視聽教室"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "",
+    "goals": [
+        "Understand the kinematic, kinetic, and electromyography principal theory and application.",
+        "Acquire the 2D, 3D images, force plate, and electromyography data collection and analysis.",
+        "Learn to read and review sports biomechanics research papers.",
+        "Understand modern sports biomechanics research trends."
+    ],
+    "syllabus": "16+2 weeks\n\nweek 1    Historical aspects of biomechanical analyses  \nweek 2   Photo-optical issues and lenses  \nweek 3   Kinematics I  \nweek 4   Kinematics II  \nweek 5   Kinetics I  \nweek 6   Kinetics II  \nweek 7   2D motion analysis and force plate I  \nweek 8   2D motion analysis and force plate II\n\nweek 9   Introduction to 3D motion analysis I\n\nweek 10  Introduction to 3D motion analysis II\n\nweek 11  EMG I\n\nweek 12  EMG II\n\nweek 13  paper review and presentation I\n\nweek 14  paper review and presentation II\n\nweek 15  paper review and presentation III\n\nweek 15  paper review and presentation IV\n\nweek 16  Final exam",
+    "methodologies": [
+        {
+            "type": "Formal lecture",
+            "note": "Powerpoint presentation"
+        },
+        {
+            "type": "Group discussion",
+            "note": "Discussion with students related to the biomechanics topics"
+        },
+        {
+            "type": "Problem base learning",
+            "note": "solve biomechanics related problems"
+        },
+        {
+            "type": "Cooperative learning",
+            "note": "group work in the lab sessions"
+        },
+        {
+            "type": "Lab/Studio",
+            "note": "data collection and analysis in lab sessions"
+        },
+        {
+            "type": "Media, audio, visual materials",
+            "note": "movie and video presentation in the class"
+        },
+        {
+            "type": "Case studies",
+            "note": "paper review and discussion in the class"
+        },
+        {
+            "type": "Other:",
+            "note": "paper presentation"
+        }
+    ],
+    "grading": [
+        {
+            "type": "Assignments",
+            "weight": 20,
+            "note": "five homeworks for the class"
+        },
+        {
+            "type": "Final exam",
+            "weight": 30,
+            "note": "Final exam"
+        },
+        {
+            "type": "Class discussion involvement",
+            "weight": 20,
+            "note": "paper reading and discussion"
+        },
+        {
+            "type": "Presentation",
+            "weight": 30,
+            "note": "paper review and presentation"
+        }
+    ],
+    "prerequisite": "◎Available for junior and senior year B.A. program students (Doctoral program courses excepted) and M.A. program students.",
+    "general_core": []
+}

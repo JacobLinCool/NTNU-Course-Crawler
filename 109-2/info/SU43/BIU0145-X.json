@@ -1,0 +1,78 @@
+{
+    "year": 109,
+    "term": 2,
+    "name": "分子生物學",
+    "teachers": [
+        "蘇銘燦",
+        "謝秀梅",
+        "林炎壽"
+    ],
+    "department": "SU43",
+    "code": "BIU0145",
+    "credit": 3,
+    "serial": 2936,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 3,
+            "from": 7,
+            "to": 9,
+            "campus": "公館",
+            "classroom": "Ｅ202"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎必須先修過(也可以同時修)【BIU0168  普通生物學甲（一）】、【BIU0169  普通生物學甲（二）】",
+    "form_s": "3",
+    "classes": "2",
+    "dept_group": "",
+    "hours": 3,
+    "description": "分子生物學課程內容為以分子層次的觀點探討生物個體細微運作的生命現象，重點強調基因之複製和修補、表現及調控機制，並介紹現今各項分子生物相關技術，而且以癌症作為一個實際之例子說明分子生物學之原理，過程及應用。其中基因的表現過程涵蓋轉錄、轉譯及轉譯後修飾等；基因的表現調控機制以原核生物的調控為基礎，再加上近期真核生物之基因表現調控發現，使學生學習到分子生物學知識的演變及最新的資訊。",
+    "goals": [
+        "以分子層次的觀點探討生物個體細微運作的生命現象，重點強調基因之複製和修補、表現及調控機制"
+    ],
+    "syllabus": "Date\n\nContent\n\nChapters       \n\nLecturer\n\nWeek 01\n\nDNA replication, transcription, and translation\n\n5\n\nHsieh\n\nWeek 02\n\nDNA repair and recombination\n\n5\n\nHsieh\n\nWeek 03\n\nGene structure and chromosomal organization\n\n8\n\nHsieh\n\nWeek 04\n\nTransposable and organelle DNA\n\n8\n\nHsieh\n\n**Week 05**\n\nCulturing and Perturbing Cells &\n\n**Midterm I (4.1, 4.4, 5, 8)**\n\n4.1, 4.4\n\nHsieh\n\nWeek 06\n\nVisualizing cells\n\n4.2, 4.3\n\nSu\n\nWeek 07\n\nGenetic analysis of mutations\n\n6.1, 6.2   \n\nSu\n\nWeek 08\n\nStudy gene expression\n\n6.3, 6.4\n\nSu\n\nWeek 09\n\nControl of gene expression in bacteria\n\n9.1-9.4\n\nSu\n\n**Week 10**\n\nRegulation of transcription-factor activity &\n\n**Midterm II (****4.2-3, 6.1-4, 9****)**\n\n9.4-9.8\n\nSu\n\nWeek 11\n\nGene inactivation\n\n6.5\n\nLin\n\nWeek 12\n\nPost-transcriptional gene control in nucleus\n\n10\n\nLin\n\nWeek 13\n\nPost-transcriptional control in cytoplasm\n\n10\n\nLin\n\nWeek 14\n\nOnset and basis of cancer\n\n24\n\nLin\n\nWeek 15\n\nOncogenes/tumor suppressor genes       \n\n24\n\nLin\n\n**Week 16**\n\n**Final** **Exam (6.5, 10, 24)**\n\n**Lin**\n\nWeek 17\n\nSelf-learning/Self-directed learning\n\nWeek 18\n\nSelf-learning/Self-directed learning",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "參考教科書並且自編講義媒材授課"
+        },
+        {
+            "type": "討論法",
+            "note": "依據邏輯來討論知識或案例之合理性"
+        },
+        {
+            "type": "媒體融入教學",
+            "note": "運用數位平台與自製簡報檔案教學"
+        }
+    ],
+    "grading": [
+        {
+            "type": "期中考",
+            "weight": 60,
+            "note": "1-1具備生命科學之專業知識 (30%)\n2-1具備運用生命科學相關研究方法與技術的能力(30%)\n3-1具備正確的科學態度，能主動探索生命科學之相關議題 (20%)\n4-1具備以多元表徵轉化生命科學概念之溝通與表達能力(20%)"
+        },
+        {
+            "type": "期末考",
+            "weight": 30,
+            "note": "1-1具備生命科學之專業知識 (30%)\n2-1具備運用生命科學相關研究方法與技術的能力(30%)\n3-1具備正確的科學態度，能主動探索生命科學之相關議題 (20%)\n4-1具備以多元表徵轉化生命科學概念之溝通與表達能力(20%)"
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 3,
+            "note": "1-1具備生命科學之專業知識 (30%)\n2-1具備運用生命科學相關研究方法與技術的能力(30%)\n3-1具備正確的科學態度，能主動探索生命科學之相關議題 (20%)\n4-1具備以多元表徵轉化生命科學概念之溝通與表達能力(20%)"
+        },
+        {
+            "type": "報告",
+            "weight": 7,
+            "note": "1-1具備生命科學之專業知識 (30%)\n2-1具備運用生命科學相關研究方法與技術的能力(30%)\n3-1具備正確的科學態度，能主動探索生命科學之相關議題 (20%)\n4-1具備以多元表徵轉化生命科學概念之溝通與表達能力(20%)"
+        }
+    ],
+    "prerequisite": "◎必須先修過(也可以同時修)【BIU0168  普通生物學甲（一）】、【BIU0169  普通生物學甲（二）】",
+    "general_core": []
+}

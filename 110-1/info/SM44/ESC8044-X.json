@@ -1,0 +1,78 @@
+{
+    "year": 110,
+    "term": 1,
+    "name": "地球物理流體力學",
+    "teachers": [
+        "陳正達"
+    ],
+    "department": "SM44",
+    "code": "ESC8044",
+    "credit": 3,
+    "serial": 2724,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 3,
+            "to": 4,
+            "campus": "公館",
+            "classroom": "Ｃ409"
+        },
+        {
+            "day": 5,
+            "from": 3,
+            "to": 3,
+            "campus": "公館",
+            "classroom": "Ｃ409"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程不開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "回顧與闡釋大氣運動學中的重要基礎概念與理論。",
+    "goals": [
+        "回顧與闡釋大氣運動學中的重要基礎概念與理論。"
+    ],
+    "syllabus": "1\\. 渦度、環流、位渦（Vorticity, Circulation, and Potential Vorticity）\n\n2\\. 靜力與地轉近似（Hydrostatic and Geostrophic Approximations）\n\n3\\. 淺水方程式（Shallow Water Equations）\n\n4\\. 兩層模式（The Two-Layer Model）\n\n5\\. 連續密度分層流場的準地轉特性（Quasi-Geostrophy for Continuously Stratified Flow）",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": ""
+        },
+        {
+            "type": "其他",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "期中考",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 40,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

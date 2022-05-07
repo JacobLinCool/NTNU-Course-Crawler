@@ -1,0 +1,93 @@
+{
+    "year": 109,
+    "term": 2,
+    "name": "流體力學",
+    "teachers": [
+        "陳韋任"
+    ],
+    "department": "HU70",
+    "code": "IEU1843",
+    "credit": 3,
+    "serial": 1176,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 5
+    },
+    "schedule": [
+        {
+            "day": 1,
+            "from": 6,
+            "to": 8,
+            "campus": "本部",
+            "classroom": "工401"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "This course provides an introduction to principal concepts and methods of fluid mechanics. The overall goal is to help students develop problem-solving skills essential to handle practical engineering applications.",
+    "goals": [
+        "具備流體力學所需之知識與理解力",
+        "具備流體力學所需之問題解決能力",
+        "具備流體力學應用之專業設計能力",
+        "具備主動積極與終身學習之人格特質",
+        "具備職場專業倫理與社會服務的理解與行動",
+        "具備尊重智慧財產權的認知與態度"
+    ],
+    "syllabus": "第1週：課程進度、大綱、評量方式簡介，購買教科用書\n\n第2週：Introduction\n\n第3週：Fluid Statics I\n\n第4週：Fluid Statics II\n\n第5週：Elementary Fluid Dynamics—TheBernoulli Equation I\n\n第6週：Elementary Fluid Dynamics—TheBernoulli Equation II\n\n第7週：Fluid Kinematics I\n\n第8週：Midterm Exam\n\n第9週：Fluid Kinematics II\n\n第10週：Finite Control Volume AnalysisI\n\n第11週：Finite Control Volume AnalysisII\n\n第12週：Dimensional Analysis,Similitude, and Modeling I\n\n第13週：Dimensional Analysis,Similitude, and Modeling II\n\n第14週：Viscous Flow in Pipes I\n\n第15週：Viscous Flow in Pipes II\n\n第16週：FinalExam\n\n第17週:  Alternative curriculum\n\n第18週:  Alternative curriculum",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "講述方式： 每一章節均以『揭示綱要』、『詳述內容』、『綜述要點』此三步驟來進行。"
+        },
+        {
+            "type": "討論法",
+            "note": "在課堂的原理講述過程中，鼓勵同學踴躍思考提出問題。"
+        },
+        {
+            "type": "問題解決教學",
+            "note": "利用實際的工程案例，幫助同學演練應用課堂學到的知識。"
+        },
+        {
+            "type": "合作學習",
+            "note": "課程一開始就要求修課學生進行分組，上課時，同一組同學坐在一起，課堂上任課老師會出課程相關問題，並要求學生合作討論並加以解答。"
+        },
+        {
+            "type": "媒體融入教學",
+            "note": "使用PPT教學檔案"
+        },
+        {
+            "type": "其他",
+            "note": "教師另運用示範、練習等教學方法，培養學生認知方面素養"
+        }
+    ],
+    "grading": [
+        {
+            "type": "期中考",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 40,
+            "note": ""
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 20,
+            "note": "小組工程實戰訓練"
+        },
+        {
+            "type": "出席",
+            "weight": 10,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

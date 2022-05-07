@@ -1,0 +1,76 @@
+{
+    "year": 107,
+    "term": 2,
+    "name": "邏輯語言程式設計",
+    "teachers": [
+        "方瓊瑤"
+    ],
+    "department": "SU47",
+    "code": "CSU0017",
+    "credit": 3,
+    "serial": 2949,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 1,
+            "from": 7,
+            "to": 9,
+            "campus": "公館",
+            "classroom": "理圖801"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "2",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "This course teaches the techniques of Logic Programming through the Prolog/Perl language.",
+    "goals": [
+        "能撰寫PROLOG的程式"
+    ],
+    "syllabus": "本課程主要目的在讓學生認識並學會撰寫邏輯語言(PROLOG)。  \n1.能了解邏輯語言(PROLOG)的語法。  \n2.會撰寫邏輯語言(PROLOG)的語法並用來解題。  \n3.學會邏輯語言的設計理念。  \nCh1:IntroductiontoProlog  \nCh2:SyntaxandmeaningofPrologprograms  \nCh3:List,operators,arithmetic  \nCh4:Usingstructures:exampleprograms  \nCh5:Controllingbacktracking  \nCh6:Inputandoutput  \nCh7:Morebuilt-inpredicates  \nCh8:Programmingstyleandtechnique  \nCh9:Operationsondatastructures  \nCh11:Basicproblem-solvingstrategies  \n評量方式：期中考25%，期末考30%，課堂作業35%(含討論區作業與課堂學習單)，上課出席10%  \n注意事項：  \n1.期中期末考試包含筆試(CLOSEBOOK)以及上機(OPENBOOK)二部份，各佔50%。  \n2.課堂作業為程式作業，需當堂課繳交，不得補交。另，期末需繳交該學期課堂作業之總報告，包含每一次的作業名稱、程式內容、及測試結果。\n\n3.考試請勿作弊，作業請勿抄襲，否則學期成績以零分計算。  \n4.學期中若對上課方式或課程內容有問題，請儘速找老師討論。謝謝!!",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "問題解決教學",
+            "note": ""
+        },
+        {
+            "type": "實驗/實作",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 35,
+            "note": "含討論區作業與課堂學習單"
+        },
+        {
+            "type": "期中考",
+            "weight": 25,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "出席",
+            "weight": 10,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

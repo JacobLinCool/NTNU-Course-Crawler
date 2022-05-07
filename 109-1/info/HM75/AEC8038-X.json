@@ -1,0 +1,95 @@
+{
+    "year": 109,
+    "term": 1,
+    "name": "機器人控制",
+    "teachers": [
+        "蔣欣翰"
+    ],
+    "department": "HM75",
+    "code": "AEC8038",
+    "credit": 3,
+    "serial": 1218,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 3,
+            "to": 5,
+            "campus": "本部",
+            "classroom": "多媒體與通訊實驗室"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "使學生瞭解機器人動力傳輸組件之設計與製作，瞭解機器人控制方法，培養具備機器人所需之機電整合與程式設計能力，使學生能夠在團隊合作中，利用各種傳動裝置及編寫驅動及控制程式，控制機器人之行動。",
+    "goals": [
+        "瞭解機器人動力傳輸組件之設計與製作",
+        "瞭解機器人之控制方法，能夠撰寫程式以控制機器人",
+        "熟悉機器人所需之機電整合所需技術",
+        "培養問題導向的思維和研究之能力",
+        "提升工程問題理解之能力，能夠分析各種機器人相關問題及設計解決方案",
+        "能夠搜尋及研讀國內外相關技術之文獻，提升自我學習之能力",
+        "能夠以小組方式進行主題式研究，培養團隊合作之能力"
+    ],
+    "syllabus": "本課程首先介紹機器人控制設計的基本內容，包含機構設計、資料獲取、動作控制、感應、以及機器人路徑規劃與軌機追蹤控制等進階主題。學生可以從本課程中學習如何設計各種實際上廣泛應用的機器人手臂及移動機器人，以及搭配實驗內容透過機器人實驗模組來學習機器人的設計與開發，並培養學生使用機器人相關熱門程式工具(LabVIEW、Matlab、ROS)開發機器人功能之能力。總體來說，透過本課程每一個章節循序漸進的教學，同學在本課程中可學習到機器人控制基本的相關理論到實際上應用的機器人開發技術。\n\n本課程的每週教學進度如下：\n\nWeek 1.\n\nIntroduction to Robotics Control\n\nWeek 2.\n\nFoundations\n\nWeek 3.\n\nSensors and Actuators\n\nWeek 4.\n\nMobile Robots\n\nWeek 5.\n\nMobile Robots-Motion Planning\n\nWeek 6.\n\nMobile Robots-Feedback Control\n\nWeek 7.\n\nRobotics Lab #1\n\nWeek 8.\n\nRobotics Lab #2\n\nWeek 9.\n\nMidterm\n\nWeek 10.\n\nArm-type Robots\n\nWeek 11.\n\nArm-type Robots-Kinematics\n\nWeek 12.\n\nArm-type Robots-Trajectory Generation\n\nWeek 13.\n\nArm-type Robots-Motion Planning\n\nWeek 14.\n\nArm-type Robots-Dynamics and Control\n\nWeek 15.\n\nRobotics Lab #3\n\nWeek 16.\n\nRobotics Lab #4\n\nWeek 17.\n\nComputer Vision for Robotics Control\n\nWeek 18.\n\nFinal and Project",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "課程投影片及參考書目"
+        },
+        {
+            "type": "問題解決教學",
+            "note": "課程內容搭配實驗"
+        },
+        {
+            "type": "合作學習",
+            "note": "實驗分組進行與課程內容討論"
+        },
+        {
+            "type": "實驗/實作",
+            "note": "搭配機器人開發之軟硬體進行實驗實作"
+        },
+        {
+            "type": "專題研究",
+            "note": "期末專題"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 10,
+            "note": "Matlab/LabVIEW/ROS Using"
+        },
+        {
+            "type": "期中考",
+            "weight": 20,
+            "note": "Midterm"
+        },
+        {
+            "type": "期末考",
+            "weight": 20,
+            "note": "Final"
+        },
+        {
+            "type": "報告",
+            "weight": 30,
+            "note": "Lab Reports"
+        },
+        {
+            "type": "專題",
+            "weight": 20,
+            "note": "Final Project"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

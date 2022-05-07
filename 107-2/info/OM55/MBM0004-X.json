@@ -1,0 +1,91 @@
+{
+    "year": 107,
+    "term": 2,
+    "name": "管理會計",
+    "teachers": [
+        "陳慧玲"
+    ],
+    "department": "OM55",
+    "code": "MBM0004",
+    "credit": 3,
+    "serial": 2394,
+    "group": "",
+    "quota": {
+        "limit": 30,
+        "additional": 35
+    },
+    "schedule": [
+        {
+            "day": 3,
+            "from": 2,
+            "to": 4,
+            "campus": "本部",
+            "classroom": "綜508會議室"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎必須先修過【BAU0036  會計學（一）】、【PGUA005  會計學】其中一門 ◎課程開放上修",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "藉由本課程，學生可以學習：\n1.\t瞭解管理會計基本的理論與方法\n2.\t應用管理會計技術進行決策\n3.\t瞭解如何使用會計資訊經營企業",
+    "goals": [
+        "使學生瞭解經理人員如何運用管理會計資訊進行產品訂價、規劃、控制、考核等決策，並藉由課堂討論與個案培養解決問題與制訂決策能力",
+        "使學生將課堂學習之管理會計資訊與數量方法分析運用於解決個案問題，以達自主學習目的"
+    ],
+    "syllabus": "第1週：Management decisions and accounting information\n\n第2週：Basic cost terms and cost management concepts\n\n第3週：Product costing systems\n\n第4-5週：Activity-based costing and management\n\n第6週：Cost behavior & estimation\n\n第7-8週：Cost-volume-profit analysis\n\n第9週：Mid-term exam\n\n第10-11週：Budgeting\n\n第12週：Standard Costing\n\n第13週：Flexible budgeting and control of overhead cost\n\n第14週：Responsibility accounting & performance evaluation\n\n第15-16週：Transfer pricing\n\n第17週：Accounting information for Managerial decisions\n\n第18週：Final exam",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "講述管理會計理論與實務"
+        },
+        {
+            "type": "討論法",
+            "note": "全班於課堂中討論重要管理會計議題"
+        },
+        {
+            "type": "問題解決教學",
+            "note": "利用指定個案，引導學生將管理會計理論與實務運用於解決個案問題，以達自主學習目的"
+        },
+        {
+            "type": "合作學習",
+            "note": "小組上台報告並回答問題"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 20,
+            "note": "依據所指定學術性文章撰寫報告"
+        },
+        {
+            "type": "期中考",
+            "weight": 20,
+            "note": "計算題與問答題"
+        },
+        {
+            "type": "期末考",
+            "weight": 20,
+            "note": "計算題與問答題"
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 5,
+            "note": "出席並參與課堂討論的情形"
+        },
+        {
+            "type": "報告",
+            "weight": 15,
+            "note": "每一小組依據所分配個案，上台報告並接受同儕提問。評分標準為簡報內容與回答問題之能力"
+        },
+        {
+            "type": "其他",
+            "weight": 20,
+            "note": "個案：解決個案的問題，並撰寫個案報告"
+        }
+    ],
+    "prerequisite": "◎必須先修過【BAU0036  會計學（一）】、【PGUA005  會計學】其中一門",
+    "general_core": []
+}

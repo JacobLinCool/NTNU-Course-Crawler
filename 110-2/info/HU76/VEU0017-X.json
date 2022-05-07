@@ -1,0 +1,94 @@
+{
+    "year": 110,
+    "term": 2,
+    "name": "程式設計",
+    "teachers": [
+        "童元鍼"
+    ],
+    "department": "HU76",
+    "code": "VEU0017",
+    "credit": 3,
+    "serial": 1296,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 4,
+            "from": 6,
+            "to": 8,
+            "campus": "本部",
+            "classroom": "工209"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程教導學生學會使用科學/工程運算用高階語言程式：MATLAB與Simulink。課程設計強調原理的了解與實際動手撰寫程式並進的方式，搭配作業的指定與平時、期中以及期末測驗，建立修課學生程式設計與撰寫程式解決工程問題的基本能力。",
+    "goals": [
+        "具備程式設計所需之知識與理解力",
+        "具備程式設計所需之基礎研究能力",
+        "具備程式設計之設備操作與檢修實務技能",
+        "具備程式設計之檢測與數據分析實務技能",
+        "具備主動積極與終身學習之人格特質",
+        "具備職場專業倫理與社會服務的理解與行動"
+    ],
+    "syllabus": "課程實施時間與綱要：\n\nPART I：程式基礎\n\n1.   課程簡介、處理器架構\n\n2.   矩陣的處理與運算\n\n3.   字元與字串\n\n4.   異質與結構陣列\n\n5.   MATLAB的運算元\n\n6.   二維、三維繪圖\n\n7.   底稿(腳本)、函式與M檔\n\n8.   GUI製作：APP Designer (1)\n\n9.   GUI製作：APP Designer (2)\n\n10.  期中考\n\nPART II：處理工程/應用問題\n\n11.  多維陣列與影像處理\n\n12.  機器學習、深度學習\n\n13.  統計與科學運算\n\n14.  淺談微分方程式與線性系統\n\n15.  使用Simulink進行系統建模與模擬\n\n16.  期末考\n\n17.  數位線上學習：MATLAB for Data Processing and Visualization\n\n18.  數位線上學習：MATLAB Programming Techniques",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "教師上課講述相關專業知識。"
+        },
+        {
+            "type": "討論法",
+            "note": "教師提出相關問題或議題供上課同學討論。"
+        },
+        {
+            "type": "問題解決教學",
+            "note": ""
+        },
+        {
+            "type": "實驗/實作",
+            "note": ""
+        },
+        {
+            "type": "媒體融入教學",
+            "note": "使用PPT或影片多媒體輔助教學。"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 30,
+            "note": "課後上機實作作業。"
+        },
+        {
+            "type": "期中考",
+            "weight": 25,
+            "note": "紙筆測驗/上機實作"
+        },
+        {
+            "type": "期末考",
+            "weight": 25,
+            "note": "紙筆測驗/上機實作"
+        },
+        {
+            "type": "出席",
+            "weight": 10,
+            "note": "點名統計出席狀況"
+        },
+        {
+            "type": "其他",
+            "weight": 10,
+            "note": "紙筆測驗/上機實作"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

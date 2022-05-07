@@ -1,0 +1,71 @@
+{
+    "year": 107,
+    "term": 1,
+    "name": "地圖學",
+    "teachers": [
+        "周學政"
+    ],
+    "department": "LU23",
+    "code": "GEU0017",
+    "credit": 3,
+    "serial": 1964,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 5
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 2,
+            "to": 4,
+            "campus": "本部",
+            "classroom": "正206"
+        }
+    ],
+    "programs": [
+        "空間學程"
+    ],
+    "comment": "",
+    "restrict": "",
+    "form_s": "2",
+    "classes": "2",
+    "dept_group": "",
+    "hours": 3,
+    "description": "瞭解地圖學之基礎原理，能分析地圖之優劣。\n熟悉基本製圖技術，設計與製作地圖。",
+    "goals": [
+        "瞭解地圖學原理",
+        "正確使用地圖",
+        "能製作基本地圖"
+    ],
+    "syllabus": "1\\. 緒論2\\. 統計基礎3\\. 符號化概論4\\. 簡括化5\\. 地圖投影6\\. 符號化7\\. 地圖產製8\\. 基本統計地圖9\\. 進階統計地圖10\\. 地理視覺化",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "實驗/實作",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 40,
+            "note": ""
+        },
+        {
+            "type": "期中考",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 30,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

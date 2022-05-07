@@ -1,0 +1,206 @@
+[
+    {
+        "year": 107,
+        "term": 2,
+        "name": "管理科學模式",
+        "teachers": [
+            "施人英"
+        ],
+        "department": "OU57",
+        "code": "BAU0006",
+        "credit": 3,
+        "serial": 2424,
+        "group": "",
+        "quota": {
+            "limit": 60,
+            "additional": 5
+        },
+        "schedule": [
+            {
+                "day": 5,
+                "from": 2,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "教401"
+            }
+        ],
+        "programs": [
+            "基礎管理學程"
+        ],
+        "comment": "",
+        "restrict": "◎必須先修過【BAU0049  管理數學】",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "企業概論",
+        "teachers": [
+            "林舒柔"
+        ],
+        "department": "ZU83",
+        "code": "PGUA001",
+        "credit": 3,
+        "serial": 3148,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 7,
+                "to": 9,
+                "campus": "本部",
+                "classroom": "樸402"
+            }
+        ],
+        "programs": [
+            "基礎管理學程"
+        ],
+        "comment": "",
+        "restrict": "◎第一階段限 基礎管理學程",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "財務管理",
+        "teachers": [
+            "林建榮"
+        ],
+        "department": "ZU83",
+        "code": "PGUA003",
+        "credit": 3,
+        "serial": 3149,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 5,
+                "from": 6,
+                "to": 8,
+                "campus": "本部",
+                "classroom": "誠207"
+            }
+        ],
+        "programs": [
+            "基礎管理學程"
+        ],
+        "comment": "",
+        "restrict": "◎第一階段限 基礎管理學程",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "會計學",
+        "teachers": [
+            "陳慧玲"
+        ],
+        "department": "ZU83",
+        "code": "PGUA005",
+        "credit": 3,
+        "serial": 3150,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 6,
+                "to": 8,
+                "campus": "本部",
+                "classroom": "誠207"
+            }
+        ],
+        "programs": [
+            "基礎管理學程"
+        ],
+        "comment": "",
+        "restrict": "◎第一階段限 基礎管理學程",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "統計學",
+        "teachers": [
+            "徐美"
+        ],
+        "department": "ZU83",
+        "code": "PGUA007",
+        "credit": 3,
+        "serial": 3151,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 2,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "正102"
+            }
+        ],
+        "programs": [
+            "基礎管理學程"
+        ],
+        "comment": "",
+        "restrict": "◎第一階段限 基礎管理學程",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "金融講堂",
+        "teachers": [
+            "徐美"
+        ],
+        "department": "ZU83",
+        "code": "PGUA019",
+        "credit": 3,
+        "serial": 3152,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 7,
+                "to": 9,
+                "campus": "本部",
+                "classroom": "誠102"
+            }
+        ],
+        "programs": [
+            "基礎管理學程"
+        ],
+        "comment": "",
+        "restrict": "◎第一階段限 基礎管理學程",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    }
+]

@@ -1,0 +1,76 @@
+{
+    "year": 108,
+    "term": 2,
+    "name": "微處理機",
+    "teachers": [
+        "康立威"
+    ],
+    "department": "HU75",
+    "code": "AEU0023",
+    "credit": 3,
+    "serial": 1250,
+    "group": "",
+    "quota": {
+        "limit": 40,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 5,
+            "from": 2,
+            "to": 4,
+            "campus": "本部",
+            "classroom": "電機系電子實驗室"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "3",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程透過多個實作作業的設計，讓學生充分體會由需求，規格制定，演算法規畫，到實際完成作品，進行測試與版本修改的實際體驗，透過講授、閱讀、討論及問題解決教學與實作方式介紹微處理機的結構／概念，來培養學生對應系所所需的核心能力：\n1.第一階段先複習組成元件，透過HDL語言的模擬與實作，熟悉組成微處理機元件的特性。\n2.第二階段先進行由元件組成微處理機硬體電路的設計/分析；然後透過組合語言軟體程式設計，控制硬體電路",
+    "goals": [
+        "具備微處理機的基礎知識",
+        "具備HDL電路元件實作與測試分析的能力",
+        "會使用CAD工具，進行電路設計/模擬與下載驗證",
+        "培養描述問題能力，能獨力思考",
+        "培養電路與程式偵錯能力",
+        "能自我學習"
+    ],
+    "syllabus": "微處理機 (或更廣義的嵌入式系統) 之應用層面相當廣泛，從個人電腦、手持式裝置至嵌入式系統等都仰賴微處理機做為資訊處理的中樞。因此, 微處理機技術已經成為發展智慧型科技產品之必備基礎。本課程將介紹嵌入式系統的基本架構及設計原理, 及以微處理機來實現嵌入式系統的方法. 本課程大綱如下所示:\n\n第一週   Introduction\n\n第二週   A Systems Approach to Embedded Systems Design\n\n第三週   Overview of Programming Languages and Examples of their Standards (I)\n\n第四週   Overview of Programming Languages and Examples of their Standards (II)\n\n第五週   Embedded Hardware Building Blocks and the Embedded Board (I) \n\n第六週   Embedded Hardware Building Blocks and the Embedded Board (II)\n\n第七週   Embedded Processors (I)\n\n第八週   期中考試\n\n第九週   Embedded Processors (II)\n\n第十週   Board Memory (I)\n\n第十一週   Board Memory (II)\n\n第十二週   Board I/O\n\n第十三週   Board Buses\n\n第十四週   Device Drivers\n\n第十五週   Embedded Operating Systems\n\n第十六週   期末考試\n\n第十七週   專題討論 (I)\n\n第十八週   專題討論 (II)",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": ""
+        },
+        {
+            "type": "問題解決教學",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "期中考",
+            "weight": 40,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 40,
+            "note": ""
+        },
+        {
+            "type": "其他",
+            "weight": 20,
+            "note": "隨堂上機實作或小考"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

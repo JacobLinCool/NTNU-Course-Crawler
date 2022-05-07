@@ -1,0 +1,83 @@
+{
+    "year": 110,
+    "term": 1,
+    "name": "膳食療養實驗（一）",
+    "teachers": [
+        "葉宛儒"
+    ],
+    "department": "SU51",
+    "code": "NSU0017",
+    "credit": 1,
+    "serial": 3084,
+    "group": "",
+    "quota": {
+        "limit": 40,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 1,
+            "from": 2,
+            "to": 4,
+            "campus": "本部",
+            "classroom": "勤001"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎必須先修過【NSU0007  營養學（二）】",
+    "form_s": "3",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "1.了解各種疾病飲食之原則。\n2.膳食設計實作。",
+    "goals": [
+        "各種疾病的菜單設計、烹調、成品質與量評論、與品嚐",
+        "學生學習對病人飲食指導",
+        "醫院實習準備且使學生具備營養師執業能力"
+    ],
+    "syllabus": "【授課16週】\n\n週數\n\n一\n\n課程內容\n\n1\n\n9/27\n\n課程介紹\n\n2\n\n10/4\n\n膳食設計\n\n3\n\n10/11\n\n國慶日快樂\n\n4\n\n10/18\n\n正常飲食和軟質飲食\n\n5\n\n10/25\n\n半流質飲食、全流質和牙科手術後流質飲食\n\n6\n\n11/1\n\n清流質飲食和高纖維飲食\n\n7\n\n11/8\n\n低渣飲食和溫和飲食\n\n8\n\n11/15\n\n期中考\n\n9\n\n11/22\n\n管灌飲食\n\n10\n\n11/29\n\n商業配方報告 (I)\n\n11\n\n12/6\n\n商業配方報告 (II)\n\n12\n\n12/13\n\n元素飲食和減重飲食\n\n13\n\n12/20\n\n糖尿病飲食\n\n14\n\n12/27\n\n商業配方\n\n15\n\n1/3\n\n期末報告\n\n16\n\n1/10\n\n期末考",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": ""
+        },
+        {
+            "type": "實驗/實作",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "期中考",
+            "weight": 10,
+            "note": "期中報告"
+        },
+        {
+            "type": "期末考",
+            "weight": 25,
+            "note": "期末報告"
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 10,
+            "note": "課堂實做表現和同學互評"
+        },
+        {
+            "type": "出席",
+            "weight": 15,
+            "note": ""
+        },
+        {
+            "type": "報告",
+            "weight": 40,
+            "note": "作業 (預筆和課後報告)"
+        }
+    ],
+    "prerequisite": "◎必須先修過【NSU0007  營養學（二）】",
+    "general_core": []
+}

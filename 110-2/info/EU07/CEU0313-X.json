@@ -1,0 +1,76 @@
+{
+    "year": 110,
+    "term": 2,
+    "name": "國際金融",
+    "teachers": [
+        "周有熙"
+    ],
+    "department": "EU07",
+    "code": "CEU0313",
+    "credit": 3,
+    "serial": 815,
+    "group": "",
+    "quota": {
+        "limit": 155,
+        "additional": 15
+    },
+    "schedule": [
+        {
+            "day": 4,
+            "from": 8,
+            "to": 10,
+            "campus": "本部",
+            "classroom": "綜210展覽廳"
+        }
+    ],
+    "programs": [
+        "財金學程"
+    ],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "3",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "詳見教學大綱",
+    "goals": [
+        "使學生有現代國際金融市場常識",
+        "使學生了解何謂匯率風險並如何規避",
+        "了解匯率變化和總體經濟之間的關係"
+    ],
+    "syllabus": "本課程將介紹國際金融基礎知識。課程內容將包含即期匯率的報價，遠期外匯市場，國際收支帳，匯率制度，匯率與物價的關連性，匯率與利率的關連性，名目匯率決定模型等。\n\n修課學生需至少修過(1)微積分 或 (2) 經濟學, 最好還有一點統計學基礎，不適合數學學的太少的同學修課。\n\n公領系同學建議大三以上再來修。",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "以自製投影片上課"
+        },
+        {
+            "type": "專題研究",
+            "note": "會探討外匯市場的重要議題"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 20,
+            "note": "2 homeworks"
+        },
+        {
+            "type": "期中考",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 40,
+            "note": ""
+        },
+        {
+            "type": "出席",
+            "weight": 10,
+            "note": "3次點名(optional)"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

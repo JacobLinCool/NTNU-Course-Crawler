@@ -1,0 +1,78 @@
+{
+    "year": 108,
+    "term": 1,
+    "name": "光電半導體",
+    "teachers": [
+        "張俊傑"
+    ],
+    "department": "HU77",
+    "code": "OEC9105",
+    "credit": 3,
+    "serial": 1367,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 5,
+            "from": 7,
+            "to": 9,
+            "campus": "公館",
+            "classroom": "綜合館201"
+        }
+    ],
+    "programs": [
+        "太陽能源與工程學程"
+    ],
+    "comment": "",
+    "restrict": "",
+    "form_s": "",
+    "classes": "9",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程是是針對師大光電工程學系學生的進階課程，從基礎學理出發，透過基礎物理了解光電半導體元件之工作原理，包括基礎量子物理、能階構造及能帶結構、載子的統計分析與遷移、載子能帶間的傳輸與躍遷、特殊載子形成（電漿、聲子、激子等），最後延伸至產業界常用之異質結構半導體結構（量子井、量子點與奈米線等等），讓修習的學生不僅具有光電半導體基本學理涵養，並能與產業應用接軌。",
+    "goals": [
+        "藉由光電半導體，培育學生運用物理數學與光電電子工程知識與技術，以解決光電電子工程相關之問題。",
+        "藉由光電半導體，使學生具備執行光電電子工程實務所需技術、技巧及使用儀器工具之能力。",
+        "從光電半導體教學過程，培養學生獨立思考與分析問題並解決問題之能力，奠定學生終生學習之基礎。",
+        "以實作討論方式培養學生團隊合作態度。",
+        "藉由指導教師指導，培養學生專業倫理之態度及具備國際觀及服務社會之信念。"
+    ],
+    "syllabus": "The course will cover the basic semiconductor physics required to understand the operation principle of semiconductor optoelectronic devices, including basic quantum mechanics, energy band formation and band structure, carrier statistics, carrier transport, dielectric functions, interband absorption, intraband absorption, plasmons, phonons, excitons, quantum wells, quantum dots, semiconductor heterostructures, etc.",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 25,
+            "note": "Biweekly HW assignment"
+        },
+        {
+            "type": "期中考",
+            "weight": 50,
+            "note": "Midterm exam I (25%) and II (25%)"
+        },
+        {
+            "type": "期末考",
+            "weight": 20,
+            "note": "Comprehensive final exam"
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 5,
+            "note": "In-class discussion/attendance"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

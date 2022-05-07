@@ -1,0 +1,82 @@
+{
+    "year": 107,
+    "term": 1,
+    "name": "體育（排球初級）",
+    "teachers": [
+        "蔡書涵"
+    ],
+    "department": "PE",
+    "code": "00UP105",
+    "credit": 1,
+    "serial": 2483,
+    "group": "B",
+    "quota": {
+        "limit": 50,
+        "additional": 5
+    },
+    "schedule": [
+        {
+            "day": 1,
+            "from": 3,
+            "to": 4,
+            "campus": "公館",
+            "classroom": "體育館二3樓"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 2,
+    "description": "瞭解排球運動、規則及一般遊戲方法。",
+    "goals": [
+        "瞭解排球運動、規則及一般遊戲方法。",
+        "學會排球的基本技術及體能活動。",
+        "欣賞排球比賽與培養排球運動為終身的休閒活動。"
+    ],
+    "syllabus": "(一)說明排球相關規則及比賽輪轉位置\n\n(二)排球，低手傳球動作介紹與練習\n\n(三)排球，高手傳球動作介紹與練習\n\n(四)上肢發球及低手發球動作介紹與練習\n\n(五)接發球動作介紹與練習\n\n(六)扣球腳步及扣球動作介紹與練習",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "問題解決教學",
+            "note": ""
+        },
+        {
+            "type": "合作學習",
+            "note": ""
+        },
+        {
+            "type": "實驗/實作",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "期中考",
+            "weight": 20,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 20,
+            "note": ""
+        },
+        {
+            "type": "出席",
+            "weight": 10,
+            "note": ""
+        },
+        {
+            "type": "成果展覽",
+            "weight": 50,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

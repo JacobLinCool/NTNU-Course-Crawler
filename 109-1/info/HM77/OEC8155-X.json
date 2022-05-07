@@ -1,0 +1,69 @@
+{
+    "year": 109,
+    "term": 1,
+    "name": "生醫晶片製程技術",
+    "teachers": [
+        "邱南福"
+    ],
+    "department": "HM77",
+    "code": "OEC8155",
+    "credit": 3,
+    "serial": 1228,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 5,
+            "from": 7,
+            "to": 9,
+            "campus": "公館",
+            "classroom": "Ｓ301"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "1.教習進階生醫晶片製程技術及原理，主題包含半導體製程、IC CMOS標準製程、製程設備工作原理及技術、生物培養流程、相容性製程技術、異質整合技術、生化修飾技術及原理、生醫感測器原理等。\n2.實務製作：讓學生學習儀器操作，生醫晶片實務製作，生物細胞的培養，光電生物分子定量定性的檢測等。\n3.光學系統的架設：量測系統，光電生理量測系統教學。",
+    "goals": [
+        "引導學生進入生醫晶片與半導體晶片專題領域，使學生建 立生醫晶片專長，教導學生如何將這些原理,技術與器件應用於 生醫晶片科技檢驗。",
+        "訓練學生獨立實驗能力與表達能力，具備分析及論證議題 的能力。",
+        "瞭解製程設備工作的目的，瞭解半導體知識的本質，以及 瞭解生醫晶片為社會帶來的福祉效益。",
+        "具備獨立思考與創新能力的養成。"
+    ],
+    "syllabus": "**週**\n\n**課程內容(課程內容會依本學期修課學生的能力也做適度調整!)**\n\n1 week\n\n2020/09/18\n\n課程介紹-分組 (Course Introduction)\n\n2 week\n\n2020/09/25\n\nOverview of Biosensor and Review of biophotonics\n\n生醫感測技術之工作原理、製作及應用\n\n3 week\n\n2020/09/26\n\n(2020/10/02)\n\n(中秋節)\n\nReview Biosensor 生醫晶片介紹 (細胞cell, 蛋白質 Protein , DNA)\n\n**4 week**\n\n**2020/10/09**\n\n**(****國慶日放假****) (National Day-in lieu) National Day holiday**\n\n5 week\n\n2020/10/16\n\n奈米光學及電漿子學之介紹 (Introduction of Nano optics and Plasmonics)\n\n6 week\n\n2020/10/23\n\n教學:奈米金合成備製\n\nSynthesis of Gold nanoparticles (AuNPs)\n\n7 week\n\n2020/10/30\n\n光譜設備教學(spectrum equipment teaching)\n\n8 week\n\n2020/11/06\n\n專題製作(**奈米金之合成**製作)-1\n\nThematic production-(AuNPs synthetic production and measurement)-1\n\n專題製作(**Au film**製作)-2\n\n9 week\n\n2020/11/13\n\n奈米金之光學特性與技術 (Optical properties and technology in AuNPS/Au film)量測     \n\n**10 week**\n\n**2020/11/20**\n\n**校慶放假** **(University Events Day)**\n\n11 week\n\n2020/11/27\n\n專題製作:合成及生物的修飾技術\n\nSynthesis and biological modification technology\n\n12 week\n\n2020/12/04\n\n專題製作: (晶片之製作及量測分析)-1\n\nThematic production- (Biosensor fabrication and measurement analysis) -1\n\n13 week\n\n2020/12/11\n\n專題製作: (晶片之製作及量測分析)-2\n\nThematic production- (Biosensor fabrication and measurement analysis) -2\n\n14 week\n\n2020/12/18\n\n專題製作: (檢測蛋白質濃度技術)-1\n\nThematic production- (Detection of protein concentration at SPR system) -1\n\n15 week\n\n2020/12/25\n\n專題製作: (檢測蛋白質濃度技術)-2\n\nThematic production- (Detection of protein concentration at SPR system) -2\n\n**16 week**\n\n**2021/01/01**\n\n**National Day holiday (National Day holiday)**\n\n17 week\n\n2021/01/08\n\n**期末口頭報告** **(Final oral report) (40%)-1**\n\n18 week\n\n2021/01/15\n\n**學期****專題****書報** **(special paper report) (60%)**\n\n課程內容會依本學期修課學生的能力也做適度調整!",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "講述基本原理,現象與技術之應用等,討論國內與國際間之現\n況與發展趨勢"
+        },
+        {
+            "type": "實驗/實作",
+            "note": "專題實驗:每位同學必須完成一件實驗的觀測及製作"
+        },
+        {
+            "type": "專題研究",
+            "note": "專題實驗:每位同學必須完成一件實驗的觀測及製作"
+        }
+    ],
+    "grading": [
+        {
+            "type": "報告",
+            "weight": 40,
+            "note": "期末口頭報告,專題實驗討論與口頭報告30分鐘。訓練系統化及邏輯思考的能力。"
+        },
+        {
+            "type": "專題",
+            "weight": 60,
+            "note": "實驗教學與專題實驗。訓練抱持懷疑的求知態度與尊重智慧財產權的認知。自我學習回顧報告，主題式文獻報告，專題實驗"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

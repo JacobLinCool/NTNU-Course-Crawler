@@ -1,0 +1,78 @@
+{
+    "year": 108,
+    "term": 1,
+    "name": "進階社會統計",
+    "teachers": [
+        "沈蕙雯"
+    ],
+    "department": "IM89",
+    "code": "SWM0003",
+    "credit": 3,
+    "serial": 1446,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 1,
+            "from": 2,
+            "to": 4,
+            "campus": "本部",
+            "classroom": "教402"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程不開放上修",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程的設計是考量社會工作碩士生的研究需要，以及未來實務工作上\n 的需要而選定教授的統計方法。此外本課程重視實際上機操作的能力，也強調\n 報表解讀的能力。",
+    "goals": [
+        "瞭解社會統計",
+        "學習運用SPSS",
+        "希望同學能掌握統計知識與熟習電腦的運用，以便在碩士論文或其他研究中獨立進行統計分析。"
+    ],
+    "syllabus": "**Weeks 1-4**\n\n第一部分 社會統計是什麼?\n\n*   統計學與科學方法\n*   統計是生活的一部分\n\nPart I. What is social statistics?\n\n*   Statistics and scientific methods\n*   Statistics is part of the daily life.\n\n**Weeks 5-8**\n\n第二部分 描述統計學\n\n*   基礎測量概念\n*   次數分配\n*   集中趨勢與離散趨勢\n*   常態分配與標準分數\n\nPart II. Descriptive statistics\n\n*   Basic measurement concepts\n*   Frequency distributions\n*   Central tendency and dispersion\n*   The normal curve and standard scores\n\n**Weeks 9-12**\n\n第三部分 推論統計學 (I)\n\n*   隨機抽樣與機率\n*   二項分配\n*   假設檢定與統計考驗力\n\nPart III. Inferential statistics (I)\n\n*   Random sampling and probability\n*   Binomial distributions\n*   Hypothesis testing and power\n\n**Weeks 13-16**\n\n第四部分 推論統計學 (II)\n\n*   _t_ 檢定\n*   變異數分析\n*   卡方與無母數檢定\n*   相關\n*   直線迴歸\n\nPart IV. Inferential statistics (II)\n\n*   t-test\n*   ANOVA\n*   X2 and Nonparametric tests\n*   Correlation\n*   Linear regression\n\n  \n[教學進度與主題附件](https://ap.itc.ntnu.edu.tw/NtnuFileShare/file.do?action=dl&gno=36e4b1ed1db74b53983ec4859123cfa5&fno=0c79ca2ed9cf4b509d7d89d3499ca9ba)",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "教師講授"
+        },
+        {
+            "type": "討論法",
+            "note": "每週課堂小組討論及期末課堂分組評論碩士論文"
+        },
+        {
+            "type": "實驗/實作",
+            "note": "上機完成SPSS作業"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 40,
+            "note": ""
+        },
+        {
+            "type": "期中考",
+            "weight": 35,
+            "note": ""
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 10,
+            "note": ""
+        },
+        {
+            "type": "報告",
+            "weight": 15,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

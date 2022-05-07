@@ -1,0 +1,67 @@
+{
+    "year": 109,
+    "term": 1,
+    "name": "專題討論：資訊系統（一）",
+    "teachers": [
+        "王超"
+    ],
+    "department": "SM47",
+    "code": "CSC0059",
+    "credit": 1,
+    "serial": 2780,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 3,
+            "from": 7,
+            "to": 8,
+            "campus": "公館",
+            "classroom": "Ｓ102"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "允許重複修 ◎課程開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 2,
+    "description": "We will solicit talks in all areas of Information System on which we take a broad view. In particular, talks in areas such as Software Engineering, Algorithms, Distributed Systems, Artificial Intelligence, Mobile Platform and others are very welcome.",
+    "goals": [
+        "了解資訊系統軟硬體目前研究的領域和走向",
+        "學習並運用課堂上所學基礎理論",
+        "了解現有的資訊系統是如何分析其性能",
+        "請演講者分享其經驗和意見",
+        "學生們與演講者探討目前資訊系統走向和研究領域",
+        "探討和分析資訊系統對於環境的影響像是能源和高科技廢料等"
+    ],
+    "syllabus": "每週邀請國內外學者專家至課堂上進行專題演講，分享資訊系統相關之議題與研究，並與同學們面對面討論。",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "課堂討論參與",
+            "weight": 30,
+            "note": "依系所碩博專題討論相關規定辦理"
+        },
+        {
+            "type": "報告",
+            "weight": 70,
+            "note": "依系所碩博專題討論相關規定辦理"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

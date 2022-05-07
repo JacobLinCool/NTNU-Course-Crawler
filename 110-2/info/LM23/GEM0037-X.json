@@ -1,0 +1,70 @@
+{
+    "year": 110,
+    "term": 2,
+    "name": "遙測技術",
+    "teachers": [
+        "張國楨"
+    ],
+    "department": "LM23",
+    "code": "GEM0037",
+    "credit": 2,
+    "serial": 1598,
+    "group": "",
+    "quota": {
+        "limit": 30,
+        "additional": 0
+    },
+    "schedule": [
+        {
+            "day": 4,
+            "from": 6,
+            "to": 7,
+            "campus": "本部",
+            "classroom": "地理系研討室六"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 2,
+    "description": "",
+    "goals": [
+        "Through class discussion and handon analysis of remotelyy sensed image, students will understand the basic theroies and techniques in remote sensing and digital image processing. The scope will include both theories and potential applications of remote sensing in all possible aspects. The class will provide students essential knowledge and methodologies in their thesis/dissertation researches!"
+    ],
+    "syllabus": "1.History and Principles of Remote Sensing  \n2.Introduction to Remote Sensing System  \n3.Active vs. Passive Remote Sensing  \n4.Energy Source Radiation Principles  \n5.Photographic Perspective  \n6.Aerial Photography  \n7.Image Interpretation  \n8.Introduction of Image Classification  \n9.Unsupervised Classification  \n10.Supervised Classification  \n11.Accuracy Assessment  \n12.Classification and Data Merging  \n13.Remote Sensing Applications in the Urban Land Use Change  \nUSLE  \n14.Term Paper Presentation",
+    "methodologies": [
+        {
+            "type": "Formal lecture",
+            "note": "Based of the topic, bring up top issues and potential methodologies and solutions"
+        },
+        {
+            "type": "Group discussion",
+            "note": "Students will be assigned pre-class homework to identify certain closely related papers and prepare outline and summary that will be use in the classroom."
+        },
+        {
+            "type": "Lab/Studio",
+            "note": "Students will be assign post-class homework, including search open-data image and apply methodologies discussed in the classroom to experiment."
+        },
+        {
+            "type": "Case studies",
+            "note": "There will be a final term project assignment based on the topic of thesis."
+        }
+    ],
+    "grading": [
+        {
+            "type": "Presentation",
+            "weight": 50,
+            "note": "Oral presentations and regular seminars"
+        },
+        {
+            "type": "Case study reports",
+            "weight": 50,
+            "note": "Final term project Report"
+        }
+    ],
+    "prerequisite": "◎Available for junior and senior year B.A. program students (Doctoral program courses excepted) and M.A. program students.",
+    "general_core": []
+}

@@ -1,0 +1,79 @@
+{
+    "year": 108,
+    "term": 2,
+    "name": "新產品企劃與分析",
+    "teachers": [
+        "黃啟祐"
+    ],
+    "department": "HM70",
+    "code": "IEC8011",
+    "credit": 3,
+    "serial": 1072,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 3,
+            "from": 11,
+            "to": 13,
+            "campus": "本部",
+            "classroom": "研討二"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "Production planning, the planning of production and manufacturing processes in a company or industry, is a process of discussing and defining features of a product before its development. Production planning ensures materials, equipment and employees are all available to meet production goals for a business. Further, appropriate methods are essential for fulfilling the goal of product planning. The capabilities of product planning are essential for the management of technology majored students. Therefore, this course aims to provide an introduction to the concepts of product planning. Meanwhile, analytic methods are also introduced. The students are expected to skills in marketing opportunity exploration, concept analysis, and product development through lectures and case studies.",
+    "goals": [
+        "協助學生瞭解產品企劃與分析理論",
+        "協助學生瞭解產品企劃與分析方法",
+        "協助學生規劃新產品專案之能力",
+        "協助學生培養市場機會探索與概念分析能力"
+    ],
+    "syllabus": "Part 1: Product planning process\n\n1.      The new products process\n\n2.      Opportunity identification and selection\n\n3.      Creativity and the product concept\n\n4.      Finding and solving customers’ problems\n\n5.      Analytical attributes approaches: perceptual mapping\n\n6.      Analytical attributes approaches: trade-off analysis and qualitative techniques\n\n7.      Concept evaluation and evaluation and testing\n\nPart 2: Product analysis techniques\n\n1.      TRIZ\n\n2.      Quality function deployment\n\n3.      Statistics for product development\n\n4.      Multivariate analysis techniques for product analysis: multiple regression\n\n5.      Multivariate analysis techniques for product analysis: discriminant analysis\n\n6.      Multivariate analysis techniques for product analysis: principal component analysis\n\n7.      Multivariate analysis techniques for product analysis: factor analysis\n\n8.      Multivariate analysis techniques for product analysis: conjoint analysis\n\n9.      Rough Set Theory",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "由授課教師講解新產品企劃理論與分析方法"
+        },
+        {
+            "type": "討論法",
+            "note": "由學生討論相關理論與研究現況"
+        },
+        {
+            "type": "專題研究",
+            "note": "期末學生需要以介紹之理論與方法進行專題研究"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 20,
+            "note": "教師依據教學內容指派課後作業"
+        },
+        {
+            "type": "期中考",
+            "weight": 20,
+            "note": "測驗新產品規劃方法"
+        },
+        {
+            "type": "期末考",
+            "weight": 30,
+            "note": "測驗產品分析方法"
+        },
+        {
+            "type": "專題",
+            "weight": 30,
+            "note": "同學分組以本學期所習之方法規劃與分析新產品"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

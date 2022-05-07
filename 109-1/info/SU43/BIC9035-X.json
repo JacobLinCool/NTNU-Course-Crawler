@@ -1,0 +1,76 @@
+{
+    "year": 109,
+    "term": 1,
+    "name": "Ｒ程式語言與生態演化分析",
+    "teachers": [
+        "黃士穎"
+    ],
+    "department": "SU43",
+    "code": "BIC9035",
+    "credit": 3,
+    "serial": 2985,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 1,
+            "from": 6,
+            "to": 8,
+            "campus": "公館",
+            "classroom": "理圖807"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "",
+    "classes": "9",
+    "dept_group": "",
+    "hours": 3,
+    "description": "This course will introduce multivariate and spatial statistical techniques for analysis of ecological data using R programming language. Bioconductor work flow for high-throughput sequence analysis will also be covered. The details of R functions and scripts in relation to various types of multivariate, spatial and sequence analyses will be described in lecture. Homework assignments with various types of ecological and evolutionary data will be made available to students.",
+    "goals": [
+        "To understand the logical basis and computational principles of various R functions",
+        "To understand and perform statistical tests and graphical examination of multivariate data"
+    ],
+    "syllabus": "1\\. Introduction, R, RStudio, Bioconductor and R GUI\n\n2\\. Data characteristics and data frames\n\n3\\. Graphical and tabular examination of multivariate data\n\n4\\. Functions, simple programming and model formulae\n\n5\\. Probability distributions, normality and summary statistics\n\n6\\. Statistical hypothesis testing\n\n7\\. Regression fitting models\n\n8\\. Ecological analysis\n\n9\\. Midterm examination\n\n10\\. Species and community distribution models\n\n11\\. Cluster analysis and Ordination\n\n12\\. Phylogenetic diversity\n\n13\\. Community structure and trait evolution\n\n14\\. Multivariate analysis of genetic and environmental variables\n\n16\\. Map drawing and Species distribution modeling\n\n17\\. R/Bioconductor in high-throughput sequence analysis\n\n         18. Final exam",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": ""
+        },
+        {
+            "type": "問題解決教學",
+            "note": ""
+        },
+        {
+            "type": "實驗/實作",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 50,
+            "note": ""
+        },
+        {
+            "type": "期中考",
+            "weight": 25,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 25,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

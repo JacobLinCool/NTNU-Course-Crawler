@@ -1,0 +1,76 @@
+{
+    "year": 109,
+    "term": 1,
+    "name": "科學實作的認知與推理",
+    "teachers": [
+        "顏妙璇"
+    ],
+    "department": "SM45",
+    "code": "SEC8009",
+    "credit": 3,
+    "serial": 2752,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 1,
+            "from": 7,
+            "to": 9,
+            "campus": "公館",
+            "classroom": "科教大樓204"
+        }
+    ],
+    "programs": [
+        "理工實作學程"
+    ],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程旨在介紹學習者對於科學實作過程的了解與認知以及推理表現，透過文獻閱讀與討論協助修課學生將所學納入未來的研究和教學設計中。",
+    "goals": [
+        "了解科學實作的認知與推理相關研究議題",
+        "搜集與研讀科學實作的認知與推理相關的文獻",
+        "整理、報導與評論科學實作的認知與推理相關的新知"
+    ],
+    "syllabus": "1    9/14   Introduction  \n2    9/21   Scientific reasoning  \n3    9/28   Scientific reasoning  \n4   10/5    Scientific investigation  \n5   10/12  Scientific investigation  \n6   10/19  Causal reasoning  \n7   10/26  Causal reasoning  \n8   11/2    Experimentation  \n9   11/9    Experimentation  \n10 11/16  Observation  \n11 11/23  Note taking  \n12 11/30  Measurement  \n13 12/7    Measurement  \n14 12/14  Data interpretation  \n15 12/21  Evidence  \n16 12/28  Evidence  \n17   1/4    final report  \n18   1/11  final report",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "課堂討論參與",
+            "weight": 10,
+            "note": ""
+        },
+        {
+            "type": "出席",
+            "weight": 15,
+            "note": ""
+        },
+        {
+            "type": "報告",
+            "weight": 45,
+            "note": "三次文獻口頭報告"
+        },
+        {
+            "type": "專題",
+            "weight": 30,
+            "note": "期末報告(文獻探討)"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

@@ -1,0 +1,68 @@
+{
+    "year": 109,
+    "term": 1,
+    "name": "組合學（一）",
+    "teachers": [
+        "游森棚"
+    ],
+    "department": "SM40",
+    "code": "MAC0015",
+    "credit": 3,
+    "serial": 2675,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 6,
+            "to": 8,
+            "campus": "公館",
+            "classroom": "數學館M210"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程之目的在於介紹組合學及其應用。上學期將著重圖論理論，除了一般名詞、基本性質以及相關領域介紹同時也對特殊圖族籍圖的參數做一些詳細討論。下學期將討論計算組合方法，強調各種組合等式證明及組合結構數的計算。希望藉此上下兩學期的課程讓學生對組合學的研究有初步的認識及做基本研究的能力。",
+    "goals": [
+        "能解決計數的應用問題",
+        "能運用組合數學解決相關領域的問題",
+        "轉換數學模式的能力"
+    ],
+    "syllabus": "This is the first semester of an 1-year course. \n\nWe will introduce basic ideas and methods in enumerative combinatorics. We will focus on the generating functions and related topics. \n\nThe first semester we will deal with generating functions, signed counting, partial ordered set\n\nThe second semester we will deal with group actions, symmetric functions, quasisymmetric functions\n\nTextbooks: Materials selected from textbooks of Aigner, Sagan,  Stanley\n\nThere will be no exams. Active participation in class is required.",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": ""
+        },
+        {
+            "type": "合作學習",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "課堂討論參與",
+            "weight": 50,
+            "note": ""
+        },
+        {
+            "type": "報告",
+            "weight": 50,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

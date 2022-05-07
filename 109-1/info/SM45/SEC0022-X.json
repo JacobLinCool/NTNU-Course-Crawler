@@ -1,0 +1,69 @@
+{
+    "year": 109,
+    "term": 1,
+    "name": "科學課程設計與發展",
+    "teachers": [
+        "張文華"
+    ],
+    "department": "SM45",
+    "code": "SEC0022",
+    "credit": 3,
+    "serial": 2745,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 2,
+            "to": 4,
+            "campus": "公館",
+            "classroom": "科教大樓204"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程的目的在培養設計科學課程的基本能力，協助學生於學習過程中了解科學課程設計與發展的基本原理與方法並進行實作。",
+    "goals": [
+        "了解課程設計的基本原理及方法，分析並比較各課程設計理念、模式的特性。",
+        "了解國內外科學課程的發展過程、改革、現況和主要議題。",
+        "運用課程設計的原理及方法，實際進行課程設計，並學習評鑑課程及選用教材的知能。"
+    ],
+    "syllabus": "第一週(09/15) 課程內容概述、分組 (至多3人一組) (no more than 3 persons/group)\n\n第二週(09/22) 專家演講探究實作教學；課程設計基本原理(Basics for curriculum design)\n\n第三週(09/29) 科學課程理念與實踐(Ideal & practice in sci curriculum)：Reading 1\n\n第四週(10/06) 科學課程綱要(Curriculum framework of Natural Sci )：Reading 2\n\n第五週(10/13) 課程組織原則I (Understanding by Design)：Reading 3\n\n第六週(10/20) 課程組織原則II\n\n第七週(10/27) 課程模組規劃簡報：自選Reading\n\n第八週(11/03) 科學教學模式I(Teaching models for science)：Multimodal, Reading 4可自選\n\n第九週(11/10) 科學教學模式II：POE, Learning Cycle, 5E, CCM.. Reading 自選\n\n第十週(11/17) 期中考發展教材檢核表：Educative Curriculum Materials, Reading 5\n\n第十一週(11/24) 介紹與評論課程教材(運用教材品質評鑑表, Reading 5)(textbook evaluation)\n\n第十二週(12/01) 科學閱讀：Reading 6 可自選\n\n第十三週(12/08) 科學閱讀 可自選\n\n第十四週(12/15) 教學準備(prepare for trial)\n\n第十五週(12/22) 教學實施(enact and report your own design)\n\n第十六週(12/29) 教學實施(reporting your own design)\n\n第十七週(01/05) 教學資料整理(Tidy up for term report)\n\n第十八週(01/12) 期末報告(Term paper presentation)\n\n  \n[教學進度與主題附件](https://ap.itc.ntnu.edu.tw/NtnuFileShare/file.do?action=dl&gno=af24ac9c2d20428899cac83eba0af89e&fno=3f9189876efb4067b059a373623034da)",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "教師針對各主題指定閱讀資料或實作，學生必須仔細閱讀指定之參考資料Study the selected reading or activities into details before you attend the class."
+        },
+        {
+            "type": "討論法",
+            "note": "學生必須根據對於指定之參考資料的摘要，踴躍參與討論。包括上課中及數位學習平台上均可。Abstract your selected readings, and upload the abstract file (including Qs) to moodle."
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 60,
+            "note": "每次上課，學員必須於課前閱讀完畢指定閱讀資料，針對閱讀內容或專題進展，提出至多一頁(A4，12點字，單行間距)之摘要(含兩個提問)，每週日中午前上傳至Moodle平台。\nSix assignments, 10% for each. Finish reading, upload your written assignment to Moodle before the previous Sunday noon."
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 10,
+            "note": "上課時就書面資料內容或設計進度準備約10分鐘之口頭說明，並引導5分鐘討論。\nPrepare your 10 minutes debriefings and allot 5 more minutes for Q&A."
+        },
+        {
+            "type": "專題",
+            "weight": 30,
+            "note": "每組學員選擇興趣的課程主題，進行專題研究。專題內容包括兩大部份：\nI.搜尋4份課程教材資料，進行分析及評論，做為期中報告。\nII.設計或改進課程教材，進行試教，收集與分析教學資料。\n綜合I與II，撰寫成一篇至少5頁(不含參考文獻，A4，單行間距)之專題報告，並於期末就書面報告內容提出口頭報告，報告時間約為20分鐘，討論5分鐘。Each group pick a topic of your interested, plan your research project:\nI.Mid-term progress: Select, analyze, and comment the similarities and differences among 4 sets of curriculum materials,\nII.Design or adapt the curriculum materials, select partial activities for trial, collect and analyze students artefacts, then, write up your minimum 5 pages term-report. Prepare 20 minutes debriefings & allot 5 more minutes Q&A for final week."
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

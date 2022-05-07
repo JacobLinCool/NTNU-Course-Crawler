@@ -1,0 +1,74 @@
+{
+    "year": 107,
+    "term": 1,
+    "name": "前瞻類比積體電路設計",
+    "teachers": [
+        "郭建宏"
+    ],
+    "department": "HM75",
+    "code": "AEC8028",
+    "credit": 3,
+    "serial": 1168,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 1,
+            "from": 6,
+            "to": 8,
+            "campus": "本部",
+            "classroom": "工511"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程主要是在學生有類比積體電路的基礎上，再訓練學生進一步瞭解類比電路在系統上的定位，以及在系統上所實現的電路方塊與設計原理。在學習過程中，將運用數值功能模擬軟體、以及電路模擬軟體來輔助電路的設計分析，並使用電路佈局軟體來更進一步分析積體電路製作後的性能",
+    "goals": [
+        "增進類比積體電路設計的技巧。",
+        "藉由作業及專案計畫的執行，培養學生電路模擬與信號分析的能力。",
+        "學習積體電路設計所需的知識、工具、與電路技術。",
+        "從作業的練習中培養獨立思考與解決問題的能力。",
+        "培養問題導向的思維與處理的能力。",
+        "從專案研究資料的蓃集，訓練學生積極的學習態度。",
+        "經由實驗室與學長姐的學習互動，及實務的講述，瞭解專業倫理的重要。",
+        "透過實務的探討，瞭解全球類比積體電路的發展趨勢。"
+    ],
+    "syllabus": "1\\. Introduction\n\n2\\. Operational Ampilifers\n\n3\\. Stability and Freauency Compensation\n\n4\\. Switched-Capacitor Circuits\n\n5. Data Converter Design Basic\n\n6\\. SRA ADCs\n\n7\\. Delta-Sigma Modulators",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "教學講義加上課堂教學"
+        },
+        {
+            "type": "討論法",
+            "note": "較艱深的課程內容，以分組討論或學生參與老師教學的互動方式進行"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 40,
+            "note": ""
+        },
+        {
+            "type": "期中考",
+            "weight": 20,
+            "note": ""
+        },
+        {
+            "type": "報告",
+            "weight": 40,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

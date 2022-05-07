@@ -1,0 +1,76 @@
+{
+    "year": 107,
+    "term": 1,
+    "name": "網頁設計",
+    "teachers": [
+        "周遵儒"
+    ],
+    "department": "HU72",
+    "code": "GCU0101",
+    "credit": 3,
+    "serial": 1263,
+    "group": "",
+    "quota": {
+        "limit": 30,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 1,
+            "from": 6,
+            "to": 8,
+            "campus": "本部",
+            "classroom": "教403"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎限大二大三大四修習",
+    "form_s": "2",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "訓練學生對於使用各種網頁設計理論與技術解決關於數位圖文傳播科技的問題，並輔導學生從事網站開發與經營專題實作",
+    "goals": [
+        "訓練學生對於使用各種網頁設計理論與技術解決關於數位圖文傳播科技的問題，"
+    ],
+    "syllabus": "1\\. 網際網路原理\n\n2\\. 軟體操作（Hello Dreamweaver）\n\n3\\. HTML概念\n\n4\\. HTML+CSS概念\n\n5\\. 基本靜態網頁設計\n\n6\\. 網頁嵌入語法\n\n7\\. 再談HTML\n\n8\\. CSS進階\n\n9\\. 期中專題製作\n\n10\\. 行動網頁設計原理\n\n11\\. BootStrap 行動網頁製作\n\n12\\. 網頁色彩計畫\n\n13\\. JavaScript 程式設計\n\n14 UX設計之JavaScript操作特校 - jQuery API\n\n15\\. UX設計之JavaScript功能模組 - Google Maps API\n\n16\\. 內容管理系統（CMS） - WordPress\n\n17\\. 期末專題製作",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "實驗/實作",
+            "note": ""
+        },
+        {
+            "type": "專題研究",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "出席",
+            "weight": 10,
+            "note": ""
+        },
+        {
+            "type": "專題",
+            "weight": 40,
+            "note": ""
+        },
+        {
+            "type": "其他",
+            "weight": 20,
+            "note": "隨堂小考"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

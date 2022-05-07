@@ -1,0 +1,82 @@
+{
+    "year": 107,
+    "term": 1,
+    "name": "微波測量之理論與應用專題研究（一）",
+    "teachers": [
+        "江佩勳"
+    ],
+    "department": "SM41",
+    "code": "PHC8010",
+    "credit": 3,
+    "serial": 2621,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 4,
+            "from": 8,
+            "to": 10,
+            "campus": "公館",
+            "classroom": "教室自排"
+        }
+    ],
+    "programs": [],
+    "comment": "上課地點：物理系會議室",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "微波測量、傳輸之理論與應用介紹",
+    "goals": [
+        "了解微波信號傳輸原理與各種傳輸線應用",
+        "了解微波信號源產生原理與性質",
+        "了解微波儀器與工具之原理與使用，培養微波實驗研究能力"
+    ],
+    "syllabus": "（後面括號內代表週數）\n\n  \n\n1\\. Introduction (1)\n\n  \n\n2\\. Transmission Line Theory\n\n  \n\n2.1 Transmission Lines (2)\n\n  \n\n2.2 Coaxial Transmission Lines (3)\n\n  \n\n2.3 Waveguide Transmission Lines (4)\n\n  \n\n2.4 Resonant Cavities (5)\n\n  \n\n3\\. Principle of Microwave Measurements\n\n  \n\n3.1 Detection of Microwave Signals (6)\n\n  \n\n3.2 Flowgraph Representation of Microwave Networks (7)\n\n  \n\n4\\. Laboratory Sources for Microwave Signal Generation\n\n  \n\n4.1 Triode Oscillators (8)\n\n  \n\n4.2 Density Modulation and Velocity Modulation of Electron Beams (8)\n\n  \n\n4.3 Klystrons (9)\n\n  \n\n4.4 Traveling-Wave Tube Amplifier (10)\n\n  \n\n4.5 The Backward-Wave Oscillator (BWO) (11)\n\n  \n\n4.6 Pin Diode Modulators (11)\n\n  \n\n4.7 Leveling of Signal Sources (12)\n\n  \n\n4.8 Harmonic Generators, Frequency Multipliers (13)\n\n  \n\n4.9 Solid-State Microwave Sources (14)\n\n  \n\n4.10 Signal Generators (15)\n\n  \n\n4.11 Sweep Oscillators (15)\n\n  \n\n4.12 Phase-Locking of Signal Sources (16)\n\n  \n\n4.13 Frequency Standards (17)",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": ""
+        },
+        {
+            "type": "實驗/實作",
+            "note": "微波元件設計與製作、儀器操作、模擬軟體操作、數據分析"
+        },
+        {
+            "type": "其他",
+            "note": "文獻蒐集研讀與報告"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 25,
+            "note": "習題演練"
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 15,
+            "note": "討論參與度、題材與觀點是否切中問題核心"
+        },
+        {
+            "type": "報告",
+            "weight": 20,
+            "note": "資料蒐集與報告之清晰完整度"
+        },
+        {
+            "type": "專題",
+            "weight": 40,
+            "note": "實驗：微波元件設計與製作、儀器操作、模擬軟體操作、數據分析"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

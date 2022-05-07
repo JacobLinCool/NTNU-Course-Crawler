@@ -1,0 +1,67 @@
+{
+    "year": 110,
+    "term": 1,
+    "name": "計算共形幾何（一）",
+    "teachers": [
+        "樂美亨"
+    ],
+    "department": "SU40",
+    "code": "MAC9020",
+    "credit": 3,
+    "serial": 2783,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 1,
+            "from": 6,
+            "to": 8,
+            "campus": "公館",
+            "classroom": "數學館M210"
+        }
+    ],
+    "programs": [
+        "科學計算學程"
+    ],
+    "comment": "",
+    "restrict": "",
+    "form_s": "",
+    "classes": "9",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程探討基於共形幾何所發展的數值演算法。在「計算共形幾何（一）」中，我們將介紹共形幾何及其相關數值演算法，進而將之應用於解決3D影像處理的問題。",
+    "goals": [
+        "培養數學專業能力",
+        "培養應用數學解決問題的能力",
+        "提升抽象思考層次",
+        "以高觀點詮釋數學與其他學科連結"
+    ],
+    "syllabus": "【授課方式：16+2週】彈性教學2週以自主學習方式進行。\n\n1.        Background and Recent Development of Computational Conformal Geometry (2 weeks)\n\n2.        Homotopy Groups (2 weeks)\n\n3.        Simplicial Homology and Cohomology (2 weeks)\n\n4.        Topological Algorithms (2 weeks)\n\n5.        Harmonic Mappings (2 weeks)\n\n6.        Students' Midterm Reports (1 week)\n\n7.        Conformal Mappings (2 weeks)\n\n8.        Surface Registration and Morphing (2 weeks)\n\n9.        Students' Final Reports (1 week)",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "講授課程內容"
+        },
+        {
+            "type": "實驗/實作",
+            "note": "講授課程內容並讓學生同步實作程式"
+        }
+    ],
+    "grading": [
+        {
+            "type": "課堂討論參與",
+            "weight": 60,
+            "note": ""
+        },
+        {
+            "type": "報告",
+            "weight": 40,
+            "note": "研讀相關書籍、近期及重要相關論文"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

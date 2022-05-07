@@ -1,0 +1,69 @@
+{
+    "year": 107,
+    "term": 2,
+    "name": "電子學（一）",
+    "teachers": [
+        "陸健榮"
+    ],
+    "department": "SU41",
+    "code": "PHU0145",
+    "credit": 3,
+    "serial": 2816,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 4,
+            "from": 2,
+            "to": 4,
+            "campus": "公館",
+            "classroom": "綜合館002"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "3",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "1.提高學生對電子學的知識，加強理解其基本概念。\n2.為學生提供將來學習光電工程、及其他應用科學的基礎。",
+    "goals": [
+        "瞭解電子元件、儀器的操作原理和相關理論",
+        "瞭解電子元件、儀器實際運用",
+        "簡介電子學新知"
+    ],
+    "syllabus": "1\\. Introduction  \n2\\. Signals  \n3\\. linear circuits  \n4\\. Capacitors and circuits  \n5\\. Sinusoidal Steady State Response  \n6\\. Frequency response of Passive Filters  \n7\\. Electronic system introduction  \n8\\. Operational amplifier  \n9\\. Operational amplifier Applications  \n10 Mid-term Exam.  \n11\\. Semiconductor  \n12\\. pn junction  \n13\\. Diode and applications  \n14\\. Light emitting diode and laser diode  \n15\\. Bipolar junction transistors  \n16\\. BJT Circuits at DC  \n17\\. BJT and Amplifier Design  \n18\\. Final Exam.",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "講授原理與應用"
+        },
+        {
+            "type": "媒體融入教學",
+            "note": "多媒體展現元件結構、原理與電路應用"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "期中考",
+            "weight": 35,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 35,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

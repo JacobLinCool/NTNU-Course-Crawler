@@ -1,0 +1,85 @@
+{
+    "year": 110,
+    "term": 2,
+    "name": "有機化學",
+    "teachers": [
+        "杜玲嫻"
+    ],
+    "department": "SU43",
+    "code": "BIU0008",
+    "credit": 3,
+    "serial": 2888,
+    "group": "",
+    "quota": {
+        "limit": 60,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 4,
+            "from": 7,
+            "to": 9,
+            "campus": "公館",
+            "classroom": "Ｅ301"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "1",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "官能基化合物的命名,性質與合成. 了解生物體中有機分子的結構與功能.",
+    "goals": [
+        "官能基化合物的命名,性質與合成",
+        "了解生物體中有機分子的結構與功能"
+    ],
+    "syllabus": "Content:\n\n1\\. Structure and Bonding; Acids and Bases.\n\n2\\. The Nature of Organic Compounds: Alkanes.\n\n3\\. The Nature of Organic Reactions: Alkenes.\n\n4\\. Reactions of Alkenes and Alkynes.\n\n5\\. Aromatic Compounds.\n\n6\\. Stereochemistry.\n\n7\\. Alkyl Halides.\n\n8\\. Alcohols, Phenols, and Ethers.\n\n9\\. Aldehydes and Ketones: Nucleophilic Addition Reactions.\n\n10\\. Carboxylic Acids and Derivatives.\n\n11\\. Carbonyl Alpha-Substitution Reactions and Condensation Reactions.\n\n12\\. Amines.\n\n  \n\nTextbook:\n\nJohn McMurry, Fundamentals of Organic Chemistry, 7th Ed., Brooks/Cole: 2011.\n\n  \n\nExam Dates:\n\n1st Exam: 4/12 (Wednesday) 2:20-4:10PM\n\n2nd Exam: 5/17 (Wednesday) 2:20-4:10PM\n\n3rd Exam: 6/21 (Wednesday) 2:20-4:10PM",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "板書; PowerPoint"
+        },
+        {
+            "type": "討論法",
+            "note": "給題目團體一起解決問題"
+        },
+        {
+            "type": "問題解決教學",
+            "note": "給題目團體一起解決問題"
+        },
+        {
+            "type": "合作學習",
+            "note": "給題目團體一起解決問題"
+        },
+        {
+            "type": "媒體融入教學",
+            "note": "PowerPoint"
+        }
+    ],
+    "grading": [
+        {
+            "type": "期中考",
+            "weight": 60,
+            "note": "具備生命科學有機化學之專業知識 具備運用生命科學相關研究方法與技術的能力"
+        },
+        {
+            "type": "期末考",
+            "weight": 30,
+            "note": "具備生命科學有機化學之專業知識 具備運用生命科學相關研究方法與技術的能力"
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 5,
+            "note": "積極態度"
+        },
+        {
+            "type": "出席",
+            "weight": 5,
+            "note": "積極態度"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

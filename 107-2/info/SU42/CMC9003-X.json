@@ -1,0 +1,67 @@
+{
+    "year": 107,
+    "term": 2,
+    "name": "光化學",
+    "teachers": [
+        "張一知"
+    ],
+    "department": "SU42",
+    "code": "CMC9003",
+    "credit": 3,
+    "serial": 2826,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 4,
+            "from": 7,
+            "to": 9,
+            "campus": "公館",
+            "classroom": "Ｃ105"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "",
+    "classes": "9",
+    "dept_group": "",
+    "hours": 3,
+    "description": "Understanding electronic absorption spectra and it implication to Photochemistry.",
+    "goals": [
+        "Understanding electronic absorption spectra and it implication to Photochemistry."
+    ],
+    "syllabus": "General photochemistry (2 weeks)\n\nSpectroscopy of organic compounds (2 weeks)\n\nSpectroscopy of inorganic compounds (3 weeks)\n\nQuantum yield definition (2 weeks)\n\nLifetime and time-resolved spectroscopy (2 weeks)\n\nType of organic photochemistry (2 weeks)\n\nType of inorganic photochemistry (3 weeks)",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "ppt presentation by the mentor"
+        },
+        {
+            "type": "討論法",
+            "note": "Group discussion by the students"
+        }
+    ],
+    "grading": [
+        {
+            "type": "期中考",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "報告",
+            "weight": 40,
+            "note": "bases on student`s research report on problem solving which includes absorption and emission spectra and excited-state quantum yield and lifetime measurements."
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

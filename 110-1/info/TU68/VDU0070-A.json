@@ -1,0 +1,65 @@
+{
+    "year": 110,
+    "term": 1,
+    "name": "基礎設計（一）",
+    "teachers": [
+        "薛佑廷"
+    ],
+    "department": "TU68",
+    "code": "VDU0070",
+    "credit": 3,
+    "serial": 3214,
+    "group": "A",
+    "quota": {
+        "limit": 30,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 1,
+            "from": 7,
+            "to": 9,
+            "campus": "本部",
+            "classroom": "設計系2A教室"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "1",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程為基礎設計課程，由工作坊形式(workshop)為引導學生藉由草圖、比例模型、基本造型進行設計思考發想(design thinking)、小組討論(group discussion)、動手製作(making)的實體物件與作品發表(presentation)，培養學生了解基本創作思考與設計流程的認識；了解造形形式原理與構成組織方法，以培養造形創作表現的基礎能力。",
+    "goals": [
+        "Cultivate the basic concepts and literacy students need to have in design profession.",
+        "Improve students' judgment and aesthetic value in visual observation.",
+        "Enable students to have a wide range of relevant knowledge and comprehensive abilities of creating more ideal life by design.",
+        "Understand how design can potentially improve human life by incorporating the new technologies for the future."
+    ],
+    "syllabus": "本課程檢視設計表現形式的基本法則與元素，以獲得視覺語言的關鍵概念；例如設計的目的與流程、點線面；紋理、圖案、色彩；整體與重點；節奏與平衡、比例；完形法則；圖層、透明；框架、格線；階層、模組、圖表；時間與動態；規則與隨機。  \n每隔幾個主題，學生將蒐集生活中對應的範例或創作對應的作品以作為作業。\n\nWeek01 9/27    設計的目的與流程Design Defined & Process  \nWeek02 10/4    點、線、面、形狀Point, Line, Plane, Shape      \nWeek03 10/11    國慶日補假Adjusted to holiday  \nWeek04 10/18    紋理、圖案、色彩Pattern & Texture, Color  \nWeek05 10/25    整體與重點Unity, Emphasis & Focal Point  \nWeek06 11/1    作業報告Assignment      \nWeek07 11/8    節奏與平衡、比例Rhythm & Balance, Scale/Porportion/Value      \nWeek08 11/15    完形法則Gestalt Principles  \nWeek09 11/22    圖層、透明Layers, Transparency      \nWeek10 11/29    作業報告Assignment      \nWeek11 12/6    框架、格線Framing, Grid      \nWeek12 12/13    階層、模組、圖表Hierarchy, Modularity, Diagram  \nWeek13 12/20    時間與動態Time & Motion      \nWeek14 12/27    規則與隨機Rules & Randomness      \nWeek15 1/3    作業報告Assignment      \nWeek161/10    期末檢討Final Review",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "其他",
+            "note": "Google Meet遠距教學網址 https://meet.google.com/zqv-wxrk-znc 或代碼 zqv-wxrk-znc"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 70,
+            "note": "報告或作品，作業成績佔70%"
+        },
+        {
+            "type": "出席",
+            "weight": 30,
+            "note": "每周上課會點名，作為平時成績依據，平時成績佔30%"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

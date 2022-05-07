@@ -1,0 +1,71 @@
+{
+    "year": 110,
+    "term": 2,
+    "name": "數學認知與學習",
+    "teachers": [
+        "吳昭容"
+    ],
+    "department": "EM01",
+    "code": "PCC0137",
+    "credit": 3,
+    "serial": 403,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 2,
+            "to": 4,
+            "campus": "本部",
+            "classroom": "教500"
+        }
+    ],
+    "programs": [
+        "學校心理學學程"
+    ],
+    "comment": "",
+    "restrict": "◎課程不開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程是以認知心理學的觀點與分析方法為手段，以學前至中學階段的學生所發展與學習的數學能力為主題，研讀文獻與思辨數學學習的認知歷程。修課學生以具備認知心理學的基礎為佳，上課前需先行閱讀文獻，採討論為主要的上課方式。",
+    "goals": [
+        "認識學前至中學學生之數學能力的發展與學習。",
+        "認識心理學探討數學概念與技能的研究方法。"
+    ],
+    "syllabus": "第一週：導論\n\n第二至三週：數學認知與腦\n\nMathematical Cognition (Gallistel & Gelman, 2005)\n\nThree parietal circuits for number processing (Dehaene, et al., 2005)\n\nDual processes in psychology of mathematics education (Gillard, et al., 2009)\n\n第四至五週：數學閱讀與文字題解題\n\nThe process of understanding mathematical problems (Mayer & Hegarty,1996)\n\nWord problems: Evidence from students’ eye fixation( Hegarty, et al., 1992)\n\nA model of eye movement and visual working memory during problem solving in geometry (Epelboim & Suppes, 2001)\n\n比較應用題解題過程的眼動研究(馮虹等人，2007)\n\n幾何證明文本閱讀的眼動研究：圖文比重及圖示著色效果(吳昭容、陳琪瑤，審查中)\n\n第六至七週：認知負荷、工作記憶，與數學學習\n\nCognitive architecture and instructional design.( Sweller, et al., 1998)\n\nReview of graph comprehension research ( Shah & Hoeffner, 2002)\n\nWorking memory and mathematics (Raghubar, Barnes, & Hecht, 2010)\n\nThe relationship between visuospatial sketchpad capacity and children’s mathematical skills(Holmes, Adams, & Hamilton, 2008)\n\n第八至十週：樣式的察覺與代數發展\n\nprimary algebra ( Owen, 1995)\n\n重複樣式的程序性與概念性知識(吳昭容、徐千惠)\n\npattern and algebra ( Orton & Orton, 1999, Ch. 7)\n\nGeneralising the pattern rule for visual growth patterns (Warren & Cooper, 2008)\n\nLinear geometric number patterns( Bishop, 2000)\n\n代數教學（陳彥廷、柳賢，2009）\n\n第十一至十四週：幾何概念的形成與改變\n\nGeometry and spatial reasoning ( Clements & Battista, 1992)          \n\nA study of thinking (Bruner, et al., 1956, P. 1-155)\n\n兒童在數位式數學實驗情境下的發現學習（劉宜芳、吳昭容，2008）\n\nDifficulties in geometry of visual perception (Gal & Linchevski, 2010)\n\n重讀幾何思維的階層論：載體理論的啟示(吳毓瑩等，2009)\n\nCounter-examples effects on children conceptual change (Wu & Sui, unpublished)\n\n幾何圖形反例的概念改變方式（許歆宜，2005）\n\n第十五至十七週：數學推理—臆測與論證\n\n數學與似真推理（Polya, 1953/1988, pp. 249-304）\n\nGenerating and evaluating geometry conjectures (Wu, et al., 2006)\n\nUses of examples in geometric conjecturing (Lin & Wu, 2007)教室中的數學論證(陳英娥，2002)\n\n發現函數關係（Haverty, et al., 2000）\n\n第十八週： 專題的口頭報告",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "課前需先行閱讀指定的文獻，課堂上共同討論"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 20,
+            "note": "就老師提問的問答題，完成小報告，共五次"
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "報告",
+            "weight": 30,
+            "note": "挑一個主題撰寫報告，內容包括精簡地review相關文獻，進行評論，或對別人的資料重作分析，指出新觀點。採APA格式。"
+        },
+        {
+            "type": "其他",
+            "weight": 20,
+            "note": "課堂報告成績"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

@@ -1,0 +1,74 @@
+{
+    "year": 107,
+    "term": 1,
+    "name": "計算機圖學",
+    "teachers": [
+        "張鈞法"
+    ],
+    "department": "SU47",
+    "code": "CSU0021",
+    "credit": 3,
+    "serial": 2981,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 15
+    },
+    "schedule": [
+        {
+            "day": 4,
+            "from": 7,
+            "to": 9,
+            "campus": "公館",
+            "classroom": "理圖801"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "3",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程介紹計算機圖學領域中相關的理論與實作，包含三維繪圖程式之撰寫、三維座標轉換、光影計算、以及繪圖處理器之基本運作原理。",
+    "goals": [
+        "開發3D繪圖程式",
+        "熟悉3D繪圖處理器運作原理及程式介面",
+        "完成高效率及擬真畫質之完整三維繪圖系統"
+    ],
+    "syllabus": " \\*\\*\\* Note that this course requires intensive programming in Javascript, C or C++ (possibly 3,000 to 6,000 lines of code).  \n  \nThis course is about the programming of 3D computer graphics. During the first half of this course, we will focus on the high-level programming of 3D graphics applications using the OpenGL API. Then, during the second half of this course, we will study the whole process of a 3D renderer, which we will implement as a three-part assignment. There is also a final project. If time allows, we will also cover advanced topics such as texture mapping, GPU programming, global illumination ...etc.  \n  \nPart I: Leaning to Drive -- Writing 3D Applications  \n• Overview (1 week)  \n• WebGL & OpenGL Programming (2 weeks)  \n• Transformations (1 week)  \n• Viewing (1 week)  \n• Shading (1 week)  \nPart II: Under the Hood: Implementation of a Renderer  \n• Geometric Processing (1 week)  \n• Hidden Surface Removal (1 week)  \n• Scan Conversion (2 weeks)  \n• Texture Mapping (1 week)  \nPart III: Advanced Topics  \n• GPU Programming, Curves and Surfaces, Animations, Global Illuminations,…etc. (3-4 weeks)",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "實驗/實作",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 50,
+            "note": ""
+        },
+        {
+            "type": "期中考",
+            "weight": 15,
+            "note": ""
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 5,
+            "note": ""
+        },
+        {
+            "type": "專題",
+            "weight": 30,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

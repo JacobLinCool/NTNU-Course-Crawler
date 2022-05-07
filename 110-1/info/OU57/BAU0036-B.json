@@ -1,0 +1,78 @@
+{
+    "year": 110,
+    "term": 1,
+    "name": "會計學（一）",
+    "teachers": [
+        "陳慧玲"
+    ],
+    "department": "OU57",
+    "code": "BAU0036",
+    "credit": 3,
+    "serial": 2519,
+    "group": "B",
+    "quota": {
+        "limit": 60,
+        "additional": 21
+    },
+    "schedule": [
+        {
+            "day": 1,
+            "from": 7,
+            "to": 9,
+            "campus": "本部",
+            "classroom": "誠201"
+        }
+    ],
+    "programs": [],
+    "comment": "企管系大一學生學號末碼為單數號請選修會計學(一)A班;末碼為雙數號請選修會計學(一)B班。非企管系同學需待全校加退選開始後，才得進行線上選課和利用授課碼選課方式。欲加修本課程的學生，請務必出席第一節課處理授權碼事宜，不必事先寫信給教授。",
+    "restrict": "",
+    "form_s": "1",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程內容係介紹編製四大財務報表(資產負債表、綜合損益表、權益變動表及現金流量表)所需財務會計的原理與處理程序，包括會計恆等式、借貸法則及會計循環。本課程亦涵蓋買賣業會計、存貨、現金及內部控制。",
+    "goals": [
+        "能編製財務報表，並根據會計資訊做決策",
+        "能利用會計提供決策相關之財務資訊",
+        "使同學學習真實且允當地表達企業財務狀況、經營績效及財務狀況變動，以提供高品質財務資訊"
+    ],
+    "syllabus": "【授課方式：16+2週】\n\n第1-2週：Accounting in Business\n\n第3週+第1次自主學習：Analyzing and Recording Transactions \n\n第4-5週：Adjusting Accounts for Financial Statements\n\n第6-8週：Completing the Accounting Cycle/Accounting for Merchandising Operations\n\n第9週：Mid-term exam\n\n第10-11週：Accounting for Merchandising Operations\n\n第12-13週+第2次自主學習：Inventories and Cost of Sales\n\n第14-15週：Cash, Fraud, and Internal Control\n\n第16週：Final exam",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "講述會計理論與實務，並教導學生有系統地記錄交易，並編製財務報表。"
+        },
+        {
+            "type": "討論法",
+            "note": "全班於課堂中討論重要會計議題"
+        },
+        {
+            "type": "實驗/實作",
+            "note": "引導學生於課堂有系統記錄交易"
+        }
+    ],
+    "grading": [
+        {
+            "type": "期中考",
+            "weight": 35,
+            "note": "計算題(包含分錄及編製財務報表)"
+        },
+        {
+            "type": "期末考",
+            "weight": 30,
+            "note": "計算題(包含分錄及編製財務報表)"
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 5,
+            "note": "出席並參與課堂討論的情形"
+        },
+        {
+            "type": "其他",
+            "weight": 30,
+            "note": "兩次小考，自主學習"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

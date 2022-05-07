@@ -1,0 +1,80 @@
+{
+    "year": 108,
+    "term": 2,
+    "name": "哲學概論",
+    "teachers": [
+        "林逢祺"
+    ],
+    "department": "EU00",
+    "code": "EDU0086",
+    "credit": 2,
+    "serial": 627,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 8,
+            "to": 9,
+            "campus": "本部",
+            "classroom": "教802"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎限大一◎限乙班修習",
+    "form_s": "1",
+    "classes": "2",
+    "dept_group": "",
+    "hours": 2,
+    "description": "哲學是「大」學，也就是「根本」之學，是所有熱愛真理、追求智慧者，千百年來始終著迷的學問。在這門課裡，將帶領哲學新鮮人一起探索前輩哲學家們最關心的幾個核心議題，包括：知識、心靈、自由意志、自我、上帝、健全推理、世界真貌與道德行為。\nPhilosophy is a foundation discipline, the mother of all knowledge, as etymologically speaking it simply means the love of truth or the pursuit of wisdom. It is a subject which has enchanted intelligent people for thousands of years. As such, this course will lead freshmen to an exploration of the core topics that most preoccupied philosophers in the past. This includes knowledge, mind, freedom, self, God, reasoning, world, and morality.",
+    "goals": [
+        "激發好奇精神",
+        "熟習論證及分析方法",
+        "培養反省思維能力",
+        "了解知識與價值的根本問題"
+    ],
+    "syllabus": "  \n第1週            課程介紹  \n第2週            哲學精神  \n第3週            哲學方法與內容  \n第4週            哲學基本結構  \n第5週            知識  \n第6週            知識  \n第7週            心靈          \n第8週            心靈  \n第9週            自由意志  \n第10週            自由意志  \n第11週            期中考  \n第12週            自我  \n第13週            上帝  \n第14週            推理  \n第15週            推理  \n第16週            世界真貌  \n第17週            正確行為  \n第18週            期末考",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "核心概念之分析與詮釋。"
+        },
+        {
+            "type": "討論法",
+            "note": "關鍵議題之蘇格拉底問辯及哲學論壇對話。"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 20,
+            "note": "每週定期上教育哲學經典研讀會網站（教育系－教育哲學經典研讀會－留言討論－SCPE論壇－教育哲學討論區－註冊－發言），發表一篇短評或回應文章。"
+        },
+        {
+            "type": "期中考",
+            "weight": 30,
+            "note": "二十題選擇；兩題申論。"
+        },
+        {
+            "type": "期末考",
+            "weight": 30,
+            "note": "二十題選擇；兩題申論。"
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 10,
+            "note": "含提問及答問"
+        },
+        {
+            "type": "出席",
+            "weight": 10,
+            "note": "含提問及答問"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

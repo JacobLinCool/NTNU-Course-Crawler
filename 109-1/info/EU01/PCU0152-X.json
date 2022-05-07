@@ -1,0 +1,77 @@
+{
+    "year": 109,
+    "term": 1,
+    "name": "普通心理學（一）",
+    "teachers": [
+        "許禕芳"
+    ],
+    "department": "EU01",
+    "code": "PCU0152",
+    "credit": 2,
+    "serial": 717,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 1,
+            "from": 3,
+            "to": 4,
+            "campus": "本部",
+            "classroom": "教201演講廳"
+        }
+    ],
+    "programs": [
+        "音樂輔教學程",
+        "高齡學程"
+    ],
+    "comment": "",
+    "restrict": "",
+    "form_s": "1",
+    "classes": "",
+    "dept_group": "",
+    "hours": 2,
+    "description": "本課程是對心理學的主要範疇、研究方法、重要理論、及研究趨勢等內容做入門性的介紹，以幫助初學者瞭解心理學的基本知識。",
+    "goals": [
+        "瞭解人類行為與心理特質的發展。",
+        "熟悉心理學的理論及研究趨勢。",
+        "瞭解心理學常用的研究方法。"
+    ],
+    "syllabus": "01 (14SEP)：    The nature of psychology  \n02 (21SEP)：    Biological foundations of psychology  \n03 (28SEP)：    Biological foundations of psychology  \n04 (05OCT)：   Psychological development  \n05 (12OCT)：   Psychological development  \n06 (19OCT)：   Midterm exam 1  \n07 (26OCT)：   Sensory processes  \n08 (02NOV)：  Sensory processes  \n09 (09NOV)：  Perception & consciousness  \n10 (16NOV)：  Perception & consciousness  \n11 (23NOV)：  Midterm exam 2  \n12 (30NOV)：  Leaning and conditioning  \n13 (07DEC)：   Leaning and conditioning  \n14 (14DEC)：   Memory  \n15 (21DEC)：   Memory  \n16 (28DEC)：   Language and thought  \n17 (04JAN)：   Language and thought  \n18 (11JAN)：   Final exam",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "期中考",
+            "weight": 50,
+            "note": "考試時間兩節課，第1次內容包含第01-03章，第2次內容包含第04-06章。"
+        },
+        {
+            "type": "期末考",
+            "weight": 25,
+            "note": "考試時間兩節課，內容包含第07-09章。"
+        },
+        {
+            "type": "出席",
+            "weight": 20,
+            "note": "準時出席並積極參與課程活動。"
+        },
+        {
+            "type": "其他",
+            "weight": 5,
+            "note": "學期當中至少擔任一次心理學研究參與者。"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

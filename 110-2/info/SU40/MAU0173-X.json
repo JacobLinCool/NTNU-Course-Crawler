@@ -1,0 +1,55 @@
+{
+    "year": 110,
+    "term": 2,
+    "name": "線性代數探索（二）",
+    "teachers": [
+        "郭君逸"
+    ],
+    "department": "SU40",
+    "code": "MAU0173",
+    "credit": 1,
+    "serial": 2747,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 5,
+            "from": 4,
+            "to": 4,
+            "campus": "公館",
+            "classroom": "Ｅ202"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎必須先修過(也可以同時修)【MAU0161  線性代數（二）】 ◎課程開放上修",
+    "form_s": "1",
+    "classes": "3",
+    "dept_group": "",
+    "hours": 1,
+    "description": "在於讓學生親身經歷線性代數解題的思維歷程，以達到對線性代數概念和計算法則的熟練，進而應用解決相關問題。",
+    "goals": [
+        "讓學生親身經歷線性代數解題的思維歷程",
+        "讓學生熟練線性代數概念和計算法則",
+        "應用線性代數解決相關數學問題。"
+    ],
+    "syllabus": "本課程需同時修主課程「線性代數(二)」，始得修本課程。\n\n跟據主課程的進度，做試題演練。",
+    "methodologies": [
+        {
+            "type": "實驗/實作",
+            "note": "平時小考"
+        }
+    ],
+    "grading": [
+        {
+            "type": "其他",
+            "weight": 100,
+            "note": "平時小考"
+        }
+    ],
+    "prerequisite": "◎必須先修過(也可以同時修)【MAU0161  線性代數（二）】",
+    "general_core": []
+}

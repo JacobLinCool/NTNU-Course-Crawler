@@ -1,0 +1,96 @@
+{
+    "year": 108,
+    "term": 2,
+    "name": "適應控制",
+    "teachers": [
+        "陳俊達"
+    ],
+    "department": "HM73",
+    "code": "MTC8014",
+    "credit": 3,
+    "serial": 1100,
+    "group": "",
+    "quota": {
+        "limit": 30,
+        "additional": 12
+    },
+    "schedule": [
+        {
+            "day": 3,
+            "from": 10,
+            "to": 12,
+            "campus": "本部",
+            "classroom": "機電301會議室"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "適應控制講述基本系統識別與適應性控制原理及其在系統控制之分析與設計上之應用，以期使學生具有適應性控制器設計之能力，並簡介電腦模擬工具與工程分析之技術，以為工程實務之基礎。",
+    "goals": [
+        "瞭解適應控制之基本理論及運動控制原理。",
+        "使具有系統識別之分析能力。",
+        "使具備有以適應控制為基礎之控制設計能力。",
+        "具有電腦輔助模擬分析之實務能力。"
+    ],
+    "syllabus": "第 1 週 Introduction第 2 週 Adaptive control introduction第 3 週 Real-time parameter estimation 第 4 週 Real-time parameter estimation 第 5 週 Applications and Discussions on parameter estimation第 6 週 Self-tuning regulators 第 7 週 Self-tuning regulators第 8 週 Self-tuning regulators 第 9 週 Midterm exam第 10 週 Model-reference adaptive systems第 11 週 Model-reference adaptive systems第 12 週 Model-reference adaptive systems第 13 週 Properties of adaptive systems 第 14 週 Auto-tuning第 15 週 Auto-tuning 第 16 週 Final exam第 17 週 Term project第 18 週 Term project",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "講述系統識別與適應性控制原理"
+        },
+        {
+            "type": "討論法",
+            "note": "課堂隨機討論"
+        },
+        {
+            "type": "問題解決教學",
+            "note": "課程中提出實務相關問題供學生課中或課後思考與解決"
+        },
+        {
+            "type": "媒體融入教學",
+            "note": "參與數位學習平台(Moodle)教學"
+        },
+        {
+            "type": "專題研究",
+            "note": "電腦輔助模擬分析之期末專題計畫"
+        },
+        {
+            "type": "其他",
+            "note": "須研讀與課程(或碩士論文研究主題)相關之英文學術論文"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 20,
+            "note": "適應控制之習題作業"
+        },
+        {
+            "type": "期中考",
+            "weight": 25,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 25,
+            "note": ""
+        },
+        {
+            "type": "出席",
+            "weight": 10,
+            "note": ""
+        },
+        {
+            "type": "報告",
+            "weight": 20,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

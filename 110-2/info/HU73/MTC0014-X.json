@@ -1,0 +1,81 @@
+{
+    "year": 110,
+    "term": 2,
+    "name": "奈米科技",
+    "teachers": [
+        "楊啟榮"
+    ],
+    "department": "HU73",
+    "code": "MTC0014",
+    "credit": 3,
+    "serial": 1234,
+    "group": "",
+    "quota": {
+        "limit": 30,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 5,
+            "from": 2,
+            "to": 4,
+            "campus": "本部",
+            "classroom": "機電301會議室"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "9",
+    "dept_group": "",
+    "hours": 3,
+    "description": "",
+    "goals": [
+        "Understand the concepts and principles of nanotechnology",
+        "Establish the capabilities of preparation and synthesis for nanomaterials",
+        "Build the capabilities of process and application for nanostructures",
+        "Build the capabilities of design and fabrication for nanodevices",
+        "Establish the application capabilities of nanomaterials and nanostructures in emerging technology fields",
+        "Develop integrated application capabilities of nanotechnology in emerging technology industries",
+        "Improve the ability to write special technical reports"
+    ],
+    "syllabus": "18 weeks:\n\n1st week: Course introduction\n\n2nd week: Introduction to Nanotechnology (I)\n\n3nd week: Introduction to Nanotechnology (II)\n\n4rd week: Origin and Properties of Fullerene and Carbon Nanotube\n\n5th week: Synthesis and Preparation Methods of Carbon Nanotube\n\n6th week: Potential Application of Carbon Nanotubes\n\n7rd week: Origin and Properties of Graphene\n\n8th week: Synthesis and Preparation Methods of Graphene Film\n\n9th week: Synthesis and Preparation Methods of Graphene Powder\n\n10th week: Mass Production Technology and Application Potential of Graphene\n\n11th week: Fabrication Technology of Silicon Microstructures\n\n12th week: Fabrication Technology of Silicon Nanostructures\n\n13th week: Silicon Micro/Nano Structure Applied to Emerging Energy Devices\n\n14th week: Preparation Technology of Zinc Oxide Nanowires\n\n15th week: Application Technology of Zinc Oxide Nanowires\n\n16th week: Detection Method in Nano Science and Technology (I)\n\n17th week: Detection Method in Nano Science and Technology (II)\n\n18th week: Final Report",
+    "methodologies": [
+        {
+            "type": "Formal lecture",
+            "note": "Explain the concepts and principles of various fabrication or synthesis processes of nanomaterials, components and systems in the nanotechnology fields."
+        },
+        {
+            "type": "Group discussion",
+            "note": "Discuss the application examples of nanotechnology and some supplementary materials on their relevance to modern emerging industries."
+        },
+        {
+            "type": "Media, audio, visual materials",
+            "note": "Watch and discuss the related nanotechnology videos"
+        },
+        {
+            "type": "Case studies",
+            "note": "Select topics related to nanotechnology, train students to have the ability to search for SCI-level journal papers, read and translate them, and organize them as a technical report that conforms to academic formats."
+        }
+    ],
+    "grading": [
+        {
+            "type": "Attendances",
+            "weight": 30,
+            "note": "Assess student attendance and participation in class discussions"
+        },
+        {
+            "type": "Presentation",
+            "weight": 50,
+            "note": "Read an English SCI journal paper related to nanotechnology and translate it as a Chinese written report in an assigned format, which will train students to have the ability to search SCI-level journals and write technical reports in a specified format."
+        },
+        {
+            "type": "other:",
+            "weight": 20,
+            "note": "Oral report: Organize the above-mentioned nanotechnology paper into an assigned PPT format and give an oral report in groups at the end of the term. This will train students to have the ability to make oral technical reports on stage."
+        }
+    ],
+    "prerequisite": "◎Available for junior and senior year B.A. program students (Doctoral program courses excepted) and M.A. program students.",
+    "general_core": []
+}

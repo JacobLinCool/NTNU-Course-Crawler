@@ -1,0 +1,66 @@
+{
+    "year": 110,
+    "term": 1,
+    "name": "工程機率與統計",
+    "teachers": [
+        "黃政吉"
+    ],
+    "department": "HM75",
+    "code": "AEC8025",
+    "credit": 3,
+    "serial": 1194,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 3,
+            "from": 7,
+            "to": 9,
+            "campus": "本部",
+            "classroom": "工501"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "",
+    "goals": [
+        "Understanding probability.",
+        "Studying discrete random variables and their probability distribution.",
+        "Studying continuous random variables and their probability distribution.",
+        "Understanding joint probability distributions."
+    ],
+    "syllabus": "授課方式：16+2週\n\n第一週: Introductions  \n第二週: Set Theory  \n第三週: Probability Axioms  \n第四週: Conditional Probability  \n第五週: Independence  \n第六週: Independent Trials  \n第七週: Discrete Random Variables  \n第八週: 期中考  \n第九週: Probability Mass Function (PMF)  \n第十週: Cumulative Distribution Function (CDF)  \n第十一週: Variance  \n第十二週: Standard Deviation  \n第十三週: Conditional PMF  \n第十四週: Continuous Random Variables  \n第十五週: Probability Density Function  \n第十六週: 期末考  \n第十七週: Gaussian Random Variables  \n第十八週: Derived Random Variables",
+    "methodologies": [
+        {
+            "type": "Formal lecture",
+            "note": "投影片。"
+        }
+    ],
+    "grading": [
+        {
+            "type": "Midterm Exam",
+            "weight": 45,
+            "note": "筆試"
+        },
+        {
+            "type": "Final exam",
+            "weight": 45,
+            "note": "筆試"
+        },
+        {
+            "type": "Attendances",
+            "weight": 10,
+            "note": "點名"
+        }
+    ],
+    "prerequisite": "◎Available for junior and senior year B.A. program students (Doctoral program courses excepted) and M.A. program students.",
+    "general_core": []
+}

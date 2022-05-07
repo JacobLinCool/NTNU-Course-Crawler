@@ -1,0 +1,66 @@
+{
+    "year": 110,
+    "term": 2,
+    "name": "微積分乙（一）",
+    "teachers": [
+        "陳慧如"
+    ],
+    "department": "SU40",
+    "code": "MAU0180",
+    "credit": 3,
+    "serial": 2711,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 0
+    },
+    "schedule": [
+        {
+            "day": 6,
+            "from": 6,
+            "to": 8,
+            "campus": "本部",
+            "classroom": "誠108"
+        }
+    ],
+    "programs": [],
+    "comment": "機電系「智能鑄造產學攜手專班」",
+    "restrict": "◎限機電系（學）「智能鑄造產學攜手專班」選修 ◎課程開放上修",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "",
+    "goals": [
+        "增進數學分析基本概念的理解",
+        "進邏輯推理與歸納的能力",
+        "增進數學思維與批判性思考的能力",
+        "增進專業知識及追求真理的態度"
+    ],
+    "syllabus": "註1：依 \"臺灣大學系統\" 三校採行110學年度授課方式「16+2週」，即「授課16週＋2週彈性教學」，本課程彈性教學暫訂為自主學習方式，時間於第17、18週實行 (以開學時老師宣佈為主)。\n\n註2：本課程僅提供 \"機電系「智能鑄造產學攜手專班」\" 學生修課。\n\n註3：如因疫情需要調整，本課程將配合學校規定之授課方式進行。\n\n\\------\n\n一、極限與連續 Limits and Continuity\n\n(1) 極限的定義及性質 Definition of Limits with Properties、挾擠定理 Squeeze Theorem\n\n(2) 連續函數的定義及性質 Definition of Continuous Functions with Properties\n\n(3) 中間值定理 Intermediate Value Theorem \n\n二、單變數函數的微分及其應用 Differentiation for Functions of Single Variable with Applications\n\n(1) 導數與導函數 Derivatives (of a Function)\n\n(2) 微分公式 Differentiation Rules、鏈鎖法則 Chain Rule 、隱微分法 Implicit Differentiation、均值定理 Mean Value Theorem\n\n(3) 切線斜率 Slope of Tangent Line、變化率 Rates of Change\n\n(4) 函數的極值、遞增遞減、凹凸性與圖形的漸近線 Extreme, Increasing-Decreasing, Convexity-Concavity and Asymptoes for a Function\n\n(5) 指數、對數與三角函數的微分 Differentiation for Exponential, Logarithmic and Trigonometric Functions\n\n(6) 羅必達法則 L’Hospital Rule、簡易的微分方程 Basic Differential Equations\n\n三、單變數函數的積分及其應用 Integration for Functions of Single Variable with Applications\n\n(1) 不定積分定義與性質 Definition and Properties for Indefinite Integrals\n\n(2) 定積分定義與性質 Definition and Properties for Definite Integrals\n\n(3) 微積分基本定理 The Fundamental Theorem of Calculus\n\n(4) 積分計算技巧 Integration Techniques：\n\n分部積分法 Integration by Parts；變數代換法 Integration by Substitution；分項分式法 Method of Partial Fractions；\n\n指數、對數與三角函數的積分 Integrations for Exponential, Logarithmic and Trigonometric Functions\n\n(5) 瑕積分 Improper Integrals\n\n(6) 兩曲線間的面積 Area of a Region between Two Curves、旋轉體體積 Volume of a Solid of Revolution 與弧長 Arc Length\n\n\\------",
+    "methodologies": [
+        {
+            "type": "Formal lecture",
+            "note": "以上課講授為主，並輔以習題研討。"
+        }
+    ],
+    "grading": [
+        {
+            "type": "Midterm Exam",
+            "weight": 40,
+            "note": "參考題型：教科書中各週課堂講解例題與課後指定習題。"
+        },
+        {
+            "type": "Final exam",
+            "weight": 40,
+            "note": "參考題型：教科書中各週課堂講解例題與課後指定習題。"
+        },
+        {
+            "type": "other:",
+            "weight": 20,
+            "note": "除期中末考試所佔百分比外，剩餘之百分比(預定20%)列於其他項目計分，此項目含作業、出席等等。(此項計分方式以開學時老師宣佈為主)"
+        }
+    ],
+    "prerequisite": "◎限Department of Mechat「智能鑄造產學攜手專班」 ◎Available for junior and senior year B.A. program students (Doctoral program courses excepted) and M.A. program students.",
+    "general_core": []
+}

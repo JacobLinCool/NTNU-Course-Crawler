@@ -1,0 +1,66 @@
+{
+    "year": 109,
+    "term": 1,
+    "name": "動物生理學",
+    "teachers": [
+        "呂國棟",
+        "林豊益",
+        "張孜菁"
+    ],
+    "department": "SU43",
+    "code": "BIU0015",
+    "credit": 3,
+    "serial": 3009,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 4,
+            "from": 7,
+            "to": 9,
+            "campus": "公館",
+            "classroom": "Ｓ401"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎必須先修過【BIU0168  普通生物學甲（一）】、【BIU0169  普通生物學甲（二）】、【BIU0170  普通生物學乙】其中一門",
+    "form_s": "3",
+    "classes": "1",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程目標為介紹動物生理學之基本概念，使學生瞭解動物各系統的功能，與運作機制，並比較不同動物的特性。",
+    "goals": [
+        "能熟悉並認知動物生理系統的功能及機制。",
+        "能體認動物生理學的內涵，並以動物與環境適應為例論述生命科學之相關議題。",
+        "能夠吸收專業知識並且將其轉化與表達"
+    ],
+    "syllabus": "週次  章節   授課內容                              授課教授\n\n1     4      Neuron structure and function         曾庸哲\n\n2     4      Neuron structure and function         曾庸哲\n\n3     5      Cellular movement and muscles         曾庸哲\n\n4     6      Sensory system                        曾庸哲\n\n5     6      Sensory system                        曾庸哲\n\n6            1st Exam                               曾庸哲\n\n7     3      Cell signaling and endocrine regulation   呂國棟\n\n8     7      Functional organization of nervous system     呂國棟\n\n9     8      Circulatory systems                   呂國棟\n\n10    8      Circulatory systems                   呂國棟\n\n11    9      Respiratory systems                   呂國棟\n\n12           2nd Exam                               呂國棟\n\n13    10     Ion and water balance                 林豊益\n\n14    10     Ion and water balance                 林豊益\n\n15    11     Digestion                             林豊益",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "使用一般課本、自編講義媒材授課"
+        },
+        {
+            "type": "媒體融入教學",
+            "note": "運用數位平台與自製簡報檔案教學"
+        }
+    ],
+    "grading": [
+        {
+            "type": "期中考",
+            "weight": 50,
+            "note": "選擇題(30%) 簡答題(20%) 問答題(40%)"
+        },
+        {
+            "type": "期末考",
+            "weight": 50,
+            "note": "選擇題(30%) 簡答題(20%) 問答題(40%)"
+        }
+    ],
+    "prerequisite": "◎必須先修過【BIU0168  普通生物學甲（一）】、【BIU0169  普通生物學甲（二）】、【BIU0170  普通生物學乙】其中一門",
+    "general_core": []
+}

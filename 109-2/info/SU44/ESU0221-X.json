@@ -1,0 +1,81 @@
+{
+    "year": 109,
+    "term": 2,
+    "name": "天文資訊學導論",
+    "teachers": [
+        "曾瑋玲",
+        "李悅寧"
+    ],
+    "department": "SU44",
+    "code": "ESU0221",
+    "credit": 3,
+    "serial": 2940,
+    "group": "",
+    "quota": {
+        "limit": 38,
+        "additional": 2
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 2,
+            "to": 4,
+            "campus": "公館",
+            "classroom": "理圖802"
+        }
+    ],
+    "programs": [
+        "天文重力學程"
+    ],
+    "comment": "中低階以上課程，適合大二以上學生修習，以作為中階課程銜接之先修課程。",
+    "restrict": "",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "程式工具在當代天文學應用不可或缺，天文資訊學導論課程設計目標讓學生認識程式語言基礎，課程內容以各種天文題材上機實作為主，培養建立簡單數值模型與資料處理的能力。",
+    "goals": [
+        "Allow students to comfortably use informatic tools to treat problems in astronomy and related fields."
+    ],
+    "syllabus": "The official language of this course is Python 3. Students are, however, free to apply any other tools that they find useful. We will start by introducing the basics of Python programming and common packages in astronomical application. This will be followed by sessions of hands-on practice of various topics. Students will develop their own tools to describe astronomical phenomena, extract information, and present data.\n\nThis semester, the project will focus on the cometary dusty tail. The schedule will adapted dependingon you progress along the semester. During the course, you will learn to\n\n1\\. Share working progress on Slack\n\n2\\. Work on Linux system\n\n3\\. Manage Overleaf projects and write a document in Latex\n\n4\\. Write and execute Python script files\n\n5\\. Read and display Fits files\n\n6\\. Extract information from observation data\n\n7\\. Solve Keplerian motion for Solar System bodies\n\n8\\. Simulate dust particle trajectory under the influence of gravity and Solar radiation pressure\n\n9\\. Calculate reflected light under Solar illumination\n\n10\\. Do population sampling and integration\n\n11\\. Produce mock observation\n\n12\\. Perform model fittingWe might not go through all the topics.\n\nThe exact rhythm will depend on your progress.",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": ""
+        },
+        {
+            "type": "問題解決教學",
+            "note": ""
+        },
+        {
+            "type": "合作學習",
+            "note": ""
+        },
+        {
+            "type": "實驗/實作",
+            "note": ""
+        },
+        {
+            "type": "專題研究",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "報告",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "專題",
+            "weight": 70,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

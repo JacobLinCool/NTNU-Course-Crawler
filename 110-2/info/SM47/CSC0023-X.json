@@ -1,0 +1,87 @@
+{
+    "year": 110,
+    "term": 2,
+    "name": "自然語言處理",
+    "teachers": [
+        "侯文娟"
+    ],
+    "department": "SM47",
+    "code": "CSC0023",
+    "credit": 3,
+    "serial": 2696,
+    "group": "",
+    "quota": {
+        "limit": 60,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 4,
+            "from": 7,
+            "to": 9,
+            "campus": "公館",
+            "classroom": "Ｂ101"
+        }
+    ],
+    "programs": [
+        "人工智慧學程"
+    ],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "This course is aimed to introduce the kernel natural language processing techniques, evaluation and their relevant applications.",
+    "goals": [
+        "Learn NLP techniques",
+        "Understand NLP applications"
+    ],
+    "syllabus": "【授課方式：16+2週】：彈性教學2週以自主學習方式辦理。\n\n1.Introduction  \n2.Grammars  \n3.Parsing, Search and Ambiguity  \n4.Features and the Lexicon  \n5.Semantics  \n6.Pragmatics  \n7.Mathematical Foundations  \n8.Collocations  \n9.Statistical Inference: n-gram Models over Sparse Data  \n10.Word Sense Disambiguation  \n11.Lexical Acquisition  \n12.Markov Models  \n13.Part-of-Speech Tagging  \n14.Probabilistic Context Free Grammars  \n15.NLP Applications",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": ""
+        },
+        {
+            "type": "問題解決教學",
+            "note": ""
+        },
+        {
+            "type": "媒體融入教學",
+            "note": ""
+        },
+        {
+            "type": "其他",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "期中考",
+            "weight": 40,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 40,
+            "note": ""
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 10,
+            "note": ""
+        },
+        {
+            "type": "出席",
+            "weight": 10,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

@@ -1,0 +1,82 @@
+{
+    "year": 109,
+    "term": 1,
+    "name": "機器人地圖建立與定位",
+    "teachers": [
+        "包傑奇"
+    ],
+    "department": "HM75",
+    "code": "AEC8015",
+    "credit": 3,
+    "serial": 1212,
+    "group": "",
+    "quota": {
+        "limit": 30,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 1,
+            "from": 2,
+            "to": 4,
+            "campus": "本部",
+            "classroom": "多媒體與通訊實驗室"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "This course covers a variety of topics and issues in applied AI: computer vision, mobile robotics, and multi-robot systems. These abstract components are grounded in the problem of robotic soccer. A selection of topics covered during lectures are: Image segmentation, Optical flow analysis, Ego-motion estimation, Localization, and Mapping.",
+    "goals": [
+        "瞭解機器人導航之原理",
+        "瞭解機器人導航之各種技術，能夠撰寫程式以控制機器人",
+        "熟悉機器人所需之機電整合所需技術",
+        "培養問題導向的思維和研究之能力",
+        "提升工程問題理解之能力，能夠分析各種機器人相關問題及設計解決方案",
+        "能夠搜尋相關技術文獻，提升自我學習之能力",
+        "能夠以小組方式進行主題式研究，培養團隊合作之能力"
+    ],
+    "syllabus": "Week 1-2: Introduction to localization and mapping for navigation\n\nWeek 3-4: The fundamentals of probability theory for Localization and mapping\n\nWeek 5-6: Localization: motion models, sensor models, and Monte Carlo method, particle filter\n\nWeek 7-8: Eigenvectors and singular value decomposition\n\nWeek 9-10: Incremental closest point algorithm\n\nWeek 11-12: Introduction to computer vision, thresholding, histograms, edge detection, Sobel, and Laplacian\n\nWeek 13-14: Convolution, segmentation, and integral image\n\nWeek 15-16: Visual SLAM, SIFT and SURF features\n\nWeek 17: Visual SLAM - Bundle adjustment\n\nWeek 18: Final Exam",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "問題解決教學",
+            "note": ""
+        },
+        {
+            "type": "專題研究",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "期中考",
+            "weight": 30,
+            "note": "A midterm exam will be held after approximately the first half of the course."
+        },
+        {
+            "type": "期末考",
+            "weight": 30,
+            "note": "A final exam will examine all material learned by the students."
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 20,
+            "note": ""
+        },
+        {
+            "type": "出席",
+            "weight": 20,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

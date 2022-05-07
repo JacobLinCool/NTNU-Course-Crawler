@@ -1,0 +1,74 @@
+{
+    "year": 110,
+    "term": 2,
+    "name": "方法論",
+    "teachers": [
+        "林如萍"
+    ],
+    "department": "ED06",
+    "code": "HGD0001",
+    "credit": 3,
+    "serial": 362,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 3,
+            "from": 2,
+            "to": 4,
+            "campus": "本部",
+            "classroom": "勤102"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程不開放上修",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程為培養博士班學生對方法論的素養及多元研究典範的精髓深入理解，本課程除了理解研究方法論的價值與意義、典範與典範轉移的意義，並瞭解實證典範、詮釋典範、批判典範等之內涵，並能透過學術期刊論文之評析，實際釐清各種典範內研究方法的設計要領、實施原則、資料分析與解釋，期末並擇一典範中之一取向實際進行研究，落實方法論之理解並體驗研究倫理。",
+    "goals": [
+        "瞭解方法論的意義與研究典範轉移的啟示",
+        "瞭解各種研究典範的意義及其對教育研究的影響",
+        "從實際的批判討論中釐清各種典範內研究方法的設計要領、實施原則、資料分析與解釋"
+    ],
+    "syllabus": "(一)課程介紹  \n  \n(二)方法論（methology）的意義  \n  \n(三)典範與典範轉移  \n  \n(四)實證典範Positivism Paradigm  \n  \n(五)實證典範相關研究法論文評論  \n  \n(六)現象學 (Phenomenology)  \n  \n(七) 詮釋典範Hermeneutics Paradigm  \n  \n(八) 詮釋現象學(Hermeneutic Phenomenology)  \n  \n(九)研究法相關論文評論  \n  \n(十)研究法相關論文評論  \n  \n(十一)批判典範Critical Paradigm  \n  \n(十二)研究法相關論文評論  \n  \n(十三)後現代主義 Postmodernism  \n  \n(十四)女性主義 Feminisms  \n  \n(十五)期末報告\n\n(十六)綜合討論  \n  \n【16+2週】",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 15,
+            "note": "文獻閱讀心得報告 15%"
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 20,
+            "note": ""
+        },
+        {
+            "type": "報告",
+            "weight": 55,
+            "note": "課堂報告 (導讀與評析) 25%、期末報告30%"
+        },
+        {
+            "type": "其他",
+            "weight": 10,
+            "note": "個人相關研究或研究計畫分享與評述 10%"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

@@ -1,0 +1,68 @@
+{
+    "year": 108,
+    "term": 1,
+    "name": "線性規劃",
+    "teachers": [
+        "陳界山"
+    ],
+    "department": "SU40",
+    "code": "MAU0061",
+    "credit": 3,
+    "serial": 2857,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 4,
+            "from": 6,
+            "to": 8,
+            "campus": "公館",
+            "classroom": "Ｃ006"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "4",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程介紹日常生活中實際問題的線性規劃模型。並將學習一套有系統的方法（單體法,Simplex method）來求解各類型的線性規劃問題。",
+    "goals": [
+        "瞭解單體法的理論背景",
+        "瞭解線性規劃的實際應用"
+    ],
+    "syllabus": "1.線性規劃的數學模型與應用實例。(2週)\n\n2.單體法（或稱單純法）的原理介紹。(4週)\n\n3.線性規劃的對偶理論(Duality theory)。(4週)\n\n4.線性規劃的敏感度分析(Sensitivity analysis)。(4週)\n\n5.線性規劃的應用：運輸問題與派遣問體。(2週)\n\n6.整數線性規劃的簡介。(2週)",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "上課以課堂講演為主，多提供實例以印證理論。"
+        },
+        {
+            "type": "討論法",
+            "note": "對特定主題輔以電腦教學，以增進學生對課程內容之瞭解。"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 30,
+            "note": "指定習題練習、補充材料的閱讀。"
+        },
+        {
+            "type": "期末考",
+            "weight": 40,
+            "note": "期末評量方式將由考試、繳交報告、或專題報告擇一方式進行。"
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 30,
+            "note": "出席並參與課堂討論、聆聽相關研討會演講的情形。"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

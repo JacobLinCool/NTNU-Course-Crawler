@@ -1,0 +1,99 @@
+[
+    {
+        "year": 107,
+        "term": 2,
+        "name": "電路學（一）",
+        "teachers": [
+            "郭建宏"
+        ],
+        "department": "HU76",
+        "code": "VEU0003",
+        "credit": 3,
+        "serial": 1345,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 2,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "正103"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "1",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "電路學實驗",
+        "teachers": [
+            "呂藝光",
+            "蔣欣翰"
+        ],
+        "department": "HU76",
+        "code": "VEU0004",
+        "credit": 2,
+        "serial": 1346,
+        "group": "",
+        "quota": {
+            "limit": 30,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 6,
+                "to": 9,
+                "campus": "本部",
+                "classroom": "電機與感測實驗室"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "1",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "能源基礎技術",
+        "teachers": [
+            "鄧敦平"
+        ],
+        "department": "HU76",
+        "code": "VEU0005",
+        "credit": 2,
+        "serial": 1347,
+        "group": "",
+        "quota": {
+            "limit": 30,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 6,
+                "to": 9,
+                "campus": "本部",
+                "classroom": "冷凍場"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "1",
+        "classes": "",
+        "dept_group": ""
+    }
+]

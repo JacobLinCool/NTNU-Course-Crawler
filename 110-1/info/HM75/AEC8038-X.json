@@ -1,0 +1,95 @@
+{
+    "year": 110,
+    "term": 1,
+    "name": "機器人控制",
+    "teachers": [
+        "蔣欣翰"
+    ],
+    "department": "HM75",
+    "code": "AEC8038",
+    "credit": 3,
+    "serial": 1198,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 5,
+            "from": 3,
+            "to": 5,
+            "campus": "本部",
+            "classroom": "多媒體與通訊實驗室"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "",
+    "goals": [
+        "Students will know how to design the build the power transmission modules of robots.",
+        "Students will understand the control design methods and the associated programs for robot control.",
+        "Students will know the required technicians of robot mechatronics.",
+        "Students will learn problem-oriented thinking and research skills.",
+        "Students will know how to become involved and with more awareness for analyzing several robot research problems and designing the corresponding solutions.",
+        "Students will learn how to search the corresponding kinds of literature to increase their self-learning ability.",
+        "Students will learn how to conduct project-based research, together with classmates, to develop teamwork ability."
+    ],
+    "syllabus": "本課程首先介紹機器人控制設計的基本內容，包含機構設計、資料獲取、動作控制、感應、以及機器人路徑規劃與軌機追蹤控制等進階主題。學生可以從本課程中學習如何設計各種實際上廣泛應用的機器人手臂及移動機器人，以及搭配實驗內容透過機器人實驗模組來學習機器人的設計與開發，並培養學生使用機器人相關熱門程式工具(LabVIEW、Matlab、ROS)開發機器人功能之能力。總體來說，透過本課程每一個章節循序漸進的教學，同學在本課程中可學習到機器人控制基本的相關理論到實際上應用的機器人開發技術。\n\n**【授課方式：16+2週】** 本課程的每週教學進度與主題如下，其中2週彈性授課方式將採取專題延伸之PBL實作方式：\n\nWeek 1.\n\nIntroduction to Robotics Control\n\nWeek 2.\n\nFoundations\n\nWeek 3.\n\nSensors and Actuators\n\nWeek 4.\n\nMobile Robots\n\nWeek 5.\n\nMobile Robots-Motion Planning\n\nWeek 6.\n\nMobile Robots-Feedback Control\n\nWeek 7.\n\nRobotics Lab #1\n\nWeek 8.\n\nRobotics Lab #2\n\nWeek 9.\n\nMidterm (Take Home)\n\nWeek 10.\n\nArm-type Robots-Kinematics\n\nWeek 11.\n\nArm-type Robots-Motion Planning\n\nWeek 12.\n\nArm-type Robots-Dynamics and Control\n\nWeek 13.\n\nRobotics Lab #3\n\nWeek 14.\n\nRobotics Lab #4\n\nWeek 15.\n\nFinal (Take Home)\n\nWeek 16.\n\nProject\n\nWeek 17.\n\n彈性授課 (Optional Project)\n\nWeek 18.\n\n彈性授課 (Optional Project)",
+    "methodologies": [
+        {
+            "type": "Formal lecture",
+            "note": "課程投影片及參考書目"
+        },
+        {
+            "type": "Problem base learning",
+            "note": "課程內容搭配實驗"
+        },
+        {
+            "type": "Cooperative learning",
+            "note": "實驗分組進行與課程內容討論"
+        },
+        {
+            "type": "Lab/Studio",
+            "note": "搭配機器人開發之軟硬體進行實驗實作"
+        },
+        {
+            "type": "Case studies",
+            "note": "期末專題"
+        }
+    ],
+    "grading": [
+        {
+            "type": "Assignments",
+            "weight": 10,
+            "note": "Matlab/LabVIEW/ROS Using"
+        },
+        {
+            "type": "Midterm Exam",
+            "weight": 20,
+            "note": "Midterm"
+        },
+        {
+            "type": "Final exam",
+            "weight": 20,
+            "note": "Final"
+        },
+        {
+            "type": "Presentation",
+            "weight": 30,
+            "note": "Lab Reports"
+        },
+        {
+            "type": "Case study reports",
+            "weight": 20,
+            "note": "Final Project"
+        }
+    ],
+    "prerequisite": "◎Available for junior and senior year B.A. program students (Doctoral program courses excepted) and M.A. program students.",
+    "general_core": []
+}

@@ -1,0 +1,66 @@
+{
+    "year": 109,
+    "term": 2,
+    "name": "電機專題製作（二）",
+    "teachers": [
+        "黃政吉"
+    ],
+    "department": "HU75",
+    "code": "AEU0071",
+    "credit": 2,
+    "serial": 1316,
+    "group": "B",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 5,
+            "from": 6,
+            "to": 7,
+            "campus": "本部",
+            "classroom": "多媒體與通訊實驗室"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎必須先修過【AEU0070  電機專題製作（一）】",
+    "form_s": "3",
+    "classes": "",
+    "dept_group": "",
+    "hours": 2,
+    "description": "訓練學生專題實作能力，提升學生實務技能、培養學生團隊分工合作精神、並藉由競賽來提高學生成品之水準。",
+    "goals": [
+        "檢驗學生的專業知識及實作的能力",
+        "培養學生設計與研發的能力",
+        "使本系之學生在畢業前具備基本的職場實務能力",
+        "培養學生團隊合作與專業倫理之態度，具備國際觀及服務社會之信念"
+    ],
+    "syllabus": "1\\. 課程介紹 (Week#1)\n\n2\\. 分組報告 (Week#2~Week#7)\n\n3\\. 期中考周 (Week#8, 暫停上課)\n\n4. 分組報告 (Week#9~Week#16)\n\n5\\. 書面報告 (Week#17~Week#18)",
+    "methodologies": [
+        {
+            "type": "專題研究",
+            "note": "分組報告專題進度"
+        }
+    ],
+    "grading": [
+        {
+            "type": "課堂討論參與",
+            "weight": 60,
+            "note": "與指導教授討論"
+        },
+        {
+            "type": "出席",
+            "weight": 20,
+            "note": "點名"
+        },
+        {
+            "type": "報告",
+            "weight": 20,
+            "note": "按照每周進度報告內容給分"
+        }
+    ],
+    "prerequisite": "◎必須先修過【AEU0070  電機專題製作（一）】",
+    "general_core": []
+}

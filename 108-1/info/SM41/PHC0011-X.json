@@ -1,0 +1,79 @@
+{
+    "year": 108,
+    "term": 1,
+    "name": "量子力學（一）",
+    "teachers": [
+        "陳傳仁"
+    ],
+    "department": "SM41",
+    "code": "PHC0011",
+    "credit": 3,
+    "serial": 2682,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 4,
+            "from": 2,
+            "to": 4,
+            "campus": "公館",
+            "classroom": "理圖002"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "主要在介紹量子力學的基本原理、觀念、計算方法和應用，以作為進一步從事物理研究的準備。",
+    "goals": [
+        "瞭解量子力學的發展及理論",
+        "加強理性思維能力",
+        "簡介物理新知",
+        "物理研究能力培養"
+    ],
+    "syllabus": "1\\. Introduction:\n\n    A. Mathematical Introduction\n\n    B. Review of Classical Mechanics\n\nC. Problems with Classical Mechanics\n\nD. The Postulates\n\n2\\. Quantum Mechanics in One Dimension\n\n    A. Simple Problems in One Dimension\n\n   B. The Classical Limit\n\n   C. The Harmonic Oscillator\n\n3\\. The Path Integral Formulation of Quantum Theory\n\n4\\. The Heisenberg Uncertainty Relation\n\n5\\. Symmetries\n\n   A. Systems with N Degrees of Freedom\n\n   B. Symmetries and Their Consequences\n\nC. Rotational Invariance and Angular Momentum\n\n6\\. The Hydrogen Atom",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": ""
+        },
+        {
+            "type": "媒體融入教學",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "期中考",
+            "weight": 25,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 35,
+            "note": ""
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 10,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

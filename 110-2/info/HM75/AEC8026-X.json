@@ -1,0 +1,82 @@
+{
+    "year": 110,
+    "term": 2,
+    "name": "平行計算",
+    "teachers": [
+        "林政宏"
+    ],
+    "department": "HM75",
+    "code": "AEC8026",
+    "credit": 3,
+    "serial": 1124,
+    "group": "",
+    "quota": {
+        "limit": 30,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 2,
+            "to": 4,
+            "campus": "本部",
+            "classroom": "多媒體與通訊實驗室"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程將介紹平行計算與程式設計，課程內涵包括平行計算的背景、平行計算的軟硬體架構、平行程式設計。其中平行計算的軟硬體架構包含訊息傳遞架構(message passing)、共享記憶體架構(shared-memory system)、向量/單一指令多重資料架構(vector/SIMD)、與網路溝通架構(communication networks)。而平行程式設計部分包含OpenMP, Pthreads, CUDA, and MPI.",
+    "goals": [
+        "瞭解平行計算的背景、軟硬體架構、並學習多種平行計算程式設計，包括OpenMP, MPI, CUDA等",
+        "培養學生對於問題之分析能力，並能以不同的途徑思考平行化方法",
+        "培養學生應用課堂所學的各種平行計算方法，運用於實際問題，提出平行加速方法。",
+        "培養專題製作能力，從描述問題、分析問題、提出方法並解決問題的能力"
+    ],
+    "syllabus": "本課程將介紹平行計算與程式設計，課程內涵包括平行計算的背景、平行計算的軟硬體架構、平行程式設計。其中平行計算的軟硬體架構包含訊息傳遞架構(message passing)、共享記憶體架構(shared-memory system)、向量/單一指令多重資料架構(vector/SIMD)、與網路溝通架構(communication networks)。而平行程式設計部分包含OpenMP, Pthreads, CUDA, and MPI.\n\n1.      (Week 1) Introduction /Theoretical background  \nAmdahl’s Law, Gustafson’s Law, Limits of parallel computing, load balancing\n\n2.      (Week 2) Parallel computing systems  \nHardware classification(SISD, SIMD, MISD, MIMD), Hardware for parallel computing, memory architecture (shared and distributed memory), hybrid system, multicore system, accelerated systems (GPGPU and MIC)\n\n3.      (Week 3)Parallel programming models  \nData parallelism, task parallelism, SPMD(Single Program Multiple Data)\n\n4.      (Week 4) Introduction of shared-memory programming with OpenMP\n\n5.      (Week 5) OpenMP scheduling, caches, cache coherence, and false sharing\n\n6.      (Week 6) Case study using OpenMP: Sorting, Odd-even transposition sort\n\n7.      (Week 7) Introduction of shared-memory programming with Pthreads\n\n8.      (Week 8) Case study using Pthread: Matrix-vector multiplication\n\n9.      (Week 9) Proposal of final projects,  \nProblem definition and analysis\n\n10.  (Week 10) Introduction of GPGPU programming using CUDA\n\n11.  (Week 11) Thread cooperation, shared memory and synchronization\n\n12.  (Week 12) Atomic operation, texture and constant memory\n\n13.  (Week 13) Streams, multiple GPUs,\n\n14.  (Week 14) Performance evaluation, case study using CUDA\n\n15.  (Week 15) Introduction of distributed memory programming using MPI\n\n16.  (Week 16) Collective vs. point-to-point Communication , Tree-structure communication, Broadcast, data distributions\n\n17.  (Week 17)Case study using MPI, Performance evaluation of MPI\n\n(Week 18) Demo of Final projects",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": "Case study"
+        },
+        {
+            "type": "問題解決教學",
+            "note": "Case study"
+        },
+        {
+            "type": "合作學習",
+            "note": "Final project is a team work"
+        },
+        {
+            "type": "專題研究",
+            "note": "Final projects: Using parallel computing to solve a real problem"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 40,
+            "note": ""
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 10,
+            "note": ""
+        },
+        {
+            "type": "專題",
+            "weight": 50,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

@@ -1,0 +1,77 @@
+{
+    "year": 110,
+    "term": 2,
+    "name": "應用數學專題（一）",
+    "teachers": [
+        "黃聰明"
+    ],
+    "department": "SU40",
+    "code": "MAC9012",
+    "credit": 3,
+    "serial": 2717,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 5,
+            "from": 6,
+            "to": 8,
+            "campus": "公館",
+            "classroom": "數學館M212"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "9",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程主要讓學生學習經常應用於自然科學以及工程等其他學科的數學方法，以及瞭解常見數學模型的來源。",
+    "goals": [
+        "讓學生瞭解應用數學上的基本方法",
+        "認識其他領域所推導出的模型並瞭解在數學分析的背後原始問題的意義"
+    ],
+    "syllabus": "本課程上課內容著重於從數學的角度來探討與資料科學相關的主題，包含\n\n1\\. PageRank\n\n2\\. Principal Component Analysis (PCA)\n\n3\\. Support Vector Machine (無監督學習)\n\n4\\. Mathematical Image Processing\n\n5\\. Least squares data fitting\n\n6\\. Constrained least squares\n\n透過這些課程內容，讓修課學生進一步了解數學與資料科學的關聯。",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": ""
+        },
+        {
+            "type": "專題研究",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 20,
+            "note": ""
+        },
+        {
+            "type": "出席",
+            "weight": 20,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

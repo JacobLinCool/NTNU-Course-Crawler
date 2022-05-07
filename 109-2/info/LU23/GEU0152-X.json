@@ -1,0 +1,70 @@
+{
+    "year": 109,
+    "term": 2,
+    "name": "數值地形分析",
+    "teachers": [
+        "楊啟見"
+    ],
+    "department": "LU23",
+    "code": "GEU0152",
+    "credit": 2,
+    "serial": 1917,
+    "group": "",
+    "quota": {
+        "limit": 25,
+        "additional": 5
+    },
+    "schedule": [
+        {
+            "day": 3,
+            "from": 9,
+            "to": 10,
+            "campus": "本部",
+            "classroom": "地理系電腦教室"
+        }
+    ],
+    "programs": [
+        "空間學程"
+    ],
+    "comment": "",
+    "restrict": "",
+    "form_s": "3",
+    "classes": "",
+    "dept_group": "",
+    "hours": 2,
+    "description": "應用空間分析方法之觀念及原理，引導學生利用地理資訊系統之理論與技術，尤其在與空間分布有關的課題上。配合各種實際問題與軟體，期能培養學生利用此方法進行分析之能力。學生完成本課程後能獨立處理分析與空間相關之議題，瞭解地理資訊系統相關的技術及演算法，作為進一步研發的基礎。",
+    "goals": [
+        "應用空間分析方法之觀念及原理，引導學生利用地理資訊系統之理論與技術",
+        "配合各種實際問題與軟體，期能培養學生利用此方法進行分析之能力",
+        "能獨立處理分析與空間相關之議題，瞭解地理資訊系統相關的技術及演算法"
+    ],
+    "syllabus": "​1 What is Digital Terrain Analysis? 　  \n2 Basic Concepts of Digital Terrain  \n3 Numerical Model of Digital Terrain  \n4 Digital Elevation Model (DEM) v.s. Digital Surface Model (DSM)  \n5 TIN model for Terrain Description  \n6 Global Positioning System (GPS)  \n7 Spatial Interpolation  \n8 Final Project Proposal  \n9 Data Quality / Accuracy  \n10 Watershed Analysis(1)  \n11 Watershed Analysis(2)  \n12 GIS in Terrain Analysis (1)  \n13 GIS in Terrain Analysis (2)  \n14 GIS in Terrain Analysis (3)  \n15 Spatial Statistics (1)  \n16 Spatial Statistics (2)  \n17 Final Project (1)  \n18 Final Project (2)",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": ""
+        },
+        {
+            "type": "實驗/實作",
+            "note": "上機操作"
+        }
+    ],
+    "grading": [
+        {
+            "type": "期末考",
+            "weight": 50,
+            "note": "期末project"
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 50,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

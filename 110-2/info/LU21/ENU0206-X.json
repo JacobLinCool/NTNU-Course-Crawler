@@ -1,0 +1,77 @@
+{
+    "year": 110,
+    "term": 2,
+    "name": "語言與大腦",
+    "teachers": [
+        "詹曉蕙"
+    ],
+    "department": "LU21",
+    "code": "ENU0206",
+    "credit": 3,
+    "serial": 1770,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 3,
+            "from": 6,
+            "to": 8,
+            "campus": "本部",
+            "classroom": "誠701B"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "2",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "",
+    "goals": [
+        "To learn basics of the brain and the basic concepts and methods in linguistics and cognitive neuroscience",
+        "To learn how language is represented in the brain, and how it is processed between the ears and the brain, and between the brain and the mouth/hands."
+    ],
+    "syllabus": "This course is an introduction to the relationships between language and the brain. You will learn (1) brain basics, (2) language representation and processing, and (3) methods in cognitive neuroscience. You will also explore several topics of current interest.\n\n**LECTURES**\n\nWeek 1 Overview of this course\n\nWeek 2 Language\n\nWeek 3 The human brain\n\nWeek 4 Language disorders\n\nWeek 5 Neuroimaging methods\n\n**_Week 6 _Neurolinguistics Lab Tour__**\n\n_Week 7_ Language representation\n\nWeek 8 Word recognition and production\n\n**_Week 9 _Midterm__**\n\nWeek 10 Sentence production and comprehension & **Assign final project groups**\n\nWeek 11 Language development & **Submit group project topics**\n\nWeek 12 The bilingual brain\n\nWeek 13 Language evolution\n\n**GROUP PROJECTS (Details will be given later)**\n\nWeek 14 Group project presentations I\n\nWeek 15 Group project presentations II\n\n**_Week 16 _Cumulative final exam__**",
+    "methodologies": [
+        {
+            "type": "Formal lecture",
+            "note": "The instructor will give lectures."
+        },
+        {
+            "type": "Group discussion",
+            "note": "There will be a group project."
+        },
+        {
+            "type": "Field work",
+            "note": "There will be a lab tour."
+        }
+    ],
+    "grading": [
+        {
+            "type": "Midterm Exam",
+            "weight": 30,
+            "note": "Midterm"
+        },
+        {
+            "type": "Final exam",
+            "weight": 30,
+            "note": "Cumulative final exam"
+        },
+        {
+            "type": "Class discussion involvement",
+            "weight": 5,
+            "note": "Class participation"
+        },
+        {
+            "type": "Presentation",
+            "weight": 35,
+            "note": "Group project"
+        }
+    ],
+    "prerequisite": "◎Available for junior and senior year B.A. program students (Doctoral program courses excepted) and M.A. program students.",
+    "general_core": []
+}

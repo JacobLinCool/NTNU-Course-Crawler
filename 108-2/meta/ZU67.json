@@ -1,0 +1,104 @@
+[
+    {
+        "year": 108,
+        "term": 2,
+        "name": "計算共形幾何（二）",
+        "teachers": [
+            "樂美亨"
+        ],
+        "department": "SU40",
+        "code": "MAC9021",
+        "credit": 3,
+        "serial": 2653,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 6,
+                "to": 8,
+                "campus": "公館",
+                "classroom": "數學館M211"
+            }
+        ],
+        "programs": [
+            "科學計算學程"
+        ],
+        "comment": "",
+        "restrict": "",
+        "form_s": "",
+        "classes": "9",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 2,
+        "name": "程式設計",
+        "teachers": [
+            "范洪源"
+        ],
+        "department": "SU40",
+        "code": "MAU0032",
+        "credit": 3,
+        "serial": 2659,
+        "group": "A",
+        "quota": {
+            "limit": 50,
+            "additional": 15
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 8,
+                "to": 10,
+                "campus": "公館",
+                "classroom": "理圖801"
+            }
+        ],
+        "programs": [
+            "科學計算學程"
+        ],
+        "comment": "",
+        "restrict": "",
+        "form_s": "1",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 108,
+        "term": 2,
+        "name": "程式設計",
+        "teachers": [
+            "楊青育"
+        ],
+        "department": "SU40",
+        "code": "MAU0032",
+        "credit": 3,
+        "serial": 2660,
+        "group": "B",
+        "quota": {
+            "limit": 50,
+            "additional": 15
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 8,
+                "to": 10,
+                "campus": "公館",
+                "classroom": "理圖801"
+            }
+        ],
+        "programs": [
+            "科學計算學程"
+        ],
+        "comment": "",
+        "restrict": "",
+        "form_s": "1",
+        "classes": "",
+        "dept_group": ""
+    }
+]

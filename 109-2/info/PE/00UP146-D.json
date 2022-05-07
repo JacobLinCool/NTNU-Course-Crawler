@@ -1,0 +1,93 @@
+{
+    "year": 109,
+    "term": 2,
+    "name": "體育（瑜珈）",
+    "teachers": [
+        "林慧敏"
+    ],
+    "department": "PE",
+    "code": "00UP146",
+    "credit": 1,
+    "serial": 2573,
+    "group": "D",
+    "quota": {
+        "limit": 30,
+        "additional": 3
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 3,
+            "to": 4,
+            "campus": "本部",
+            "classroom": "小韻律教室"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 2,
+    "description": "學習瑜伽運動基本知能",
+    "goals": [
+        "學習瑜伽運動基本知能",
+        "鍛鍊健康體適能並培健康、休閒之終生運動習慣",
+        "培養身心健康自我覺知之知識方法",
+        "個體與環境之衛生、健康養生觀念和方法",
+        "拓展人際網絡",
+        "享受瑜珈運動樂趣"
+    ],
+    "syllabus": "  \n[教學進度與主題附件](https://ap.itc.ntnu.edu.tw/NtnuFileShare/file.do?action=dl&gno=7fec8bf8373640c69ae820263d781bd7&fno=7e8cf3284522485ebe5febf6b56b784c)",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "講述身心學之概念、身體觀與哲學思維；講述身體概念、安全要點、與動作程序"
+        },
+        {
+            "type": "討論法",
+            "note": "學生分組討論與練習"
+        },
+        {
+            "type": "問題解決教學",
+            "note": "與身體對話來解決任務中的指令"
+        },
+        {
+            "type": "合作學習",
+            "note": "合作進行動作的體驗與相互分享"
+        },
+        {
+            "type": "實驗/實作",
+            "note": "學生實際練習動作與享受身體放鬆的感受"
+        },
+        {
+            "type": "媒體融入教學",
+            "note": "簡報與音樂搭配教學使用"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 30,
+            "note": "心得、學習單、自評表、檔案評量"
+        },
+        {
+            "type": "期末考",
+            "weight": 30,
+            "note": "分組動作測驗、繳交檔案夾"
+        },
+        {
+            "type": "出席",
+            "weight": 30,
+            "note": "請假須按照學校規定請假，無故未到者，缺席一堂課扣總分5分"
+        },
+        {
+            "type": "其他",
+            "weight": 10,
+            "note": "練習呈現"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

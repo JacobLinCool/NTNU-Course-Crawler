@@ -1,0 +1,86 @@
+{
+    "year": 110,
+    "term": 1,
+    "name": "科學論文英文寫作",
+    "teachers": [
+        "王慈蔚"
+    ],
+    "department": "SM43",
+    "code": "BIC8016",
+    "credit": 2,
+    "serial": 3412,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 3,
+            "from": 6,
+            "to": 7,
+            "campus": "公館",
+            "classroom": "Ｃ303B"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程不開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 2,
+    "description": "本課程主要教導博、碩士學生熟悉科學論文英文寫作的基本架構到細部修潤，有效率地完成英文科學論文。",
+    "goals": [
+        "用實作的方式，向學生介紹國際性SCI期刊投稿的整個過程。",
+        "並從實際SCI期刊審查項目的角度教導學生如何從事以發表SCI期刊論文為導向之科學研究",
+        "強調以英文寫作做為科學溝通工具所需要的專業素養和學術倫理"
+    ],
+    "syllabus": "週次    授課內容及主題\n\n1         Introduction, course requirements, case surveys, homework #1 assigned\n\n2         Criteria for a good scientific paper\n\n3         Criteria for a good scientific paper\n\n4         Contents of a scientific paper\n\n5         Contents of a scientific paper , homework #1 due\n\n6          Editorial requirements\n\n7         Editorial requirements\n\n8         Abstract presentation\n\n9         Abstract presentation\n\n10       How to write a cover letter\n\n11        How to write a cover letter, homework #2 assigned\n\n12       Principals for good illustrations (tables)\n\n13       Principals for good illustrations (figures and photographs)\n\n14       Publication ethics, homework #2 due\n\n15       Publication ethics\n\n16       SCI and other related issues and discussions\n\n17       SCI and other related issues and discussions\n\n18    Final paper presentation",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "講述理科英文論文的標準格式"
+        },
+        {
+            "type": "討論法",
+            "note": "討論如何製作簡單清楚的圖表，以及如何善用電腦幫助寫作。"
+        },
+        {
+            "type": "問題解決教學",
+            "note": "利用問題解決教學檢視科學論文寫作中的特殊用法及文法要點，從選字、冠詞、構句到標點符號的用法。"
+        },
+        {
+            "type": "合作學習",
+            "note": "透過合作學習指引寫學生熟悉論文的基本架構到細部修潤，有效率地完成論文。"
+        },
+        {
+            "type": "專題研究",
+            "note": "從制定專題研究寫作計畫到完整撰寫論文草稿。"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 40,
+            "note": "在學期中學生必須課後定期繳交作業"
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 10,
+            "note": "在課堂上學生必須積極參與討論"
+        },
+        {
+            "type": "出席",
+            "weight": 10,
+            "note": "學生必須按規定參與課程"
+        },
+        {
+            "type": "報告",
+            "weight": 40,
+            "note": "在學期末學生必須繳交一篇向一特定的SCI期刊投稿之模擬手稿"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

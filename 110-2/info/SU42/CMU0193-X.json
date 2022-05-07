@@ -1,0 +1,94 @@
+{
+    "year": 110,
+    "term": 2,
+    "name": "科學實例操作（二）",
+    "teachers": [
+        "葉怡均",
+        "杜玲嫻"
+    ],
+    "department": "SU42",
+    "code": "CMU0193",
+    "credit": 2,
+    "serial": 2870,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 5,
+            "to": 5,
+            "campus": "公館",
+            "classroom": "Ｃ105"
+        },
+        {
+            "day": 2,
+            "from": 16,
+            "to": 10,
+            "campus": "公館",
+            "classroom": "Ｃ105"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "4",
+    "classes": "",
+    "dept_group": "",
+    "hours": 2,
+    "description": "增進及加強學生對於化學相關進階知識瞭解與分析",
+    "goals": [
+        "增進學生對於進階化學實驗的瞭解。",
+        "增進學生對於進階化學反應機構的瞭解。",
+        "提高學生對於進階化學反應所需之新穎催化劑合成的經驗。",
+        "提高學生對於應用新穎催化劑在各種進階化學反應上的瞭解。",
+        "加強學生對於前端化學反應後產物的分析能力。",
+        "加強學生對於前端化學反應速率的分析能力。"
+    ],
+    "syllabus": "第 1~ 2週 Introduction\n\n第 3~ 6週 ChemicalTransformations\n\n第 7~12週 AdvancedReaction Mechanisms\n\n第13~18週 Novel Chemistry Reactions in the Lab",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "授課教師在講台上說明並解釋"
+        },
+        {
+            "type": "討論法",
+            "note": "上課學生在講台上發表意見和想法"
+        },
+        {
+            "type": "實驗/實作",
+            "note": "實驗室內進行化學實驗"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 20,
+            "note": "每次實驗前收集資料並提交合理反應步驟"
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 20,
+            "note": "每次實驗前整理已收集資料並於課堂上討論"
+        },
+        {
+            "type": "出席",
+            "weight": 10,
+            "note": "如非重大事故請假，上課時間皆須出席"
+        },
+        {
+            "type": "報告",
+            "weight": 20,
+            "note": "每次實驗完畢撰寫並繳交實驗報告"
+        },
+        {
+            "type": "成果展覽",
+            "weight": 30,
+            "note": "學期結束前，將所有進行的實驗所獲得之結果整理成簡報並上台報告"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

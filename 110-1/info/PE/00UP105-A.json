@@ -1,0 +1,83 @@
+{
+    "year": 110,
+    "term": 1,
+    "name": "體育（排球初級）",
+    "teachers": [
+        "邱得全"
+    ],
+    "department": "PE",
+    "code": "00UP105",
+    "credit": 1,
+    "serial": 2563,
+    "group": "A",
+    "quota": {
+        "limit": 50,
+        "additional": 5
+    },
+    "schedule": [
+        {
+            "day": 1,
+            "from": 1,
+            "to": 2,
+            "campus": "公館",
+            "classroom": "體育館二3樓"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "允許重複修",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 2,
+    "description": "瞭解排球運動、規則及一般遊戲方法。",
+    "goals": [
+        "瞭解排球運動、規則及一般遊戲方法。",
+        "學會排球的基本技術及體能活動。",
+        "欣賞排球比賽與培養排球運動為終身的休閒活動。"
+    ],
+    "syllabus": "  \n[教學進度與主題附件](https://ap.itc.ntnu.edu.tw/NtnuFileShare/file.do?action=dl&gno=e47cec8930344d819003532bfe228f61&fno=b8d09e247a6f455582f0dbfdc76fab64)",
+    "methodologies": [
+        {
+            "type": "討論法",
+            "note": "各組討論相關教學課程"
+        },
+        {
+            "type": "合作學習",
+            "note": "分組遊戲/比賽。"
+        },
+        {
+            "type": "實驗/實作",
+            "note": "戰術/策略發展為主，並配合相應的動作技能。"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 20,
+            "note": "期末課堂心得報告"
+        },
+        {
+            "type": "期中考",
+            "weight": 15,
+            "note": "發球考試"
+        },
+        {
+            "type": "期末考",
+            "weight": 15,
+            "note": "自選動作錄影講解"
+        },
+        {
+            "type": "出席",
+            "weight": 40,
+            "note": "課堂出席"
+        },
+        {
+            "type": "其他",
+            "weight": 10,
+            "note": "課堂表現"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

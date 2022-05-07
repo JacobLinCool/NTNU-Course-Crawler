@@ -1,0 +1,84 @@
+{
+    "year": 109,
+    "term": 2,
+    "name": "資料視覺化與溝通",
+    "teachers": [
+        "王科植",
+        "何宗武"
+    ],
+    "department": "OU57",
+    "code": "BAU0069",
+    "credit": 3,
+    "serial": 2467,
+    "group": "",
+    "quota": {
+        "limit": 30,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 1,
+            "from": 7,
+            "to": 9,
+            "campus": "公館",
+            "classroom": "理圖802"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎必須先修過【BAU0068  商業分析程式語言】",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "The name of this course may lead students to think that it is a very technical course. In fact, as a professional business management personnel, the most important thing is effectively using data visualization to achieve business goals from the perspective of business management. Therefore, this course will start with basic data visualization theories and guide students to apply these theories in business content.",
+    "goals": [
+        "Understand how to use data visualization to enhance competitive advantage",
+        "Understand the moral and ethical issues related to data visualization",
+        "Cultivate the ability to collaborate with peers to share knowledge with the public through the use of data visualization"
+    ],
+    "syllabus": "Week 1: Course Introduction\n\nWeek 2: Business data introduction: categorical,time series, and cross-sectional data\n\nWeek 3: Foundations and Technologies for DecisionMaking in Business (I)\n\nWeek 4: Foundations and Technologies for DecisionMaking in Business (II)\n\nWeek 5: Business Reporting, Visual Analytics, andBusiness Performance Management\n\nWeek 6: Human visual perception\n\nWeek 7: Business data abstraction andvisualization marks and channels\n\nWeek 8: Business analysis task abstraction\n\nWeek 9: Multidimensional data visualization\n\nWeek 10-11: Advanced visualization design andinteraction\n\nWeek 12-13: Data analysis and visualization inPython: numpy/pandas/matplotlib\n\nWeek 14 -16: Web-based data visualization tooldevelopment: HTML/D3/JavaScript\n\nWeek 17: Advanced topic (paper reading andpresentation)\n\nWeek 18: Final project presentation",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "由教師針對授課主題進來講授教學"
+        },
+        {
+            "type": "討論法",
+            "note": "由教師引導對特定主題進行報告及討論"
+        },
+        {
+            "type": "專題研究",
+            "note": "學生分組針對不同主題提出問題解決方式並實作"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 40,
+            "note": ""
+        },
+        {
+            "type": "期中考",
+            "weight": 15,
+            "note": ""
+        },
+        {
+            "type": "出席",
+            "weight": 5,
+            "note": ""
+        },
+        {
+            "type": "報告",
+            "weight": 10,
+            "note": "閱讀最新視覺化論文並報告"
+        },
+        {
+            "type": "專題",
+            "weight": 30,
+            "note": "學主將分組針對不同商業資料設計視覺化工具以解決相對應的資料分析問題"
+        }
+    ],
+    "prerequisite": "◎必須先修過【BAU0068  商業分析程式語言】",
+    "general_core": []
+}

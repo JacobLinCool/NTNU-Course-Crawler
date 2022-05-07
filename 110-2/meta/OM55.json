@@ -1,0 +1,389 @@
+[
+    {
+        "year": 110,
+        "term": 2,
+        "name": "管理會計",
+        "teachers": [
+            "陳慧玲"
+        ],
+        "department": "OM55",
+        "code": "MBM0004",
+        "credit": 3,
+        "serial": 2406,
+        "group": "A",
+        "quota": {
+            "limit": 10,
+            "additional": 45
+        },
+        "schedule": [
+            {
+                "day": 5,
+                "from": 2,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "誠301"
+            }
+        ],
+        "programs": [],
+        "comment": "因本課程需進行先修課程確認，除於本校完成先修課程者可於系統選課外，其餘由老師於課堂中發放授權碼。",
+        "restrict": "◎必須先修過【BAU0036  會計學（一）】、【PGUA005  會計學】其中一門 ◎課程開放上修",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 2,
+        "name": "管理會計",
+        "teachers": [
+            "陳錦烽"
+        ],
+        "department": "OM55",
+        "code": "MBM0004",
+        "credit": 3,
+        "serial": 2407,
+        "group": "B",
+        "quota": {
+            "limit": 10,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 2,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "雲508"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎必須先修過【BAU0036  會計學（一）】、【PGUA005  會計學】其中一門 ◎課程開放上修",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 2,
+        "name": "多變量分析",
+        "teachers": [
+            "周世玉"
+        ],
+        "department": "OM55",
+        "code": "MBM0018",
+        "credit": 3,
+        "serial": 2408,
+        "group": "",
+        "quota": {
+            "limit": 5,
+            "additional": 35
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 2,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "誠307"
+            }
+        ],
+        "programs": [],
+        "comment": "因本課程需進行先修課程確認，除於本校完成先修課程者可於系統選課外，其餘由老師於課堂中發放授權碼。",
+        "restrict": "◎必須先修過【BAU0040  統計學（一）】、【PGUA007  統計學】其中一門 ◎課程不開放上修",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 2,
+        "name": "行銷研究",
+        "teachers": [
+            "王仕茹"
+        ],
+        "department": "OM55",
+        "code": "MBM0025",
+        "credit": 3,
+        "serial": 2409,
+        "group": "",
+        "quota": {
+            "limit": 30,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 2,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "雲508"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎必須先修過【MBM0002  行銷管理】 ◎課程不開放上修",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 2,
+        "name": "整合行銷溝通",
+        "teachers": [
+            "洪秀瑜"
+        ],
+        "department": "OM55",
+        "code": "MBM0040",
+        "credit": 3,
+        "serial": 2410,
+        "group": "",
+        "quota": {
+            "limit": 30,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 7,
+                "to": 9,
+                "campus": "本部",
+                "classroom": "雲608"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎課程不開放上修",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 2,
+        "name": "國際財務管理",
+        "teachers": [
+            "Ahmad",
+            "Aqil",
+            "Ayed",
+            "AlZu"
+        ],
+        "department": "OM55",
+        "code": "MBM0048",
+        "credit": 3,
+        "serial": 8040,
+        "group": "",
+        "quota": {
+            "limit": 40,
+            "additional": 0
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 2,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "雲608"
+            }
+        ],
+        "programs": [],
+        "comment": "◎Week 1 (from 15th Feb) and Week 2 are self-study (no class)◎Week 3 (1st March) to Week 6 (22nd March) Teaching online,08:10am~12:10pm.◎Google Meet : https://meet.google.com/vzz-sedr-uku ◎Week 4: March 8 (no class) ◎Week 7 to Week 18 teaching in person,09:10~12:10pm.",
+        "restrict": "◎必須先修過【MBM0001  財務管理】 ◎課程開放上修",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 2,
+        "name": "衍生性金融商品",
+        "teachers": [
+            "蔡蒔銓"
+        ],
+        "department": "OM55",
+        "code": "MBM0050",
+        "credit": 3,
+        "serial": 2411,
+        "group": "",
+        "quota": {
+            "limit": 30,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 6,
+                "to": 8,
+                "campus": "本部",
+                "classroom": "雲608"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎必須先修過【MBM0063  投資學】 ◎課程不開放上修",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 2,
+        "name": "應用計量經濟",
+        "teachers": [
+            "徐美"
+        ],
+        "department": "OM55",
+        "code": "MBM0079",
+        "credit": 3,
+        "serial": 2412,
+        "group": "",
+        "quota": {
+            "limit": 30,
+            "additional": 0
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 7,
+                "to": 9,
+                "campus": "本部",
+                "classroom": "教404"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎課程開放上修",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 2,
+        "name": "產品創新與行銷實務",
+        "teachers": [
+            "張家揚"
+        ],
+        "department": "OM55",
+        "code": "MBM0090",
+        "credit": 3,
+        "serial": 2413,
+        "group": "",
+        "quota": {
+            "limit": 30,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 5,
+                "from": 6,
+                "to": 8,
+                "campus": "本部",
+                "classroom": "雲508"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎課程不開放上修",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 2,
+        "name": "網路流量分析與行銷實務應用",
+        "teachers": [
+            "張佳榮"
+        ],
+        "department": "OM55",
+        "code": "MBM0094",
+        "credit": 3,
+        "serial": 2414,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 6,
+                "to": 8,
+                "campus": "本部",
+                "classroom": "綜210展覽廳"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎課程開放上修",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 2,
+        "name": "投資管理專題研究",
+        "teachers": [
+            "周德瑋"
+        ],
+        "department": "OM55",
+        "code": "MBM0065",
+        "credit": 3,
+        "serial": 2415,
+        "group": "",
+        "quota": {
+            "limit": 15,
+            "additional": 5
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 10,
+                "to": 12,
+                "campus": "本部",
+                "classroom": "教室自排"
+            }
+        ],
+        "programs": [],
+        "comment": "一、說明：此課程與證基會共同合作跨校上課，因此上課人數僅限15人。  二、備註：2/23始業式開始上課。  三、上課地點:證基會培訓中心教室(台北市南海路3號9樓)",
+        "restrict": "◎課程不開放上修",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 2,
+        "name": "企業購併評價與財務分析",
+        "teachers": [
+            "張維夫"
+        ],
+        "department": "OM55",
+        "code": "MBM0068",
+        "credit": 3,
+        "serial": 2416,
+        "group": "",
+        "quota": {
+            "limit": 30,
+            "additional": 5
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 2,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "雲508"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎課程開放上修",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    }
+]

@@ -1,0 +1,78 @@
+{
+    "year": 108,
+    "term": 1,
+    "name": "有機化學（一）",
+    "teachers": [
+        "葉名倉"
+    ],
+    "department": "SU42",
+    "code": "CMU0137",
+    "credit": 4,
+    "serial": 2940,
+    "group": "A",
+    "quota": {
+        "limit": 60,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 1,
+            "from": 3,
+            "to": 4,
+            "campus": "公館",
+            "classroom": "Ｅ301"
+        },
+        {
+            "day": 4,
+            "from": 3,
+            "to": 4,
+            "campus": "公館",
+            "classroom": "Ｅ302"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "2",
+    "classes": "",
+    "dept_group": "",
+    "hours": 4,
+    "description": "說明有機化合物的結構與性質的關係、重要的反應機構，作為高深研究及應用的基礎。",
+    "goals": [
+        "加強學生對於有機化學基本概念",
+        "提高學生對不同官能機的製備與反應，熟悉有機合成步驟",
+        "增進學生對於有機合成方法的瞭解",
+        "增進學生對於有機異構物性質的瞭解",
+        "藉由反應機構的介紹，讓學生瞭解有機反應進行情形"
+    ],
+    "syllabus": "Textbook:\n\nLeroy G. Wade Jr. ; Jan William Simek, Organic Chemistry, 9th Edition, Pearson, 2017\n\nStructure and Bonding\n\n1.  Acids and Bases\n2.  Structure and stereochemistry of alkanes\n3.  The study of chemical reactions\n4.  Stereochemistry\n5.  Alkyl halides\n6.  Structure and synthesis of alkenes\n7.  Reactions of alkenes\n8.  Alkynes\n9.  Structure and synthesis of alcohols\n10.  Reactions of alcohols",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "板書"
+        },
+        {
+            "type": "問題解決教學",
+            "note": "練習及演練"
+        }
+    ],
+    "grading": [
+        {
+            "type": "期中考",
+            "weight": 70,
+            "note": "total 4 times"
+        },
+        {
+            "type": "期末考",
+            "weight": 30,
+            "note": "one final exam"
+        },
+        {
+            "type": "其他",
+            "weight": 100,
+            "note": "5次考試(90%)。作業繳交、出席狀況和課堂討論的參與度(10%)"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

@@ -1,0 +1,77 @@
+{
+    "year": 108,
+    "term": 2,
+    "name": "應用電子學（一）",
+    "teachers": [
+        "鄭淳護"
+    ],
+    "department": "HU73",
+    "code": "MTU0075",
+    "credit": 3,
+    "serial": 1225,
+    "group": "",
+    "quota": {
+        "limit": 65,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 5,
+            "from": 6,
+            "to": 8,
+            "campus": "本部",
+            "classroom": "正404"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎必須先修過【MTU0013  電路學】",
+    "form_s": "2",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "介紹電子元件(包含運算放大器、二極體與電晶體)模型之建立、分析與應用。",
+    "goals": [
+        "電子學理論",
+        "電子學之應用"
+    ],
+    "syllabus": "第1-3週／ Electronics and Semiconductors  \nl          Signals\n\nl          Frequency Spectrum of Signals\n\nl          Analog and Digital Signals\n\nl          Amplifiers\n\nl          Circuit Model of Amplifiers\n\nl          Frequency Response f Amplifiers\n\nl          Intrinsic Semiconductors\n\nl          Doped Semiconductors\n\nl          Current Flow in Semiconductors\n\nl          Properties of PN Junction\n\n第4-6週／Operating Amplifier\n\nl          Ideal OP\n\nl          Inverting Configuration\n\nl          Noninverting configuration\n\nl          Difference Amplifier\n\nl          Integrators and Differentiator\n\nl          DC Imperfections\n\nl          Effect of Finite Open-loop Gain and Bandwidth on Circuit Performance\n\nl          Large-Siganl Operations of OP Amps\n\n第7週／Mid-exam\n\n第8-10週／Diodes\n\nl          Ideal Diode\n\nl          Terminal Characteristics of Junction Diode\n\nl          Model of Diode\n\nl          Rectifier, Limiting, Clamping Circuits\n\n第11週／Mid-exam\n\n第12-14週／Bipolar Junction Transistors\n\nl          Device Structure and Physical Operation\n\nl          Current Voltage Characteristic\n\nl          DC Bias\n\nl          Small Signal Model of BJT\n\nl          BJT Amplifier\n\n第15-17週／Mos Field Effect Transistors\n\nl          Device Structure and Physical Operation\n\nl          Current Voltage Characteristic\n\nl          DC Bias\n\nl          Small Signal Model of MOSFET\n\nl          MOSFET Amplifier\n\n第18週／Final exam",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": ""
+        },
+        {
+            "type": "其他",
+            "note": "作業"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 20,
+            "note": ""
+        },
+        {
+            "type": "期中考",
+            "weight": 35,
+            "note": "以紙筆測驗的方式來測試學生對本課程的理解程度。"
+        },
+        {
+            "type": "期末考",
+            "weight": 35,
+            "note": "以紙筆測驗的方式來測試學生對本課程的理解程度。"
+        },
+        {
+            "type": "出席",
+            "weight": 10,
+            "note": ""
+        }
+    ],
+    "prerequisite": "◎必須先修過【MTU0013  電路學】",
+    "general_core": []
+}

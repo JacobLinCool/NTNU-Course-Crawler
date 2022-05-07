@@ -1,0 +1,64 @@
+{
+    "year": 110,
+    "term": 1,
+    "name": "生物化學",
+    "teachers": [
+        "李桂楨",
+        "蘇銘燦"
+    ],
+    "department": "SU51",
+    "code": "NSU0009",
+    "credit": 3,
+    "serial": 3079,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 1,
+            "from": 6,
+            "to": 8,
+            "campus": "公館",
+            "classroom": "綜合館B1小型演講廳"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎必須先修過【NSU0004  有機化學】、【CMU0178  普通化學乙】",
+    "form_s": "2",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "認識組成生物個體的主要分子，包括水、胺基酸、蛋白質、醣類、脂肪酸的結構與功能，進而了解這些分子在細胞中的代謝及調控機制。",
+    "goals": [
+        "能熟悉並認知生物化學專有名詞及其意涵，能敘述並解釋蛋白質，醣類及脂肪的基本定義與細胞中代謝與合成",
+        "能體認生命基本物質為細胞生物學及生理學之基礎，並以生活上出現的現象為例，印證生命科學之相關議題"
+    ],
+    "syllabus": "授課方式：16+2週，第十七~十八週彈性授課(自主學習)。\n\n第一週 Ch. 2 Water\n\n第二週 Ch. 3 Amino Acids and the Primary Structures of Proteins\n\n第三週 國慶日補假\n\n第四週 Ch. 4 Proteins: Three-Dimensional Structure & Function\n\n第五週 Ch. 5 Properties of Enzymes\n\n第六週 Ch. 6 Mechanisms of Enzymes\n\n       期中考I (Ch. 2-6)\n\n第七週 Ch. 7 Coenzymes and Vitamins\n\n第八週 Ch. 8 Carbohydrates & Ch. 9 Lipids\n\n第九週 Ch. 10 Introduction to Metabolism\n\n第十週 Ch. 11 Glycolysis\n\n       期中考II (Ch. 7-11)\n\n第十一週 Ch. 12 Gluconeogenesis, Pentose Phosphate Pathway and Glycogen Metabolism\n\n第十二週 Ch. 13 The Citric Acid Cycle\n\n第十三週 Ch. 14 Electron Transport and ATP Synthesis\n\n第十四週 Ch. 16 Lipid Metabolism\n\n第十五週 Ch. 17 Amino Acid Metabolism\n\n第十六週 期末考(Ch. 12-14, 16-17)\n\n第十七週 彈性授課：自主學習\n\n第十八週 彈性授課：自主學習",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "使用一般課本、自編講義媒材授課"
+        },
+        {
+            "type": "媒體融入教學",
+            "note": "運用數位平台與自製簡報檔案教學"
+        }
+    ],
+    "grading": [
+        {
+            "type": "期中考",
+            "weight": 66,
+            "note": "共二次"
+        },
+        {
+            "type": "期末考",
+            "weight": 34,
+            "note": "共三次考試，學期成績為三次考試分數平均。"
+        }
+    ],
+    "prerequisite": "◎必須先修過【NSU0004  有機化學】、【CMU0178  普通化學乙】",
+    "general_core": []
+}

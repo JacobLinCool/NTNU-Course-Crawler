@@ -1,0 +1,105 @@
+[
+    {
+        "year": 109,
+        "term": 1,
+        "name": "編碼學",
+        "teachers": [
+            "李華介"
+        ],
+        "department": "SU40",
+        "code": "MAC9017",
+        "credit": 3,
+        "serial": 2795,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 2,
+                "to": 4,
+                "campus": "公館",
+                "classroom": "數學館M211"
+            }
+        ],
+        "programs": [
+            "科學計算學程"
+        ],
+        "comment": "",
+        "restrict": "",
+        "form_s": "",
+        "classes": "9",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 1,
+        "name": "電腦圖學中運動與形變的數學",
+        "teachers": [
+            "樂美亨"
+        ],
+        "department": "SU40",
+        "code": "MAC9024",
+        "credit": 3,
+        "serial": 2796,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 6,
+                "to": 8,
+                "campus": "公館",
+                "classroom": "數學館310研討室"
+            }
+        ],
+        "programs": [
+            "理工實作學程",
+            "科學計算學程"
+        ],
+        "comment": "",
+        "restrict": "",
+        "form_s": "",
+        "classes": "9",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 1,
+        "name": "組合設計",
+        "teachers": [
+            "林延輯"
+        ],
+        "department": "SU40",
+        "code": "MAC9031",
+        "credit": 3,
+        "serial": 2800,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 2,
+                "to": 4,
+                "campus": "公館",
+                "classroom": "數學館M211"
+            }
+        ],
+        "programs": [
+            "科學計算學程"
+        ],
+        "comment": "",
+        "restrict": "",
+        "form_s": "",
+        "classes": "9",
+        "dept_group": ""
+    }
+]

@@ -1,0 +1,89 @@
+{
+    "year": 108,
+    "term": 2,
+    "name": "管理科學模式",
+    "teachers": [
+        "施人英"
+    ],
+    "department": "OU57",
+    "code": "BAU0006",
+    "credit": 3,
+    "serial": 2360,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 15
+    },
+    "schedule": [
+        {
+            "day": 1,
+            "from": 7,
+            "to": 9,
+            "campus": "本部",
+            "classroom": "教401"
+        }
+    ],
+    "programs": [
+        "基礎管理學程"
+    ],
+    "comment": "",
+    "restrict": "◎必須先修過【BAU0049  管理數學】",
+    "form_s": "2",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程旨在介紹管理科學決策模式的基本理論與電腦科技應用工具，為同學奠定決策分析能力的基礎。除了相關概念講授外，亦將搭配手算習題與電腦習題進行演練，以期確保學生可正確並有效率地運用重要之管理科學決策模型。本課程期望能讓修課同學除了可認識最基本的管理科學決策模式觀念外，亦具備使用管理科學決策工具進行分析和應用的能力。",
+    "goals": [
+        "瞭解管理科學決策模式的基本理論",
+        "學習管理科學決策模式的電腦科技應用工具",
+        "培養決策分析能力以解決管理問題"
+    ],
+    "syllabus": "**主題**\n\n1\n\nIntroduction to Management Science and Modeling\n\n2\n\nLinear Programming: Model Formulation\n\n3\n\nLinear Programming: Computer Solution and Sensitivity Analysis\n\n4\n\nModeling Examples:\n\nA Product Mix Example; An Investment Example; A Marketing Example\n\n5\n\n(Online) Modeling Examples:\n\nA Multiperiod Scheduling Example; Data Envelopment Analysis (DEA)\n\n6\n\n(Online) Integer Programming\n\n7\n\n(Online) Nonlinear Programming\n\n8\n\n(Online) Midterm Exam (在學校第8週4/20舉行)\n\n9\n\n(Online) Transportation Problems\n\n10\n\n(Online) Transshipment and Assignment Problems\n\n11\n\n(Online) Network Flow Models: Shortest Route, Minimal Spanning Tree\n\n12\n\n(Online) Network Flow Models: Maximal Flow Models\n\n13\n\n(Online) Multicriteria Decision Making: Goal Programming\n\n14\n\n(Online) Simulation Analysis (I)\n\n15\n\n(Online) Simulation Analysis (II)\n\n16\n\n(Online) Final Exam (在學校第16週6/15舉行)\n\n17\n\n**Online** Case Study: Managing Projects with CPM/PERT Models\n\n18\n\n**Online** Case Study: Simulation Analysis",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "理論與觀念講述"
+        },
+        {
+            "type": "問題解決教學",
+            "note": "個案研究"
+        },
+        {
+            "type": "合作學習",
+            "note": "作業"
+        },
+        {
+            "type": "實驗/實作",
+            "note": "軟體操作"
+        }
+    ],
+    "grading": [
+        {
+            "type": "期中考",
+            "weight": 30,
+            "note": "瞭解學生課程的吸收程度，督促學生能跟上進度"
+        },
+        {
+            "type": "期末考",
+            "weight": 30,
+            "note": "瞭解學生課程的吸收程度"
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 10,
+            "note": "藉由個案討論，啟發學生思考，提出商業解決方案"
+        },
+        {
+            "type": "出席",
+            "weight": 10,
+            "note": "鼓勵學生參與課程"
+        },
+        {
+            "type": "報告",
+            "weight": 20,
+            "note": "個案報告"
+        }
+    ],
+    "prerequisite": "◎必須先修過【BAU0049  管理數學】",
+    "general_core": []
+}

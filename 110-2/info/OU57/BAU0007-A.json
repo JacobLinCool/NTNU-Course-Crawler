@@ -1,0 +1,74 @@
+{
+    "year": 110,
+    "term": 2,
+    "name": "財務管理",
+    "teachers": [
+        "賴慧文"
+    ],
+    "department": "OU57",
+    "code": "BAU0007",
+    "credit": 3,
+    "serial": 2441,
+    "group": "A",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 4,
+            "from": 7,
+            "to": 9,
+            "campus": "本部",
+            "classroom": "誠207"
+        }
+    ],
+    "programs": [],
+    "comment": "企管系大二學生學號末碼為單數號請選修財務管理A班;末碼為雙數號請選修財務管理B班。",
+    "restrict": "◎必須先修過【BAU0037  會計學（二）】 ◎課程開放上修",
+    "form_s": "2",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "這堂課的目標在於介紹公司財務之基本概念，主題包含理論與實務的探討，希望透過這堂課的訓練，能讓學生對公司之投資及融資活動有進一步之瞭解。",
+    "goals": [
+        "知識／認知",
+        "職能導向",
+        "價值/倫理"
+    ],
+    "syllabus": "Topics  \nPart 1: Overview of Corporate Finance  \n1. Orientation to the class: discuss syllabus and course assignments, explore student’s expectation about this course;  \nChapter1: Introduction to Corporate Finance\n\n2. Chapter 2: Financial Statements, Taxes, and Cash Flows  \nMini Case: DuPont Analysis:以王品為例\n\n  \nPart 2: Financial Statements and Long-term Financial Planning  \n3. Chapter 3: Working with Financial Statements\n\n4. Chapter 4: Long-term Financial Planning and Growth\n\nPart 3: Valuation of Future Cash Flows  \n5. Chapter 5: Introduction to Valuation: The Time Value of Money\n\n6. Chapter 6: Discounted Cash Flow Valuations\n\n7. Chapter 7: Interest Rates and Bond Valuation\n\n8. Chapter 8: Stock Valuation  \nMini Case: 在台灣上市公司中何者適合以DDM 來評價?\n\nPart 4: Capital Budgeting  \n9\\. Chapter 9: Net Present Value and Other investment Criteria\n\n10\\. Chapter 10: Making Capital Investment Decisions\n\n11\\. Chapter 11: Project Analysis and Evaluation\n\nPart 5:Risk and Return  \n12\\. Chapter 12: Some Lessons from Capital Market History\n\n13\\. Chapter 13: Return, Risk, and the Security Market Line",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "講述教材內容，探討理論和實務之議題，除了各種財務工具和評價模式的介紹，也會談到應用上的相關問題。"
+        },
+        {
+            "type": "實驗/實作",
+            "note": "計算練習"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 10,
+            "note": "Mini Cases"
+        },
+        {
+            "type": "期中考",
+            "weight": 35,
+            "note": "Multiple choice and problems solving."
+        },
+        {
+            "type": "期末考",
+            "weight": 40,
+            "note": "Multiple choice and problems solving."
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 15,
+            "note": "Case Discussions (Mini Cases)"
+        }
+    ],
+    "prerequisite": "◎必須先修過【BAU0037  會計學（二）】",
+    "general_core": []
+}

@@ -1,0 +1,81 @@
+{
+    "year": 110,
+    "term": 1,
+    "name": "時序分析",
+    "teachers": [
+        "林佩瑩",
+        "趙丰"
+    ],
+    "department": "SU44",
+    "code": "ESC0007",
+    "credit": 3,
+    "serial": 3010,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 1,
+            "from": 7,
+            "to": 9,
+            "campus": "公館",
+            "classroom": "Ｓ603"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "",
+    "classes": "9",
+    "dept_group": "",
+    "hours": 3,
+    "description": "工程、物理、生物、醫學、社會科學、經濟學等的從業者及研究者經常都從事於一序列數據的分析工作，而這種數據分析的目的在於建立一個簡明而易於了解的系統數學模式來描述此系統之特性，而這種模式可用來在改變的環境下研究此系統並預測此系統的反應。系統之鑑定、預測、分析、控制，乃至於設計等等都是極為重要的課題。時間序列分析已被證實為解決此等問題之最有效工具。",
+    "goals": [
+        "在地球科學上常利用觀測到的物理或化學上的數據(如地震、地磁、地溫梯度、地下水位、地層某化學元素含量、天文、氣象)，進而以數學模式來描述地球系統--地球內部構造及組成。進而瞭解地球的過去、現在、及未來。"
+    ],
+    "syllabus": "110學年度授課方式採「16+2週」，即「授課16週＋2週彈性教學（第17、18週）」\n\n這學期由趙丰老師與林佩瑩老師共同授課。三小時課程安排，第一與第二堂課教授時序分析觀念，第三堂課將使用程式呈現出前兩堂課所學內容。\n\n第01週：課程介紹與分組\n\n第02週：資料數位化\n\n第03週：內積、分解\n\n第04週：線性系統與線性代數\n\n第05週：格林函數\n\n第06週：傅立葉變換\n\n第07週：取樣、映頻、解析度\n\n第08週：卷積、解迴旋、調變\n\n第09週：濾波\n\n第10週：基礎統計\n\n第11週：時頻譜\n\n第12週：頻譜分析\n\n第13週：資料疊加法\n\n第14週：主成份分析法\n\n第15週：專題研究資料分析，解釋與報告分享\n\n第16週：專題研究資料分析，解釋與報告分享\n\n第17週：彈性教學: 資料搜集與探索\n\n第18週：彈性教學: 地球科學時序資料分析與解釋\n\nWeak1: Course introduction\n\nWeak2: Digitization\n\nWeak3: Inner product/ Decomposition\n\nWeak4: Linear system and transform\n\nWeak5: Green's function\n\nWeak6: Fourier transform\n\nWeak7: Sampling/ Aliasing/ Resolution\n\nWeak8: Convolution/ Deconvolution/ Modulation\n\nWeak9: Windowing/ Filtering\n\nWeak10: Statistics basics\n\nWeak11: Spectrum\n\nWeak12: Spectral estimation methods\n\nWeak13: Data stacking methods\n\nWeak14: Principal component analysis  \n\nWeak15: Term project report and discussion\n\nWeak16: Term project report and discussion\n\nWeak17: Flexible learning: Earth Science time series data exploration\n\nWeak18: Flexible learning: Analysis and interpretation of Earth Science time series data",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "課堂講述基本原理"
+        },
+        {
+            "type": "問題解決教學",
+            "note": "分組互相討論與排除程式錯誤"
+        },
+        {
+            "type": "實驗/實作",
+            "note": "資料分析與程式撰寫"
+        },
+        {
+            "type": "專題研究",
+            "note": "地球科學時序資料分析與解釋"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 50,
+            "note": ""
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 10,
+            "note": ""
+        },
+        {
+            "type": "出席",
+            "weight": 20,
+            "note": "不定期隨堂小考 Unscheduled quizzes"
+        },
+        {
+            "type": "專題",
+            "weight": 20,
+            "note": "地球科學時序資料探索、分析、解釋報告分享"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

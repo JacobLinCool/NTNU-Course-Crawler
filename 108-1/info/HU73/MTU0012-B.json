@@ -1,0 +1,87 @@
+{
+    "year": 108,
+    "term": 1,
+    "name": "程式設計",
+    "teachers": [
+        "吳順德"
+    ],
+    "department": "HU73",
+    "code": "MTU0012",
+    "credit": 3,
+    "serial": 1307,
+    "group": "B",
+    "quota": {
+        "limit": 40,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 4,
+            "from": 10,
+            "to": 12,
+            "campus": "本部",
+            "classroom": "教401"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "1",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "引導學生培養基礎程式設計觀念與現代工具(VC++ 2012)之技能，進而培養解決程式設計問題之能力。此課程以教師講述為起始，引導學生合作與討論，期間教師以上機操作，來提升學生學習動機，並以課堂練習、課後作業、紙筆測驗、以及口語表達來反映學生的學習成效。",
+    "goals": [
+        "培養學生具有程式設計基礎知識。",
+        "培養程式設計的理論分析、解釋、撰寫報告之能力",
+        "培養使用程式設計現代工具之技能",
+        "解決程式設計學理與技術問題之能力"
+    ],
+    "syllabus": "第一週：Introduction to C Programming  \n第二週：Structured Program  \n第三週：Program Control  \n第四週：Functions  \n第五週：Arrays  \n第六~八週：Pointers  \n第九週：期中上機考\n\n第十週：Characters, Strings, Formatted I/O  \n第十一週：Structure, Unions, Enumerations  \n第十二週：File Processing  \n第十三週： Data Structure第十四週：Preprocessor  \n第十五~十七週：Introduction to C++\n\n第十八週：期末專題展示",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "每一章節將分為『程式語法』與『範例講述』兩部分進行"
+        },
+        {
+            "type": "合作學習",
+            "note": "以3~4人為一小組進行學習，讓同學可以互相討論，完成當天所指定的習題。"
+        },
+        {
+            "type": "實驗/實作",
+            "note": "每單元將設計習題，供學生於課堂上實習演練"
+        },
+        {
+            "type": "媒體融入教學",
+            "note": "教學時將輔以投影片、或教學影片"
+        },
+        {
+            "type": "專題研究",
+            "note": "學生將參考範例與網路上之開放原始碼，挑選適合之主題製作小型專題於期末發表。"
+        }
+    ],
+    "grading": [
+        {
+            "type": "期中考",
+            "weight": 30,
+            "note": "實施方式： 分為筆試與上機考兩部分 欲培養之核心能力： 執行機電工程實務所需之知識與技能"
+        },
+        {
+            "type": "期末考",
+            "weight": 30,
+            "note": "實施方式： 分為筆試與上機考兩部分 欲培養之核心能力： 執行機電工程實務所需之知識與技能"
+        },
+        {
+            "type": "專題",
+            "weight": 20,
+            "note": "實施方式： 學生自行分組，並挑選適合之主題製作小型專題於期末發表。 欲培養之核心能力： 具備團隊合作之精神，以及表達、溝通、創新思考及解決問題之能力"
+        },
+        {
+            "type": "其他",
+            "weight": 20,
+            "note": "實施方式： 不定期以上機實作的方式檢核學習者的理解。"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

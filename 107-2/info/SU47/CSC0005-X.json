@@ -1,0 +1,80 @@
+{
+    "year": 107,
+    "term": 2,
+    "name": "物件導向分析與設計",
+    "teachers": [
+        "林均翰"
+    ],
+    "department": "SU47",
+    "code": "CSC0005",
+    "credit": 3,
+    "serial": 2939,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 1,
+            "from": 2,
+            "to": 4,
+            "campus": "公館",
+            "classroom": "Ｂ101"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "",
+    "classes": "9",
+    "dept_group": "",
+    "hours": 3,
+    "description": "1. The Object Model \n2. Classes and Objects \n3. The Notation \n4. The Process\n5. Case Study: Weather Monitoring Station \n6. Midterm Exam \n7. Case Study: Foundation Class Library \n8. Case Study: Inventory Tracking \n9. Case Study: Cryptanalysis \n10. Case Study: Traffic Management \n11. Project Presentation \n12. Final Exam \n13. Project Demo & Final Report due",
+    "goals": [
+        "熟悉物件導向基礎概念和程式設計",
+        "了解如何運用物件導向概念在系統設計",
+        "對於物件導向概念在現有的系統上的影響",
+        "學習物件導向概念在新一代系統(雲端系統)上的運用",
+        "對於軟體著作權和開放原始碼(Open Source) 授權條款的了解"
+    ],
+    "syllabus": "下列為暫定教學主題，進度視課程情況調整:\n\nPart 1 - An Introduction to Object-Oriented Software Development\n\nThe Object-Oriented Paradigm\n\nThe UML - The Unified Modeling Language\n\nPart 2 - The Limitations of Traditional Object-Oriented Design\n\nA Problem That Cries Out for Flexible Code\n\nA Standard Object-Oriented Solution\n\nPart 3 - Design Patterns\n\nAn Introduction to Design Patterns\n\nThe Facade Pattern\n\nThe Adapter Pattern\n\nExpanding Our Horizons\n\nThe Strategy Pattern\n\nThe Bridge Pattern\n\nThe Abstract Factory Pattern\n\nPart 4 - Putting It All Together - Thinking In Patterns\n\nHow Do Experts Design?\n\nSolving the CAD/CAM Problem with Patterns\n\nPart 5 - Toward a New Paradigm of Design\n\nThe Principles and Strategies of Design Patterns\n\nCommonality and Variability Analysis\n\nThe Analysis Matrix\n\nThe Decorator Pattern\n\nPart 6 - Other Values Of Patterns\n\nThe Observer Pattern\n\nThe Template Method Pattern\n\nPart 7 - Factories\n\nLessons from Design Patterns - Factories\n\nThe Singleton Pattern and the Double-Checked Locking Pattern\n\nThe Object Pool Pattern\n\nThe Factory Method Pattern\n\nSummary of Factories\n\nPart 8 - Endings and Beginnings\n\nDesign Patterns Reviewed - A Summation and a Beginning",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "合作學習",
+            "note": ""
+        },
+        {
+            "type": "專題研究",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "期中考",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "專題",
+            "weight": 30,
+            "note": "程式專題"
+        },
+        {
+            "type": "其他",
+            "weight": 10,
+            "note": "課堂表現"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

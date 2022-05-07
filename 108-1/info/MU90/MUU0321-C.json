@@ -1,0 +1,82 @@
+{
+    "year": 108,
+    "term": 1,
+    "name": "合奏教學法（一）",
+    "teachers": [
+        "葉樹涵"
+    ],
+    "department": "MU90",
+    "code": "MUU0321",
+    "credit": 2,
+    "serial": 2468,
+    "group": "C",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 4,
+            "from": 10,
+            "to": 13,
+            "campus": "本部",
+            "classroom": "教室自排"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎限大四修習",
+    "form_s": "4",
+    "classes": "",
+    "dept_group": "",
+    "hours": 4,
+    "description": "1.熟練演奏技巧,培養共同合作精神 \n2.演奏各類作品,增廣音樂學習領域 \n3.精緻合奏訓練,提高音樂演出水準",
+    "goals": [
+        "熟練演奏技巧,培養共同合作精神",
+        "演奏各類作品,增廣音樂學習領域",
+        "精緻合奏訓練,提高音樂演出水準"
+    ],
+    "syllabus": "1.      管樂團基本組織及編制\n\n2.      管樂音樂的歷史與發展\n\n3.      學校樂隊組訓\n\n4.      管樂基本技巧訓練教材研究(Best in class, YAHAMA(?) Band Method. )\n\n5.      管樂團高級合奏訓練教材研究(3D, Treasure in Scales, Technique through Melody)\n\n6.      Concert Band基本曲目研究：\n\na.       傳統曲目\n\nb.      進行曲\n\nc.       近代曲目\n\n7.      世界著名管樂團介紹及欣賞\n\n8.      管樂資訊來源\n\n9.      管樂團經營要領：\n\na.       行政管理\n\nb.      譜務管理\n\nc.       樂器、器材管理\n\nd.      比賽、演奏會曲目安排\n\ne.       公關新聞事務",
+    "methodologies": [
+        {
+            "type": "問題解決教學",
+            "note": "每堂課討論樂團合奏教學，並提供解決方法"
+        },
+        {
+            "type": "合作學習",
+            "note": "與同學共同研擬訓練計畫，並嘗試指揮樂團"
+        },
+        {
+            "type": "實驗/實作",
+            "note": "每堂課皆需實際演奏指定作業及學習內容"
+        },
+        {
+            "type": "媒體融入教學",
+            "note": "將撥放影音資料，輔助教學"
+        }
+    ],
+    "grading": [
+        {
+            "type": "課堂討論參與",
+            "weight": 10,
+            "note": "與同學互相討論"
+        },
+        {
+            "type": "出席",
+            "weight": 50,
+            "note": "每堂課均統計出缺席"
+        },
+        {
+            "type": "報告",
+            "weight": 25,
+            "note": "樂團訓練報告，或現有樂團觀察報告"
+        },
+        {
+            "type": "成果展覽",
+            "weight": 15,
+            "note": "期末實際指揮樂團"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

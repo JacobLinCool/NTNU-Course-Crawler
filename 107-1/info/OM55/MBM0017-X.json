@@ -1,0 +1,82 @@
+{
+    "year": 107,
+    "term": 1,
+    "name": "服務業行銷",
+    "teachers": [
+        "張佳榮"
+    ],
+    "department": "OM55",
+    "code": "MBM0017",
+    "credit": 3,
+    "serial": 2415,
+    "group": "",
+    "quota": {
+        "limit": 30,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 3,
+            "from": 10,
+            "to": 12,
+            "campus": "本部",
+            "classroom": "教室自排"
+        }
+    ],
+    "programs": [],
+    "comment": "上課教室：雲508室",
+    "restrict": "◎課程不開放上修",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程教授與服務業行銷相關的概念以及個案和挑選的論文。教學目標在於幫助修課同學掌握服務業行銷之概念，並能知道應用於服務業之相關研究方法。",
+    "goals": [
+        "熟悉服務業行銷的基本概念",
+        "具備分析服務業行銷個案的能力",
+        "訓練團隊合作完成服務業行銷的能力"
+    ],
+    "syllabus": "Subject to changes\n\n1\\. Introduction\n\n2\\. Ch 1 & 2 & 3\n\n3\\. Ch 4 & 5 & 6\n\n4\\. Ch 7 & 8 & 9\n\n5\\. Ch 10 & 11 & 12\n\n6\\. Ch 13 & 14\n\n7\\. Ch 15 & 16\n\n8\\. Paper 1: SERVQUAL- A Multiple-Item Scale for Measuring Consumer Perceptions of Service Quality\n\n9\\. Paper 2: E-Service Quality A Meta-Analytic Review\n\n10\\. Paper 3: A model of customer satisfaction with service encounters involving failure and recovery\n\n11\\. Paper 4: The critical incident technique in service research\n\n12\\. Paper 5: Critical service logic-making sense of value creation and co-creation\n\n13\\. Paper 6: Customer engagement behavior-Theoretical foundations and research directions 16. Paper 7\n\n14\\. Paper 7: Guilt no longer a sin：the effect of guilt in the service recovery paradox\n\n15\\. Case 1: Lexus----Topic: A duble-edged sword for service quality\n\n16\\. Case 2: Amway---- Topic: How do you find out and build the good service encounter\n\n17\\. Case 3: Walmart vs. Amazon----- Topic: The difference of service quality between offline and online (physical vs, virtual)\n\n18\\. Case 4:Robo-Advisor----- Topic: How do you build your non-fungibility",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": ""
+        },
+        {
+            "type": "問題解決教學",
+            "note": ""
+        },
+        {
+            "type": "合作學習",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 20,
+            "note": "selected paper 1"
+        },
+        {
+            "type": "出席",
+            "weight": 20,
+            "note": "Attendance and Participation"
+        },
+        {
+            "type": "專題",
+            "weight": 40,
+            "note": "Case Study"
+        },
+        {
+            "type": "其他",
+            "weight": 20,
+            "note": "selected paper 2"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

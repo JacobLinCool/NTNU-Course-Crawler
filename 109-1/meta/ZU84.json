@@ -1,0 +1,104 @@
+[
+    {
+        "year": 109,
+        "term": 1,
+        "name": "經濟學",
+        "teachers": [
+            "周有熙"
+        ],
+        "department": "EU07",
+        "code": "CEU0011",
+        "credit": 2,
+        "serial": 836,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 26
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 16,
+                "to": 10,
+                "campus": "本部",
+                "classroom": "誠401"
+            }
+        ],
+        "programs": [
+            "財金學程"
+        ],
+        "comment": "",
+        "restrict": "◎限外系修習",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 1,
+        "name": "會計學",
+        "teachers": [
+            "卓瑞蘋"
+        ],
+        "department": "EU07",
+        "code": "CEU0439",
+        "credit": 3,
+        "serial": 853,
+        "group": "",
+        "quota": {
+            "limit": 170,
+            "additional": 12
+        },
+        "schedule": [
+            {
+                "day": 5,
+                "from": 3,
+                "to": 5,
+                "campus": "本部",
+                "classroom": "綜210展覽廳"
+            }
+        ],
+        "programs": [
+            "財金學程"
+        ],
+        "comment": "",
+        "restrict": "",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 109,
+        "term": 1,
+        "name": "貨幣銀行學",
+        "teachers": [
+            "曾永清"
+        ],
+        "department": "EU07",
+        "code": "CEU0076",
+        "credit": 3,
+        "serial": 867,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 3,
+                "to": 5,
+                "campus": "本部",
+                "classroom": "誠401"
+            }
+        ],
+        "programs": [
+            "財金學程"
+        ],
+        "comment": "",
+        "restrict": "",
+        "form_s": "3",
+        "classes": "",
+        "dept_group": ""
+    }
+]

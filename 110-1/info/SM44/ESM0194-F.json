@@ -1,0 +1,67 @@
+{
+    "year": 110,
+    "term": 1,
+    "name": "專題討論（一）",
+    "teachers": [
+        "葉孟宛"
+    ],
+    "department": "SM44",
+    "code": "ESM0194",
+    "credit": 1,
+    "serial": 2732,
+    "group": "F",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 6,
+            "to": 7,
+            "campus": "公館",
+            "classroom": "Ｓ101"
+        }
+    ],
+    "programs": [],
+    "comment": "海洋組",
+    "restrict": "◎課程不開放上修",
+    "form_s": "1",
+    "classes": "",
+    "dept_group": "",
+    "hours": 2,
+    "description": "",
+    "goals": [
+        "本課程的目的在於，提升學生對於不同地科領域研究之理解。"
+    ],
+    "syllabus": "課程教學目標：前半段課成為邀請目前國內外尖端研究人員進行專題演講與授課，而後半段之課程則為訓練學生就自身的研究成果進行專題演講。藉由聽講，提問的，上台演講，被提問等循環訓練學生發掘問題、尋找相關的資料、將資料在短時間內理解消化，去蕪存菁、或延伸追求相關更深入的學問。此外，由眾多的資訊整理出一些清晰的概念，甚至於創造出新的見解、將整理出來概念的形諸文字，並且在一定的時間內在眾人面前生動地表達、在別人的報告中找出問題，並且以簡潔的語言清楚地提出問題、由別人的問題，在極短的時間裡給予充分的回答。\n\n教學進度：期中考前：邀請目前國內外尖端研究人員進行專題演講與授課。期中考後：在教師的指導下，由一群學生組成的非正式討論會。討論的題目由老師指定或學生自行決定。學生輪流使用多媒體報告他的研究成果，由其他參與同學老師提問/討論。",
+    "methodologies": [
+        {
+            "type": "Group discussion",
+            "note": "期中考前：邀請目前國內外尖端研究人員進行專題演講與授課。針對講者演講內容提問與討論"
+        },
+        {
+            "type": "Case studies",
+            "note": "在教師的指導下，由一群學生組成的非正式討論會。討論的題目由老師指定或學生自行決定。學生輪流使用多媒體報告他的研究成果，由其他參與同學老師提問/討論。"
+        }
+    ],
+    "grading": [
+        {
+            "type": "Attendances",
+            "weight": 10,
+            "note": "上課禮貌及儀容"
+        },
+        {
+            "type": "Presentation",
+            "weight": 70,
+            "note": "每次專題演講後之報告內容及應答"
+        },
+        {
+            "type": "Case study reports",
+            "weight": 20,
+            "note": "個人研究之專題書面報告"
+        }
+    ],
+    "prerequisite": "◎Unavailable for M.A. program students (M.A. program courses excepted) and B.A. program students.",
+    "general_core": []
+}

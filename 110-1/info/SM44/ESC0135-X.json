@@ -1,0 +1,72 @@
+{
+    "year": 110,
+    "term": 1,
+    "name": "高等天文物理",
+    "teachers": [
+        "陳林文"
+    ],
+    "department": "SM44",
+    "code": "ESC0135",
+    "credit": 3,
+    "serial": 2717,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 0
+    },
+    "schedule": [
+        {
+            "day": 3,
+            "from": 7,
+            "to": 9,
+            "campus": "公館",
+            "classroom": "Ｂ413"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程不開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "Physical laws behind observational phenomena, multi-scale and multi-wavelength.",
+    "goals": [
+        "期望學生知道與理解天文基本知識，以及天文學發展史",
+        "在教學過程中，讓學生習得獨立思考、歸納的能力",
+        "教導學生資料收集、閱讀、吸收與宇文表達",
+        "在撰寫讀書報告過程中，能夠學習彼此溝通與表達的能力"
+    ],
+    "syllabus": "01 lecture introduction\n\n02 Overview of topics in astrophysics, units, physics & observations – walkthrough of textbooks\n\n03 Gravity and related phenomena, timescales\n\n04 celestial mechanics --> Gas dynamics and stellar evolution\n\n05 Gravity & mass vs dynamics & pressure\n\n06 stellar structure\n\n07 \\*\\* Presentation of selected paper and associated cometary article\n\n08 midterm exam\n\n09 Review of midterm exam / compact objects\n\n10 Temperature/mass/velocity vs observations\n\n11 Radiations and continuum spectra: blackbody, bremsstrahlung, synchrotron\n\n12 Interaction of light and media: Compton scattering, photoelectric absorption, opacity\n\n13 Radiative transfer and spectral lines\n\n14 Accretion disk and radiation from compact objects\n\n15 Jets, Large scale structure, lensing and cosmological model, Relativity and magnetic field\n\n16 final exam\n\n17    教師彈性補充教學 \\*\\* Presentations I -- review of selected ARAA paper\n\n18    教師彈性補充教學 \\*\\* Presentations II -- review of astrophysics in your thesis project",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": ""
+        },
+        {
+            "type": "合作學習",
+            "note": ""
+        },
+        {
+            "type": "實驗/實作",
+            "note": "IDL程式語言撰寫"
+        },
+        {
+            "type": "專題研究",
+            "note": "進行資料蒐集、分析與撰寫報告，並口頭表達"
+        }
+    ],
+    "grading": [
+        {
+            "type": "其他",
+            "weight": 100,
+            "note": "期中考＋期末考＋（書面╱口頭）報告＋作業＋課堂參與及討論"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

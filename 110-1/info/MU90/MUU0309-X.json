@@ -1,0 +1,64 @@
+{
+    "year": 110,
+    "term": 1,
+    "name": "鋼琴室內樂（一）",
+    "teachers": [
+        "鄭怡君"
+    ],
+    "department": "MU90",
+    "code": "MUU0309",
+    "credit": 2,
+    "serial": 2296,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 1,
+            "from": 1,
+            "to": 2,
+            "campus": "本部",
+            "classroom": "音409"
+        }
+    ],
+    "programs": [],
+    "comment": "第一堂課需測驗器樂演奏程度",
+    "restrict": "允許重複修",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 2,
+    "description": "為使學生對鋼琴作品多元性之了解,以及與其他器樂合作的經驗, 並進而在音樂領域上有更深刻之領悟",
+    "goals": [
+        "使學生對鋼琴作品多元性之了解",
+        "與其他器樂合作的經驗"
+    ],
+    "syllabus": "與鋼琴相關之室內樂作品,從四手聯彈,雙鋼琴至與不同樂器合作的重奏音樂, 如鋼琴三重奏,鋼琴四重奏等",
+    "methodologies": [
+        {
+            "type": "實驗/實作",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "期末考",
+            "weight": 20,
+            "note": ""
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 40,
+            "note": ""
+        },
+        {
+            "type": "出席",
+            "weight": 40,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

@@ -1,0 +1,80 @@
+{
+    "year": 110,
+    "term": 1,
+    "name": "語言學概論",
+    "teachers": [
+        "劉承賢"
+    ],
+    "department": "LU26",
+    "code": "TCU0026",
+    "credit": 3,
+    "serial": 2033,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 1,
+            "from": 2,
+            "to": 4,
+            "campus": "本部",
+            "classroom": "正403"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "2",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程以介紹語言學基本知識為主，聚焦在語音學、音韻學（含傳統聲韻學）、構詞學、句法學，並視情況旁及社會語言學、心理語言學等應用語言學議題。",
+    "goals": [
+        "能了解人類語言和文字的起源",
+        "能了解台灣閩南語的起源與演變",
+        "能了解台灣南島語的起源與變遷",
+        "能學會台灣白話字與台羅拼音",
+        "能了解台灣客家語的起源與分布"
+    ],
+    "syllabus": "本課程主要分為語音學簡介、傳統聲韻學簡介、音韻學簡介及句法學簡介四個部份，各週進度安排如下：\n\n9/27     課程簡介並談談語言；語音屬性\n\n10/4     語音元素、發聲器官、元音類別\n\n10/11    (中華民國國慶補假)\n\n10/18   輔音類別、音變規律、傳統聲韻學簡介(一)\n\n10/25   傳統聲韻學簡介(二)\n\n11/1     傳統聲韻學簡介(三)、Features: A bit of morphology phonological alternations pr.1\n\n11/8      Features: A bit of morphology phonological alternations pr.2\n\n11/15    期中考\n\n11/22    Rules and derivation cyclic phonology\n\n11/29    syllables phonological skeleton\n\n12/6     stress, tones and intonation；詞彙及其結構、詞類、詞位\n\n12/13   內部結構與構詞、語言分類\n\n12/20   什麼是句法？詞組與結構單位\n\n12/27   句法學學派、句法結構樹\n\n1/3       生成句法簡介、跨語言看句法差異\n\n1/10      期末考\n\n1/17      自學：心理語言學（繳交500-1000字的整理及心得）\n\n1/24      自學：社會語言學—語言規劃",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "由教師講解說明學習內容"
+        },
+        {
+            "type": "討論法",
+            "note": "分組討論議題或問題"
+        },
+        {
+            "type": "媒體融入教學",
+            "note": "使用影片及即時教學軟體"
+        }
+    ],
+    "grading": [
+        {
+            "type": "期中考",
+            "weight": 20,
+            "note": "開書考；由線上題庫出題，可參考任何「紙本」資料"
+        },
+        {
+            "type": "期末考",
+            "weight": 20,
+            "note": "開書考；由線上題庫出題，可參考任何「紙本」資料"
+        },
+        {
+            "type": "報告",
+            "weight": 10,
+            "note": "兩份自學報告，各佔5%"
+        },
+        {
+            "type": "其他",
+            "weight": 50,
+            "note": "課堂測驗、活動及課上與課後作業，取所有分數的4/5計算"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

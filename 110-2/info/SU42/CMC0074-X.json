@@ -1,0 +1,95 @@
+{
+    "year": 110,
+    "term": 2,
+    "name": "分子模擬",
+    "teachers": [
+        "孫英傑"
+    ],
+    "department": "SU42",
+    "code": "CMC0074",
+    "credit": 3,
+    "serial": 2834,
+    "group": "",
+    "quota": {
+        "limit": 60,
+        "additional": 5
+    },
+    "schedule": [
+        {
+            "day": 1,
+            "from": 8,
+            "to": 10,
+            "campus": "公館",
+            "classroom": "理圖801"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "9",
+    "dept_group": "",
+    "hours": 3,
+    "description": "(1) guiding students to establish concepts of computational chemistry  \n(2) introducing how computational chemistry is applied to chemistry research.",
+    "goals": [
+        "guiding students to establish concepts of computational chemistry",
+        "introducing how computational chemistry is applied to chemistry research"
+    ],
+    "syllabus": "**授課方式：16+2週。****彈性教學****2****週**：  \n包含數位學習、實作與專題、探究、自主學習。\n\n1\\. Modeling of energy of molecules  \n Empirical functions: Molecular Mechanics force field  \n  \n2\\. Energy minimization procedure:  \nSteepest Descent method  \nConjugate gradient  \nNewton Raphson method  \n  \n3\\. Modeling Complex Molecular Systems  \n  \n(1) Monte Carlo Method  \nRandom number generator  \nMetropolis MC  \n  \n  \n(2) Docking computation for ligand-protein complexes\n\n(3) Molecular Dynamics Simulation:  \nAlgorithms of differential equation integrator  \nSimulation at constant temperature and pressure  \n  \n4\\. Special topics:  \n  \n(1) Bio-molecule simulation  \nFree energy calculation  \n(2) Other advanced topics  \nKinetics of biochemical reactions",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": ""
+        },
+        {
+            "type": "合作學習",
+            "note": ""
+        },
+        {
+            "type": "實驗/實作",
+            "note": ""
+        },
+        {
+            "type": "媒體融入教學",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 25,
+            "note": ""
+        },
+        {
+            "type": "期中考",
+            "weight": 40,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 20,
+            "note": ""
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 6,
+            "note": ""
+        },
+        {
+            "type": "出席",
+            "weight": 6,
+            "note": ""
+        },
+        {
+            "type": "其他",
+            "weight": 3,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

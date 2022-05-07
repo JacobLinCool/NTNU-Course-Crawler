@@ -1,0 +1,70 @@
+{
+    "year": 109,
+    "term": 2,
+    "name": "無機化學（二）",
+    "teachers": [
+        "蔡明剛"
+    ],
+    "department": "SU42",
+    "code": "CMU0146",
+    "credit": 3,
+    "serial": 2885,
+    "group": "A",
+    "quota": {
+        "limit": 50,
+        "additional": 15
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 2,
+            "to": 4,
+            "campus": "公館",
+            "classroom": "Ｅ301"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "3",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "To train students to have the basic concepts of CFT and complexes.",
+    "goals": [
+        "The hydrogen atomic structure and the trend of the periodical elements.",
+        "Molecular structures and bonding theories.",
+        "Main group elements and their compounds.",
+        "CFT and electronic spectra."
+    ],
+    "syllabus": "Organometallic Chemistry\n\n*   Introduction to coordination compounds  \n    \n*   d-metal complexes : electronic structure and properties  \n    \n*   Coordination chemistry : reactions of complexes  \n    \n*   d-metal organometallic chemistry \n\nApplications\n\n*   Materials chemistry and nanomaterials  \n    \n*   Castalysis  \n    \n*   Biological inorganic chemistry  \n    \n*   Inorganic chemistry in medicine",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "媒體融入教學",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "期中考",
+            "weight": 50,
+            "note": "Two midterms (25% and 25%)"
+        },
+        {
+            "type": "期末考",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "其他",
+            "weight": 20,
+            "note": "Homework and attendence"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

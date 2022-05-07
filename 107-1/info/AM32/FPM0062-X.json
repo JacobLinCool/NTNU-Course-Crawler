@@ -1,0 +1,74 @@
+{
+    "year": 107,
+    "term": 1,
+    "name": "動力系統理論在運動行為的應用",
+    "teachers": [
+        "劉有德"
+    ],
+    "department": "AM32",
+    "code": "FPM0062",
+    "credit": 3,
+    "serial": 56,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 4,
+            "from": 2,
+            "to": 4,
+            "campus": "公館",
+            "classroom": "研001"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "Introducing the basics of dynamical systems theory and provides some applications in the current MB research issues.",
+    "goals": [
+        "Understand the basic concepts of Dynamical Systems Theory",
+        "Understand the connections between the Dynamical Systems Theory and the study of motor behavior",
+        "The ability to apply the Dynamical Systems Theory to the research of motor behavior"
+    ],
+    "syllabus": "1.       Introduction to the Dynamical Systems Theory\n\n2.       Basic Concepts of Dynamics\n\n3.       Applications\n\n4.       Double Ten Holiday\n\n5.       Limit Sets\n\n6.       Applications\n\n7.       Logistic map\n\n8.       Applications\n\n9.       Midterm Examination\n\n10.     Chaos\n\n11.     Applications\n\n12.     Bifurcation\n\n13.     Applications\n\n14.     Dimensional Analyses and Fractal Dimensions\n\n15.     Applications\n\n16.     Project Report\n\n17.   Final Examination",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 40,
+            "note": ""
+        },
+        {
+            "type": "期中考",
+            "weight": 20,
+            "note": ""
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 10,
+            "note": ""
+        },
+        {
+            "type": "報告",
+            "weight": 30,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

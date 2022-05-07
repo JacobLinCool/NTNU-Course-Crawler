@@ -1,0 +1,79 @@
+{
+    "year": 110,
+    "term": 2,
+    "name": "智慧型控制",
+    "teachers": [
+        "王偉彥"
+    ],
+    "department": "HM75",
+    "code": "AEC8007",
+    "credit": 3,
+    "serial": 1116,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 2,
+            "to": 4,
+            "campus": "本部",
+            "classroom": "電機系4F會議室"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎必須先修過(也可以同時修)【AEU0043  控制系統】 ◎課程開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "Nowadays intelligent control techniques are successfully used in many control applications. The course focuses on providing an introduction to the emerging area of intelligent control and optimization using a control-engineering approach. It includes state-of-the-art intelligent control approaches such as fuzzy, neural network, fuzzy-neural, hybrid structure, and adaptive approaches. Through various examples, students will learn how to apply intelligent control techniques to real engineering problems with python and matplotlib.",
+    "goals": [
+        "Understand how to solve engineering control problems by applying intelligent techniques.",
+        "Understand how to use programming to simulate and analyze engineering control problems.",
+        "Evaluate performance of several intelligent control methods."
+    ],
+    "syllabus": "(預估每1-2週講授一主題)\n\n1.          Introduction to intelligent control\n\n2.          Theory foundation of fuzzy control\n\n3.          Fuzzy control\n\n4.          Adaptive fuzzy control\n\n5.          Theory foundation of neural network\n\n6.          Typical and improved neural networks\n\n7.          Fuzzy-neural network\n\n8.          Neural network for system modeling\n\n9.          Adaptive neural network control\n\n10.      Genetic Algorithm\n\n11.      Hybrid structure control",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "課堂中將會依序介紹不同智慧型控制方法之原理與設計方式，並帶領同學以模擬之方式對工程上之實務問題進行分析探討，最後亦將介紹國際間該領域之最新技術發展與趨勢。"
+        },
+        {
+            "type": "專題研究",
+            "note": "最近相關研究文獻研讀報告"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "期中考",
+            "weight": 20,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 20,
+            "note": ""
+        },
+        {
+            "type": "出席",
+            "weight": 10,
+            "note": ""
+        },
+        {
+            "type": "報告",
+            "weight": 20,
+            "note": ""
+        }
+    ],
+    "prerequisite": "◎必須先修過(也可以同時修)【AEU0043  控制系統】",
+    "general_core": []
+}

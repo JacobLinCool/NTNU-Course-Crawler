@@ -1,0 +1,98 @@
+{
+    "year": 109,
+    "term": 2,
+    "name": "管理學",
+    "teachers": [
+        "陳敦基"
+    ],
+    "department": "ZU83",
+    "code": "PGUA002",
+    "credit": 3,
+    "serial": 3208,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 1,
+            "from": 7,
+            "to": 9,
+            "campus": "本部",
+            "classroom": "誠207"
+        }
+    ],
+    "programs": [
+        "基礎管理學程",
+        "藝術產業學程"
+    ],
+    "comment": "",
+    "restrict": "◎第一階段限 基礎管理學程",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "管理學係為商學與管理領域的學生所設計的入門基礎課程，授課內容理論與實務並重，達成理論與實務並用的目標。課程架構建立在對企業本質討論、系統架構介紹以及實務運用案例探討等三大核心基礎之上，並針對規劃、組織、領導、控制四大管理功能作深入的理論鋪陳與個案介紹。修習本課程，可以了解企業外部環境因子對攸關企業宗旨及目標的重要商業決策的影響，並依照組織的資源及運作方式可以選擇適當的經營模式及所有權。了解企業不同的功能及實務運用面，可以針對企業內部、外部環境了解成功企業的經營策略。",
+    "goals": [
+        "提升企業商管方面的知識與認知",
+        "具備職能導向的能力",
+        "了解價值與倫理"
+    ],
+    "syllabus": "2021 Management (15e) COURSE OUTLINE\n\nWeek\n\nTopics of Course\n\nActivity in class\n\n2/22\n\n Course Requirement & Brief Introduction(課程簡介)\n\n Chapter 1 Managers in the Workplace(職場經理人)\n\n  \n In class discussion\n\n3/01\n\n  No Class (國定假日)\n\n3/08\n\n Chapter 2 Making Decisions (決策)\n\n Case study 1, 2 (Team Presentation)\n\n3/15\n\n Chapter 3 Managing the External Environment and the Organizations Culture  (外部環境管理及組織文化)\n\n Case study 3, 4 (Team Presentation)\n\n3/22\n\n Chapter 4 Managing in a Global Environment (全球環境管理)\n\n Chapter 6 Managing Social Responsibility and Ethics (社會責任與道德)\n\n Case study 5, 6 (Team Presentation)\n\n3/29\n\n Chapter 7 Managing Change and Disruptive Innovation (變革及創新管理)\n\n Case study 7, 8 (Team Presentation)\n\n4/05\n\n  No Class (國定假日)\n\n4/12\n\n Chapter 8 Foundation of Planning (規劃工作)\n\nCase study 9, I0 (Team Presentation)\n\n4/19\n\n Chapter 9 Managing Strategy (決策管理)\n\n4/26\n\n  Mid Exam. (期中考)\n\n5/03\n\n Chapter 10 Entrepreneurial Ventures   (組織結構設計)\n\n5/10\n\n Chapter 12 Managing Human Resources (人力資源管理)\n\nCase study I1, I2( Team Presentation)\n\n5/17\n\n Chapter 14 Managing Communication (溝通管理)\n\nCase study I3, I4 (Team Presentation)\n\n5/24\n\n Lecture : How to be a Respected Business Leader(中華企研院陳定國董事長)\n\nCase study I5, 16(Team Presentation)\n\n5/31\n\n Chapter 15 Understanding and Managing Individual Behavior (個人行為管理)\n\n Chapter 16 Motivating Employees (員工激勵)\n\nCase study 17, 18(Team Presentation)\n\n6/07\n\n Chapter 17 Being an Effective Leader (成為有效領導者)\n\nCase study I9, 20 (Team Presentation)\n\n6/14\n\n Chapter 18 Monitoring and Controlling (監督及控制)\n\n6/22\n\n  Final Exam. (期末考)",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "PPT及教學影片"
+        },
+        {
+            "type": "討論法",
+            "note": "小組個案討論"
+        },
+        {
+            "type": "問題解決教學",
+            "note": "課堂問題討論"
+        },
+        {
+            "type": "合作學習",
+            "note": "小組討論、作業及報告"
+        },
+        {
+            "type": "實地考察、參訪",
+            "note": "企業參訪-視學校有無經費補助而定"
+        },
+        {
+            "type": "專題研究",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 20,
+            "note": ""
+        },
+        {
+            "type": "期中考",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 10,
+            "note": ""
+        },
+        {
+            "type": "出席",
+            "weight": 10,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

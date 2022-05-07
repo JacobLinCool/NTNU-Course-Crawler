@@ -1,0 +1,85 @@
+{
+    "year": 110,
+    "term": 2,
+    "name": "管理學入門",
+    "teachers": [
+        "孔令玉"
+    ],
+    "department": "GU",
+    "code": "03UG041",
+    "credit": 2,
+    "serial": 914,
+    "group": "B",
+    "quota": {
+        "limit": 55,
+        "additional": 0
+    },
+    "schedule": [
+        {
+            "day": 4,
+            "from": 3,
+            "to": 4,
+            "campus": "本部",
+            "classroom": "正202"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎企管系（學）不得選修 ◎課程開放上修",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 2,
+    "description": "管理學討論管理工作的基礎循環，包含計畫、組織、領導、控制等四大功能。除此之外，管理學亦包含企業管理實務，包涵企業策略的設定、內外部資源分析與相關管理工具。宗旨在於協助學生理解管理的基礎。",
+    "goals": [
+        "培養學生以評估企業外部環境，找到可能機會，並且以企業組織作為解決問題的可能性",
+        "培養學生以管理循環為基礎的問題解決能力",
+        "透過分組與團隊協作，增強溝通協調與團隊合作之能力"
+    ],
+    "syllabus": "授課方式：16+2週\n\n彈性教學2週：於1～16週課程間，提供個人與任務團隊自主學習機會，練習運用理論知識處理實務問題、規劃個人生涯\n\nWeek 1：課程說明與管理概論 Introduction\n\nWeek 2：全球環境與企業倫理 Global Environment and Ethics\n\nWeek 3：決策與創造力 Decision Making and Creativity\n\nWeek 4：規劃與策略 Planning and Strategy\n\nWeek 5：個人特質與組織文化 Personal Characters and Organizational Culture\n\nWeek 6：領導 Leadership\n\nWeek 7：激勵 Motivation\n\nWeek 8：影片賞析 Video Time\n\nWeek 9：組織設計 Organizational Design\n\nWeek 10：溝通與團隊管理 Communication and Team Management\n\nWeek 11：管理專案諮詢 Project Meeting\n\nWeek 12：控制、變革與創業精神 Control, Change and Entrepreneurship\n\nWeek 13：管理實務 Managerial Practice\n\nWeek 14：期末考試 Final Examination\n\nWeek 15：管理專案成果簡報 Project Presentation\n\nWeek 16：專題演講 Speech",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "說明理論概念及重點，協助學習者建立知識體系"
+        },
+        {
+            "type": "討論法",
+            "note": "藉由討論辯證，激發學習者創意思維與表達技巧，並學習尊重同儕間的個別差異"
+        },
+        {
+            "type": "合作學習",
+            "note": "透過團隊的組建和成長過程，強化學習者團隊管理能力；針對目標組織，引導學習者觀察實務運作、體驗知識的實用價值"
+        },
+        {
+            "type": "其他",
+            "note": "邀請管理者提供專題演講，分享親身經歷，說明組織機構的實務運作，以及管理者的重要性和面對的挑戰"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 30,
+            "note": "反思練習及生涯規劃，協助學習者反思管理知識、探索自我及發展方向"
+        },
+        {
+            "type": "期末考",
+            "weight": 20,
+            "note": "檢測學習者對於理論的理解程度及實務運用"
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 20,
+            "note": "採計出席狀況並鼓勵學習者參與討論，提出建設性意見相互學習"
+        },
+        {
+            "type": "報告",
+            "weight": 30,
+            "note": "管理專案研習，促進學習者團隊管理能力與管理知識應用"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": [
+        "社會科學",
+        "跨域專業探索課程"
+    ]
+}

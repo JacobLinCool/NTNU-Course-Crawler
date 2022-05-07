@@ -1,0 +1,79 @@
+{
+    "year": 107,
+    "term": 1,
+    "name": "圖形辨認",
+    "teachers": [
+        "葉梅珍"
+    ],
+    "department": "SM47",
+    "code": "CSC0030",
+    "credit": 3,
+    "serial": 2700,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 4,
+            "from": 7,
+            "to": 9,
+            "campus": "公館",
+            "classroom": "Ｂ102"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "這個世界很多事物都由各種不同的圖樣(pattern)所組成，例如每個人雖然長相皆不相同，但是每個人的臉都具備相似的圖樣。成功辨識特定主題的圖樣，是在資訊科技中加入”智慧”時不可缺少的要素。本課程的主要目的在透過講授、實作、討論的過程，讓同學能夠學習圖形辨識各面向的知識，包含了特徵擷取、辨識模型、監督式與非監督式學習等理論知識，並學習針對特定主題實作圖形辨識之技能，以達到理論與實務兼顧的目標。",
+    "goals": [
+        "學習圖形辨認的基本理論",
+        "瞭解圖形辨認的原理與運作",
+        "熟悉圖形辨認在實務上的應用",
+        "培養圖形辨認的實作能力"
+    ],
+    "syllabus": "This course will cover basic material in pattern recognition as well as some less traditional topics, depending on time constraints and  \ngeneral interest.  \n  \nTentative Outline  \n• Introduction to pattern recognition  \n• Supervised learning:  \n1\\. Bayes classifier  \n2\\. Discriminant functions, application to classification of normal mixtures  \n3\\. Parameter estimation: Maximum Likelihood; Bayes; recursive Bayes  \n4\\. Nonparametric methods: Parzen windows; kn-nearest neighbor  \n5\\. Nearest neighbor classifier, relation to Bayes  \n6\\. Dimensionality reduction  \n7\\. Linear discriminant functions  \n8\\. Perceptron and multi-layer perceptrons  \n9. Support vector machines  \n• Unsupervised learning:  \n1\\. Clustering: criteria; methods (k-means); cluster validity  \n2\\. Maximum likelihood estimation of mixture parameters (unsupervised)  \n3\\. Bayesian estimation",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": ""
+        },
+        {
+            "type": "專題研究",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "期中考",
+            "weight": 25,
+            "note": ""
+        },
+        {
+            "type": "出席",
+            "weight": 15,
+            "note": ""
+        },
+        {
+            "type": "報告",
+            "weight": 20,
+            "note": ""
+        },
+        {
+            "type": "專題",
+            "weight": 40,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

@@ -1,0 +1,82 @@
+{
+    "year": 110,
+    "term": 2,
+    "name": "多變量分析",
+    "teachers": [
+        "周世玉"
+    ],
+    "department": "OM55",
+    "code": "MBM0018",
+    "credit": 3,
+    "serial": 2408,
+    "group": "",
+    "quota": {
+        "limit": 5,
+        "additional": 35
+    },
+    "schedule": [
+        {
+            "day": 3,
+            "from": 2,
+            "to": 4,
+            "campus": "本部",
+            "classroom": "誠307"
+        }
+    ],
+    "programs": [],
+    "comment": "因本課程需進行先修課程確認，除於本校完成先修課程者可於系統選課外，其餘由老師於課堂中發放授權碼。",
+    "restrict": "◎必須先修過【BAU0040  統計學（一）】、【PGUA007  統計學】其中一門 ◎課程不開放上修",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "This course is designed to introduce the quantitative methodologies frequently used in the data analysis for marketing decisions. Quantitative marketing research tools and the utility of applying these tools to problem solving and decision-making are introduced. The underlying meaning, constraint, and possible bias stemming from the procedure of data collection and the output of data analysis are emphasized such that class participants are less likely to be subject to the misleading of seemingly scientific data output. The primary topics discussed include regression, factor analysis, discriminant analysis, logit analysis, conjoint analysis, ANOVA/MANOVA, multidimensional scaling, cluster analysis, structural equation modeling and path analysis. All the class discussions/presentations and paper writings are required in English.",
+    "goals": [
+        "High proficiency in the use of quantitative methodologies to facilitate marketing-relevant decision makings",
+        "Get used to learning, communicating, and presenting in English"
+    ],
+    "syllabus": "**【授課方式：16+2週】**\n\n本課程講授的內容乃以常見的多變量分析工具為主，本課程使用之統計軟體包含SAS, SPSS & LISREL，講授主題如下：\n\n1.  Introduction\n2.  Principal Components Analysis\n3.  Exploratory Factor Analysis & Confirmatory Factor Analysis\n4.  Structural Equation Models with Latent Variables\n5.  Multidimensional Scaling\n6.  Cluster Analysis\n7.  Canonical Correlation\n8.  Analysis of Variance\n9.  Discriminant Analysis",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "以投影片講述各週主題的基本內容"
+        },
+        {
+            "type": "討論法",
+            "note": "配合每週主題融入決策問題與決策資料"
+        },
+        {
+            "type": "問題解決教學",
+            "note": "配合每週主題講解分析軟體的操作步驟"
+        }
+    ],
+    "grading": [
+        {
+            "type": "期中考",
+            "weight": 30,
+            "note": "課堂考試"
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 10,
+            "note": ""
+        },
+        {
+            "type": "出席",
+            "weight": 10,
+            "note": ""
+        },
+        {
+            "type": "報告",
+            "weight": 15,
+            "note": "彈性補充教學個人指定閱讀報告 (第17~18週，6/15交)"
+        },
+        {
+            "type": "專題",
+            "weight": 35,
+            "note": "專題期末書面與口頭報告 (口頭報告於6/1實施，書面報告6/3交)"
+        }
+    ],
+    "prerequisite": "◎必須先修過【BAU0040  統計學（一）】、【PGUA007  統計學】其中一門",
+    "general_core": []
+}

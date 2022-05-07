@@ -1,0 +1,81 @@
+{
+    "year": 110,
+    "term": 1,
+    "name": "科學實作的認知與推理",
+    "teachers": [
+        "顏妙璇"
+    ],
+    "department": "SM45",
+    "code": "SEC8009",
+    "credit": 3,
+    "serial": 2746,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 1,
+            "from": 7,
+            "to": 9,
+            "campus": "公館",
+            "classroom": "教室自排"
+        }
+    ],
+    "programs": [
+        "理工實作學程"
+    ],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程旨在介紹學習者對於科學實作過程的了解與認知以及推理表現，透過文獻閱讀與討論協助修課學生將所學納入未來的研究和教學設計中。",
+    "goals": [
+        "了解科學實作的認知與推理相關研究議題",
+        "搜集與研讀科學實作的認知與推理相關的文獻",
+        "整理、報導與評論科學實作的認知與推理相關的新知"
+    ],
+    "syllabus": "1    9/27    Introduction  \n2   10/4     Scientific reasoning  \n3   10/11   國慶日放假  \n4   10/18   Scientific reasoning  \n5   10/25   Causal reasoning  \n6   11/1     Causal reasoning  \n7   11/8     Experimentation  \n8   11/15   Experimentation  \n9   11/22   Observation  \n10 11/29   Note taking  \n11 12/6     Measurement  \n12 12/13   Measurement  \n13 12/20   Data interpretation  \n14 12/27   Evidence  \n15  1/3      Evidence  \n16  1/10    Final report",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 30,
+            "note": "文獻預習與評論"
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 10,
+            "note": ""
+        },
+        {
+            "type": "出席",
+            "weight": 15,
+            "note": ""
+        },
+        {
+            "type": "報告",
+            "weight": 15,
+            "note": "文獻口頭報告"
+        },
+        {
+            "type": "專題",
+            "weight": 30,
+            "note": "期末報告(文獻探討)"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

@@ -1,0 +1,84 @@
+{
+    "year": 110,
+    "term": 2,
+    "name": "人力資源管理",
+    "teachers": [
+        "孫弘岳"
+    ],
+    "department": "HU71",
+    "code": "ITU0057",
+    "credit": 3,
+    "serial": 1170,
+    "group": "",
+    "quota": {
+        "limit": 35,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 1,
+            "from": 7,
+            "to": 9,
+            "campus": "本部",
+            "classroom": "科技系TB211"
+        }
+    ],
+    "programs": [],
+    "comment": "學科組優先選課",
+    "restrict": "◎課程開放上修",
+    "form_s": "1",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "",
+    "goals": [
+        "Understanding the tactical and operational tasks related to workforce management and the HR function. Complying with the regulations and policies that affect the organization.",
+        "Understanding the hiring process including regulatory requirements, sourcing of applicants, formal interview and selection process, and on-boarding of a new hire.",
+        "Understanding concepts related to total rewards such as pay and benefit programs. Responding to employee questions and handling claims in compliance with applicable laws, regulations, and company policies.",
+        "Understanding the techniques and methods for delivering talent development and retention programs.",
+        "Understanding the methods organizations use to monitor and address morale, performance, and retention. Balancing the operational needs of the organization with the well-being of the individual employee.",
+        "Understanding the global practices that promote a safe work environment. Use risk mitigation procedures to protect against workplace hazards."
+    ],
+    "syllabus": "Week 1: Introduction to course and review of syllabus\n\nWeek 2: HR and Business Environment\n\nWeek 3: Job Analysis and Design\n\nWeek 4: Employee Communication\n\nWeek 5: HR Information Management\n\nWeek 6: Workforce Planning and Recruiting\n\nWeek 7: Workforce Selection\n\nWeek 8: Pay Structure and Design\n\nWeek 9: Incentives and Benefit\n\nWeek 10: Midterm Exam\n\nWeek 11: Performance Management\n\nWeek 12: Training and Development\n\nWeek 13: Employee Retention\n\nWeek 14: Employee Separation\n\nWeek 15: Health, Safety, and Security\n\nWeek 16: Final Exam\n\nWeek 17: Self-directed learning I\n\nWeek 18: Self-directed learning II\n\nNote 1: The learning activities are condcuted on [https://eeclass.formosasoft.com/course/344](https://eeclass.formosasoft.com/course/344), please preview the materials before each class. \n\nNote 2 : Any students who pass the official HRCI's aPHRi exam before final exam, their final grade will be counted as 100 (A+) and they can choice to attend the following classes voluntarily after they pass the exam.\n\nNote 3: Classroom learning will be replaced by Google Meet when serious influenza pandemics occur.  \n             URL：[https://meet.google.com/eeu-cowh-nna](https://meet.google.com/eeu-cowh-nna)",
+    "methodologies": [
+        {
+            "type": "Formal lecture",
+            "note": "Explain, clarify, and organize the body of knowledge for aPHRi based on the exam content outline and the practice questions with answers."
+        },
+        {
+            "type": "Group discussion",
+            "note": "Allow the students and the instructor exchange their ideas in order to get a better understanding the HR domains based on the aPHRi exam content outline."
+        },
+        {
+            "type": "Problem base learning",
+            "note": "Help the students become familiar with the exam format and better prepare for taking the test by practicing the mock exams of aPHRi."
+        },
+        {
+            "type": "Cooperative learning",
+            "note": "Extra bonus points will reward on group basis according to group discussion and participation for figuring out the answers of quizzes."
+        },
+        {
+            "type": "Case studies",
+            "note": "Explore how what you have learned applies to real world situations. Cases may come from a simple “What would you do in this situation?” question to a detailed description of a situation with accompanying data to analyze."
+        }
+    ],
+    "grading": [
+        {
+            "type": "Midterm Exam",
+            "weight": 30,
+            "note": "The midterm exam will be comprised of multiple-choice questions, approximately 50 of them. Each question is worth 2 points. There are no make-up exams.  This multiple-choice exam will be cumulative - and will cover module 1, 2, and 3. You can take the \"one-time\" exam within 60 minutes at any time in any place on specified date."
+        },
+        {
+            "type": "Final exam",
+            "weight": 50,
+            "note": "A full length simulated exam under the same testing conditions as the actual exams with 90 practice questions covered during the 1 hours 45 minutes test based on module 1, 2, 3, 4, and 5. of aPHRi exam content outline."
+        },
+        {
+            "type": "Attendances",
+            "weight": 20,
+            "note": "20 points per absence will be deducted from the student's Attendance grade. The final grade will be counted as \"E\" (1 point) once six (6) times of absence are reached. Approved official leave, Funeral leave, or Epidemic prevention leave will not be regarded as absence."
+        }
+    ],
+    "prerequisite": "◎Available for junior and senior year B.A. program students (Doctoral program courses excepted) and M.A. program students.",
+    "general_core": []
+}

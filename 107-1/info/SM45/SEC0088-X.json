@@ -1,0 +1,78 @@
+{
+    "year": 107,
+    "term": 1,
+    "name": "認知神經科學導論",
+    "teachers": [
+        "顏妙璇"
+    ],
+    "department": "SM45",
+    "code": "SEC0088",
+    "credit": 3,
+    "serial": 2679,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 1,
+            "from": 7,
+            "to": 9,
+            "campus": "公館",
+            "classroom": "教室自排"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程旨在建立對認知神經科學的基礎知識，包括腦的結構、各種研究工具與實驗方法、認知功能的研究議題，奠定學生日後閱讀認知神經科學應用於科教領域的研究文獻的基礎，並可運用研究成果於教學上。",
+    "goals": [
+        "熟悉並運用認知神經科學知識(包括研究議題和方法)",
+        "了解現今應用於科教領域的認知神經科學研究發展",
+        "搜集與研讀相關的認知神經科學文獻，並可整理、報導與評論認知神經科學相關的新知"
+    ],
+    "syllabus": "1\\. 認知神經科學簡介\n\n2\\. 大腦結構 & 神經細胞\n\n3\\. 9/24 中秋節放假\n\n4\\. 記憶\n\n5\\. 文獻導讀(1)：統計簡介\n\n6\\. 腦波簡介 A. Ch3 The Electrophysiological Brain\n\n7\\. 文獻導讀(2)：腦波\n\n8\\. fMRI簡介 A. Ch4 The Imaged Brain & B. fMRI BOLD contrast\n\n9\\. 文獻導讀(3)：fMRI\n\n10.  TMS簡介 A. Ch5 The Lesioned Brain\n\n11&12. 報告\n\n13\\. 眼動簡介\n\n14\\. 文獻導讀(4)：眼動 / 眼動實作\n\n15\\. 注意力\n\n16&18. 眼動報告 \n\n將視授課狀況調整進度",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": ""
+        },
+        {
+            "type": "合作學習",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 30,
+            "note": "數次預習作業(教師指定文章中之段落)以及1次複習作業"
+        },
+        {
+            "type": "期中考",
+            "weight": 25,
+            "note": "期中作業：關於神經科學研究工具"
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 15,
+            "note": ""
+        },
+        {
+            "type": "報告",
+            "weight": 30,
+            "note": "課堂口頭報告2次 (2人一組)"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

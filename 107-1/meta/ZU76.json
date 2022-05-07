@@ -1,0 +1,210 @@
+[
+    {
+        "year": 107,
+        "term": 1,
+        "name": "IB哲學與實作（IB）",
+        "teachers": [
+            "劉美慧"
+        ],
+        "department": "EU",
+        "code": "IBU0001",
+        "credit": 3,
+        "serial": 634,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 6,
+                "to": 8,
+                "campus": "本部",
+                "classroom": "樸301"
+            }
+        ],
+        "programs": [
+            "國際教師學程-華語文",
+            "國際教師學程-數學",
+            "國際教師學程-物理",
+            "國際教師學程-國際"
+        ],
+        "comment": "",
+        "restrict": "◎第一階段限 國際教師學程-國際◎限國際教師學程-國際選修",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 1,
+        "name": "物理教材教法（教）",
+        "teachers": [
+            "陳育霖"
+        ],
+        "department": "SU41",
+        "code": "PHUE001",
+        "credit": 2,
+        "serial": 2793,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 5,
+                "from": 8,
+                "to": 9,
+                "campus": "公館",
+                "classroom": "Ｆ105"
+            }
+        ],
+        "programs": [
+            "國際教師學程-物理"
+        ],
+        "comment": "",
+        "restrict": "",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 1,
+        "name": "物理教學實習（一）（教）",
+        "teachers": [
+            "陳育霖"
+        ],
+        "department": "SU41",
+        "code": "PHUE110",
+        "credit": 2,
+        "serial": 2794,
+        "group": "A",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 1,
+                "to": 4,
+                "campus": "公館",
+                "classroom": "Ｆ105"
+            }
+        ],
+        "programs": [
+            "國際教師學程-物理"
+        ],
+        "comment": "未修習物理教材教法者不得修習物理教學實習（一）(二)。",
+        "restrict": "",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 1,
+        "name": "物理教學實習（一）（教）",
+        "teachers": [
+            "陳育霖"
+        ],
+        "department": "SU41",
+        "code": "PHUE110",
+        "credit": 2,
+        "serial": 2795,
+        "group": "B",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 1,
+                "to": 4,
+                "campus": "公館",
+                "classroom": "Ｆ105"
+            }
+        ],
+        "programs": [
+            "國際教師學程-物理"
+        ],
+        "comment": "未修習物理教材教法者不得修習物理教學實習（一）(二)。",
+        "restrict": "",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 1,
+        "name": "物理教學實習（一）（教）",
+        "teachers": [
+            "陳育霖"
+        ],
+        "department": "SU41",
+        "code": "PHUE110",
+        "credit": 2,
+        "serial": 3210,
+        "group": "C",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 6,
+                "from": 1,
+                "to": 4,
+                "campus": "公館",
+                "classroom": "Ｆ104"
+            }
+        ],
+        "programs": [
+            "國際教師學程-物理"
+        ],
+        "comment": "",
+        "restrict": "◎第一階段需人工加選◎第二階段需人工加選◎加退選階段需人工加選",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 1,
+        "name": "物理研究之批判性思考與辯論簡介（一）",
+        "teachers": [
+            "徐鏞元",
+            "駱芳鈺"
+        ],
+        "department": "SU41",
+        "code": "PHU0257",
+        "credit": 2,
+        "serial": 2813,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 5,
+                "from": 3,
+                "to": 4,
+                "campus": "公館",
+                "classroom": "Ｆ105"
+            }
+        ],
+        "programs": [
+            "國際教師學程-物理"
+        ],
+        "comment": "",
+        "restrict": "",
+        "form_s": "1",
+        "classes": "",
+        "dept_group": ""
+    }
+]

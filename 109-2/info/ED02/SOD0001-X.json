@@ -1,0 +1,79 @@
+{
+    "year": 109,
+    "term": 2,
+    "name": "方法論",
+    "teachers": [
+        "黃鴻文"
+    ],
+    "department": "ED02",
+    "code": "SOD0001",
+    "credit": 3,
+    "serial": 388,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 6,
+            "to": 8,
+            "campus": "本部",
+            "classroom": "教709"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程不開放上修",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程旨在培養對人文教育及社會科學領域研究之深層反思、後設分析、學術論述與理論建構之能力，透過每週研討、對話與作業之練習，逐步瞭解不同典範之知識觀及本體觀如何影響研究方法及研究策略之運用取向，並展現多樣化的學術探究及實踐。此課程的重點如下：\n\n(一) 不同的研究方法所根源之學術典範與價值信念及其對話的可能。\n(二) 不同的學術典範之研究假設、研究前提、研究理路及問題意識。\n(三) 實證量化典範之學術研究脈絡以及研究設計理路的關聯性探究。\n(四) 詮釋對話典範之學術發展脈絡與知識理論應用的生命轉化研究。\n(五) 批判行動典範之學術發展脈絡與知識理論應用的社會變革研究。\n(六) 群體實踐典範之學術對話行動與研究場域開展的整合研究實踐。\n\n方法論是可以論述與論理的，也都有現象及經驗可觀察、分析、觀照和轉化，本課程也將運用方法論於論文分析、觀點統整、問題轉化與典範澄現。",
+    "goals": [
+        "方法論的知識地圖與論文分析演練",
+        "方法論的系譜傳承與研究觀點統整",
+        "方法論的整全探討與典範澄現體驗",
+        "方法論的經世致用與問題轉化演練"
+    ],
+    "syllabus": "1.  Introduction: Methods+ Methodology + Realities\n2.  Paradigms vs. Methods\n3.  Quantitative Research Basics: Observation, Concepts, Theories, Models, Hypotheses\n4.  Statistics & Hypothesis: means comparisons + Casual Modeling\n5.  Statistics & Questions to be Answered\n6.  Measurement + validity & reliability Coda for Quantitative Research：How to think quantitatively?\n7.  清明補假\n8.  Qualitative/Interpretive Research: Basics\n9.  Multiple Meaning & Symbols\n10.  Description: Thin vs. Thick\n11.  Qualitative Research Strategies + Samples\n12.  Observation: See + Listen\n13.  Interview: Ask + Listen\n14.  Focus, Theories, and Contextualization\n15.  Validity and Reliability\n16.  Data Analysis: Themes and Patterns",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "教師講述"
+        },
+        {
+            "type": "討論法",
+            "note": "師生討論"
+        },
+        {
+            "type": "其他",
+            "note": "撰寫課堂筆記"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 50,
+            "note": "作業數次"
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 10,
+            "note": "師生討論"
+        },
+        {
+            "type": "專題",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "其他",
+            "weight": 10,
+            "note": "筆記"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

@@ -1,0 +1,64 @@
+{
+    "year": 110,
+    "term": 2,
+    "name": "古典力學",
+    "teachers": [
+        "李沃龍"
+    ],
+    "department": "SM41",
+    "code": "PHC0010",
+    "credit": 3,
+    "serial": 2619,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 4,
+            "from": 2,
+            "to": 4,
+            "campus": "公館",
+            "classroom": "Ｓ701"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "",
+    "goals": [
+        "Understand the basic concepts and theories of classical mechanics",
+        "Strengthen physical thinking and problem-solving skills"
+    ],
+    "syllabus": "【16+2 Weeks】\n\nWeek 1: Introduction  \nWeek 2: Generalized Forces  \nWeek 3: Lagrange Equations  \nWeek 4: Hamilton’s Variational Principle  \nWeek 5: Symmetry and Conservation Laws Scattering  \nWeek 6: Central Force Fields   \nWeek 7: Kepler’s Problem   \nWeek 8: Scattering   \nWeek 9: Midterm Exam \n\nWeek 10: Non-Inertial Frames\n\nWeek 11: Motions in a Non-Inertial Frame of Reference\n\nWeek 12: Hamiltons Canonical Equations\n\nWeek 13: Poisson’s Bracket & Generating Functions\n\nWeek 14: Canonical Transformations\n\nWeek 15: Infinitesimal Canonical Transformations\n\nWeek 16: Final Exam\n\nWeek 17: Self-directed Learning\n\nWeek 18: Self-directed Learning",
+    "methodologies": [
+        {
+            "type": "Formal lecture",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "Assignments",
+            "weight": 35,
+            "note": ""
+        },
+        {
+            "type": "Midterm Exam",
+            "weight": 35,
+            "note": ""
+        },
+        {
+            "type": "Final exam",
+            "weight": 30,
+            "note": ""
+        }
+    ],
+    "prerequisite": "◎Available for junior and senior year B.A. program students (Doctoral program courses excepted) and M.A. program students.",
+    "general_core": []
+}

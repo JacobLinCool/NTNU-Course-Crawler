@@ -1,0 +1,87 @@
+{
+    "year": 108,
+    "term": 2,
+    "name": "線性代數探索（二）",
+    "teachers": [
+        "胡舉卿"
+    ],
+    "department": "SU40",
+    "code": "MAU0173",
+    "credit": 1,
+    "serial": 2682,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 4,
+            "to": 4,
+            "campus": "公館",
+            "classroom": "Ｓ303"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎必須先修過(也可以同時修)【MAU0161  線性代數（二）】",
+    "form_s": "1",
+    "classes": "3",
+    "dept_group": "",
+    "hours": 1,
+    "description": "在於讓學生親身經歷線性代數解題的思維歷程，以達到對線性代數概念和計算法則的熟練，進而應用解決相關問題。",
+    "goals": [
+        "讓學生親身經歷線性代數解題的思維歷程",
+        "讓學生熟練線性代數概念和計算法則",
+        "應用線性代數解決相關數學問題。"
+    ],
+    "syllabus": " \n\n1\\. Eigenvalues and eigenvectors; (4 weeks)  \n2\\. Orthogonality; (5 weeks)  \n3\\. Change of basis; (3 weeks)  \n4\\. Eigenvalues: futher applications and computations(3 weeks)  \n  \n兩次期中考試及期末考試各占一週。",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "課堂講述課本內容"
+        },
+        {
+            "type": "討論法",
+            "note": "學生討論及回答問題"
+        },
+        {
+            "type": "問題解決教學",
+            "note": "習題講解"
+        },
+        {
+            "type": "實驗/實作",
+            "note": "課堂小考"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 20,
+            "note": ""
+        },
+        {
+            "type": "期中考",
+            "weight": 35,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 5,
+            "note": ""
+        },
+        {
+            "type": "出席",
+            "weight": 10,
+            "note": ""
+        }
+    ],
+    "prerequisite": "◎必須先修過(也可以同時修)【MAU0161  線性代數（二）】",
+    "general_core": []
+}

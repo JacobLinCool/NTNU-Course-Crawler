@@ -1,0 +1,91 @@
+{
+    "year": 108,
+    "term": 2,
+    "name": "經濟地質學",
+    "teachers": [
+        "謝奈特"
+    ],
+    "department": "SU44",
+    "code": "ESC9014",
+    "credit": 3,
+    "serial": 2858,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 3,
+            "from": 8,
+            "to": 10,
+            "campus": "公館",
+            "classroom": "Ｃ403"
+        }
+    ],
+    "programs": [],
+    "comment": "中階以上課程，適合大三以上學生修習，以作為探究研究所之先修課程，同時也開放碩士班無此課程基礎之學生選修。",
+    "restrict": "◎限大三大四 ◎限碩一碩二碩三以上修習",
+    "form_s": "",
+    "classes": "9",
+    "dept_group": "",
+    "hours": 3,
+    "description": "This course will be an introduction to mineral resources, their classification, genesis and distribution in time and space. Important global resources will be examined and discussed through independent term projects. Topics will focus the different processes which specific ore-deposits form. The course is structured into four parts which cover the majority of ore-deposits on Earth. The first part will focus on magmatic-related ore-deposits. The second part will discuss hydrothermal-related ore-deposits. The third part will focus on sedimentary-related ore-deposits. The final part will contextualize ore-deposits into a greater global tectonic framework.",
+    "goals": [
+        "To familiarize the students to mineral deposits",
+        "To introduce to the students the different types of mineral deposits.",
+        "To show the students the relationship between commodity prices and economic development"
+    ],
+    "syllabus": "_Week 1_   Introduction to Economic Geology\n\n_Week 2_   Igneous Ore-forming Processes\n\n_Week 3_   Mineralization within Mafic Magmas and Layered Intrusions\n\n_Week 4_   Magmatic-hydrothermal Ore\\-forming Processes\n\n_Week 5_   Granite-related ore-forming Processes\n\n_Week 6_   Hydrothermal Ore-forming Processes\n\n**_Week 7_** **Mid-term exam**\n\n_Week 8_   VMS and SEDEX deposits\n\n_Week 9_   Surficial and Supergene Ore-forming Processes\n\n_Week 10_ Laterite deposits\n\n_Week 11_ Sedimentary Ore-forming Processes\n\n_Week 12_ Banded-iron formations and Placer Deposits\n\n_Week 13 Ore Deposits in a Global Tectonic Context_\n\n_Week 14_ Class presentations\n\n_Week 15_ Class presentations\n\n_Week 16_ Class presentations /Field Trip\n\n_Week 17_ Field Trip\n\n**_Week 18_****Final Exam**",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "There will be weekly lectures"
+        },
+        {
+            "type": "問題解決教學",
+            "note": "There will be weekly assignments"
+        },
+        {
+            "type": "合作學習",
+            "note": "Discussion through lectures and the class presentations"
+        },
+        {
+            "type": "實驗/實作",
+            "note": "The labs will be weekly assignments"
+        },
+        {
+            "type": "專題研究",
+            "note": "The case studies will be term papers required from each student."
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 10,
+            "note": ""
+        },
+        {
+            "type": "期中考",
+            "weight": 20,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 50,
+            "note": ""
+        },
+        {
+            "type": "報告",
+            "weight": 10,
+            "note": ""
+        },
+        {
+            "type": "專題",
+            "weight": 10,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

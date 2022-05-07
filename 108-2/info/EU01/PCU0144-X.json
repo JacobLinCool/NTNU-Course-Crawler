@@ -1,0 +1,85 @@
+{
+    "year": 108,
+    "term": 2,
+    "name": "學習與教學心理學",
+    "teachers": [
+        "簡郁芩"
+    ],
+    "department": "EU01",
+    "code": "PCU0144",
+    "credit": 3,
+    "serial": 666,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 2,
+            "to": 4,
+            "campus": "本部",
+            "classroom": "教602"
+        }
+    ],
+    "programs": [
+        "PASSION偏鄉教育學程"
+    ],
+    "comment": "",
+    "restrict": "◎必須先修過【PCU0114  教育心理學】、【00UE002  教育心理學（教）】其中一門",
+    "form_s": "2",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程主要介紹學習歷程的重要理論，及應用學習理論分析學習問題，並探討如何以學習理論為基礎進行學科領域教學。",
+    "goals": [
+        "瞭解學習心理學的理論及發展趨勢。",
+        "應用學習心理學的理論分析學習問題。",
+        "瞭解如何應用學習心理學的理論於學科領域教學。"
+    ],
+    "syllabus": "第一週3/03  課程介紹；「學習」的定義\n\n第二週3/10  Ch3. Early Notions about Learning (Olson & Hergenhahn)\n\n第三週3/17  Ch6. Clark Leonard Hull (Olson & Hergenhahn) (一)\n\n第四週3/24  Ch6. Clark Leonard Hull (Olson & Hergenhahn) (二) (※搭配數位教學ZOOM上課)\n\n第五週3/31  Ch10. Gestalt Theory (Olson & Hergenhahn)\n\n第六週4/07  Ch12. Edward Chace Tolman (Olson & Hergenhahn)\n\n第七週4/14  Ch14. Donald Olding Hebb (Olson & Hergenhahn)\n\n第八週4/21  期中考\n\n第九週4/28  《大腦謎思》教學影片和討論；Executive Function (Gazzaniga, et al.) (一)\n\n第十週5/05  Executive Function (Gazzaniga, et al.) (二)\n\n第十一週5/12  Learning to Read Fluently (Mayer, Ch2) (小組報告1)\n\n第十二週5/19  Learning to Read for Comprehension (Mayer, Ch3) (小組報告2)\n\n第十三週5/26  Learning to Write (Mayer, Ch4) (小組報告3)\n\n第十四週6/02  Learning Mathematics (Mayer, Ch5) (小組報告4)\n\n第十五週6/09  Teaching by Giving Productive Feedback (Mayer, Ch7) (小組報告5)\n\n第十六週6/16  期末考\n\n第十七週6/23  電子期刊閱讀與寫作《Learning and Instruction》(Learning主題)\n\n第十八週6/30  電子期刊閱讀與寫作《Learning and Instruction》(Instruction主題)",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "前半學期由老師講解學習與教學心理學的重要理論概念"
+        },
+        {
+            "type": "討論法",
+            "note": "小組討論"
+        },
+        {
+            "type": "合作學習",
+            "note": "小組報告"
+        }
+    ],
+    "grading": [
+        {
+            "type": "期中考",
+            "weight": 30,
+            "note": "以上課內容為主，題型為名詞解釋與簡答題"
+        },
+        {
+            "type": "期末考",
+            "weight": 30,
+            "note": "以上課內容為主，題型為名詞解釋與簡答題"
+        },
+        {
+            "type": "出席",
+            "weight": 20,
+            "note": "無故曠課每次扣學期成績3分，請假請上學校系統。"
+        },
+        {
+            "type": "報告",
+            "weight": 20,
+            "note": "(1)\t每小組自Mayer, R. E. (2008) Learning and instruction (2nd. Ed.) 這本書的2~7章，選擇一章負責導讀。導讀時，需準備ppt及討論問題。各小組報告時間為100~120分鐘，問題討論時間為30~50分鐘。各組的ppt、討論問題、及組內分工表需於報告日期的前2週傳給老師，由老師在小組報告之前先給回饋。各小組準備期間若對於所負責章節內容有疑問，可與老師或教學助理約時間討論。(2)\t每一組的小組報告分數由其他五組及任課老師的評分加以平均，評分的依據為：i. 報告的內容是否清楚，能夠讓聽眾理解（5%），ii. 報告的內容有沒有掌握到該章的重要概念與重要內容（5%），iii. Power point的內容、圖表呈現方式、字體大小等是否清晰，能夠讓中後排的聽眾也看得清楚（5%），iv. 預擬的討論問題有沒有掌握到該章的重點，以及包含理解性、與分析、比較、應用性的問題（5%）。"
+        },
+        {
+            "type": "其他",
+            "weight": 5,
+            "note": "額外加分機會：最多可累加至5分，加分機會如下：(1)課堂討論時，自願發言一次加2分。(2)參與心輔系相關研究，依參與時數酌予加分。"
+        }
+    ],
+    "prerequisite": "◎必須先修過【PCU0114  教育心理學】、【00UE002  教育心理學（教）】其中一門",
+    "general_core": []
+}

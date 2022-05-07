@@ -1,0 +1,91 @@
+{
+    "year": 110,
+    "term": 2,
+    "name": "嵌入式系統",
+    "teachers": [
+        "呂成凱"
+    ],
+    "department": "HM75",
+    "code": "AEC8011",
+    "credit": 3,
+    "serial": 1117,
+    "group": "",
+    "quota": {
+        "limit": 30,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 3,
+            "from": 7,
+            "to": 9,
+            "campus": "本部",
+            "classroom": "多媒體與通訊實驗室"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "",
+    "goals": [
+        "Understand the basic concepts of Embedded Systems",
+        "Familiar with structures of system hardware and is able to expand mem",
+        "Develop skills in problem-solving through assignments/ projects.",
+        "Apply theoretical knowledge to practical problems through assignments/ projects.",
+        "Familiar with various interface circuit principles and technologies",
+        "Effectively and creatively delivers the information to the audience"
+    ],
+    "syllabus": "(16+2 Weeks)\n\n1.   嵌入式系統簡介Introduction to Embedded Systems\n\n2.   嵌入式c语言Simplest Embedded C Program: Variables, Types,\n\n     Arrays,Strings, Pointers, etc.\n\n3.   微處理器與微控制器Microprocessors/Microcontrollers\n\n4.   ARM 架構概述、內存、狀態暫存器ARM Architecture Overview,Memory, Status   \n\n     Register\n\n5.   硬體週邊Hardware Peripherals: Timers, PWM, A/D, Serial, IO ports, and interrupts\n\n     ARM Assembly Programming\n\n6.   即時操作系統Real-time operating system (RTOS)\n\n7.   嵌入式系統中的軟硬體協同設計\n\n     Hardware-software codesign in an embedded system\n\n8.   報告Presentation & report\n\n\\* 表可能會有所變動。\n\n\\* The schedule is subject to change.",
+    "methodologies": [
+        {
+            "type": "Formal lecture",
+            "note": "嵌入式系統概念講座Lectures on concepts of Embedded Systems"
+        },
+        {
+            "type": "Lab/Studio",
+            "note": "給予實作作業Assignments"
+        },
+        {
+            "type": "Case studies",
+            "note": "案例研究及專題報告Cases studies and project reports"
+        }
+    ],
+    "grading": [
+        {
+            "type": "Assignments",
+            "weight": 30,
+            "note": "實踐能力培養practical ability cultivation"
+        },
+        {
+            "type": "Midterm Exam",
+            "weight": 30,
+            "note": "測試基礎概念Test understanding of fundamental concepts"
+        },
+        {
+            "type": "Class discussion involvement",
+            "weight": 5,
+            "note": "課堂參與Involvement"
+        },
+        {
+            "type": "Attendances",
+            "weight": 5,
+            "note": "出席Attendances"
+        },
+        {
+            "type": "Presentation",
+            "weight": 10,
+            "note": "專題報告Project Presentation"
+        },
+        {
+            "type": "Case study reports",
+            "weight": 20,
+            "note": "專題報告Project Report"
+        }
+    ],
+    "prerequisite": "◎Available for junior and senior year B.A. program students (Doctoral program courses excepted) and M.A. program students.",
+    "general_core": []
+}

@@ -1,0 +1,88 @@
+{
+    "year": 110,
+    "term": 1,
+    "name": "資訊管理",
+    "teachers": [
+        "黃浩霆"
+    ],
+    "department": "OM56",
+    "code": "IAM0087",
+    "credit": 3,
+    "serial": 3418,
+    "group": "",
+    "quota": {
+        "limit": 30,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 1,
+            "from": 7,
+            "to": 9,
+            "campus": "本部",
+            "classroom": "雲508"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程不開放上修",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程主要目標係讓管院研究生瞭解如何利用資訊科技提升企業經營管理的效益、效率及提升競爭優勢。包含資訊科技的發展及其與經營管理需求的相互影響、資訊系統的要素、資訊系統規劃與建置、資訊管理於企業經營的應用、如何運用資訊科技提升競爭優勢以及相關的重要議題。",
+    "goals": [
+        "Understand the elements and development of information technology, and its role in business operations",
+        "Understand how to use information technology to enhance competitive advantage, and to plan and develop information systems",
+        "Understand the moral and ethical issues related to information technology",
+        "Cultivate the ability to collaborate with peers to share information technology knowledge with the public"
+    ],
+    "syllabus": "【teaching arrangement：16+2 weeks】\n\nFlexible teaching arrangement: Make an appointment with the teacher within the first 8 weeks to discuss the content of the final group presentation.\n\nWeek 1  Course Introduction\n\nWeek 2  Chapter 1: The Importance of MIS\n\nWeek 3  Public holiday\n\nWeek 4  Chapter 2: Business Process, Information System, and Information\n\nWeek 5  Chapter 3: Organizational Strategy, Information Systems, and Competitive Advantage\n\nWeek 6  Chapter 4: Hardware and Software\n\nWeek 7  \\[Guest Lecture\\] Taiwanese Language and Information System\n\nWeek 8  Mid-term Exam\n\nWeek 9  Chapter 5: The Cloud\n\nWeek 10  Chapter 7: Organizations and Information Systems\n\nWeek 11  \\[Guest Lecture\\] IT Governance\n\nWeek 12  Chapter 11 and 12: Information Systems Management and Development\n\nWeek 13  Chapter 9: Business Intelligence\n\nWeek 14  Final Report Presentation (1)\n\nWeek 15 Final Report Presentation (2)\n\nWeek 16  Final Exam",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "Main topics are provided by the teacher in advance every week, and students are asked to preview the textbook and discuss in class."
+        },
+        {
+            "type": "討論法",
+            "note": "Conduct relevant case discussions with students based on the course content"
+        },
+        {
+            "type": "合作學習",
+            "note": "Cultivate the ability to share information technology knowledge with the public through group presentation"
+        },
+        {
+            "type": "媒體融入教學",
+            "note": "Use short videos to share and discuss the latest technology and knowledge with students"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 15,
+            "note": "Reflective Journal"
+        },
+        {
+            "type": "期中考",
+            "weight": 20,
+            "note": "Test +MCQ design"
+        },
+        {
+            "type": "期末考",
+            "weight": 20,
+            "note": "Test +MCQ design"
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 15,
+            "note": "Students are required to participate in the discussion based on the course content"
+        },
+        {
+            "type": "報告",
+            "weight": 30,
+            "note": "Final group presentation"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

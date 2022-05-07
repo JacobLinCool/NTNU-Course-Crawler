@@ -1,0 +1,81 @@
+{
+    "year": 109,
+    "term": 1,
+    "name": "初級法文（一）",
+    "teachers": [
+        "李曉芸"
+    ],
+    "department": "LU21",
+    "code": "ENU0253",
+    "credit": 2,
+    "serial": 1885,
+    "group": "",
+    "quota": {
+        "limit": 30,
+        "additional": 5
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 8,
+            "to": 9,
+            "campus": "本部",
+            "classroom": "正304"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "2",
+    "classes": "",
+    "dept_group": "",
+    "hours": 2,
+    "description": "訓練學生聽、讀、寫法文的能力以及對於法國文化的認識",
+    "goals": [
+        "訓練學生聽、讀、寫法文的能力以及對於法國相關的及法語系國家文化之認識"
+    ],
+    "syllabus": "1\\. 09/15      Echo A1-Leçon 0-L'alphabet et les salutations\n\n2\\. 09/22      Echo A1-Leçon 1-Comment vous appelez-vous ? Quelle est votre nationalité ?\n\n3\\. 09/29      Vous parlez quelles langues ? Vous habitez où ? La phonétique : les voyelles orales\n\n4\\. 10/06      Vous connaissez Paris ? Vous comprenez le français ? La phonétique : les voyelles nasales\n\n5\\. 10/13      Faire connaissance, tutoyer ou vouvoyer. Les chiffres et nombres.\n\n6\\. 10/20      Les dialogues\n\n7\\. 10/27      La conjugaison : les verbes -er\n\n8\\. 11/03      Révisions\n\n9\\. 11/10      Examen mi-semestriel : écrit 期中筆試\n\n10.11/17     Echo A1-Leçon 2- parler de ses préférences. Qui est-ce ?\n\n11.11/24     Qu'est-ce que c'est ? Le verbe \"avoir\"\n\n12.12/01     L'interrogation : est-ce que...  et quel/quels/quelle/quelles... ? \n\n13\\. 12/08    Est-ce que vous connaissez la France et les pays francophone ? Les verbes \"lire\" et \"écrire\"\n\n14\\. 12/15    Les dialogues\n\n15\\. 12/22    Les adjectifs : masculin ou féminin, singulier ou pluriel\n\n16\\. 12/29    Ecrits et civilisation\n\n17\\. 01/05    Révisions\n\n18\\. 01/12    Examen final oral et écrit 期末口試和筆試",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "法語發音及文法講解"
+        },
+        {
+            "type": "合作學習",
+            "note": "造句與分組對話練習"
+        },
+        {
+            "type": "媒體融入教學",
+            "note": "文化課程與歌曲"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 15,
+            "note": "作業、小考"
+        },
+        {
+            "type": "期中考",
+            "weight": 30,
+            "note": "筆試"
+        },
+        {
+            "type": "期末考",
+            "weight": 30,
+            "note": "口試和筆試"
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 15,
+            "note": "朗讀、回答問題之表現、分組對話練習"
+        },
+        {
+            "type": "出席",
+            "weight": 10,
+            "note": "出席"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

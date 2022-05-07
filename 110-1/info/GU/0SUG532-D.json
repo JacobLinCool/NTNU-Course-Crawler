@@ -1,0 +1,84 @@
+{
+    "year": 110,
+    "term": 1,
+    "name": "大學入門",
+    "teachers": [
+        "賴韻如"
+    ],
+    "department": "GU",
+    "code": "0SUG532",
+    "credit": 2,
+    "serial": 1101,
+    "group": "D",
+    "quota": {
+        "limit": 60,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 3,
+            "from": 3,
+            "to": 4,
+            "campus": "公館",
+            "classroom": "Ｅ201"
+        }
+    ],
+    "programs": [],
+    "comment": "非大一、非本系的學生請先取得授課教師同意，並以授權碼方式加選。",
+    "restrict": "◎限大一修習◎限生科系（學）選修",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 2,
+    "description": "本課程主要以大學新鮮人為主要對象，讓大一學生瞭解大學教育之目的乃有別於高中以前之基礎教育，因此學習方法、態度、生活形式與學習課題皆需重新培養。為擴展課堂以外的教學效果，本課程將配合數位學習平台及校內外各項活動，讓學生能有效運用各方資源。並在課堂討論之雙效之下，使新生能在大學生活之初即培養良好的學習動機與生活態度，並使大學的每一步皆能踏實的朝向自我成長與追求未來生涯走去。",
+    "goals": [
+        "促使學生能夠確立大學目標並具備良好的學習動機與策略。",
+        "讓同學們瞭解大學人際間交往、個人情緒管理等議題，協助其良好地適應大學生活。",
+        "協助同學能在大學生活之初即能養成健康的生活態度。擁有希望的開始，才能讓大學的每一步都朝向自我實現的目標邁進。",
+        "使同學瞭解大學之生涯規劃與就業準備方向，以便日後大學生涯目標之訂定與實踐。"
+    ],
+    "syllabus": "生科系與理學院介紹-系所軟應體及分部周邊環境\n\nIntroduction of Department of Life Science and the College of Science\n\n高中與大學-考驗意志力\n\nThe difference between high school and undergraduate\n\n時間管理-大學生要做的事\n\nTime management\n\n師大資源介紹-圖書館資源，VPN，moodle\n\nResources that you can use\n\n學習方法-你還在臨時抱佛腳嗎?\n\nThe learning methods\n\n生科攻戰守則-原文書的世界\n\nHow to enjoy the textbook\n\n報告製作與實驗記錄-作業也很重要\n\nThe presentation and laboratory record\n\n生科活動介紹-服務與學習\n\nThe life in Department of Life Science\n\n情緒與壓力管理-面對期中考成績\n\nEmotion and stress management\n\n人際關係與溝通技巧-只要我喜歡?\n\nInterpersonal communication\n\n金錢管理-啃老或打工，都是我的錢\n\nFinancial management\n\n職涯規劃—升學篇-UCAN職涯定向測驗; 出國留學否?\n\nCareer development—pursue advanced studies?\n\n職涯規劃—就業篇-業界要的人才\n\nCareer development—obtain employment\n\n生活與法律-生活與網路社群安全\n\nLife and low\n\n智慧財產與法律-智財法與專利\n\nIntellectual property and patent\n\n學術倫理\n\nAcademic integrity\n\n學術參訪\n\nAcademic visit\n\n產業參訪\n\nIndustrial visit",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "一堂介紹一堂討論"
+        },
+        {
+            "type": "討論法",
+            "note": "一堂介紹一堂討論"
+        },
+        {
+            "type": "合作學習",
+            "note": ""
+        },
+        {
+            "type": "實地考察、參訪",
+            "note": "實地參訪"
+        },
+        {
+            "type": "其他",
+            "note": "專家演講、學長姐分享"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 40,
+            "note": ""
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 40,
+            "note": ""
+        },
+        {
+            "type": "出席",
+            "weight": 20,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": [
+        "大學入門"
+    ]
+}

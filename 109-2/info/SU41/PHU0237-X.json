@@ -1,0 +1,81 @@
+{
+    "year": 109,
+    "term": 2,
+    "name": "近代物理學（二）",
+    "teachers": [
+        "陳穎叡"
+    ],
+    "department": "SU41",
+    "code": "PHU0237",
+    "credit": 3,
+    "serial": 2850,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 3,
+            "to": 4,
+            "campus": "公館",
+            "classroom": "Ｓ404"
+        },
+        {
+            "day": 4,
+            "from": 4,
+            "to": 4,
+            "campus": "公館",
+            "classroom": "Ｓ404"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "3",
+    "classes": "2",
+    "dept_group": "",
+    "hours": 3,
+    "description": "介紹二十世紀初期卜朗克「量子論」興起後的物理學內涵。從黑體輻射開始，引介能量的量子化、光子、物質波、粒子和波動的二象性、測不準原理等重要概念，進而介紹薛丁格量子力學，並由此理解原子和原子核的結構和物理性質，另簡述基本粒子和固態物理的一些進展。",
+    "goals": [
+        "瞭解近代物理的發展過程",
+        "熟悉近代物理的理論和實驗",
+        "引導學生探究更精專的物理新知"
+    ],
+    "syllabus": "**(Labled with R. Eisberg textbook chapter number)**  \n**Week 1~2    A review of the hydrogen atom problem and (Chap.7) the** **spin-orbit interaction (Chap.8)**  \n**Week 2~3    Pertubation theory**  \n**Week 4~7    Hartree-Fock theory and Multielectron atoms**  \n**Week 8        Midterm Exam**  \n**Week 9~10   From classical statistics to quantum statistics**  \n**Week 11~12  Examples of fermions and bosons**  \n**Week 13       TBA**  \n**Week 14~16  Molecules ad Solids**  \n**Week 17       Final Exam**",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "黑板書寫，PPT檔案投影。必要時採線上即時視訊教學，或上傳教學內容檔案至moodle，輔以線上討論。"
+        },
+        {
+            "type": "討論法",
+            "note": "近代物理學(二)必然發生許多課堂討論"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 35,
+            "note": "因本課程作業重要性高，以學生親自設法完成作業為主要目標，並鼓勵提出疑問來討論"
+        },
+        {
+            "type": "期中考",
+            "weight": 30,
+            "note": "期中考，採筆試"
+        },
+        {
+            "type": "期末考",
+            "weight": 30,
+            "note": "期末考，採口試"
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 5,
+            "note": "實際出席與參與討論之程度"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

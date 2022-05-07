@@ -1,0 +1,71 @@
+{
+    "year": 110,
+    "term": 1,
+    "name": "生物資訊應用程式語言",
+    "teachers": [
+        "沈林琥"
+    ],
+    "department": "SU43",
+    "code": "BIC9013",
+    "credit": 3,
+    "serial": 2970,
+    "group": "",
+    "quota": {
+        "limit": 60,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 3,
+            "from": 10,
+            "to": 12,
+            "campus": "公館",
+            "classroom": "理圖807"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "",
+    "classes": "9",
+    "dept_group": "",
+    "hours": 3,
+    "description": "使學生熟悉生物資訊之應用程式語言，並具備利用程式語言解決生物資訊範疇問題之能力。",
+    "goals": [
+        "熟悉生物資訊之應用程式語言"
+    ],
+    "syllabus": "**Introduction**\n\n**Python Language-**\n\n**Program’s environment, download and installation**\n\n**Programming in Python-I**\n\n**Programming in Python-II**\n\n**Programming in Python-III**\n\n**Programming in Python-IV**\n\n**Python in bioinformatics-I**\n\n**Python in bioinformatics-II**\n\n**Mid-term Exam**\n\n**Regular Expression**\n\n**Function**\n\n**Module**\n\n**Final report and discussion**\n\n**Final report and discussion**\n\n**Final report and discussion**\n\nFlexible supplementary teaching-I\n\nFlexible supplementary teaching-II",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": ""
+        },
+        {
+            "type": "媒體融入教學",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "期中考",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 40,
+            "note": ""
+        },
+        {
+            "type": "報告",
+            "weight": 30,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

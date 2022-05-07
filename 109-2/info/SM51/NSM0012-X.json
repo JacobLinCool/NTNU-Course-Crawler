@@ -1,0 +1,83 @@
+{
+    "year": 109,
+    "term": 2,
+    "name": "營養諮詢與教育",
+    "teachers": [
+        "盧立卿"
+    ],
+    "department": "SM51",
+    "code": "NSM0012",
+    "credit": 3,
+    "serial": 2732,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 1,
+            "from": 6,
+            "to": 8,
+            "campus": "公館",
+            "classroom": "Ｓ604"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程不開放上修",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "課程介紹國內外營養教育與營養諮詢歷史及發展現況。使用各種英文營養教育及營養諮詢相關文獻提供研究生深度探討相關議題及練習個案分析。",
+    "goals": [
+        "培養深度之營養諮詢與教育能力",
+        "培養提供相關營養服務之能力",
+        "培養相關跨領域合作能力",
+        "培養營養諮詢職業倫理"
+    ],
+    "syllabus": "Week Topic Reading   \n1 Overview of nutrition education #1 Contento 3   \n2 Overview of nutrition counseling   \n(nutrition therapy) #2 Helm 1   \n3 Counseling and learning #3 Helm 2   \n4 The meaning of food #4 Curry 2   \n5 Problem solving method I #5 Curry 3   \n6 Problem solving method II #5 Curry 3   \n7 Nutrition counseling strategies I #6 Curry 4   \n8 Nutrition counseling strategies II #6 Curry 4   \n9 Midterm week: discuss the midterm assignment   \n10 Nutrition counseling strategies III #6 Curry 4   \n11 Theories in psychology and counseling I #7 Curry 5   \n12 Theories in psychology and counseling II   \nDiscuss the on-going case studies #7 Curry 5   \n13 Theories in psychology and counseling III   \nDiscuss the on-going case studies #7 Curry 5   \n14 Theories in psychology and counseling IV   \nDiscuss the on-going case studies #7 Curry 5   \n15 Counseling for eating disorders   \nDiscuss the on-going case studies #8 Herrin 1 and 2   \n16 Counseling for diseases: obesity, CVD, DM, hypertension, renal disease, cancers   \nDiscuss the on-going case studies Snetselaar   \n衛生署手冊   \n17 Final report due Snetselaar   \n衛生署手冊   \n18 Final discussion Snetselaar   \n衛生署手冊",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "講述營養教育文獻及發展資料（可說明實施細節"
+        },
+        {
+            "type": "討論法",
+            "note": "討論個案"
+        },
+        {
+            "type": "問題解決教學",
+            "note": "分析解決個案飲食行為問題"
+        },
+        {
+            "type": "實驗/實作",
+            "note": "實際從事4個個案諮詢"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 40,
+            "note": "4 case studies including weight control, diabetes, emotion (eating disorders), chronic diseases by using problem solving or SOAP note"
+        },
+        {
+            "type": "期中考",
+            "weight": 20,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 30,
+            "note": "Final report: write up a 5-page report to summary your learning from reading and case studies"
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 10,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

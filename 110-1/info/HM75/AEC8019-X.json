@@ -1,0 +1,83 @@
+{
+    "year": 110,
+    "term": 1,
+    "name": "視訊通訊",
+    "teachers": [
+        "葉家宏"
+    ],
+    "department": "HM75",
+    "code": "AEC8019",
+    "credit": 3,
+    "serial": 1193,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 6,
+            "to": 8,
+            "campus": "本部",
+            "classroom": "工511"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "",
+    "goals": [
+        "Build theoretical concepts of Video Communication",
+        "Understand current situation in the market of Video Communication",
+        "Build ability to implement application of video communication"
+    ],
+    "syllabus": "【授課方式：16+2週】  \nWeek 1 – Course introduction: goals and requirements  \nWeek 2 – Introduction  \nWeek 3 – Basic digital video coding and its applications in communication  \nWeek 4 – Compression fundamental  \nWeek 5 – International still image coding standard  \nWeek 6 – Motion estimation/compression and hybrid coding system (1/2)  \nWeek 7 – Motion estimation/compression and hybrid coding system (2/2)  \nWeek 8 – Discussion: midterm project  \nWeek 9 – H.264 video coding standards (1/2)  \nWeek 10 – H.264 video coding standards (2/2)  \nWeek 11 – Scalable video coding (1/2)  \nWeek 12 – Scalable video coding (2/2)  \nWeek 13 – Digital video communication and error concealment/resilience  \nWeek 14 – Digital video transcoding  \nWeek 15 – Discussion: current research topics  \nWeek 16 – Final exam  \nWeek 17 – Self-directed learning  \nWeek 18 – Self-directed learning",
+    "methodologies": [
+        {
+            "type": "Formal lecture",
+            "note": "講解視訊通訊之原理、歷史與未來發展及相關應用。"
+        },
+        {
+            "type": "Group discussion",
+            "note": "以專題報告方式進行專業知識討論與交流。"
+        },
+        {
+            "type": "Lab/Studio",
+            "note": "以程式實作方式了解視訊通訊之原理及應用。"
+        }
+    ],
+    "grading": [
+        {
+            "type": "Assignments",
+            "weight": 30,
+            "note": "程式實作。"
+        },
+        {
+            "type": "Final exam",
+            "weight": 30,
+            "note": "課程專業知識之期末測驗。"
+        },
+        {
+            "type": "Class discussion involvement",
+            "weight": 5,
+            "note": "課堂參與與上課表現。"
+        },
+        {
+            "type": "Attendances",
+            "weight": 5,
+            "note": "出席狀況。"
+        },
+        {
+            "type": "Presentation",
+            "weight": 30,
+            "note": "課程專業知識之口頭報告。"
+        }
+    ],
+    "prerequisite": "◎Available for junior and senior year B.A. program students (Doctoral program courses excepted) and M.A. program students.",
+    "general_core": []
+}

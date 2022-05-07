@@ -1,0 +1,83 @@
+{
+    "year": 108,
+    "term": 1,
+    "name": "地理學方法論",
+    "teachers": [
+        "王文誠"
+    ],
+    "department": "LD23",
+    "code": "GED0003",
+    "credit": 2,
+    "serial": 1599,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 10,
+            "to": 11,
+            "campus": "本部",
+            "classroom": "教室自排"
+        }
+    ],
+    "programs": [],
+    "comment": "上課教室：文學院勤9F地理系研討室六。",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 2,
+    "description": "This course focuses on five aspects: the meaning of research, logic in research, research design, data acquisition and analysis, and thesis writing. Each of the aspects is illustrated as the follows:\n\nUnit 1: Meaning of Research: \nNeed for scientific research, types of research, approaches to geographical research:  identification fields, sub fields and themes.\n\nUnit 2: Logic in Research: \nInductive vs. reductive approaches; hypotheses, concepts and facts, principles, law, theory and their implications in geographical research and trends in geography.\n\nUnit 3: Research Design:\nSelection of the topic; statement of the problem; formulation of hypotheses and testing; views and theories; literature survey and the role of internet and bibliography; time schedule.\n\nUnit 4: Data Acquisition and Analysis: \nCollection of data; sources of data: primary and secondary; structuring the data; data transformation; sampling techniques; interpret the results; quantitative revolution in geography; qualitative methods and changes in geographical research.\n\nUnit 5: Thesis Writing:\nOrganization of the thesis: the preliminaries, the text and the reference materials – drafting of thesis: first, second and final – final evaluation; language and presentation (form and style); writing of abstract, research papers for seminar and journal publications.",
+    "goals": [
+        "認識地理學研究設計與相適應的方法論之關係與重要性",
+        "熟習地理學方法論的重要發展與理路",
+        "能依據研究主題與目標而設定研究方法與實踐規劃",
+        "能具體設計並實踐研究所需的步驟並實踐之"
+    ],
+    "syllabus": "這個課程將以全英文上課。\n\n教學主題包括：  \n  \n1 Meaning of Research 研究的意義\n\n2 Logic in Research 研究的邏輯\n\n3 Research Design 研究設計\n\n4 Data Acquisition and Analysis 資料取得與分析\n\n5 Thesis writing論文寫作\n\n教學進度：\n\n週別  主要教學內容\n\n1 Meaning of Research – for scientific reasons\n\n2 Meaning of Research – For societal reasons\n\n3 Meaning of Research – for curiosity reason\n\n4 Logic in research (1)\n\n5 Logic in research (2)\n\n6 Pursuing after the grey hare\n\n7 Research design as an exercise of value validating\n\n8 Research design for scientific reasons\n\n9 Data acquisition (1)\n\n10 Data acquisition (2)\n\n11 Data analysis (1) quantification\n\n12 Data analysis (2) qualification\n\n13 Data analysis (3) triangulation\n\n14 Thesis Writing\n\n15 Research case sharing (1)\n\n16 Research case sharing (2)\n\n17 Research case sharing (3)\n\n18 Research case sharing (4)",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "課堂講授與討論"
+        },
+        {
+            "type": "討論法",
+            "note": "期中報告討論"
+        },
+        {
+            "type": "實地考察、參訪",
+            "note": "野外實察"
+        },
+        {
+            "type": "專題研究",
+            "note": "期末報告寫作與投稿"
+        }
+    ],
+    "grading": [
+        {
+            "type": "期中考",
+            "weight": 20,
+            "note": "期中報告(主要為研究問題確定，文獻回顧，研究設計)"
+        },
+        {
+            "type": "期末考",
+            "weight": 30,
+            "note": "期末報告(研究與寫作完成)"
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 10,
+            "note": "討論參與(課堂參與)"
+        },
+        {
+            "type": "報告",
+            "weight": 40,
+            "note": "野外實察報告(關於研究議題的野外工作)"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

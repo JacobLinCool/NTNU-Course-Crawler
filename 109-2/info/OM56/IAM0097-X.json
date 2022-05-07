@@ -1,0 +1,77 @@
+{
+    "year": 109,
+    "term": 2,
+    "name": "企業風險管理",
+    "teachers": [
+        "何宗武"
+    ],
+    "department": "OM56",
+    "code": "IAM0097",
+    "credit": 3,
+    "serial": 2459,
+    "group": "",
+    "quota": {
+        "limit": 30,
+        "additional": 1
+    },
+    "schedule": [
+        {
+            "day": 5,
+            "from": 2,
+            "to": 4,
+            "campus": "本部",
+            "classroom": "教室自排"
+        }
+    ],
+    "programs": [],
+    "comment": "上課地點：雲和街502教室",
+    "restrict": "◎課程不開放上修",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "企業經營面臨的風險與管理技術。學習重點有4：第1. 企業風險意義，種類和測量，涵蓋市場環境，營運和財務。第2. 企業風險診斷書(Risk Profile)的建立與組織內的風險溝通。第3. 效率前緣法(Efficiency Frontier)的使用。第4. Enterprise risk management 和 Strategic risk management。第5. 多個國際企業ERM個案研究。",
+    "goals": [
+        "國際企業風險管理個案研究",
+        "為企業建立風險診斷書",
+        "從企業風險管理到策略風險管理"
+    ],
+    "syllabus": "****學習目標****\n\n應用上強調風險管理工具如何應用在企業風險管理，側重策略風險管理。學習目標有二：\n\n其一：學習如何使用DMAIC五個風險管理工具到策略風險管理，以及使用R語言實做風險分析；\n\n其二：風險管理的目標在於降低不確定與衍生之風險，故我們將學習企業組織的交易成本理論。\n\n******學習內容******\n\n2/26：課程介紹-- 組織理論和 DMAIC 風險管理工具\n\n3/5：什麼是策略風險管理？-- 從樂高公司案例談起\n\n3/12：**Define** Phase: Process Map and Loss Function/HS Ch. 1\n\n3/19：  Con’t/ HS Ch.2\n\n3/26：**Measure** Phase: Pareto Principle and Process Capability/ HS Ch.3\n\n**4/2****：**                                    **放假**\n\n4/9：   Con’t/ HS Ch.4\n\n4/16：**Analyze** Phase: Charting, Prob.&Stat./ HS Ch.5\n\n4/23：  Con’t/ HS Ch.6\n\n4/30：**Improve** Phase: Experiment design/ HS Ch.7\n\n5/7：   Con’t/ HS Ch.8\n\n5/14：**Control** Phase: Process control/ HS Ch. 9\n\n5/21：DMAIC framework for SRM; 筆試考題說明複習\n\n5/28：筆試\n\n6/4：什麼是策略風險管理？-- 案例研討\n\n6/11：分組個案報告\n\n6/18：分組個案報告\n\n**評分**\n\n40 =  筆試\n\n30 =  DMAIC 作業\n\n30 =  期末分組個案報告（企業數位轉型的風險管理）",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "詳細說明風險類型"
+        },
+        {
+            "type": "討論法",
+            "note": "企業的策略風險診斷"
+        },
+        {
+            "type": "問題解決教學",
+            "note": "實做"
+        },
+        {
+            "type": "專題研究",
+            "note": "跨國企業風險管理個案研究"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 30,
+            "note": "DMAIC 實作 (R language)"
+        },
+        {
+            "type": "期中考",
+            "weight": 40,
+            "note": "基本觀念"
+        },
+        {
+            "type": "期末考",
+            "weight": 30,
+            "note": "分組報告"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

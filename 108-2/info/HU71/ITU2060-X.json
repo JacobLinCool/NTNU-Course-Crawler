@@ -1,0 +1,83 @@
+{
+    "year": 108,
+    "term": 2,
+    "name": "電腦輔助設計與製造",
+    "teachers": [
+        "朱俊霖"
+    ],
+    "department": "HU71",
+    "code": "ITU2060",
+    "credit": 3,
+    "serial": 1180,
+    "group": "",
+    "quota": {
+        "limit": 30,
+        "additional": 5
+    },
+    "schedule": [
+        {
+            "day": 3,
+            "from": 16,
+            "to": 11,
+            "campus": "本部",
+            "classroom": "教404"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎限大三修習",
+    "form_s": "3",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程將指導學生熟悉電腦輔助設計及製造 (CAD/CAM)在產品設計開發與製造上的應用，並以軟體作為設計與製造工具，使其學生了解在工程設計領域產業的動向及應用發展，將利用檔案轉換至機台上進行製作，並了解目前電腦輔助製造所包含的技術與工具。",
+    "goals": [
+        "培養學生對於電腦輔助設計與製造的具體概念，以實際案例、實機操作之訓練方式來加強學生軟體技能",
+        "培養學生基本繪圖、造型設計能力及創意設計能力",
+        "以CNC等教學輔具來輔助學生對量產可行性之觀念建立與學習",
+        "訓練學生生具備相當程度的CAD/CAM能力",
+        "訓練學生生具備相當程度的CAD/CAM能力。"
+    ],
+    "syllabus": "授課進度與大綱（Outline/Schedule of Course）：\n\n第一週：      \n\nCAD/CAM/CAE與RP/RT/RE演進與應用、快速成型的程序\n\nThe 1st week：     \n\nIntroduction to CAD/CAM/CAE/RP/RE/RT\n\n第二週：      \n\n各類成型系統、STL資料格式、3D列表機\n\nThe 2nd week：   \n\nGeneral introduction to various manufacturing process, 3D printer\n\n       第二週教材相關網址：\n\n第三週：      \n\n成型應用在工程分析與機械元件專題設計\n\nThe 3rd week：    \n\nEngineering analysis and component design in prototyping\n\n 第四週：    \n\n成型與逆向工程結合的應用-工業\n\nThe 4th week：    \n\nIndustry application in prototyping\n\n第五週：      \n\n成型與逆向工程結合的應用-醫學\n\nThe 5th week：    \n\nMedical application in prototyping\n\n第六週：      \n\n成型與逆向工程結合的應用-半導體\n\nThe 5th week：    \n\nSemiconductor application in prototying\n\n第七週：      \n\n分析軟體操作－2D系統、3D實體造型－Protrusion、Cut\n\nThe 6th week：    \n\nComputer Software 2D、3D－Protrusion、Cut\n\n第八週：      \n\n分析軟體特徵－extrude、revolve、sweep、blend\n\nThe 7th week：    \n\nComputer Software  feature－extrude、revolve、sweep、blend\n\n 第八週：    \n\n分析軟體特徵 特徵－圓角、導角、孔、肋、薄殼\n\nThe 8th week：    \n\nComputer Software－round、chamfer、hole、rib、shell\n\n       第九週：      \n\n期中考\n\nThe 9th week：    \n\nmidterm test\n\n 第十週：    \n\n進階－螺旋、拔模\n\nThe 10th week：  \n\nComputer Software advanced practice－screw, molding\n\n       第十週教材相關網址：\n\n第十一週：  \n\n進階設計\n\nThe 11th week：  \n\nadvanced design\n\n第十二週：  \n\n曲面\n\nThe 12th week：  \n\nComputer Software surface drawing\n\n       第十二週教材相關網址：\n\n第十三週：  \n\n曲面精修－I\n\nThe 13th week：  \n\nComputer Software surface refinery－I\n\n       第十三週教材相關網址：\n\n第十四週：  \n\n曲面精修－II\n\nThe 14th week：  \n\nComputer Software surface refinery－II\n\n       第十四週教材相關網址：\n\n第十五週：  \n\n綜合練習\n\nThe 15th week：  \n\ncomprehensive practice\n\n       第十五週教材相關網址：\n\n第十六週：  \n\n成型與逆向工程結合的應用\n\nThe 16th week：  \n\nApplication of rapid prototyping and reverse engineering\n\n       第十六週教材相關網址：\n\n第十七週：  \n\n3D 快速成型機實作\n\nThe 17th week：  \n\n3D printer practical training\n\n       第十七週教材相關網址：\n\n第十八週：  \n\n期末考及繳交專題\n\nThe 18th week：  \n\nfinal test and project turn-in\n\n       第十八週教材相關網址：  \n  \n\\-----------------------------------------------------------\n\n**教學方法:**Students will learn how to use numerical methods to solve and simulate practical problems with emphasis on analysis, algorithm, and implementation. Specifically, students will possess to be capable of performing programming in AUTOCAD or some other basic computer aided design, e.g. Pro/e, Solidworks, UG, and CATIA and so on, including writing procedures, importing/exporting data to a file, and working with various data types.\n\n  \n\\----------------------------------------------------------------------------\n\n**評量方法****:**\n\nStudents are expected to submit your assignments, personal and the group project but attending the class. The final report is very restricted, so there is no chance to adjust your final report (total grade). Please sincerely consider this issue. If you could not accept the policies of this course, please do not consider to take this course.",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "電腦輔助設計與製造相關機具操作與理論分析之介紹"
+        },
+        {
+            "type": "討論法",
+            "note": "透過分組討論推演至最後的結果，可獨立分析判斷的訓練"
+        },
+        {
+            "type": "實驗/實作",
+            "note": "軟硬體之設計應用實務"
+        },
+        {
+            "type": "媒體融入教學",
+            "note": "簡報、軟體操作示範廣播、作品欣賞"
+        },
+        {
+            "type": "專題研究",
+            "note": "專業理論知識應用工業，以啟發學生學以致用的重要性"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 40,
+            "note": "Assignments"
+        },
+        {
+            "type": "期中考",
+            "weight": 30,
+            "note": "Personal Project"
+        },
+        {
+            "type": "期末考",
+            "weight": 30,
+            "note": "Group Project"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

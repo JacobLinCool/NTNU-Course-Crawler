@@ -1,0 +1,73 @@
+{
+    "year": 110,
+    "term": 2,
+    "name": "基礎量子力學（二）",
+    "teachers": [
+        "陸健榮"
+    ],
+    "department": "SU41",
+    "code": "PHU0269",
+    "credit": 3,
+    "serial": 2826,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 3,
+            "from": 6,
+            "to": 8,
+            "campus": "公館",
+            "classroom": "Ｓ303"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "4",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "介紹量子力學的基本原理、觀念、計算方法和主要應用，使學生更深入了解近代物理。",
+    "goals": [
+        "了解量子力學的基本原理、觀念",
+        "加強理性思維能力",
+        "簡介物理新知"
+    ],
+    "syllabus": "CH7 Harmonic Oscillator: 3 (3) weeks  9 Hrs\n\n1\\. Quantization of the Oscillator in Coordinate Basis\n\n2\\. Quantization of the Oscillator in Energy Basis\n\n3\\. Passage from the Energy Basis to the X Basis\n\nCH9 Heisenberg Uncertainty Relations: 1(4) weeks 3Hrs\n\n4\\. Derivation and Application of Uncertainty Relations\n\nCH11 Symmetries and Their Consequences: 1(5) week 3hrs\n\n5\\. Invariances in Quantum Theory\n\nCH12 Rotational Invariance and Angular Momentum: 4 (9)weeks 12hrs\n\n6\\. Rotations in Two Dimensions\n\n7\\. The Eigenvalue Problem of LZ\n\n8\\. Angular Momentum in Three Dimensions\n\n9\\. Midterm Examination\n\nCH13 The Hydrogen Atom: 2 (11) weeks 6Hrs\n\n10\\. The Eigenvalue Problem\n\n11\\. The Degeneracy of the Hydrogen Spectrum  Multielectron Atoms and the Periodic Table\n\nCH14 Spin: 2 (13) weeks 6Hrs\n\n12\\. Kinematics of Spin\n\n13\\. Spin Dynamics\n\nCH17 Time-Independent Perturbation: 2 (15) weeks 6Hrs\n\n14\\. The Formulism\n\n15\\. Some Examples\n\nCH18 Time-Dependent Perturbation: 3 (18) weeks 6Hrs\n\n16\\. The Problem\n\n17\\. First-Order Perturbation Theory\n\n18.  Final Examination",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "挑選重要基礎主題講授"
+        },
+        {
+            "type": "討論法",
+            "note": "課堂提問討論"
+        },
+        {
+            "type": "問題解決教學",
+            "note": "解決特選問題"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "期中考",
+            "weight": 35,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 35,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

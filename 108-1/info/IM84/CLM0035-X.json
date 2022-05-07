@@ -1,0 +1,63 @@
+{
+    "year": 108,
+    "term": 1,
+    "name": "學術議題研討 （一）",
+    "teachers": [
+        "陳麗宇"
+    ],
+    "department": "IM84",
+    "code": "CLM0035",
+    "credit": 1,
+    "serial": 1400,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 5,
+            "from": 8,
+            "to": 8,
+            "campus": "本部",
+            "classroom": "教室自排"
+        }
+    ],
+    "programs": [],
+    "comment": "上課教室：綜10樓華語系教室",
+    "restrict": "允許重複修 ◎課程不開放上修",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 1,
+    "description": "此門課是華語教學系主辦的平均兩週一次的學術研討會 (次數通常會更多，但盡量避開期末時間舉行)，每次1.5-2小時。每次邀請一位專家學者前來進行學術演講。",
+    "goals": [
+        "To be able to understand the basic principles and themes in linguistics, psychology, second language acquisition.",
+        "To be able to develop a research hypothesis on a particular domain of language teaching, learning, and second language acquisition."
+    ],
+    "syllabus": "第一週9/13 中秋節  \n第二週9/20 師生相互認識、課程介紹  \n第三週9/27  任弘教授  \n第四週10/4（彈性時間）  \n第五週10/11 國慶日調整放假  \n第六週10/18（彈性時間）  \n第七週10/25（彈性時間）  \n第八週11/1  鍾鎮城教授  \n第九週11/8  戴浩一教授  \n第十週11/15 林文韵教授  \n第十一週11/22 研討會專題演講  \n第十二週11/29 陶紅印教授  \n第十三週12/6  蔡維天教授  \n第十四週12/13 陳仁富教授  \n第十五週12/20（彈性時間）  \n第十六週12/27（彈性時間）  \n第十七週1/3   李欣欣教授  \n第十八週1/10  總結",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "由學者專家以特定主題進行演講"
+        },
+        {
+            "type": "討論法",
+            "note": "學生於演講中或演講後提問並討論"
+        }
+    ],
+    "grading": [
+        {
+            "type": "出席",
+            "weight": 50,
+            "note": "準時出席至少8次演講，並全程聆聽參與。完成8次者得分50%，未完成8次者得分0%。"
+        },
+        {
+            "type": "報告",
+            "weight": 50,
+            "note": "每次聆聽演講後繳交一頁心得報告，共8份心得報告。全部繳交者得分50%，未全部繳交者得分0%。"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

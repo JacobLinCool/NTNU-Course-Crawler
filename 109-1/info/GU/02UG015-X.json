@@ -1,0 +1,84 @@
+{
+    "year": 109,
+    "term": 1,
+    "name": "生物哲學導論",
+    "teachers": [
+        "林陳涌"
+    ],
+    "department": "GU",
+    "code": "02UG015",
+    "credit": 2,
+    "serial": 971,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 4,
+            "from": 8,
+            "to": 9,
+            "campus": "公館",
+            "classroom": "理圖001"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 2,
+    "description": "介紹生物哲學的重要議題，探討生命科學與物質科學的異同，應用生物哲學到社會議題的討論。",
+    "goals": [
+        "釐清生物科學與物質科學的異同",
+        "介紹生物哲學重要議題",
+        "探討生物哲學應用的案例"
+    ],
+    "syllabus": "01\n\n課程介紹\n\n02\n\n哲學教育簡介\n\n03\n\n生命與機械：生機論、機械論\n\n04\n\n生物(命)體與物質：有機生物論\n\n05\n\n本質主義 vs. 族群觀點\n\n06\n\n生物體：整體論 有機生物論\n\n07\n\n生物體：組織觀點\n\n08\n\n生物體：組織觀點\n\n09\n\n化約主義 vs. 突顯 (辯論規則)\n\n期中考試週\n\n10\n\n甚麼是科學：科學知識\n\n11\n\n甚麼是科學：科學方法\n\n12\n\n甚麼是科學：企業\n\n13\n\n因果關係、決定論與自由意志\n\n14\n\n因果關係、決定論與自由意志\n\n15\n\n目的論解釋\n\n16\n\n期末報告\n\n17\n\n期末報告\n\n18\n\n**期末考**",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "教師依照教科書內容講述"
+        },
+        {
+            "type": "討論法",
+            "note": "依照主題設計題目供課堂討論"
+        },
+        {
+            "type": "合作學習",
+            "note": "分組執行研究"
+        },
+        {
+            "type": "專題研究",
+            "note": "自選題目進行研究與報告"
+        }
+    ],
+    "grading": [
+        {
+            "type": "期末考",
+            "weight": 40,
+            "note": ""
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 10,
+            "note": ""
+        },
+        {
+            "type": "出席",
+            "weight": 10,
+            "note": ""
+        },
+        {
+            "type": "報告",
+            "weight": 40,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": [
+        "社會科學"
+    ]
+}

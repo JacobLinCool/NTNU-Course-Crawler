@@ -1,0 +1,78 @@
+{
+    "year": 108,
+    "term": 2,
+    "name": "偏微分方程導論（一）",
+    "teachers": [
+        "陳瑞堂"
+    ],
+    "department": "SU40",
+    "code": "MAC0132",
+    "credit": 3,
+    "serial": 2651,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 6,
+            "to": 8,
+            "campus": "公館",
+            "classroom": "數學館310研討室"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "",
+    "classes": "9",
+    "dept_group": "",
+    "hours": 3,
+    "description": "在本課程談論偏微分方程的解法、解的性質及其應用，並研讀相關研究論文。",
+    "goals": [
+        "讓學生瞭解偏微分方程的一些基本理論",
+        "認識其他領域所推導出的方程並瞭解在數學分析的背後原始問題的意義",
+        "讓學生瞭解偏微分方程的理論"
+    ],
+    "syllabus": "偏微分方程產生於許多科學和工程建模過程中。其興起已經有兩百多年的歷史了，  \n由起初研究物理與幾何的問題發展到一個獨立的數學分支，內容龐雜、方法多樣。  \n偏微分方程討論的問題不但和物理、力學、生物、幾何和化學等學科的問題做連結  \n，而且在解決這些問題時應用了許多現代工具。近幾年來，該領域的研究，發展蓬  \n勃，是理工科系大學生和研究生值得去學習和研究的課程。\n\n1\\. Laplace\\`s equation (4週)\n\n2\\. Heat equation (4週)\n\n3\\. Wave equation (4週)\n\n4\\. Linear and nonlinear elliptic equations (4週)\n\n此課程線上教學，第十七、十八週由學生自主學習。",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": ""
+        },
+        {
+            "type": "實驗/實作",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 40,
+            "note": ""
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 20,
+            "note": ""
+        },
+        {
+            "type": "出席",
+            "weight": 10,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

@@ -1,0 +1,85 @@
+{
+    "year": 109,
+    "term": 1,
+    "name": "統計計算（一）",
+    "teachers": [
+        "蔡碧紋"
+    ],
+    "department": "SU40",
+    "code": "MAC0117",
+    "credit": 3,
+    "serial": 2794,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 5,
+            "from": 6,
+            "to": 8,
+            "campus": "公館",
+            "classroom": "數學館M210"
+        }
+    ],
+    "programs": [
+        "理工實作學程"
+    ],
+    "comment": "",
+    "restrict": "",
+    "form_s": "",
+    "classes": "9",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程介紹統計計算的基本方法及其統計原理，讓學生學習研究方法中常用的統計模擬的實驗技巧，培養學生利用統計計算\n與模擬的方法解決具體問題的能力。",
+    "goals": [
+        "建構推論統計學的理論基礎",
+        "奠定未來資料分析應用實務之基礎",
+        "培養解決統計問題的能力",
+        "習慣並掌控不確定的世界"
+    ],
+    "syllabus": "統計計算課程介紹如何利用統計計算與模擬的基本方法及技巧來進行統計分析。講解如何藉由電腦軟體產生隨機變數，及利用電腦軟體進行數值計算的步驟及應用。\n\n*   Introduction to Statistical Computing and R\n    \n*   Review of Probability and Some R\n    \n*   Sampling distribution and Statistical Inference\n    \n*   Testings and Permutation test\n    \n*   Simulation: Discrete and Continuous Random number generation\n    \n*    Simulation: Discrete and Continuous Random number generation\n    \n*   Monte Carlo integration\n    \n*   Variance reduction technique\n    \n*   Importance Sampling\n    \n*   Optimization\n    \n*   Maximum Likelihood Estimation\n    \n*   Expectation-Maximization (EM) algorithm\n    \n*   Mixture Model \n    \n*   Bayesian Estimation\n    \n*   Bayesian Estimation\n    \n*   Markov Chain Monte Carlo methods\n    \n*   Project",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": ""
+        },
+        {
+            "type": "實驗/實作",
+            "note": "上機演練"
+        },
+        {
+            "type": "專題研究",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 40,
+            "note": ""
+        },
+        {
+            "type": "期中考",
+            "weight": 20,
+            "note": ""
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 10,
+            "note": "程式撰寫"
+        },
+        {
+            "type": "報告",
+            "weight": 30,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

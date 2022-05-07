@@ -1,0 +1,85 @@
+{
+    "year": 109,
+    "term": 1,
+    "name": "複變數函數論",
+    "teachers": [
+        "李華介"
+    ],
+    "department": "SU40",
+    "code": "MAU0013",
+    "credit": 3,
+    "serial": 2849,
+    "group": "B",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 2,
+            "to": 2,
+            "campus": "公館",
+            "classroom": "Ｃ002"
+        },
+        {
+            "day": 5,
+            "from": 3,
+            "to": 4,
+            "campus": "公館",
+            "classroom": "Ｃ002"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎必須先修過【MAU0179  微積分甲（二）】、【MAU0181  微積分乙（二）】其中一門",
+    "form_s": "3",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "複變數函數論一方面在銜接高中數學的基礎上，介紹複數幾何、複變數函數等基本知識；另一方面介紹複變數函數的微分、積分、級數、留數的概念與應用，以奠定複變分析的基礎。",
+    "goals": [
+        "培養數學專業能力",
+        "連結數學與其他學科",
+        "以高觀點觀察、解決專業問題"
+    ],
+    "syllabus": "1. Analysis in the complex plane (3 weeks)\n\n2. The fundamental theorems of complex analysis (3 weeks)\n\n3. Functions on the plane and on the sphere (3 weeks)\n\n4. Integral formulas, residues, and applications (3 weeks)\n\n5. Non-elementary functions (3 weeks)\n\n6. Holomorphic maps: Geometric aspects (3 weeks)",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "講述重要概念與理論"
+        },
+        {
+            "type": "討論法",
+            "note": "不時提出問題與學生互動討論, 學生需參與問題討論"
+        },
+        {
+            "type": "問題解決教學",
+            "note": "學生互相提出問題"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 20,
+            "note": "平時作業包括課本習題以及課堂上所提問的問題"
+        },
+        {
+            "type": "期中考",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 20,
+            "note": "參與討論及提問的次數為依據"
+        }
+    ],
+    "prerequisite": "◎必須先修過【MAU0179  微積分甲（二）】、【MAU0181  微積分乙（二）】其中一門",
+    "general_core": []
+}

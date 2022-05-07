@@ -1,0 +1,79 @@
+{
+    "year": 109,
+    "term": 2,
+    "name": "營養生化（一）",
+    "teachers": [
+        "吳啟豪"
+    ],
+    "department": "SU51",
+    "code": "NSU0033",
+    "credit": 3,
+    "serial": 3003,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 15
+    },
+    "schedule": [
+        {
+            "day": 4,
+            "from": 2,
+            "to": 4,
+            "campus": "公館",
+            "classroom": "Ｓ505"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎必須先修過【NSU0007  營養學（二）】、【NSU0009  生物化學】",
+    "form_s": "2",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程以講演、討論進行，藉由師大數位學習平台的實施機制，協助學習者了解人體從細胞至消化道系統及巨量營養素於新陳代謝中扮演之角色與能量代謝之功能，分階段探討醣類、脂質與蛋白質之代謝路徑，介紹上述營養素於人體新陳代謝中扮演之角色與能量代謝之功能。",
+    "goals": [
+        "介紹巨量營養素與部分水溶性維生素新陳代謝中之生化生理功能",
+        "探討Krebs Cycle, Cori Cycle, & Glucose Alanine Cycle 之代謝路徑",
+        "學習神經傳導物質之生成與影響",
+        "認識蛋白質體與基因體之基本關係"
+    ],
+    "syllabus": "1\\. The Cell: A Microcosm of Life and The Digestive System: Mechanism for Nourishing the Body\n\n2. Carbohydrates: Structural Features, Classification, Digestion, Absorption, Transport, Distribution and Glycemic Response to Carbohydrates\n\n3\\. Carbohydrates: Glycogenesis, Glycogenolysis and Glycolysis\n\n4\\. Carbohydrates: Substrate-Level Phosphorylation, The Tricarboxylic Acid Cycle, and Formation of ATP\n\n5\\. Carbohydrates: The Hexosemonophosphate Shunt, Gluconeogenesis and Regulation of Metabolism\n\n6. Midterm I\n\n7\\. Lipids: Structure and Biological Importance, Digestion, Absorption, Transport, and storage\n\n8\\. Lipids: Catabolism of Triacylglycerols, Fatty Acids, Energy Considerations in Fatty Acid Oxidation\n\n9\\. Lipids: Formation of the Ketone Bodies, and Catabolism of Cholesterol\n\n10\\. Lipids: Synthesis of Fatty Acids, Triacylglycerols, and Cholesterol\n\n11\\. Lipids: Regulation of Lipid Metabolism\n\n12. Midterm II\n\n13\\. Protein: Protein Structure and Organization, Amino Acid Classification, Sources of Protein, Digestion, and Absorption\n\n14\\. Amino Acid Metabolism (I)\n\n15\\. Amino Acid Metabolism（II）\n\n16\\. Amino Acid Metabolism（III）\n\n17\\. Interorgan “Flow” of Amino Acids and Organ-Specific Metabolism \n\n 18. Final",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "全程藉由師大數位學習平台(PPT)的實施機制來執行教學。"
+        },
+        {
+            "type": "討論法",
+            "note": "鼓勵學習者主動提問與參與討論，表現優良者學期平均成績加分。"
+        },
+        {
+            "type": "媒體融入教學",
+            "note": "融入師大數位學習平台、網路連結(如You Tube)等。"
+        }
+    ],
+    "grading": [
+        {
+            "type": "期中考",
+            "weight": 50,
+            "note": "三次試卷均以英文出題，以提升學習者之英語專業能力。"
+        },
+        {
+            "type": "期末考",
+            "weight": 25,
+            "note": "三次試卷均以英文出題，以提升學習者之英語專業能力。"
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 20,
+            "note": "鼓勵學習者主動提問與參與討論。必要時，指定學習者口語回答或於白板上繪圖等臨場作答，以訓練其機智與膽識。"
+        },
+        {
+            "type": "其他",
+            "weight": 5,
+            "note": "本科（非英文課）以英文試卷命題，額外加分以緩衝語文上之學習障礙。"
+        }
+    ],
+    "prerequisite": "◎必須先修過【NSU0007  營養學（二）】、【NSU0009  生物化學】",
+    "general_core": []
+}

@@ -1,0 +1,75 @@
+{
+    "year": 108,
+    "term": 2,
+    "name": "表現理論專題",
+    "teachers": [
+        "李華介"
+    ],
+    "department": "SU40",
+    "code": "MAC9007",
+    "credit": 3,
+    "serial": 2652,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 1,
+            "from": 6,
+            "to": 6,
+            "campus": "公館",
+            "classroom": "數學館M210"
+        },
+        {
+            "day": 4,
+            "from": 6,
+            "to": 7,
+            "campus": "公館",
+            "classroom": "數學館M210"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "",
+    "classes": "9",
+    "dept_group": "",
+    "hours": 3,
+    "description": "向同學介紹表現理論的基本概念，同時希望能引起同學對這個領域的興趣。",
+    "goals": [
+        "培養數學專業能力",
+        "增進邏輯推理與歸納的能力",
+        "增進數學思維與批判性思考的能力"
+    ],
+    "syllabus": "1.  Group Representations (2 weeks)\n    \n2.  Character Theory and the Orthogonality Relations (2 weeks)\n    \n3.  Fourier Analysis on Finite Groups (2 weeks)\n    \n4.  Burnside’s Theorem (2 weeks)\n    \n5.  Group Actions and Permutation Representations (2 weeks) \n    \n6.  Induced Representations (2 weeks)\n    \n7.  Another Theorem of Burnside (2 weeks)\n    \n8.  Representation Theory of the Symmetric Group (2 weeks)\n    \n9.  Applications (2 weeks)",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "講述重要概念與理論"
+        },
+        {
+            "type": "討論法",
+            "note": "不時提出問題與學生互動討論, 學生需參與問題討論"
+        },
+        {
+            "type": "問題解決教學",
+            "note": "學生互相提出問題"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 50,
+            "note": "平時作業包括課本習題以及課堂上所提問的問題"
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 50,
+            "note": "參與討論及提問的次數為依據"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

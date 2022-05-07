@@ -1,0 +1,93 @@
+{
+    "year": 108,
+    "term": 2,
+    "name": "人工智慧",
+    "teachers": [
+        "林順喜"
+    ],
+    "department": "SU47",
+    "code": "CSU0042",
+    "credit": 3,
+    "serial": 2903,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 1,
+            "from": 7,
+            "to": 7,
+            "campus": "公館",
+            "classroom": "Ｂ102"
+        },
+        {
+            "day": 4,
+            "from": 8,
+            "to": 9,
+            "campus": "公館",
+            "classroom": "Ｂ102"
+        }
+    ],
+    "programs": [
+        "人工智慧學程"
+    ],
+    "comment": "",
+    "restrict": "",
+    "form_s": "3",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程將對人工智慧領域作一概述，希望引起同學們對此領域的興趣，並投入相關的研究與應用。本課程涵蓋人工智慧的基礎理論與實際應用，將著重於智慧代理人、各式搜尋演算法、知識表示與推論、機器學習等主題。課程前半部強調背景知識的建立，而後半部著重理論的整合與應用，並同時介紹當前相關科技之進展，使修課同學能夠從多方面瞭解人工智慧。",
+    "goals": [
+        "能了解並練習各式搜尋演算法",
+        "能學習智慧代理人、各式搜尋演算法、知識表示與推論、機械學習等主題",
+        "能著重理論的整合與應用",
+        "能了解當前相關科技之進展"
+    ],
+    "syllabus": "一、教學目標：\n\n本課程將對人工智慧領域作一概述，希望引起同學們對此領域的興趣，並投入相關的研究與應用。本課程涵蓋人工智慧的基礎理論與實際應用，將著重於智慧代理人、各式搜尋演算法、知識表示與推論、機械學習等主題。課程之前半部強調背景知識的建立，而後半部著重理論的整合與應用，並同時介紹當前相關科技之進展，以使修課同學能夠從多方面瞭解人工智慧。  \n  \n二、教材進度與主題：  \nWeek 1. Introduction  \nWeek 2. Intelligent agents  \nWeek 3~4. Search, Heuristic Search, Uninformed search  \nWeek 5~8. Informed search, Advanced Search  \nWeek 9~11. Constraint satisfaction problem (CSP)  \nWeek 12~13. Adversarial search (Game Playing)  \nWeek 14~15. Logical agents, Propositional and Predicate Logic, Inference and Resolution  \nWeek 16~17. Evolutionary algorithms, Genetic Algorithms, Neural Networks  \nWeek 18. Other meta-heuristics, Machine learning",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "上課口授及討論。"
+        },
+        {
+            "type": "討論法",
+            "note": "上課口授及討論。"
+        },
+        {
+            "type": "問題解決教學",
+            "note": "課堂將針對相關課題討論"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 50,
+            "note": "作業(以程式實作為主)約五次，約佔50％。"
+        },
+        {
+            "type": "期中考",
+            "weight": 20,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 20,
+            "note": "考試共二次，約佔20％。"
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 5,
+            "note": "課堂將針對相關課題討論"
+        },
+        {
+            "type": "出席",
+            "weight": 5,
+            "note": "抽點未到者，將逐次扣分，平時成績約佔5％。公假、事假或病假需附正式証明方可另以公式計分。"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

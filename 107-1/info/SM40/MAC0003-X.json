@@ -1,0 +1,72 @@
+{
+    "year": 107,
+    "term": 1,
+    "name": "高等作業研究",
+    "teachers": [
+        "陳界山"
+    ],
+    "department": "SM40",
+    "code": "MAC0003",
+    "credit": 3,
+    "serial": 2598,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 6,
+            "to": 8,
+            "campus": "公館",
+            "classroom": "教室自排"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "此門課將要求學生選定與實際應用相高的主題作文獻探討，研究方法解析，沒有特定的教科書，期末將繳交一份報告。",
+    "goals": [
+        "從文獻中實際應用相高知識，並進行研究方法解析。"
+    ],
+    "syllabus": "此門課將要求學生選定與實際應用相高的主題作文獻探討，研究方法解析，沒有特定的教科書，期末將繳交一份報告。",
+    "methodologies": [
+        {
+            "type": "討論法",
+            "note": "參與討論"
+        },
+        {
+            "type": "專題研究",
+            "note": "輪流做報告"
+        }
+    ],
+    "grading": [
+        {
+            "type": "課堂討論參與",
+            "weight": 20,
+            "note": "參與討論是重要的"
+        },
+        {
+            "type": "出席",
+            "weight": 30,
+            "note": "出席並參與討論是重要的"
+        },
+        {
+            "type": "報告",
+            "weight": 40,
+            "note": "輪流做報告或講解"
+        },
+        {
+            "type": "其他",
+            "weight": 10,
+            "note": "參加研討會或聽專題演講"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

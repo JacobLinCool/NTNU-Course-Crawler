@@ -1,0 +1,82 @@
+{
+    "year": 107,
+    "term": 1,
+    "name": "量化方法與Ｒ語言實作",
+    "teachers": [
+        "甯俐馨"
+    ],
+    "department": "LM21",
+    "code": "ENC2053",
+    "credit": 3,
+    "serial": 1611,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 1,
+            "from": 2,
+            "to": 4,
+            "campus": "本部",
+            "classroom": "誠302"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程不開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "This course provides an overview of statistical models in linguistics and hands-on programming with R. No background in statistics or prior knowledge of R is assumed. The course begins with an overview of descriptive and inferential statistics. The statistical program R will be used throughout the course. By the end of the course, students should have a thorough knowledge of many statistical models used in modern linguistics and an ability to perform statistical analyses with R.",
+    "goals": [
+        "Gain the fundamental concepts in statistics",
+        "Demonstrate the ability to conduct statistical analyses with R"
+    ],
+    "syllabus": "This course provides an overview of statistical models in linguistics and hands-on programming with R. No background in statistics or prior knowledge of R is assumed. The course begins with an overview of descriptive and inferential statistics. The statistical program R will be used throughout the course. By the end of the course, students should have a thorough knowledge of many statistical models used in modern linguistics and an ability to perform statistical analyses with R. \n\nWeek 1: Course Overview—R and RStudio\n\nWeek 2: Basic Data Manipulation and Graphical Displays in R\n\nWeek 3: Descriptive Statistics I—Probability Theory, Measures of Central Tendency\n\nWeek 4: Descriptive Statistics II—Measures of Dispersion, Standardization (z-test)\n\nWeek 5: Analysis of Variance I\n\nWeek 6: Analysis of Variance II\n\nWeek 7: (Multiple) Linear Regression\n\nWeek 8: Logistic Regression and Generalized Linear Models\n\nWeek 9: Review\n\nWeek 10: Midterm Exam\n\nWeek 11: Linear Mixed Effects Models\n\nWeek 12: Additive Models\n\nWeek 13: Decision Trees\n\nWeek 14: Classification\n\nWeek 15: Principal Component Analysis\n\nWeek 16: Clustering\n\nWeek 17: Review\n\nWeek 18: Final Exam",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "問題解決教學",
+            "note": ""
+        },
+        {
+            "type": "實驗/實作",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 20,
+            "note": ""
+        },
+        {
+            "type": "期中考",
+            "weight": 25,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 25,
+            "note": ""
+        },
+        {
+            "type": "出席",
+            "weight": 10,
+            "note": ""
+        },
+        {
+            "type": "其他",
+            "weight": 20,
+            "note": "隨堂考試"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

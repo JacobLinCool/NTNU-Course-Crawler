@@ -1,0 +1,91 @@
+{
+    "year": 107,
+    "term": 1,
+    "name": "車輛電系修護",
+    "teachers": [
+        "邱盛乾"
+    ],
+    "department": "HU70",
+    "code": "IEU1108",
+    "credit": 2,
+    "serial": 1213,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 4,
+            "from": 10,
+            "to": 13,
+            "campus": "本部",
+            "classroom": "汽車場"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "3",
+    "classes": "",
+    "dept_group": "I",
+    "hours": 4,
+    "description": "1、學習架上引擎電子電路控制之基本量測和檢修。\n2、學習車輛電瓶、啟動、充電、聲光系統其他電器相關控制裝置之基本量測與檢修。\n3、學習車輛電系基本檢測儀器設備之正確使用。\n4、課程以英文教材為主，原廠相關修護手冊為輔，進行教學與實作。",
+    "goals": [
+        "學生能習得引擎電子電路控制之基本修護操作的能力",
+        "學生能習得車輛相關電器系統主要元件之檢測與修護的能力",
+        "學生能正確習得使用引擎與車輛電系相關檢測儀器設備的能力",
+        "培育學生熟悉英文教材內容，進而對車輛電系有基本維修能力"
+    ],
+    "syllabus": "第1~2週 ： Principles , Design , Testing & Diagnosing Electrical Circuits  \n第3~4週 ： Battery Diagnosing & Service\n\n第5~6週 ： Disassembling , Inspecting , Testing & repairing Starting Systems  \n第7~8週 ： Components , Diagnosing & Repairing Charging Systems\n\n第9週   ： 期中測驗或報告\n\n第10~11週 ： Identifying , Diagnosing , Testing & Repairing Lighting Systems  \n第12~13週 ： Automotive Gauges , Warning Devices & Driver Information Systems  \n第14~15週 ： The Horn & Wiper/Washer Systems\n\n第16~17週 ： Miscellaneous Automotive Accessories\n\n第18週    ： 期末測驗或報告  \n註 ： 配合操作單分組實習、加強汽車修護教學單元與教法、補充理論知識與技術。",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "PPT、相關影片、技術手冊閱讀"
+        },
+        {
+            "type": "討論法",
+            "note": "分組實習完成階段工作後 能整理資料與解說實作成果"
+        },
+        {
+            "type": "問題解決教學",
+            "note": "實作期間  對各部元件能正確量測  若有故障需能進行排除"
+        },
+        {
+            "type": "合作學習",
+            "note": "協同完成指定操作項目"
+        },
+        {
+            "type": "實驗/實作",
+            "note": "能正確使用資料與技術手冊  依要領完成各階段工作"
+        },
+        {
+            "type": "媒體融入教學",
+            "note": "網路資料分享與能以PPT進行分組報告"
+        }
+    ],
+    "grading": [
+        {
+            "type": "期末考",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "出席",
+            "weight": 30,
+            "note": "3-1具備主動積極與終身學習之人格特質。"
+        },
+        {
+            "type": "報告",
+            "weight": 20,
+            "note": "藉由實習操作單彙整心得報告，可列為期中成績 3-2具備良好的溝通與表達能力。"
+        },
+        {
+            "type": "成果展覽",
+            "weight": 20,
+            "note": "(配合操作單) 2-3具備技術與職業教育課程與行政之規劃與執行能力。"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

@@ -1,0 +1,1818 @@
+[
+    {
+        "year": 110,
+        "term": 1,
+        "name": "生物物理（一）－導論",
+        "teachers": [
+            "張宜仁"
+        ],
+        "department": "SU41",
+        "code": "PHC0087",
+        "credit": 3,
+        "serial": 2859,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 6,
+                "to": 8,
+                "campus": "公館",
+                "classroom": "Ｓ701"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "",
+        "classes": "9",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 1,
+        "name": "半導體物理導論（一）",
+        "teachers": [
+            "駱芳鈺"
+        ],
+        "department": "SU41",
+        "code": "PHC0100",
+        "credit": 3,
+        "serial": 2860,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 5,
+                "from": 2,
+                "to": 4,
+                "campus": "公館",
+                "classroom": "Ｓ701"
+            }
+        ],
+        "programs": [
+            "太陽能源與工程學程"
+        ],
+        "comment": "",
+        "restrict": "",
+        "form_s": "",
+        "classes": "9",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 1,
+        "name": "固態物理導論（一）",
+        "teachers": [
+            "游至仕"
+        ],
+        "department": "SU41",
+        "code": "PHC9001",
+        "credit": 3,
+        "serial": 2861,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 6,
+                "to": 8,
+                "campus": "公館",
+                "classroom": "Ｓ401"
+            }
+        ],
+        "programs": [
+            "太陽能源與工程學程"
+        ],
+        "comment": "",
+        "restrict": "",
+        "form_s": "",
+        "classes": "9",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 1,
+        "name": "新興材料與光電元件（一）",
+        "teachers": [
+            "趙宇強"
+        ],
+        "department": "SU41",
+        "code": "PHC9014",
+        "credit": 3,
+        "serial": 2862,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 6,
+                "to": 8,
+                "campus": "公館",
+                "classroom": "Ｓ701"
+            }
+        ],
+        "programs": [
+            "太陽能源與工程學程"
+        ],
+        "comment": "",
+        "restrict": "",
+        "form_s": "",
+        "classes": "9",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 1,
+        "name": "普通物理實驗（一）",
+        "teachers": [
+            "陳鴻宜"
+        ],
+        "department": "SU41",
+        "code": "PHU0224",
+        "credit": 1,
+        "serial": 2863,
+        "group": "C",
+        "quota": {
+            "limit": 35,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 6,
+                "to": 8,
+                "campus": "公館",
+                "classroom": "教室自排"
+            }
+        ],
+        "programs": [],
+        "comment": "化一甲",
+        "restrict": "",
+        "form_s": "1",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 1,
+        "name": "普通物理實驗（一）",
+        "teachers": [
+            "陳啟明",
+            "陳鴻宜"
+        ],
+        "department": "SU41",
+        "code": "PHU0224",
+        "credit": 1,
+        "serial": 2864,
+        "group": "D",
+        "quota": {
+            "limit": 35,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 6,
+                "to": 8,
+                "campus": "公館",
+                "classroom": "教室自排"
+            }
+        ],
+        "programs": [],
+        "comment": "化一乙",
+        "restrict": "",
+        "form_s": "1",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 1,
+        "name": "普通物理實驗（一）",
+        "teachers": [
+            "陳穎叡",
+            "盧志權"
+        ],
+        "department": "SU41",
+        "code": "PHU0224",
+        "credit": 1,
+        "serial": 2865,
+        "group": "E",
+        "quota": {
+            "limit": 35,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 2,
+                "to": 4,
+                "campus": "公館",
+                "classroom": "教室自排"
+            }
+        ],
+        "programs": [],
+        "comment": "地科一",
+        "restrict": "",
+        "form_s": "1",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 1,
+        "name": "普通物理乙（一）",
+        "teachers": [
+            "盧志權"
+        ],
+        "department": "SU41",
+        "code": "PHU0251",
+        "credit": 3,
+        "serial": 2866,
+        "group": "A",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 2,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "教103"
+            }
+        ],
+        "programs": [],
+        "comment": "電機一及機電一高中組",
+        "restrict": "",
+        "form_s": "1",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 1,
+        "name": "普通物理乙（一）",
+        "teachers": [
+            "盧志權"
+        ],
+        "department": "SU41",
+        "code": "PHU0251",
+        "credit": 3,
+        "serial": 2867,
+        "group": "B",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 6,
+                "to": 8,
+                "campus": "本部",
+                "classroom": "正404"
+            }
+        ],
+        "programs": [],
+        "comment": "機電一高職組",
+        "restrict": "",
+        "form_s": "1",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 1,
+        "name": "普通物理乙（一）",
+        "teachers": [
+            "陸健榮"
+        ],
+        "department": "SU41",
+        "code": "PHU0251",
+        "credit": 3,
+        "serial": 2868,
+        "group": "C",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 5,
+                "from": 7,
+                "to": 9,
+                "campus": "公館",
+                "classroom": "Ｓ601"
+            }
+        ],
+        "programs": [],
+        "comment": "化一甲",
+        "restrict": "",
+        "form_s": "1",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 1,
+        "name": "普通物理乙（一）",
+        "teachers": [
+            "陳穎叡"
+        ],
+        "department": "SU41",
+        "code": "PHU0251",
+        "credit": 3,
+        "serial": 2869,
+        "group": "D",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 5,
+                "from": 6,
+                "to": 8,
+                "campus": "公館",
+                "classroom": "理圖003"
+            }
+        ],
+        "programs": [],
+        "comment": "化一乙",
+        "restrict": "",
+        "form_s": "1",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 1,
+        "name": "普通物理乙（一）",
+        "teachers": [
+            "張嘉泓"
+        ],
+        "department": "SU41",
+        "code": "PHU0251",
+        "credit": 3,
+        "serial": 2870,
+        "group": "E",
+        "quota": {
+            "limit": 50,
+            "additional": 30
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 6,
+                "to": 8,
+                "campus": "公館",
+                "classroom": "Ｅ102"
+            }
+        ],
+        "programs": [],
+        "comment": "地科一",
+        "restrict": "",
+        "form_s": "1",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 1,
+        "name": "基礎物理",
+        "teachers": [
+            "卜宏毅"
+        ],
+        "department": "SU41",
+        "code": "PHU0253",
+        "credit": 3,
+        "serial": 2871,
+        "group": "A",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 6,
+                "to": 8,
+                "campus": "公館",
+                "classroom": "Ｅ301"
+            }
+        ],
+        "programs": [],
+        "comment": "數一甲",
+        "restrict": "",
+        "form_s": "1",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 1,
+        "name": "基礎物理",
+        "teachers": [
+            "邱顯智"
+        ],
+        "department": "SU41",
+        "code": "PHU0253",
+        "credit": 3,
+        "serial": 2872,
+        "group": "B",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 6,
+                "to": 8,
+                "campus": "公館",
+                "classroom": "Ｓ602"
+            }
+        ],
+        "programs": [],
+        "comment": "數一乙",
+        "restrict": "",
+        "form_s": "1",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 1,
+        "name": "基礎物理實驗",
+        "teachers": [
+            "張嘉泓"
+        ],
+        "department": "SU41",
+        "code": "PHU0254",
+        "credit": 1,
+        "serial": 2873,
+        "group": "A",
+        "quota": {
+            "limit": 35,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 5,
+                "from": 6,
+                "to": 8,
+                "campus": "公館",
+                "classroom": "教室自排"
+            }
+        ],
+        "programs": [],
+        "comment": "數一甲",
+        "restrict": "",
+        "form_s": "1",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 1,
+        "name": "基礎物理實驗",
+        "teachers": [
+            "傅祖怡"
+        ],
+        "department": "SU41",
+        "code": "PHU0254",
+        "credit": 1,
+        "serial": 2874,
+        "group": "B",
+        "quota": {
+            "limit": 35,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 5,
+                "from": 6,
+                "to": 8,
+                "campus": "公館",
+                "classroom": "教室自排"
+            }
+        ],
+        "programs": [],
+        "comment": "數一乙",
+        "restrict": "",
+        "form_s": "1",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 1,
+        "name": "物理研究之批判性思考與辯論簡介（一）",
+        "teachers": [
+            "徐鏞元",
+            "駱芳鈺"
+        ],
+        "department": "SU41",
+        "code": "PHU0257",
+        "credit": 3,
+        "serial": 2875,
+        "group": "",
+        "quota": {
+            "limit": 30,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 6,
+                "to": 8,
+                "campus": "公館",
+                "classroom": "Ｓ303"
+            }
+        ],
+        "programs": [
+            "國際教師學程-物理"
+        ],
+        "comment": "",
+        "restrict": "",
+        "form_s": "1",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 1,
+        "name": "體育",
+        "teachers": [
+            "柯易智"
+        ],
+        "department": "SU41",
+        "code": "00UP001",
+        "credit": 1,
+        "serial": 2876,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 1,
+                "to": 2,
+                "campus": "公館",
+                "classroom": "操場二"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "允許重複修",
+        "form_s": "1",
+        "classes": "1",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 1,
+        "name": "計算機在物理的應用（一）",
+        "teachers": [
+            "高賢忠"
+        ],
+        "department": "SU41",
+        "code": "PHU0029",
+        "credit": 2,
+        "serial": 2877,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 5,
+                "from": 3,
+                "to": 4,
+                "campus": "公館",
+                "classroom": "理圖801"
+            }
+        ],
+        "programs": [
+            "天文重力學程"
+        ],
+        "comment": "",
+        "restrict": "",
+        "form_s": "1",
+        "classes": "1",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 1,
+        "name": "普通物理實驗（一）",
+        "teachers": [
+            "邱顯智"
+        ],
+        "department": "SU41",
+        "code": "PHU0224",
+        "credit": 1,
+        "serial": 2878,
+        "group": "A",
+        "quota": {
+            "limit": 35,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 6,
+                "to": 8,
+                "campus": "公館",
+                "classroom": "教室自排"
+            }
+        ],
+        "programs": [],
+        "comment": "物一甲",
+        "restrict": "",
+        "form_s": "1",
+        "classes": "1",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 1,
+        "name": "基礎數學物理（一）",
+        "teachers": [
+            "邱顯智"
+        ],
+        "department": "SU41",
+        "code": "PHU0247",
+        "credit": 1,
+        "serial": 2879,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 5,
+                "from": 7,
+                "to": 7,
+                "campus": "公館",
+                "classroom": "理圖002"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "1",
+        "classes": "1",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 1,
+        "name": "普通物理甲（一）",
+        "teachers": [
+            "邱顯智"
+        ],
+        "department": "SU41",
+        "code": "PHU0249",
+        "credit": 3,
+        "serial": 2880,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 3,
+                "to": 4,
+                "campus": "公館",
+                "classroom": "理圖002"
+            },
+            {
+                "day": 5,
+                "from": 8,
+                "to": 8,
+                "campus": "公館",
+                "classroom": "理圖002"
+            }
+        ],
+        "programs": [],
+        "comment": "物一甲",
+        "restrict": "",
+        "form_s": "1",
+        "classes": "1",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 1,
+        "name": "體育",
+        "teachers": [
+            "陳勇志"
+        ],
+        "department": "SU41",
+        "code": "00UP001",
+        "credit": 1,
+        "serial": 2881,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 1,
+                "to": 2,
+                "campus": "公館",
+                "classroom": "操場二"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "允許重複修",
+        "form_s": "1",
+        "classes": "2",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 1,
+        "name": "計算機在物理的應用（一）",
+        "teachers": [
+            "高賢忠"
+        ],
+        "department": "SU41",
+        "code": "PHU0029",
+        "credit": 2,
+        "serial": 2882,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 9,
+                "to": 10,
+                "campus": "公館",
+                "classroom": "理圖801"
+            }
+        ],
+        "programs": [
+            "天文重力學程"
+        ],
+        "comment": "",
+        "restrict": "",
+        "form_s": "1",
+        "classes": "2",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 1,
+        "name": "普通物理實驗（一）",
+        "teachers": [
+            "陳穎叡"
+        ],
+        "department": "SU41",
+        "code": "PHU0224",
+        "credit": 1,
+        "serial": 2883,
+        "group": "B",
+        "quota": {
+            "limit": 35,
+            "additional": 7
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 6,
+                "to": 8,
+                "campus": "公館",
+                "classroom": "教室自排"
+            }
+        ],
+        "programs": [],
+        "comment": "物一乙",
+        "restrict": "",
+        "form_s": "1",
+        "classes": "2",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 1,
+        "name": "基礎數學物理（一）",
+        "teachers": [
+            "蔡志申"
+        ],
+        "department": "SU41",
+        "code": "PHU0247",
+        "credit": 1,
+        "serial": 2884,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 5,
+                "from": 3,
+                "to": 3,
+                "campus": "公館",
+                "classroom": "Ｓ304"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "1",
+        "classes": "2",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 1,
+        "name": "普通物理甲（一）",
+        "teachers": [
+            "蔡志申"
+        ],
+        "department": "SU41",
+        "code": "PHU0249",
+        "credit": 3,
+        "serial": 2885,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 3,
+                "to": 4,
+                "campus": "公館",
+                "classroom": "Ｓ304"
+            },
+            {
+                "day": 5,
+                "from": 4,
+                "to": 4,
+                "campus": "公館",
+                "classroom": "Ｓ304"
+            }
+        ],
+        "programs": [],
+        "comment": "物一乙",
+        "restrict": "",
+        "form_s": "1",
+        "classes": "2",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 1,
+        "name": "實驗物理技術（一）",
+        "teachers": [
+            "陸健榮",
+            "傅祖怡",
+            "蔡志申"
+        ],
+        "department": "SU41",
+        "code": "PHU0135",
+        "credit": 3,
+        "serial": 2886,
+        "group": "",
+        "quota": {
+            "limit": 30,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 2,
+                "to": 4,
+                "campus": "公館",
+                "classroom": "理圖807"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 1,
+        "name": "實驗物理（一）",
+        "teachers": [
+            "藍彥文"
+        ],
+        "department": "SU41",
+        "code": "PHU0165",
+        "credit": 3,
+        "serial": 2887,
+        "group": "A",
+        "quota": {
+            "limit": 30,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 6,
+                "to": 8,
+                "campus": "公館",
+                "classroom": "Ｄ101"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 1,
+        "name": "實驗物理（一）",
+        "teachers": [
+            "傅祖怡"
+        ],
+        "department": "SU41",
+        "code": "PHU0165",
+        "credit": 3,
+        "serial": 2888,
+        "group": "B",
+        "quota": {
+            "limit": 30,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 6,
+                "to": 8,
+                "campus": "公館",
+                "classroom": "Ｄ101"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 1,
+        "name": "實驗物理（一）",
+        "teachers": [
+            "陸亭樺"
+        ],
+        "department": "SU41",
+        "code": "PHU0165",
+        "credit": 3,
+        "serial": 2889,
+        "group": "C",
+        "quota": {
+            "limit": 30,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 5,
+                "from": 6,
+                "to": 8,
+                "campus": "公館",
+                "classroom": "Ｄ101"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 1,
+        "name": "熱物理學",
+        "teachers": [
+            "陳啟明"
+        ],
+        "department": "SU41",
+        "code": "PHU0008",
+        "credit": 3,
+        "serial": 2890,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 5,
+                "from": 2,
+                "to": 4,
+                "campus": "公館",
+                "classroom": "Ｓ601"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "2",
+        "classes": "1",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 1,
+        "name": "數學物理（一）",
+        "teachers": [
+            "江府峻"
+        ],
+        "department": "SU41",
+        "code": "PHU0011",
+        "credit": 3,
+        "serial": 2891,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 8,
+                "to": 10,
+                "campus": "公館",
+                "classroom": "Ｓ303"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "2",
+        "classes": "1",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 1,
+        "name": "力學（一）",
+        "teachers": [
+            "林豐利"
+        ],
+        "department": "SU41",
+        "code": "PHU0230",
+        "credit": 3,
+        "serial": 2892,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 6,
+                "to": 8,
+                "campus": "公館",
+                "classroom": "Ｅ202"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "2",
+        "classes": "1",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 1,
+        "name": "熱物理學",
+        "teachers": [
+            "李沃龍"
+        ],
+        "department": "SU41",
+        "code": "PHU0008",
+        "credit": 3,
+        "serial": 2893,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 5,
+                "from": 2,
+                "to": 4,
+                "campus": "公館",
+                "classroom": "Ｓ602"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "2",
+        "classes": "2",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 1,
+        "name": "數學物理（一）",
+        "teachers": [
+            "趙宇強"
+        ],
+        "department": "SU41",
+        "code": "PHU0011",
+        "credit": 3,
+        "serial": 2894,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 8,
+                "to": 10,
+                "campus": "公館",
+                "classroom": "Ｓ304"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "2",
+        "classes": "2",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 1,
+        "name": "力學（一）",
+        "teachers": [
+            "陳穎叡"
+        ],
+        "department": "SU41",
+        "code": "PHU0230",
+        "credit": 3,
+        "serial": 2895,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 6,
+                "to": 8,
+                "campus": "公館",
+                "classroom": "理圖002"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "2",
+        "classes": "2",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 1,
+        "name": "光學",
+        "teachers": [
+            "張宜仁"
+        ],
+        "department": "SU41",
+        "code": "PHU0014",
+        "credit": 3,
+        "serial": 2896,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 5,
+                "from": 6,
+                "to": 8,
+                "campus": "公館",
+                "classroom": "Ｅ102"
+            }
+        ],
+        "programs": [
+            "太陽能源與工程學程"
+        ],
+        "comment": "",
+        "restrict": "",
+        "form_s": "3",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 1,
+        "name": "計算物理（一）",
+        "teachers": [
+            "江府峻"
+        ],
+        "department": "SU41",
+        "code": "PHU0197",
+        "credit": 3,
+        "serial": 2897,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 6,
+                "to": 8,
+                "campus": "公館",
+                "classroom": "理圖807"
+            }
+        ],
+        "programs": [],
+        "comment": "◎數位課程",
+        "restrict": "",
+        "form_s": "3",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 1,
+        "name": "實驗物理（三）",
+        "teachers": [
+            "徐鏞元"
+        ],
+        "department": "SU41",
+        "code": "PHU0214",
+        "credit": 3,
+        "serial": 2898,
+        "group": "A",
+        "quota": {
+            "limit": 30,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 6,
+                "to": 8,
+                "campus": "公館",
+                "classroom": "Ｄ219"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "3",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 1,
+        "name": "實驗物理（三）",
+        "teachers": [
+            "江佩勳"
+        ],
+        "department": "SU41",
+        "code": "PHU0214",
+        "credit": 3,
+        "serial": 2899,
+        "group": "B",
+        "quota": {
+            "limit": 30,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 6,
+                "to": 8,
+                "campus": "公館",
+                "classroom": "Ｄ219"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "3",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 1,
+        "name": "實驗物理（三）",
+        "teachers": [
+            "駱芳鈺"
+        ],
+        "department": "SU41",
+        "code": "PHU0214",
+        "credit": 3,
+        "serial": 2900,
+        "group": "C",
+        "quota": {
+            "limit": 30,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 6,
+                "to": 8,
+                "campus": "公館",
+                "classroom": "Ｄ219"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "3",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 1,
+        "name": "量子資訊導論 （一）",
+        "teachers": [
+            "游至仕"
+        ],
+        "department": "SU41",
+        "code": "PHU0255",
+        "credit": 3,
+        "serial": 2901,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 2,
+                "to": 4,
+                "campus": "公館",
+                "classroom": "Ｓ503"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "3",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 1,
+        "name": "物理教材教法（教）",
+        "teachers": [
+            "陳育霖"
+        ],
+        "department": "SU41",
+        "code": "PHUE001",
+        "credit": 2,
+        "serial": 2902,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 5,
+                "from": 9,
+                "to": 10,
+                "campus": "公館",
+                "classroom": "Ｓ401"
+            }
+        ],
+        "programs": [
+            "國際教師學程-物理"
+        ],
+        "comment": "",
+        "restrict": "",
+        "form_s": "3",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 1,
+        "name": "電磁學（二）",
+        "teachers": [
+            "陳啟明"
+        ],
+        "department": "SU41",
+        "code": "PHU0216",
+        "credit": 3,
+        "serial": 2903,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 6,
+                "to": 8,
+                "campus": "公館",
+                "classroom": "Ｓ303"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "3",
+        "classes": "1",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 1,
+        "name": "近代物理學（一）",
+        "teachers": [
+            "高賢忠"
+        ],
+        "department": "SU41",
+        "code": "PHU0236",
+        "credit": 3,
+        "serial": 2904,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 3,
+                "to": 4,
+                "campus": "公館",
+                "classroom": "Ｓ503"
+            },
+            {
+                "day": 5,
+                "from": 7,
+                "to": 7,
+                "campus": "公館",
+                "classroom": "Ｓ503"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "3",
+        "classes": "1",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 1,
+        "name": "近代物理探索與應用（一）",
+        "teachers": [
+            "高賢忠"
+        ],
+        "department": "SU41",
+        "code": "PHU0264",
+        "credit": 1,
+        "serial": 2905,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 5,
+                "from": 6,
+                "to": 6,
+                "campus": "公館",
+                "classroom": "Ｓ503"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "3",
+        "classes": "1",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 1,
+        "name": "電磁學（二）",
+        "teachers": [
+            "江佩勳"
+        ],
+        "department": "SU41",
+        "code": "PHU0216",
+        "credit": 3,
+        "serial": 2906,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 6,
+                "to": 8,
+                "campus": "公館",
+                "classroom": "Ｓ502"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "3",
+        "classes": "2",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 1,
+        "name": "近代物理學（一）",
+        "teachers": [
+            "徐鏞元"
+        ],
+        "department": "SU41",
+        "code": "PHU0236",
+        "credit": 3,
+        "serial": 2907,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 3,
+                "to": 4,
+                "campus": "公館",
+                "classroom": "理圖001"
+            },
+            {
+                "day": 4,
+                "from": 4,
+                "to": 4,
+                "campus": "公館",
+                "classroom": "理圖001"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "3",
+        "classes": "2",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 1,
+        "name": "近代物理探索與應用（一）",
+        "teachers": [
+            "徐鏞元"
+        ],
+        "department": "SU41",
+        "code": "PHU0264",
+        "credit": 1,
+        "serial": 2908,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 3,
+                "to": 3,
+                "campus": "公館",
+                "classroom": "理圖001"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "3",
+        "classes": "2",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 1,
+        "name": "宇宙學導論",
+        "teachers": [
+            "吳亞霖"
+        ],
+        "department": "SU41",
+        "code": "PHU0217",
+        "credit": 3,
+        "serial": 2909,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 2,
+                "to": 4,
+                "campus": "公館",
+                "classroom": "Ｓ403"
+            }
+        ],
+        "programs": [
+            "天文重力學程"
+        ],
+        "comment": "",
+        "restrict": "",
+        "form_s": "4",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 1,
+        "name": "研究實習",
+        "teachers": [
+            "林文欽",
+            "陳穎叡"
+        ],
+        "department": "SU41",
+        "code": "PHU0260",
+        "credit": 2,
+        "serial": 2910,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 16,
+                "to": 12,
+                "campus": "公館",
+                "classroom": "Ｆ100"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "4",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 1,
+        "name": "基礎量子力學（一）",
+        "teachers": [
+            "陸健榮"
+        ],
+        "department": "SU41",
+        "code": "PHU0268",
+        "credit": 3,
+        "serial": 2911,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 6,
+                "to": 8,
+                "campus": "公館",
+                "classroom": "Ｓ401"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "4",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 1,
+        "name": "物理教學實習（一）（教）",
+        "teachers": [
+            "陳育霖"
+        ],
+        "department": "SU41",
+        "code": "PHUE110",
+        "credit": 2,
+        "serial": 2912,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 1,
+                "to": 4,
+                "campus": "公館",
+                "classroom": "Ｓ407"
+            }
+        ],
+        "programs": [
+            "國際教師學程-物理"
+        ],
+        "comment": "",
+        "restrict": "",
+        "form_s": "4",
+        "classes": "1",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 1,
+        "name": "物理教學實習（一）（教）",
+        "teachers": [
+            "陳育霖"
+        ],
+        "department": "SU41",
+        "code": "PHUE110",
+        "credit": 2,
+        "serial": 2913,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 1,
+                "to": 4,
+                "campus": "公館",
+                "classroom": "Ｓ303"
+            }
+        ],
+        "programs": [
+            "國際教師學程-物理"
+        ],
+        "comment": "",
+        "restrict": "",
+        "form_s": "4",
+        "classes": "2",
+        "dept_group": ""
+    }
+]

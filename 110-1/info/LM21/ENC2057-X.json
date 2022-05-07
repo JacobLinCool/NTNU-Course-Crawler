@@ -1,0 +1,78 @@
+{
+    "year": 110,
+    "term": 1,
+    "name": "多變量統計分析",
+    "teachers": [
+        "甯俐馨"
+    ],
+    "department": "LM21",
+    "code": "ENC2057",
+    "credit": 3,
+    "serial": 1660,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 1,
+            "from": 3,
+            "to": 5,
+            "campus": "本部",
+            "classroom": "勤302"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎必須先修過【ENC2053  量化方法與Ｒ語言實作】 ◎課程不開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "",
+    "goals": [
+        "Gain the fundamental concepts in multivariate statistics",
+        "Demonstrate the ability to analyze data with R",
+        "Acquire problem-solving techniques"
+    ],
+    "syllabus": "This is an advanced statistics course for graduate students in social sciences. Students are required to complete a fundamental statistics course and a relevant programming course prior to enrolling this course. We will cover the dimension reduction techniques, regression, classification, and resampling methods. Hands-on programming practice with R will be given in class. Students should bring their own laptops for the practical sessions.\n\n\\*\\*\\*\\*\\* A quiz will be given in the first week. If you fail to pass the quiz, you are suggested to take an introductory course of statistics first. \\*\\*\\*\\*\\*\\* \n\n\\*\\*\\*\\*\\* Bring your laptop for the quiz. Make sure R is installed beforehand. \\*\\*\\*\\*\\*\n\n\\*\\*\\*\\*\\* The meeting link for the first two weeks (Google Meet):  https://meet.google.com/jqx-avws-oag \\*\\*\\*\\*\\*\\*\n\nTentative schedule:\n\n**Week/Date**\n\n**Topic**\n\nWeek 1\n\n     **Course Overview; Quiz on basic statistics**\n\nWeek 2\n\n     **Overview of multivariate methods;**\n\n     **Examining your data**\n\nWeek 3\n\n     **Factor analysis**\n\nWeek 4\n\n     **Factor analysis**\n\nWeek 5\n\n     **Principal component analysis**\n\nWeek 6\n\n     **Discriminant analysis**\n\nWeek 7\n\n     **Discriminant analysis**\n\nWeek 8\n\n                                              **_Midterm Exam_**\n\nWeek 9\n\n     **Multidimensional scaling**\n\nWeek 10\n\n     **Multidimensional scaling**\n\nWeek 11\n\n     **Cluster analysis: K-means and hierarchical**\n\nWeek 12\n\n     **Cluster analysis: K-means and hierarchical**\n\nWeek 13\n\n     **GLM and GAM**\n\nWeek 14: 12/10\n\n     **GLM and GAM**\n\nWeek 15\n\n     **Resampling methods—Cross-validation and bootstrap**\n\nWeek 16\n\n                                                **_Final Exam_**\n\nWeek 17\n\n     **Online learning**\n\nWeek 18\n\n     **Online learning**",
+    "methodologies": [
+        {
+            "type": "Formal lecture",
+            "note": "Lecture handouts will be distributed."
+        },
+        {
+            "type": "Problem base learning",
+            "note": "Statistical concepts along with real-life examples will be discussed."
+        },
+        {
+            "type": "Lab/Studio",
+            "note": "Hands-on practice will be given in class."
+        }
+    ],
+    "grading": [
+        {
+            "type": "Assignments",
+            "weight": 40,
+            "note": ""
+        },
+        {
+            "type": "Midterm Exam",
+            "weight": 25,
+            "note": ""
+        },
+        {
+            "type": "Final exam",
+            "weight": 25,
+            "note": ""
+        },
+        {
+            "type": "Attendances",
+            "weight": 10,
+            "note": ""
+        }
+    ],
+    "prerequisite": "Prerequisite course: 【ENC2053  Quantitative Methods and R Programming】 ◎Unavailable for M.A. program students (M.A. program courses excepted) and B.A. program students.",
+    "general_core": []
+}

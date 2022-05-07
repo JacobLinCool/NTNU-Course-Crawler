@@ -1,0 +1,95 @@
+{
+    "year": 109,
+    "term": 2,
+    "name": "程式設計（二）",
+    "teachers": [
+        "李良一"
+    ],
+    "department": "EU11",
+    "code": "LSU0002",
+    "credit": 3,
+    "serial": 897,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 3,
+            "from": 16,
+            "to": 11,
+            "campus": "本部",
+            "classroom": "教401"
+        }
+    ],
+    "programs": [
+        "學習與資訊學程",
+        "數位人文與藝術學程",
+        "資訊科技應用學程"
+    ],
+    "comment": "",
+    "restrict": "",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "此課程為程式設計(一)的延續課程，此課程的目標是要培養學生程式設計的進階觀念及能力，在此課程中，學生將會學習到不同的程式函式庫及整合不同函式庫解決問題及開發應用程式。",
+    "goals": [
+        "能了解 Python程式設計的基本概念及技能並撰寫程式",
+        "能根據指定的方法步驟，規畫程式架構、流程並據以實作。",
+        "能熟悉不同的函式庫，及整合函式庫解決問題及發展應用程式"
+    ],
+    "syllabus": "【授課方式：16+2週】\n\n預定教學進度如下(會依據學生程度及上課狀況調整)：\n\n1.  課程介紹及學習系統註冊\n2.  Excel(1)\n3.  Excel(2)\n4.  SQLLite(1)\n5.  SQLLite(2)\n6.  Matrix Data with Panda\n7.  Matrix Data with Panda\n8.  期中考\n9.  Graph User Interface with tkinter(1)\n10.  Graph User Interface with tkinter(2)\n11.  Internet programming(1)\n12.  Internet programming(2)\n13.  Internet programming(3)\n14.  Other Python Library(1)\n15.  Other Python Library(2)\n16.  期末考\n17.  專題製作(自主學習)\n18.  專題製作(自主學習)",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "老師講授自編教材及教科書內容。"
+        },
+        {
+            "type": "問題解決教學",
+            "note": "老師會在上課時給予學生學習單及在課後給予作業，學習單及作業內容為程式問題，學生需找出解法。"
+        },
+        {
+            "type": "實驗/實作",
+            "note": "學習單及作業需撰寫程式碼"
+        },
+        {
+            "type": "媒體融入教學",
+            "note": "使用線上學習系統進行教學影片觀看、作業繳交、線上討論及其他線上教學活動。"
+        },
+        {
+            "type": "專題研究",
+            "note": "期末專題"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 20,
+            "note": "練習老師上課指定的練習題及課後作業"
+        },
+        {
+            "type": "期中考",
+            "weight": 25,
+            "note": "期中考前老師上課的內容"
+        },
+        {
+            "type": "期末考",
+            "weight": 25,
+            "note": "期末考前老師上課的內容"
+        },
+        {
+            "type": "出席",
+            "weight": 10,
+            "note": "教室上課出席及線上活動進行狀況"
+        },
+        {
+            "type": "專題",
+            "weight": 20,
+            "note": "期末專題"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

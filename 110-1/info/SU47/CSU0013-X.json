@@ -1,0 +1,108 @@
+{
+    "year": 110,
+    "term": 1,
+    "name": "資料結構",
+    "teachers": [
+        "柯佳伶"
+    ],
+    "department": "SU47",
+    "code": "CSU0013",
+    "credit": 3,
+    "serial": 3058,
+    "group": "",
+    "quota": {
+        "limit": 65,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 1,
+            "from": 8,
+            "to": 9,
+            "campus": "公館",
+            "classroom": "綜合館3F國際會議廳"
+        },
+        {
+            "day": 4,
+            "from": 2,
+            "to": 2,
+            "campus": "公館",
+            "classroom": "Ｅ102"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎必須先修過【CSU0001  程式設計（一）】",
+    "form_s": "2",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程將探討各種常用資料結構(包含堆疊、佇列、樹狀結構、圖形結構、特殊資料結構等)、相關演算法及其應用，同時建立學生設計實作抽象資料型態(Abstract Data Type)的程式撰寫能力。",
+    "goals": [
+        "能了解各種不同資料結構的差異與相關演算法",
+        "能設計適當的抽象資料型態(ADT)及相關資料存取函式",
+        "能實作各種資料結構",
+        "能設計適當的抽象資料型態(ADT)",
+        "能利用抽象資料型態撰寫程式"
+    ],
+    "syllabus": "Week 1~3：Introduction and Array structures\n\nWeek 4~6：Stacks, Queue sand Linked Lists\n\nWeek 7 : Exam1\n\nWeek 8~9 : Trees\n\nWeek 10~11 : Graphs\n\nWeek 12 : Exam2\n\nWeek 13~15 : Sorting and Hashing\n\nWeek 16~17 : Advanced Data Structures\n\nWeek 18 : Final Exam",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": "課堂有小組學習單或待解決問題，學生實作各種資料結構、演算法以解決問題。遇到困難可以相互討論(或與教師、助教討論)。"
+        },
+        {
+            "type": "問題解決教學",
+            "note": ""
+        },
+        {
+            "type": "合作學習",
+            "note": "課堂作業小組練習"
+        },
+        {
+            "type": "實驗/實作",
+            "note": ""
+        },
+        {
+            "type": "專題研究",
+            "note": "整學期有3~5次程式設計作業"
+        },
+        {
+            "type": "其他",
+            "note": "每個單元有可課程學習單書面作業"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 40,
+            "note": "書面/程式設計作業, 以及課堂上各學習單、實作完成程度"
+        },
+        {
+            "type": "期中考",
+            "weight": 40,
+            "note": "兩次"
+        },
+        {
+            "type": "期末考",
+            "weight": 20,
+            "note": "一次"
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 5,
+            "note": "額外加分"
+        },
+        {
+            "type": "出席",
+            "weight": 5,
+            "note": "準時到課狀況作為額外加分"
+        }
+    ],
+    "prerequisite": "◎必須先修過【CSU0001  程式設計（一）】",
+    "general_core": []
+}

@@ -1,0 +1,85 @@
+{
+    "year": 110,
+    "term": 2,
+    "name": "實驗設計與分析",
+    "teachers": [
+        "蔡碧紋"
+    ],
+    "department": "SM40",
+    "code": "MAM0099",
+    "credit": 3,
+    "serial": 2606,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 4,
+            "from": 2,
+            "to": 4,
+            "campus": "公館",
+            "classroom": "數學館310研討室"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程之教學目的在介紹的不同實驗設計方法的異同與其對應的資料分析方法，利用例題與統計軟體操作解說。",
+    "goals": [
+        "讓學生能以客觀、科學化的方法蒐集到可靠、有效資料，並以正確的方式分析資料，提高實驗的效率，獲得最正確的結論。"
+    ],
+    "syllabus": "試驗設計(Design of  experiments)， 又稱實驗設計，是統計學的一個分支，科學探究的一部份，涉及「用何方法可更好的 設計一個實驗」，屬於方法論的範疇。任何實驗都會受到外來環境影響，如何設計實驗，實驗規劃的目標使外來環境的變化能夠對實驗造成最小的影響。廣泛用於自然科學及社會科學各學科的實驗設計裡。\n\nGoal: To be able to plan an experiment in such a way that the statistical analysis results in valid and objective conclusions. To learn a variety of experimental designs and be able to choose an appropriate design for a specific study. To be able to use R to perform the proper statistical analysis and draw valid conclusions from a specific experiment.\n\n1.  Basic Statistical Inference\n2.  Introduction to Regression Analysis\n3.  One-way ANOVA/Completely Randomized Designs\n4.  Randomized Block designs\n5.  Analysis of Covariance\n6.  Exam1\n7.  Designs with more than one factor\n8.  Random and Mixed-effects models\n9.  Split-plot designs\n10.  Repeated Measures Design\n11.  Exam 2\n12.  Final Project",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "課堂講解"
+        },
+        {
+            "type": "討論法",
+            "note": ""
+        },
+        {
+            "type": "實驗/實作",
+            "note": "電腦實務操作"
+        },
+        {
+            "type": "其他",
+            "note": "學生專題作業討論及發表"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 20,
+            "note": ""
+        },
+        {
+            "type": "期中考",
+            "weight": 25,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 25,
+            "note": ""
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 5,
+            "note": ""
+        },
+        {
+            "type": "報告",
+            "weight": 25,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

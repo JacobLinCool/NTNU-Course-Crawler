@@ -1,0 +1,79 @@
+{
+    "year": 108,
+    "term": 2,
+    "name": "地理視覺化",
+    "teachers": [
+        "周學政"
+    ],
+    "department": "LU23",
+    "code": "GEU0239",
+    "credit": 3,
+    "serial": 1814,
+    "group": "",
+    "quota": {
+        "limit": 25,
+        "additional": 5
+    },
+    "schedule": [
+        {
+            "day": 1,
+            "from": 2,
+            "to": 4,
+            "campus": "本部",
+            "classroom": "地理系電腦教室"
+        }
+    ],
+    "programs": [
+        "學習與資訊學程"
+    ],
+    "comment": "上課教室：文學院勤10F地理系電腦教室。",
+    "restrict": "",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "因巨量資料來源日漸增多，如何分析資料，萃取其中重要地理意涵，為重要之研究與應用課題。視覺化是發掘資料意義與表達資料意義的重要手段之一。地理視覺化引進視覺化研究的成果，拓展傳統地圖學，能夠由空間觀點，挖掘及展現巨量空間資料的地理意義。",
+    "goals": [
+        "瞭解視覺化與地理視覺化基本原理",
+        "熟悉地理視覺化製作技術",
+        "分析地理議題，應用地理視覺化，適當表達其內涵。"
+    ],
+    "syllabus": "1.概論\n\n2.視覺化原理\n\n3.地理視覺化原理\n\n4.常用視覺化工具簡介- Excel, Tableau plotly, D3, R,\n\n5.網路地圖原理\n\n6.網路地圖標准- OGC, WebGL\n\n7.實作- Power BI 及 Power Map\n\n8.地理視覺化設計\n\n9.實作-ArcGIS Online 1\n\n10.實作-ArcGIS Online 2\n\n11.實作-ArcGIS Online 3\n\n12.網頁技術- html\n\n13.網頁技術- CSS\n\n14.網頁技術- JavaScript 1\n\n15.網頁技術- JavaScript 2\n\n16.ArcGIS JavaScript API\n\n17.Google Map API\n\n18.其他地理視覺工具- Leaflet, CartoDB, MapBox, OpenLayers等",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "視覺化，地視覺化理論講述"
+        },
+        {
+            "type": "實驗/實作",
+            "note": "視覺化，地視覺化軟體操作"
+        },
+        {
+            "type": "媒體融入教學",
+            "note": "視覺化，地視覺化軟體應用"
+        },
+        {
+            "type": "專題研究",
+            "note": "視覺化，地視覺化期末專題開發"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 40,
+            "note": ""
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 20,
+            "note": ""
+        },
+        {
+            "type": "專題",
+            "weight": 40,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

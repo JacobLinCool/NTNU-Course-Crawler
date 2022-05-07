@@ -1,0 +1,82 @@
+{
+    "year": 110,
+    "term": 1,
+    "name": "氣候學",
+    "teachers": [
+        "曾莉珊"
+    ],
+    "department": "SU44",
+    "code": "ESC0010",
+    "credit": 3,
+    "serial": 3011,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 5,
+            "from": 3,
+            "to": 4,
+            "campus": "公館",
+            "classroom": "Ｓ407"
+        },
+        {
+            "day": 5,
+            "from": 6,
+            "to": 6,
+            "campus": "公館",
+            "classroom": "Ｃ409"
+        }
+    ],
+    "programs": [
+        "環境監測學程"
+    ],
+    "comment": "",
+    "restrict": "◎必須先修過【MAU0181  微積分乙（二）】、【PHU0252  普通物理乙（二）】、【MAU0180  微積分乙（一）】、【PHU0251  普通物理乙（一）】",
+    "form_s": "",
+    "classes": "9",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程透過講述、討論、實際數位資料分析等教學方法，介紹維持地球氣候系統的基本理論與應用，簡介觀測與分析氣候變化的最新國際計畫與技術，及氣候模擬與預報的原理與架構。",
+    "goals": [
+        "學生能了解地球氣候系統的本質、氣候現象的形成機制。",
+        "知道氣候研究的國際觀測與分析技術。",
+        "知道氣候模式的原理與架構。"
+    ],
+    "syllabus": "       0. Introduction and overview of climate system\n\n_**PART I**: The **General Circulation** and **Global Climate**_\n\n1.  Characteristics and vertical structure of the atmosphere\n    \n2.  The global energy balance and atmospheric radiative transfer\n    \n3.  Convection\n    \n4.  The energy balance of the surface\n    \n5.  The Hydrologic Cycle\n    \n6.  Atmospheric General Circulationand Climate\n    \n\n_**PART II**: **Climate Variability** and **Climate Change**_\n\n1.  Natural Climate Variability\n    \n2.  Climate Sensitivity and Feedback Mechanisms\n    \n3.  Natural Climate Change",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": ""
+        },
+        {
+            "type": "實驗/實作",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 25,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 50,
+            "note": ""
+        },
+        {
+            "type": "報告",
+            "weight": 25,
+            "note": ""
+        }
+    ],
+    "prerequisite": "◎必須先修過【MAU0181  微積分乙（二）】、【PHU0252  普通物理乙（二）】、【MAU0180  微積分乙（一）】、【PHU0251  普通物理乙（一）】",
+    "general_core": []
+}

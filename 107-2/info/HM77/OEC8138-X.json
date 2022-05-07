@@ -1,0 +1,77 @@
+{
+    "year": 107,
+    "term": 2,
+    "name": "光學系統設計與模擬",
+    "teachers": [
+        "蔡政穆"
+    ],
+    "department": "HM77",
+    "code": "OEC8138",
+    "credit": 3,
+    "serial": 1188,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 5
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 6,
+            "to": 8,
+            "campus": "公館",
+            "classroom": "綜合館201"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "此課程會先從幾何光學說明，先讓學生瞭解近軸光學的定義，以及一些專用名稱的定義如有效焦距、入瞳及出瞳，之後探討設計鏡頭時所遭遇像差等問題及如何改善像差，最後則說明如何使用光學系統設計軟體Zemax。",
+    "goals": [
+        "瞭解光學系統建立與分析方式。",
+        "認識幾何光學及其運用方法，並學習於電腦上模擬與分析工作。",
+        "瞭解光學設計時所遭遇的像差及如何改善"
+    ],
+    "syllabus": "週次\n\n教學大綱及進度\n\n1\n\nIntroduction to course\n\n2\n\nZemax, Conventions and Aspheric\n\n3\n\nParaxial optics, Stop and Pupils\n\n4\n\nGlass and landscape lens\n\n5\n\nAberrations in general\n\n6\n\nSolves and Merit Function, Splitting a lens\n\n7\n\nSpherical Aberration\n\n8\n\nLens Bending and Aberration Balancing\n\n9\n\nSymmetry and the Periscopic Lens, Coma and Astigmatism\n\n10\n\nField Curvature and Field Flattener, Distoration\n\n11\n\nAxial Color and Achromats, Bending Achromats\n\n12\n\nSecondary Color, Large Air-Spaced Achomat and French Landscape Lens\n\n13\n\nApochromat, Eyepiece Design\n\n14\n\nField Lens and Windows, Mirrors and Corrector Plates\n\n15\n\nSymmetric Achromat and Vignetting\n\n16\n\nTelescopes\n\n17\n\nPresentation\n\n18\n\nFinal exam",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": ""
+        },
+        {
+            "type": "問題解決教學",
+            "note": ""
+        },
+        {
+            "type": "實驗/實作",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 40,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "報告",
+            "weight": 30,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

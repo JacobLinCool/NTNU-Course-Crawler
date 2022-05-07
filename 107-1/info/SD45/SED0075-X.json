@@ -1,0 +1,87 @@
+{
+    "year": 107,
+    "term": 1,
+    "name": "科學教育研究特論",
+    "teachers": [
+        "譚克平"
+    ],
+    "department": "SD45",
+    "code": "SED0075",
+    "credit": 3,
+    "serial": 2583,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 3,
+            "from": 10,
+            "to": 12,
+            "campus": "公館",
+            "classroom": "教室自排"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "The purpose of this course is to familiarize students with advanced ideas about the technicalities behind conducting good research in science and mathematics education. One of the main objectives of the course is to equip students with the ability to design rigorous research and be able to criticize research articles at a scholarly level. This course is particularly designed for Ph. D. students and the instruction will be conducted in English.",
+    "goals": [
+        "Understand research issues in science education",
+        "Understand the correct use of research methodology",
+        "Acquire the ability to perform and interpret basic statistical results",
+        "Acquire the ability to write research report"
+    ],
+    "syllabus": "Possible topics to be covered this semester will include:\n\n1.    What is research? What is sciences research? What is science education research?\n\n2.    History of educational research and area of research\n\n3.    Ethic issues of educational research\n\n4.    Variables and terminology\n\n5.    Research purpose, research questions and research hypotheses\n\n6.    Literature review: the why, the what and the how\n\n7.    The concept and the importance of research design\n\n8.    Experimental design, quasi-experimental design\n\n9.    Randomization, internal validity and external validity\n\n10\\. Qualitative research\n\n11\\. Mixed research, Action research\n\n12\\. Design research\n\n13\\. Research instrumentation design\n\n14\\. Reliability\n\n15\\. Validity: factor analysis\n\n16\\. Abstract and structured abstract, critic of research study\n\n17\\. What to report in research and the APA style\n\n18\\. Meta analysis",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "Introduction of theories and practices"
+        },
+        {
+            "type": "討論法",
+            "note": "Discussion is classes"
+        },
+        {
+            "type": "問題解決教學",
+            "note": "Individual problem solving and by groups"
+        },
+        {
+            "type": "媒體融入教學",
+            "note": "Computer assisted instruction and statistical software"
+        },
+        {
+            "type": "專題研究",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 30,
+            "note": "Homework assignments and reading"
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 20,
+            "note": "Participation in classroom discussion"
+        },
+        {
+            "type": "出席",
+            "weight": 10,
+            "note": "Attendance record"
+        },
+        {
+            "type": "報告",
+            "weight": 40,
+            "note": "Final report at the end of semester"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

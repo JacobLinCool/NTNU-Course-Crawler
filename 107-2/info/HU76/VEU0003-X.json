@@ -1,0 +1,87 @@
+{
+    "year": 107,
+    "term": 2,
+    "name": "電路學（一）",
+    "teachers": [
+        "郭建宏"
+    ],
+    "department": "HU76",
+    "code": "VEU0003",
+    "credit": 3,
+    "serial": 1345,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 2,
+            "to": 4,
+            "campus": "本部",
+            "classroom": "正103"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "1",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程的內容包括以下內容：1.電路參數與定律；2.電阻電路的特性；3.電阻電路的應用；4.系統的分析法；5.儲能元件與動態電路。",
+    "goals": [
+        "具備電路學所需之知識與理解力。",
+        "具備電路學所需之問題解決能力。",
+        "具備電路學應用之專業設計能力",
+        "具備主動積極與終身學習之人格特質",
+        "具備良好的溝通與表達能力",
+        "具備職場專業倫理與社會服務的理解與行動",
+        "具備尊重智慧財產權的認知與態度"
+    ],
+    "syllabus": "1.     Introduction\n\n2.     Circuit Variables and Laws\n\n3.     Properties of Resistive Circuits\n\n4.     Applications of Resistive Circuits\n\n5.     Systematic Analysis Methods\n\n6.     AC Circuits\n\n7.     AC Power",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "教師講授與範例演練"
+        },
+        {
+            "type": "問題解決教學",
+            "note": "作業與檢討"
+        },
+        {
+            "type": "媒體融入教學",
+            "note": "上課PPT與相關影片"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 20,
+            "note": "課後作業"
+        },
+        {
+            "type": "期中考",
+            "weight": 25,
+            "note": "紙筆測驗"
+        },
+        {
+            "type": "期末考",
+            "weight": 30,
+            "note": "紙筆測驗"
+        },
+        {
+            "type": "出席",
+            "weight": 5,
+            "note": "點名統計出席狀況"
+        },
+        {
+            "type": "其他",
+            "weight": 20,
+            "note": "小考：紙筆測驗2次"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

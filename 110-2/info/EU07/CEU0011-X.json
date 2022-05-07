@@ -1,0 +1,76 @@
+{
+    "year": 110,
+    "term": 2,
+    "name": "經濟學",
+    "teachers": [
+        "周有熙"
+    ],
+    "department": "EU07",
+    "code": "CEU0011",
+    "credit": 2,
+    "serial": 790,
+    "group": "",
+    "quota": {
+        "limit": 140,
+        "additional": 15
+    },
+    "schedule": [
+        {
+            "day": 3,
+            "from": 6,
+            "to": 7,
+            "campus": "本部",
+            "classroom": "教201演講廳"
+        }
+    ],
+    "programs": [
+        "財金學程"
+    ],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "1",
+    "classes": "2",
+    "dept_group": "",
+    "hours": 2,
+    "description": "「經濟即生活」，因此「經濟學」可謂是社會科學中最基礎的學科。本課程旨再透過講授、閱讀、討論、實作等方式，藉此協助學生了解經濟學之基本法則與概念，作為學生學習本學系其他基礎課程之依據。且能從實際的日常經濟生活當中，體會及認識經濟學家的思維方式。",
+    "goals": [
+        "培養學生基礎經濟學概念和素養",
+        "使學生具備現代經濟學模型分析能力",
+        "培養學生經濟學的邏輯思考能力"
+    ],
+    "syllabus": "本課程介紹基礎經濟學。本課程重點在於運用經濟學之分析工具來瞭解各種經濟現象。課程內容包括: 價格機能、彈性、政府管制與課稅效果、福利計算、開放經濟、外部性.\n\n若對課程內容有問題，可以email 方式詢問本課程助教：郭湘婷 088514@mail.fju.edu.tw\n\n或聯絡我：yhchou@ntnu.edu.tw",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "期中考",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 40,
+            "note": ""
+        },
+        {
+            "type": "出席",
+            "weight": 10,
+            "note": ""
+        },
+        {
+            "type": "其他",
+            "weight": 20,
+            "note": "小考"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

@@ -1,0 +1,80 @@
+{
+    "year": 108,
+    "term": 2,
+    "name": "超大型積體電路設計導論",
+    "teachers": [
+        "賴以威"
+    ],
+    "department": "HU75",
+    "code": "AEU0075",
+    "credit": 3,
+    "serial": 1240,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 4,
+            "from": 7,
+            "to": 9,
+            "campus": "本部",
+            "classroom": "工401"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "培養同學了解數位VLSI設計理論的基本觀念，從台灣VLSI產業、CMOS邏輯閘設計、VLSI時序與功率分析、數位組合邏輯電路設計、數位順序邏輯電路設計、到設計流程介紹，使學生對IC設計有整體的了解。亦藉由成熟的VLSI設計技術，引導同學進行研究思考。",
+    "goals": [
+        "了解CMOS電路之半導體製程、積體電路設計理論與技術。",
+        "使學生具有VLSI設計理論與工業界發展之應用知識，以便符合IC設計公司之人力需求。",
+        "使學生具備學習進階數位積體電路設計能力。",
+        "使學生具備積體電路設計團隊合作之與專業技術表達能力"
+    ],
+    "syllabus": "本課程將分成六個單元，每個單元約2~3周上課時間。單元內容如下:\n\nLecture 1    : Introduction\n\nLecture 2  :Circuit characterization: Timing and delay\n\nLecture 3  : Circuit characterization: Power\n\nLecture 4  : Combinational circuit design\n\nLecture 5  : Sequential circuit design\n\nLecture 6 :  Datapath subsystems\n\n其中前三段主要是類比電路的效能分析，後三段著重在數位電路設計。期末報告訂於第十六周，後兩周為紙本報告撰寫與程式實作。",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 15,
+            "note": "回家作業"
+        },
+        {
+            "type": "期中考",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 15,
+            "note": "課堂習題練習與回答"
+        },
+        {
+            "type": "報告",
+            "weight": 10,
+            "note": "期末報告"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

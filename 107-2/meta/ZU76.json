@@ -1,0 +1,70 @@
+[
+    {
+        "year": 107,
+        "term": 2,
+        "name": "物理教學實習（二）（教）",
+        "teachers": [
+            "陳育霖"
+        ],
+        "department": "SU41",
+        "code": "PHUE210",
+        "credit": 2,
+        "serial": 2775,
+        "group": "A",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 1,
+                "to": 4,
+                "campus": "公館",
+                "classroom": "綜合館202"
+            }
+        ],
+        "programs": [
+            "國際教師學程-物理"
+        ],
+        "comment": "未修習物理教材教法者不得修習物理教學實習",
+        "restrict": "◎必須先修過(也可以同時修)【PHUE001  物理教材教法（教）】",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 107,
+        "term": 2,
+        "name": "物理教學實習（二）（教）",
+        "teachers": [
+            "陳育霖"
+        ],
+        "department": "SU41",
+        "code": "PHUE210",
+        "credit": 2,
+        "serial": 2776,
+        "group": "B",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 1,
+                "to": 4,
+                "campus": "公館",
+                "classroom": "綜合館202"
+            }
+        ],
+        "programs": [
+            "國際教師學程-物理"
+        ],
+        "comment": "未修習物理教材教法者不得修習物理教學實習",
+        "restrict": "◎必須先修過(也可以同時修)【PHUE001  物理教材教法（教）】",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    }
+]

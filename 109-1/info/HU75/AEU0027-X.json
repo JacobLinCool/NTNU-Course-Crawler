@@ -1,0 +1,65 @@
+{
+    "year": 109,
+    "term": 1,
+    "name": "通訊原理（一）",
+    "teachers": [
+        "王嘉斌"
+    ],
+    "department": "HU75",
+    "code": "AEU0027",
+    "credit": 3,
+    "serial": 1364,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 5,
+            "from": 2,
+            "to": 4,
+            "campus": "本部",
+            "classroom": "工401"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "3",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "This course provides the knowledge of fundamental communication systems for students majoring in applied electronic technology. The course covers Random Process, Continuous-Wave Modulation, Pulse Modulation, Baseband Pulse Transmission, Signal-Space Analysis, and Passband Digital Transmission.",
+    "goals": [
+        "學習訊號處理與通訊系統之基本理論模式",
+        "瞭解通訊系統的技術知識",
+        "建立通訊系統設計的基本觀念與技術"
+    ],
+    "syllabus": "1\\. Random process (3 weeks)\n\n第1週 Probability and Random Variables\n\n第2週 Random Processes and Spectral Analysis\n\n第3週 Transformations and Operations on Random Processes\n\n2\\. Continuous-Wave Modulation (3 weeks)\n\n第4週 Analog Modulation\n\n第5週 Superheterodyne Receiver\n\n第6週 Noise in CW Modulation Systems\n\n3\\. Pulse Modulation (3 weeks)\n\n第7週 Sampling Process\n\n第8週 Quantization Process\n\n第9週 Midterm Exam\n\n4\\. Baseband Pulse Transmission (3 weeks)\n\n第10週 Matched Filter\n\n第11週 Nyquist's Criterion for Distortionless Baseband BinaryTransmission\n\n第12週 Optimum Linear Receiver\n\n5\\. Signal-Space Analysis (3 weeks)\n\n第13週Bayes Optimization\n\n第14週 MAP Receiver for Digital Data Transmission\n\n第15週 Estimation Theory\n\n6\\. Passband Digital Transmission (3 weeks)\n\n第16週 Passband Transmission Model\n\n第17週 Digital Modulation\n\n第18週 Term Exam",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 35,
+            "note": ""
+        },
+        {
+            "type": "期中考",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 35,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

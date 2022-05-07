@@ -1,0 +1,870 @@
+[
+    {
+        "year": 110,
+        "term": 2,
+        "name": "華語文教學綜論",
+        "teachers": [
+            "袁芳遠"
+        ],
+        "department": "IM84",
+        "code": "CLM0034",
+        "credit": 3,
+        "serial": 1337,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 2,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "博1002"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎課程不開放上修",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 2,
+        "name": "語用學",
+        "teachers": [
+            "謝佳玲"
+        ],
+        "department": "IM84",
+        "code": "CLM0036",
+        "credit": 3,
+        "serial": 1338,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 5,
+                "from": 2,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "博1002"
+            }
+        ],
+        "programs": [],
+        "comment": "◎數位課程",
+        "restrict": "◎課程不開放上修",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 2,
+        "name": "文化專題研究",
+        "teachers": [
+            "楊聰榮"
+        ],
+        "department": "IM84",
+        "code": "CLM0047",
+        "credit": 3,
+        "serial": 1339,
+        "group": "",
+        "quota": {
+            "limit": 30,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 2,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "博1002"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎課程不開放上修",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 2,
+        "name": "中國古典文學專題研究",
+        "teachers": [
+            "林振興"
+        ],
+        "department": "IM84",
+        "code": "CLM0049",
+        "credit": 3,
+        "serial": 1340,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 6,
+                "to": 8,
+                "campus": "本部",
+                "classroom": "綜10樓華語系教室"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎課程不開放上修",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 2,
+        "name": "質化研究方法",
+        "teachers": [
+            "楊秉煌"
+        ],
+        "department": "IM84",
+        "code": "CLM0066",
+        "credit": 3,
+        "serial": 1341,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 2,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "綜10樓華語系教室"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎課程不開放上修",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 2,
+        "name": "國際教育研究",
+        "teachers": [
+            "楊聰榮"
+        ],
+        "department": "IM84",
+        "code": "CLM0067",
+        "credit": 3,
+        "serial": 1342,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 2,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "綜10樓華語系教室"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎課程不開放上修",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 2,
+        "name": "華語文教材教法研究",
+        "teachers": [
+            "蔡雅薰"
+        ],
+        "department": "IM84",
+        "code": "CLM0076",
+        "credit": 3,
+        "serial": 1343,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 5,
+                "from": 2,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "綜901"
+            }
+        ],
+        "programs": [
+            "國際教師學程-華語文"
+        ],
+        "comment": "",
+        "restrict": "◎課程不開放上修",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 2,
+        "name": "專業華語文教材研究",
+        "teachers": [
+            "陳麗宇"
+        ],
+        "department": "IM84",
+        "code": "CLM0082",
+        "credit": 3,
+        "serial": 1344,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 7,
+                "to": 9,
+                "campus": "本部",
+                "classroom": "正201"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎課程不開放上修",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 2,
+        "name": "比較教育研究",
+        "teachers": [
+            "吳龍雲"
+        ],
+        "department": "IM84",
+        "code": "CLM0090",
+        "credit": 3,
+        "serial": 1345,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 2
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 2,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "綜10樓華語系教室"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎課程不開放上修",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 2,
+        "name": "學術議題研討（二）",
+        "teachers": [
+            "蕭惠貞"
+        ],
+        "department": "IM84",
+        "code": "CLM0092",
+        "credit": 1,
+        "serial": 1346,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 5,
+                "from": 8,
+                "to": 8,
+                "campus": "本部",
+                "classroom": "博504演講廳"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎課程不開放上修",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 2,
+        "name": "跨文化交流研究",
+        "teachers": [
+            "孟柱憶"
+        ],
+        "department": "IM84",
+        "code": "CLM0093",
+        "credit": 3,
+        "serial": 1347,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 7,
+                "to": 9,
+                "campus": "本部",
+                "classroom": "綜10樓華語系教室"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎課程不開放上修",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 2,
+        "name": "華語語料庫語言學",
+        "teachers": [
+            "洪嘉馡"
+        ],
+        "department": "IM84",
+        "code": "CLM0094",
+        "credit": 3,
+        "serial": 1348,
+        "group": "",
+        "quota": {
+            "limit": 30,
+            "additional": 0
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 2,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "誠105"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎課程不開放上修",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 2,
+        "name": "分項華語文教學實習：外籍生（A）",
+        "teachers": [
+            "杜昭玫"
+        ],
+        "department": "IM84",
+        "code": "CLM0097",
+        "credit": 3,
+        "serial": 1349,
+        "group": "",
+        "quota": {
+            "limit": 0,
+            "additional": 40
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 2,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "博1002"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎課程不開放上修",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 2,
+        "name": "分項華語文教學實習：外籍生（B）",
+        "teachers": [
+            "陳嘉凌"
+        ],
+        "department": "IM84",
+        "code": "CLM0101",
+        "credit": 3,
+        "serial": 1350,
+        "group": "",
+        "quota": {
+            "limit": 0,
+            "additional": 40
+        },
+        "schedule": [
+            {
+                "day": 5,
+                "from": 2,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "綜10樓華語系教室"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎課程不開放上修",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 2,
+        "name": "分項華語文教學實習：海外實習（一）",
+        "teachers": [
+            "王贊育",
+            "洪嘉馡"
+        ],
+        "department": "IM84",
+        "code": "CLM0102",
+        "credit": 3,
+        "serial": 1351,
+        "group": "",
+        "quota": {
+            "limit": 0,
+            "additional": 40
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 2,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "綜901"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎課程不開放上修",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 2,
+        "name": "分項華語文教學實習：國際學校（A）",
+        "teachers": [
+            "孫懿芬",
+            "曹靜儀"
+        ],
+        "department": "IM84",
+        "code": "CLM0104",
+        "credit": 3,
+        "serial": 1352,
+        "group": "",
+        "quota": {
+            "limit": 0,
+            "additional": 40
+        },
+        "schedule": [
+            {
+                "day": 5,
+                "from": 5,
+                "to": 7,
+                "campus": "本部",
+                "classroom": "博1002"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎課程不開放上修",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 2,
+        "name": "近現代中國人文發展史",
+        "teachers": [
+            "信世昌"
+        ],
+        "department": "IM84",
+        "code": "CLC8002",
+        "credit": 3,
+        "serial": 1353,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 7,
+                "to": 9,
+                "campus": "本部",
+                "classroom": "博1002"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎課程不開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 2,
+        "name": "漢語語義學",
+        "teachers": [
+            "蕭惠貞"
+        ],
+        "department": "IM84",
+        "code": "CLC8026",
+        "credit": 3,
+        "serial": 1354,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 5
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 6,
+                "to": 8,
+                "campus": "本部",
+                "classroom": "博1002"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎課程不開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 2,
+        "name": "篇章分析",
+        "teachers": [
+            "陳俊光"
+        ],
+        "department": "IM84",
+        "code": "CLC8027",
+        "credit": 3,
+        "serial": 1355,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 7,
+                "to": 9,
+                "campus": "本部",
+                "classroom": "博1003"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎課程不開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 2,
+        "name": "漢語會話分析",
+        "teachers": [
+            "陳俊光"
+        ],
+        "department": "IM84",
+        "code": "CLC8030",
+        "credit": 3,
+        "serial": 1356,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 7,
+                "to": 9,
+                "campus": "本部",
+                "classroom": "博1002"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎課程不開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 2,
+        "name": "中文閱讀之心理認知研究",
+        "teachers": [
+            "官英華"
+        ],
+        "department": "IM84",
+        "code": "CLC8035",
+        "credit": 3,
+        "serial": 1357,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 0
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 3,
+                "to": 5,
+                "campus": "本部",
+                "classroom": "博1002"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎課程不開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 2,
+        "name": "內容整合語言學習概論",
+        "teachers": [
+            "陳振宇"
+        ],
+        "department": "IM84",
+        "code": "CLC8052",
+        "credit": 3,
+        "serial": 1358,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 5
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 2,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "綜10樓華語系教室"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎課程不開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 2,
+        "name": "國際漢學專題研究",
+        "teachers": [
+            "李育娟"
+        ],
+        "department": "IM84",
+        "code": "CLC8055",
+        "credit": 3,
+        "serial": 1359,
+        "group": "",
+        "quota": {
+            "limit": 30,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 6,
+                "to": 8,
+                "campus": "本部",
+                "classroom": "正401"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎課程不開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 2,
+        "name": "第二語言習得：理論與教學",
+        "teachers": [
+            "陳振宇"
+        ],
+        "department": "IM84",
+        "code": "CLC8059",
+        "credit": 3,
+        "serial": 1360,
+        "group": "",
+        "quota": {
+            "limit": 30,
+            "additional": 5
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 7,
+                "to": 9,
+                "campus": "本部",
+                "classroom": "綜901"
+            }
+        ],
+        "programs": [],
+        "comment": "◎數位課程",
+        "restrict": "◎課程不開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 2,
+        "name": "第二語言習得研究",
+        "teachers": [
+            "徐東伯"
+        ],
+        "department": "IM84",
+        "code": "CLC8069",
+        "credit": 3,
+        "serial": 1361,
+        "group": "",
+        "quota": {
+            "limit": 30,
+            "additional": 0
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 2,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "博1003"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎課程不開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 2,
+        "name": "數位華語教學專題研究",
+        "teachers": [
+            "籃玉如"
+        ],
+        "department": "IM84",
+        "code": "CLC8070",
+        "credit": 3,
+        "serial": 1362,
+        "group": "",
+        "quota": {
+            "limit": 40,
+            "additional": 0
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 6,
+                "to": 8,
+                "campus": "本部",
+                "classroom": "博1002"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎課程不開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 2,
+        "name": "科技促進語言學習研究",
+        "teachers": [
+            "籃玉如"
+        ],
+        "department": "IM84",
+        "code": "CLC8071",
+        "credit": 3,
+        "serial": 1363,
+        "group": "",
+        "quota": {
+            "limit": 40,
+            "additional": 0
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 6,
+                "to": 8,
+                "campus": "本部",
+                "classroom": "綜901"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎課程不開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    }
+]

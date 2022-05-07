@@ -1,0 +1,64 @@
+{
+    "year": 107,
+    "term": 2,
+    "name": "固態物理（二）",
+    "teachers": [
+        "吳文欽"
+    ],
+    "department": "SM41",
+    "code": "PHC0024",
+    "credit": 3,
+    "serial": 2616,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 2,
+            "to": 4,
+            "campus": "公館",
+            "classroom": "Ｆ104"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "Solid state physics is a BIG subject. The more you know about its various topics, the better. Therefore, I'll try to cover as many topics as possible. The elementary topics, such as crystal structure, phonons, band structure, and Fermi surface, should be covered in undergraduate course already. \nConsequently, I'll review them in a concise manner.",
+    "goals": [
+        "瞭解固態物理的重要理論與實驗",
+        "簡介固態物理的新發展"
+    ],
+    "syllabus": "Part IV: ELECTRON TRANSPORT\n\n        Chapter 16: Dynamics of Bloch Electrons\n\n        Chapter 17: Transport Phenomena and Fermi Liquid Theory\n\n        Chapter 18: Microscopic Theories of Conduction\n\n        Chapter 19: Electronics\n\nPart V: OPTICAL PROPERTIES\n\n        Chapter 20: Phenomenological Theory\n\n        Chapter 21: Optical Properties of Semiconductors\n\n        Chapter 22: Optical Properties of Insulators\n\n        Chapter 23: Optical Properties of Metals and Inelastic Scattering\n\nPart VI: MAGNETISM\n\n        Chapter 24: Classical Theories of Magnetism and Ordering\n\n        Chapter 25: Magnetism of Ions and Electrons\n\n        Chapter 26: Quantum Mechanics of Interacting Magnetic Moments\n\n        Chapter 27: Superconductivity",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 50,
+            "note": ""
+        },
+        {
+            "type": "期中考",
+            "weight": 25,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 25,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

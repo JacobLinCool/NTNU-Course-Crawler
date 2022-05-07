@@ -1,0 +1,79 @@
+{
+    "year": 107,
+    "term": 2,
+    "name": "雷射共振腔專題研究 （二）",
+    "teachers": [
+        "陸亭樺"
+    ],
+    "department": "SM41",
+    "code": "PHC8002",
+    "credit": 3,
+    "serial": 2624,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 9,
+            "to": 10,
+            "campus": "公館",
+            "classroom": "教室自排"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "1. 使學生了解雷射共振腔光學原理\n2. 藉由實作演練學習如何控制雷射共振腔功率及觀察光學模態",
+    "goals": [
+        "培養研究生獨立完成雷射架設",
+        "了解近代雷射光學發展",
+        "培養解決實驗問題的能力",
+        "訓練實驗技巧"
+    ],
+    "syllabus": "Week 1: Maxwell’s equations of isotropic media\n\nWeek 2: 了解雷射晶體結構\n\nWeek 3: Maxwell’s equations in real, time-dependent form\n\nWeek 4: 雷射共振腔理論\n\nWeek 5: The complex form of Maxwell’s equations\n\nWeek 6: 操作雷射實驗\n\nWeek 7: Reflection of plane waves from interfaces\n\nWeek 8: 操作雷射實驗\n\nWeek 9: Transverse electric wave reflected from boundary\n\nWeek 10: 實驗結果分析\n\nWeek 11: 實驗結果分析\n\nWeek 12: 操作雷射實驗\n\nWeek 13: 理論模擬教學\n\nWeek 14: 實驗結果分析\n\nWeek 15: 理論模擬教學\n\nWeek 16: 實驗結果分析\n\nWeek 17: 操作雷射實驗\n\nWeek 18: 操作雷射實驗",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "講解課程內容"
+        },
+        {
+            "type": "實驗/實作",
+            "note": "實際參與實驗設計與操作"
+        },
+        {
+            "type": "其他",
+            "note": "收集資料及口頭報告(定期由學生收集資料及口頭報告)"
+        }
+    ],
+    "grading": [
+        {
+            "type": "課堂討論參與",
+            "weight": 25,
+            "note": "評估參與討論的投入程度"
+        },
+        {
+            "type": "出席",
+            "weight": 25,
+            "note": ""
+        },
+        {
+            "type": "報告",
+            "weight": 25,
+            "note": "收集資料及口頭報告"
+        },
+        {
+            "type": "其他",
+            "weight": 25,
+            "note": "實驗設計與操作"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

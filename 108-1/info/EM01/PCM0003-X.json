@@ -1,0 +1,85 @@
+{
+    "year": 108,
+    "term": 1,
+    "name": "教育心理學專題研究",
+    "teachers": [
+        "陳慧娟",
+        "李俊仁"
+    ],
+    "department": "EM01",
+    "code": "PCM0003",
+    "credit": 2,
+    "serial": 447,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 9,
+            "to": 10,
+            "campus": "本部",
+            "classroom": "教511"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程不開放上修",
+    "form_s": "1",
+    "classes": "",
+    "dept_group": "",
+    "hours": 2,
+    "description": "本課程主要提供給有興趣從事或已從事教育工作的學生修習,希望透過課程的介紹以及內容的講述,能把有關教育心理學的概念與實務經驗帶回到教室或相關的情境中,以協助同學了解並發展教與學的專業。",
+    "goals": [
+        "幫助學生瞭解教育心理學發展簡史、認知心理學對教學的貢獻、教學理論派別與內容",
+        "藉以認識近年來教學心理學研究趨勢和發現，幫助增進個人的視野和知識",
+        "透過閱讀相關專業著作及學術論文,提昇並發展個人的研究計劃能力以及改善教學方案",
+        "希望藉著討論能激發彼此的思維,透過閱讀文獻能增加個人的綜合以及批判的能力"
+    ],
+    "syllabus": "第一週：Ch 1 Educational psychology: Searching for essence throughout a century of influence.\n\n第二週：Ch 2 Educational psychology in the 21st century.\n\n第三週：Ch 5 Development during early and middle adolescence.\n\n第四週：Ch 7 Individual differences in cognitive function\n\n第五週：Ch 8 Model of personality and affect for education: A review and a synthesis.\n\n第六週：Ch10 Learning theories and education: Toward a decade of synergy.\n\n第七週：Ch12 Cognitive strategies instruction: From basic research to classroom instruction.\n\n第八週：Ch14 Changing knowledge and beliefs\n\n第九週：Ch15 Classroom as contexts for motivating learning.\n\n第十週：Ch17 Goals, values, and affect: Influences on student motivation\n\n第十一週：Ch25 Social cultural perspectives in educational psychology.\n\n第十二週：Ch30 Education for knowledge age: Design-centered model of teaching and instruction\n\n第十三週：Ch32 The design of powerful learning environments\n\n第十四週：Ch35 Teaching and learning in technology-rich environments\n\n第十五週：Ch40 Development in assessment of student learning.\n\n第十六週：Ch41 Assessment of teaching learning and development.\n\n第十七週：教室團體歷程 IV （實做）\n\n第十八週：期末專題口頭報告: 就專題作簡要報告，每人8分鐘",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "老師講授"
+        },
+        {
+            "type": "討論法",
+            "note": "共同討論"
+        },
+        {
+            "type": "實驗/實作",
+            "note": "教室團體歷程"
+        }
+    ],
+    "grading": [
+        {
+            "type": "課堂討論參與",
+            "weight": 5,
+            "note": ""
+        },
+        {
+            "type": "出席",
+            "weight": 5,
+            "note": ""
+        },
+        {
+            "type": "報告",
+            "weight": 15,
+            "note": ""
+        },
+        {
+            "type": "專題",
+            "weight": 50,
+            "note": "期末專題研究報告"
+        },
+        {
+            "type": "其他",
+            "weight": 25,
+            "note": "實作"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

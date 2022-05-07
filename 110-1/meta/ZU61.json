@@ -1,0 +1,357 @@
+[
+    {
+        "year": 110,
+        "term": 1,
+        "name": "星星月亮太陽－天文漫談",
+        "teachers": [
+            "橋本康弘"
+        ],
+        "department": "GU",
+        "code": "06UG004",
+        "credit": 2,
+        "serial": 1007,
+        "group": "B",
+        "quota": {
+            "limit": 107,
+            "additional": 30
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 3,
+                "to": 4,
+                "campus": "公館",
+                "classroom": "Ｅ202"
+            }
+        ],
+        "programs": [
+            "天文重力學程"
+        ],
+        "comment": "",
+        "restrict": "◎地科系（學）不得選修",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 1,
+        "name": "宇宙中的生命與太空環境",
+        "teachers": [
+            "橋本康弘"
+        ],
+        "department": "GU",
+        "code": "06UG021",
+        "credit": 2,
+        "serial": 1018,
+        "group": "",
+        "quota": {
+            "limit": 157,
+            "additional": 30
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 6,
+                "to": 7,
+                "campus": "公館",
+                "classroom": "Ｅ302"
+            }
+        ],
+        "programs": [
+            "天文重力學程"
+        ],
+        "comment": "◎數位課程",
+        "restrict": "",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 1,
+        "name": "廣義相對論（一）",
+        "teachers": [
+            "卜宏毅"
+        ],
+        "department": "SM41",
+        "code": "PHC0114",
+        "credit": 3,
+        "serial": 2684,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 6,
+                "to": 8,
+                "campus": "公館",
+                "classroom": "Ｓ701"
+            }
+        ],
+        "programs": [
+            "天文重力學程"
+        ],
+        "comment": "",
+        "restrict": "◎課程開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 1,
+        "name": "微分幾何（一）",
+        "teachers": [
+            "陳瑞堂"
+        ],
+        "department": "SU40",
+        "code": "MAU0106",
+        "credit": 3,
+        "serial": 2845,
+        "group": "A",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 5,
+                "from": 6,
+                "to": 6,
+                "campus": "公館",
+                "classroom": "理圖801"
+            },
+            {
+                "day": 5,
+                "from": 7,
+                "to": 8,
+                "campus": "公館",
+                "classroom": "Ｂ103"
+            }
+        ],
+        "programs": [
+            "天文重力學程"
+        ],
+        "comment": "",
+        "restrict": "",
+        "form_s": "3",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 1,
+        "name": "微分幾何（一）",
+        "teachers": [
+            "樂美亨"
+        ],
+        "department": "SU40",
+        "code": "MAU0106",
+        "credit": 3,
+        "serial": 2846,
+        "group": "B",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 5,
+                "from": 6,
+                "to": 7,
+                "campus": "公館",
+                "classroom": "Ｓ603"
+            },
+            {
+                "day": 5,
+                "from": 8,
+                "to": 8,
+                "campus": "公館",
+                "classroom": "理圖801"
+            }
+        ],
+        "programs": [
+            "天文重力學程"
+        ],
+        "comment": "",
+        "restrict": "",
+        "form_s": "3",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 1,
+        "name": "計算機在物理的應用（一）",
+        "teachers": [
+            "高賢忠"
+        ],
+        "department": "SU41",
+        "code": "PHU0029",
+        "credit": 2,
+        "serial": 2877,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 5,
+                "from": 3,
+                "to": 4,
+                "campus": "公館",
+                "classroom": "理圖801"
+            }
+        ],
+        "programs": [
+            "天文重力學程"
+        ],
+        "comment": "",
+        "restrict": "",
+        "form_s": "1",
+        "classes": "1",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 1,
+        "name": "計算機在物理的應用（一）",
+        "teachers": [
+            "高賢忠"
+        ],
+        "department": "SU41",
+        "code": "PHU0029",
+        "credit": 2,
+        "serial": 2882,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 9,
+                "to": 10,
+                "campus": "公館",
+                "classroom": "理圖801"
+            }
+        ],
+        "programs": [
+            "天文重力學程"
+        ],
+        "comment": "",
+        "restrict": "",
+        "form_s": "1",
+        "classes": "2",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 1,
+        "name": "宇宙學導論",
+        "teachers": [
+            "吳亞霖"
+        ],
+        "department": "SU41",
+        "code": "PHU0217",
+        "credit": 3,
+        "serial": 2909,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 2,
+                "to": 4,
+                "campus": "公館",
+                "classroom": "Ｓ403"
+            }
+        ],
+        "programs": [
+            "天文重力學程"
+        ],
+        "comment": "",
+        "restrict": "",
+        "form_s": "4",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 1,
+        "name": "宇宙觀的進展",
+        "teachers": [
+            "陳林文"
+        ],
+        "department": "SU44",
+        "code": "ESU0047",
+        "credit": 3,
+        "serial": 3030,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 5
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 7,
+                "to": 9,
+                "campus": "公館",
+                "classroom": "Ｓ407"
+            }
+        ],
+        "programs": [
+            "天文重力學程"
+        ],
+        "comment": "",
+        "restrict": "◎必須先修過【ESU0178  天文學（含實習）】",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 1,
+        "name": "天文觀測（含實習）",
+        "teachers": [
+            "曾瑋玲",
+            "李悅寧"
+        ],
+        "department": "SU44",
+        "code": "ESU0183",
+        "credit": 3,
+        "serial": 3032,
+        "group": "",
+        "quota": {
+            "limit": 16,
+            "additional": 2
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 16,
+                "to": 11,
+                "campus": "公館",
+                "classroom": "Ｂ413"
+            }
+        ],
+        "programs": [
+            "天文重力學程"
+        ],
+        "comment": "",
+        "restrict": "",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    }
+]

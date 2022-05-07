@@ -1,0 +1,66 @@
+{
+    "year": 109,
+    "term": 2,
+    "name": "電腦化測驗與評量系統",
+    "teachers": [
+        "詹育"
+    ],
+    "department": "HM70",
+    "code": "IEM0145",
+    "credit": 3,
+    "serial": 1093,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 4,
+            "from": 3,
+            "to": 5,
+            "campus": "本部",
+            "classroom": "研討四"
+        }
+    ],
+    "programs": [],
+    "comment": "教師：詹勳育",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程主要為運用電腦化與行動網路化測驗與評量的理論知識與實務技術，應用於行動網路或雲端的學習或訓練的測評活動中。",
+    "goals": [
+        "了解測驗與評量之基本理論知識與實務",
+        "了解國內外在電腦化或行動網路化測驗與評量之系統平台發展與應用現況",
+        "了解與歸納電腦化與行動化網路測驗與評量之相關論文發表情況與趨勢",
+        "分析雲端新技術在電腦化與網路化測驗與評量之需求與內涵",
+        "了解行動雲端新技術與環境在資訊網路化測驗與評量之影響與設計發展趨勢"
+    ],
+    "syllabus": "**This course is delivered in English**. That said, students with limited English proficiency are encouraged to take this class and **will be fully supported**. \n\nThis course introduces students to the fundamental theories of computer-based testing (CBT) and its application in career and technical education (CTE). Through reading, discussion, and group project, students will understand the development of CBT, development of items, and testing and scoring. The fundamentals of the item response theory (IRT) will be introduced and explained. \n\nAssignments:\n\n1.  **Weekly reflection**: From Week 2 to Week 16, students should submit a 300-word (in English) or 500-word (in Chinese) reflection that 1) summarizes the assigned readings, and 2) propose one question or one critique of the assigned readings. The readings should be posted on course website two days before the class meeting.\n\nSchedule (tentative; subject to change):  \n1.    Course introduction  \n2.    History of CBT  \n3.    System design and operation  \n4.    Item pools  \n5.    Introduction to item response theory  \n6.    (Spring break; no class)  \n7.    Test algorithm  \n8.    Scaling and equating  \n9.    Classical test theory and factor analysis  \n10.    Reliability and measurement precision  \n11.    Validity  \n12.    Examinee behavior  \n13.    Current challenges  \n14.    Large-scale CBT  \n15.    Different types of CBT: e-portfolio  \n16.    Showcase  \n17.    Showcase   \n18.    Final thoughts",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "Class lectures"
+        },
+        {
+            "type": "討論法",
+            "note": "Class discussion"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 50,
+            "note": "Assignment #1"
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 50,
+            "note": "Attendance and involvement in class discussion"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

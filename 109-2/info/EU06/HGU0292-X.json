@@ -1,0 +1,88 @@
+{
+    "year": 109,
+    "term": 2,
+    "name": "青少年發展",
+    "teachers": [
+        "聶西平"
+    ],
+    "department": "EU06",
+    "code": "HGU0292",
+    "credit": 2,
+    "serial": 789,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 9,
+            "to": 10,
+            "campus": "本部",
+            "classroom": "誠204"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "E",
+    "hours": 2,
+    "description": "本課程旨在使學生瞭解青少年的意義與現況，並探討青少年之生理、心理(認知、情緒、人格及自我)、社會(社會化與性別角色)、及道德相關發展，以及青少年發展的任務與危機。",
+    "goals": [
+        "增進青少年發展專業和研究的知能",
+        "強化青少年發展領域的知能與教學、家庭教育推廣結合的能力",
+        "提升表達、溝通、團隊合作的能力",
+        "培養終身學習及生涯發展的能力"
+    ],
+    "syllabus": "1.  課程介紹與導論\n2.  PUBERTY, HEALTH, AND BIOLOGICAL FOUNDATIONS\n3.  THE BRAIN AND COGNITIVE DEVELOPMENT\n4.  THE SELF, IDENTITY, EMOTION, AND PERSONALITY\n5.  電影欣賞及評論\n6.  GENDER\n7.  SEXUALITY\n8.  MORAL DEVELOPMENT, VALUES, AND RELIGION\n9.  期中考\n10.  FAMILIES\n11.  PEERS, ROMANTIC RELATIONSHIPS, AND LIFESTYLES\n12.  SCHOOLS\n13.  ACHIEVEMENT, WORK, AND CAREERS\n14.  CULTURE\n15.  PROBLEMS IN ADOLESCENCE AND EMERGING ADULTHOOD \n16.  期末考\n17.  彈性學習週\n18.  彈性學習週",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "教師講述當週主題"
+        },
+        {
+            "type": "討論法",
+            "note": "安排學生小組討論並於課堂分享討論的結果"
+        },
+        {
+            "type": "合作學習",
+            "note": "學生透過小組討論，練習歸納整理不同意見以及團隊合作的精神。"
+        },
+        {
+            "type": "媒體融入教學",
+            "note": "使用投影片及搭配影片等補充教材融入教學"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 20,
+            "note": "學期中會指定二份作業，作業格式與主題配合課程進度另行公布。"
+        },
+        {
+            "type": "期中考",
+            "weight": 30,
+            "note": "Open-book exam"
+        },
+        {
+            "type": "期末考",
+            "weight": 30,
+            "note": "Open-book exam"
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 15,
+            "note": "每週課堂會依當週主題安排學生進行小組討論並於課堂分享討論的結果，參與討論的程度將作為評分參考。"
+        },
+        {
+            "type": "出席",
+            "weight": 5,
+            "note": "平時出席與點名紀錄"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

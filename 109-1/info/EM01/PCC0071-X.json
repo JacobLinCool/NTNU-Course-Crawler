@@ -1,0 +1,68 @@
+{
+    "year": 109,
+    "term": 1,
+    "name": "認知心理學實驗技術",
+    "teachers": [
+        "許禕芳"
+    ],
+    "department": "EM01",
+    "code": "PCC0071",
+    "credit": 3,
+    "serial": 437,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 1,
+            "from": 6,
+            "to": 8,
+            "campus": "本部",
+            "classroom": "教500"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程不開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程旨在介紹如何使用套裝軟體撰寫電腦化的認知心理學實驗程式，並幫助初學者設計、紀錄、與分析腦電波資料。課程進行方式包含教師講授、學生報告、與實驗操作。",
+    "goals": [
+        "具備實驗儀器的知識及操作能",
+        "能以儀器研究人類的心理",
+        "了解國際先進的設備"
+    ],
+    "syllabus": "01 (14SEP)：Introduction  \n02 (21SEP)：E-Studio  \n03 (28SEP)：E-Studio  \n04 (05OCT)：E-Merge and E-DataAid  \n05 (12OCT)：Behavioural data collection  \n06 (19OCT)：Presentation 1: programme and results  \n07 (26OCT)：Presentation 1: programme and results  \n08 (02NOV)：Lab tour  \n09 (09NOV)：Presentation 2: an introduction to ERPs and their neural origins  \n10 (16NOV)：Presentation 2: the design and interpretation of ERP experiments  \n11 (23NOV)：Presentation 2: basic principles of ERP recording  \n12 (30NOV)：EEG data acquisition (as participants)  \n13 (07DEC)：EEG data acquisition (as experimenters)  \n14 (14DEC)：EEGLAB  \n15 (21DEC)：EEGLAB  \n16 (28DEC)：Presentation 3: critical evaluation of an ERP experiment  \n17 (04JAN)：Presentation 3: critical evaluation of an ERP experiment  \n18 (11JAN)：Final exam",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": ""
+        },
+        {
+            "type": "實驗/實作",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "出席",
+            "weight": 25,
+            "note": "Active attendance"
+        },
+        {
+            "type": "報告",
+            "weight": 75,
+            "note": "E-Prime (25%), ERP techniques (25%), critical evaluation (25%)"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

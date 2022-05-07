@@ -1,0 +1,74 @@
+{
+    "year": 109,
+    "term": 2,
+    "name": "近代物理探索與應用（二）",
+    "teachers": [
+        "陳穎叡"
+    ],
+    "department": "SU41",
+    "code": "PHU0265",
+    "credit": 1,
+    "serial": 2851,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 4,
+            "from": 3,
+            "to": 3,
+            "campus": "公館",
+            "classroom": "Ｓ404"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "3",
+    "classes": "2",
+    "dept_group": "",
+    "hours": 1,
+    "description": "本課程搭配物理系三年級必修課程「近代物理」，促進「近代物理」課程之學習、增進學生對近代物理在應用上的認知、以及引導學生修習各物理領域進階選修專題。此課程補充近代物理內容(如統計力學、能帶結構)，並廣泛介紹近代物理各子題(核物理、基本粒子、宇宙學)，以及在各個領域的相關應用與發展。",
+    "goals": [
+        "瞭解近代物理的發展過程",
+        "瞭解近代物理重要結果與現況",
+        "引導學生探究、思考物理新知"
+    ],
+    "syllabus": "**(Labled with R. Eisberg textbook chapter number)**  \n**Week 1~2    A review of the hydrogen atom problem and (Chap.7) the** **spin-orbit interaction (Chap.8)**  \n**Week 2~3    Pertubation theory**  \n**Week 4~7    Hartree-Fock theory and Multielectron atoms**  \n**Week 8        Midterm Exam**  \n**Week 9~10   From classical statistics to quantum statistics**  \n**Week 11~12  Examples of fermions and bosons**  \n**Week 13       TBA**  \n**Week 14~16  Molecules ad Solids**  \n**Week 17       Final Exam**",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "黑板書寫，PPT檔案投影。必要時採線上即時視訊教學，或上傳教學內容檔案至moodle，輔以線上討論。"
+        },
+        {
+            "type": "討論法",
+            "note": "近代物理學(二)及近代物理探索與應用(二)必然發生許多課堂討論"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 35,
+            "note": "因本課程作業重要性高，以學生親自設法完成作業為主要目標，並鼓勵提出疑問來討論"
+        },
+        {
+            "type": "期中考",
+            "weight": 30,
+            "note": "期中考，採筆試"
+        },
+        {
+            "type": "期末考",
+            "weight": 30,
+            "note": "期末考，採口試"
+        },
+        {
+            "type": "出席",
+            "weight": 5,
+            "note": "實際出席與參與討論之程度"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

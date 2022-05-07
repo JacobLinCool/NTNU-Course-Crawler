@@ -1,0 +1,83 @@
+{
+    "year": 107,
+    "term": 2,
+    "name": "學習評量（教）",
+    "teachers": [
+        "李清筠"
+    ],
+    "department": "LU20",
+    "code": "CHUE074",
+    "credit": 2,
+    "serial": 1671,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 3,
+            "from": 6,
+            "to": 7,
+            "campus": "本部",
+            "classroom": "樸303"
+        }
+    ],
+    "programs": [],
+    "comment": "◎課程內容以國文科為主。",
+    "restrict": "",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 2,
+    "description": "本課程介紹評量的基本概念。除了闡述教學目標和評量的連結，說明紙筆測驗命題的範例和技巧之外，也講解實作評量、檔案評量和情意評量等評量方式的理念與實務。藉由課堂討論及實作，引導學生省思，進而激發學生創造力，發展具有特色創意之評量。",
+    "goals": [
+        "具備多元評量概念。",
+        "增進編製紙筆測驗的能力。",
+        "具備設計符合教學目標評量方式的能力。",
+        "正確解釋與應用測驗與評量之結果。"
+    ],
+    "syllabus": "  \n[教學進度與主題附件](https://ap.itc.ntnu.edu.tw/NtnuFileShare/file.do?action=dl&gno=50c25f0895f94dd5be3313bcf139b89a&fno=435ab163a7904348b2aa897f52ed4bf8)",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "講授重要概念"
+        },
+        {
+            "type": "討論法",
+            "note": "適時設計相關問題供討論"
+        },
+        {
+            "type": "合作學習",
+            "note": "固定或隨機分組檢視各種評量的適切性;固定分組完成小組評量作業並講評其他組別作業"
+        },
+        {
+            "type": "實驗/實作",
+            "note": "紙筆測驗與實作評量"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 30,
+            "note": "學校段考試題評析"
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 5,
+            "note": ""
+        },
+        {
+            "type": "出席",
+            "weight": 5,
+            "note": ""
+        },
+        {
+            "type": "報告",
+            "weight": 60,
+            "note": "二次分組實作作業"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

@@ -1,0 +1,80 @@
+{
+    "year": 108,
+    "term": 1,
+    "name": "電子學實作",
+    "teachers": [
+        "陸健榮"
+    ],
+    "department": "SU41",
+    "code": "PHU0267",
+    "credit": 2,
+    "serial": 2894,
+    "group": "",
+    "quota": {
+        "limit": 30,
+        "additional": 5
+    },
+    "schedule": [
+        {
+            "day": 1,
+            "from": 9,
+            "to": 10,
+            "campus": "公館",
+            "classroom": "Ｄ118"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "2",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程提供大二學生熟悉基本電子儀錶之使用；認識基本電子元件及其特性；操作電子電路以及分析與應用。",
+    "goals": [
+        "瞭解電子儀器的操作",
+        "測試電子元件特性",
+        "實作電子電路實際應用",
+        "設計電子系統功能與應用",
+        "團隊合作與實作紀律"
+    ],
+    "syllabus": "1\\. Electronic instrument  \n2\\. Impedance\n\n3\\. Filter circuits  \n4\\. I-V characteristic curve of diode  \n5\\. Rectifier  \n6\\. Clamping circuit  \n7\\. Bipolar transistor\n\n8\\. Transistor Amplifiers\n\n9\\. Mid-term Test\n\n10\\. Inverting operational amplifier  \n11. Non-inverting operational amplifier  \n12\\. Difference operational amplifier  \n13. Instrumentation amplifier\n\n14\\. Integrator\n\n15\\. Field effect transistor\n\n16\\. CMOS Logic-Gates\n\n17\\. The CMOS Inverter\n\n18\\. Final Test",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "合作學習",
+            "note": ""
+        },
+        {
+            "type": "實驗/實作",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 25,
+            "note": "實作紀錄與分析"
+        },
+        {
+            "type": "期中考",
+            "weight": 25,
+            "note": "筆試暨實作"
+        },
+        {
+            "type": "期末考",
+            "weight": 25,
+            "note": "筆試暨實作"
+        },
+        {
+            "type": "出席",
+            "weight": 25,
+            "note": "實作紀律"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

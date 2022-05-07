@@ -1,0 +1,91 @@
+{
+    "year": 109,
+    "term": 1,
+    "name": "光電實驗（一）",
+    "teachers": [
+        "楊承山"
+    ],
+    "department": "HU77",
+    "code": "OEU0008",
+    "credit": 1,
+    "serial": 1399,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 3,
+            "to": 4,
+            "campus": "公館",
+            "classroom": "AP415光電實驗室"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "2",
+    "classes": "",
+    "dept_group": "",
+    "hours": 2,
+    "description": "本課程為建立學生基礎光學知識與實作應用，使學生了解基礎光學技術應用，並建立學生動手實作與分析計算之能力，並作為未來光學學科發展與應用之入門工具與知識",
+    "goals": [
+        "學習雷射操控與雷射安全認知",
+        "建立基礎光學與架設光學系統能力",
+        "學習光學原件與工作原理",
+        "學習與驗證光學系統實作現象與其理論模型"
+    ],
+    "syllabus": "1.\n\n光學實驗室須知與雷射安全講習\n\n2.\n\n雷射準直實驗與平行光建置\n\n3.\n\n影像感測器與空間光調制器實作\n\n4.\n\n雷射光場分析實驗\n\n期中報告\n\n5.\n\n透鏡成像實驗\n\n6.\n\n偏振量測實驗\n\n7.\n\n繞射實驗\n\n 8.\n\n期末報告",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": ""
+        },
+        {
+            "type": "問題解決教學",
+            "note": ""
+        },
+        {
+            "type": "合作學習",
+            "note": ""
+        },
+        {
+            "type": "實驗/實作",
+            "note": ""
+        },
+        {
+            "type": "媒體融入教學",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 20,
+            "note": ""
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 10,
+            "note": ""
+        },
+        {
+            "type": "出席",
+            "weight": 10,
+            "note": ""
+        },
+        {
+            "type": "報告",
+            "weight": 60,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

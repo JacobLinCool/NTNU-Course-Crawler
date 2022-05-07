@@ -1,0 +1,100 @@
+{
+    "year": 108,
+    "term": 2,
+    "name": "計算色彩學",
+    "teachers": [
+        "周遵儒"
+    ],
+    "department": "HU72",
+    "code": "GCC0011",
+    "credit": 3,
+    "serial": 1188,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 2,
+            "to": 4,
+            "campus": "本部",
+            "classroom": "綜701"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎限大三大四 ◎限碩一碩二碩三以上修習",
+    "form_s": "",
+    "classes": "9",
+    "dept_group": "",
+    "hours": 3,
+    "description": "訓練學生對於使用各種計算工具與方法解決關於色彩量測、彩色影像輸出入、彩色影像處理、嵌入式彩色影像系統的問題，並輔導學生從事相關課題的學術研究",
+    "goals": [
+        "具有運用資訊科技及設計知能，從事圖像、文字及聲音之整合製作、出版與經營之能力。",
+        "具有邏輯歸納、創意思考、藝術整合與市場分析之能力。",
+        "養成包融多元藝術形式的胸襟、發揮創意，展現圖文傳播之新契機。",
+        "具有獨立批判與分析，學習進行對外溝通與自我實現之能力。"
+    ],
+    "syllabus": "**4/1 起，改為遠距課程，觀看預錄教材內容影片，原上課時段開放互動討論學習，合計時數相當。**\n\n1      Introduction  \n2      Basic Theory of Color Science  \n3      Preliminary Foundation of Mathematics and Statistics  \n3.1    Calculus  \n3.2    Linear Algebra  \n3.3    Probability & Statistics  \n3.4    Approximation  \n3.5    Optimization  \n4      Computational Tools  \n4.1    Python  \n4.1    C++ (Option)  \n4.2    Matlab (Option)  \n4.3    Maple (Option)  \n5      Color Image Processing  \n6      Colorimetry  \n7      Spectral Color Recovery  \n8      Design Applications of Color  \n9      Artificial Intelligence Applications for Color Science  \n10     Study on Contemporary Researches\n\n第十七週、（因應疫情調整，自行參閱線上課程複習與練習實作）  \n第十八週、（因應疫情調整，自行參閱線上課程複習與練習實作）",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": ""
+        },
+        {
+            "type": "問題解決教學",
+            "note": ""
+        },
+        {
+            "type": "合作學習",
+            "note": ""
+        },
+        {
+            "type": "實驗/實作",
+            "note": ""
+        },
+        {
+            "type": "媒體融入教學",
+            "note": ""
+        },
+        {
+            "type": "專題研究",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 20,
+            "note": ""
+        },
+        {
+            "type": "出席",
+            "weight": 10,
+            "note": ""
+        },
+        {
+            "type": "報告",
+            "weight": 10,
+            "note": ""
+        },
+        {
+            "type": "專題",
+            "weight": 40,
+            "note": ""
+        },
+        {
+            "type": "其他",
+            "weight": 20,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

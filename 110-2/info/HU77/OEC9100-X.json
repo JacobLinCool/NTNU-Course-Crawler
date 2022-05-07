@@ -1,0 +1,72 @@
+{
+    "year": 110,
+    "term": 2,
+    "name": "生醫光電工程概論",
+    "teachers": [
+        "呂杰翰"
+    ],
+    "department": "HU77",
+    "code": "OEC9100",
+    "credit": 3,
+    "serial": 1310,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 4,
+            "from": 2,
+            "to": 4,
+            "campus": "公館",
+            "classroom": "Ｓ302"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "9",
+    "dept_group": "",
+    "hours": 3,
+    "description": "",
+    "goals": [
+        "The students will be able to understand the physics mechanism underlying the\nTechnologies.",
+        "The students will be familiar with the development of the contemporary photonics technologies used for biology, chemistry, and pharmacology study."
+    ],
+    "syllabus": "  \n\n【Teaching method: 16+2 weeks】\n\n  \n\nThe topic for each week is listed below. \n\n  \n\n1 Introduction of biophotonics\n\n2 Basics of biology\n\n3 Fundamentals of light-matter interaction\n\n4 Principle of lasers and current laser technologies\n\n5 Principles of optical microscopy\n\n6 Fluorescence microscopy\n\n7 Confocal microscopy & light-sheet microscopy\n\n8 Fluorescence techniques (FRAP, FLIM, FRET…)\n\n9 Super-resolution microscopies\n\n10 Single-molecule imaging\n\n11 Optical clearing for tissue imaging\n\n12 OCT, Photoacoustic tomography, and endoscopy\n\n13 Nanoparticles for imaging\n\n14 Optical biosensors\n\n15 Optical manipulations of biomaterials\n\n16 Exam\n\n17-18  Self-learning",
+    "methodologies": [
+        {
+            "type": "Formal lecture",
+            "note": "Concepts and principles of biophotonics technologies will be introduced in the lecture."
+        },
+        {
+            "type": "Group discussion",
+            "note": "Important applications related to the topics will be covered in the class. Students are encouraged to ask questions and discuss the advantages and limitations with each other."
+        },
+        {
+            "type": "Case studies",
+            "note": "During the semester, the students will choose a topic from recently published research papers and share his/her own opinions from studying this paper."
+        }
+    ],
+    "grading": [
+        {
+            "type": "Assignments",
+            "weight": 20,
+            "note": "The students will need to write a report based on their study of the research paper for the oral presentation. The report should include three chapters: introduction, discussion, and conclusion. The words count should not be less than 500 words and the report should be written in English."
+        },
+        {
+            "type": "Final exam",
+            "weight": 40,
+            "note": "The final exam will be in an open book fashioned. The range includes all the topics appeared in the lecture."
+        },
+        {
+            "type": "Presentation",
+            "weight": 40,
+            "note": "The students will be asked to present a research paper that is related to the biophotonics technology. The presentation should include a brief introduction to the research and his/her own comment/discoveries through the studying. The length of the presentation should not exceed 10 minutes."
+        }
+    ],
+    "prerequisite": "◎Available for junior and senior year B.A. program students (Doctoral program courses excepted) and M.A. program students.",
+    "general_core": []
+}

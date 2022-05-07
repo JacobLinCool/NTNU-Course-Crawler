@@ -1,0 +1,76 @@
+{
+    "year": 110,
+    "term": 2,
+    "name": "線性代數（二）",
+    "teachers": [
+        "李華介"
+    ],
+    "department": "SU40",
+    "code": "MAU0161",
+    "credit": 3,
+    "serial": 2735,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 6,
+            "to": 7,
+            "campus": "公館",
+            "classroom": "Ｂ103"
+        },
+        {
+            "day": 5,
+            "from": 4,
+            "to": 4,
+            "campus": "公館",
+            "classroom": "Ｂ103"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎必須先修過【MAU0160  線性代數（一）】 ◎課程開放上修",
+    "form_s": "1",
+    "classes": "1",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程讓學生瞭解邏輯、推理、歸納與論證的能力與線性代數的基本理論，以作為學生未來修習其他數學課程的基礎。",
+    "goals": [
+        "訓練學生掌握線性代數的基本理論",
+        "訓練學生可以用線性代數解決相關的數學問題",
+        "培養學生推理、論證的能力。"
+    ],
+    "syllabus": "【授課方式：18週】\n\n1\\. 行列式 (Determinants): \n\n  •二階行列式 (Determinants of order 2) --面積\n\n  • n 階行列式 (Determinants of order n)  --體積\n\n  • 行列式的性質 (Properties of determinants) \n\n  • 行列式的特徵 (A characterization of determinant) \n\n2\\. 固有值與固有向量 (Eigenvalues and eigenvectors)\n\n第一次期中考\n\n3\\. 座標變換矩陣 (The change of coordinate matrix)\n\n4\\. 對角化 (Diagonalizabiity) \n\n5\\. 矩陣極限與馬可夫鍊 (Matrix limits and Markov chains)\n\n6\\. 不變子空間與開立-漢米爾敦定理 (Invariant subspaces and the Caley-Hamilton Theorem)\n\n第二次期中考\n\n7\\. 內積向量空間 (Inner product spaces)\n\n  • 內積與範數 (inner products and norms)\n\n  • 格蘭-史密斯正交化程序、正交補集 (Gram-Schmidt orthogonalizatio process and orthogonal complements) \n\n  •  正交投影 (Orthogonal projection and spectral theorem)\n\n  • 雙線性與二次型 (Bilinear forms and quadratic forms) \n\n期末考",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 20,
+            "note": ""
+        },
+        {
+            "type": "期中考",
+            "weight": 40,
+            "note": "兩次期中考各占 20%"
+        },
+        {
+            "type": "期末考",
+            "weight": 40,
+            "note": ""
+        }
+    ],
+    "prerequisite": "◎必須先修過【MAU0160  線性代數（一）】",
+    "general_core": []
+}

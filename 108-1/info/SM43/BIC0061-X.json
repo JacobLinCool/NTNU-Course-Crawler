@@ -1,0 +1,67 @@
+{
+    "year": 108,
+    "term": 1,
+    "name": "植物分類原理與方法",
+    "teachers": [
+        "王震哲"
+    ],
+    "department": "SM43",
+    "code": "BIC0061",
+    "credit": 2,
+    "serial": 2712,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 6,
+            "to": 7,
+            "campus": "公館",
+            "classroom": "教室自排"
+        }
+    ],
+    "programs": [],
+    "comment": "教室F212",
+    "restrict": "◎課程不開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 2,
+    "description": "本課程為種子植物分類學之實驗，旨在讓學生藉由實際觀察印證講授內容，認識台灣本地主要植物類群的特徵，並依據特徵進行分類及鑑定，以供將來從事研究或教學之需。",
+    "goals": [
+        "能藉由實際觀察印證講授內容"
+    ],
+    "syllabus": "9/10\n\nThe meaning of systematics\n\n9/17\n\nSystematic institutions\n\n9/24\n\nSystematic institutions (cont.)\n\n10/1\n\nPlant nomenclature\n\n10/8\n\nPlant nomenclature (cont.)\n\n10/15\n\nClassification systems\n\n10/22\n\nMethods of plant systematics\n\n10/29\n\nConcepts of categories\n\n11/5\n\nMidterm exam.\n\n11/12\n\nCharacters\n\n11/19\n\nSpeciation\n\n11/26\n\nPalynology\n\n12/3\n\nChromosomal information\n\n12/10\n\nPlant reproductive biology\n\n12/17\n\nBiogeography and ecology\n\n12/24\n\nDiscussion\n\n12/31\n\nDiscussion\n\n1/7\n\nFinal exam.",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "期中考",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "報告",
+            "weight": 40,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

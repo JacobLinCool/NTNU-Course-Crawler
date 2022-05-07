@@ -1,0 +1,60 @@
+{
+    "year": 109,
+    "term": 2,
+    "name": "神經生物學",
+    "teachers": [
+        "呂國棟",
+        "王慈蔚"
+    ],
+    "department": "SU43",
+    "code": "BIC0001",
+    "credit": 3,
+    "serial": 2899,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 4,
+            "from": 2,
+            "to": 4,
+            "campus": "公館",
+            "classroom": "Ｃ303B"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "",
+    "classes": "9",
+    "dept_group": "",
+    "hours": 3,
+    "description": "Neuroscience is one of the fastest growing areas of Life Science in 21st century and is also at the cutting edge of both technical and conceptual advances in the biology. For studying Neuroscience, a firm background in Neurobiology such as how sensory system, motor system and cognitive system functioned will be required. In addition, students will also need to understand the basic knowledge including molecules, cells, neural networks, brain structure and behavior. This course will provide the fundamentals of neural function at all these levels. Briefly, this course will proceed from the basic biological properties of neurons and glial cells, to the physiological basis of learning, memory, sensory processing, emotion, motivation, drug addiction and psychiatric disorders. Throughout the course stress will be placed on methods and concepts rather than facts alone. Examples and case studies will be provided and discussed in this course.",
+    "goals": [
+        "瞭解神經生物學之基礎知識",
+        "瞭解常用之神經生物學實驗方法"
+    ],
+    "syllabus": "1\\. Review: Neuronal electrical properties (Chaps 2, 3, 4)\n\n2\\. Synaptic transmission and Neurotransmitter (Chaps 5, 6)\n\n3\\. Structure of the nervous system (Chap 7)\n\n4\\. Visual Sensation (Chaps 9, 10)\n\n5\\. Somatic sensory system (Chap 12)\n\n6\\. Control of movement I (Chaps 13, 14)\n\n7\\. Sensorimotor integration (Chaps 11, 14)\n\n8\\. Bain and behavior (Chap 15)\n\n9\\. Motivation (Chap 16)\n\n10\\. Sex and the brain (Chap 17)\n\n11\\. Brain mechanisms of emotion (Chap 18)\n\n12\\. Brain rhythms and sleep (Chap 19)\n\n13\\. Language, attention and Mental illness (Chaps 20, 21, 22)\n\n14\\. Wiring the brain and memory system (Chaps 22, 23)\n\n15\\. Molecular mechanisms of learning and memory (Chaps 24, 25)",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "Lecture (with powerpoint handout)"
+        }
+    ],
+    "grading": [
+        {
+            "type": "期中考",
+            "weight": 50,
+            "note": "筆試 (講義內容及實驗設計)"
+        },
+        {
+            "type": "期末考",
+            "weight": 50,
+            "note": "筆試 (講義內容及實驗設計)"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

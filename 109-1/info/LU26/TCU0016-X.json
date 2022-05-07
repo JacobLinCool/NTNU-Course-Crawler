@@ -1,0 +1,79 @@
+{
+    "year": 109,
+    "term": 1,
+    "name": "語言學概論（一）",
+    "teachers": [
+        "劉承賢"
+    ],
+    "department": "LU26",
+    "code": "TCU0016",
+    "credit": 2,
+    "serial": 2045,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 1,
+            "from": 3,
+            "to": 4,
+            "campus": "本部",
+            "classroom": "誠104"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "2",
+    "classes": "",
+    "dept_group": "",
+    "hours": 2,
+    "description": "本課程從人類基本的語文起源和語言學知識引言，進入台灣主要語言的介紹與學習，使學生能對本國語言有基本認識。",
+    "goals": [
+        "能了解人類語言和文字的起源",
+        "能了解台灣閩南語的起源與演變",
+        "能了解台灣南島語的起源與變遷",
+        "能學會台灣白話字與台羅拼音",
+        "能了解台灣客家語的起源與分布"
+    ],
+    "syllabus": "**9/14  課程簡介並談談語言**\n\n1.  **人類語言vs動物溝通**\n    \n2.  **台灣的語言生態**\n    \n\n**9/21  語音學（一）**\n\n1.  **語音屬性、語音元素(音素、IPA、臺羅拼音、傳統白話字)**\n    \n\n**9/28  語音學（二）**\n\n1.  **發聲器官、元音類別、輔音類別、音變規律**\n    \n\n**10/5  李江却台語文教基金會參訪（實際時間待確認，可能與他週進度對調）；自學：社會語言學—語言變異**\n\n**10/12  傳統聲韻學（一）**\n\n1.  **音節系統、音節結構、聲母類型、韻母類型、聲調系統、語音分期**\n    \n2.  **反切、聲母、聲紐、零聲母、字母(含臺語十五音)**\n    \n\n**10/19  傳統聲韻學（二）**\n\n1.  **五音、七音、九音；發、送、收**\n    \n2.  **韻母、韻類、韻攝、韻部、旁轉、對轉、四等、開合、洪細**\n    \n\n**10/26  傳統聲韻學（三）；自學：社會語言學—語言接觸**\n\n1.  **注音歷史、韻書與等韻圖、廣韻**\n    \n2.  **等韻圖、中古音系、中古聲調**\n    \n\n**11/2  傳統聲韻學（四）**\n\n1.  **中古後期音變、切韻、近代音系與語音演化**\n    \n2.  **實際應用**\n    \n\n**11/9  期中考**\n\n**11/16  音韻學（一）**\n\n1.  **Features**\n    \n2.  **Morphology and phonological alternations**\n    \n\n**11/23  音韻學（二）**\n\n1.  **Rules and derivations**\n    \n2.  **Cyclic phonology**\n    \n\n**11/30  音韻學（三）；自學：社會語言學—雙言／多言與雙語／多語**\n\n1.  **Syllables**\n    \n2.  **The phonological skeleton**\n    \n\n**12/7  音韻學（四）**\n\n1.  **Stress**\n    \n2.  **Tones and intonation**\n    \n\n**12/14  音韻學（五）**\n\n1.  **Feature geometry**\n    \n2.  **Underspecification & constraints**\n    \n\n**12/21  音韻學（六）**\n\n1.  **Prosodic morphology**\n    \n2.  **Productivity, diachrony and synchrony, and abstractness**\n    \n\n**12/28  音韻學（七）；自學：社會語言學—語言規劃**\n\n1.  **OT: Rules and constraints**\n    \n2.  **OT: Conflicts in grammars; the typology of structural changes**\n    \n\n**1/4  音韻學（八）**\n\n1.  **OT: Types of constraints and their application**\n    \n\n**1/11  期末考**",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "由教師講解說明學習內容"
+        },
+        {
+            "type": "討論法",
+            "note": "分組討論議題或問題"
+        },
+        {
+            "type": "實地考察、參訪",
+            "note": "參訪本土語言媒體機構，了解多元語言、語言規劃及復振實務"
+        },
+        {
+            "type": "媒體融入教學",
+            "note": "使用影片及即時教學軟體"
+        }
+    ],
+    "grading": [
+        {
+            "type": "期中考",
+            "weight": 20,
+            "note": "開書考；由線上題庫出題，可參考任何「紙本」資料"
+        },
+        {
+            "type": "期末考",
+            "weight": 20,
+            "note": "開書考；由線上題庫出題，可參考任何「紙本」資料"
+        },
+        {
+            "type": "其他",
+            "weight": 60,
+            "note": "課堂測驗、活動及課上與課後作業，取所有分數的3/4計算"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

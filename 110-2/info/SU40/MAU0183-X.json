@@ -1,0 +1,77 @@
+{
+    "year": 110,
+    "term": 2,
+    "name": "大學數學的回顧與統整",
+    "teachers": [
+        "樂美亨"
+    ],
+    "department": "SU40",
+    "code": "MAU0183",
+    "credit": 3,
+    "serial": 2778,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 6,
+            "to": 8,
+            "campus": "公館",
+            "classroom": "Ｓ202"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "4",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程將大學數學基礎課程—線性代數、微積分—與現代數學研究串聯起來，點出基礎課程與後續課程的連結關鍵，讓學生在大學階段結束前反思所學知識，加強數學能力，提升數學品味。",
+    "goals": [
+        "培養數學專業能力",
+        "提升抽象思考層次",
+        "以高觀點詮釋數學與其他學科連結"
+    ],
+    "syllabus": "1.         Linear algebra: review on fundamentals, connections with analysis, combinatorics, differential equations, graph theory, etc. (5 weeks)\n\n2.         Calculus: review on fundamentals, connections with geometry, physics, dynamic systems, applied mathematics, etc. (3 weeks)\n\n3.         Expert colloquia: three experts to be invited to address how mathematics is used in their respective expertise. (3 weeks)\n\n4.         Problem sessions: Discussions on interdisciplinary problems which touch several topics in mathematics. (4 weeks)\n\n5.         Student presentations. (1 week)\n\n註：第十七、十八週由學生閱讀指定論文自主學習。",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": ""
+        },
+        {
+            "type": "問題解決教學",
+            "note": ""
+        },
+        {
+            "type": "其他",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 20,
+            "note": ""
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 40,
+            "note": ""
+        },
+        {
+            "type": "報告",
+            "weight": 40,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

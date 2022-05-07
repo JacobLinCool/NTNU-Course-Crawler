@@ -1,0 +1,90 @@
+{
+    "year": 107,
+    "term": 1,
+    "name": "嵌入式計算系統設計",
+    "teachers": [
+        "蔣欣翰",
+        "呂藝光"
+    ],
+    "department": "HU75",
+    "code": "AEU0073",
+    "credit": 3,
+    "serial": 1333,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 5,
+            "from": 3,
+            "to": 5,
+            "campus": "本部",
+            "classroom": "電機系電子實驗室"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "3",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程提供學生對於嵌入式軟體及嵌入式硬體的概念及設計技巧的學習。首先介紹嵌入式系統的應用，並說明嵌入式系統的軟硬體聯合設計方法與傳統的軟體及硬體設計有何不同，本課程並包含嵌入式計算、程式指令集、核心處理單元、嵌入式計算平台以、進階的程式設計與分析、及程序與作業系統，最後再介紹系統設計技術概念。\n本課程包含實驗實作，採用Xilinx Zynq 7020 (ARM+FPGA)嵌入式平台為實驗平台進行嵌入式系統程式設計的使用介紹，讓同學透過實驗內容學習到目前嵌入式計算設計的實務開發過程。",
+    "goals": [
+        "瞭解嵌入式計算系統設計原理",
+        "瞭解如何使用計算機軟、硬體為元件來設計嵌入式計算系統",
+        "熟悉嵌入式計算平台執行程序及作業系統",
+        "熟悉嵌入式計算平台開發程式設計與分析",
+        "瞭解網路與分散式嵌入式之系統設計方法"
+    ],
+    "syllabus": "本課程提供學生對於嵌入式軟體及嵌入式硬體的概念及設計技巧的學習。首先介紹嵌入式系統的應用，並說明嵌入式系統的軟硬體聯合設計方法與傳統的軟體及硬體設計有何不同，本課程並包含嵌入式計算、程式指令集、核心處理單元、嵌入式計算平台、進階的程式設計與分析、以及程序與作業系統，最後再介紹系統設計技術概念。本課程包含嵌入式平台為實驗平台進行嵌入式系統程式設計的使用介紹，讓同學透過實驗內容學習到目前嵌入式計算設計的實務開發過程。\n\nWeek 1:   Embedded Computing\n\nWeek 2:   Embedded Computing\n\nWeek 3:   Instruction Sets\n\nWeek 4:   Instruction Sets \n\nWeek 5:   CPUs \n\nWeek 6:   CPUs \n\nWeek 7:   Computing Platforms \n\nWeek 8:   Computing Platforms \n\nWeek 9:   Midterm \n\nWeek 10:  Program Design and Analysis \n\nWeek 11:  Program Design and Analysis\n\nWeek 12:  Group Discussion #1 \n\nWeek 13:  Group Discussion #2\n\nWeek 14:  Processes and Operating Systems \n\nWeek 15:  Group Discussion #3\n\nWeek 16:  System Design Techniques \n\nWeek 17:   Group Discussion #4\n\nWeek 18:   Final",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "介紹嵌入式計算設計與開發流程"
+        },
+        {
+            "type": "討論法",
+            "note": "分組討論報告"
+        },
+        {
+            "type": "合作學習",
+            "note": "以分組合作方式進行實驗及報告撰寫"
+        },
+        {
+            "type": "實驗/實作",
+            "note": "採用嵌入式計算實驗板進行實驗實作"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 10,
+            "note": "課本習題演練"
+        },
+        {
+            "type": "期中考",
+            "weight": 30,
+            "note": "期中課程進度筆試測驗"
+        },
+        {
+            "type": "期末考",
+            "weight": 30,
+            "note": "期末課程進度筆試測驗"
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 10,
+            "note": "參與分組討論及口頭報告"
+        },
+        {
+            "type": "報告",
+            "weight": 20,
+            "note": "分組討論報告撰寫"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

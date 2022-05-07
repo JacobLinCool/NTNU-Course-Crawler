@@ -1,0 +1,92 @@
+{
+    "year": 110,
+    "term": 2,
+    "name": "雙語教學實習（教）",
+    "teachers": [
+        "曾俊傑"
+    ],
+    "department": "EU",
+    "code": "00UEB04",
+    "credit": 2,
+    "serial": 588,
+    "group": "A",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 3,
+            "to": 4,
+            "campus": "本部",
+            "classroom": "樸201"
+        }
+    ],
+    "programs": [
+        "國際教師學程-華語文",
+        "國際教師學程-數學",
+        "國際教師學程-物理",
+        "國際教師學程-國際"
+    ],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 2,
+    "description": "本課程以師資生的教材教法知能為基礎，進一步發展師資生雙語教學實務知能，透過一系列課程活動，特別是理解雙語教學活動設計、共備跨領域雙語教學、設計雙語教學教案、練習微型教學、反思回饋教學過程與成效等課程活動，期能增進師資生未來雙語教學的效能。",
+    "goals": [
+        "學生透過認識符合雙語教學原理的示例，設計適當的教學活動。",
+        "學生能夠透過共備，設計符合雙語教學原理的教案。",
+        "學生能夠透過微觀教學演練，發展雙語教學知能。"
+    ],
+    "syllabus": "Bilingual Teaching Practicum is a hands-on practicum for pre-service bilingual teachers in the NTNU. It offers students an opportunity to gain more classroom experience, and to develop and apply their teaching ideas in the classroom. In this semester, students will learn to develop useful strategies for teaching content/language to middle school students. They will also learn to write well-structured lesson plans and to improve their own teaching skills. Classroom activities mainly include lectures, invited talks, classroom observations, and micro-teaching.\n\n[the syllabus](https://ap.itc.ntnu.edu.tw/NtnuFileShare/file.do?action=dl&gno=9c2d4dc27b644dc589b47e8f67256a86&fno=80fdbe69edb24f4ba75d81ec1d2266a6)",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "Lecture"
+        },
+        {
+            "type": "討論法",
+            "note": "Group work & discussion"
+        },
+        {
+            "type": "實驗/實作",
+            "note": "Micro-teaching/practice teaching"
+        },
+        {
+            "type": "實地考察、參訪",
+            "note": "Classroom observations"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 30,
+            "note": "Lesson plans (original/revised)"
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 10,
+            "note": "Peer feedback"
+        },
+        {
+            "type": "出席",
+            "weight": 10,
+            "note": "Attendance, participation & miscellaneous"
+        },
+        {
+            "type": "報告",
+            "weight": 20,
+            "note": "Reflections on invited talks, classroom observations, and micro-teaching"
+        },
+        {
+            "type": "成果展覽",
+            "weight": 30,
+            "note": "Micro-teaching performance"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

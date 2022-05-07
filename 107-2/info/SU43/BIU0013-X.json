@@ -1,0 +1,71 @@
+{
+    "year": 107,
+    "term": 2,
+    "name": "植物生理學",
+    "teachers": [
+        "孫智雯",
+        "王玉麒"
+    ],
+    "department": "SU43",
+    "code": "BIU0013",
+    "credit": 3,
+    "serial": 2898,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 4,
+            "from": 8,
+            "to": 10,
+            "campus": "公館",
+            "classroom": "Ｅ202"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎必須先修過【BIU0168  普通生物學甲（一）】、【BIU0169  普通生物學甲（二）】、【BIU0143  生物化學】",
+    "form_s": "3",
+    "classes": "1",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程之教學目標是讓學生能學到紮實的植物生理學之基礎理論，並能將這些基本概念應用在其他生命科學研究上。",
+    "goals": [
+        "能熟悉並認知植物生理學專有知識",
+        "學習藉由各類實驗佐證植物生理學的理論",
+        "能體認胞植物細胞及個體細微運作的生命現象之基礎"
+    ],
+    "syllabus": "**王玉麒****老師**\n\n第一週Course introduction; Overview of plants\n\n第二週Hydro-physiology\n\n第三週Mineral nutrition and uptake\n\n第四週Assimilation of nitrogen\n\n第五週The dual role of sunlight\n\n第六週Photosynthesis: harvesting sunlight\n\n第七週Photosynthesis: CO2 assimilation\n\n第八週Photoassimilate allocation and unlocking\n\n第九週 期中考考試\n\n**孫智雯****老師**\n\n第十週Plant development: An overview\n\n第十一週Growth and development of cells\n\n第十二週 Plant hormone I: Auxins and gibberellins\n\n第十三週Plant hormone II: Cytokinins, abscisic acid, ethylene, and brassinosteroids\n\n第十四週Photomorphogenesis: Responding to light\n\n第十五週Plant movements: Orienting plants in space\n\n第十六週Photoperiod and endogenous clocks\n\n第十七週Flowering and fruit development\n\n第十八週 期末考試",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "期中考",
+            "weight": 35,
+            "note": "以筆試進行，內容包含是非題(5%)、單選題(5%)、複選題(10%)、配對題(5%)、申論題(10%)。\n對應之核心能力為：(1)具備生命科學之專業知識(80%) \n(2)具備運用生命科學相關研究方法與技術的能力(20%)"
+        },
+        {
+            "type": "期末考",
+            "weight": 35,
+            "note": "以筆試進行，內容包含是非題(5%)、單選題(5%)、複選題(10%)、配對題(5%)、申論題(10%)。\n對應之核心能力為：(1)具備生命科學之專業知識(80%) \n(2)具備運用生命科學相關研究方法與技術的能力(20%)"
+        },
+        {
+            "type": "報告",
+            "weight": 10,
+            "note": "以繳交書面報告方式進行，評分標準以專題報告的正確與完備程度為依據(10%)。\n對應之核心能力為：(1)具備生命科學之專業知識(50%) \n(2)具備運用生命科學相關研究方法與技術的能力(30%)\n(3)具備正確的科學態度，能主動探索生命科學之相關議題(20%)"
+        },
+        {
+            "type": "其他",
+            "weight": 20,
+            "note": "隨堂考：\n以筆試進行，內容包含單選題(10%)和複選題(10%)。\n對應之核心能力為：(1)具備生命科學之專業知識(80%) \n(2)具備運用生命科學相關研究方法與技術的能力(20%)"
+        }
+    ],
+    "prerequisite": "◎必須先修過【BIU0168  普通生物學甲（一）】、【BIU0169  普通生物學甲（二）】、【BIU0143  生物化學】",
+    "general_core": []
+}

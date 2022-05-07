@@ -1,0 +1,82 @@
+{
+    "year": 107,
+    "term": 1,
+    "name": "分析化學（一）",
+    "teachers": [
+        "王忠茂",
+        "呂家榮"
+    ],
+    "department": "SU42",
+    "code": "CMU0141",
+    "credit": 3,
+    "serial": 2871,
+    "group": "B",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 1,
+            "to": 1,
+            "campus": "公館",
+            "classroom": "Ｂ103"
+        },
+        {
+            "day": 4,
+            "from": 1,
+            "to": 2,
+            "campus": "公館",
+            "classroom": "Ｂ103"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "2",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本堂課主要講授分析化學的最基本原理及應用。",
+    "goals": [
+        "To provide the student with a solid background to the field of analytical chemistry.",
+        "To help students understand the principles in chemical equilibriums, classical methods of analysis, electrochemical methods",
+        "To help students understand the spectrochemical methods, kinetics and separation.",
+        "To introduce current research in the areas of analytical chemistry, qualitative and quantitative chemistry."
+    ],
+    "syllabus": "本課程授課目的在講授分析化學與相關領域之基本識能，俾使學員能具有相關基本知識與素養，具有從事分析化學實驗與相關領域工作之能力。\n\n教材內容：本學期科目授課內容主要介紹古典分析理論與實驗技巧，內容包括：\n\n1 化學平衡概論\n\n2 酸鹼反應與應用\n\n3 沈澱反應與應用\n\n4 錯合反應與應用\n\n6化學分析的精準度",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "課堂講述站50%，學員作業50%"
+        },
+        {
+            "type": "討論法",
+            "note": "學員上台演示作業"
+        },
+        {
+            "type": "問題解決教學",
+            "note": "學員上台演示作業"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 60,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 20,
+            "note": ""
+        },
+        {
+            "type": "出席",
+            "weight": 20,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

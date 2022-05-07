@@ -1,0 +1,97 @@
+{
+    "year": 110,
+    "term": 1,
+    "name": "電腦科學教育導論",
+    "teachers": [
+        "林育慈"
+    ],
+    "department": "EM08",
+    "code": "ICC0073",
+    "credit": 3,
+    "serial": 487,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 4,
+            "from": 7,
+            "to": 9,
+            "campus": "本部",
+            "classroom": "教1004"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "This course introduces evidenced-based guidelines on how to create efficient instructional environments which result in faster and better learning.",
+    "goals": [
+        "了解電腦科學本質及學習電腦科學之目的",
+        "瞭解各國電腦課程設計理念及內涵",
+        "瞭解電腦科學教學理論、教學方法、及教學工具",
+        "瞭解最新之電腦科學教育趨勢",
+        "體認電腦科學在基礎教育之必要性"
+    ],
+    "syllabus": "1.  **Overview of this course**\n2.  **The Nature of Computer Science**\n3.  **Why Teaching Computer Science?**\n4.  **Curriculum (I): Taiwan K-9 Computing Curriculum**\n5.  **Curriculum (II): Taiwan High School Computing Curriculum**\n6.  **Curriculum (III): CSTA K–12 Computer Science Standards**\n7.  **Curriculum (IV): National Curriculum in England**\n8.  **Curriculum (V): The trends of Computing Curriculum**\n9.  **Midterm exam**\n10.  **New concepts in computer science education (I): Computer science unplugged**\n11.  **New concepts in computer science education (II): Problem solving**\n12.  **Computational thinking (I): Abstraction, pattern recognition, pattern generalization, and data representation**\n13.  **Computational thinking (II): Algorithmic thinking, modelling, simulation**\n14.  **Programming instruction (I): Theories**\n15.  **Programming instruction (II): Tools**\n16.  **Assessment (I)**\n17.  **Assessment (II)**\n18.  **Final report**",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "課堂講授說明"
+        },
+        {
+            "type": "討論法",
+            "note": "課堂議題討論"
+        },
+        {
+            "type": "問題解決教學",
+            "note": "探索課程議題並提出解法"
+        },
+        {
+            "type": "合作學習",
+            "note": "合作完成專題"
+        },
+        {
+            "type": "實驗/實作",
+            "note": "使用電腦科學教學工具"
+        },
+        {
+            "type": "專題研究",
+            "note": "期末專題報告"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 20,
+            "note": "完成單元作業與期刊論文閱讀報告"
+        },
+        {
+            "type": "期中考",
+            "weight": 30,
+            "note": "課堂概念測驗"
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 10,
+            "note": "討論參與度"
+        },
+        {
+            "type": "出席",
+            "weight": 10,
+            "note": "未出席須請假"
+        },
+        {
+            "type": "報告",
+            "weight": 30,
+            "note": "期末針對各組研究主題報告"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

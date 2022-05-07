@@ -1,0 +1,109 @@
+{
+    "year": 107,
+    "term": 2,
+    "name": "天文學（含實習）",
+    "teachers": [
+        "陳林文"
+    ],
+    "department": "SU44",
+    "code": "ESU0178",
+    "credit": 3,
+    "serial": 2927,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 15
+    },
+    "schedule": [
+        {
+            "day": 5,
+            "from": 7,
+            "to": 9,
+            "campus": "公館",
+            "classroom": "Ｂ102"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "1",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "認識天文現象，掌握其規律並了解其成因；同時探討目前所知的宇宙與未來天文的發展，讓學生能對宇宙的結構、組成物、各種尺度天體的起源及演化有初步的涉獵，並知道天文學家在研究什麼、如何研究、研究方法與工具，及觀測策略。",
+    "goals": [
+        "學生能具備基礎天文知識，熟悉天文現象與理論模型。",
+        "在教學過程中，藉由討論與報告，讓學生習得獨立思考、歸納的能力。並能熟悉利用網路上的天文資源。",
+        "透過討論、專題研究及書面、口頭報告，訓練學生資料彙整、閱讀、資訊之融會貫通、及語文表達。"
+    ],
+    "syllabus": "01    Overview of the course / why astronomy: life/earth in the universe \\[test\\]\n\n02    A walkthrough of the universe: the textbook and selected issues in modern astronomy\n\nPlanet Earth & Astrobiology: water, habitable zone, and life\n\n03    Sky with/without telescopes, observable universe, & history of astronomy: traditional wisdom and ideas\n\n04    Physics, Lights and telescopes: physics in astronomy & multiwavelength universe\n\n05    solar system and exoplanets: origin of solar system and other planetary systems / comets, kuiper belt objects\n\n06    Comparative Planetology: Earth vs terrestrial/jovian planets\n\n07    Sun: observations and inner structures, sun-earth connection\n\n08    stars – observations and physics: magnitude, spectra, distance, temperature\n\n09    期中考\n\n10    Review of midterm exam\n\n11    stars – evolution & HR diagram\n\n12    stars – ISM, Star formation: diffuse gas and nebulae, molecular cloud, star clusters\n\n13    stars – supernovae, black holes and other compact objects, GRB\n\n14    Milky way: our galaxy: formation, structure, star-gas-dark matter-nucleus\n\n15    Hubble and galaxies: observations, classification, evolution, and formation of galaxies\n\n16    AGN, active galaxies: supermassive black holes and violent universe\n\n17    team presentation I\n\nCosmology: clusters, large scale structure, CMB, dark matter and dark energy / early Universe and history of the universe\n\n18    期末考",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "預定課程內容之鋪陳、引導，以及必要基礎內容之說明"
+        },
+        {
+            "type": "討論法",
+            "note": "針對易混淆及基本概念不足處，提出相關議題進行討論"
+        },
+        {
+            "type": "問題解決教學",
+            "note": "將所授之天文理論、模型應用於相關案例或其他現象中"
+        },
+        {
+            "type": "合作學習",
+            "note": "將學生分組進行相關專題討論"
+        },
+        {
+            "type": "實驗/實作",
+            "note": "電子星圖及小型望遠鏡操作"
+        },
+        {
+            "type": "媒體融入教學",
+            "note": "透過多媒體資料輔助說明相關天文模型、觀測結果、或天文儀器之原理"
+        },
+        {
+            "type": "專題研究",
+            "note": "同學分組並選一主題進行資料蒐集、閱讀討論、與撰寫報告，同時要與課程中的天文知識做一比較"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 5,
+            "note": ""
+        },
+        {
+            "type": "期中考",
+            "weight": 25,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 25,
+            "note": ""
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 10,
+            "note": ""
+        },
+        {
+            "type": "出席",
+            "weight": 5,
+            "note": ""
+        },
+        {
+            "type": "報告",
+            "weight": 10,
+            "note": ""
+        },
+        {
+            "type": "專題",
+            "weight": 20,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

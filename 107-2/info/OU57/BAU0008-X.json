@@ -1,0 +1,92 @@
+{
+    "year": 107,
+    "term": 2,
+    "name": "資訊管理",
+    "teachers": [
+        "賴香菊"
+    ],
+    "department": "OU57",
+    "code": "BAU0008",
+    "credit": 3,
+    "serial": 2428,
+    "group": "",
+    "quota": {
+        "limit": 60,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 4,
+            "from": 2,
+            "to": 4,
+            "campus": "本部",
+            "classroom": "綜509國際會議廳"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎必須先修過【BAU0010  策略管理】",
+    "form_s": "3",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "The goal of this course is to let the students learn how information technology enhances the effectiveness and efficiency of business management and improves the enterprises competitive advantages. The topics include the intertwined relationship between the revolution of information technology and business management, the components of information systems, how to plan and build information systems, the roles of information management in business management, how to improve the competitive advantages of enterprises by information technology, etc.",
+    "goals": [
+        "瞭解資訊科技的要素及發展以及於企業經營中所扮演的角色",
+        "瞭解如何運用資訊科技提升競爭優勢，以及規劃與建置資訊系統",
+        "瞭解資訊科技相關的道德倫理問題",
+        "培養跟同輩合作向大眾分享資訊科技知識的能力"
+    ],
+    "syllabus": "**上課時程**\n\n**日期**\n\n**Topics and Readings**\n\nOrganizations, Management, and the Networked Enterprise\n\n1\n\n02/21\n\nIntroduction\n\n2\n\n02/28\n\n二二八紀念日\n\n3\n\n03/07\n\nCh.1 - Introduction – Information systems in global business today\n\n4\n\n03/14\n\nCh.2 - Global e-business and collaboration\n\n5\n\n03/21\n\nCh.3 - Information systems, organizations, and strategy\n\n6\n\n03/28\n\nCh.4 - Ethical and social issues in information systems\n\nInformation Technology Infrastructure\n\n7\n\n04/04\n\n兒童節\n\n8\n\n04/11\n\nCh.5 - IT infrastructure and emerging technologies\n\n9\n\n04/18\n\nCh.6 - Foundations of business intelligence: database and information management\n\n10\n\n04/25\n\nCh.7 - Telecommunication, the Internet, and wireless technology\n\nCh.8 - Securing information systems\n\nKey System Applications for the Digital Age\n\n11\n\n05/02\n\nCh.9 - Achieving operational excellence and customer intimacy: enterprise applications\n\n12\n\n05/09\n\nCh.10 - E-commerce: digital markets, digital goods\n\n13\n\n05/16\n\nCh.11 - Managing knowledge\n\nCh.12 - Enhancing decision making\n\nBuilding and Managing Systems\n\n14\n\n05/23\n\nCh.13 - Building information systems\n\n15\n\n05/30\n\n端午節\n\n16\n\n06/06\n\nCh.14 - Managing projects\n\n17\n\n06/13\n\nCh.15 - Managing global systems\n\n18\n\n06/20\n\nFinal project",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "由老師每週事先提供主要議題，請同學據以先預習課本，上課討論"
+        },
+        {
+            "type": "討論法",
+            "note": "配合課程內容，指定相關個案討論，結合理論與實務"
+        },
+        {
+            "type": "合作學習",
+            "note": "透過群組作業"
+        },
+        {
+            "type": "實地考察、參訪",
+            "note": ""
+        },
+        {
+            "type": "專題研究",
+            "note": "透過專題實作，瞭解理論概念"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 20,
+            "note": "群組作業"
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 20,
+            "note": "配合個案討論，需要同學參與討論"
+        },
+        {
+            "type": "出席",
+            "weight": 10,
+            "note": "上課出席"
+        },
+        {
+            "type": "報告",
+            "weight": 20,
+            "note": "專題報告"
+        },
+        {
+            "type": "其他",
+            "weight": 30,
+            "note": "隨堂考試"
+        }
+    ],
+    "prerequisite": "◎必須先修過【BAU0010  策略管理】",
+    "general_core": []
+}

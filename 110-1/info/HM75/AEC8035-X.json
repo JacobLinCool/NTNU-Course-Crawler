@@ -1,0 +1,74 @@
+{
+    "year": 110,
+    "term": 1,
+    "name": "電腦網路",
+    "teachers": [
+        "王嘉斌"
+    ],
+    "department": "HM75",
+    "code": "AEC8035",
+    "credit": 3,
+    "serial": 1197,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 7,
+            "to": 9,
+            "campus": "本部",
+            "classroom": "多媒體與通訊實驗室"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "This course will give an overview of existing and emerging computer networks. It will discuss some basic terminologies, concepts, techniques as well as the applications of computer networks. Through this course, the students may find some topics they are interested in and finally have to present a term project about that for more deeply understanding the computer networking.",
+    "goals": [
+        "瞭解網路各層的功能、協定以及演算法",
+        "學習網路整體的觀念與原理",
+        "建立網路應用程式設計開發的基本技術"
+    ],
+    "syllabus": "教學進度與主題 【授課方式：16+2週】\n\n【授課16週】\n\n第1週  Introduction\n\n第2週  Computer Networks and the Internet\n\n第3週  Computer Networks and the Internet\n\n第4週  Application Layer\n\n第5週   Application Layer\n\n第6週   Transport Layer\n\n第7週   Transport Layer\n\n第8週  Midterm Exam\n\n第9週 The Network Layer\n\n第10週 The Network Layer\n\n第11週 The Link Layer and Local Area Networks\n\n第12週 The Link Layer and Local Area Networks\n\n第13週 Wireless and Mobile Networks\n\n第14週 Wireless and Mobile Networks\n\n第15週 Multimedia Networking\n\n第16週 Term Project Report\n\n【彈性教學2週】\n\n第17週 自主學習\n\n第18週 自主學習",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "專題研究",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "期中考",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "報告",
+            "weight": 10,
+            "note": ""
+        },
+        {
+            "type": "專題",
+            "weight": 30,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

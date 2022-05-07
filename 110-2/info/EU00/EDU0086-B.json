@@ -1,0 +1,88 @@
+{
+    "year": 110,
+    "term": 2,
+    "name": "哲學概論",
+    "teachers": [
+        "洪仁進"
+    ],
+    "department": "EU00",
+    "code": "EDU0086",
+    "credit": 2,
+    "serial": 612,
+    "group": "B",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 8,
+            "to": 9,
+            "campus": "本部",
+            "classroom": "教103"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "1",
+    "classes": "",
+    "dept_group": "",
+    "hours": 2,
+    "description": "",
+    "goals": [
+        "Curiosity",
+        "Argumentation",
+        "Reflection",
+        "Values"
+    ],
+    "syllabus": "**壹、****教學目標**\n\n一、激發對世界萬有的好奇精神。\n\n二、培養對事物進行反省的思維。\n\n三、熟習對問題進行論證的方法。\n\n四、了解知識與價值的根本問題。\n\n**貳、教學主題與進度**\n\n……………………………………………………………………………………………………………………………………\n\n課次  日    期         教        學        主        題\n\n……………………………………………………………………………………………………………………………………\n\n01         教學預備（課程內容、教學方式、成績評量）\n\n02         哲學是甚麼(一)\n\n03         哲學是甚麼(二)\n\n04         導論P.1-13\n\n05         知識(一) P.15-34 / 哲學肥皂箱(1)\n\n06         知識(二) P.35-52 / 哲學肥皂箱(2)\n\n07         心靈(一) P.53-69 / 哲學肥皂箱(3)\n\n08         心靈(二) P.69-86 / 哲學肥皂箱(4)\n\n09         自由意志 P.87-126 / 哲學肥皂箱(5)\n\n10         自我 P.127-158 / 哲學肥皂箱(6)\n\n11         上帝 P.159-208 / 哲學肥皂箱(7)\n\n12         推理 P.209-258 / 哲學肥皂箱(8)\n\n13         這個世界 P.259-298 / 哲學肥皂箱(9)\n\n14         該做甚麼 P.299-328 / 哲學肥皂箱(10)\n\n15         蘇格拉底演練\n\n16         期末考試\n\n17         彈性補充教學\n\n18         彈性補充教學\n\n……………………………………………………………………………………………………………………………………\n\n**參、教學方式**\n\n  一、講述與討論。\n\n  二、哲學肥皂箱報告與研討。\n\n  三、蘇格拉底對話法演練。\n\n**肆、教學評量**\n\n  一、 課堂表現 (20%)：出席與發言。\n\n  二、「哲學肥皂箱」報告 (20%)：\n\n          每位同學擇一上課主題構思哲學問題，製作簡報，於課堂上進行6分鐘的「哲學肥皂箱」發表。\n\n          簡報請於發表**前二日**上傳至Moodle。\n\n  三、「蘇格拉底對話」演練 (20%)：\n\n         每組5人，針對學習過程中最感重要的哲學問題，進行釐清、論證及行動等三個向度的說明，聽取組員回饋，\n\n         並做成對話紀錄摘要 (文長以2000字為度)，請上傳至Moodle。\n\n  四、期末考試 (40%)：名詞解釋、選擇題。",
+    "methodologies": [
+        {
+            "type": "Formal lecture",
+            "note": ""
+        },
+        {
+            "type": "Group discussion",
+            "note": ""
+        },
+        {
+            "type": "Cooperative learning",
+            "note": ""
+        },
+        {
+            "type": "Case studies",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "Assignments",
+            "weight": 20,
+            "note": ""
+        },
+        {
+            "type": "Final exam",
+            "weight": 40,
+            "note": ""
+        },
+        {
+            "type": "Class discussion involvement",
+            "weight": 10,
+            "note": ""
+        },
+        {
+            "type": "Attendances",
+            "weight": 10,
+            "note": ""
+        },
+        {
+            "type": "Presentation",
+            "weight": 20,
+            "note": ""
+        }
+    ],
+    "prerequisite": "◎Available for junior and senior year B.A. program students (Doctoral program courses excepted) and M.A. program students.",
+    "general_core": []
+}

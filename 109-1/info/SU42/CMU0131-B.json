@@ -1,0 +1,79 @@
+{
+    "year": 109,
+    "term": 1,
+    "name": "普通化學實驗（一）",
+    "teachers": [
+        "陳家俊"
+    ],
+    "department": "SU42",
+    "code": "CMU0131",
+    "credit": 1,
+    "serial": 2932,
+    "group": "B",
+    "quota": {
+        "limit": 40,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 3,
+            "from": 7,
+            "to": 9,
+            "campus": "公館",
+            "classroom": "Ｄ407"
+        }
+    ],
+    "programs": [],
+    "comment": "預先代入化一乙學生",
+    "restrict": "",
+    "form_s": "1",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "使學生熟悉化學實驗技巧，並且與課本基本原理能互相驗證。",
+    "goals": [
+        "To train students with the skills a d basic knowledge in basic chemical research.",
+        "To train students with the correct manners and methodology toward basic chemical research.",
+        "To train students to do the lab independently and collaboratively."
+    ],
+    "syllabus": "1.實驗室安全影片欣賞  \n2.原子量的測定  \n3.分子量的測定\\-蒸氣密度法  \n4.氣體反應定律  \n5.單一容器內的化學反應  \n6.固體的精製再結晶  \n7.酸與鹼濃度之標定  \n8.粗鹼中鹼總含量之測定  \n9.層析法\\-薄層層析法  \n10.管柱層析法  \n11.光電比色計的使用",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "實驗/實作",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 15,
+            "note": ""
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 25,
+            "note": ""
+        },
+        {
+            "type": "報告",
+            "weight": 20,
+            "note": ""
+        },
+        {
+            "type": "其他",
+            "weight": 10,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

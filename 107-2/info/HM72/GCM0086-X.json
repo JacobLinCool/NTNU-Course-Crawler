@@ -1,0 +1,98 @@
+{
+    "year": 107,
+    "term": 2,
+    "name": "圖像防偽科技研究",
+    "teachers": [
+        "王希俊"
+    ],
+    "department": "HM72",
+    "code": "GCM0086",
+    "credit": 3,
+    "serial": 1152,
+    "group": "",
+    "quota": {
+        "limit": 30,
+        "additional": 5
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 2,
+            "to": 4,
+            "campus": "本部",
+            "classroom": "教403"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程不開放上修",
+    "form_s": "1",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "This course deals with the implementation of various anti-counterfeiting technologies. In recent years, researches on watermarking/data hiding have been very active in multimedia application.",
+    "goals": [
+        "To enhance the theoretical understanding, computer implementation and hand-on practice of the start-of-the-art anti-counterfeiting technologies, especially for security printing and digital hologram."
+    ],
+    "syllabus": " I. Course Description:  \n  \nThis course deals with the implementation of various anti-counterfeiting technologies. In recent years, researches on watermarking/data hiding have been very active in multimedia application. In this course, we focus on the theoretical understanding, computer implementation and hand-on practice of the state-of-the-art anti-counterfeiting technologies, especially for security printing and digital hologram.  \n  \nPrerequisite: Digital image processing or equivalent course required. Programming skill is recommended.  \n  \n  \nII. Tentative Syllabus:  \n  \n1\\. Introduction to anti-counterfeiting technology  \n2\\. Digital halftoning and watermarking  \n3\\. Holography  \n4\\. Dot matrix hologram  \n5\\. Optical document security  \n6\\. Security papers and special effects  \n7\\. Historical development of security printing  \n8\\. Security printing techniques  \n9\\. Noniridescent optically variable devices (OVD)  \n10\\. Iridescent optically variable devices  \n11\\. Value-added design  \n12\\. Project Presentation  \n  \n  \nClass Rules and Procedures:  \n  \n1\\. All students must submit HW sets on the due day. No late HW will be accepted. HW counts 30% of your course performance. Both loaner and copier of HW will receive zero credit. Group discussion is permitted and recommended.  \n  \n2\\. Email is the best way for you to contact the Prof. Wang or the TA. We reply Emails immediately on the same or the following day. Check with the TA first on any problems associated with HW, grading, and records, before you come to see Prof. Wang during his office hours.",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "contents in the class syllabus"
+        },
+        {
+            "type": "討論法",
+            "note": "Q & A between teacher and students."
+        },
+        {
+            "type": "合作學習",
+            "note": "2-3 students as a group."
+        },
+        {
+            "type": "實驗/實作",
+            "note": "computer implementation"
+        },
+        {
+            "type": "媒體融入教學",
+            "note": "moodle and ppt presentation."
+        },
+        {
+            "type": "專題研究",
+            "note": "2-3 students as a group."
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 30,
+            "note": "homework sets, quiz and hand-on exam"
+        },
+        {
+            "type": "期中考",
+            "weight": 30,
+            "note": "will be held in around 13 weeks."
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 5,
+            "note": "all class materials will be covered."
+        },
+        {
+            "type": "出席",
+            "weight": 5,
+            "note": "students have to attend the class."
+        },
+        {
+            "type": "報告",
+            "weight": 15,
+            "note": "2-3 students as a group."
+        },
+        {
+            "type": "專題",
+            "weight": 15,
+            "note": "a hand-on project; 2-3 students as a group."
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

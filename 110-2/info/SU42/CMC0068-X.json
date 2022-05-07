@@ -1,0 +1,68 @@
+{
+    "year": 110,
+    "term": 2,
+    "name": "生物化學",
+    "teachers": [
+        "杜玲嫻"
+    ],
+    "department": "SU42",
+    "code": "CMC0068",
+    "credit": 3,
+    "serial": 2833,
+    "group": "",
+    "quota": {
+        "limit": 60,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 7,
+            "to": 9,
+            "campus": "公館",
+            "classroom": "Ｓ306"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "9",
+    "dept_group": "",
+    "hours": 3,
+    "description": "1. 了解蛋白質、核酸、碳水化合物、脂類、膜脂等生物分子之化學結構，並探討結構與其所呈現的生理功能之間的關係\n2. 學習方法如何製備與純化蛋白質\n3. 了解基礎體內代謝與能量獲得的過程",
+    "goals": [
+        "標準生物化學基礎課程。",
+        "探討蛋白質、核酸、碳水化合物、脂類、膜脂等生化分子之一、二、三、四級化學結構，與所呈現的化學、物理、與生理功能。"
+    ],
+    "syllabus": "Part I. Molecules & Life  \nPart II. Dynamic function of biomolecules  \nPart III. Storage & Transfer of Bioinformation  \nPart IV. Metabolism & Energy",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "媒體融入教學",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "期中考",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 50,
+            "note": ""
+        },
+        {
+            "type": "報告",
+            "weight": 20,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}
