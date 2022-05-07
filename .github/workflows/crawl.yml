@@ -27,16 +27,16 @@ jobs:
             - name: Install dependencies
               run: pnpm i
 
-            - name: Crawl data (108 ~ 110)
+            - name: Crawl data (107 ~ 110)
               run: |
-                  node dist -y 107 -t 1 -c 12
-                  node dist -y 107 -t 2 -c 12
-                  node dist -y 108 -t 1 -c 12
-                  node dist -y 108 -t 2 -c 12
-                  node dist -y 109 -t 1 -c 12
-                  node dist -y 109 -t 2 -c 12
-                  node dist -y 110 -t 1 -c 12
-                  node dist -y 110 -t 2 -c 12
+                  node dist -y 107 -t 1 -c 16
+                  node dist -y 107 -t 2 -c 16
+                  node dist -y 108 -t 1 -c 16
+                  node dist -y 108 -t 2 -c 16
+                  node dist -y 109 -t 1 -c 16
+                  node dist -y 109 -t 2 -c 16
+                  node dist -y 110 -t 1 -c 16
+                  node dist -y 110 -t 2 -c 16
 
             - name: Push to data branch
               uses: peaceiris/actions-gh-pages@v3
