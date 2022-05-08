@@ -8,7 +8,13 @@ jobs:
         name: Crawl Course Data
         runs-on: ubuntu-latest
         steps:
-            - uses: actions/checkout@v2
+            - uses: actions/checkout@v3
+
+            - name: Checkout Data Branch
+              uses: actions/checkout@v3
+              with:
+                  ref: data
+                  path: data
 
             - name: Cache pnpm modules
               uses: actions/cache@v2
@@ -29,14 +35,14 @@ jobs:
 
             - name: Crawl data (107 ~ 110)
               run: |
-                  node dist -y 107 -t 1 -c 16
-                  node dist -y 107 -t 2 -c 16
-                  node dist -y 108 -t 1 -c 16
-                  node dist -y 108 -t 2 -c 16
-                  node dist -y 109 -t 1 -c 16
-                  node dist -y 109 -t 2 -c 16
-                  node dist -y 110 -t 1 -c 16
-                  node dist -y 110 -t 2 -c 16
+                  node dist -y 107 -t 1 -c 16 -s
+                  node dist -y 107 -t 2 -c 16 -s
+                  node dist -y 108 -t 1 -c 16 -s
+                  node dist -y 108 -t 2 -c 16 -s
+                  node dist -y 109 -t 1 -c 16 -s
+                  node dist -y 109 -t 2 -c 16 -s
+                  node dist -y 110 -t 1 -c 16 -s
+                  node dist -y 110 -t 2 -c 16 -s
 
             - name: Push to data branch
               uses: peaceiris/actions-gh-pages@v3
