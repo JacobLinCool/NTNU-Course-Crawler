@@ -1,7 +1,12 @@
-name: Crawl Data
+name: Crawl Data with Options
 
 on:
-    - workflow_dispatch
+    workflow_dispatch:
+        inputs:
+            options:
+                description: The options to pass to the crawler.
+                required: false
+                default: "-y 111 -t 1 -c 16 -s"
 
 jobs:
     crawl:
@@ -25,17 +30,8 @@ jobs:
             - name: Install dependencies
               run: pnpm i
 
-            - name: Crawl data (107 ~ 110)
-              run: |
-                  node dist -y 107 -t 1 -c 16 -s
-                  node dist -y 107 -t 2 -c 16 -s
-                  node dist -y 108 -t 1 -c 16 -s
-                  node dist -y 108 -t 2 -c 16 -s
-                  node dist -y 109 -t 1 -c 16 -s
-                  node dist -y 109 -t 2 -c 16 -s
-                  node dist -y 110 -t 1 -c 16 -s
-                  node dist -y 110 -t 2 -c 16 -s
-                  node dist -y 111 -t 1 -c 16 -s
+            - name: Crawl data
+              run: node dist ${{ github.event.inputs.options }}
 
             - name: Push to data branch
               uses: peaceiris/actions-gh-pages@v3
