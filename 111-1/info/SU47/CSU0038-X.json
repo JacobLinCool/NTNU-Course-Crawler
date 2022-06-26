@@ -1,0 +1,65 @@
+{
+    "year": 111,
+    "term": 1,
+    "name": "區域性網路",
+    "teachers": [
+        "蔡榮宗"
+    ],
+    "department": "SU47",
+    "code": "CSU0038",
+    "credit": 3,
+    "serial": 3060,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 7,
+            "to": 9,
+            "campus": "公館",
+            "classroom": "Ｓ204"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "3",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程內容包含 網路第二層的MAC layer protocols 和Logical Link control ，Network management，無線訊號傳輸特徵 及 分析protocol必備的 Elementary Queueing Theory。",
+    "goals": [
+        "能了解網路MAC層的基本問題，設計原則，及分析方法。",
+        "能具有建構區域網路新架構的能力",
+        "能分析模擬實驗數據並增強網路功能"
+    ],
+    "syllabus": "This course, designed for 16+1 weeks, is mainly focused on physical properties of broadcast media, link layer issues in a LAN network architecture particularly on media access control (MAC), and some topics on architectural issues of network managements. Some classic stochastic modelling techniques for MAC performance analysis will also be covered.  \n \n\n1\\. Introduction and technical background\n\n*   Bandwidth~data rate; Nyquist Rate for channel without noise,  Shannon  \n    capacity for channel with noise.\n*   Digit al modulation and multiplexing (TDM, FDM, CDMA, OFDMA)\n*   Framing, error control, and flow control\n\n2\\. LAN/MAN architecture and network management,  IEEE 802  \n3\\. Classic stochastic models for performance analysis  \n4\\. Ethernet LANs, IEEE 802.3  \n5\\. Wireless LANs IEEE 802.11 (WiFi)  \n6\\. Internetworking  \n7\\. Recent topics on dynamic rate selections\n\nIn general, there is no lecture break between a two's class, effectively distributing one week of lecture in a semester of 16 weeks.",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "期中考",
+            "weight": 35,
+            "note": "Problem test"
+        },
+        {
+            "type": "期末考",
+            "weight": 35,
+            "note": "Problem test"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

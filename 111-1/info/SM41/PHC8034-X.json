@@ -1,0 +1,73 @@
+{
+    "year": 111,
+    "term": 1,
+    "name": "凝態物理中的量子場論（一）",
+    "teachers": [
+        "陳鴻宜"
+    ],
+    "department": "SM41",
+    "code": "PHC8034",
+    "credit": 3,
+    "serial": 2679,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 5,
+            "from": 6,
+            "to": 8,
+            "campus": "公館",
+            "classroom": "Ｓ406"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "",
+    "goals": [
+        "Familiar with physical theory",
+        "Improve the ability of abstract thinking and self-study",
+        "Cultivate the intuition and perspective about physics phenomenon"
+    ],
+    "syllabus": "**1.Quantization**\n\nWeek 1:\n\n1-1 First Quantization\n\n1-2 Second Quantization\n\nWeek 2:\n\n1-3 Propagation\n\n1-4 Two-Point Green's Function\n\nWeek 3:\n\n1-5 Matsubara Green's Function\n\nWeek 4:\n\n1-6 One-Particle Irreducible Diagrams\n\n**2.Functional Integral**\n\nWeek 5:\n\n2-1 Feynman Path Integral\n\nWeek 6:\n\n2-2 Coherent States\n\n2-3 Functional Fields Integral\n\n1.  **Perturbation Theory**\n\nWeek 7:\n\n3-1 Generating Functional\n\nWeek 8:\n\n3-2 ?4 Theory\n\nWeek 9:\n\n3-3 Renormalization\n\n**3.Linear Response Theory**\n\nWeek 10:\n\n4-1 Response Function\n\n4-2 Quantum Response Function\n\nWeek 11:\n\n4-3 Correlation Function\n\n─Condensed Matter Physics─\n\n**4.Wilson Renormalization Group**\n\nWeek 12:\n\n5-1 Exponent and Critical Phenomena\n\nWeek 13:\n\n5-2 Scaling and Universality\n\nWeek 14:\n\n5-3 Momentum Shell RG\n\nWeek 15:\n\n5-4 Flow Equation\n\nWeek 16:\n\n5-5 ϵ-Expansion",
+    "methodologies": [
+        {
+            "type": "Formal lecture",
+            "note": ""
+        },
+        {
+            "type": "Media, audio, visual materials",
+            "note": ""
+        },
+        {
+            "type": "Case studies",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "Midterm Exam",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "Final exam",
+            "weight": 40,
+            "note": ""
+        },
+        {
+            "type": "Class discussion involvement",
+            "weight": 30,
+            "note": ""
+        }
+    ],
+    "prerequisite": "◎Available for junior and senior year B.A. program students (Doctoral program courses excepted) and M.A. program students.",
+    "general_core": []
+}

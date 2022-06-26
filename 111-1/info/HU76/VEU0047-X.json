@@ -1,0 +1,94 @@
+{
+    "year": 111,
+    "term": 1,
+    "name": "智慧電網",
+    "teachers": [
+        "談光雄"
+    ],
+    "department": "HU76",
+    "code": "VEU0047",
+    "credit": 3,
+    "serial": 1328,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 5,
+            "from": 2,
+            "to": 4,
+            "campus": "本部",
+            "classroom": "汽車工場B101"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程提供學生廣泛性地了解智慧電網，透過了解電力工業及基礎智慧電網技術深入探討之。",
+    "goals": [
+        "具備智慧電網所需之知識與理解力。",
+        "具備智慧電網所需之問題解決能力。",
+        "具備智慧電網之設備操作與檢修實務技能。",
+        "具備主動積極與終身學習之人格特質。",
+        "具備良好的溝通與表達能力。",
+        "具備職場專業倫理與社會服務的理解與行動。",
+        "具備尊重智慧財產權的認知與態度。"
+    ],
+    "syllabus": "【授課方式16+2】  \n課程實施時間與綱要：\n\n1.     Course description\n\n2.     An overview of the power electronics and smart grid\n\n3.     Basic theory of power conversion\n\n4.     Basic theory of PWM\n\n5.     DC\\\\DC Converter: Buck and Boost Converters\n\n6.     DC\\\\DC Converter: Buck-Boost,Cuk and Full-bridge Converters\n\n7.     DC\\\\AC Inverter: Single-phase and Three-phase inverters\n\n8.     Midterm exam\n\n9.     Power control of distributed generators (I) : Coordinate transformation\n\n10.  Power control of distributed generators (II): PLL and power calculation\n\n11.  Basic theories of storage and Photovoltaics (PV) system\n\n12.  Power quality\n\n13.  Control of microgrid (I): Master\\\\slave control\n\n14.  Control of microgrid (I): Droop control\n\n15.  Smart meters and advanced metering infrastructure\n\n16.  Final exam\n\n17.  Self-directed learning (自主學習)\n\nSelf-directed learning (自主學習)",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "講述方式： 每一章節均以『揭示綱要』、『詳述內容』、『綜述要點』此三步驟來進行。"
+        },
+        {
+            "type": "討論法",
+            "note": "在課堂的原理講述過程中，鼓勵同學踴躍思考提出問題。"
+        },
+        {
+            "type": "問題解決教學",
+            "note": "利用實際的工程案例，幫助同學演練應用課堂學到的知識。"
+        },
+        {
+            "type": "合作學習",
+            "note": "課程一開始就要求修課學生進行分組，上課時，同一組同學坐在一起，課堂上任課老師會出課程相關問題，並要求學生合作討論並加以解答。"
+        },
+        {
+            "type": "媒體融入教學",
+            "note": "使用PPT教學檔案"
+        },
+        {
+            "type": "其他",
+            "note": "教師另運用示範、練習等教學方法，培養學生認知方面素養"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 30,
+            "note": "課堂作業，以PSIM模擬相關電力電子電路。"
+        },
+        {
+            "type": "期中考",
+            "weight": 30,
+            "note": "採筆試方式實施。"
+        },
+        {
+            "type": "期末考",
+            "weight": 30,
+            "note": "採書面報告，以IEEE期刊相關電力電子與微電網等論文實施讀後報告。"
+        },
+        {
+            "type": "出席",
+            "weight": 10,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

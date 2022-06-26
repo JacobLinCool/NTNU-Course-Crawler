@@ -1,0 +1,79 @@
+{
+    "year": 111,
+    "term": 1,
+    "name": "多變項分析統計法",
+    "teachers": [
+        "林正昌"
+    ],
+    "department": "E",
+    "code": "E0C8004",
+    "credit": 3,
+    "serial": 343,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 2,
+            "to": 4,
+            "campus": "本部",
+            "classroom": "教619"
+        }
+    ],
+    "programs": [
+        "學習與資訊學程",
+        "大數據學程"
+    ],
+    "comment": "",
+    "restrict": "◎必須先修過【E0C8001  高級教育統計學（甲）】、【E0C8002  高級教育統計學（乙）】其中一門 ◎課程不開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程主要目的是教授碩博士班學生關於多變項分析統計法的原理與方法。本課程將整合學生已有之統計學背景，對比單變項統計與多變項統計分析法，期使學生能理解多變項統計分析法的原理與方法，進而能規劃並運用於碩博士論文研究當中，同時也能對採用多變項統計分析法的研究，評鑑其合理性與適當性。",
+    "goals": [
+        "理解多變項統計分析法的基本術語、概念與原理知識。",
+        "理解多變項統計分析法的基本程序與方法知識 ( 含報告 )",
+        "執行多變項統計分析法的基本程序與方法 (SPSS...) 。",
+        "評鑑實徵研究中多變項統計分析法的程序與方法。",
+        "規劃並設計獨立研究中多變項統計分析法的程序與方法。",
+        "理解多變項統計分析法的基本術語、概念與原理知識。"
+    ],
+    "syllabus": "\\[授課方式：16週\\]\n\nWeek 01  課程說明與方法學回顧\n\nWeek 02  緒論：基本概念說明\n\nWeek 03  簡單矩陣代數\n\nWeek 04  簡單與多元迴歸分析(1)（Simple and Multiple Regression）\n\nWeek 05  簡單與多元迴歸分析(2)（Simple and Multiple Regression）\n\nWeek 06  徑路分析（1）（Path Analysis）\n\nWeek 07  徑路分析（2）（Path Analysis）\n\nWeek 08  主成份分析（Principal Component Analysis）\n\nWeek 09  因素分析 （Factor Analysis)\n\nWeek 10  典型相關 \n\nWeek 11 一個和兩個母群的平均數考驗（Hotelling's T^2 Test）\n\nWeek 12 單因子多變項變異數分析 （One-way MANOVA)\n\nWeek 13 區別分析 （discriminant analysis)\n\nWeek 14 二因子多變項變異數分析 (1)（Two-factor MANOVA)\n\nWeek 15 二因子多變項變異數分析 (2)（Two-factor MANOVA)\n\nWeek 16 單因子多變項共變異數分析 （One-way MANCOVA)",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": ""
+        },
+        {
+            "type": "其他",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 80,
+            "note": ""
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 10,
+            "note": ""
+        },
+        {
+            "type": "出席",
+            "weight": 10,
+            "note": ""
+        }
+    ],
+    "prerequisite": "◎必須先修過【E0C8001  高級教育統計學（甲）】、【E0C8002  高級教育統計學（乙）】其中一門",
+    "general_core": []
+}

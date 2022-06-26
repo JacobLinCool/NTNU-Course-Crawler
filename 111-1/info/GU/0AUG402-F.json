@@ -1,0 +1,75 @@
+{
+    "year": 111,
+    "term": 1,
+    "name": "心理學",
+    "teachers": [
+        "蘇宜芬"
+    ],
+    "department": "GU",
+    "code": "0AUG402",
+    "credit": 2,
+    "serial": 1023,
+    "group": "F",
+    "quota": {
+        "limit": 100,
+        "additional": 0
+    },
+    "schedule": [
+        {
+            "day": 3,
+            "from": 3,
+            "to": 4,
+            "campus": "本部",
+            "classroom": "教103"
+        }
+    ],
+    "programs": [
+        "音樂輔教學程"
+    ],
+    "comment": "",
+    "restrict": "",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 2,
+    "description": "",
+    "goals": [
+        "Assist students in the course to understand psychology and gain a better understanding of human psychological process, thinking, and behavior.",
+        "Through a basic understanding of people, improve self-understanding, interact with others, and cultivate respect and empathy for people."
+    ],
+    "syllabus": "一、教學目標：\n\n1.  熟悉心理學的發展趨勢及重要理論。\n2.  學習科學思考及問題解決方法。\n3.  瞭解人的心理特質及其發展。\n4.  培養心理學相關資訊的判讀能力。\n\n二、教學大綱：\n\n第01週  課程介紹  \n第02週  認識心理學（第1章）   \n第03週  知覺與意識（第3章）  \n第04週  知覺與意識（第3章）  \n第05週  學習與記憶（第4章）  \n第06週  學習與記憶（第4章）  \n第07週  學習與記憶（第4章）；影片欣賞  \n第08週  期中考；社會認知與社會互動（第7章）  \n第09週  社會認知與社會互動（第7章）；影片欣賞  \n第10週  智力、性格與測量（第6章）  \n第11週  智力、性格與測量（第6章）  \n第12週  心理異常與治療（第9章）  \n第13週  心理異常與治療（第9章）  \n第14週  壓力調適與正向心理（第10章）  \n第15週  壓力調適與正向心理（第10章）；  \n            繳交心理學期刊文章讀後心得報告  \n第16週  期末考",
+    "methodologies": [
+        {
+            "type": "Formal lecture",
+            "note": ""
+        },
+        {
+            "type": "Group discussion",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "Midterm Exam",
+            "weight": 30,
+            "note": "題型為：是非題、選擇題、配合題、名詞解釋、及簡答題。"
+        },
+        {
+            "type": "Final exam",
+            "weight": 30,
+            "note": "題型為：是非題、選擇題、配合題、名詞解釋、及簡答題。"
+        },
+        {
+            "type": "Attendances",
+            "weight": 20,
+            "note": "包含上課出席及參與討論。"
+        },
+        {
+            "type": "Presentation",
+            "weight": 20,
+            "note": "心理學期刊文章讀後心得報告。。"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

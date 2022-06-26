@@ -1,0 +1,89 @@
+{
+    "year": 111,
+    "term": 1,
+    "name": "數學教學解題（一）（IB）",
+    "teachers": [
+        "游森棚"
+    ],
+    "department": "SU40",
+    "code": "MAC9027",
+    "credit": 3,
+    "serial": 2782,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 1,
+            "from": 6,
+            "to": 8,
+            "campus": "公館",
+            "classroom": "數學館310研討室"
+        }
+    ],
+    "programs": [
+        "國際教師學程-數學"
+    ],
+    "comment": "",
+    "restrict": "",
+    "form_s": "",
+    "classes": "9",
+    "dept_group": "",
+    "hours": 3,
+    "description": "",
+    "goals": [
+        "Knowledge of major mathematics problems, including background and mathematical contents.",
+        "Recognition of mathematical contents in problems.",
+        "Composition of a balanced, well-covered set of test papers.",
+        "Reflection and communication on improvements of works."
+    ],
+    "syllabus": "The goal of this course is to bridge the gap between secondary school mathematics and university mathematics. Material needed for upper-tier students but not taught in standard university classes, e.g. trilinear coordinate, combinatorial arguments, will be also compensated if time is allowed.\n\nWe will introduce various topics via a collection of problems. Students are required to solve, discuss and study the theory involved. No textbooks are required, textbooks used in the first 3 years are useful. \n\nActive presentation and active discussion in class are highly anticipated. \n\nA independent project is required at the end of the semester.\n\nThis course will follow the 16+2 weeks policy.",
+    "methodologies": [
+        {
+            "type": "Formal lecture",
+            "note": ""
+        },
+        {
+            "type": "Group discussion",
+            "note": ""
+        },
+        {
+            "type": "Problem base learning",
+            "note": ""
+        },
+        {
+            "type": "Cooperative learning",
+            "note": ""
+        },
+        {
+            "type": "Case studies",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "Assignments",
+            "weight": 25,
+            "note": ""
+        },
+        {
+            "type": "Final exam",
+            "weight": 25,
+            "note": "含期中考"
+        },
+        {
+            "type": "Class discussion involvement",
+            "weight": 10,
+            "note": ""
+        },
+        {
+            "type": "Presentation",
+            "weight": 40,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

@@ -1,0 +1,520 @@
+[
+    {
+        "year": 111,
+        "term": 1,
+        "name": "量子力學（一）",
+        "teachers": [
+            "吳文欽"
+        ],
+        "department": "SM41",
+        "code": "PHC0011",
+        "credit": 3,
+        "serial": 2671,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 2,
+                "to": 4,
+                "campus": "公館",
+                "classroom": "Ｓ701"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎課程開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "古典電動力學（一）",
+        "teachers": [
+            "張明哲"
+        ],
+        "department": "SM41",
+        "code": "PHC0013",
+        "credit": 3,
+        "serial": 2672,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 2,
+                "to": 4,
+                "campus": "公館",
+                "classroom": "Ｓ701"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎課程開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "統計力學（一）",
+        "teachers": [
+            "李沃龍"
+        ],
+        "department": "SM41",
+        "code": "PHC0019",
+        "credit": 3,
+        "serial": 2673,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 2,
+                "to": 4,
+                "campus": "公館",
+                "classroom": "Ｓ701"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎課程開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "固態物理（一）",
+        "teachers": [
+            "陳鴻宜"
+        ],
+        "department": "SM41",
+        "code": "PHC0023",
+        "credit": 3,
+        "serial": 2674,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 2,
+                "to": 4,
+                "campus": "公館",
+                "classroom": "Ｓ701"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎課程開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "書報討論（一）",
+        "teachers": [
+            "吳亞霖"
+        ],
+        "department": "SM41",
+        "code": "PHC0041",
+        "credit": 1,
+        "serial": 2675,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 7,
+                "to": 7,
+                "campus": "公館",
+                "classroom": "Ｓ101"
+            }
+        ],
+        "programs": [],
+        "comment": "Seminar (III) is not allowed to be taken as electives at the same time.",
+        "restrict": "◎課程開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "書報討論（三）",
+        "teachers": [
+            "吳亞霖"
+        ],
+        "department": "SM41",
+        "code": "PHC0069",
+        "credit": 1,
+        "serial": 2676,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 8,
+                "to": 8,
+                "campus": "公館",
+                "classroom": "Ｓ101"
+            }
+        ],
+        "programs": [],
+        "comment": "Seminar (I) is not allowed to be taken as electives at the same time.",
+        "restrict": "◎課程開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "廣義相對論（一）",
+        "teachers": [
+            "卜宏毅"
+        ],
+        "department": "SM41",
+        "code": "PHC0114",
+        "credit": 3,
+        "serial": 2677,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 5,
+                "from": 2,
+                "to": 4,
+                "campus": "公館",
+                "classroom": "Ｓ407"
+            }
+        ],
+        "programs": [
+            "天文重力學程"
+        ],
+        "comment": "",
+        "restrict": "◎課程開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "凝態系統的拓撲性質（一）",
+        "teachers": [
+            "張明哲"
+        ],
+        "department": "SM41",
+        "code": "PHC8016",
+        "credit": 3,
+        "serial": 2678,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 6,
+                "to": 8,
+                "campus": "公館",
+                "classroom": "Ｓ306"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎課程開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "凝態物理中的量子場論（一）",
+        "teachers": [
+            "陳鴻宜"
+        ],
+        "department": "SM41",
+        "code": "PHC8034",
+        "credit": 3,
+        "serial": 2679,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 5,
+                "from": 6,
+                "to": 8,
+                "campus": "公館",
+                "classroom": "Ｓ406"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎課程開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "生物物理（一）－導論",
+        "teachers": [
+            "張宜仁"
+        ],
+        "department": "SU41",
+        "code": "PHC0087",
+        "credit": 3,
+        "serial": 2850,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 6,
+                "to": 8,
+                "campus": "公館",
+                "classroom": "Ｓ701"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "",
+        "classes": "9",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "表面物理導論（一）",
+        "teachers": [
+            "傅祖怡"
+        ],
+        "department": "SU41",
+        "code": "PHC0094",
+        "credit": 3,
+        "serial": 2851,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 8,
+                "to": 10,
+                "campus": "公館",
+                "classroom": "Ｓ306"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "",
+        "classes": "9",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "固態物理導論（一）",
+        "teachers": [
+            "游至仕"
+        ],
+        "department": "SU41",
+        "code": "PHC9001",
+        "credit": 3,
+        "serial": 2852,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 2,
+                "to": 4,
+                "campus": "公館",
+                "classroom": "Ｓ503"
+            }
+        ],
+        "programs": [
+            "太陽能源與工程學程"
+        ],
+        "comment": "",
+        "restrict": "",
+        "form_s": "",
+        "classes": "9",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "海外實習",
+        "teachers": [
+            "劉祥麟"
+        ],
+        "department": "SU41",
+        "code": "PHC9012",
+        "credit": 2,
+        "serial": 2853,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 16,
+                "to": 12,
+                "campus": "公館",
+                "classroom": "Ｆ100"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "",
+        "classes": "9",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "新興材料與光電元件（一）",
+        "teachers": [
+            "趙宇強"
+        ],
+        "department": "SU41",
+        "code": "PHC9014",
+        "credit": 3,
+        "serial": 2854,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 6,
+                "to": 8,
+                "campus": "公館",
+                "classroom": "Ｓ701"
+            }
+        ],
+        "programs": [
+            "太陽能源與工程學程"
+        ],
+        "comment": "",
+        "restrict": "",
+        "form_s": "",
+        "classes": "9",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "奈米科學暨表面物理專題（一）",
+        "teachers": [
+            "林文欽"
+        ],
+        "department": "SU41",
+        "code": "PHC9019",
+        "credit": 3,
+        "serial": 2855,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 5,
+                "from": 6,
+                "to": 8,
+                "campus": "公館",
+                "classroom": "Ｓ701"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "",
+        "classes": "9",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "奈米科學與技術導論",
+        "teachers": [
+            "葉乃棠"
+        ],
+        "department": "SU41",
+        "code": "PHC9027",
+        "credit": 1,
+        "serial": 2856,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 16,
+                "to": 10,
+                "campus": "公館",
+                "classroom": "Ｓ701"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "",
+        "classes": "9",
+        "dept_group": ""
+    }
+]

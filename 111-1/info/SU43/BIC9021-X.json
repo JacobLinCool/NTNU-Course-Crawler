@@ -1,0 +1,80 @@
+{
+    "year": 111,
+    "term": 1,
+    "name": "野生動物學",
+    "teachers": [
+        "李佩珍"
+    ],
+    "department": "SU43",
+    "code": "BIC9021",
+    "credit": 3,
+    "serial": 2963,
+    "group": "",
+    "quota": {
+        "limit": 36,
+        "additional": 0
+    },
+    "schedule": [
+        {
+            "day": 3,
+            "from": 6,
+            "to": 8,
+            "campus": "公館",
+            "classroom": "Ｓ506"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "",
+    "classes": "9",
+    "dept_group": "",
+    "hours": 3,
+    "description": "",
+    "goals": [
+        "Students will become familiar with fundamental concepts of wildlife biology, as well as practical tools used in wildlife conservation and management.",
+        "Students will put the knowledge they learned towards an independent project, which they present in class."
+    ],
+    "syllabus": "Weeks 1-8: Wildlife biology basics\n\n1.Introduction\n\n2-3. Individual ecology\n\n4-5. Population dynamics\n\n6-7. Species interaction\n\n8\\. Climate change and wildlife\n\nWeeks 9-14: Wildlife conservation and management\n\n9.Counting animals\n\n10.Demographic structure\n\n11.Population viability analysis\n\n12.Conservation genetics\n\n13.Meta-population dynamics\n\n14.Wildlife conservation and management in the context of ecosystem\n\nWeeks 15-16: Student project presentation\n\nWeeks 17-18: Independent study",
+    "methodologies": [
+        {
+            "type": "Formal lecture",
+            "note": "Each topic will be given a formal lecture."
+        },
+        {
+            "type": "Group discussion",
+            "note": "Discussions are encouraged during lectures."
+        },
+        {
+            "type": "Problem base learning",
+            "note": "Homework will be designed to train students in problem solving."
+        },
+        {
+            "type": "Media, audio, visual materials",
+            "note": "Multimedia will be used during lectures."
+        },
+        {
+            "type": "Case studies",
+            "note": "Students will conduct an independent project."
+        }
+    ],
+    "grading": [
+        {
+            "type": "Assignments",
+            "weight": 50,
+            "note": "Several homework assignments will be given throughout the semester."
+        },
+        {
+            "type": "Class discussion involvement",
+            "weight": 20,
+            "note": "Students are required to actively participate in class discussion."
+        },
+        {
+            "type": "Case study reports",
+            "weight": 30,
+            "note": "Students will choose from a list of given topics to conduct an independent study or mini-review, either individually or as a team."
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

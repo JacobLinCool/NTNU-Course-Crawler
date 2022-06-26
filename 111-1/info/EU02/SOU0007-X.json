@@ -1,0 +1,72 @@
+{
+    "year": 111,
+    "term": 1,
+    "name": "心理學",
+    "teachers": [
+        "郭郡羽"
+    ],
+    "department": "EU02",
+    "code": "SOU0007",
+    "credit": 2,
+    "serial": 721,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 8,
+            "to": 9,
+            "campus": "本部",
+            "classroom": "教103"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎限本系(含雙主修)修習◎限大一修習",
+    "form_s": "1",
+    "classes": "",
+    "dept_group": "",
+    "hours": 2,
+    "description": "本課程主要從人類的記憶和認知來探討心理與學習的問題。我們有興趣的是透過實徵及科學方法來瞭解人類身心發展的歷程。當我們瞭解心理的問題，就能提供個人朝正向發展的方法與機會。",
+    "goals": [
+        "透過閱讀瞭解人類認知、心理與生理等方面發展的情形",
+        "從問題討論中建立成人創新規劃能力"
+    ],
+    "syllabus": "週次\n\n日期\n\n教學進度與主題\n\nW1\n\n9/6\n\n課程介紹：何謂心理學\n\nW2\n\n9/13\n\n發展心理學\n\nW3\n\n9/20\n\n感覺系統\n\nW4\n\n9/27\n\n知覺系統\n\nW5\n\n10/4\n\n意識與無意識\n\nW6\n\n10/11\n\n學習與制約\n\nW7\n\n10/18\n\n記憶系統\n\nW8\n\n10/25\n\n期中考\n\nW9\n\n11/1\n\n語言與思考\n\nW10\n\n11/8\n\n動機\n\nW11\n\n11/15\n\n情緒\n\nW12\n\n11/22\n\n智力\n\nW13\n\n11/29\n\n人格心理學\n\nW14\n\n12/6\n\n壓力、健康與因應行為\n\nW15\n\n12/13\n\n社會影響與社會認知\n\nW16\n\n12/20\n\n期末考",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "課堂講授"
+        },
+        {
+            "type": "實驗/實作",
+            "note": "實驗體驗"
+        },
+        {
+            "type": "媒體融入教學",
+            "note": "相關議題影片"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 20,
+            "note": "課堂參與、筆記整理"
+        },
+        {
+            "type": "期中考",
+            "weight": 40,
+            "note": "紙筆測驗"
+        },
+        {
+            "type": "期末考",
+            "weight": 40,
+            "note": "紙筆測驗"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

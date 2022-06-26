@@ -1,0 +1,310 @@
+[
+    {
+        "year": 111,
+        "term": 1,
+        "name": "金屬產品設計與製作",
+        "teachers": [
+            "未定"
+        ],
+        "department": "HU71",
+        "code": "ITU2057",
+        "credit": 3,
+        "serial": 1227,
+        "group": "",
+        "quota": {
+            "limit": 30,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 5,
+                "from": 2,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "科技系TB310"
+            }
+        ],
+        "programs": [
+            "室內設計學程"
+        ],
+        "comment": "設科組優先選課",
+        "restrict": "◎限本系(含雙主修)修習◎限大三修習◎必須先修過【ITU0001  機械製造】",
+        "form_s": "3",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "行銷管理",
+        "teachers": [
+            "王仕茹"
+        ],
+        "department": "OU57",
+        "code": "BAU0021",
+        "credit": 3,
+        "serial": 2490,
+        "group": "A",
+        "quota": {
+            "limit": 60,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 7,
+                "to": 9,
+                "campus": "本部",
+                "classroom": "誠302"
+            }
+        ],
+        "programs": [
+            "室內設計學程",
+            "社團領導學程"
+        ],
+        "comment": "企管系大二學生學號末碼為單數號請選修行銷管理A班;末碼為雙數號請選修行銷管理B班。非企管系欲加修本課程的學生，可用線上選課和利用授課碼選課方式，請務必出席第一節課處理授權碼事宜，不必事先寫信給教授。",
+        "restrict": "◎必須先修過【BAU0048  企業管理概論】",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "行銷管理",
+        "teachers": [
+            "王仕茹"
+        ],
+        "department": "OU57",
+        "code": "BAU0021",
+        "credit": 3,
+        "serial": 2491,
+        "group": "B",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 2,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "綜508會議室"
+            }
+        ],
+        "programs": [
+            "室內設計學程",
+            "社團領導學程"
+        ],
+        "comment": "企管系大二學生學號末碼為單數號請選修行銷管理A班;末碼為雙數號請選修行銷管理B班。非企管系欲加修本課程的學生，可用線上選課和利用授課碼選課方式，請務必出席第一節課處理授權碼事宜，不必事先寫信給教授。",
+        "restrict": "◎必須先修過【BAU0048  企業管理概論】",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "色彩學",
+        "teachers": [
+            "施令紅"
+        ],
+        "department": "TU68",
+        "code": "VDU0006",
+        "credit": 2,
+        "serial": 3198,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 3,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "綜914"
+            }
+        ],
+        "programs": [
+            "室內設計學程"
+        ],
+        "comment": "",
+        "restrict": "◎限本系(含雙主修)修習◎限大一修習 ◎必須先修過(也可以同時修)【VDU0019  電腦繪圖】、【VDU0108  設計素描（一）】",
+        "form_s": "1",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "室內設計（一）",
+        "teachers": [
+            "長友大輔"
+        ],
+        "department": "TU68",
+        "code": "VDU0196",
+        "credit": 2,
+        "serial": 3210,
+        "group": "",
+        "quota": {
+            "limit": 35,
+            "additional": 5
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 6,
+                "to": 7,
+                "campus": "本部",
+                "classroom": "設計系2B教室"
+            }
+        ],
+        "programs": [
+            "室內設計學程"
+        ],
+        "comment": "",
+        "restrict": "◎限本系(含雙主修)修習◎必須先修過【VDU0070  基礎設計（一）】、【VDU0108  設計素描（一）】",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "室內設計圖學",
+        "teachers": [
+            "未定"
+        ],
+        "department": "TU68",
+        "code": "VDU0211",
+        "credit": 2,
+        "serial": 3213,
+        "group": "",
+        "quota": {
+            "limit": 35,
+            "additional": 5
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 1,
+                "to": 2,
+                "campus": "本部",
+                "classroom": "設計系2A教室"
+            }
+        ],
+        "programs": [
+            "室內設計學程"
+        ],
+        "comment": "授課教師:劉大章助理教授級專業技術人員",
+        "restrict": "◎限本系(含雙主修)修習",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "空間構成",
+        "teachers": [
+            "未定"
+        ],
+        "department": "TU68",
+        "code": "VDU0250",
+        "credit": 2,
+        "serial": 3219,
+        "group": "",
+        "quota": {
+            "limit": 35,
+            "additional": 5
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 10,
+                "to": 11,
+                "campus": "本部",
+                "classroom": "設計系2B教室"
+            }
+        ],
+        "programs": [
+            "室內設計學程"
+        ],
+        "comment": "授課教師:莊澤光",
+        "restrict": "",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "施工圖",
+        "teachers": [
+            "未定"
+        ],
+        "department": "TU68",
+        "code": "VDU0157",
+        "credit": 2,
+        "serial": 3226,
+        "group": "",
+        "quota": {
+            "limit": 35,
+            "additional": 5
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 3,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "設計系2A教室"
+            }
+        ],
+        "programs": [
+            "室內設計學程"
+        ],
+        "comment": "授課教師:劉大章助理教授級專業技術人員",
+        "restrict": "◎限本系(含雙主修)修習",
+        "form_s": "3",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "商業空間設計（一）",
+        "teachers": [
+            "長友大輔"
+        ],
+        "department": "TU68",
+        "code": "VDU0251",
+        "credit": 2,
+        "serial": 3230,
+        "group": "",
+        "quota": {
+            "limit": 35,
+            "additional": 5
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 9,
+                "to": 10,
+                "campus": "本部",
+                "classroom": "設計系3B教室"
+            }
+        ],
+        "programs": [
+            "室內設計學程"
+        ],
+        "comment": "",
+        "restrict": "◎限本系(含雙主修)修習 ◎必須先修過(也可以同時修)【VDU0157  施工圖】、【VDU0211  室內設計圖學】",
+        "form_s": "3",
+        "classes": "",
+        "dept_group": ""
+    }
+]

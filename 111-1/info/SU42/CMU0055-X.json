@@ -1,0 +1,98 @@
+{
+    "year": 111,
+    "term": 1,
+    "name": "有機光譜學",
+    "teachers": [
+        "姚清發"
+    ],
+    "department": "SU42",
+    "code": "CMU0055",
+    "credit": 3,
+    "serial": 2909,
+    "group": "",
+    "quota": {
+        "limit": 100,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 4,
+            "from": 1,
+            "to": 1,
+            "campus": "公館",
+            "classroom": "Ｅ302"
+        },
+        {
+            "day": 4,
+            "from": 6,
+            "to": 7,
+            "campus": "公館",
+            "classroom": "Ｅ302"
+        }
+    ],
+    "programs": [
+        "太陽能源與工程學程"
+    ],
+    "comment": "",
+    "restrict": "◎限本系(含雙主修)修習",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "教授和有機化學相關之光譜學",
+    "goals": [
+        "教授和有機化學相關之光譜學"
+    ],
+    "syllabus": "有機光譜學之簡介(introduction)、元素分析(EA: elemental analysis)、紅外線光譜學(IR: infared)、核磁共振光譜學(NMR: nuclear magnetic resonance)、紫外線及可見光譜學 (UV: ultraviolet and visible)、二維核磁共振光譜學 (2D NMR: two dimension nuclear magnetic resonance)之原理及應用以及其綜合應用(application)",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "課本內容說明"
+        },
+        {
+            "type": "問題解決教學",
+            "note": "未知物的光譜結構的鑑定及分析"
+        },
+        {
+            "type": "實驗/實作",
+            "note": "化合物的合成及光譜資料的光譜收集及其結構的鑑定及分析"
+        },
+        {
+            "type": "實地考察、參訪",
+            "note": "貴重儀器中心參訪"
+        },
+        {
+            "type": "專題研究",
+            "note": "鼓勵同學參加實驗室的專題研究及使用貴重儀器"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 20,
+            "note": "未知物的光譜結構的鑑定及分析"
+        },
+        {
+            "type": "期中考",
+            "weight": 20,
+            "note": "期中考試"
+        },
+        {
+            "type": "期末考",
+            "weight": 20,
+            "note": "期末考試"
+        },
+        {
+            "type": "出席",
+            "weight": 20,
+            "note": "出席狀況"
+        },
+        {
+            "type": "成果展覽",
+            "weight": 20,
+            "note": "化合物的合成及光譜資料的光譜收集及其結構的鑑定及分析"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

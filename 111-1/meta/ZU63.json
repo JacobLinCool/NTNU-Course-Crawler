@@ -1,0 +1,481 @@
+[
+    {
+        "year": 111,
+        "term": 1,
+        "name": "電腦影像處理",
+        "teachers": [
+            "張玉山"
+        ],
+        "department": "HU71",
+        "code": "ITU0028",
+        "credit": 3,
+        "serial": 1214,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 7,
+                "to": 9,
+                "campus": "本部",
+                "classroom": "教402"
+            }
+        ],
+        "programs": [
+            "科技藝術學程"
+        ],
+        "comment": "",
+        "restrict": "◎限本系(含雙主修)修習◎限大一◎限乙班修習",
+        "form_s": "1",
+        "classes": "2",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "虛擬實境設計",
+        "teachers": [
+            "未定"
+        ],
+        "department": "HU71",
+        "code": "ITU0140",
+        "credit": 3,
+        "serial": 1233,
+        "group": "",
+        "quota": {
+            "limit": 40,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 10,
+                "to": 12,
+                "campus": "本部",
+                "classroom": "教401"
+            }
+        ],
+        "programs": [
+            "科技藝術學程",
+            "數位人文與藝術學程"
+        ],
+        "comment": "學科組優先選課",
+        "restrict": "◎限本系(含雙主修)修習◎限大四修習",
+        "form_s": "4",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "電腦三次元繪圖",
+        "teachers": [
+            "張晏榕"
+        ],
+        "department": "HU72",
+        "code": "GCU0036",
+        "credit": 3,
+        "serial": 1247,
+        "group": "",
+        "quota": {
+            "limit": 40,
+            "additional": 0
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 8,
+                "to": 10,
+                "campus": "本部",
+                "classroom": "教402"
+            }
+        ],
+        "programs": [
+            "科技藝術學程",
+            "知識轉譯學程"
+        ],
+        "comment": "",
+        "restrict": "◎限本系(含雙主修)修習◎限大二大三大四修習",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "電腦繪圖與動畫技術",
+        "teachers": [
+            "陳淑如"
+        ],
+        "department": "HU72",
+        "code": "GCU0145",
+        "credit": 3,
+        "serial": 3326,
+        "group": "",
+        "quota": {
+            "limit": 40,
+            "additional": 0
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 8,
+                "to": 10,
+                "campus": "本部",
+                "classroom": "綜1001"
+            }
+        ],
+        "programs": [
+            "科技藝術學程"
+        ],
+        "comment": "",
+        "restrict": "◎限本系(含雙主修)修習◎限大二大三大四修習",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "動畫實務基礎",
+        "teachers": [
+            "張晏榕"
+        ],
+        "department": "HU72",
+        "code": "GCU0186",
+        "credit": 3,
+        "serial": 1250,
+        "group": "",
+        "quota": {
+            "limit": 40,
+            "additional": 0
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 2,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "綜1001"
+            }
+        ],
+        "programs": [
+            "科技藝術學程",
+            "知識轉譯學程"
+        ],
+        "comment": "",
+        "restrict": "◎限本系(含雙主修)修習◎限大二大三大四修習",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "數位科技藝術與創作",
+        "teachers": [
+            "黃心健"
+        ],
+        "department": "TM60",
+        "code": "ATC0345",
+        "credit": 3,
+        "serial": 3115,
+        "group": "",
+        "quota": {
+            "limit": 30,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 10,
+                "to": 12,
+                "campus": "本部",
+                "classroom": "美203"
+            }
+        ],
+        "programs": [
+            "科技藝術學程"
+        ],
+        "comment": "",
+        "restrict": "◎限本系(含雙主修)修習 ◎課程不開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "互動媒體專題研究",
+        "teachers": [
+            "黃心健"
+        ],
+        "department": "TM68",
+        "code": "VDM0034",
+        "credit": 3,
+        "serial": 3141,
+        "group": "",
+        "quota": {
+            "limit": 30,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 2,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "綜1001"
+            }
+        ],
+        "programs": [
+            "科技藝術學程"
+        ],
+        "comment": "",
+        "restrict": "◎課程開放上修",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "數位媒材整合設計（一）",
+        "teachers": [
+            "黃心健"
+        ],
+        "department": "TU68",
+        "code": "VDU0260",
+        "credit": 2,
+        "serial": 3193,
+        "group": "",
+        "quota": {
+            "limit": 35,
+            "additional": 5
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 6,
+                "to": 7,
+                "campus": "本部",
+                "classroom": "教402"
+            }
+        ],
+        "programs": [
+            "科技藝術學程"
+        ],
+        "comment": "",
+        "restrict": "◎限本系(含雙主修)修習",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "電腦繪圖",
+        "teachers": [
+            "林俊良"
+        ],
+        "department": "TU68",
+        "code": "VDU0019",
+        "credit": 3,
+        "serial": 3199,
+        "group": "A",
+        "quota": {
+            "limit": 35,
+            "additional": 5
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 3,
+                "to": 5,
+                "campus": "本部",
+                "classroom": "綜914"
+            }
+        ],
+        "programs": [
+            "科技藝術學程"
+        ],
+        "comment": "學生須自備筆電及繪圖軟體(AI,PS)",
+        "restrict": "◎限本系(含雙主修)修習◎限大一修習 ◎必須先修過(也可以同時修)【VDU0108  設計素描（一）】、【VDU0070  基礎設計（一）】",
+        "form_s": "1",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "電腦繪圖",
+        "teachers": [
+            "薛佑廷"
+        ],
+        "department": "TU68",
+        "code": "VDU0019",
+        "credit": 3,
+        "serial": 3200,
+        "group": "B",
+        "quota": {
+            "limit": 35,
+            "additional": 5
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 3,
+                "to": 5,
+                "campus": "本部",
+                "classroom": "教403"
+            }
+        ],
+        "programs": [
+            "科技藝術學程"
+        ],
+        "comment": "",
+        "restrict": "◎限本系(含雙主修)修習◎限大一修習 ◎必須先修過(也可以同時修)【VDU0108  設計素描（一）】、【VDU0070  基礎設計（一）】",
+        "form_s": "1",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "３Ｄ電腦動畫（一）",
+        "teachers": [
+            "薛佑廷"
+        ],
+        "department": "TU68",
+        "code": "VDU0174",
+        "credit": 3,
+        "serial": 3207,
+        "group": "",
+        "quota": {
+            "limit": 35,
+            "additional": 5
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 6,
+                "to": 8,
+                "campus": "本部",
+                "classroom": "教403"
+            }
+        ],
+        "programs": [
+            "科技藝術學程"
+        ],
+        "comment": "",
+        "restrict": "◎限本系(含雙主修)修習 ◎必須先修過(也可以同時修)【VDU0019  電腦繪圖】、【VDU0108  設計素描（一）】",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "數位建模",
+        "teachers": [
+            "未定"
+        ],
+        "department": "TU68",
+        "code": "VDU0218",
+        "credit": 2,
+        "serial": 3215,
+        "group": "",
+        "quota": {
+            "limit": 35,
+            "additional": 5
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 6,
+                "to": 7,
+                "campus": "本部",
+                "classroom": "設計系2B教室"
+            }
+        ],
+        "programs": [
+            "科技藝術學程"
+        ],
+        "comment": "授課教師:陳佳宏講師",
+        "restrict": "◎限本系(含雙主修)修習 ◎必須先修過(也可以同時修)【VDU0263  基礎模型製作（一）】",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "表現技法（一）",
+        "teachers": [
+            "未定"
+        ],
+        "department": "TU68",
+        "code": "VDU0246",
+        "credit": 2,
+        "serial": 3217,
+        "group": "",
+        "quota": {
+            "limit": 35,
+            "additional": 5
+        },
+        "schedule": [
+            {
+                "day": 5,
+                "from": 8,
+                "to": 9,
+                "campus": "本部",
+                "classroom": "設計系2B教室"
+            }
+        ],
+        "programs": [
+            "科技藝術學程"
+        ],
+        "comment": "授課教師:林玠里講師",
+        "restrict": "◎限本系(含雙主修)修習 ◎必須先修過(也可以同時修)【VDU0019  電腦繪圖】、【VDU0070  基礎設計（一）】",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "３Ｄ動畫創作（一）",
+        "teachers": [
+            "未定"
+        ],
+        "department": "TU68",
+        "code": "VDU0181",
+        "credit": 2,
+        "serial": 3227,
+        "group": "",
+        "quota": {
+            "limit": 35,
+            "additional": 5
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 3,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "設計系3B教室"
+            }
+        ],
+        "programs": [
+            "科技藝術學程"
+        ],
+        "comment": "授課教師:呂奇駿講師",
+        "restrict": "◎限本系(含雙主修)修習",
+        "form_s": "3",
+        "classes": "",
+        "dept_group": ""
+    }
+]

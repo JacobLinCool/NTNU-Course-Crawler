@@ -1,0 +1,79 @@
+{
+    "year": 111,
+    "term": 1,
+    "name": "資料探勘",
+    "teachers": [
+        "何宗武"
+    ],
+    "department": "OM56",
+    "code": "IAM0094",
+    "credit": 3,
+    "serial": 2469,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 3,
+            "from": 7,
+            "to": 9,
+            "campus": "本部",
+            "classroom": "雲608"
+        }
+    ],
+    "programs": [
+        "學習與資訊學程"
+    ],
+    "comment": "",
+    "restrict": "◎限本系(含雙主修)修習 ◎課程開放上修",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "",
+    "goals": [
+        "能夠瞭解如何選擇正確的探勘模式",
+        "能夠解讀探勘結果並撰述分析報告",
+        "能夠從探勘結果提出輔助商業決策方案"
+    ],
+    "syllabus": "1.  Introduction to Data Mining for Data Science\n2.  R Lab 1. Starting with R and exploring data\n3.  R Lab 2. Managing data and reshaping\n4.  Method 1. Linear model\n5.  Cont.\n6.  Method 2. Generalized linear model as a classification tool\n7.  Cont.\n8.  1st written test\n9.  Advanced methods with marketing case 1: Predicting Consumer Choice\n10.  Advanced methods with marketing case 2: Targeting Current Customers\n11.  Advanced methods with marketing case 3: Finding New Consumers\n12.  Advanced methods with marketing case 4: Positioning Products\n13.  Advanced methods with marketing case 5: Developing New Products\n14.  Team project presentation\n15.  Team project presentation\n16.  Final written test",
+    "methodologies": [
+        {
+            "type": "Formal lecture",
+            "note": "Theory explanation"
+        },
+        {
+            "type": "Group discussion",
+            "note": "Cases of marketing data science"
+        },
+        {
+            "type": "Cooperative learning",
+            "note": "team project"
+        },
+        {
+            "type": "Case studies",
+            "note": "final presentation"
+        }
+    ],
+    "grading": [
+        {
+            "type": "Midterm Exam",
+            "weight": 30,
+            "note": "written test"
+        },
+        {
+            "type": "Final exam",
+            "weight": 30,
+            "note": "written test"
+        },
+        {
+            "type": "Presentation",
+            "weight": 40,
+            "note": "Team presentation"
+        }
+    ],
+    "prerequisite": "◎Exclusive for students within this department(including dual degree program) ◎Available for junior and senior year B.A. program students (Doctoral program courses excepted) and M.A. program students.",
+    "general_core": []
+}

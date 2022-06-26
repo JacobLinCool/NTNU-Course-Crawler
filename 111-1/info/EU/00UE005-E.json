@@ -1,0 +1,87 @@
+{
+    "year": 111,
+    "term": 1,
+    "name": "教學原理（教）",
+    "teachers": [
+        "王力億"
+    ],
+    "department": "EU",
+    "code": "00UE005",
+    "credit": 2,
+    "serial": 551,
+    "group": "E",
+    "quota": {
+        "limit": 45,
+        "additional": 3
+    },
+    "schedule": [
+        {
+            "day": 5,
+            "from": 9,
+            "to": 10,
+            "campus": "本部",
+            "classroom": "正101"
+        }
+    ],
+    "programs": [
+        "國際教師學程-華語文",
+        "國際教師學程-數學",
+        "國際教師學程-物理",
+        "PASSION偏鄉教育學程",
+        "國際教師學程-國際"
+    ],
+    "comment": "",
+    "restrict": "",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 2,
+    "description": "教學是教師的主要工作，因此本課程是師資培育課程的主軸。本課程為教育學方法課程之一，也是分科教材教法的先修課程。希望藉由本課程的學習達成以下目標：\n1.瞭解教學的概念、理論基礎及原理原則。\n2.瞭解教學的歷程、方法及影響因素。\n3.能夠撰寫教學活動設計（教案）。\n4.能夠了解教學策略，並實際演練各項教學方法。",
+    "goals": [
+        "學科教學知識",
+        "教學轉變"
+    ],
+    "syllabus": "  \n \n\n  \n[教學進度與主題附件](https://ap.itc.ntnu.edu.tw/NtnuFileShare/file.do?action=dl&gno=e60afe45f9844ac887b3ffa66661946e&fno=556d0fe5c0ab45afb62f5dee7dcfa792)",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "講述教學的基本原理及實務應用"
+        },
+        {
+            "type": "討論法",
+            "note": "討論教學原理在實務應用的相關議題"
+        },
+        {
+            "type": "合作學習",
+            "note": "討論及設計小組教學實作"
+        },
+        {
+            "type": "實驗/實作",
+            "note": "執行小組教學實作"
+        }
+    ],
+    "grading": [
+        {
+            "type": "出席",
+            "weight": 20,
+            "note": "上課出席情形"
+        },
+        {
+            "type": "報告",
+            "weight": 20,
+            "note": "期末個人反思報告"
+        },
+        {
+            "type": "成果展覽",
+            "weight": 40,
+            "note": "期末小組教學實作"
+        },
+        {
+            "type": "其他",
+            "weight": 20,
+            "note": "期末同儕回饋報告"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

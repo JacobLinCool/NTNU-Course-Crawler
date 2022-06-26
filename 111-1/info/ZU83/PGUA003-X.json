@@ -1,0 +1,75 @@
+{
+    "year": 111,
+    "term": 1,
+    "name": "財務管理",
+    "teachers": [
+        "賴慧文"
+    ],
+    "department": "ZU83",
+    "code": "PGUA003",
+    "credit": 3,
+    "serial": 3259,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 0
+    },
+    "schedule": [
+        {
+            "day": 3,
+            "from": 7,
+            "to": 9,
+            "campus": "本部",
+            "classroom": "正105"
+        }
+    ],
+    "programs": [
+        "基礎管理學程"
+    ],
+    "comment": "",
+    "restrict": "◎第一階段限 基礎管理學程◎限基礎管理學程選修",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程目的在於研究公司的投資決策。其主要目標在於教導學生，如何利用財務資訊與理論，來對公司做出決策。",
+    "goals": [
+        "提升企業商管方面的知識與認知",
+        "具備職能導向的能力"
+    ],
+    "syllabus": "**Topics**\n\n**1.**      Orientation to the class: discuss syllabus and course assignments, explore student’s expectation about this course\n\n**2.**      **Ch1:Corporate Finance and the Financial Manager**\n\nNYSE, AMEX, DJIA, S&P500: Awash in Acronyms\n\n**3.**      **Ch2:Introduction to Financial Statement Analysis**\n\nInternational Financial Reporting Standards\n\nCommon Mistake---Mismatched Ratios\n\nPractitioner Interview with Sue Frieden, Ernst & Young\n\n**4.**      **Ch3:The Valuation Principle: The Foundation of Financial Decision Making**\n\nYour Personal Financial Decisions\n\nWhen Competitive Market Prices Are Not Available\n\nArbitrage\n\nAn Old Joke\n\n**5.**      **Ch4:NPV and The Time Value of Money**\n\nCommon Mistake---Summing Cash Flows Across Time\n\nHistorical Examples of Perpetuities\n\nCommon Mistake---Discounting One Too Many Times\n\n**6.**      **Ch5: Interest Rates**\n\nCommon Mistake---Using the EAR in the Annuity Formula\n\nHow Is Inflation Actually Calculated?\n\nCommon Mistake---Using the Annuity Formula When Discount Rates Vary\n\nInterest Rates, Discount Rates, and the Cost of Capital\n\n**7.**      **Ch6: Valuing Bonds**\n\nThe U.S. Treasury Market\n\nFinding Bond Prices on the Web\n\nClean and Dirty Prices for Coupon Bonds\n\nBond Ratings and the 2007-2008 Subprime Crisis\n\n**8.**      **Mid-term Exam**\n\n**9.**      **Ch9: Valuing Stocks**\n\nPractitioner Interview with Marilyn Fedak, AllianceBernstein\n\n**10.**  **Ch7: Investment Decision Rules**\n\nCommon Mistake---IRR Versus the IRR Rule\n\nWhy Do Rules Other Than the NPV Rule Persist?\n\nPractitioner Interview with Dick Grannis, Qualcomm, Inc.\n\n**11.**  **Ch8: Fundamental of Capital Budgeting**\n\nCommon Mistake---The Opportunity Cost of and Idle Asset\n\nCommon Mistake: The Sunk Cost Fallacy\n\n**12.**  **Ch10: Risk and Return in Capital Markets**\n\nArithmetic Average Returns Versus Compound Annual Returns\n\nCommon Mistake---A Fallacy of Long-Run diversification\n\n**13.**  **Ch11: Systematic Risk and the Equity Risk Premium**\n\nNobel Prize---Harry Markowitz\n\nIndex Funds\n\nCommon Mistake---Mixing Standard Deviation and Beta\n\nWhy Not Estimate Expected Returns Directly?\n\nNobel Prize---William Sharpe\n\n**14\\. Final Exam.**",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "講述教材內容，探討理論和實務之議題，除了各種財務工具和評價模式的介紹，也會談到應用上的相關問題。"
+        },
+        {
+            "type": "實驗/實作",
+            "note": "計算練習"
+        }
+    ],
+    "grading": [
+        {
+            "type": "期中考",
+            "weight": 40,
+            "note": "Multiple choice and problems solving."
+        },
+        {
+            "type": "期末考",
+            "weight": 40,
+            "note": "Multiple choice and problems solving."
+        },
+        {
+            "type": "出席",
+            "weight": 10,
+            "note": ""
+        },
+        {
+            "type": "其他",
+            "weight": 10,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

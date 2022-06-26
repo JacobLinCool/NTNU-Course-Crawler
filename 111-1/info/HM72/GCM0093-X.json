@@ -1,0 +1,86 @@
+{
+    "year": 111,
+    "term": 1,
+    "name": "媒體訊息設計",
+    "teachers": [
+        "邱于平"
+    ],
+    "department": "HM72",
+    "code": "GCM0093",
+    "credit": 3,
+    "serial": 1157,
+    "group": "",
+    "quota": {
+        "limit": 30,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 3,
+            "from": 2,
+            "to": 4,
+            "campus": "本部",
+            "classroom": "綜701"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎限本系(含雙主修)修習  ◎限碩二碩三以上修習 ◎課程不開放上修",
+    "form_s": "2",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "This course discusses the various aspects of message design, such as theoretical foundations, message design procedures, and evaluations. Lecturing, group discussions, exams, and oral presentations may be employed to achieve the objectives of the course.",
+    "goals": [
+        "Increase knowledge about theoretical foundations of visual message design.",
+        "Develop skills in analyzing, designing, producing, implementing and evaluating media message design.",
+        "Apply visual message design principles and concepts to graphic arts communication through the development of a project."
+    ],
+    "syllabus": "新媒體時代的媒體訊息，是以UIUX為主體，但同學們對於 UI UX 確切定義並不太清楚。史蒂夫·賈伯斯說過：「大部分的人以為產品外觀做得美觀就是一個好設計(UI)，但實際上成功的設計不能只是好看更必須要好用(UX)。」很多網站只在意很美很時尚(UI)，但是網站操作卻很難用(UX)。也有些網站具有很容易操作(UX)，但網站設計美感卻令人不敢恭維(UI)。\n\n這堂課，主要是以內容、視覺美感、使用者體驗為基準，探索如何打造容易懂簡單易用UI的具體方法，並讓同學可清楚了解「易懂」及「易用」的UI設計重點，進而構思如何改造既有的APP介面與體驗過程。\n\n週數\n\n課程內容\n\n實體課程\n\n9/7\n\n**Introduction**\n\n9/14\n\nDefine\n\n**內容（配色、美學**\n\n9/21\n\n**Research**\n\n**視覺化資****料**\n\n9/28\n\n**內容行銷(進階)**\n\n**（線上非同步）**\n\n10/5\n\n**Ideate**\n\n**資訊視覺化（美學**\n\n10/12\n\n**Prototype**\n\n**使用者體驗**\n\n10/19\n\n**Select**\n\n**傳播訊息設計**\n\n10/26\n\n**Figma 介面(初階)**\n\n**（線上非同步）**\n\n11/2\n\nImplement\n\n**Figma** **實作**\n\n11/9\n\nLearn\n\n11/16\n\n**UX**\n\n11/23\n\n**服務設計(進階)**\n\n**（線上非同步）**\n\n11/30\n\n**Design psychology**\n\n12/7\n\n**Presentation（****OBS****）**\n\n**OBS操作使用**\n\n12/14\n\n**Exhibition**\n\n12/21\n\n**Presentation（OBS****）**\n\n(部分課程內容為非同步線上課程，當天可預約老師辦公室時間)",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "講述數位媒體技術與應用的重要概念與理論"
+        },
+        {
+            "type": "討論法",
+            "note": "討論重要議題，分為全班討論與小組討論"
+        },
+        {
+            "type": "問題解決教學",
+            "note": "期中前，了解APP面臨狀況，發現問題與解決"
+        },
+        {
+            "type": "媒體融入教學",
+            "note": "本課程將利用Moodle教學平台、YouTube線上影片輔助教學"
+        },
+        {
+            "type": "專題研究",
+            "note": "透過教師引導，針對問題製作出實際解決之方針"
+        }
+    ],
+    "grading": [
+        {
+            "type": "課堂討論參與",
+            "weight": 15,
+            "note": ""
+        },
+        {
+            "type": "出席",
+            "weight": 15,
+            "note": ""
+        },
+        {
+            "type": "報告",
+            "weight": 60,
+            "note": "2.1\t分組報告\n2.1.1\t2-3人一組\n2.1.2\t上台簡報，20mins\n2.1.3\t簡報檔繳交\n2.2\t解析與解構品牌app\n2.2.1\t改版網站或APP（運用figma繪製）\n2.2.2\t內容\n\t釐清、分析、探究問題\n\tPersona, Consumer Journey\n\t痛點、需修改處（至少10個不同頁面）\n\tBefore / After，務必須說明清楚！\n\t原型圖、實際樣貌\n\t…"
+        },
+        {
+            "type": "成果展覽",
+            "weight": 10,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

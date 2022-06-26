@@ -1,0 +1,95 @@
+{
+    "year": 111,
+    "term": 1,
+    "name": "石油地質學",
+    "teachers": [
+        "李通藝"
+    ],
+    "department": "SU44",
+    "code": "ESC9018",
+    "credit": 3,
+    "serial": 3012,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 4,
+            "from": 2,
+            "to": 4,
+            "campus": "公館",
+            "classroom": "Ｃ401"
+        }
+    ],
+    "programs": [],
+    "comment": "限大三、大四及碩班學生修習-因本門課程為中階以上課程，適合大三以上學生修習，以作為探究研究所之先修課程，同時也開放碩士班無此課程基礎之學生選修。",
+    "restrict": "◎限大三大四 ◎限碩一碩二碩三以上修習",
+    "form_s": "",
+    "classes": "9",
+    "dept_group": "",
+    "hours": 3,
+    "description": "Petroleum Geology is a branch of geology that is concerned with the exploration and economic development of petroleum. A petroleum geologist must have a solid understanding of historical geology and stratigraphy, structural geology, sedimentary geology, mineralogy and petrology, geophysics and an understanding of subsurface fluids, petroleum geochemistry, statistics, various aspects of engineering, a solid appreciation of economics and an understanding of local, national, and international politics.",
+    "goals": [
+        "Understand that Petroleum Geology is a branch of applied geology.",
+        "Understand the basic knowledge in exploration of hydrocarbon.",
+        "Can work with colleagues about the exploration of hydrocarbon.",
+        "Can use the professional techniques to work on exploration of hydrocarbon."
+    ],
+    "syllabus": "_**Petroleum Geology**_ is a branch of geology that is concerned with the exploration and economic development of petroleum. A petroleum geologist must have a solid understanding of historical geology and stratigraphy, structural geology, sedimentary geology, mineralogy and petrology, geophysics and an understanding of subsurface fluids, petroleum geochemistry, statistics, various aspects of engineering, a solid appreciation of economics and an understanding of local, national, and international politics.\n\n**Outlines**\n\n1\\. Introduction\n\n        Historical Review of Petroleum Exploration\n\n        The Context of Petroleum Geology\n\n2\\. The Physical and Chemical Properties of Petroleum\n\n        Natural Gases\n\n        Gas Hydrates\n\n        Crude Oil\n\n3\\. Methods of Exploration\n\n        Well Drilling and Completion\n\n        Formation Evaluation\n\n        Geophysical Methods of Exploration\n\n        Borehole Geophysics ad 4D Seismic\n\n        Subsurface Geology\n\n        Remote Sensing\n\n4\\. The Subsurface Environment\n\n        Subsurface Waters\n\n        Subsurface Temperatures\n\n        Subsurface Pressures\n\n        Subsurface Fluid Dynamics\n\n5\\. Generation and Migration of Petroleum\n\n        Origin of Petroleum: Organic and Inorganic\n\n        Modern Organic Processes on the Earth's Surface\n\n        Formation of Kerogen\n\n        Petroleum Migration\n\n        The Petroleum System\n\n6\\. The Reservoir\n\n        Porosity\n\n        Permeability\n\n        Capillary Pressure\n\n        Relationship between Porosity, Permeability, and Texture\n\n        Effects of Diagenesis on Reservoir Quality\n\n        Reservoir Continuity\n\n        Reservoir Characterization\n\n        Reserve Calculations\n\n        Production Methods\n\n7\\. Traps and Seals\n\n        Introduction\n\n        Nomenclature of a Trap\n\n        Distribution of Petroleum within a Trap\n\n        Seals and Cap Rocks\n\n        Classification of Traps\n\n        Structural Traps\n\n        Diapiric Traps\n\n        Stratigraphic Traps\n\n        Hydrodynamic Traps\n\n        Combination Traps\n\n        Traps: Conclusion\n\n8\\. Sedimentary Basins and Petroleum Systems\n\n        Basic Concepts and Terms\n\n        Mechanisms of Basin Formation\n\n        Classification of Sedimentary Basins\n\n        Cratonic Basins\n\n        Troughs\n\n        The Rift-drift Suite of Basins\n\n        Strike-slip Basins\n\n        Sedimentary Basins and Petroleum Systems\n\n9\\. Nonconventional Petroleum Resources\n\n        Introduction\n\n        Plastic and Solid Hydrocarbon\n\n        Tar Sands\n\n        Oil Shales\n\n        Tight Oil Reservoirs\n\n        Coalbed Methane\n\n        Shale Gas\n\n        Tight Gas Reservoirs\n\n10\\. Conclusions\n\n        Prospects and Probabilities\n\n        Reserves and Resources",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "課堂講述"
+        },
+        {
+            "type": "討論法",
+            "note": "同儕分組討論"
+        },
+        {
+            "type": "問題解決教學",
+            "note": ""
+        },
+        {
+            "type": "合作學習",
+            "note": "同儕分組討論"
+        },
+        {
+            "type": "實驗/實作",
+            "note": "習題與期末計畫"
+        },
+        {
+            "type": "實地考察、參訪",
+            "note": "野外考察、參訪石油公司"
+        },
+        {
+            "type": "媒體融入教學",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 50,
+            "note": "具備資料統整與邏輯推演之能力"
+        },
+        {
+            "type": "期中考",
+            "weight": 20,
+            "note": "具備資料統整與邏輯推演之能力"
+        },
+        {
+            "type": "期末考",
+            "weight": 20,
+            "note": "具備資料統整與邏輯推演之能力"
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 10,
+            "note": "課堂討論參與及野外考察"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

@@ -1,0 +1,516 @@
+[
+    {
+        "year": 111,
+        "term": 1,
+        "name": "初級日文（一）",
+        "teachers": [
+            "張文朝"
+        ],
+        "department": "L",
+        "code": "L0U1001",
+        "credit": 2,
+        "serial": 1541,
+        "group": "A",
+        "quota": {
+            "limit": 70,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 10,
+                "to": 11,
+                "campus": "本部",
+                "classroom": "誠307"
+            }
+        ],
+        "programs": [
+            "國關與外交學程",
+            "日語學程"
+        ],
+        "comment": "",
+        "restrict": "◎第一階段限 日語學程◎限日語學程選修",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "初級日文（一）",
+        "teachers": [
+            "張文朝"
+        ],
+        "department": "L",
+        "code": "L0U1001",
+        "credit": 2,
+        "serial": 1542,
+        "group": "B",
+        "quota": {
+            "limit": 70,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 10,
+                "to": 11,
+                "campus": "本部",
+                "classroom": "誠102"
+            }
+        ],
+        "programs": [
+            "國關與外交學程",
+            "日語學程"
+        ],
+        "comment": "",
+        "restrict": "◎第一階段限 日語學程◎限日語學程選修",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "初級日文（一）",
+        "teachers": [
+            "未定"
+        ],
+        "department": "L",
+        "code": "L0U1001",
+        "credit": 2,
+        "serial": 1543,
+        "group": "C",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 5,
+                "from": 6,
+                "to": 7,
+                "campus": "本部",
+                "classroom": "正205"
+            }
+        ],
+        "programs": [
+            "國關與外交學程",
+            "日語學程"
+        ],
+        "comment": "授課教師：許育惠",
+        "restrict": "◎第一階段限 日語學程◎限日語學程選修",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "初級日文（一）",
+        "teachers": [
+            "邱麗娟"
+        ],
+        "department": "L",
+        "code": "L0U1001",
+        "credit": 2,
+        "serial": 1544,
+        "group": "D",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 1,
+                "to": 2,
+                "campus": "本部",
+                "classroom": "樸303"
+            }
+        ],
+        "programs": [
+            "國關與外交學程",
+            "日語學程"
+        ],
+        "comment": "",
+        "restrict": "◎第一階段限 日語學程◎限日語學程選修",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "中級日文（一）",
+        "teachers": [
+            "金培懿"
+        ],
+        "department": "L",
+        "code": "L0U1003",
+        "credit": 2,
+        "serial": 1545,
+        "group": "A",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 6,
+                "to": 7,
+                "campus": "本部",
+                "classroom": "樸307"
+            }
+        ],
+        "programs": [
+            "日語學程"
+        ],
+        "comment": "",
+        "restrict": "◎第一階段限 日語學程◎限日語學程選修 ◎必須先修過【L0U1002  初級日文（二）】、【PGUT013  初級日文（二）】、【L0U1001  初級日文（一）】、【PGUT012  初級日文（一）】其中一門",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "中級日文（一）",
+        "teachers": [
+            "洪韶翎"
+        ],
+        "department": "L",
+        "code": "L0U1003",
+        "credit": 2,
+        "serial": 1546,
+        "group": "B",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 3,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "樸201"
+            }
+        ],
+        "programs": [
+            "日語學程"
+        ],
+        "comment": "",
+        "restrict": "◎第一階段限 日語學程◎限日語學程選修 ◎必須先修過【L0U1002  初級日文（二）】、【PGUT013  初級日文（二）】、【L0U1001  初級日文（一）】、【PGUT012  初級日文（一）】其中一門",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "日語會話與聽講（一）",
+        "teachers": [
+            "池田晶子"
+        ],
+        "department": "L",
+        "code": "L0U1005",
+        "credit": 2,
+        "serial": 1547,
+        "group": "A",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 10,
+                "to": 11,
+                "campus": "本部",
+                "classroom": "誠402"
+            }
+        ],
+        "programs": [
+            "日語學程"
+        ],
+        "comment": "",
+        "restrict": "◎第一階段限 日語學程◎限日語學程選修 ◎必須先修過【PGUT012  初級日文（一）】、【PGUT013  初級日文（二）】、【L0U1001  初級日文（一）】、【L0U1002  初級日文（二）】其中一門",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "日語會話與聽講（一）",
+        "teachers": [
+            "賴建樺"
+        ],
+        "department": "L",
+        "code": "L0U1005",
+        "credit": 2,
+        "serial": 1548,
+        "group": "B",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 16,
+                "to": 10,
+                "campus": "本部",
+                "classroom": "誠305"
+            }
+        ],
+        "programs": [
+            "日語學程"
+        ],
+        "comment": "",
+        "restrict": "◎第一階段限 日語學程◎限日語學程選修 ◎必須先修過【PGUT012  初級日文（一）】、【PGUT013  初級日文（二）】、【L0U1001  初級日文（一）】、【L0U1002  初級日文（二）】其中一門",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "進階日文（一）",
+        "teachers": [
+            "賴建樺"
+        ],
+        "department": "L",
+        "code": "L0U1009",
+        "credit": 2,
+        "serial": 1549,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 8,
+                "to": 9,
+                "campus": "本部",
+                "classroom": "誠204"
+            }
+        ],
+        "programs": [
+            "日語學程"
+        ],
+        "comment": "",
+        "restrict": "◎第一階段限 日語學程◎限日語學程選修 ◎必須先修過【PGUT013  初級日文（二）】、【L0U1002  初級日文（二）】其中一門",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "進階日語會話與聽講（一）",
+        "teachers": [
+            "邱麗娟"
+        ],
+        "department": "L",
+        "code": "L0U1011",
+        "credit": 2,
+        "serial": 1550,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 3,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "樸303"
+            }
+        ],
+        "programs": [
+            "日語學程"
+        ],
+        "comment": "",
+        "restrict": "◎限日語學程選修",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "日本歷史",
+        "teachers": [
+            "富田哲"
+        ],
+        "department": "L",
+        "code": "L0U1014",
+        "credit": 2,
+        "serial": 1551,
+        "group": "",
+        "quota": {
+            "limit": 65,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 10,
+                "to": 11,
+                "campus": "本部",
+                "classroom": "誠201"
+            }
+        ],
+        "programs": [
+            "日語學程"
+        ],
+        "comment": "",
+        "restrict": "◎第一階段限 日語學程◎限日語學程選修",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "日本文學史",
+        "teachers": [
+            "洪韶翎"
+        ],
+        "department": "L",
+        "code": "L0U1015",
+        "credit": 2,
+        "serial": 1552,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 5,
+                "to": 6,
+                "campus": "本部",
+                "classroom": "樸201"
+            }
+        ],
+        "programs": [
+            "日語學程"
+        ],
+        "comment": "",
+        "restrict": "◎第一階段限 日語學程◎限日語學程選修 ◎必須先修過【L0U1002  初級日文（二）】、【PGUT012  初級日文（一）】、【PGUT013  初級日文（二）】、【L0U1001  初級日文（一）】其中一門",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "新聞日語",
+        "teachers": [
+            "簡嘉菁"
+        ],
+        "department": "L",
+        "code": "L0U1018",
+        "credit": 2,
+        "serial": 1553,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 5,
+                "from": 8,
+                "to": 9,
+                "campus": "本部",
+                "classroom": "誠206"
+            }
+        ],
+        "programs": [
+            "日語學程"
+        ],
+        "comment": "",
+        "restrict": "◎第一階段限 日語學程◎限日語學程選修 ◎必須先修過【L0U1002  初級日文（二）】、【PGUT012  初級日文（一）】、【PGUT013  初級日文（二）】、【L0U1001  初級日文（一）】其中一門",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "日文閱讀與寫作",
+        "teachers": [
+            "池田晶子"
+        ],
+        "department": "L",
+        "code": "L0U1019",
+        "credit": 2,
+        "serial": 1554,
+        "group": "A",
+        "quota": {
+            "limit": 30,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 8,
+                "to": 9,
+                "campus": "本部",
+                "classroom": "誠402"
+            }
+        ],
+        "programs": [
+            "日語學程"
+        ],
+        "comment": "",
+        "restrict": "◎第一階段限 日語學程◎限日語學程選修 ◎必須先修過【L0U1001  初級日文（一）】、【L0U1002  初級日文（二）】、【PGUT012  初級日文（一）】、【PGUT013  初級日文（二）】其中一門",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "日文閱讀與寫作",
+        "teachers": [
+            "未定"
+        ],
+        "department": "L",
+        "code": "L0U1019",
+        "credit": 2,
+        "serial": 1555,
+        "group": "B",
+        "quota": {
+            "limit": 30,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 5,
+                "from": 8,
+                "to": 9,
+                "campus": "本部",
+                "classroom": "正205"
+            }
+        ],
+        "programs": [
+            "日語學程"
+        ],
+        "comment": "授課教師：許育惠",
+        "restrict": "◎第一階段限 日語學程◎限日語學程選修 ◎必須先修過【L0U1001  初級日文（一）】、【L0U1002  初級日文（二）】、【PGUT012  初級日文（一）】、【PGUT013  初級日文（二）】其中一門",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    }
+]

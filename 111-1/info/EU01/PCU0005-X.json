@@ -1,0 +1,70 @@
+{
+    "year": 111,
+    "term": 1,
+    "name": "實驗心理學",
+    "teachers": [
+        "許禕芳"
+    ],
+    "department": "EU01",
+    "code": "PCU0005",
+    "credit": 3,
+    "serial": 696,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 3,
+            "from": 7,
+            "to": 10,
+            "campus": "本部",
+            "classroom": "教511"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎限本系(含雙主修)修習◎必須先修過【E0U0002  教育統計學（二）】◎必須先修過【E0U0001  教育統計學（一）】、【05UG020  統計學】其中一門",
+    "form_s": "2",
+    "classes": "",
+    "dept_group": "",
+    "hours": 4,
+    "description": "本課程的目的在教授心理學實驗相關研究方法與理論，學生將透過個人與小組的實作，體驗心理學領域中的經典實驗典範，並練習文獻搜尋、文獻閱讀、統計分析、與符合APA格式之研究報告與計畫撰寫。",
+    "goals": [
+        "瞭解以實驗心理學從事學術研究活動的內容",
+        "熟悉實驗心理學的思維模式",
+        "瞭解實驗法在心理學研究的重要性",
+        "瞭解心理實驗的基本原理原則"
+    ],
+    "syllabus": "第01週 (07 SEP)：Introduction  \n**第02週 (14 SEP)：From research ideas to hypothesis formulation (Chapter03) + Ethics in scientific research (Chapter04)  \n第03週 (21 SEP)：Measurement techniques and sampling methods (Chapter05) + Ensuring research validity (Chapter06)  \n第04週 (28 SEP)：Control techniques in experimental research (Chapter07)  \n第05週 (05 OCT)：Creating the appropriate research design (Chapter08)**  \n第06週 (12 OCT)：Exam  \n**第07週 (19 OCT)：Writing the research report (Chapter16)  \n第08週 (26 OCT)：Procedure for conducting an experiment (Chapter09)**  \n第09週 (02 NOV)：Experiments (10.67)  \n第10週 (09 NOV)：Experiments (10.67)  \n第11週 (16 NOV)：Experiments (10.67)  \n第12週 (23 NOV)：Presentations of groups projects (Group 01-02)  \n第13週 (30 NOV)：Presentations of groups projects (Group 03-04)  \n第14週 (07 DEC)：Presentations of groups projects (Group 05-06)  \n第15週 (14 DEC)：Presentations of groups projects (Group 07-08)  \n第16週 (21 DEC)：Presentations of groups projects (Group 09-10)\n\n報告如有以下違反研究倫理情事，該項成績以0分計。  \n實驗未依規定程序執行。  \n數據造假。  \n抄襲。",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "實驗/實作",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "期中考",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 20,
+            "note": ""
+        },
+        {
+            "type": "報告",
+            "weight": 50,
+            "note": "包含一份個人研究計畫報告(30%)與一份小組實驗報告(20%)。"
+        }
+    ],
+    "prerequisite": "◎必須先修過【E0U0002  教育統計學（二）】◎必須先修過【E0U0001  教育統計學（一）】、【05UG020  統計學】其中一門",
+    "general_core": []
+}

@@ -1,0 +1,65 @@
+{
+    "year": 111,
+    "term": 1,
+    "name": "進階生物統計學",
+    "teachers": [
+        "李子奇"
+    ],
+    "department": "EM05",
+    "code": "HEC8014",
+    "credit": 2,
+    "serial": 447,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 6,
+            "to": 7,
+            "campus": "本部",
+            "classroom": "誠602"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 2,
+    "description": "",
+    "goals": [
+        "了解進階統計分析方法之原理與基本概念",
+        "訓練研究所學生能具有獨立執行統計分析之能力",
+        "在面對各種資料時能做正確之統計分析判斷",
+        "針對統計分析結果作正確解讀及撰寫專業報告"
+    ],
+    "syllabus": "本課程銜接基礎統計學與進階統計學，課程內容先複習基礎統計學概念，再介紹統計分析模式，學習統計基礎概念與統計方法的應用，以及能夠正確解讀及進行專案報告。\n\n*   (上課進度將依據課程安排情況做適度調整)： \n*   授課方式採「16+2週」，即「授課16週＋2週彈性教學（第17、18週），彈性教學採自行綜整已授課內容, 遇疑難與老師討論.\n*   週次/Week\n    \n    **課程內容****(****中文****)**\n    \n    **Content**\n    \n    1\n    \n    課程簡介、緒論、資料蒐集與衡量、統計表與統計圖\n    \n    Introduction, data collection, statistics table and figure\n    \n    2\n    \n    統計量\n    \n    Statistic\n    \n    3\n    \n    機率\n    \n    Probability\n    \n    4\n    \n    間斷隨機變數機率分配\n    \n    Discrete random variable probability distribution\n    \n    5\n    \n    連續隨機變數機率分配\n    \n    Continuous random variable probability distribution\n    \n    6\n    \n    估計\n    \n    Estimation\n    \n    7\n    \n    假設檢定\n    \n    Hypothesis testing\n    \n    8\n    \n    期中考\n    \n    Mid-term test\n    \n    9\n    \n    兩母體的估計與假設檢定\n    \n    Two-group population estimation and testing\n    \n    10\n    \n    兩母體的估計與假設檢定\n    \n    Two-group population estimation and testing\n    \n    11\n    \n    卡方檢定\n    \n    Chi-square test\n    \n    12\n    \n    變異數分析\n    \n    Analysis of variance (ANOVA)\n    \n    13\n    \n    變異數分析\n    \n    Analysis of variance (ANOVA)\n    \n    14\n    \n    簡單迴歸分析與簡單相關分析\n    \n    Simple linear regression and simple correlation\n    \n    15\n    \n    複迴歸分析與複相關分析\n    \n    Multiple linear regression and multiple correlation\n    \n    16\n    \n    期末考\n    \n    Final-term test",
+    "methodologies": [
+        {
+            "type": "Formal lecture",
+            "note": ""
+        },
+        {
+            "type": "Group discussion",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "Assignments",
+            "weight": 80,
+            "note": ""
+        },
+        {
+            "type": "Attendances",
+            "weight": 20,
+            "note": ""
+        }
+    ],
+    "prerequisite": "◎Available for junior and senior year B.A. program students (Doctoral program courses excepted) and M.A. program students.",
+    "general_core": []
+}

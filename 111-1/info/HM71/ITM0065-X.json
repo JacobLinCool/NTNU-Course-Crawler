@@ -1,0 +1,88 @@
+{
+    "year": 111,
+    "term": 1,
+    "name": "網路多媒體系統",
+    "teachers": [
+        "蕭顯勝"
+    ],
+    "department": "HM71",
+    "code": "ITM0065",
+    "credit": 3,
+    "serial": 1142,
+    "group": "",
+    "quota": {
+        "limit": 30,
+        "additional": 5
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 7,
+            "to": 9,
+            "campus": "本部",
+            "classroom": "科技系TA513"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎限本系(含雙主修)修習 ◎課程開放上修",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "了解多媒體相關技術與探討多媒體技術在教學應用的相關議題。",
+    "goals": [
+        "了解多媒體相關技術",
+        "探討多媒體技術在教學應用"
+    ],
+    "syllabus": "**課程大綱** **Course Syllabus**\n\n週次\n\n課程單元大綱\n\n上課方式\n\n報告內容\n\n作業內容\n\n**1**\n\n**(9/28)**\n\n課程簡介\n\n面授、討論\n\n**2**\n\n**(10/5)**\n\nMultimedia learning theory\n\n面授、討論\n\n**3**\n\n**(10/12)**\n\nThe Four component instructional design model\n\n面授、討論\n\nMAKAR ARTIVIVE\n\nEx. 1\n\n**4**\n\n**(10/19)**\n\nCoherence Principle\n\nSignaling Principle\n\n面授、討論\n\nBuildAR\n\n**5**\n\n**(10/26)**\n\nRedundancy Principle\n\nSpatial Contiguity Principle\n\n面授、討論\n\nCh. 4\n\nEx. 2\n\n**6**\n\n**(11/2)**\n\nTemporal Contiguity Principle\n\nSegmenting Principle\n\n面授、討論\n\nCh. 5\n\n**7**\n\n**(11/9)**\n\nPre-training Principle\n\nModality Principle\n\n面授、討論\n\nCh. 6\n\nEx. 3\n\n**8**\n\n**(11/16)**\n\nMultimedia Principle\n\nPersonalization, Voice, and Image Principles\n\n面授、討論\n\nCh. 7\n\n**9**\n\n**(11/23)**\n\nPrinciples of Multimedia Design\n\n演講\n\nCh. 8\n\nEx. 4\n\n**10**\n\n**(11/30)**\n\n期中考\n\n**11**\n\n**(12/7)**\n\nTheories for e-Training\n\n非同步、討論\n\n**12**\n\n**(12/14)**\n\nAlignment of Delivery to Learner’s Needs\n\n非同步、討論\n\n**13**\n\n**(12/21)**\n\nChallenges of e-Training\n\n非同步、討論\n\n**14**\n\n**(12/28)**\n\nTransfer of Learning to Workplace\n\n非同步、討論\n\n**15**\n\n**(1/4)**\n\nOrganizational Requirements of e-Training\n\n非同步、討論\n\n**16**\n\n**(1/11)**\n\nAssessment and Evaluation of e-Training\n\n**17**\n\n**(1/18)**\n\n期末考\n\n非同步、討論\n\n**18**\n\n**(1/25)**\n\n期未專題\n\n同步討論",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "講授多媒體相關技術及教學上之應用"
+        },
+        {
+            "type": "實驗/實作",
+            "note": "實作多媒體教學系統"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 20,
+            "note": ""
+        },
+        {
+            "type": "期中考",
+            "weight": 10,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 10,
+            "note": ""
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 20,
+            "note": ""
+        },
+        {
+            "type": "出席",
+            "weight": 20,
+            "note": ""
+        },
+        {
+            "type": "報告",
+            "weight": 10,
+            "note": ""
+        },
+        {
+            "type": "成果展覽",
+            "weight": 10,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

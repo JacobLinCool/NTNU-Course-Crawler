@@ -1,0 +1,63 @@
+{
+    "year": 111,
+    "term": 1,
+    "name": "電波天文學",
+    "teachers": [
+        "管一政"
+    ],
+    "department": "SU44",
+    "code": "ESC0022",
+    "credit": 3,
+    "serial": 3003,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 3,
+            "from": 7,
+            "to": 9,
+            "campus": "公館",
+            "classroom": "Ｂ413"
+        }
+    ],
+    "programs": [],
+    "comment": "限大四及碩班學生修習-因本門課程為中高階課程，需要之數理運算較一般課程多，所以適合大四以上學生修習。",
+    "restrict": "◎限大四 ◎限碩一碩二碩三以上修習",
+    "form_s": "",
+    "classes": "9",
+    "dept_group": "",
+    "hours": 3,
+    "description": "電波天文時代始於1932年，當時卡爾·揚斯基首先建造了無線電天線並接收來自天空的外星信號。自此之後，電波天文成為天文研究上不可或缺的參與者。在中央研究院天文與天文物理研究所（ASIAA）的帶領下，台灣天文界在過去三十年裡，從 BIMA（柏克萊-伊利諾-馬里蘭聯合陣列）、SMA（次毫米波陣列）、AMiBA（宇宙微波背景輻射陣列）開始，到目前的ALMA（阿塔卡馬大型毫米波/次毫米波陣列）和 GLT（格陵蘭望遠鏡），在電波天文發展上，付出了極大的努力和投資。其中SMA、ALMA和GLT參與了EHT（事件視界望遠鏡）陣列，對我們銀河系和M87中心的黑洞首次直接成像。電波天文在台灣今天的天文研究上，毫無疑問地佔據了主導的地位。\n因此，對希望成為電波天文學家或選擇天文作為未來職業的學生來說，電波天文學是必備的課程。本課程主要對象是一年級的研究生，但也歡迎大學部大四的同學。 由於電波天文的獨特性和主題覆蓋面廣，受上課時間限制，電波天文學將把大部分講課的時間花在觀測理論、儀器和技術的題目上。由於電波觀測中兩種截然不同的操作實施方式和根本物理內涵的不同本質，學期的前半部分將側重於填滿孔徑望遠鏡，後半部分將著重於干涉儀陣列。將首先介紹單碟望遠鏡的基礎知識，然後介紹干涉儀和影像合成的理論。如果時間許可，我們亦將探討電波波段的連續譜輻射和分子發射譜等重要課題。",
+    "goals": [
+        "電波天文是現代天文學中極為重要的一門。電波天文可用以探討宇宙的起源、星系的起源、恆星的起源、行星的起源、以及生命本身的起源。本科目教授範圍涵蓋電波天文的基本原理和在天文研究上之應用，電波望遠鏡之設計及使用，和電波干涉儀陣列之原理。如果時間許可，還將涵蓋電波天文學在天文研究中的主要應用。"
+    ],
+    "syllabus": "1.     Introduction and Historical Review\n\n2.     Radio-Astronomy Fundamentals (I)\n\n3.     Radio-Astronomy Fundamentals (II)\n\n4.     Radio-Telescope Antennas (I)\n\n5.     Radio-Telescope Antennas (II)\n\n6.     Radio-Telescope Receivers\n\n7.     Introductory Theory of Interferometry\n\n8.     Introductory Theory of Synthesis Imaging\n\n9.     Analysis of the Interferometer Response (I)\n\n10.   Analysis of the Interferometer Response (II)\n\n11.   Geometric Relationships (I)\n\n12.   Geometric Relationships (II)\n\n13.   Antennas and Arrays\n\n14.   Image Deconvolution\n\n15.   Radio-Astronomy Science: Continuum Radiation\n\n16.   Radio-Astronomy Science: Molecular Emission",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "期中考",
+            "weight": 35,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 35,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

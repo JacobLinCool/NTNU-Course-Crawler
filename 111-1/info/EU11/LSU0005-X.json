@@ -1,0 +1,77 @@
+{
+    "year": 111,
+    "term": 1,
+    "name": "學習科學導論",
+    "teachers": [
+        "李旻憲"
+    ],
+    "department": "EU11",
+    "code": "LSU0005",
+    "credit": 3,
+    "serial": 897,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 1,
+            "from": 2,
+            "to": 4,
+            "campus": "本部",
+            "classroom": "正202"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程的主要目的在於讓學生了解當代學習科學取向與相關應用之趨勢。學習科學是一門跨領域整合的學科，源自於認知科學、心理學、神經科學與語言學。目前，許多學習科學的研究也多加利用資訊科技，發展相關數位學習環境，探討不同學習情境下學習的機制，進而了解學習本質與提升學習成效的策略。本課程將依據當代學習科學取向之各大面向，進行完整性的介紹，盼能讓學生具備學習科學的相關基礎知能。",
+    "goals": [
+        "能瞭解當代學習科學之相關取向",
+        "能將當代學習科學取向之內涵應用於教育實務上",
+        "透過小組報告與課堂討論活動，培養學生之邏輯分析與批判思考之學習能力"
+    ],
+    "syllabus": "週次\n\n日期\n\n主題\n\n備註\n\n一\n\n9/5\n\n*   課程介紹: A short history of learning sciences\n\nCh2\n\n二\n\n9/12\n\n*   學習心理學1: How people learn\n\n三\n\n9/19\n\n*   學習心理學2：How people learn\n\n四\n\n9/26\n\n*   認知與學習1：How learning works\n\n五\n\n10/3\n\n*   認知與學習2：How learning works\n\n六\n\n10/10\n\n國慶日放假\n\n七\n\n10/17\n\n*   知識認知與知識論: Epistemic Cognition and Epistemic Development\n\nCh3\n\n八\n\n10/24\n\n*   學習的認知與社會文化面向: Cognitive and Sociocultural Perspectives on Learning\n\nCh4\n\n九\n\n10/31\n\n**期中考**\n\n期中考試\n\n十\n\n11/7\n\n*   學習動機: Motivation, Engagement, and Interest\n\nCh12\n\n十一\n\n11/14\n\n*   學習科技理論: Multiple Representations and Multimedia Learning\n\nCh10\n\n十二\n\n11/21\n\n*   合作學習: computer-supported collaborative learning\n*   Contemporary Perspectives of Regulated Learning in Collaboration\n\nCh13\n\n十三\n\n11/28\n\n*   知識創新: Knowledge Building\n\nCh29\n\n十四\n\n12/5\n\n*   模擬、遊戲與建模：Simulations, Games, and Modeling Tools for Learning\n\nCh25\n\n十五\n\n12/12\n\n*   學習評量: Assessment of and for Learning\n\n**期末報告1**\n\nCh40\n\n期末口頭報告\n\n十六\n\n12/19\n\n**期末報告2**\n\n期末口頭報告",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "PTT課程主題導論介紹"
+        },
+        {
+            "type": "討論法",
+            "note": "學生問題討論"
+        },
+        {
+            "type": "合作學習",
+            "note": "小組合作討論及問題解決"
+        },
+        {
+            "type": "媒體融入教學",
+            "note": "線上討論平台"
+        }
+    ],
+    "grading": [
+        {
+            "type": "期中考",
+            "weight": 30,
+            "note": "期中考試。期中考為open book or take home exam之開放性問題"
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 30,
+            "note": "課堂參與，包含出席、討論"
+        },
+        {
+            "type": "報告",
+            "weight": 40,
+            "note": "自選學習科學相關書籍並進行15分鐘書評口頭報告及繳交書面報告電子檔"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

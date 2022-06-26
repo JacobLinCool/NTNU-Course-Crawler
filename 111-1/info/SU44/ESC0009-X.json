@@ -1,0 +1,67 @@
+{
+    "year": 111,
+    "term": 1,
+    "name": "數值天氣預報",
+    "teachers": [
+        "徐月娟"
+    ],
+    "department": "SU44",
+    "code": "ESC0009",
+    "credit": 3,
+    "serial": 3001,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 4,
+            "from": 2,
+            "to": 4,
+            "campus": "公館",
+            "classroom": "Ｓ407"
+        }
+    ],
+    "programs": [],
+    "comment": "限大三、大四及碩班學生修習-因本門課程為中階以上課程，適合修習過大氣動力學的大三以上學生修習，以作為探究研究所之先修課程，同時也開放碩士班無此課程基礎之學生選修。",
+    "restrict": "◎限大三大四 ◎限碩一碩二碩三以上修習",
+    "form_s": "",
+    "classes": "9",
+    "dept_group": "",
+    "hours": 3,
+    "description": "使用數值模式來模擬天氣及氣候，為研究大氣物理過程的重要工具。近年來大氣數值模式產品也已成為天氣預報及氣候預測的主要參考指引。本課程介紹大氣數值模式發展之歷史過程，以及建造一個大氣數值模式所需具備的三方面主要知識，亦即動力架構設計、數值計算方法和物理過程參數化。使學生由簡至深逐步了解大氣數值模式的相關知識，以及數值天氣預報產品的意義，目的是使學生具備從事大氣數值模式的研發和成果應用的基礎知識。\n介紹數值天氣預報發展沿革，含大氣基本控制方程式、準靜力系統、準地轉系統等。介紹建造一個大氣數值模式所需具備的三方面知識，亦即動力架構、物理過程和數值計算。這些知識為從事大氣數值模式的設計和應用的重要基礎。介紹數值天氣預報產品及其應用。",
+    "goals": [
+        "使學生認識大氣數值模式為研究天氣現象的一項利器，了解數值天氣預報產品的意義，並使學生具備從事大氣數值模式的設計和應用的基礎知識。"
+    ],
+    "syllabus": "**Teaching progress**\n\n1\\. Brief introduction of the atmospheric models, the basic governing equations of the atmosphere\n\n2\\. The atmospheric waves (sound waves, gravity waves, low-frequency meteorological waves..)\n\n3\\. The quasi-static system of equations, primitive equation model and prognosis\n\n4\\. The historical background of NWP, data initialization and filtering equations\n\n5\\. Vertical discretization and prognosis in various vertical coordinates\n\n6\\. Vertical discretization and prognosis in various vertical coordinates\n\n7\\. Horizontal discretization: Horizontal coordinates and map projections\n\n8\\. Time differencing schemes (consistency, accuracy, truncation error…)\n\n9\\. Time differencing schemes (oscillation equation, decay equation, convergence, stability…)\n\n10\\. Time-space differencing schemes (advection equation, linear instability…)\n\n11\\. Time-space differencing schemes (vorticity equation, non-linear instability…)\n\n12\\. The quasi-geostrophic system of equations, filtered models\n\n13\\. Primitive equation models\n\n14\\. Physical parameterizations\n\n15\\. Numerical model products and their applications\n\n16\\. final examination\n\n**教學進度與主題**\n\n第一週 認識大氣數值模式(全球模式、區域模式)、大氣基本控制方程式  \n第二週 大氣波動(聲波、重力波、低頻氣象波…)  \n第三週 準靜力系統、原始方程組及預測架構\n\n第四週 數值天氣預報發展沿革、資料初值化及過濾方程式  \n第五週 垂直向離散化、控制方程組及預測架構(廣義坐標、等高面、等壓面…  \n第六週 垂直向離散化、控制方程組及預測架構(等σ面、等位溫面…  \n第七週 水平向離散化(等角投影、水平格點…  \n第八週 時間差分法(一致性、精確度、截斷誤差…  \n第九週 時間差分法(振盪方程、衰減方程、收斂性、穩定性…  \n第十週 時間空間差分法(平流方程、線性不穩定…  \n第十一週 時間空間差分法(渦度方程、非線性不穩定…  \n第十二週 準地轉系統及過濾模式、相當正壓模式、斜壓模式  \n第十三週 原始方程式模式  \n第十四週 物理參數化  \n第十五週 數值天氣預報產品及其應用  \n第十六週 期末考筆試",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "以講課為主，並鼓勵學生發問及討論，將有四次左右作業練習。"
+        },
+        {
+            "type": "討論法",
+            "note": "以講課為主，並鼓勵學生發問及討論，將有四次左右作業練習。"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 35,
+            "note": "作業練習、書面報告"
+        },
+        {
+            "type": "期末考",
+            "weight": 40,
+            "note": ""
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 25,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

@@ -1,0 +1,86 @@
+{
+    "year": 111,
+    "term": 1,
+    "name": "控制系統",
+    "teachers": [
+        "許陳鑑"
+    ],
+    "department": "HU75",
+    "code": "AEU0043",
+    "credit": 3,
+    "serial": 1303,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 7,
+            "to": 9,
+            "campus": "本部",
+            "classroom": "工401"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "",
+    "goals": [
+        "Understand the theories of control systems.",
+        "Able to write control laws by programming language and analyze various data accordingly.",
+        "Develop problem-oriented thinking and research capabilities.",
+        "Improve the ability to understand engineering problems, and use various control methods to analyze and design to solve various practical problems.",
+        "Cultivate the ability to search for relevant technical literature and improve self-learning ability.",
+        "Ability to conduct thematic research in small groups and develop the ability of team working."
+    ],
+    "syllabus": "Week 1: Introduction to Control Systems\n\nWeeks 2~3: Mathematical Foundation (57)\n\nWeek 4: Solution to Differential Equations of Dynamic Systems (39)\n\nWeek 5: Signal-Flow Graphs (44)\n\nWeeks 6~7: Stability of Linear Control Systems (21)\n\nWeek 8: Mid-term Exam\n\nWeeks 9~10: Time-Domain Performance of Control Systems (67)\n\nWeeks 11~12: Root Locus Analysis (54)\n\nWeeks 13~14: Frequency-Domain Analysis (90)\n\nWeek 15: Design of Feedback Control Systems\n\nWeek 16: Final Exam",
+    "methodologies": [
+        {
+            "type": "Formal lecture",
+            "note": "Introduce the relevant principles and technologies of control systems"
+        },
+        {
+            "type": "Group discussion",
+            "note": "Discuss control-related issues in small groups"
+        },
+        {
+            "type": "Lab/Studio",
+            "note": "Students write computer programs to meet control specifications"
+        }
+    ],
+    "grading": [
+        {
+            "type": "Assignments",
+            "weight": 10,
+            "note": "Assignments"
+        },
+        {
+            "type": "Midterm Exam",
+            "weight": 20,
+            "note": "Mid-term exam"
+        },
+        {
+            "type": "Final exam",
+            "weight": 40,
+            "note": "Final exam"
+        },
+        {
+            "type": "Attendances",
+            "weight": 10,
+            "note": "Attendance and course participation"
+        },
+        {
+            "type": "other:",
+            "weight": 20,
+            "note": "Quizzes"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

@@ -1,0 +1,67 @@
+{
+    "year": 111,
+    "term": 1,
+    "name": "應用統計軟體分析",
+    "teachers": [
+        "李銘杰"
+    ],
+    "department": "EM05",
+    "code": "HEC0037",
+    "credit": 2,
+    "serial": 443,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 4,
+            "from": 1,
+            "to": 2,
+            "campus": "本部",
+            "classroom": "誠504"
+        }
+    ],
+    "programs": [
+        "學習與資訊學程"
+    ],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 2,
+    "description": "",
+    "goals": [
+        "Understand fundamentals of R language.",
+        "Students will learn how to program in R",
+        "Students will learn how to perform common statistical analysis in R",
+        "Students will learn how to create statistical graphics using the R"
+    ],
+    "syllabus": "Week 1\n\nCourse Introduction and an Introduction to R\n\nWeek 2\n\nReading Data and Data Reshaping\n\nWeek 3\n\nWriting R Functions and Control Statements\n\nWeek 4\n\nVariables, Functions, and Data Types\n\nWeek 5\n\nVectors and Strings\n\nWeek 6\n\nData.frame and Lists\n\nWeek 7\n\nMatrices and Arrays\n\nWeek 8\n\nMidterm Exam\n\nWeek 9\n\nSummary Statistics and Correlation Coefficient\n\nWeek 10\n\nT Test and ANOVA\n\nWeek 11\n\nSimple and Multiple Regression\n\nWeek 12\n\nLogistic Regression\n\nWeek 13\n\nAnalyzing Longitudinal Data I\n\nWeek 14\n\nAnalyzing Longitudinal Data II\n\nWeek 15\n\nStatistical Graphics\n\nWeek 16\n\nFinal Exam",
+    "methodologies": [
+        {
+            "type": "Formal lecture",
+            "note": "Teacher-centered instruction"
+        },
+        {
+            "type": "Media, audio, visual materials",
+            "note": "Hands-on course"
+        }
+    ],
+    "grading": [
+        {
+            "type": "Midterm Exam",
+            "weight": 50,
+            "note": "Mid-term exam"
+        },
+        {
+            "type": "Final exam",
+            "weight": 50,
+            "note": "Final-term exam"
+        }
+    ],
+    "prerequisite": "◎Available for junior and senior year B.A. program students (Doctoral program courses excepted) and M.A. program students.",
+    "general_core": []
+}

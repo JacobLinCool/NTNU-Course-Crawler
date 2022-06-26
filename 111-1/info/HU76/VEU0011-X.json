@@ -1,0 +1,88 @@
+{
+    "year": 111,
+    "term": 1,
+    "name": "熱力學（一）",
+    "teachers": [
+        "陳韋任"
+    ],
+    "department": "HU76",
+    "code": "VEU0011",
+    "credit": 3,
+    "serial": 1337,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 2,
+            "to": 4,
+            "campus": "本部",
+            "classroom": "汽車工場B101"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "2",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "",
+    "goals": [
+        "具備熱力學所需之知識與理解力。",
+        "具備熱力學所需之問題解決能力。",
+        "具備主動積極與終身學習之人格特質。",
+        "具備良好的溝通與表達能力。",
+        "具備職場專業倫理與社會服務的理解與行動。",
+        "具備尊重智慧財產權的認知與態度。"
+    ],
+    "syllabus": "【授課方式：16+2週】\n\n第1週：課程進度、大綱、評量方式簡介\n\n第2週：熱力學導論\n\n第3週：物質的性質\n\n第4週：控制容積系統\n\n第5週：控制質量系統\n\n第6週：熱力學第二定律\n\n第7週：系統熵\n\n第8週：可用率\n\n第9週：期中測驗\n\n第10週：動力循環I\n\n第11週：動力循環II\n\n第12週：動力循環III\n\n第13週：冷凍循環I\n\n第14週：冷凍循環II\n\n第15週：冷凍循環III\n\n第16週：期末測驗\n\n第17週:  自主學習\n\n第18週:  自主學習",
+    "methodologies": [
+        {
+            "type": "Formal lecture",
+            "note": ""
+        },
+        {
+            "type": "Group discussion",
+            "note": "在課堂的原理講述過程中，鼓勵同學踴躍思考提出問題"
+        },
+        {
+            "type": "Problem base learning",
+            "note": "利用實際的工程案例，幫助同學演練應用課堂學到的知識"
+        },
+        {
+            "type": "Media, audio, visual materials",
+            "note": "使用PPT教學檔案"
+        },
+        {
+            "type": "Case studies",
+            "note": "工程挑戰"
+        },
+        {
+            "type": "Other:",
+            "note": "教師另運用示範、練習等教學方法，培養學生認知方面素養"
+        }
+    ],
+    "grading": [
+        {
+            "type": "Midterm Exam",
+            "weight": 40,
+            "note": ""
+        },
+        {
+            "type": "Final exam",
+            "weight": 40,
+            "note": ""
+        },
+        {
+            "type": "other:",
+            "weight": 20,
+            "note": "課堂練習/工程挑戰"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

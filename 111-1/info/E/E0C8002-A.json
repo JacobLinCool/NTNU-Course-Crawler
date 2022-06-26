@@ -1,0 +1,58 @@
+{
+    "year": 111,
+    "term": 1,
+    "name": "高級教育統計學（乙）",
+    "teachers": [
+        "梁至中"
+    ],
+    "department": "E",
+    "code": "E0C8002",
+    "credit": 3,
+    "serial": 340,
+    "group": "A",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 6,
+            "to": 8,
+            "campus": "本部",
+            "classroom": "樸205"
+        }
+    ],
+    "programs": [
+        "學習與資訊學程",
+        "大數據學程"
+    ],
+    "comment": "需要具備統計知識,或有修畢相關統計課程",
+    "restrict": "◎課程不開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "",
+    "goals": [
+        "1.\t了解常用統計檢定方法的原理及其適用時機",
+        "2.\t選擇適切的分析方法解決問題和解釋分析結果",
+        "3.\t運用統計軟體執行資料分析並撰寫分析結果報告"
+    ],
+    "syllabus": "",
+    "methodologies": [
+        {
+            "type": "",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "",
+            "weight": null,
+            "note": ""
+        }
+    ],
+    "prerequisite": "◎Unavailable for M.A. program students (M.A. program courses excepted) and B.A. program students.",
+    "general_core": []
+}

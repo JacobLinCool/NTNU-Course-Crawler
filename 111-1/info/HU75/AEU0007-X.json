@@ -1,0 +1,69 @@
+{
+    "year": 111,
+    "term": 1,
+    "name": "電子學實驗（一）",
+    "teachers": [
+        "林群祐"
+    ],
+    "department": "HU75",
+    "code": "AEU0007",
+    "credit": 2,
+    "serial": 1310,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 3,
+            "from": 6,
+            "to": 9,
+            "campus": "本部",
+            "classroom": "電機系電子實驗室"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "2",
+    "classes": "",
+    "dept_group": "",
+    "hours": 1,
+    "description": "",
+    "goals": [
+        "Learning the basics of electronic circuits and systems.",
+        "Learning the techniques of implementing electronic circuits and systems.",
+        "Learning the design and application skills of electronic circuits and systems."
+    ],
+    "syllabus": "Week 1: Introduction  \nWeek 2: \\[Lab 1\\] RLC Circuit (1/3)  \nWeek 3: \\[Lab 1\\] RLC Circuit (2/3)  \nWeek 4: \\[Lab 1\\] RLC Circuit (3/3)  \nWeek 5: \\[Lab 2\\] Operational Amplifier (1/3)  \nWeek 6: \\[Lab 2\\] Operational Amplifier (2/3)  \nWeek 7: \\[Lab 2\\] Operational Amplifier (3/3)  \nWeek 8: Midterm Exam  \nWeek 9: \\[Lab 3\\] Diode (1/3)  \nWeek 10: \\[Lab 3\\] Diode (2/3)  \nWeek 11: \\[Lab 3\\] Diode (3/3)  \nWeek 12: \\[Lab 4\\] Field-Effect Transistor (1/2)  \nWeek 13: \\[Lab 4\\] Field-Effect Transistor (2/2)  \nWeek 14: \\[Lab 5\\] FET Circuit (1/2)  \nWeek 15: \\[Lab 5\\] FET Circuit (2/2)  \nWeek 16: Final Exam  \n(The arrangement may be adjusted according to the actual situation.)",
+    "methodologies": [
+        {
+            "type": "Formal lecture",
+            "note": "Describe the operating principles and procedures of electronic circuits."
+        },
+        {
+            "type": "Lab/Studio",
+            "note": "Practice by the students themselves."
+        }
+    ],
+    "grading": [
+        {
+            "type": "Midterm Exam",
+            "weight": 25,
+            "note": "Testing of first half of semester."
+        },
+        {
+            "type": "Final exam",
+            "weight": 25,
+            "note": "Testing of second half of semester."
+        },
+        {
+            "type": "Presentation",
+            "weight": 50,
+            "note": "Reports of each lab."
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

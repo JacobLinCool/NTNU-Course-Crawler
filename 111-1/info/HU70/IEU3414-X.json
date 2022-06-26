@@ -1,0 +1,75 @@
+{
+    "year": 111,
+    "term": 1,
+    "name": "電工學",
+    "teachers": [
+        "賴慕回"
+    ],
+    "department": "HU70",
+    "code": "IEU3414",
+    "credit": 3,
+    "serial": 1203,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 1,
+            "from": 6,
+            "to": 8,
+            "campus": "本部",
+            "classroom": "工401"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "傳授學生電機學之基本知識，培養學生具備電器元件、電學名詞與定理、磁的認識與特性、電學、波形等對電的基本相關知識。",
+    "goals": [
+        "了解電的之基本知識",
+        "了解電在能源及車輛的應用",
+        "增加主動邏輯思考及演算能力",
+        "了解使用電的安全及倫理觀念"
+    ],
+    "syllabus": "**本課程授課方式為16+2週**\n\n第一週：電的基本概念\n\n第二週：直流基本電路\n\n第三週：國慶日補假\n\n第四週：磁的基本概念\n\n第五週：電磁效應\n\n第六週：交流的基本概念\n\n第七週：交流基本電路\n\n第八週：期中測驗\n\n第九週：電機的基本原理\n\n第十週：變壓器\n\n第十一週：三相感應電動機\n\n第十二週：三相感應電動機\n\n第十三週：單相交流電動機\n\n第十四週：同步電機\n\n第十五週：直流電機分類及特性\n\n第十六週：期末測驗\n\n第十七週：自主學習—直流電機控制(Moodle平台)\n\n第十八週：自主學習—電機之維護(Moodle平台)",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "理論授課"
+        },
+        {
+            "type": "討論法",
+            "note": "課堂演練試題"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 20,
+            "note": ""
+        },
+        {
+            "type": "期中考",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "出席",
+            "weight": 20,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

@@ -1,0 +1,88 @@
+{
+    "year": 111,
+    "term": 1,
+    "name": "地理資訊系統",
+    "teachers": [
+        "吳秉昇"
+    ],
+    "department": "LU23",
+    "code": "GEU0166",
+    "credit": 3,
+    "serial": 1947,
+    "group": "B",
+    "quota": {
+        "limit": 25,
+        "additional": 0
+    },
+    "schedule": [
+        {
+            "day": 4,
+            "from": 7,
+            "to": 9,
+            "campus": "本部",
+            "classroom": "地理系電腦教室"
+        }
+    ],
+    "programs": [
+        "學習與資訊學程",
+        "數位人文與藝術學程",
+        "環境監測學程",
+        "空間學程"
+    ],
+    "comment": "本班以中文授課",
+    "restrict": "◎限本系(含雙主修)修習",
+    "form_s": "2",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "",
+    "goals": [
+        "Understanding geographic information science.",
+        "Learning knowledge about geographic information system.",
+        "Being proficient in operating geographic information system.",
+        "Cultivating the ability to solve spatial issues."
+    ],
+    "syllabus": "授課方式：16 + 2週\n\n(1) 地理資訊系統簡介  \n(2) 空間坐標系統  \n(3) 幾何關聯式向量資料模式  \n(4) 物件導向式向量資料模式  \n(5) 網格資料模式  \n(6) GIS資料擷取  \n(7) 幾何空間轉換  \n(8) 期中考  \n(9) 空間資料編修  \n(10) 屬性資料管理  \n(11) 資料展示與製圖  \n(12) 資料探索  \n(13) 向量資料分析  \n(14) 網格資料分析  \n(15) 空間內插  \n(16) 期末考  \n(17) 數位學習  \n(18) 數位學習",
+    "methodologies": [
+        {
+            "type": "Formal lecture",
+            "note": "以投影片配合黑板註記講解方式授課"
+        },
+        {
+            "type": "Problem base learning",
+            "note": "以實際空間問題為例，實機操作解決方案"
+        },
+        {
+            "type": "Lab/Studio",
+            "note": "每堂課最後約一小時實際上機操作練習"
+        },
+        {
+            "type": "Media, audio, visual materials",
+            "note": "採用影片、網路多媒體融入課程主題教學"
+        }
+    ],
+    "grading": [
+        {
+            "type": "Assignments",
+            "weight": 36,
+            "note": "於每一次上機實作後，指派作業課後練習以培育解決問題能力。"
+        },
+        {
+            "type": "Midterm Exam",
+            "weight": 25,
+            "note": "期中考筆試題目均以上課內容及教科書為範圍，上機實作亦以課堂講授內容為主，考試中不得翻書或交談。"
+        },
+        {
+            "type": "Final exam",
+            "weight": 25,
+            "note": "期末考筆試題目均以上課內容及教科書為範圍，上機實作亦以課堂講授內容為主，考試中不得翻書或交談。"
+        },
+        {
+            "type": "Case study reports",
+            "weight": 14,
+            "note": "學期中每位學生需完成一次小型專題實作"
+        }
+    ],
+    "prerequisite": "◎Exclusive for students within this department(including dual degree program)",
+    "general_core": []
+}

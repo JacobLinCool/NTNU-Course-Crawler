@@ -1,0 +1,89 @@
+{
+    "year": 111,
+    "term": 1,
+    "name": "青少年心理學",
+    "teachers": [
+        "陳孟筳"
+    ],
+    "department": "EU01",
+    "code": "PCU0101",
+    "credit": 2,
+    "serial": 701,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 4,
+            "from": 3,
+            "to": 4,
+            "campus": "本部",
+            "classroom": "教513"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "2",
+    "classes": "",
+    "dept_group": "",
+    "hours": 2,
+    "description": "",
+    "goals": [
+        "Understanding the meaning and the importance of adolescence problems during this changing society",
+        "Understanding the development of adolescence from the bio-psycho-social view",
+        "Understanding the theories of multi-facet adolescence problems",
+        "Understanding the experimental designs and current findings of adolescence and the applications to teaching and counseling",
+        "Establishing a good counseling vision and effective coping strategies"
+    ],
+    "syllabus": "Week 1: Introduction\n\nWeek 2: Chapter 1: INTRODUCTION\n\nWeek 3: Chapter 2: PUBERTY, HEALTH, AND BIOLOGICAL FOUNDATIONS\n\nWeek 4: Chapter 3: THE BRAIN AND COGNITIVE DEVELOPMENT\n\nWeek 5: Chapter 4: THE SELF, IDENTITY, EMOTION, AND PERSONALITY\n\nWeek 6: Chapter 5: GENDER\n\nWeek 7: Chapter 6: SEXUALITY\n\nWeek 8: Midterm exam\n\nWeek 9: Chapter 7: MORAL DEVELOPMENT, VALUES, AND RELIGION\n\nWeek 10: Chapter 8: FAMILIES\n\nWeek 11: Chapter 9: PEERS, ROMANTIC RELATIONSHIPS, AND LIFESTYLES\n\nWeek 12: Chapter 10: SCHOOLS\n\nWeek 13: Chapter 11: ACHIEVEMENT, WORK, AND CAREERS\n\nWeek 14: Chapter 12: CULTURE\n\nWeek 15: Chapter 13: PROBLEMS IN ADOLESCENCE AND EMERGING\n\nWeek 16: Final exam",
+    "methodologies": [
+        {
+            "type": "Formal lecture",
+            "note": ""
+        },
+        {
+            "type": "Group discussion",
+            "note": ""
+        },
+        {
+            "type": "Problem base learning",
+            "note": ""
+        },
+        {
+            "type": "Cooperative learning",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "Midterm Exam",
+            "weight": 20,
+            "note": ""
+        },
+        {
+            "type": "Final exam",
+            "weight": 25,
+            "note": ""
+        },
+        {
+            "type": "Class discussion involvement",
+            "weight": 20,
+            "note": "Ask one question for each chapter"
+        },
+        {
+            "type": "Attendances",
+            "weight": 15,
+            "note": ""
+        },
+        {
+            "type": "Presentation",
+            "weight": 20,
+            "note": "Answer several questions (depends on the number of the students in this course)"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

@@ -1,0 +1,70 @@
+{
+    "year": 111,
+    "term": 1,
+    "name": "臨床營養",
+    "teachers": [
+        "蘇純立"
+    ],
+    "department": "SU51",
+    "code": "NSU0024",
+    "credit": 2,
+    "serial": 3084,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 8,
+            "to": 9,
+            "campus": "本部",
+            "classroom": "正303"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎限本系(含雙主修)修習◎必須先修過【NSU0007  營養學（二）】",
+    "form_s": "4",
+    "classes": "",
+    "dept_group": "",
+    "hours": 2,
+    "description": "培養學生藉由瞭解臨床照護系統之分工與合作、及臨床醫事技術人員之角色與能力，學習如何與醫療團隊協同努力，完成臨床營養之評估、診斷、與治療。課程內容包含臨床照護團隊成員之工作內容及照護程序、理學及臨床生化檢查之數據判讀、藥物與營養素之交互作用、住院及居家飲食之規劃與設計、臨床營養衛教之重點與技巧。",
+    "goals": [
+        "運用營養科學專業知識能力",
+        "提供個人及場域營養教育需求",
+        "瞭解社會責任、規劃營養教育計畫",
+        "理解營養科學專業倫理"
+    ],
+    "syllabus": "1.  課程介紹；基因改良生物\n2.  研究計畫撰寫\n3.  營養師的職場倫理\n4.  病史詢問\n5.  身體診察評估\n6.  常見的實驗室診斷意義\n7.  臨床綜合評估與病歷書寫\n8.  實證營養學\n9.  **期中考試**\n10.  入院身體評估及出院準備\n11.  中藥藥膳常用藥材配伍與禁忌症\n12.  臨床常用補陰補陽中藥與藥膳\n13.  臨床常用補氣補血中藥與藥膳\n14.  健檢產業\n15.  癌症預防\n16.  **期末考試**\n17.  Clinical importance of iron\n18.   Assessment of the regulated selenium pool in human",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "期中考",
+            "weight": 40,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 40,
+            "note": ""
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 20,
+            "note": ""
+        }
+    ],
+    "prerequisite": "◎必須先修過【NSU0007  營養學（二）】",
+    "general_core": []
+}

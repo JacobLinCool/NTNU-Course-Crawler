@@ -1,0 +1,77 @@
+{
+    "year": 111,
+    "term": 1,
+    "name": "光電半導體",
+    "teachers": [
+        "胡淑芬"
+    ],
+    "department": "SU41",
+    "code": "PHU0261",
+    "credit": 3,
+    "serial": 2896,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 6,
+            "to": 8,
+            "campus": "公館",
+            "classroom": "Ｓ304"
+        }
+    ],
+    "programs": [
+        "太陽能源與工程學程"
+    ],
+    "comment": "",
+    "restrict": "",
+    "form_s": "3",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "藉由深入淺出的介紹，讓學生對光電半導體有基本的認識和更深一層的瞭解，來達到提昇學員對光電產業更濃厚的興趣。使得有心投入光電半導體業的人員，對光電半導體相關技術有一定完整的認識及基礎。",
+    "goals": [
+        "簡介半導體材料",
+        "了解光電元件之原理與技術",
+        "學習太陽能電池之原理與技術",
+        "光電產業的簡介"
+    ],
+    "syllabus": "第1週：介紹 第2週：半導體材料簡介 - 概述 第3週：固體中的能帶 第4週：E-k圖 第5週：密度狀態 第6週：量子阱結構中的密度狀態 第7週：佔用概率和載子濃度 第8週：期中考試 第9週：載子濃度和費米能級 第10週：準費米水平 第11週：半導體材料 第12週：半導體異質接面 第13週：應變層外延和量子阱結構 第14週：能帶與能帶工程 第15週：肖特基結和歐姆接觸 第16週：期末考試 第17週：論文研讀 第18週：論文研讀 Week 1: introduction Week 2: Introduction to Semiconductor Materials – Overview Week 3: Energy Band in Solids Week 4: E-k Diagram Week 5: The Density of States Week 6: The Density States in a Quantum Well Structure Week 7: Occupation Probability and Carrier Concentration Week 8: Midterm exam Week 9: Carrier Concentration and Fermi Level Week 10: Quasi Fermi Level Week 11: Semiconductor Materials Week 12: Semiconductor Hetrostructures-Lattice-Matched Layers Week 13: Strained-Layer Epitaxy and Quantum Well Structures Week 14: Bandgap & Bandgap Engineering Week 15: Schottky Junction and Ohmic Contacts Week 16: Final exam Week 17: Paper study Week 18: Paper study",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 15,
+            "note": ""
+        },
+        {
+            "type": "期中考",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 35,
+            "note": ""
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 20,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

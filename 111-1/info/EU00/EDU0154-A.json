@@ -1,0 +1,88 @@
+{
+    "year": 111,
+    "term": 1,
+    "name": "教育心理學",
+    "teachers": [
+        "唐淑華"
+    ],
+    "department": "EU00",
+    "code": "EDU0154",
+    "credit": 2,
+    "serial": 655,
+    "group": "A",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 1,
+            "from": 8,
+            "to": 9,
+            "campus": "本部",
+            "classroom": "教802"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎限大一修習",
+    "form_s": "1",
+    "classes": "",
+    "dept_group": "",
+    "hours": 2,
+    "description": "",
+    "goals": [
+        "教育的心理學基礎",
+        "教育心理學的主題內容",
+        "教育心理學的研究方法",
+        "教育心理學發展的回顧與展望"
+    ],
+    "syllabus": "  \n \n\n  \n[教學進度與主題附件](https://ap.itc.ntnu.edu.tw/NtnuFileShare/file.do?action=dl&gno=8e097a0ed9eb4977ba64721d390276ca&fno=8d49ec5b32684612afb53c4a08bef50d)",
+    "methodologies": [
+        {
+            "type": "Formal lecture",
+            "note": "講述各主題的重要概念與理論"
+        },
+        {
+            "type": "Problem base learning",
+            "note": "針對案例進行實務演練"
+        },
+        {
+            "type": "Media, audio, visual materials",
+            "note": "透過影片及小說進行閱讀與討論"
+        },
+        {
+            "type": "Case studies",
+            "note": "根據本學期所學，發展小組研究專題"
+        }
+    ],
+    "grading": [
+        {
+            "type": "Midterm Exam",
+            "weight": 25,
+            "note": "The midterm test will be close-book, and final will be open-book. The test format will be discussed in the first week."
+        },
+        {
+            "type": "Final exam",
+            "weight": 25,
+            "note": "The midterm test will be close-book, and final will be open-book. The test format will be discussed in the first week."
+        },
+        {
+            "type": "Presentation",
+            "weight": 10,
+            "note": "撰寫一份個人觀察心得報告。請發揮想像力、觀察力與行動力，尋找各行各業中與「教育心理學」的關聯性（約1000-1500字，須明確說出與哪一個教育心理學主題有關）。"
+        },
+        {
+            "type": "Case study reports",
+            "weight": 20,
+            "note": "報告採分組方式進行 (每組不超過5人)，全班共分8組（暫定），各組同學選擇一項與教育心理學課程相關的主題作為團體報告的方向"
+        },
+        {
+            "type": "other:",
+            "weight": 20,
+            "note": "每週課堂考There is a weekly quiz at the beginning of the class. If you are late for the class and miss the quiz, you will get “0” for the quiz. There are no make-up quizzes.)"
+        }
+    ],
+    "prerequisite": "◎Exclusive for freshman",
+    "general_core": []
+}

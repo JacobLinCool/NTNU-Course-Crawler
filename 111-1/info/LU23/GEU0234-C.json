@@ -1,0 +1,86 @@
+{
+    "year": 111,
+    "term": 1,
+    "name": "地學通論（二）",
+    "teachers": [
+        "沈淑敏",
+        "翁叔平",
+        "李宗祐",
+        "陳瑩"
+    ],
+    "department": "LU23",
+    "code": "GEU0234",
+    "credit": 2,
+    "serial": 1926,
+    "group": "C",
+    "quota": {
+        "limit": 60,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 16,
+            "to": 10,
+            "campus": "本部",
+            "classroom": "誠202"
+        }
+    ],
+    "programs": [
+        "環境監測學程"
+    ],
+    "comment": "本班以全英語授課。",
+    "restrict": "",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 2,
+    "description": "",
+    "goals": [
+        "Being able to understand the basic connotation of knowledge of natural geography.",
+        "Being able to be proficient in systematic analytical concepts of physical geography and possessing the ability to conduct physical geography research.",
+        "Being able to possess the ability to design, implement and evaluate physical geography teaching methods of secondary schools.",
+        "Being able to possess with the ability to collect, analyze, research and develop teaching materials.",
+        "Being able to cultivate students' self-development ability to adapt to the future information-based, globalized and diversified social environment.",
+        "Being able to self-practice the spirit of physical geography research."
+    ],
+    "syllabus": "1 Introduction to physical geography (自然地理學概論)\n\n2 Lithosphere and the representation of topography (岩石圈與地形表徵)\n\n3 Geomorphic system (地形系統)\n\n4 Exam-I (評量考試-I)\n\n5 Connections between geography and surface climate (地理與地表氣候)\n\n6 The structure of atmosphere and global climate distribution (大氣結構和全球氣候分佈)\n\n7 Atmospheric circulation (大氣環流)\n\n8 Exam-II (評量考試-II)\n\n9 Water Resources (水資源)\n\n10 Weathering, Karst Landscapes, Mass Movement and River Systems (風化作用、岩溶地景、塊體崩壞、河流系統)\n\n11 Climate Change (氣候變遷)\n\n12 Exam-III (評量考試-III)\n\n13 The Geography of Soils (土壤地理) - visit NTU Soil Museum (參觀台大土壤博物館)\n\n14 Ecosystem Essentials (生態系統)\n\n15 Terrestrial Biomes (陸域生物區系)\n\n16 Exam-IV (評量考試-IV)",
+    "methodologies": [
+        {
+            "type": "Formal lecture",
+            "note": "Course lecturing and discussion (課堂講授)"
+        },
+        {
+            "type": "Field work",
+            "note": "visit NTU Soil Museum (參觀台大土壤博物館)"
+        },
+        {
+            "type": "Media, audio, visual materials",
+            "note": "E-resources: YT and web (圖片影像輔助教材)"
+        }
+    ],
+    "grading": [
+        {
+            "type": "Assignments",
+            "weight": 10,
+            "note": "museum visit report (參訪心得 )， landscape sketch (地景素描)"
+        },
+        {
+            "type": "Midterm Exam",
+            "weight": 80,
+            "note": "Incl. 4 exams, once in a month (每月一次評量測驗)"
+        },
+        {
+            "type": "Class discussion involvement",
+            "weight": 5,
+            "note": "Incl. quiz (包含點名小考)"
+        },
+        {
+            "type": "Attendances",
+            "weight": 5,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

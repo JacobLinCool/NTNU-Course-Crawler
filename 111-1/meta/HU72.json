@@ -1,0 +1,1124 @@
+[
+    {
+        "year": 111,
+        "term": 1,
+        "name": "Python程式設計與人工智慧應用",
+        "teachers": [
+            "周遵儒"
+        ],
+        "department": "HU72",
+        "code": "GCC9003",
+        "credit": 3,
+        "serial": 1240,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 2,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "教402"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎限本系(含雙主修)修習◎限大三大四 ◎限碩一碩二碩三以上修習",
+        "form_s": "",
+        "classes": "9",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "設計概論",
+        "teachers": [
+            "林素惠"
+        ],
+        "department": "HU72",
+        "code": "GCU0004",
+        "credit": 3,
+        "serial": 3322,
+        "group": "",
+        "quota": {
+            "limit": 30,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 6,
+                "to": 8,
+                "campus": "本部",
+                "classroom": "製作教室B"
+            }
+        ],
+        "programs": [
+            "社團領導學程"
+        ],
+        "comment": "",
+        "restrict": "◎限本系(含雙主修)修習◎限大一大二大三大四修習",
+        "form_s": "1",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "戲劇概論",
+        "teachers": [
+            "未定"
+        ],
+        "department": "HU72",
+        "code": "GCU0088",
+        "credit": 2,
+        "serial": 3335,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 0
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 3,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "視聽教室"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎限本系(含雙主修)修習◎限大一大二大三大四修習",
+        "form_s": "1",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "圖文傳播基礎技術（一）",
+        "teachers": [
+            "廖信"
+        ],
+        "department": "HU72",
+        "code": "GCU0174",
+        "credit": 3,
+        "serial": 1241,
+        "group": "A",
+        "quota": {
+            "limit": 30,
+            "additional": 0
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 2,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "印刷工場"
+            }
+        ],
+        "programs": [],
+        "comment": "僅限本系大一學生選課(選課學生必須為四技二專管道入學學生)2.必須於上課第一週準時到課3.如有其他選課需求請與授課老師聯繫",
+        "restrict": "◎限本系(含雙主修)修習◎限大一修習",
+        "form_s": "1",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "圖文傳播基礎技術（二）",
+        "teachers": [
+            "王健華"
+        ],
+        "department": "HU72",
+        "code": "GCU0175",
+        "credit": 3,
+        "serial": 1242,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 8,
+                "to": 10,
+                "campus": "本部",
+                "classroom": "新媒體專業教室"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎限本系(含雙主修)修習◎限大一大二大三大四修習",
+        "form_s": "1",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "圖文傳播概論（一）",
+        "teachers": [
+            "邱于平"
+        ],
+        "department": "HU72",
+        "code": "GCU0179",
+        "credit": 2,
+        "serial": 1243,
+        "group": "",
+        "quota": {
+            "limit": 60,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 8,
+                "to": 9,
+                "campus": "本部",
+                "classroom": "誠402"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎限本系(含雙主修)修習◎限大一大二大三大四修習",
+        "form_s": "1",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "應用物理",
+        "teachers": [
+            "王希俊"
+        ],
+        "department": "HU72",
+        "code": "GCU0189",
+        "credit": 3,
+        "serial": 1244,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 7,
+                "to": 9,
+                "campus": "本部",
+                "classroom": "新媒體專業教室"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎限本系(含雙主修)修習◎限大一大二大三大四修習",
+        "form_s": "1",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "程式設計",
+        "teachers": [
+            "周遵儒"
+        ],
+        "department": "HU72",
+        "code": "GCU0017",
+        "credit": 3,
+        "serial": 1245,
+        "group": "A",
+        "quota": {
+            "limit": 40,
+            "additional": 0
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 7,
+                "to": 9,
+                "campus": "本部",
+                "classroom": "綜1001"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎限本系(含雙主修)修習◎限大二大三大四修習◎必須先修過【GCU0006  計算機概論】",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "程式設計",
+        "teachers": [
+            "周遵儒"
+        ],
+        "department": "HU72",
+        "code": "GCU0017",
+        "credit": 3,
+        "serial": 1246,
+        "group": "B",
+        "quota": {
+            "limit": 30,
+            "additional": 0
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 6,
+                "to": 8,
+                "campus": "本部",
+                "classroom": "教404"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎限本系(含雙主修)修習◎限大二大三大四修習◎必須先修過【GCU0006  計算機概論】",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "影像處理",
+        "teachers": [
+            "陳皇利"
+        ],
+        "department": "HU72",
+        "code": "GCU0027",
+        "credit": 2,
+        "serial": 3323,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 10,
+                "to": 11,
+                "campus": "本部",
+                "classroom": "教401"
+            }
+        ],
+        "programs": [
+            "知識轉譯學程"
+        ],
+        "comment": "",
+        "restrict": "◎限本系(含雙主修)修習◎限大二大三大四修習",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "電腦三次元繪圖",
+        "teachers": [
+            "張晏榕"
+        ],
+        "department": "HU72",
+        "code": "GCU0036",
+        "credit": 3,
+        "serial": 1247,
+        "group": "",
+        "quota": {
+            "limit": 40,
+            "additional": 0
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 8,
+                "to": 10,
+                "campus": "本部",
+                "classroom": "教402"
+            }
+        ],
+        "programs": [
+            "科技藝術學程",
+            "知識轉譯學程"
+        ],
+        "comment": "",
+        "restrict": "◎限本系(含雙主修)修習◎限大二大三大四修習",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "影視劇本編寫",
+        "teachers": [
+            "未定"
+        ],
+        "department": "HU72",
+        "code": "GCU0037",
+        "credit": 3,
+        "serial": 3324,
+        "group": "",
+        "quota": {
+            "limit": 30,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 5,
+                "from": 2,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "製作教室B"
+            }
+        ],
+        "programs": [
+            "知識轉譯學程"
+        ],
+        "comment": "",
+        "restrict": "◎限本系(含雙主修)修習◎限大二修習",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "影視原理與製作",
+        "teachers": [
+            "祝濬清"
+        ],
+        "department": "HU72",
+        "code": "GCU0108",
+        "credit": 3,
+        "serial": 3325,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 5,
+                "from": 8,
+                "to": 10,
+                "campus": "本部",
+                "classroom": "視聽教室"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎限本系(含雙主修)修習◎限大二大三大四修習",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "攝影學",
+        "teachers": [
+            "陳仙舟"
+        ],
+        "department": "HU72",
+        "code": "GCU0132",
+        "credit": 3,
+        "serial": 1248,
+        "group": "A",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 2,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "攝影室"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎限本系(含雙主修)修習◎限大二大三大四修習",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "攝影學",
+        "teachers": [
+            "陳仙舟"
+        ],
+        "department": "HU72",
+        "code": "GCU0132",
+        "credit": 3,
+        "serial": 1249,
+        "group": "B",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 2,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "攝影室"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎限本系(含雙主修)修習◎限大二大三大四修習",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "電腦繪圖與動畫技術",
+        "teachers": [
+            "陳淑如"
+        ],
+        "department": "HU72",
+        "code": "GCU0145",
+        "credit": 3,
+        "serial": 3326,
+        "group": "",
+        "quota": {
+            "limit": 40,
+            "additional": 0
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 8,
+                "to": 10,
+                "campus": "本部",
+                "classroom": "綜1001"
+            }
+        ],
+        "programs": [
+            "科技藝術學程"
+        ],
+        "comment": "",
+        "restrict": "◎限本系(含雙主修)修習◎限大二大三大四修習",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "表現技法",
+        "teachers": [
+            "王靜弦"
+        ],
+        "department": "HU72",
+        "code": "GCU0155",
+        "credit": 2,
+        "serial": 3327,
+        "group": "",
+        "quota": {
+            "limit": 40,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 6,
+                "to": 7,
+                "campus": "本部",
+                "classroom": "新媒體專業教室"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎限本系(含雙主修)修習◎限大二大三大四修習",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "動畫實務基礎",
+        "teachers": [
+            "張晏榕"
+        ],
+        "department": "HU72",
+        "code": "GCU0186",
+        "credit": 3,
+        "serial": 1250,
+        "group": "",
+        "quota": {
+            "limit": 40,
+            "additional": 0
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 2,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "綜1001"
+            }
+        ],
+        "programs": [
+            "科技藝術學程",
+            "知識轉譯學程"
+        ],
+        "comment": "",
+        "restrict": "◎限本系(含雙主修)修習◎限大二大三大四修習",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "新媒體傳播與科技應用",
+        "teachers": [
+            "李燕秋"
+        ],
+        "department": "HU72",
+        "code": "GCU0054",
+        "credit": 3,
+        "serial": 3328,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 5,
+                "from": 10,
+                "to": 12,
+                "campus": "本部",
+                "classroom": "教401"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎限本系(含雙主修)修習◎限大三大四修習",
+        "form_s": "3",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "印刷出版工程企劃",
+        "teachers": [
+            "葉振璧"
+        ],
+        "department": "HU72",
+        "code": "GCU0055",
+        "credit": 3,
+        "serial": 3329,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 8,
+                "to": 10,
+                "campus": "本部",
+                "classroom": "視聽教室"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎限本系(含雙主修)修習◎限大三大四修習",
+        "form_s": "3",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "傳播科技技術（一）",
+        "teachers": [
+            "邱槿桉"
+        ],
+        "department": "HU72",
+        "code": "GCU0075",
+        "credit": 3,
+        "serial": 3330,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 5
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 8,
+                "to": 10,
+                "campus": "本部",
+                "classroom": "正404"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎限本系(含雙主修)修習◎限大三大四修習",
+        "form_s": "3",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "專業技術訓練",
+        "teachers": [
+            "張晏榕",
+            "陳仙舟",
+            "劉立行"
+        ],
+        "department": "HU72",
+        "code": "GCU0121",
+        "credit": 3,
+        "serial": 1251,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 5,
+                "to": 7,
+                "campus": "本部",
+                "classroom": "視聽教室"
+            },
+            {
+                "day": 4,
+                "from": 13,
+                "to": 13,
+                "campus": "本部",
+                "classroom": "視聽教室"
+            }
+        ],
+        "programs": [],
+        "comment": "限本系學生且已於暑假期間完成職場實習者選課。未完成職場實習者請勿選課。",
+        "restrict": "◎限本系(含雙主修)修習◎限大三大四修習",
+        "form_s": "3",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "印刷設計",
+        "teachers": [
+            "陳皇利"
+        ],
+        "department": "HU72",
+        "code": "GCU0128",
+        "credit": 2,
+        "serial": 3331,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 10,
+                "to": 11,
+                "campus": "本部",
+                "classroom": "教402"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎限本系(含雙主修)修習◎限大三大四修習",
+        "form_s": "3",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "編輯學",
+        "teachers": [
+            "未定"
+        ],
+        "department": "HU72",
+        "code": "GCU0129",
+        "credit": 2,
+        "serial": 3332,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 5
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 10,
+                "to": 11,
+                "campus": "本部",
+                "classroom": "誠304"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎限本系(含雙主修)修習◎限大三大四修習",
+        "form_s": "3",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "印刷適性研究",
+        "teachers": [
+            "陳仙舟"
+        ],
+        "department": "HU72",
+        "code": "GCU0134",
+        "credit": 2,
+        "serial": 1252,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 5,
+                "from": 3,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "視聽教室"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎限本系(含雙主修)修習◎限大三大四修習",
+        "form_s": "3",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "裝訂與加工",
+        "teachers": [
+            "陳仙舟"
+        ],
+        "department": "HU72",
+        "code": "GCU0136",
+        "credit": 2,
+        "serial": 1253,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 3,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "製作教室B"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎限本系(含雙主修)修習◎限大三大四修習",
+        "form_s": "3",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "數位學習",
+        "teachers": [
+            "曹聖豪"
+        ],
+        "department": "HU72",
+        "code": "GCU0138",
+        "credit": 2,
+        "serial": 3333,
+        "group": "",
+        "quota": {
+            "limit": 45,
+            "additional": 3
+        },
+        "schedule": [
+            {
+                "day": 5,
+                "from": 6,
+                "to": 7,
+                "campus": "本部",
+                "classroom": "正101"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎限本系(含雙主修)修習◎限大三大四修習",
+        "form_s": "3",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "視覺傳達設計",
+        "teachers": [
+            "王靜弦"
+        ],
+        "department": "HU72",
+        "code": "GCU0142",
+        "credit": 3,
+        "serial": 3317,
+        "group": "",
+        "quota": {
+            "limit": 40,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 8,
+                "to": 10,
+                "campus": "本部",
+                "classroom": "新媒體專業教室"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎限本系(含雙主修)修習◎限大三大四修習",
+        "form_s": "3",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "數位版型原理與實務",
+        "teachers": [
+            "陳仙舟"
+        ],
+        "department": "HU72",
+        "code": "GCU0185",
+        "credit": 2,
+        "serial": 1254,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 5,
+                "from": 1,
+                "to": 2,
+                "campus": "本部",
+                "classroom": "視聽教室"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎限本系(含雙主修)修習◎限大三大四修習",
+        "form_s": "3",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "圖文傳播研究法",
+        "teachers": [
+            "邱于平"
+        ],
+        "department": "HU72",
+        "code": "GCU0085",
+        "credit": 2,
+        "serial": 1255,
+        "group": "A",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 5,
+                "from": 1,
+                "to": 2,
+                "campus": "本部",
+                "classroom": "新媒體專業教室"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎限本系(含雙主修)修習◎限大四修習◎必須先修過【GCU0180  圖文傳播概論（二）】、【GCU0006  計算機概論】",
+        "form_s": "4",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "圖文傳播研究法",
+        "teachers": [
+            "邱于平"
+        ],
+        "department": "HU72",
+        "code": "GCU0085",
+        "credit": 2,
+        "serial": 1256,
+        "group": "B",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 5,
+                "from": 3,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "新媒體專業教室"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎限本系(含雙主修)修習◎限大四修習◎必須先修過【GCU0180  圖文傳播概論（二）】、【GCU0006  計算機概論】",
+        "form_s": "4",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "畢業製作（二）",
+        "teachers": [
+            "邱于平",
+            "張晏榕",
+            "陳仙舟",
+            "周遵儒",
+            "劉立行"
+        ],
+        "department": "HU72",
+        "code": "GCU0178",
+        "credit": 3,
+        "serial": 1257,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 5,
+                "from": 10,
+                "to": 12,
+                "campus": "本部",
+                "classroom": "視聽教室"
+            }
+        ],
+        "programs": [],
+        "comment": "限本系學生選課",
+        "restrict": "◎限本系(含雙主修)修習◎限大四修習◎必須先修過【GCU0177  畢業製作（一）】",
+        "form_s": "4",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "設計群教材教法（教）",
+        "teachers": [
+            "廖信"
+        ],
+        "department": "HU72",
+        "code": "GCUE101",
+        "credit": 2,
+        "serial": 1258,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 6,
+                "to": 6,
+                "campus": "本部",
+                "classroom": "視聽教室"
+            },
+            {
+                "day": 2,
+                "from": 6,
+                "to": 6,
+                "campus": "本部",
+                "classroom": "視聽教室"
+            }
+        ],
+        "programs": [],
+        "comment": "限具有師培生資格(設計群科)選修2.須於本學期同時併修<設計群教學實習(一)>3.開學後第一週上課必須準時到課4.如有特殊選課需求請與開課老師聯繫",
+        "restrict": "◎限本系(含雙主修)修習◎限大四修習",
+        "form_s": "4",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "設計群教學實習（一）（教）",
+        "teachers": [
+            "廖信"
+        ],
+        "department": "HU72",
+        "code": "GCUE310",
+        "credit": 2,
+        "serial": 1259,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 7,
+                "to": 10,
+                "campus": "本部",
+                "classroom": "視聽教室"
+            }
+        ],
+        "programs": [],
+        "comment": "限具有師培生資格(設計群科)選修2.須於本學期同時併修<設計群教材教法>3.開學後第一週上課必須準時到課4.如有特殊選課需求請與開課老師聯繫",
+        "restrict": "◎限本系(含雙主修)修習◎限大四修習 ◎必須先修過(也可以同時修)【GCUE101  設計群教材教法（教）】",
+        "form_s": "4",
+        "classes": "",
+        "dept_group": ""
+    }
+]

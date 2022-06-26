@@ -1,0 +1,73 @@
+{
+    "year": 111,
+    "term": 1,
+    "name": "代數與數論（一）",
+    "teachers": [
+        "夏良忠"
+    ],
+    "department": "SU40",
+    "code": "MAC0181",
+    "credit": 3,
+    "serial": 2779,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 4,
+            "from": 6,
+            "to": 8,
+            "campus": "公館",
+            "classroom": "數學館310研討室"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "",
+    "classes": "9",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程希望能由淺入深的利用大學所修習的代數知識探討數論上的問題。希望經由此課程讓大家能對於代數數論的理論與研究有進一步的了解。",
+    "goals": [
+        "本課程希望能由淺入深的利用大學所修習的代數知識探討數論上的問題。",
+        "本課程希望能由淺入深的利用大學所修習的代數知識探討數論上的問題。"
+    ],
+    "syllabus": " 本課程就是希望以基礎數論出發，慢慢引導到代數數論的領域。\n\n課程以介紹數域(尤其是二次數域)為主，從計算的觀點切入，\n\n透過數論引導同學對於抽象代數能夠具體操作並學習如何運用代數知識\n\n於數論相關問題的計算。第一學期的進度如下：\n\n  \n\n1. Modular arithmetic in the ring of integers and polynomials, Chinese Remainder Theorem (3 weeks)\n\n\\-- Euclid\\`s Algorithms,\n\n\\-- Computing Square roots modulo p,\n\n\\-- The Legendre symbol\n\n  \n\n2\\. Some algorithms on polynomials (1 weeks)\n\n  \n\n\\--Euclid\\`s algorithm for polynomials\n\n\\-- Resultant of polynomials\n\n  \n\n3\\. Quadratic residues and Quadratic Reciprocity Law (3 weeks)\n\n  \n\n4\\. Finite fields (2 weeks)\n\n  \n\n5\\. Introduction to algebraic numbers and algebraic number fields (3 weeks)\n\n  \n\n6\\. Algorithms for algebraic number theory I (4 weeks)\n\n  \n\n\\-- Representation and operations on algebraic numbers\n\n  \n\n\\-- Trace, norm and characteristic polynomials\n\n  \n\n\\-- Orders and Ideals\n\n  \n\n\\-- Decomposition of prime numbers I",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 25,
+            "note": "強烈要求參與討論及提問"
+        },
+        {
+            "type": "報告",
+            "weight": 40,
+            "note": "以所授課程內容、平時參與討論的內容，或是新的研究課題，上台報告。"
+        },
+        {
+            "type": "其他",
+            "weight": 5,
+            "note": "學習動機以及學態度等"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

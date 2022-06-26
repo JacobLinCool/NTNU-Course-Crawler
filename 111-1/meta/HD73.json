@@ -1,0 +1,130 @@
+[
+    {
+        "year": 111,
+        "term": 1,
+        "name": "微處理器控制系統",
+        "teachers": [
+            "呂有勝"
+        ],
+        "department": "HM73",
+        "code": "MTC8010",
+        "credit": 3,
+        "serial": 1159,
+        "group": "",
+        "quota": {
+            "limit": 30,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 5,
+                "from": 2,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "CAD/CAM"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎課程開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "工程統計",
+        "teachers": [
+            "劉傳璽"
+        ],
+        "department": "HM73",
+        "code": "MTC8015",
+        "credit": 3,
+        "serial": 1160,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 7,
+                "to": 9,
+                "campus": "本部",
+                "classroom": "工501"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎課程開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "書報討論（一）",
+        "teachers": [
+            "鄧敦建"
+        ],
+        "department": "HM73",
+        "code": "MTC8016",
+        "credit": 1,
+        "serial": 1161,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 7,
+                "to": 7,
+                "campus": "本部",
+                "classroom": "工教系會議室"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎限本系(含雙主修)修習 ◎課程開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "書報討論（三）",
+        "teachers": [
+            "呂有勝"
+        ],
+        "department": "HM73",
+        "code": "MTC8018",
+        "credit": 1,
+        "serial": 1162,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 8,
+                "to": 8,
+                "campus": "本部",
+                "classroom": "工教系會議室"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎限本系(含雙主修)修習 ◎課程開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    }
+]

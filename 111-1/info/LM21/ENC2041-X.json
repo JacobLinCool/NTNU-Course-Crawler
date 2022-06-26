@@ -1,0 +1,67 @@
+{
+    "year": 111,
+    "term": 1,
+    "name": "心理語言學",
+    "teachers": [
+        "颯楊"
+    ],
+    "department": "LM21",
+    "code": "ENC2041",
+    "credit": 3,
+    "serial": 1626,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 4,
+            "from": 7,
+            "to": 9,
+            "campus": "本部",
+            "classroom": "雲202"
+        }
+    ],
+    "programs": [],
+    "comment": "教室位於雲和街大樓2樓（地址：雲和街1號），外系及外校學生需申請門禁權限。",
+    "restrict": "◎課程不開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "",
+    "goals": [
+        "to stimulate creative research in psycholinguistics",
+        "to design experiments to test your hypotheses"
+    ],
+    "syllabus": "\\- Week 1: Presentation.\n\n\\- Week 2-3: Linguistics, internal linguistics, and introduction to psycholinguistics. \n\n\\- Weeks 4-6 (words and morphology): Word processing, the mental lexicon, lexical access, priming. \n\n\\- Weeks 7-10 (sentences and syntax): Syntactic processing, ambiguity, sentence comprehension. \n\n\\- Weeks 11-13 (sounds and phonology): Sound perception, speech errors, categorical perception. \n\n\\- Weeks 14-15: Review, term paper preparation, presentations.\n\n\\- Week 16: Term paper due.",
+    "methodologies": [
+        {
+            "type": "Formal lecture",
+            "note": ""
+        },
+        {
+            "type": "Group discussion",
+            "note": ""
+        },
+        {
+            "type": "Media, audio, visual materials",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "Presentation",
+            "weight": 80,
+            "note": ""
+        },
+        {
+            "type": "other:",
+            "weight": 20,
+            "note": "Presentation on the topic chosen for the term paper"
+        }
+    ],
+    "prerequisite": "◎Unavailable for M.A. program students (M.A. program courses excepted) and B.A. program students.",
+    "general_core": []
+}

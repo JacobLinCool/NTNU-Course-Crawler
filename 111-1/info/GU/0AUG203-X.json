@@ -1,0 +1,90 @@
+{
+    "year": 111,
+    "term": 1,
+    "name": "音樂概論",
+    "teachers": [
+        "吳佩蓉"
+    ],
+    "department": "GU",
+    "code": "0AUG203",
+    "credit": 2,
+    "serial": 1014,
+    "group": "",
+    "quota": {
+        "limit": 65,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 3,
+            "from": 3,
+            "to": 4,
+            "campus": "本部",
+            "classroom": "音308"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎音樂系（學）不得選修",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 2,
+    "description": "1. 建立對藝術基礎理論的認知。 \n2. 瞭解各時期音樂派別演變之概要。 \n3. 培養音樂欣賞的能力。 \n4. 體認社會變遷與音樂的關連。\n1. 基礎樂理介紹。 \n2. 西洋音樂史的發展。 \n3. 各類型音樂探討。 \n4. 音樂與社會相關議題研究。",
+    "goals": [
+        "建立對藝術基礎理論的認知。",
+        "瞭解各時期音樂派別演變之概要。",
+        "培養音樂欣賞的能力。",
+        "體認社會變遷與音樂的關連。"
+    ],
+    "syllabus": "  \n[教學進度與主題附件](https://ap.itc.ntnu.edu.tw/NtnuFileShare/file.do?action=dl&gno=96a6138bca7a484cb25459e085ee7f10&fno=78985314bdde4da1bb9d6d071ffbd653)",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "依單元講述"
+        },
+        {
+            "type": "討論法",
+            "note": "班級音樂會分組討論"
+        },
+        {
+            "type": "合作學習",
+            "note": "班級音樂會合作"
+        },
+        {
+            "type": "實地考察、參訪",
+            "note": "音樂會欣賞"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 15,
+            "note": "班級音樂會心得/嘉賓演講回饋單"
+        },
+        {
+            "type": "期末考",
+            "weight": 15,
+            "note": "音樂聽辨、選擇題、是非題"
+        },
+        {
+            "type": "出席",
+            "weight": 25,
+            "note": "平時分數，含隨堂作業"
+        },
+        {
+            "type": "報告",
+            "weight": 20,
+            "note": "音樂會欣賞心得報告"
+        },
+        {
+            "type": "成果展覽",
+            "weight": 25,
+            "note": "班級音樂會"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": [
+        "人文藝術"
+    ]
+}

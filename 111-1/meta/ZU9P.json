@@ -1,0 +1,652 @@
+[
+    {
+        "year": 111,
+        "term": 1,
+        "name": "韓國歷史與人物",
+        "teachers": [
+            "金恩美"
+        ],
+        "department": "IU83",
+        "code": "EAU0101",
+        "credit": 3,
+        "serial": 1452,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 6,
+                "to": 8,
+                "campus": "本部",
+                "classroom": "正405"
+            }
+        ],
+        "programs": [
+            "韓語學程"
+        ],
+        "comment": "文化與應用領域。",
+        "restrict": "◎限大二修習",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "初級韓文（一）",
+        "teachers": [
+            "金恩美"
+        ],
+        "department": "L",
+        "code": "L0U2001",
+        "credit": 2,
+        "serial": 1556,
+        "group": "A",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 3,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "正203"
+            }
+        ],
+        "programs": [
+            "國關與外交學程",
+            "韓語學程"
+        ],
+        "comment": "",
+        "restrict": "◎第一階段限 韓語學程◎限韓語學程選修",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "初級韓文（一）",
+        "teachers": [
+            "金家絃"
+        ],
+        "department": "L",
+        "code": "L0U2001",
+        "credit": 2,
+        "serial": 1557,
+        "group": "B",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 1,
+                "to": 2,
+                "campus": "本部",
+                "classroom": "樸201"
+            }
+        ],
+        "programs": [
+            "國關與外交學程",
+            "韓語學程"
+        ],
+        "comment": "",
+        "restrict": "◎第一階段限 韓語學程◎限韓語學程選修",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "初級韓文（一）",
+        "teachers": [
+            "李圭旼"
+        ],
+        "department": "L",
+        "code": "L0U2001",
+        "credit": 2,
+        "serial": 1558,
+        "group": "C",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 6,
+                "to": 7,
+                "campus": "本部",
+                "classroom": "誠101"
+            }
+        ],
+        "programs": [
+            "國關與外交學程",
+            "韓語學程"
+        ],
+        "comment": "",
+        "restrict": "◎第一階段限 韓語學程◎限韓語學程選修",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "初級韓文（一）",
+        "teachers": [
+            "康雲柱"
+        ],
+        "department": "L",
+        "code": "L0U2001",
+        "credit": 2,
+        "serial": 1559,
+        "group": "D",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 8,
+                "to": 9,
+                "campus": "本部",
+                "classroom": "誠401"
+            }
+        ],
+        "programs": [
+            "國關與外交學程",
+            "韓語學程"
+        ],
+        "comment": "",
+        "restrict": "◎第一階段限 韓語學程◎限韓語學程選修",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "中級韓文（一）",
+        "teachers": [
+            "金家絃"
+        ],
+        "department": "L",
+        "code": "L0U2003",
+        "credit": 2,
+        "serial": 1560,
+        "group": "A",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 3,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "樸201"
+            }
+        ],
+        "programs": [
+            "韓語學程"
+        ],
+        "comment": "",
+        "restrict": "◎第一階段限 韓語學程◎限韓語學程選修 ◎必須先修過【L0U2002  初級韓文（二）】、【PGU7009  初級韓文（二）】、【PGU7001  初級韓文（一）】、【L0U2001  初級韓文（一）】其中一門",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "中級韓文（一）",
+        "teachers": [
+            "李圭旼"
+        ],
+        "department": "L",
+        "code": "L0U2003",
+        "credit": 2,
+        "serial": 1561,
+        "group": "B",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 8,
+                "to": 9,
+                "campus": "本部",
+                "classroom": "正105"
+            }
+        ],
+        "programs": [
+            "韓語學程"
+        ],
+        "comment": "",
+        "restrict": "◎第一階段限 韓語學程◎限韓語學程選修 ◎必須先修過【L0U2002  初級韓文（二）】、【PGU7009  初級韓文（二）】、【PGU7001  初級韓文（一）】、【L0U2001  初級韓文（一）】其中一門",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "韓語會話與聽力練習（一）",
+        "teachers": [
+            "金恩美"
+        ],
+        "department": "L",
+        "code": "L0U2005",
+        "credit": 2,
+        "serial": 1562,
+        "group": "A",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 8,
+                "to": 9,
+                "campus": "本部",
+                "classroom": "樸201"
+            }
+        ],
+        "programs": [
+            "韓語學程"
+        ],
+        "comment": "",
+        "restrict": "◎第一階段限 韓語學程◎限韓語學程選修",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "韓語會話與聽力練習（一）",
+        "teachers": [
+            "金佳圓"
+        ],
+        "department": "L",
+        "code": "L0U2005",
+        "credit": 2,
+        "serial": 1563,
+        "group": "B",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 3,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "樸304"
+            }
+        ],
+        "programs": [
+            "韓語學程"
+        ],
+        "comment": "",
+        "restrict": "◎第一階段限 韓語學程◎限韓語學程選修",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "韓語會話與聽力練習（一）",
+        "teachers": [
+            "康雲柱"
+        ],
+        "department": "L",
+        "code": "L0U2005",
+        "credit": 2,
+        "serial": 1564,
+        "group": "C",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 6,
+                "to": 7,
+                "campus": "本部",
+                "classroom": "誠401"
+            }
+        ],
+        "programs": [
+            "韓語學程"
+        ],
+        "comment": "",
+        "restrict": "◎第一階段限 韓語學程◎限韓語學程選修",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "韓語語法",
+        "teachers": [
+            "崔熲"
+        ],
+        "department": "L",
+        "code": "L0U2011",
+        "credit": 2,
+        "serial": 1565,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 8,
+                "to": 9,
+                "campus": "本部",
+                "classroom": "誠401"
+            }
+        ],
+        "programs": [
+            "韓語學程"
+        ],
+        "comment": "",
+        "restrict": "◎第一階段限 韓語學程◎限韓語學程選修◎必須先修過【L0U2003  中級韓文（一）】",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "現代韓國政治與經濟",
+        "teachers": [
+            "朱立熙"
+        ],
+        "department": "L",
+        "code": "L0U2015",
+        "credit": 2,
+        "serial": 1566,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 8,
+                "to": 9,
+                "campus": "本部",
+                "classroom": "文學院B1會議室"
+            }
+        ],
+        "programs": [
+            "韓語學程"
+        ],
+        "comment": "",
+        "restrict": "◎第一階段限 韓語學程◎限韓語學程選修",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "韓國學概論",
+        "teachers": [
+            "李正"
+        ],
+        "department": "L",
+        "code": "L0U2016",
+        "credit": 2,
+        "serial": 1567,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 10,
+                "to": 11,
+                "campus": "本部",
+                "classroom": "誠304"
+            }
+        ],
+        "programs": [
+            "韓語學程"
+        ],
+        "comment": "",
+        "restrict": "◎第一階段限 韓語學程◎限韓語學程選修",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "韓國電影與民主化",
+        "teachers": [
+            "朱立熙"
+        ],
+        "department": "L",
+        "code": "L0U2021",
+        "credit": 2,
+        "serial": 1568,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 16,
+                "to": 10,
+                "campus": "本部",
+                "classroom": "文學院B1會議室"
+            }
+        ],
+        "programs": [
+            "韓語學程"
+        ],
+        "comment": "",
+        "restrict": "◎第一階段限 韓語學程◎限韓語學程選修",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "韓文閱讀與寫作",
+        "teachers": [
+            "金佳圓"
+        ],
+        "department": "L",
+        "code": "L0U2022",
+        "credit": 2,
+        "serial": 1569,
+        "group": "A",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 6,
+                "to": 7,
+                "campus": "本部",
+                "classroom": "樸304"
+            }
+        ],
+        "programs": [
+            "韓語學程"
+        ],
+        "comment": "",
+        "restrict": "◎第一階段限 韓語學程◎限韓語學程選修",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "韓文閱讀與寫作",
+        "teachers": [
+            "康雲柱"
+        ],
+        "department": "L",
+        "code": "L0U2022",
+        "credit": 2,
+        "serial": 1570,
+        "group": "B",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 3,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "樸201"
+            }
+        ],
+        "programs": [
+            "韓語學程"
+        ],
+        "comment": "",
+        "restrict": "◎第一階段限 韓語學程◎限韓語學程選修",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "觀光休閒韓語",
+        "teachers": [
+            "金佳圓"
+        ],
+        "department": "L",
+        "code": "L0U2026",
+        "credit": 2,
+        "serial": 1571,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 8,
+                "to": 9,
+                "campus": "本部",
+                "classroom": "樸304"
+            }
+        ],
+        "programs": [
+            "韓語學程"
+        ],
+        "comment": "",
+        "restrict": "◎第一階段限 韓語學程◎限韓語學程選修",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "高級韓文（一）",
+        "teachers": [
+            "金家絃"
+        ],
+        "department": "L",
+        "code": "L0U2029",
+        "credit": 2,
+        "serial": 1572,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 6,
+                "to": 7,
+                "campus": "本部",
+                "classroom": "正203"
+            }
+        ],
+        "programs": [
+            "韓語學程"
+        ],
+        "comment": "",
+        "restrict": "◎第一階段限 韓語學程◎限韓語學程選修◎必須先修過【L0U2004  中級韓文（二）】",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "韓國文化政策",
+        "teachers": [
+            "李正"
+        ],
+        "department": "L",
+        "code": "L0U2031",
+        "credit": 2,
+        "serial": 1573,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 6,
+                "to": 7,
+                "campus": "本部",
+                "classroom": "樸201"
+            }
+        ],
+        "programs": [
+            "韓語學程"
+        ],
+        "comment": "",
+        "restrict": "◎第一階段限 韓語學程◎限韓語學程選修",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    }
+]

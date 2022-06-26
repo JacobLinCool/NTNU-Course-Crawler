@@ -1,0 +1,84 @@
+{
+    "year": 111,
+    "term": 1,
+    "name": "電腦音樂（二）",
+    "teachers": [
+        "陳家輝"
+    ],
+    "department": "MU90",
+    "code": "MUC0067",
+    "credit": 2,
+    "serial": 2386,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 5,
+            "from": 5,
+            "to": 6,
+            "campus": "本部",
+            "classroom": "音409"
+        }
+    ],
+    "programs": [],
+    "comment": "選課同學需具備基礎樂理知識，並自備電腦、滑鼠、耳機、已授權之Max軟體 (MaxMSP)",
+    "restrict": "",
+    "form_s": "",
+    "classes": "9",
+    "dept_group": "",
+    "hours": 2,
+    "description": "本課程由學習「具象音樂」(Musique Concrète)作品之創作美學與實踐為始，而後帶入電子原音音樂、磁帶音樂、器樂與電腦互動之展演與創作，推至與其它藝術領域多媒介結合之實驗創作。",
+    "goals": [
+        "各項電腦電子音樂技巧（數位音訊處理技術DASP等）成為作曲家變化音色、聲響姿態與表情，將聲音作更精緻、複雜的變化，作更巧妙與富有音樂性表達的主要工具。",
+        "本課程由學習「具象音樂」(Musique Concrète)作品之創作美學與實踐為始，而後帶入電子原音音樂、磁帶音樂、器樂與電腦互動之展演與創作，推至與其它藝術領域多媒介結合之實驗創作。"
+    ],
+    "syllabus": "課程內容：\n\n      電腦音樂（二）以樂理概念，帶入MaxMSP 軟體內不同物件的使用方式，並帶領學生以需求、電子音樂演奏之形式回推使用物件的各種組合路徑，並分析各種路徑之成效，並在後半學期課程內容，以完成小型表演程式設計為目標。\n\n課程進度：\n\n        **學期課程介紹、****MaxMSP****軟體應用於展演之可能性**\n\n        電腦音樂（一）之整體回顧\n\n        if 物件進階應用\n\n        collection 物件與 abstraction 進階應用\n\n        MIDI 與 MaxMSP\n\n        合成器\n\n        聲音波形與過濾器\n\n        音訊時間拉伸與音高縮放\n\n        聲場空間設計\n\n        聲音偵測與應用\n\n        Matrix應用\n\n        展演程式階級架構\n\n        **期末程式設計及展演**\n\n        **期末程式評量及討論**\n\n\\*同學需自備耳機、電腦、Midi 鍵盤 及 MaxMSP 軟體",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": ""
+        },
+        {
+            "type": "問題解決教學",
+            "note": ""
+        },
+        {
+            "type": "合作學習",
+            "note": ""
+        },
+        {
+            "type": "實驗/實作",
+            "note": ""
+        },
+        {
+            "type": "專題研究",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "課堂討論參與",
+            "weight": 25,
+            "note": ""
+        },
+        {
+            "type": "出席",
+            "weight": 25,
+            "note": ""
+        },
+        {
+            "type": "專題",
+            "weight": 50,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

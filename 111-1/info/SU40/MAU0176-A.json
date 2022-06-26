@@ -1,0 +1,60 @@
+{
+    "year": 111,
+    "term": 1,
+    "name": "代數學探索（一）",
+    "teachers": [
+        "劉家新"
+    ],
+    "department": "SU40",
+    "code": "MAU0176",
+    "credit": 1,
+    "serial": 2831,
+    "group": "A",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 4,
+            "from": 4,
+            "to": 4,
+            "campus": "公館",
+            "classroom": "Ｓ204"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎必須先修過(也可以同時修)【MAU0166  代數學（一）】",
+    "form_s": "2",
+    "classes": "",
+    "dept_group": "",
+    "hours": 1,
+    "description": "本課程之目的，在於讓學生親身經歷群、環、體等抽象代數解題的邏輯思維歷程，以達到對抽象代數概念和證明方法的熟練，進而應用解決相關問題。",
+    "goals": [
+        "讓學生親身學習如何使用抽象代數的語言和邏輯來解題",
+        "讓學生熟悉群、環、體等基本抽象代數概念和證明方法",
+        "應用抽象帶數解決相關數學問題"
+    ],
+    "syllabus": "1\\. Introduction to groups (1 week)\n\n2\\. Subgroups, Lagrange's theorem (2 weeks)\n\n3\\. Normal subgroups and quotient groups (2 weeks\n\n4\\. Group homomorphisms, isomorphism theorems, and correspondence theorem (2 weeks)\n\n5\\. Cyclic groups, direct products (1 week)\n\nMidterm exam\n\n6\\. Finite abelian groups (2 weeks)\n\n7\\. Symmetric groups (2 weeks)\n\n8\\. Group actions (1 week)\n\n9\\. p-Groups and Sylow theorems (3 weeks)\n\nFinal exam",
+    "methodologies": [
+        {
+            "type": "討論法",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 50,
+            "note": ""
+        },
+        {
+            "type": "出席",
+            "weight": 50,
+            "note": ""
+        }
+    ],
+    "prerequisite": "◎必須先修過(也可以同時修)【MAU0166  代數學（一）】",
+    "general_core": []
+}

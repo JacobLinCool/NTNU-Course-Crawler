@@ -1,0 +1,70 @@
+[
+    {
+        "year": 111,
+        "term": 1,
+        "name": "裝裱基本技法與冊頁",
+        "teachers": [
+            "未定"
+        ],
+        "department": "TU60",
+        "code": "ATU0322",
+        "credit": 3,
+        "serial": 3145,
+        "group": "",
+        "quota": {
+            "limit": 30,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 5,
+                "from": 2,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "美506"
+            }
+        ],
+        "programs": [
+            "文物保存修復學程"
+        ],
+        "comment": "任課教師:許兆宏",
+        "restrict": "◎限本系(含雙主修)修習◎限文物保存修復學程選修",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "水墨基礎造型",
+        "teachers": [
+            "莊連東"
+        ],
+        "department": "TU60",
+        "code": "ATU0281",
+        "credit": 3,
+        "serial": 3176,
+        "group": "",
+        "quota": {
+            "limit": 30,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 6,
+                "to": 8,
+                "campus": "本部",
+                "classroom": "美305"
+            }
+        ],
+        "programs": [
+            "文物保存修復學程"
+        ],
+        "comment": "",
+        "restrict": "◎限本系(含雙主修)修習",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": "A"
+    }
+]

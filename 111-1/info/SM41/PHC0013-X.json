@@ -1,0 +1,66 @@
+{
+    "year": 111,
+    "term": 1,
+    "name": "古典電動力學（一）",
+    "teachers": [
+        "張明哲"
+    ],
+    "department": "SM41",
+    "code": "PHC0013",
+    "credit": 3,
+    "serial": 2672,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 1,
+            "from": 2,
+            "to": 4,
+            "campus": "公館",
+            "classroom": "Ｓ701"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "",
+    "goals": [
+        "Familiarize students with the fundamental principles of electrodynamics",
+        "Strengthen rational thinking skills",
+        "Introduction to Physics News",
+        "Develop physical research skills"
+    ],
+    "syllabus": "1-2. Mathematical preliminaries\n\n3\\. The Maxwell equations\n\n4-5. Electrostatics\n\n6-7. Electric multipoles\n\n8\\. Dielectric matter\n\n9-10. Magnetostatics\n\n11-12. Magnetic multipoles\n\n13-14. Magnetic force and energy\n\n15-16. Dynamic and quasistatic fields",
+    "methodologies": [
+        {
+            "type": "Formal lecture",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "Assignments",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "Midterm Exam",
+            "weight": 35,
+            "note": ""
+        },
+        {
+            "type": "Final exam",
+            "weight": 35,
+            "note": ""
+        }
+    ],
+    "prerequisite": "◎Available for junior and senior year B.A. program students (Doctoral program courses excepted) and M.A. program students.",
+    "general_core": []
+}

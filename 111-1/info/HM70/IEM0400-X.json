@@ -1,0 +1,82 @@
+{
+    "year": 111,
+    "term": 1,
+    "name": "科技預測",
+    "teachers": [
+        "黃啟祐"
+    ],
+    "department": "HM70",
+    "code": "IEM0400",
+    "credit": 2,
+    "serial": 1125,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 3,
+            "from": 9,
+            "to": 10,
+            "campus": "本部",
+            "classroom": "研討二"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 2,
+    "description": "Technology forecasting attempts to predict the future characteristics and development trends of technology. The technology forecasting capabilities are essentials for production, marketing and R&D managers’ decision making in technology firms. Thus, this course intends to introduce modern technology forecasting theories and practices to the MOT majored graduate level students. Major emphasis of this course will be placed on theory introductions and forecasting techniques manipulations. Students are expected to learn forecasting techniques through lectures and case studies.",
+    "goals": [
+        "熟悉常用科技預測方法與使用時機",
+        "科技預測與投資決策有效連結",
+        "實際動手進行技術預測議題演練",
+        "分組演練與成果簡報"
+    ],
+    "syllabus": "Week 1: What is Technological Forecasting  \nWeek 2: Delphi  \nWeek 3: Forecasting by Analogy  \nWeek 4: Growth Curves  \nWeek 5: Trend Extrapolation  \nWeek 6: Measures of Technology  \nWeek 7: Correlation Methods  \nWeek 8: Causal Models  \nWeek 9: Probabilistic Methods  \nWeek 10: Environmental Monitoring  \nWeek 11: Combining Forecasts  \nWeek 12: Normative Methods  \nWeek 13: Forecast and Decision Making  \nWeek 14: Technological Forecasting for Research and Development Planning  \nWeek 15: Technological Forecasting in Business Decisions  \nWeek 16: Technological Forecasting in Government Planning  \nWeek 17: Technology Assessment  \nWeek 17: Technology Assessment  \nWeek 18: Forecasting Mistakes  \nWeek 19: Final Project Presentation",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": "小組進行科技預測專題研究討論"
+        },
+        {
+            "type": "問題解決教學",
+            "note": "選定科技產業技術趨勢進行預測"
+        },
+        {
+            "type": "實驗/實作",
+            "note": "導入預測理論與方法於實務問題"
+        },
+        {
+            "type": "專題研究",
+            "note": "科技產業技術趨勢預測專題與期末報告"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 20,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 40,
+            "note": ""
+        },
+        {
+            "type": "報告",
+            "weight": 40,
+            "note": "期末應繳交完整科技預測專題報告"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

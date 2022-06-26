@@ -1,0 +1,66 @@
+{
+    "year": 111,
+    "term": 1,
+    "name": "實驗室輪調學習",
+    "teachers": [
+        "郭奇芊"
+    ],
+    "department": "SM50",
+    "code": "DIC8027",
+    "credit": 1,
+    "serial": 2764,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 4,
+            "from": 5,
+            "to": 5,
+            "campus": "校外",
+            "classroom": "教室自排"
+        }
+    ],
+    "programs": [],
+    "comment": "classroom in NTNU or AS lab, every week is different.",
+    "restrict": "允許重複修 ◎課程不開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 1,
+    "description": "",
+    "goals": [
+        "Expose students to various research topics in biodiversity"
+    ],
+    "syllabus": "16+2 weeks (last 2 weeks: self-study)\n\nWeek 1:  Course introduction\n\nWeek 2:  Lab introductions\n\nWeek 3:  Lab introductions\n\nWeek 4:  Lab introductions\n\nWeek 5:  Lab experiments\n\nWeek 6:  Lab experiments\n\nWeek 7:  Lab experiments\n\nWeek 8:  Lab experiments\n\nWeek 9:  Lab experiments\n\nWeek 10: Lab experiments\n\nWeek 11: Lab experiments\n\nWeek 12: Lab experiments\n\nWeek 13: Lab experiments\n\nWeek 14: Lab experiments\n\nWeek 15: Lab experiments\n\nWeek 16: Lab experiments",
+    "methodologies": [
+        {
+            "type": "Group discussion",
+            "note": "Q&A"
+        },
+        {
+            "type": "Field work",
+            "note": "Student participate in experiments"
+        },
+        {
+            "type": "Media, audio, visual materials",
+            "note": "Student visit labs"
+        }
+    ],
+    "grading": [
+        {
+            "type": "Attendances",
+            "weight": 50,
+            "note": ""
+        },
+        {
+            "type": "Case study reports",
+            "weight": 50,
+            "note": ""
+        }
+    ],
+    "prerequisite": "The course can be retaken ◎Unavailable for M.A. program students (M.A. program courses excepted) and B.A. program students.",
+    "general_core": []
+}

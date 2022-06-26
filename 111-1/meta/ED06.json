@@ -1,0 +1,130 @@
+[
+    {
+        "year": 111,
+        "term": 1,
+        "name": "專題討論（三）",
+        "teachers": [
+            "張鑑如"
+        ],
+        "department": "ED06",
+        "code": "HGD0213",
+        "credit": 2,
+        "serial": 364,
+        "group": "B",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 9,
+                "to": 10,
+                "campus": "本部",
+                "classroom": "教室自排"
+            }
+        ],
+        "programs": [],
+        "comment": "上課教室：人發系多功能活動室",
+        "restrict": "◎課程不開放上修",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "家庭壓力研究",
+        "teachers": [
+            "吳志文"
+        ],
+        "department": "EM06",
+        "code": "HGC0055",
+        "credit": 3,
+        "serial": 460,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 6,
+                "to": 8,
+                "campus": "本部",
+                "classroom": "人發系會議室B"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎課程不開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": "A"
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "嬰幼兒語言發展研究",
+        "teachers": [
+            "張鑑如"
+        ],
+        "department": "EM06",
+        "code": "HGC8006",
+        "credit": 3,
+        "serial": 465,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 2,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "教室自排"
+            }
+        ],
+        "programs": [],
+        "comment": "上課教室：人發系多功能活動室",
+        "restrict": "◎課程不開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": "B"
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "家庭發展研究",
+        "teachers": [
+            "林如萍"
+        ],
+        "department": "EM06",
+        "code": "HGC8009",
+        "credit": 3,
+        "serial": 461,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 2,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "勤103"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎課程不開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": "A"
+    }
+]

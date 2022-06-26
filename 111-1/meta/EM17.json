@@ -1,0 +1,233 @@
+[
+    {
+        "year": 111,
+        "term": 1,
+        "name": "身心障礙醫療、心理與社會觀",
+        "teachers": [
+            "吳亭芳"
+        ],
+        "department": "EM17",
+        "code": "RCM0001",
+        "credit": 3,
+        "serial": 519,
+        "group": "",
+        "quota": {
+            "limit": 30,
+            "additional": 5
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 2,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "特B111"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎課程開放上修",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "職業復健專題研究",
+        "teachers": [
+            "陳貞夙"
+        ],
+        "department": "EM17",
+        "code": "RCM0011",
+        "credit": 3,
+        "serial": 520,
+        "group": "",
+        "quota": {
+            "limit": 30,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 2,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "特B111"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎課程不開放上修",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "諮商理論專題研究",
+        "teachers": [
+            "未定"
+        ],
+        "department": "EM17",
+        "code": "RCM0038",
+        "credit": 2,
+        "serial": 521,
+        "group": "",
+        "quota": {
+            "limit": 30,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 3,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "特230"
+            }
+        ],
+        "programs": [],
+        "comment": "授課老師：張本聖老師",
+        "restrict": "◎課程開放上修",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "職業輔導評量實務",
+        "teachers": [
+            "吳亭芳"
+        ],
+        "department": "EM17",
+        "code": "RCM0040",
+        "credit": 2,
+        "serial": 522,
+        "group": "",
+        "quota": {
+            "limit": 30,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 6,
+                "to": 7,
+                "campus": "本部",
+                "classroom": "特B111"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎必須先修過【RCM0009  職業輔導評量專題研究】 ◎課程開放上修",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "身心障礙者生涯諮商與就業安置",
+        "teachers": [
+            "陳貞夙"
+        ],
+        "department": "EM17",
+        "code": "RCM0042",
+        "credit": 3,
+        "serial": 523,
+        "group": "",
+        "quota": {
+            "limit": 30,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 6,
+                "to": 8,
+                "campus": "本部",
+                "classroom": "特116"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎課程不開放上修",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "復健諮商實習－職業重建",
+        "teachers": [
+            "吳亭芳"
+        ],
+        "department": "EM17",
+        "code": "RCM0047",
+        "credit": 4,
+        "serial": 524,
+        "group": "",
+        "quota": {
+            "limit": 30,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 5,
+                "from": 1,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "特B111"
+            },
+            {
+                "day": 5,
+                "from": 6,
+                "to": 9,
+                "campus": "本部",
+                "classroom": "特B111"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎必須先修過【RCM0001  身心障礙醫療、心理與社會觀】、【RCM0011  職業復健專題研究】 ◎課程不開放上修",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "復健諮商研究實務（一）",
+        "teachers": [
+            "陳貞夙"
+        ],
+        "department": "EM17",
+        "code": "RCM0055",
+        "credit": 1,
+        "serial": 525,
+        "group": "",
+        "quota": {
+            "limit": 30,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 9,
+                "to": 9,
+                "campus": "本部",
+                "classroom": "特B111"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎課程不開放上修",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    }
+]

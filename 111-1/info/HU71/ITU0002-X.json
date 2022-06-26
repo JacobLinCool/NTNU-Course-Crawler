@@ -1,0 +1,95 @@
+{
+    "year": 111,
+    "term": 1,
+    "name": "木工製造",
+    "teachers": [
+        "林弘昌"
+    ],
+    "department": "HU71",
+    "code": "ITU0002",
+    "credit": 3,
+    "serial": 1216,
+    "group": "",
+    "quota": {
+        "limit": 30,
+        "additional": 5
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 1,
+            "to": 4,
+            "campus": "本部",
+            "classroom": "科技系TC501"
+        }
+    ],
+    "programs": [],
+    "comment": "設科組優先選課",
+    "restrict": "◎限本系(含雙主修)修習◎限大二修習",
+    "form_s": "2",
+    "classes": "",
+    "dept_group": "",
+    "hours": 2,
+    "description": "",
+    "goals": [
+        "使學生瞭解木材工業的現況及未來的發展",
+        "培養學生木工製造（手工具部分）的知識和技能",
+        "培養學生從事中學生活科技及相關課程之教學能力",
+        "培養學生具備木工之就業及發展相關行業之工作能力"
+    ],
+    "syllabus": "Tentative Schedule:\n\nWeek 1 Introduction\n\nActivity / Electing cadre members of factory and checking out the hand tools.\n\nWeek 2 Introduction to characteristic of woodworking hand tools and safety rules\n\nActivity / Demonstrating safe operation\n\nWeek 3 Ergonomic of furniture design\n\nActivity / Design self-design wooden projects\n\nWeek 4 Introduction of hardware\n\nActivity / Design self-design wooden projects / Hand in individual assignment / Woodwork design practice (I)\n\nWeek 5 Presentation techniques of furniture design\n\nActivity / Design self-design wooden projects\n\nWeek 6 Demonstration of using chisels\n\nActivity / Practice using chisels / Hand in individual assignment / Woodwork design practice (II)\n\nWeek 7 Demonstration of using planers\n\nActivity / Practice using planers\n\nWeek 8 Demonstration of using panel saws\n\nActivity / Practicing of using panel saws\n\nWeek 9 Demonstration of making mortise and tenon joints\n\nActivity / Practicing of making mortise and tenon joints\n\nWeek 10 Midterm\n\nActivity / Midterm examination / Hand in the plan of woodwork projects\n\nWeek 11 Demonstration of hollow chisel mortiser\n\nActivity / Practicing making hollow chisel mortiser\n\nWeek 12 Demonstration of woodworking lathes\n\nActivity / Practicing of operating woodworking lathes\n\nWeek 13 Demonstration of a variety of sanders\n\nActivity / Practicing of operating a variety of sanders & making the woodwork projects\n\nWeek 14 Demonstration of portable power tools / Introduction to woodworking glue and its usage\n\nActivity / Practicing the use of portable power tools & making the woodwork projects\n\nWeek 15 Demonstration of painting and finishing\n\nActivity / Painting and finishing\n\nWeek 16 Final presentation\n\nActivity / Hand in final assignment: The final report and products",
+    "methodologies": [
+        {
+            "type": "Formal lecture",
+            "note": "Describe the concepts and theories of woodware design and manufacturing."
+        },
+        {
+            "type": "Group discussion",
+            "note": "Discuss important issues, divided into whole-class discussions and group discussions."
+        },
+        {
+            "type": "Cooperative learning",
+            "note": "Groups should complete the free-style design and creation plan (including the design process) in the first half of the semester. In the second half of the semester, the students need to complete the achievement report (including the production process) and the free-style design and creation of finished products."
+        },
+        {
+            "type": "Lab/Studio",
+            "note": "The weekly implementation progress includes the preparation of practice materials and the operation practice of related tools and equipment."
+        },
+        {
+            "type": "Media, audio, visual materials",
+            "note": "This course will use the Moodle teaching platform to assist teaching."
+        },
+        {
+            "type": "Case studies",
+            "note": "Through the guidance of teachers, design personal daily wooden products."
+        },
+        {
+            "type": "Other:",
+            "note": "The content of the class will be adjusted according to the actual progress of the class."
+        }
+    ],
+    "grading": [
+        {
+            "type": "Assignments",
+            "weight": 30,
+            "note": "Course-specified practice assignments, such as planing, pot washer (tenon joint practice), Luban lock, photo album, pen holder, etc."
+        },
+        {
+            "type": "Class discussion involvement",
+            "weight": 30,
+            "note": "Pre-class reading, class participation in discussions, and interaction with teachers and classmates."
+        },
+        {
+            "type": "Presentation",
+            "weight": 25,
+            "note": "1. Personal practical and creative woodworking small objects design and production of finished products.\n2. Arrangement and presentation of materials such as design and production process."
+        },
+        {
+            "type": "other:",
+            "weight": 15,
+            "note": "1. Appropriate attire and correct and safe working habits.\n2. Good working attitude and service enthusiasm."
+        }
+    ],
+    "prerequisite": "◎Exclusive for students within this department(including dual degree program) ◎Exclusive for sophomore",
+    "general_core": []
+}

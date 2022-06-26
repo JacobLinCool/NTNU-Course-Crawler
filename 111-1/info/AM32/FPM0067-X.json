@@ -1,0 +1,80 @@
+{
+    "year": 111,
+    "term": 1,
+    "name": "運動生化與生理測量評估",
+    "teachers": [
+        "何仁育"
+    ],
+    "department": "AM32",
+    "code": "FPM0067",
+    "credit": 3,
+    "serial": 65,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 6,
+            "to": 8,
+            "campus": "公館",
+            "classroom": "Ｓ302"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程主要介紹運動生理學與運動生化學常見測量之原理與評估。藉由實際操作測量或藉由文獻書本來熟悉基礎運動生理學與運動生化學分析的技術、儀器的使用與測量之評估。",
+    "goals": [
+        "熟悉運動生理學常用之測量評估",
+        "了解運動生化實驗室安全與分析技術",
+        "認識基礎運動生化學分析的技術與儀器",
+        "透過講解運動生化學與運動生理學常見測量之方法與原理，對測量方法有基礎的瞭解，有助於未來相關運動科學研究的進行"
+    ],
+    "syllabus": "日期\n\n主題\n\n說明\n\n09/06\n\nCourse Introduction、Strength Assessment\n\nIsokinetic & Isometric test\n\n/ 1RM test\n\n09/13\n\nFunctional /Balance Assessment\n\nPower Assessment\n\nSenior Fitness Test / Vertical Jump with\n\nForce Plate\n\n09/20\n\nAnaerobic Assessment\n\n RAST / Wingate Test\n\n09/27\n\nData Collection / Interpretation / Application\n\n\\* Journal Papers\n\n**Presentation (I)**\n\n10/04\n\nAerobic Assessment\n\nVO2max / Indirect test\n\n10/11\n\nBody Composition Assessment\n\nEnergy Expenditure Assessment\n\nInbody (BIA) / Skinfold Measurement\n\n10/18\n\nData Collection / Interpretation / Application\n\nCatch Up\n\n\\* Journal Papers\n\n**Presentation (II)**\n\n10/25\n\nMidterm Exam (25%)\n\nTesting Report I\n\n11/01\n\nLaboratory Safety Procedure\n\nCalibration, Standards\n\nSolutions/Dilution Factors\n\n11/08\n\nPipette /Scales / Centrifugation\n\nBlood Processing\n\nPipette Practice\n\nTesting Report II\n\n11/15\n\nEnzyme-linked immunosorbent assay (ELISA)\n\n11/22\n\nHydration Assessment\n\n11/29\n\nMuscle Fiber Composition\n\n12/06\n\nData Interpretation / Application\n\n\\* Journal Papers\n\n**Presentation (III)**\n\n12/13\n\nCatch Up\n\n12/20\n\nMidterm Exam (25%)",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "講述運動生理學與運動生化學常見測量之原理與評估"
+        },
+        {
+            "type": "實驗/實作",
+            "note": "藉由實際操作測量或藉由文獻書本來熟悉基礎運動生理學與運動生化學分析的技術、儀器的使用與測量之評估"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 25,
+            "note": "測量報告之撰寫"
+        },
+        {
+            "type": "期中考",
+            "weight": 25,
+            "note": "主要以選擇題與簡答題的方式進行期中考試"
+        },
+        {
+            "type": "期末考",
+            "weight": 25,
+            "note": "主要以選擇題與簡答題的方式進行期末考試"
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 15,
+            "note": "搜尋相關文獻資料進行報告與討論"
+        },
+        {
+            "type": "出席",
+            "weight": 10,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

@@ -1,0 +1,71 @@
+{
+    "year": 111,
+    "term": 1,
+    "name": "基礎電子學實驗",
+    "teachers": [
+        "王超"
+    ],
+    "department": "SU47",
+    "code": "CSU0008",
+    "credit": 1,
+    "serial": 3047,
+    "group": "B",
+    "quota": {
+        "limit": 30,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 1,
+            "from": 3,
+            "to": 4,
+            "campus": "公館",
+            "classroom": "理圖703"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎限大一修習",
+    "form_s": "1",
+    "classes": "",
+    "dept_group": "",
+    "hours": 2,
+    "description": "配合電子學課程實驗暸解各種電子零件的操作狀況。",
+    "goals": [
+        "熟悉各種電子零件和實驗設備",
+        "驗證各種電子零件的基本運作原理"
+    ],
+    "syllabus": "“實驗” 是資訊系統工程與科學研究發展的重要環節。好的實驗設計與實驗數據分析，能引導科學家與工程師具體地了解一個系統的行為及效能，並作為理論假設的驗證以及進一步設計的依據。此實驗課程搭配 [“CSU0007 基礎電子學”](https://web.ntnu.edu.tw/~cw/csu0007)，目標為建立資訊硬體實務面的學習基礎，累積動手實作經驗，並培養求證求真的精神。課程將使用 Matlab/Simulink, Arduino, 及相關電儀表設備。\n\n註：由於器材及教室空間等因素，本課程分為 A, B 兩時段，分時段進行相同實驗內容，請依選課系統上選到的時段固定參加。\n\nWeek #\n\nTopic\n\n1\n\n線上教材 Matlab Onramp\n\n2\n\n基本實驗零件設備介紹\n\n3\n\n基本電路 (1)\n\n4\n\n基本電路 (2)\n\n5\n\nThevenin Theorem 的應用\n\n6\n\n非線性元件特性量測; 訊號產生器\n\n7\n\n整流電路; 示波器\n\n8\n\n期中回顧與補充\n\n9\n\n基本邏輯電路\n\n10\n\n加法器\n\n11\n\nArduino 初探; 類比-數位轉換器 (ADC)\n\n12\n\n伺服馬達; 脈衝寬度調變 (PWM)\n\n13\n\n軟硬體整合與自動化量測\n\n14\n\nMOSFET 電子電路\n\n15\n\n電容與 RC 電路\n\n16\n\n期末回顧與補充",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "實驗前先講述實驗內容並示範操作"
+        },
+        {
+            "type": "討論法",
+            "note": "課程中透過問答及小測驗來驗收學習成效"
+        },
+        {
+            "type": "合作學習",
+            "note": "分班分組進行實驗與討論"
+        },
+        {
+            "type": "實驗/實作",
+            "note": "學生使用麵包板、電子零件或積體電路連接電路，觀察結果"
+        }
+    ],
+    "grading": [
+        {
+            "type": "課堂討論參與",
+            "weight": 60,
+            "note": "包含出席及課堂小測驗"
+        },
+        {
+            "type": "報告",
+            "weight": 40,
+            "note": "預習報告及結果報告"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

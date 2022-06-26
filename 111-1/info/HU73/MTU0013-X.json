@@ -1,0 +1,84 @@
+{
+    "year": 111,
+    "term": 1,
+    "name": "電路學",
+    "teachers": [
+        "陳美勇"
+    ],
+    "department": "HU73",
+    "code": "MTU0013",
+    "credit": 3,
+    "serial": 1300,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 6,
+            "from": 7,
+            "to": 9,
+            "campus": "本部",
+            "classroom": "工501"
+        }
+    ],
+    "programs": [
+        "太陽能源與工程學程"
+    ],
+    "comment": "",
+    "restrict": "◎限本系(含雙主修)修習◎限機電系（學）「智能鑄造產學攜手專班」選修",
+    "form_s": "2",
+    "classes": "",
+    "dept_group": "B",
+    "hours": 3,
+    "description": "使學生了解基本工程電路之特性、原理、計算與分析方法。",
+    "goals": [
+        "直流分析：(1) 瞭解電阻、電壓、電流、電力等之基本知識。(2) 瞭解進階電路的電路分析技巧，包含重疊原理、戴維寧等效電路、諾頓等效電路等。",
+        "時域分析：(1) 儲能元件(電容、電感)特性介紹。(2) RC、RL、RLC電路之時域分析。",
+        "頻域分析：(1) 交流電路分析。(2) Laplace 轉換及應用。"
+    ],
+    "syllabus": "週次\n\n上課日期\n\n 每週教學主題\\*\\*\n\n １\n\n 9/10\n\n© Basic Concepts (1.1~1.8)\n\n ２\n\n 9/17\n\n© Circuit Element--Transducers and Switch Circuits (2.1~2.9)\n\n ３\n\n 9/24\n\n© Resistive Circuits (3.1-3.10)\n\n ４\n\n 10/1\n\n© Nodal and Loop Analysis Techniques of RC (4.1-4.8)\n\n ５\n\n 10/8\n\n©  Circuit Theorems-Thevenin(5.1-5.4)\n\n ６\n\n 10/15\n\n© Circuit Theorems Norton (5.5~5.6)\n\n ７\n\n 10/22\n\n© Operational Amplifiers(6.1-6.7)\n\n ８\n\n 10/29\n\nMid-test\n\n ９\n\n 11/5\n\n© Energy Storage Elements-Capacitor (7.1~7.9)\n\n１０\n\n 11/12\n\n© First- and Second-Order Transient Circuits (8.1~8.8)\n\n１１\n\n 11/19\n\n© First- and Second-Order Transient Circuits (9.1~9.8)\n\n１２\n\n 11/26\n\n地方公職選舉，停課一次\n\n１３\n\n 12/3\n\n© Sinusoidal Steady-State Analysis (10.1~10.6)\n\n１４\n\n 12/10\n\n© Superposition and Phasor Diagrams (10.7~10.10)\n\n１５\n\n 12/17\n\n© Circuit Analysis Using the Laplace Transform (14.1~14.14)\n\n１６\n\n 12/24\n\nFinal-test",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "以講授及操作示範進行，包含模擬軟體之示範操作。"
+        },
+        {
+            "type": "問題解決教學",
+            "note": "每週排定2 次Office hour供學生進行問題解答，以電路問題引導教學。"
+        },
+        {
+            "type": "媒體融入教學",
+            "note": "應用多媒體教學方式輔助並強化學生之學習成效"
+        },
+        {
+            "type": "其他",
+            "note": "測驗方式進行。"
+        }
+    ],
+    "grading": [
+        {
+            "type": "期中考",
+            "weight": 30,
+            "note": "電阻電路，基礎電路原理支應用，放大器電路"
+        },
+        {
+            "type": "期末考",
+            "weight": 30,
+            "note": "電容電感電路，電路響應分析"
+        },
+        {
+            "type": "出席",
+            "weight": 10,
+            "note": "不定時點名"
+        },
+        {
+            "type": "其他",
+            "weight": 30,
+            "note": "配合每週授課進度給予學生五次小考，取前四次高分考試成績。"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

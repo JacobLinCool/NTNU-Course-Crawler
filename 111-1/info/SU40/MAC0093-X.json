@@ -1,0 +1,65 @@
+{
+    "year": 111,
+    "term": 1,
+    "name": "近世代數（一）",
+    "teachers": [
+        "劉家新"
+    ],
+    "department": "SU40",
+    "code": "MAC0093",
+    "credit": 3,
+    "serial": 2777,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 1,
+            "from": 2,
+            "to": 4,
+            "campus": "公館",
+            "classroom": "數學館310研討室"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "",
+    "classes": "9",
+    "dept_group": "",
+    "hours": 3,
+    "description": "Review undergraduate group and ring theory.\nBasic group theory.",
+    "goals": [
+        "訓練學生掌握抽象代數的知識",
+        "訓練學生可以用代數的語言進行溝通、表達、寫作。",
+        "培養學生的直覺、欣賞與應用代數至其他學科的能力。"
+    ],
+    "syllabus": "1\\. Some basic group theory (2 weeks)\n\n2\\. Group actions (2 weeks)\n\n3\\. Sylow theorems, p-groups(2 weeks)\n\n4\\. Permutation groups ( 1 week)\n\n5\\. Solvable groups and nilpotent groups (2 weeks)\n\nMidterm exam\n\n  \n\n6\\. Module theory (2 weeks)\n\n7\\. Rings, Ideals, and Modules (2 weeks)\n\n8\\. Simple modules and primitive rings (2 weeks)\n\n9\\. Artinian rings and projective modules (2 weeks)\n\nFinal exam",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 20,
+            "note": ""
+        },
+        {
+            "type": "期中考",
+            "weight": 40,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 40,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

@@ -1,0 +1,79 @@
+{
+    "year": 111,
+    "term": 1,
+    "name": "商業分析程式語言",
+    "teachers": [
+        "黃浩霆"
+    ],
+    "department": "OU57",
+    "code": "BAU0068",
+    "credit": 3,
+    "serial": 2481,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 5,
+            "from": 7,
+            "to": 9,
+            "campus": "本部",
+            "classroom": "誠109"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎必須先修過【BAU0041  統計學（二）】",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "",
+    "goals": [
+        "To improve work efficiency with programming language",
+        "To develop the ability to complete the given Python projects",
+        "To develop the ability to propose solutions to solve business problems"
+    ],
+    "syllabus": "Week\n\nDate\n\nContent\n\n1\n\n9 Sep\n\nHoliday\n\n2\n\n16 Sep\n\nCourse Introduction\n\n3\n\n23 Sep\n\nChapter 1：Introduction to Computer and Programming\n\n4\n\n30 Sep\n\nChapter 2：Input, Processing and Output\n\n5\n\n7 Oct\n\nChapter 3：Decision Structures and Boolean Logic\n\n6\n\n14 Oct\n\nChapter 4：Repetition Structures\n\n7\n\n21 Oct\n\nGuest Lecture\n\n8\n\n28 Oct\n\nMini-test 1\n\n9\n\n4 Nov\n\nChapter 5：Functions \n\n10\n\n11Nov\n\nHoliday\n\n11\n\n18 Nov\n\nChapter 6：Files and exceptions\n\n12\n\n25 Nov\n\nChapter 8：More about strings\n\n13\n\n2 Dec\n\nChapter 12：Recursion\n\n14\n\n9 Dec\n\nFinal presentation or Chapter 7: Lists\n\n15\n\n16 Dec\n\nMini-test 2\n\n16\n\n23 Dec\n\nFinal presentation",
+    "methodologies": [
+        {
+            "type": "Formal lecture",
+            "note": "Main topics are provided by the teacher in advance every week, and students are asked to preview the textbook and discuss in class."
+        },
+        {
+            "type": "Media, audio, visual materials",
+            "note": "Video provided by the textbook will be used"
+        }
+    ],
+    "grading": [
+        {
+            "type": "Assignments",
+            "weight": 25,
+            "note": "3 reflective Journals, multiple-choice question questions setting"
+        },
+        {
+            "type": "Midterm Exam",
+            "weight": 15,
+            "note": "Mid-term exam in multiple-choice question format"
+        },
+        {
+            "type": "Final exam",
+            "weight": 15,
+            "note": "Final exam in multiple-choice question format"
+        },
+        {
+            "type": "Class discussion involvement",
+            "weight": 20,
+            "note": "Class participation"
+        },
+        {
+            "type": "Presentation",
+            "weight": 25,
+            "note": "Final presentation"
+        }
+    ],
+    "prerequisite": "Prerequisite course: 【BAU0041  Statistics (II)】",
+    "general_core": []
+}

@@ -1,0 +1,82 @@
+{
+    "year": 111,
+    "term": 1,
+    "name": "人力資源資訊系統",
+    "teachers": [
+        "孫弘岳"
+    ],
+    "department": "HU71",
+    "code": "ITC9005",
+    "credit": 3,
+    "serial": 1207,
+    "group": "",
+    "quota": {
+        "limit": 26,
+        "additional": 0
+    },
+    "schedule": [
+        {
+            "day": 1,
+            "from": 7,
+            "to": 9,
+            "campus": "本部",
+            "classroom": "教404"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎限本系(含雙主修)修習◎限大四 ◎限碩一碩二修習",
+    "form_s": "",
+    "classes": "9",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程以人力資源資訊系統各功模組與導入程序為主軸，介紹電子化人力資源的運作實務，以及人力資源與資訊科技的整合應用。整體課程設計，以非IT背景學生為目標，讓學生學到最新的科技在人力資源領域的應用，包括人工智慧、區塊鏈、雲端運算、人資系統、社群網路，以及人力資源數據分析。",
+    "goals": [
+        "Understand how HR technology with its many features and functions can support the business you are in.",
+        "Find and evaluate HR Technology providers, especially in the Software-as-a Service (Cloud) environment.",
+        "Up-to-date on how HR technology enables you to generate strategic, valued information with Metrics and Dashboards.",
+        "Provides students with helpful hints and specific details to guide them through a needs analysis and vendor evaluation initiative."
+    ],
+    "syllabus": "Week 1: Course introduction, Introduction to e-HRM, syllabus review\n\nWeek 2: Database Concepts and Applications in HRIS\n\nWeek 3: Systems Considerations in the Design of an HRIS\n\nWeek 4: The Systems Development Life Cycle and HRIS Needs Analysis\n\nWeek 5: System Design and Acquisition\n\nWeek 6: Change Management and Implementation\n\nWeek 7: Cost Justifying HRIS Investments\n\nWeek 8: Talent Management\n\nWeek 9: HR Administration and HRIS\n\nWeek 10: Recruitment and Selection in an Internet Context\n\nWeek 11: Training and Development: Issues and HRIS Applications\n\nWeek 12: Performance Management, Compensation, Benefits, Payroll, and HRIS\n\nWeek 13: HRIS and International HRM\n\nWeek 14: HR Metrics and Workforce Analytics\n\nWeek 15: HRIS and Social Media\n\nWeek 16: The Future of HRIS: Emerging Trends in HRM and IT\n\nWeek 17: Final Presentation I\n\nWeek 18: Final Presentation II",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "講授該節課程的理論與實務重點，外加實務案例"
+        },
+        {
+            "type": "問題解決教學",
+            "note": "以小組為單位，練習解決個案問題"
+        },
+        {
+            "type": "合作學習",
+            "note": "以小組為單位，練習解決個案問題以及期末科技專題"
+        },
+        {
+            "type": "實地考察、參訪",
+            "note": "邀請實務界專家前來進行展演並實作"
+        },
+        {
+            "type": "媒體融入教學",
+            "note": "在電腦教育運用媒體科技和各類雲端服務"
+        }
+    ],
+    "grading": [
+        {
+            "type": "課堂討論參與",
+            "weight": 50,
+            "note": "小組作業，限時30分鐘。報告組若有成員缺席，該缺席學生課堂討論與參與成績以零分計。若當周沒有準備或分享，全組成員學期總成績以零分計。"
+        },
+        {
+            "type": "出席",
+            "weight": 10,
+            "note": "由課代每節點名，缺席/請假(非公喪假)/或遲到15分鐘以上，每次扣20分，達六次(含)以上，學期成績以零分計。若全勤者，此項目得滿分100分。(請公喪假須到學校系統完成請假為準，並列印交給課代，否則視同缺課)"
+        },
+        {
+            "type": "報告",
+            "weight": 40,
+            "note": "期末人力資源科技應用的專題報告。"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

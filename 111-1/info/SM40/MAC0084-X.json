@@ -1,0 +1,60 @@
+{
+    "year": 111,
+    "term": 1,
+    "name": "凸分析專題",
+    "teachers": [
+        "陳界山"
+    ],
+    "department": "SM40",
+    "code": "MAC0084",
+    "credit": 3,
+    "serial": 2664,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 6,
+            "to": 8,
+            "campus": "公館",
+            "classroom": "數學館M212"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "",
+    "goals": [
+        "瞭解凸分析及非線性規劃問題之關係及其常用原理與方法",
+        "從單值連續函數到多值函數之固定點的存在性探討相關之優選問題",
+        "透過相關的數學文獻研究，瞭解凸分析的發展趨勢及應用"
+    ],
+    "syllabus": "  \n No textbook required. Students who enroll in this course will take turns presenting research papers or  \n materials that focus on convex analysis.\n\n Three references are recommended.  \n 1. Convex Analysis in General Vector Spaces, by C. Zalinescu, World Scientific Publishing, 2002.  \n 2. Convexity and Optimization in $\\\\Re^n$, by L.D. Berkovitz, John Wiley and Sons, 2002.  \n 3. Convex Analysis, by R.T. Rockafellar, Princeton Landmarks in Mathematics, 1997.\n\n The good news is that there are no homework and exams for this course. However, this is a graduate  \n course, so you are highly expected to show your ability for independent study. Instead of assigning   \n weekly homework or taking exams, I will arrange everyone who enrolls in this course to take turns  \n presenting course materials. Hopefully, you will learn more through this training.\n\n Grades\n\n Since there are no homework and exams for this course, participation and joining discussion are very  \n crucial. Therefore, your final grade for this course will be determined by these two factors shown as   \n below:  \n  Attendance  50 %       \n  Presentation and Discussion   50 %  \n   \n Sometimes you will be asked to attend conferences or workshops related to this  \n course, and attendance of such cases is also counted.",
+    "methodologies": [
+        {
+            "type": "Group discussion",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "Attendances",
+            "weight": 50,
+            "note": ""
+        },
+        {
+            "type": "Presentation",
+            "weight": 50,
+            "note": ""
+        }
+    ],
+    "prerequisite": "◎Available for junior and senior year B.A. program students (Doctoral program courses excepted) and M.A. program students.",
+    "general_core": []
+}

@@ -1,0 +1,71 @@
+{
+    "year": 111,
+    "term": 1,
+    "name": "行銷數據分析",
+    "teachers": [
+        "黃啟祐"
+    ],
+    "department": "HM70",
+    "code": "IEM0425",
+    "credit": 2,
+    "serial": 1131,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 4,
+            "from": 7,
+            "to": 8,
+            "campus": "本部",
+            "classroom": "研討一"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 2,
+    "description": "This is a fundamental course in marketing analytics aiming at helping the MOT major students become familiar with theories and practices of marketing analytics theories. Major emphasis will be placed on introduction and case studies. The students are expected to analytic skills in market segmentation, targeting, positioning, product management, brand management, pricing management, market research, and marketing planning through lectures and case studies.",
+    "goals": [
+        "學會問題解決的基本演算法"
+    ],
+    "syllabus": "This is a fundamentalcourse in marketing analytics aiming at helping the MOT major students becomefamiliar with theories and practices of marketing analytics theories. Majoremphasis will be placed on introduction and case studies. The students areexpected to analytic skills in market segmentation, targeting, positioning, productmanagement, brand management, pricing management, market research, andmarketing planning through lectures and case studies.\n\nWeek 1. Introduction  \nWeek 2. Understanding Markets  \nWeek 3. Introduction to programming languages (Python and R) (2)  \nWeek 4. Introduction to programming languages (Python and R) (2)  \nWeek 5. Predicting Consumer Choice  \nWeek 6. Targeting Current Customers  \nWeek 7. Finding New Customers  \nWeek 8. Retaining Customers  \nWeek 9. Positioning Products  \nWeek 10. Developing New Products  \nWeek 11. Promoting Products  \nWeek 12. Recommending Products  \nWeek 13. Assessing Brands and Prices  \nWeek 14. Utilizing Social Networks  \nWeek 15. Watching Competitors  \nWeek 16. Predicting Sales  \nWeek 17. Redefining Marketing Research  \nWeek 18. Final Examination",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "透過課程介紹行銷資料分析方法與工具"
+        },
+        {
+            "type": "討論法",
+            "note": "透過課堂討論深化理論與實務之了解"
+        },
+        {
+            "type": "實驗/實作",
+            "note": "透過作業實際操作大數據之分析軟體與平台"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 40,
+            "note": "隨課程進度將指定作業"
+        },
+        {
+            "type": "期末考",
+            "weight": 40,
+            "note": "範圍包括本學期所教授內容"
+        },
+        {
+            "type": "出席",
+            "weight": 20,
+            "note": "無法出席請務必請假，缺席1次扣總分5分"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

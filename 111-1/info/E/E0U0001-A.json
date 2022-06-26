@@ -1,0 +1,81 @@
+{
+    "year": 111,
+    "term": 1,
+    "name": "教育統計學（一）",
+    "teachers": [
+        "吳清麟"
+    ],
+    "department": "E",
+    "code": "E0U0001",
+    "credit": 2,
+    "serial": 330,
+    "group": "A",
+    "quota": {
+        "limit": 70,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 8,
+            "to": 9,
+            "campus": "本部",
+            "classroom": "樸401"
+        }
+    ],
+    "programs": [
+        "學習與資訊學程"
+    ],
+    "comment": "",
+    "restrict": "◎限特教系（學）選修",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 2,
+    "description": "",
+    "goals": [
+        "Concepts, knowledge, and relevant examples are provided and explained",
+        "Questions are given in/after class for students to solve based on course materials",
+        "3.          Demonstration and hand-on experience of using statistical software to analyze datasets are provided. Explanation and interpretation on the results are instructed."
+    ],
+    "syllabus": "### 統計學基本概念  \n實驗設計概述  \n次數分配及圖示法  \n集中量數  \n變異量數  \n相對地位量數  \n常態分配  \n推論統計概述",
+    "methodologies": [
+        {
+            "type": "Formal lecture",
+            "note": ""
+        },
+        {
+            "type": "Group discussion",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "Assignments",
+            "weight": 30,
+            "note": "不定期練習"
+        },
+        {
+            "type": "Midterm Exam",
+            "weight": 20,
+            "note": "選擇題、計算題、問答題"
+        },
+        {
+            "type": "Final exam",
+            "weight": 30,
+            "note": "選擇題、計算題、問答題"
+        },
+        {
+            "type": "Attendances",
+            "weight": 5,
+            "note": ""
+        },
+        {
+            "type": "Presentation",
+            "weight": 15,
+            "note": ""
+        }
+    ],
+    "prerequisite": "◎限Department of Specia",
+    "general_core": []
+}

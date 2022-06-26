@@ -1,0 +1,68 @@
+{
+    "year": 111,
+    "term": 1,
+    "name": "數學物理（一）",
+    "teachers": [
+        "趙宇強"
+    ],
+    "department": "SU41",
+    "code": "PHU0011",
+    "credit": 3,
+    "serial": 2887,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 1,
+            "from": 8,
+            "to": 10,
+            "campus": "公館",
+            "classroom": "Ｓ304"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "2",
+    "classes": "2",
+    "dept_group": "",
+    "hours": 3,
+    "description": "教授物理系必修課程中所需之數學概念及技巧，使學生具備扎實的數學運算能力，以作為了解高深物理原理的基礎。",
+    "goals": [
+        "具有數學邏輯推導與演算的能力",
+        "簡介相關物理原理"
+    ],
+    "syllabus": "1\\. Linear Algebra:\n\nA.     Vector Spaces\n\nB.     Determinant\n\nC.     Matrices\n\nD.    Orthogonal Matrices, Hermitian Matrices,and Unitary Matrices\n\nE.     Diagonalization of Matrices\n\nF.     Singular Value Decomposition\n\n2\\. Vector Analysis(differential vectoroperators and curvilinear coordinates)\n\n3\\. Curved Coordinates and Tensors \n\n4. Complex Analysis",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "上課以黑板及投影機講解,學生應記錄筆記."
+        },
+        {
+            "type": "討論法",
+            "note": "學生可隨時詢問或回答問題."
+        }
+    ],
+    "grading": [
+        {
+            "type": "期中考",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "其他",
+            "weight": 40,
+            "note": "期中考前一次小考，期末考前一次小考"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

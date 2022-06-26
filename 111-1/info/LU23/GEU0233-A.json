@@ -1,0 +1,77 @@
+{
+    "year": 111,
+    "term": 1,
+    "name": "地學通論（一）",
+    "teachers": [
+        "林聖欽"
+    ],
+    "department": "LU23",
+    "code": "GEU0233",
+    "credit": 2,
+    "serial": 1930,
+    "group": "A",
+    "quota": {
+        "limit": 55,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 1,
+            "from": 10,
+            "to": 11,
+            "campus": "本部",
+            "classroom": "誠202"
+        }
+    ],
+    "programs": [],
+    "comment": "本班以中文授課。新生選課階段限本系大一新生選課。非本系大一新生請於加退選階段選課。",
+    "restrict": "◎限本系(含雙主修)修習◎限大一修習",
+    "form_s": "1",
+    "classes": "",
+    "dept_group": "",
+    "hours": 2,
+    "description": "",
+    "goals": [
+        "Understanding important concepts of human geography based on the focus of places and regions, enhancing the ability to recognize geographical phenomenon and understand geographical environment.",
+        "Understanding important geographical methods and techniques in order to cultivate geographical literacies, human spirit, learning interests and related affection.",
+        "Through the relevant geographical concepts explained in the course, illustrating the relevant cultural landscape or social phenomenon cases in daily life, and enhancing the basic ability of analyzing problems."
+    ],
+    "syllabus": "1.GeographyMatters  \n2.TheChangingGlobalContext  \n3.GeographiesofPopulation  \n4.NatureandSociety  \n5-6.CulturalGeographies  \n7-8.InterpretingPlacesandLandscape  \n9.期中考  \n10.TheGeographyofEconomicDevelopment  \n11.AgricultureandFoodProduction  \n12.ThePoliticsofTerritoryandSpace  \n13.Urbanization  \n14-15.CitySpace:UrbanStructure  \n16-17.FutureGeographies18.期末考",
+    "methodologies": [
+        {
+            "type": "Formal lecture",
+            "note": ""
+        },
+        {
+            "type": "Group discussion",
+            "note": ""
+        },
+        {
+            "type": "Field work",
+            "note": ""
+        },
+        {
+            "type": "Media, audio, visual materials",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "Midterm Exam",
+            "weight": 40,
+            "note": ""
+        },
+        {
+            "type": "Final exam",
+            "weight": 40,
+            "note": ""
+        },
+        {
+            "type": "Presentation",
+            "weight": 20,
+            "note": ""
+        }
+    ],
+    "prerequisite": "◎Exclusive for students within this department(including dual degree program) ◎Exclusive for freshman",
+    "general_core": []
+}

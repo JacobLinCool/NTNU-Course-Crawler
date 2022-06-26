@@ -1,0 +1,98 @@
+[
+    {
+        "year": 111,
+        "term": 1,
+        "name": "教育行政學研究",
+        "teachers": [
+            "王麗雲"
+        ],
+        "department": "EM16",
+        "code": "EPM0003",
+        "credit": 3,
+        "serial": 516,
+        "group": "",
+        "quota": {
+            "limit": 30,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 2,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "教803"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎課程不開放上修",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "行政法研究",
+        "teachers": [
+            "周佳宥"
+        ],
+        "department": "EM16",
+        "code": "EPM0050",
+        "credit": 3,
+        "serial": 517,
+        "group": "",
+        "quota": {
+            "limit": 30,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 2,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "教801"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎課程不開放上修",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "教育與社會科學研究法",
+        "teachers": [
+            "陳佩英"
+        ],
+        "department": "EM16",
+        "code": "EPM0066",
+        "credit": 3,
+        "serial": 518,
+        "group": "",
+        "quota": {
+            "limit": 30,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 7,
+                "to": 9,
+                "campus": "本部",
+                "classroom": "教801"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎課程不開放上修",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    }
+]

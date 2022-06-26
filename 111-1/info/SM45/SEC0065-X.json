@@ -1,0 +1,77 @@
+{
+    "year": 111,
+    "term": 1,
+    "name": "科學哲學與科學教育",
+    "teachers": [
+        "劉湘瑤"
+    ],
+    "department": "SM45",
+    "code": "SEC0065",
+    "credit": 3,
+    "serial": 2731,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 3,
+            "from": 6,
+            "to": 8,
+            "campus": "公館",
+            "classroom": "教室自排"
+        }
+    ],
+    "programs": [],
+    "comment": "選修課程的同學須有科學教育(或數學教育)背景,且須具備英文能力.",
+    "restrict": "◎課程不開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "",
+    "goals": [
+        "Students will understand the current trend of philosophy of science and its relevance to science education.",
+        "Students will explore and analyze the role of science in a variety of societal issues through the lens of philosophy of science.",
+        "Students will be engaged in the discussion about how to communicate the nature of science with students and the public by using media of STS related issues and history of science."
+    ],
+    "syllabus": "This course will begin with an introduction to the rationale of using the term “philosophy of science in practice”, which emphasizes the relevance of philosophical research for scientific practices, society, and science education. From the perspectives of science education and the goals of developing the public's scientific literacy, three areas of philosophy of science in practice will be discussed in this course, including Science-Technology-Society (STS), history of science, and science communication.\n\nSchedule:\n\nWeek 1. Course introduction: topics, reading assignments, and assessments\n\nWeek 2. Trends of philosophy of science\n\n\\-Loving (1991): The scientific theory profile\n\nWeek 3. Forms of philosophy of science in practice \n\n\\-Ankeny et al. (2011): Editorial article, Euro Jnl Phil Sci.\n\nWeek 4. The aims of science education – scientific literacy\n\n\\-Feinstein (2010): Salvaging Science Literacy\n\nWeek 5. The aims of science education – science career\n\n\\-Sharkawy (2015): Envisioning a career in science, technology, engineering and mathematics: some challenges and possibilities\n\nWeek 6. Philosophy of science and science education (SE)\n\n\\-Burbules & Linn (1991) Science education and philosophy of science: congruence or contradiction?\n\nWeek 7. Philosophy of science and SE\n\n\\-Davson-Galle (2004): Philosophy of science, critical thinking and science education\n\nWeek 8. Field observation – visiting museum or attending conferences (TBA)\n\nWeek 9. History of science and SE\n\n\\-Gooday et al. (2008): Does science education need the history of science?\n\nWeek 10. History and philosophy of science in school science curricula\n\n\\-Hottecke and Silva (2011): Why implementing history and philosophy in school science education is a challenge:\n\nWeek 11. STS and multicultural SE\n\n\\-Hodson (1999): Going beyond cultural pluralism: Science education for sociopolitical action\n\nWeek 12. STS and scientific practices\n\n\\-Roth (2016): On the societal nature of praxis and organic research\n\nWeek 13. STS and scientific literacy\n\n\\-Zeidler (2016): STEM education: A deficit framework for the twenty first century? A sociocultural socioscientific response\n\nWeek 14. STS and scientific literacy\n\n\\-Bencze et al. (2020): SAQ, SSI and STSE education: defending and extending “science‑in‑context”\n\nWeek 15. Science communication and scientific literacy\n\n\\-Bauer (2009): The evolution of public understanding of science – discourse and comparative evidence\n\nWeek 16. Course debriefing and final report presentation",
+    "methodologies": [
+        {
+            "type": "Formal lecture",
+            "note": "Instructor provides fundamental information about the topics"
+        },
+        {
+            "type": "Group discussion",
+            "note": "Instructor facilitates whole class and small group discussions"
+        },
+        {
+            "type": "Media, audio, visual materials",
+            "note": "Students are provided a list of media related to the topics for observation and analysis"
+        },
+        {
+            "type": "Case studies",
+            "note": "Students study the historical cases, STS issues, and curricular materials"
+        }
+    ],
+    "grading": [
+        {
+            "type": "Assignments",
+            "weight": 50,
+            "note": "Selecting 5 articles from the reading list and Writing a reflection paper with about 500 words for each article."
+        },
+        {
+            "type": "Class discussion involvement",
+            "weight": 30,
+            "note": "Proposing at least one question in the forum for class discussion each week"
+        },
+        {
+            "type": "Presentation",
+            "weight": 20,
+            "note": "Oral Presentation of curriculum design"
+        }
+    ],
+    "prerequisite": "◎Unavailable for M.A. program students (M.A. program courses excepted) and B.A. program students.",
+    "general_core": []
+}

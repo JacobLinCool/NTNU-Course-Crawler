@@ -1,0 +1,55 @@
+{
+    "year": 111,
+    "term": 1,
+    "name": "網際網路概論",
+    "teachers": [
+        "未定"
+    ],
+    "department": "HU71",
+    "code": "ITU1028",
+    "credit": 3,
+    "serial": 1219,
+    "group": "",
+    "quota": {
+        "limit": 35,
+        "additional": 5
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 2,
+            "to": 4,
+            "campus": "本部",
+            "classroom": "科技系TA509"
+        }
+    ],
+    "programs": [],
+    "comment": "學科組優先選課",
+    "restrict": "◎限本系(含雙主修)修習◎限大二修習",
+    "form_s": "2",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程講授網際網路架構與原理，包含基礎概念、有線與無線網路、廣域網路與行動通訊網路、並講授基礎的網際網路技術，如IP定址、IP路由、ARP、ICMP、UDP與TCP等協定。由於網際網路技術日新月異，本課程亦講授最新技術，如軟體定義網路、物聯網、無線感測網路、雲端運算與霧運算、4G、4.5G與5G技術等。",
+    "goals": [
+        "瞭解網際網路的運作原理",
+        "介紹網際網路的技術與協定",
+        "瞭解網際網路的安全與管理"
+    ],
+    "syllabus": "",
+    "methodologies": [
+        {
+            "type": "",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "",
+            "weight": null,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

@@ -1,0 +1,57 @@
+{
+    "year": 111,
+    "term": 1,
+    "name": "程式設計",
+    "teachers": [
+        "康立威"
+    ],
+    "department": "HU75",
+    "code": "AEU0013",
+    "credit": 3,
+    "serial": 1307,
+    "group": "B",
+    "quota": {
+        "limit": 35,
+        "additional": 5
+    },
+    "schedule": [
+        {
+            "day": 5,
+            "from": 2,
+            "to": 4,
+            "campus": "本部",
+            "classroom": "教403"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎限大一修習",
+    "form_s": "1",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "",
+    "goals": [
+        "Make students familiar with the syntax of C language and develop the programming skills of C language.",
+        "Cultivate the ability to think logically in programming.",
+        "Develop the ability to use programming in related fields.",
+        "Develop abstract thinking and reasoning skills.",
+        "Cultivate professional skills in programming."
+    ],
+    "syllabus": "",
+    "methodologies": [
+        {
+            "type": "",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "",
+            "weight": null,
+            "note": ""
+        }
+    ],
+    "prerequisite": "◎Exclusive for freshman",
+    "general_core": []
+}

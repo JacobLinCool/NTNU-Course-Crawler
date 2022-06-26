@@ -1,0 +1,56 @@
+{
+    "year": 111,
+    "term": 1,
+    "name": "近代控制",
+    "teachers": [
+        "未定"
+    ],
+    "department": "HM73",
+    "code": "MTM0088",
+    "credit": 3,
+    "serial": 1158,
+    "group": "",
+    "quota": {
+        "limit": 30,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 7,
+            "to": 9,
+            "campus": "本部",
+            "classroom": "機電301會議室"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "現代控制課程是自動化專業、電機、機械工程的重要課程。現代控制理論研究狀態空間模型的建立，及系统的分析和整合。課程與工程實際問題有著緊密的聯合。",
+    "goals": [
+        "了解以狀態空間表示法描述系統及其動態響應解法",
+        "對單一輸出入系統之可控制性、可觀測性與穩定性等特性在時域與頻域之分析",
+        "對多個輸入出系統針對在回授控制系統中如何應用近代控制設計法則設計控制器",
+        "高等控制器之分析與設計"
+    ],
+    "syllabus": "",
+    "methodologies": [
+        {
+            "type": "",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "",
+            "weight": null,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

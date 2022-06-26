@@ -1,0 +1,83 @@
+{
+    "year": 111,
+    "term": 1,
+    "name": "資料通訊",
+    "teachers": [
+        "王超"
+    ],
+    "department": "SU47",
+    "code": "CSC0056",
+    "credit": 3,
+    "serial": 3039,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 1,
+            "from": 7,
+            "to": 9,
+            "campus": "公館",
+            "classroom": "Ｂ103"
+        }
+    ],
+    "programs": [],
+    "comment": "◎數位課程",
+    "restrict": "",
+    "form_s": "",
+    "classes": "9",
+    "dept_group": "",
+    "hours": 3,
+    "description": "",
+    "goals": [
+        "了解資料通訊基本原理",
+        "學習點對點通訊、多重存取通訊、流量控制、網路路由與基礎排隊理論等主題",
+        "著重理論的整合與應用",
+        "了解當前相關科技之進展"
+    ],
+    "syllabus": "This course is offered in English (EMI), with Mandarin support. 此課程為 EMI 英語授課 (佐以中文輔助).\n\nData communication is essential for networked computing systems. The objectives of this course are for students to learn design principles in data communication, to get some ideas of networking systems analysis, and to have some hands-on experience in systems development.\n\nThis course is structured as a hybrid course (數位課程) on [Taiwan Online Campus](https://toc.co.ntnu.edu.tw/). The lectures are divided into three categories: asynchronous online (learn at your own pace), synchronous online (real-time remote class), and traditional face-to-face (physical lectures in classroom). See the course schedule below for detail. Most of the course materials will be posted on [Moodle](https://moodle.ntnu.edu.tw/).\n\n**Prerequisites:**  \nThe students should have some working knowledge in both C and Linux. We will study the codebase of [Eclipse Mosquitto](https://mosquitto.org/) and will learn how to trace and modify an open source implementation at such a scale.\n\nCourse Schedule\n\n#\n\nDate\n\nTopic\n\n1\n\nSep 5\n\nCourse Introduction\n\n2\n\nAsync.\n\nBroker-Based Data Communication\n\n3\n\nSep 19\n\nMessaging Broker Design and Implementation\n\n4\n\nSep 26\n\nThe Queueing Model\n\n5\n\nAsync.\n\nPoisson Process and Markov Chain\n\n6\n\nAsync.\n\nQueueing Systems\n\n7\n\nAsync.\n\nCase Study: The Aloha System\n\n8\n\nOct 24\n\n**Midterm Exam**\n\n9\n\nOct 31\n\nData Communication Bus\n\n10\n\nAsync.\n\nData Routing and Flow Control\n\n11\n\nAsync.\n\nTDMA Data Communication\n\n12\n\nNov 21\n\nTime Synchronization\n\n13\n\nNov 28\n\nCommunication Error Handling\n\n14\n\nAsync.\n\nCase Study: LoRa and LoRaWAN\n\n15\n\nDec 12\n\nResearch Topic: Real-Time Fault-Tolerant Communication\n\n16\n\nDec 19\n\n**Final Exam**\n\nFor more information, see [https://web.ntnu.edu.tw/~cw/csc0056/](https://web.ntnu.edu.tw/~cw/csc0056/)  \nFor historical data, see [https://web.ntnu.edu.tw/~cw/shares/courses/csc0056/](https://web.ntnu.edu.tw/~cw/shares/courses/csc0056/)",
+    "methodologies": [
+        {
+            "type": "Formal lecture",
+            "note": "Lectures"
+        },
+        {
+            "type": "Group discussion",
+            "note": "Online/Offline discussion"
+        },
+        {
+            "type": "Lab/Studio",
+            "note": "Linux network programming"
+        },
+        {
+            "type": "Media, audio, visual materials",
+            "note": "Integration of some online materials for overall learning experience"
+        }
+    ],
+    "grading": [
+        {
+            "type": "Assignments",
+            "weight": 55,
+            "note": "Homework assignments"
+        },
+        {
+            "type": "Midterm Exam",
+            "weight": 20,
+            "note": "Midterm exam"
+        },
+        {
+            "type": "Final exam",
+            "weight": 20,
+            "note": "Final exam"
+        },
+        {
+            "type": "Class discussion involvement",
+            "weight": 5,
+            "note": "Online/Offline participation"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

@@ -1,0 +1,85 @@
+{
+    "year": 111,
+    "term": 1,
+    "name": "語意學專題討論",
+    "teachers": [
+        "陳乃嫻"
+    ],
+    "department": "LD21",
+    "code": "END2007",
+    "credit": 3,
+    "serial": 1583,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 5,
+            "from": 6,
+            "to": 8,
+            "campus": "本部",
+            "classroom": "勤302"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程不開放上修",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "",
+    "goals": [
+        "introduces students to a wide range of semantic phenomena and issues in formal semantics, adopting a truth-conditional account of meaning."
+    ],
+    "syllabus": "**Course Description**\n\nThe objective of this course is two-fold: firstly to examine the relationship between meaning and logic and secondly to provide pre-QE students the opportunity to explore research topics of their interest (e.g., partitives in Portuguese). For the former, topics covered include propositional and predicate logic, semantic inference relations, GQT, and NP representations.\n\n**Required Text**\n\nA course reader provided by the instructor\n\n(Rec.) L.T.F. Gamut, _Logic, Language, and Meaning_, University of Chicago Press\n\n**Grading**\n\nMidterm (25%); Final (25%); Attendance and participation (10%)\n\nAssignments, incl. squib (20%); Article presentations (20%);\n\n**Course Schedule (16 + 2)**\n\nWeek 1: Introduction & preliminaries\n\nWeek 2: Truth-conditional theory of meaning\n\nWeek 3: Propositional logic\n\nWeek 4: Logical equivalences\n\nWeek 5/6: Semantic inference\n\nWeek 7/8: \\*Selected papers\n\nWeek 9: Midterm\n\nWeek 10: Predicate logic\n\nWeek 11: Generalized Quantifier Theory\n\nWeek 12/13: NP representations\n\nWeek 14/15: \\*Selected papers\n\nWeek 16: Final\n\nFlexible session: Moodle assignment",
+    "methodologies": [
+        {
+            "type": "Formal lecture",
+            "note": ""
+        },
+        {
+            "type": "Group discussion",
+            "note": ""
+        },
+        {
+            "type": "Problem base learning",
+            "note": ""
+        },
+        {
+            "type": "Case studies",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "Assignments",
+            "weight": 20,
+            "note": "Assignments"
+        },
+        {
+            "type": "Midterm Exam",
+            "weight": 25,
+            "note": "Midterm"
+        },
+        {
+            "type": "Final exam",
+            "weight": 25,
+            "note": "Final"
+        },
+        {
+            "type": "Class discussion involvement",
+            "weight": 10,
+            "note": "Attendance and participation"
+        },
+        {
+            "type": "Presentation",
+            "weight": 20,
+            "note": "Presentations"
+        }
+    ],
+    "prerequisite": "◎Unavailable for M.A. program students (M.A. program courses excepted) and B.A. program students.",
+    "general_core": []
+}

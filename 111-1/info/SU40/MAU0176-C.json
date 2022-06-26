@@ -1,0 +1,69 @@
+{
+    "year": 111,
+    "term": 1,
+    "name": "代數學探索（一）",
+    "teachers": [
+        "胡舉卿"
+    ],
+    "department": "SU40",
+    "code": "MAU0176",
+    "credit": 1,
+    "serial": 2833,
+    "group": "C",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 5,
+            "from": 7,
+            "to": 7,
+            "campus": "公館",
+            "classroom": "Ｓ201"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎必須先修過(也可以同時修)【MAU0166  代數學（一）】",
+    "form_s": "2",
+    "classes": "",
+    "dept_group": "",
+    "hours": 1,
+    "description": "本課程之目的，在於讓學生親身經歷群、環、體等抽象代數解題的邏輯思維歷程，以達到對抽象代數概念和證明方法的熟練，進而應用解決相關問題。",
+    "goals": [
+        "讓學生親身學習如何使用抽象代數的語言和邏輯來解題",
+        "讓學生熟悉群、環、體等基本抽象代數概念和證明方法",
+        "應用抽象帶數解決相關數學問題"
+    ],
+    "syllabus": "1.      Groups and Subgroups (2 weeks)\n\n2.      Cyclic Groups (2 weeks)\n\n3.      Groups of Permutations (3 weeks)\n\n4.      Cosets and the Theorem of Lagrange (3 weeks)\n\n5.      Direct Products and Application of Fundamental Theorem of Finite Abelian Groups (3 weeks)\n\n        6.   Group Homomorphisms, Factors Groups, and Isomorphism Theorems (3 weeks)",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "期中考",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 40,
+            "note": ""
+        }
+    ],
+    "prerequisite": "◎必須先修過(也可以同時修)【MAU0166  代數學（一）】",
+    "general_core": []
+}

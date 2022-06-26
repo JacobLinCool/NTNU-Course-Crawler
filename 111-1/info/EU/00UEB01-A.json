@@ -1,0 +1,79 @@
+{
+    "year": 111,
+    "term": 1,
+    "name": "雙語教材教法（教）",
+    "teachers": [
+        "柯琦"
+    ],
+    "department": "EU",
+    "code": "00UEB01",
+    "credit": 2,
+    "serial": 620,
+    "group": "A",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 5,
+            "from": 1,
+            "to": 2,
+            "campus": "本部",
+            "classroom": "樸301"
+        }
+    ],
+    "programs": [
+        "國際教師學程-華語文",
+        "國際教師學程-數學",
+        "國際教師學程-物理",
+        "國際教師學程-國際"
+    ],
+    "comment": "",
+    "restrict": "",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 2,
+    "description": "本課程旨在介紹雙語教學的定義及理念、語言使用、教學與評量、教學現場概況、以及實例分析。課程內容將以探討雙語教學的相關研究以及實際案例為主，期能發展中等教育階段師培生的雙語教學知能，增進其未來雙語教學的效能。",
+    "goals": [
+        "認識不同雙語教學法的核心理念與了解全球雙語教育實施概況。",
+        "認識英語為國際通用語的概念，發展跨語言教學知能。",
+        "提升教師授課語言及課室溝通與互動的效能。",
+        "根據課綱及學科內容、語言、認知能力及情境脈絡，設計雙與課程、教學活動及學習評量。"
+    ],
+    "syllabus": "**Course Schedule**\n\nWeek\n\nTopic\n\nObjective\n\nSIOP\n\n1\n\n_National Holiday: No Class_\n\n2\n\nIntroduction to Bilingual Education Lesson Design\n\nStudents can explain the bilingual education lesson design cycle.\n\nAll\n\n3\n\nWriting Lesson Objectives\n\nStudents can write content and language objectives.\n\n1, 2, 23, 24\n\n4\n\nAssignment 1: Syllabus Showcase\n\n5\n\nMultimodality & Questioning Techniques\n\nStudents can use multimodality and questioning in lessons.\n\n4, 12, 15, 16\n\n6\n\nSpeaking Tasks\n\nStudents can create speaking tasks for the subject classroom.\n\n5, 6, 20, 21\n\n7\n\nVocabulary Development\n\nStudents can list and identify three types of vocabulary.\n\n9, 27\n\n8\n\nLiteracy Tasks\n\nStudents can create literacy tasks for the content classroom.\n\n5, 6, 20, 21\n\n9\n\nAssignment 2: Task Showcase\n\n10\n\nClassroom Observation Week (No Class)\n\n11\n\nTranslanguaging\n\nStudents can describe three types of translanguaging.\n\n19\n\n12\n\nBilingual Assessments\n\nStudents can write bilingual assessments for their subject.\n\n27, 28, 29\n\n13\n\nUnit Plan Design\n\nStudents can design a bilingual education unit plan.\n\n1, 2, 3, 4, 6\n\n14\n\nAssignment 3: Unit Plan Presentation\n\n15\n\nAssignment 4: Classroom Observation Presentation\n\n16\n\n**Grading Criteria**\n\n#\n\nAssignment Name\n\nWeight\n\nDescription\n\n1\n\nSyllabus Showcase\n\n20%\n\nStudents will create a 20-week syllabus that states the topic, the content objective, and the language objective. Students will peer review other classmates’ syllabi using a checklist.\n\n2\n\nTask Showcase\n\n20%\n\nStudents will create a communication task aligned with a content objective and facilitate the task for their classmates acting as students.\n\n3\n\nUnit Plan Presentation\n\n20%\n\nStudents will create a unit plan and give an oral presentation explaining the plan’s rationale.\n\n4\n\nClassroom Observation Presentation\n\n20%\n\nStudents will observe a bilingual education classroom during the semester and give an oral presentation on the experience.\n\n5\n\nAttendance and Reflections\n\n20%\n\nStudents are required to attend class. During class, students will discuss issues with their classmates and after class complete an exit ticket to reflect on their learning.",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "Students will learn about various stages of bilingual education lesson design."
+        },
+        {
+            "type": "討論法",
+            "note": "Students will discuss various strategies and materials to support bilingual education students."
+        },
+        {
+            "type": "合作學習",
+            "note": "Students will work in groups to create and present bilingual education materials."
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 20,
+            "note": "Students will complete a weekly exit ticket after each class to reflect on their learning."
+        },
+        {
+            "type": "出席",
+            "weight": 20,
+            "note": "Students will conduct a classroom observation in a bilingual classroom and oral present on the experience"
+        },
+        {
+            "type": "報告",
+            "weight": 60,
+            "note": "[Groups] Students will present (1) a syllabus, (2) communication task, and (3) a unit plan (20% each)."
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

@@ -1,0 +1,94 @@
+{
+    "year": 111,
+    "term": 1,
+    "name": "復健諮商導論",
+    "teachers": [
+        "陳貞夙",
+        "姜義村",
+        "吳亭芳"
+    ],
+    "department": "EU09",
+    "code": "SPU0096",
+    "credit": 3,
+    "serial": 860,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 4,
+            "from": 2,
+            "to": 4,
+            "campus": "本部",
+            "classroom": "特103"
+        }
+    ],
+    "programs": [
+        "音樂輔教學程"
+    ],
+    "comment": "",
+    "restrict": "◎限大一修習",
+    "form_s": "1",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "",
+    "goals": [
+        "瞭解復健諮商理論發展與歷史淵源",
+        "瞭解成年階段身心障礙者復健諮商服務的需求",
+        "初步了解復健諮商的內容",
+        "初步了解復健諮商的服務流程與內容",
+        "瞭解復健諮商的理論基礎",
+        "瞭解復健諮商的專業倫理",
+        "初步瞭解身心障礙復健諮商法規",
+        "提升學習者投身服務障礙者的熱誠與意願(commitment)"
+    ],
+    "syllabus": "  \n[教學進度與主題附件](https://ap.itc.ntnu.edu.tw/NtnuFileShare/file.do?action=dl&gno=4fa9b17b743b4b0f8b3ddb4abb4e4deb&fno=630f1d52bcb646b09d3a42f019200741)",
+    "methodologies": [
+        {
+            "type": "Formal lecture",
+            "note": "Lecturer describe"
+        },
+        {
+            "type": "Group discussion",
+            "note": "Group discussion"
+        },
+        {
+            "type": "Problem base learning",
+            "note": "Problem based learning"
+        },
+        {
+            "type": "Cooperative learning",
+            "note": "group essay"
+        },
+        {
+            "type": "Field work",
+            "note": "Field trip to Vocational Rehabilitation Center  in the Taipei area"
+        },
+        {
+            "type": "Media, audio, visual materials",
+            "note": "Watch a video related to the topic of the course of the week"
+        }
+    ],
+    "grading": [
+        {
+            "type": "Assignments",
+            "weight": 60,
+            "note": "Topic  essay"
+        },
+        {
+            "type": "Class discussion involvement",
+            "weight": 10,
+            "note": "participation in group discussion"
+        },
+        {
+            "type": "Presentation",
+            "weight": 30,
+            "note": "Practical site visit experience report"
+        }
+    ],
+    "prerequisite": "◎Exclusive for freshman",
+    "general_core": []
+}

@@ -1,0 +1,53 @@
+{
+    "year": 111,
+    "term": 1,
+    "name": "游泳（一）",
+    "teachers": [
+        "未定"
+    ],
+    "department": "AU32",
+    "code": "FPU0240",
+    "credit": 2,
+    "serial": 130,
+    "group": "F",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 1,
+            "from": 1,
+            "to": 2,
+            "campus": "本部",
+            "classroom": "游泳館一"
+        }
+    ],
+    "programs": [],
+    "comment": "本課程為【FPU0154 游泳（二）】先修科目",
+    "restrict": "◎限女生修",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 2,
+    "description": "1.學習各種泳姿。\n2.學習游泳指導教學方法",
+    "goals": [
+        "學會各式泳姿"
+    ],
+    "syllabus": "",
+    "methodologies": [
+        {
+            "type": "",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "",
+            "weight": null,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

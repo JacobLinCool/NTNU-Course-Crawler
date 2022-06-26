@@ -1,0 +1,64 @@
+{
+    "year": 111,
+    "term": 1,
+    "name": "統計力學（一）",
+    "teachers": [
+        "李沃龍"
+    ],
+    "department": "SM41",
+    "code": "PHC0019",
+    "credit": 3,
+    "serial": 2673,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 4,
+            "from": 2,
+            "to": 4,
+            "campus": "公館",
+            "classroom": "Ｓ701"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "",
+    "goals": [
+        "Understand the basic concepts and theories of statistical mechanics",
+        "Enhance physics thinking and problem solving skills"
+    ],
+    "syllabus": "Week 1  Review on thermodynamics\n\nWeek 2  The statistical basis of thermodynamics\n\nWeek 3  Linking entropy to the number accessible microstates\n\nWeek 4  Elements of ensemble theory\n\nWeek 5  The canonical Ensemble\n\nWeek 6   Free energy and partition function\n\nWeek 7   Classical ideal gas\n\nWeek 8   Midterm exam\n\nWeek 9   Energy fluctuations\n\nWeek 10  The grand canonical ensemble\n\nWeek 11  Formulation of quantum statistics\n\nWeek 12 Ideal Bose systems (I)\n\nWeek 13 Ideal Bose systems (II)\n\nWeek 14 Idea Fermi systems (I)\n\nWeek 15 Ideal Fermi systems (II)\n\nWeek 16 Final exam",
+    "methodologies": [
+        {
+            "type": "Formal lecture",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "Assignments",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "Midterm Exam",
+            "weight": 35,
+            "note": ""
+        },
+        {
+            "type": "Final exam",
+            "weight": 35,
+            "note": ""
+        }
+    ],
+    "prerequisite": "◎Available for junior and senior year B.A. program students (Doctoral program courses excepted) and M.A. program students.",
+    "general_core": []
+}

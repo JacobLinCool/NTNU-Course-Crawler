@@ -1,0 +1,87 @@
+{
+    "year": 111,
+    "term": 1,
+    "name": "計算機圖學",
+    "teachers": [
+        "王科植"
+    ],
+    "department": "SU47",
+    "code": "CSU0021",
+    "credit": 3,
+    "serial": 3055,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 3,
+            "from": 7,
+            "to": 9,
+            "campus": "公館",
+            "classroom": "理圖801"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "3",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程介紹計算機圖學領域中相關的理論與實作，包含三維繪圖程式之撰寫、三維座標轉換、光影計算、以及繪圖處理器之基本運作原理。",
+    "goals": [
+        "開發3D繪圖程式",
+        "熟悉3D繪圖處理器運作原理及程式介面",
+        "完成高效率及擬真畫質之完整三維繪圖系統"
+    ],
+    "syllabus": "【授課方式：16週】彈性授課方式：學生自主學習\n\n(此課程為英語授課。但也計劃會在課堂前將部分課程內容先以中文解說錄影並上傳Youtube供同學參考)\n\n實作以WebGL為主。\n\n每週三小時課程，課程講解會占大約三分之二，剩餘時間將給同學一個簡單的題目當場實作繳交。\n\n此外，預計有五個左右的實作作業及一個期中考(紙筆考試)、一個期末專題。\n\n(本課程期中考時間應會晚於學校的期中考週)\n\n以下為此課程預計介紹的內容：\n\n•Overview of graphics hardware\n\n•Overview of OpenGL, WebGL, and GLSL\n\n•OpenGL/WebGL simple drawing and coordinate systems\n\n•OpenGL/WebGL vertex buffer objects\n\n•OpenGL shading language: vertex and fragment shaders\n\n•Transformation and shading\n\n•Illumination: flat, gouraud, phong shading\n\n•Visibility and Z-buffer\n\n•Texture mapping: image and procedural textures\n\n•Advanced texture mapping: bump mapping, environment mapping, projective texture mapping\n\n•Real time shadow algorithms\n\n•Advanced topics in shaders: geometry and tessellation shaders\n\n•Advanced topics in rendering and applications",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "問題解決教學",
+            "note": ""
+        },
+        {
+            "type": "合作學習",
+            "note": ""
+        },
+        {
+            "type": "實驗/實作",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 50,
+            "note": "程式實作作業"
+        },
+        {
+            "type": "期中考",
+            "weight": 20,
+            "note": "圖學觀念考試"
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 10,
+            "note": "每週課堂上的實作題目"
+        },
+        {
+            "type": "出席",
+            "weight": 5,
+            "note": ""
+        },
+        {
+            "type": "專題",
+            "weight": 15,
+            "note": "期末專題"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

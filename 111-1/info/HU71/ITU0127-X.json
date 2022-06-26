@@ -1,0 +1,54 @@
+{
+    "year": 111,
+    "term": 1,
+    "name": "程式語言",
+    "teachers": [
+        "未定"
+    ],
+    "department": "HU71",
+    "code": "ITU0127",
+    "credit": 3,
+    "serial": 1223,
+    "group": "",
+    "quota": {
+        "limit": 35,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 4,
+            "from": 2,
+            "to": 4,
+            "campus": "本部",
+            "classroom": "科技系TA509"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎限本系(含雙主修)修習◎限大二◎限甲班修習",
+    "form_s": "2",
+    "classes": "1",
+    "dept_group": "",
+    "hours": 3,
+    "description": "Introductory course to C language programming. The topics include basic syntax and semantics of C language. The course emphasizes problem solving methodology and modular programming techniques.",
+    "goals": [
+        "Understand syntax and semantics of C language",
+        "Problem solving using C language"
+    ],
+    "syllabus": "",
+    "methodologies": [
+        {
+            "type": "",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "",
+            "weight": null,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

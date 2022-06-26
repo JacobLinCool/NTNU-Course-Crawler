@@ -1,0 +1,60 @@
+{
+    "year": 111,
+    "term": 1,
+    "name": "線性代數",
+    "teachers": [
+        "未定"
+    ],
+    "department": "SU47",
+    "code": "CSU0016",
+    "credit": 3,
+    "serial": 3052,
+    "group": "B",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 1,
+            "from": 7,
+            "to": 7,
+            "campus": "公館",
+            "classroom": "理圖003"
+        },
+        {
+            "day": 5,
+            "from": 3,
+            "to": 4,
+            "campus": "公館",
+            "classroom": "理圖003"
+        }
+    ],
+    "programs": [],
+    "comment": "官振傑",
+    "restrict": "",
+    "form_s": "2",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本門課程主要介紹解決線性方程式的各種方法，並且以不同的維度及表示法探討各種線性方程式之間的轉換與關係。",
+    "goals": [
+        "能熟悉資訊基礎理論"
+    ],
+    "syllabus": "",
+    "methodologies": [
+        {
+            "type": "",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "",
+            "weight": null,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

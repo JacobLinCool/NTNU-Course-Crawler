@@ -1,0 +1,63 @@
+{
+    "year": 111,
+    "term": 1,
+    "name": "科學計算導論",
+    "teachers": [
+        "黃聰明"
+    ],
+    "department": "SU40",
+    "code": "MAC9029",
+    "credit": 3,
+    "serial": 2784,
+    "group": "A",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 1,
+            "from": 6,
+            "to": 6,
+            "campus": "公館",
+            "classroom": "理圖807"
+        },
+        {
+            "day": 5,
+            "from": 3,
+            "to": 4,
+            "campus": "公館",
+            "classroom": "理圖002"
+        }
+    ],
+    "programs": [
+        "理工實作學程",
+        "科學計算學程"
+    ],
+    "comment": "本課程可採認為【MAU0019 數值分析（一）】",
+    "restrict": "",
+    "form_s": "",
+    "classes": "9",
+    "dept_group": "",
+    "hours": 3,
+    "description": "",
+    "goals": [
+        ""
+    ],
+    "syllabus": "",
+    "methodologies": [
+        {
+            "type": "",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "",
+            "weight": null,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

@@ -1,0 +1,71 @@
+{
+    "year": 111,
+    "term": 1,
+    "name": "運動專長訓練（一）",
+    "teachers": [
+        "林靜萍"
+    ],
+    "department": "AU30",
+    "code": "PEU0201",
+    "credit": 1,
+    "serial": 105,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 1,
+            "from": 16,
+            "to": 10,
+            "campus": "本部",
+            "classroom": "體001"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "3",
+    "classes": "",
+    "dept_group": "",
+    "hours": 2,
+    "description": "配合學校運動代表隊訓練，培養學生特殊運動專長，並習得競技運動訓練與管理實務經驗。",
+    "goals": [
+        "配合學校運動代表隊訓練，培養學生特殊運動專長，並習得競技運動訓練與管理實務經驗。"
+    ],
+    "syllabus": "第一週 課程說明與溝通\n\n第二至七週：依參加之運動代表隊實施訓練與比賽  \n  \n第八週：期中參賽或觀賽心得  \n  \n第九至十五週：依參加之運動代表隊實施訓練與比賽  \n  \n第十六週：全學期訓練與比賽綜合心得報告",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "教師說明課程進度與方法"
+        },
+        {
+            "type": "合作學習",
+            "note": "同儕合作訓練"
+        },
+        {
+            "type": "實驗/實作",
+            "note": "訓練與比賽"
+        }
+    ],
+    "grading": [
+        {
+            "type": "出席",
+            "weight": 40,
+            "note": "出席訓練情形"
+        },
+        {
+            "type": "報告",
+            "weight": 10,
+            "note": "每月訓練心得日誌"
+        },
+        {
+            "type": "成果展覽",
+            "weight": 50,
+            "note": "比賽成績"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

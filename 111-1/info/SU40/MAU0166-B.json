@@ -1,0 +1,82 @@
+{
+    "year": 111,
+    "term": 1,
+    "name": "代數學（一）",
+    "teachers": [
+        "劉容真"
+    ],
+    "department": "SU40",
+    "code": "MAU0166",
+    "credit": 3,
+    "serial": 2827,
+    "group": "B",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 1,
+            "from": 3,
+            "to": 4,
+            "campus": "公館",
+            "classroom": "Ｅ101"
+        },
+        {
+            "day": 5,
+            "from": 3,
+            "to": 3,
+            "campus": "公館",
+            "classroom": "Ｅ101"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "2",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程讓學生瞭解群、環、體的基本理論，以作為學生未來修習其他進階課程的基礎。",
+    "goals": [
+        "訓練學生掌握抽象代數的基本知識",
+        "訓練學生可以用代數的語言進行溝通、表達、寫作",
+        "培養學生的直覺、欣賞與應用高等代數至其他學科的能力。"
+    ],
+    "syllabus": "1\\. Binary Operations\n\n2\\. Isomorphic Binary Structures\n\n3\\. Groups\n\n4\\. Subgroups\n\n5\\. Cyclic Groups\n\n6\\. Groups of Permutations\n\n7\\. Orbits, Cycles, and the Alternating Groups\n\n8\\. Cosets and the Theorem of Lagrange\n\n9\\. Direct Products and Finitely Generated Abelian Groups\n\n10\\. Homomorphism\n\n11\\. Factor-Groups\n\n12\\. Factor-Group Computations and Simple Groups\n\n13\\. Sylow Theorem and its application",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 11,
+            "note": ""
+        },
+        {
+            "type": "期中考",
+            "weight": 44,
+            "note": "2 Exams"
+        },
+        {
+            "type": "期末考",
+            "weight": 33,
+            "note": ""
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 1,
+            "note": ""
+        },
+        {
+            "type": "其他",
+            "weight": 11,
+            "note": "Quiz"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

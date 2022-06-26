@@ -1,0 +1,84 @@
+{
+    "year": 111,
+    "term": 1,
+    "name": "程式設計（一）",
+    "teachers": [
+        "李良一"
+    ],
+    "department": "EU11",
+    "code": "LSU0001",
+    "credit": 3,
+    "serial": 895,
+    "group": "",
+    "quota": {
+        "limit": 35,
+        "additional": 5
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 8,
+            "to": 10,
+            "campus": "本部",
+            "classroom": "教403"
+        }
+    ],
+    "programs": [
+        "學習與資訊學程",
+        "數位人文與藝術學程"
+    ],
+    "comment": "",
+    "restrict": "◎限學習科學學位學程（學、教院不分系（學）選修",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程介紹 Python之基本概念、技能與實作，包含資料結構與語法、數與運算介紹、實作與資料分析等。",
+    "goals": [
+        "能了解 Python程式設計的基本概念及技能並撰寫程式。",
+        "能根據指定的方法步驟，規畫程式架構、流程並據以實作。"
+    ],
+    "syllabus": "本課程教授Python程式語言\n\n時間\n\n進度\n\n時間\n\n進度\n\n第01周(09/06)\n\n課程說明及Python開發環境\n\n第09周(11/01)\n\nTuple and List(2)\n\n第02周(09/13)\n\nPython Basics\n\n第10周(11/08)\n\nDictionaries and Structuring Data\n\n第03周(09/20)\n\nControl Flow (1)\n\n第11周(11/15)\n\nString\n\n第04周(09/27)\n\nControl Flow (2)\n\n第12周(11/22)\n\nObject Oriented Programming(1)\n\n第05周(10/04)\n\nControl Flow (3)\n\n第13周(11/29)\n\nObject Oriented Programming(2)\n\n第06周(10/11)\n\nFunction\n\n第14周(12/06)\n\nReading and Writing Files(1)\n\n第07周(10/18)\n\nTuple and List(1)\n\n第15周(12/13)\n\nReading and Writing Files(2)\n\n第08周(10/25)\n\n期中考\n\n第16周(12/20)\n\n期末考",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "老師講授自編教材及教科書內容"
+        },
+        {
+            "type": "問題解決教學",
+            "note": "老師會在上課時給予學生學習單及在課後給予作業，學習單及作業內容為程式問題，學生需找出解法。"
+        },
+        {
+            "type": "實驗/實作",
+            "note": "學習單及作業需撰寫程式碼"
+        },
+        {
+            "type": "媒體融入教學",
+            "note": "使用線上學習系統進行教學影片觀看、作業繳交、線上討論及其他線上教學活動。"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 30,
+            "note": "課堂及課後作業，自主學習作業"
+        },
+        {
+            "type": "期中考",
+            "weight": 30,
+            "note": "期中考前老師上課的內容"
+        },
+        {
+            "type": "期末考",
+            "weight": 30,
+            "note": "期末考前老師上課的內容"
+        },
+        {
+            "type": "出席",
+            "weight": 10,
+            "note": "學生出席的次數、課堂討論參與及線上活動參與的積極度"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

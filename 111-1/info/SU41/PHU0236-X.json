@@ -1,0 +1,85 @@
+{
+    "year": 111,
+    "term": 1,
+    "name": "近代物理學（一）",
+    "teachers": [
+        "高賢忠"
+    ],
+    "department": "SU41",
+    "code": "PHU0236",
+    "credit": 3,
+    "serial": 2902,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 3,
+            "to": 4,
+            "campus": "公館",
+            "classroom": "Ｓ504"
+        },
+        {
+            "day": 4,
+            "from": 4,
+            "to": 4,
+            "campus": "公館",
+            "classroom": "Ｓ504"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "3",
+    "classes": "2",
+    "dept_group": "",
+    "hours": 3,
+    "description": "介紹二十世紀初期卜朗克「量子論」興起後的物理學內涵。從黑體輻射開始，引介能量的量子化、光子、物質波、粒子和波動的二象性、測不準原理等重要概念，進而介紹薛丁格量子力學，並由此理解原子和原子核的結構和物理性質，另簡述基本粒子和固態物理的一些進展。",
+    "goals": [
+        "瞭解近代物理的發展過程",
+        "熟悉近代物理的理論和實驗",
+        "引導學生探究更精專的物理新知"
+    ],
+    "syllabus": "week 1-2: Thermal Radiation and Photons\n\nweek 3-4: Introduction of Special relativity\n\nweek 5-6: Matter Waves\n\nweek 7: Borh’s Model of The Atom I\n\nweek 8: Mid-term exam\n\nweek 9: Borh’s Model of The Atom II\n\nweek 10-11: Schrodinger's Theory of Quantum Mechanics\n\nweek 12-13: Solution of Time-Dependent Schrodinger's equations\n\nweek 14-15: One Electron Atoms\n\nweek 16:   Final exam",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": ""
+        },
+        {
+            "type": "問題解決教學",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 30,
+            "note": "作業、小考"
+        },
+        {
+            "type": "期中考",
+            "weight": 25,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 35,
+            "note": ""
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 10,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

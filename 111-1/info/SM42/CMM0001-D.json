@@ -1,0 +1,81 @@
+{
+    "year": 111,
+    "term": 1,
+    "name": "書報討論（一）",
+    "teachers": [
+        "謝明惠"
+    ],
+    "department": "SM42",
+    "code": "CMM0001",
+    "credit": 2,
+    "serial": 2683,
+    "group": "D",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 3,
+            "from": 3,
+            "to": 4,
+            "campus": "公館",
+            "classroom": "Ｃ102"
+        }
+    ],
+    "programs": [],
+    "comment": "大學部已有相似課程，且需要碩士程度背景知識",
+    "restrict": "◎限本系(含雙主修)修習   允許重複修 ◎課程不開放上修",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 2,
+    "description": "The course is to train graduated students how to make an oral presentation for their own experimental results. The student can obtain the following training.",
+    "goals": [
+        "How to make a nice presentation using powerpoint file.",
+        "How to organize the data and make an organized presentation.",
+        "How to summarize all chemical experimental results and make a conclusion."
+    ],
+    "syllabus": "This course is aimed to train the students with the following research abilities.\n\n1\\. How to make a nice presentation using powerpoint file.\n\n2\\. How to organize the data and make an organized presentation.\n\n3\\. How to summarize all chemical experimental results and make a conclusion.",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": ""
+        },
+        {
+            "type": "問題解決教學",
+            "note": ""
+        },
+        {
+            "type": "合作學習",
+            "note": ""
+        },
+        {
+            "type": "媒體融入教學",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "課堂討論參與",
+            "weight": 20,
+            "note": ""
+        },
+        {
+            "type": "出席",
+            "weight": 5,
+            "note": ""
+        },
+        {
+            "type": "報告",
+            "weight": 75,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

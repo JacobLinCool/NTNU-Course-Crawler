@@ -1,0 +1,66 @@
+{
+    "year": 111,
+    "term": 1,
+    "name": "商用微積分",
+    "teachers": [
+        "何宗武"
+    ],
+    "department": "OU57",
+    "code": "BAU0064",
+    "credit": 3,
+    "serial": 2488,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 5,
+            "from": 7,
+            "to": 9,
+            "campus": "本部",
+            "classroom": "樸401"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎限大一修習",
+    "form_s": "1",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程介紹微分基本概念與其在財務、經濟、管理和其它領域的應用。",
+    "goals": [
+        "增進數學分析基本概念的理解，使得學生學習管理數學之技巧",
+        "增進邏輯推理與歸納的能力",
+        "增進數學思維與批判性思考的能力",
+        "增進專業知識及追求真理的態度，助學生在管理數學領域上的學習與運用"
+    ],
+    "syllabus": "週次\n\n日期\n\n星期\n\n進度\n\n1\n\n9月24日\n\n星期五\n\n函數的觀念、極限與連續\n\n2\n\n10月1日\n\n星期五\n\n單變數微分-- 冪函數的導函數與導數\n\n3\n\n10月8日\n\n星期五\n\n導數的三個意義、高階微分\n\n4\n\n10月15日\n\n星期五\n\n多變數偏微分和全微分\n\n5\n\n10月22日\n\n星期五\n\n續\n\n6\n\n10月29日\n\n星期五\n\n第一次筆試(一小時)\n\n7\n\n11月5日\n\n星期五\n\n單變數指數對數函數的導函數與導數\n\n8\n\n11月12日\n\n星期五\n\n多變數偏微分和全微分\n\n9\n\n11月19日\n\n星期五\n\n續\n\n10\n\n11月26日\n\n星期五\n\n微分應用問題\n\n11\n\n12月3日\n\n星期五\n\n第二次筆試(一小時)\n\n12\n\n12月10日\n\n星期五\n\n微積分基本定理\n\n13\n\n12月17日\n\n星期五\n\n積分方法之1：代換法\n\n14\n\n12月24日\n\n星期五\n\n積分方法之2：分部積分\n\n15\n\n12月31日\n\n星期五\n\n多重積分\n\n16\n\n1月7日\n\n星期五\n\n期末考\n\n17\n\n1月14日\n\n星期五\n\nPython教學\n\n18\n\n1月21日\n\n星期五\n\nPython教學",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "上課講解與Python實做練習"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 20,
+            "note": "隨堂測驗"
+        },
+        {
+            "type": "期中考",
+            "weight": 50,
+            "note": "筆試兩次"
+        },
+        {
+            "type": "期末考",
+            "weight": 30,
+            "note": "筆試"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

@@ -1,0 +1,98 @@
+{
+    "year": 111,
+    "term": 1,
+    "name": "線上課程設計",
+    "teachers": [
+        "張欣怡"
+    ],
+    "department": "EU11",
+    "code": "LSU0020",
+    "credit": 3,
+    "serial": 898,
+    "group": "",
+    "quota": {
+        "limit": 45,
+        "additional": 3
+    },
+    "schedule": [
+        {
+            "day": 4,
+            "from": 2,
+            "to": 4,
+            "campus": "本部",
+            "classroom": "正101"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "",
+    "goals": [
+        "促使學生深入理解知識整合與相關教學理論，並獲得設計線上課程與評量之能力。"
+    ],
+    "syllabus": "Please be aware that this course is offered in English. \n\nTopics included in this course:\n\n*   Learning theories for online education\n*   Design frameworks and principles for online course design\n*   Trends and findings of research on online learning\n*   Overview and critique of online learning systems: current state and potential\n*   Innovative technology for online courses\n*   Online course design projects for various subject areas and educational levels\n*   Evaluation of online learning",
+    "methodologies": [
+        {
+            "type": "Formal lecture",
+            "note": "Instructor will provide introduction of online learning theories and design frameworks."
+        },
+        {
+            "type": "Group discussion",
+            "note": "Students will be guided during class for whole class and small group discussions."
+        },
+        {
+            "type": "Problem base learning",
+            "note": "Students will be guided to analyze current issues and problems in online learning and discuss possible solutions."
+        },
+        {
+            "type": "Cooperative learning",
+            "note": "Students will work in groups for course assignments and discussions."
+        },
+        {
+            "type": "Lab/Studio",
+            "note": "Students will engage in projects designing online courses."
+        },
+        {
+            "type": "Media, audio, visual materials",
+            "note": "Students will be guided to incorporate multimedia and innovative technology in their online course design."
+        }
+    ],
+    "grading": [
+        {
+            "type": "Assignments",
+            "weight": 40,
+            "note": "Course assignments before, during or after class"
+        },
+        {
+            "type": "Class discussion involvement",
+            "weight": 25,
+            "note": "Active participation in class discussion is required."
+        },
+        {
+            "type": "Attendances",
+            "weight": 10,
+            "note": "Class attendance is mandatory."
+        },
+        {
+            "type": "Presentation",
+            "weight": 10,
+            "note": "Mid-term report: critique of an online course design"
+        },
+        {
+            "type": "Shows/ Exhibitions",
+            "weight": 5,
+            "note": "Presentation of final project"
+        },
+        {
+            "type": "Case study reports",
+            "weight": 10,
+            "note": "Final project: An online course design"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

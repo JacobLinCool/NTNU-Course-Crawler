@@ -1,0 +1,76 @@
+{
+    "year": 111,
+    "term": 1,
+    "name": "武術（一）",
+    "teachers": [
+        "王宏豪"
+    ],
+    "department": "AU30",
+    "code": "PEU0260",
+    "credit": 2,
+    "serial": 94,
+    "group": "M",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 3,
+            "to": 4,
+            "campus": "本部",
+            "classroom": "武術房一"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎限男生修",
+    "form_s": "2",
+    "classes": "",
+    "dept_group": "",
+    "hours": 2,
+    "description": "武術（一）",
+    "goals": [
+        "1",
+        "2"
+    ],
+    "syllabus": "週次\n\n日期\n\n教             學             進             度\n\n一\n\n09/10\n\n課程綱要介紹\n\n二\n\n09/17\n\n基本功操、基本動作（手型與手法介紹）\n\n三\n\n09/24\n\n步型組合動作－弓馬步組合、虛仆歇步組合\n\n四\n\n10/02\n\n步型組合動作－虛仆歇步組合、五步拳\n\n五\n\n10/08\n\n腿法組合動作－里合正踢腿組合、拍腳側踹組合\n\n六\n\n10/15\n\n腿法組合動作－拍腳側踹組合、前掃後掃腿組合\n\n七\n\n10/22\n\n彈性課程\n\n八\n\n10/29\n\n跳躍組合動作－騰空飛腳與仆步組合、旋風腳與馬步組合\n\n九\n\n11/05\n\n期中測驗\n\n十\n\n11/12\n\n武術套路影片觀摩\n\n十一\n\n11/19\n\n武術基本拳小組合（一）\n\n十二\n\n11/26\n\n武術基本拳小組合（二）\n\n十三\n\n12/03\n\n武術基本拳小組合（三）\n\n十四\n\n12/10\n\n武術基本拳套路（上）\n\n十五\n\n12/17\n\n武術基本拳套路（上）\n\n十六\n\n12/24\n\n武術基本拳套路（上）\n\n十七\n\n12/31\n\n武術基本拳套路（上）總複習、期末測驗\n\n十八\n\n01/07\n\n期末測驗補考",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "問題解決教學",
+            "note": ""
+        },
+        {
+            "type": "合作學習",
+            "note": ""
+        },
+        {
+            "type": "實驗/實作",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "期中考",
+            "weight": 40,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "出席",
+            "weight": 30,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

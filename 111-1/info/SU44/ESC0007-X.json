@@ -1,0 +1,81 @@
+{
+    "year": 111,
+    "term": 1,
+    "name": "時序分析",
+    "teachers": [
+        "林佩瑩",
+        "未定"
+    ],
+    "department": "SU44",
+    "code": "ESC0007",
+    "credit": 3,
+    "serial": 3000,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 3,
+            "from": 7,
+            "to": 9,
+            "campus": "公館",
+            "classroom": "Ｓ404"
+        }
+    ],
+    "programs": [],
+    "comment": "趙丰(兼任教師)；中階以上課程，適合大三以上學生修習，以作為探究研究所之先修課程，同時也開放碩士班無此課程基礎之學生選修。",
+    "restrict": "◎限大三大四 ◎限碩一碩二碩三以上修習",
+    "form_s": "",
+    "classes": "9",
+    "dept_group": "",
+    "hours": 3,
+    "description": "工程、物理、生物、醫學、社會科學、經濟學等的從業者及研究者經常都從事於一序列數據的分析工作，而這種數據分析的目的在於建立一個簡明而易於了解的系統數學模式來描述此系統之特性，而這種模式可用來在改變的環境下研究此系統並預測此系統的反應。系統之鑑定、預測、分析、控制，乃至於設計等等都是極為重要的課題。時間序列分析已被證實為解決此等問題之最有效工具。",
+    "goals": [
+        "在地球科學上常利用觀測到的物理或化學上的數據(如地震、地磁、地溫梯度、地下水位、地層某化學元素含量、天文、氣象)，進而以數學模式來描述地球系統--地球內部構造及組成。進而瞭解地球的過去、現在、及未來。"
+    ],
+    "syllabus": "這學期由趙丰老師與林佩瑩老師共同授課。三小時課程安排，第一與第二堂課教授時序分析觀念，第三堂課將使用程式呈現出前兩堂課所學內容。\n\n第01週：課程介紹與分組\n\n第02週：資料數位化\n\n第03週：內積、分解\n\n第04週：線性系統與線性代數\n\n第05週：格林函數\n\n第06週：傅立葉變換\n\n第07週：取樣、映頻、解析度\n\n第08週：卷積、解迴旋、調變\n\n第09週：濾波\n\n第10週：基礎統計\n\n第11週：時頻譜\n\n第12週：頻譜分析\n\n第13週：資料疊加法\n\n第14週：主成份分析法\n\n第15週：專題研究資料分析，解釋與報告分享\n\n第16週：專題研究資料分析，解釋與報告分享\n\nWeak1: Course introduction\n\nWeak2: Digitization\n\nWeak3: Inner product/ Decomposition\n\nWeak4: Linear system and transform\n\nWeak5: Green's function\n\nWeak6: Fourier transform\n\nWeak7: Sampling/ Aliasing/ Resolution\n\nWeak8: Convolution/ Deconvolution/ Modulation\n\nWeak9: Windowing/ Filtering\n\nWeak10: Statistics basics\n\nWeak11: Spectrum\n\nWeak12: Spectral estimation methods\n\nWeak13: Data stacking methods\n\nWeak14: Principal component analysis  \n\nWeak15: Term project report and discussion\n\nWeak16: Term project report and discussion",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": ""
+        },
+        {
+            "type": "問題解決教學",
+            "note": ""
+        },
+        {
+            "type": "專題研究",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 50,
+            "note": "Assignment + in-class activities"
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 10,
+            "note": ""
+        },
+        {
+            "type": "專題",
+            "weight": 20,
+            "note": "Term projects report (oral presentation + paper report )"
+        },
+        {
+            "type": "其他",
+            "weight": 20,
+            "note": "Unscheduled quizzes"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

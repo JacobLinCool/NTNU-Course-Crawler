@@ -1,0 +1,79 @@
+{
+    "year": 111,
+    "term": 1,
+    "name": "資料探勘",
+    "teachers": [
+        "柯佳伶"
+    ],
+    "department": "SU47",
+    "code": "CSC0001",
+    "credit": 3,
+    "serial": 3036,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 5,
+            "from": 2,
+            "to": 4,
+            "campus": "公館",
+            "classroom": "Ｂ101"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "",
+    "classes": "9",
+    "dept_group": "",
+    "hours": 3,
+    "description": "教授資料探勘中資料前處理之基本概念及方法，以及探勘資料分類、關聯規則、和聚落分析各種基本重要的資料探勘演算法。本課程可提供同學對資料探勘技術設計及運用的基礎認識。",
+    "goals": [
+        "使學生了解資料探勘方法設計概念並學習常見處理演算法",
+        "培養學生比較及評估不同演算法的能力，並能選擇適當演算法進行資料探勘分析",
+        "使學生了解資料探勘技術應用以及新的研究議題"
+    ],
+    "syllabus": "week 1 Introduction  \nweek 2 Data  \nweek 3 Exploring Data  \nweek 4 Association Analysis(basic concepts)  \nweek 5 Association Analysis(basic concepts)  \nweek 6 Association Analysis(advanced concepts)  \nweek 7 Association Analysis(advanced concepts)  \nweek 8 Classification(basic concepts)  \nweek 9 Classification(basic concepts)  \nweek 10 Classification(basic concepts)  \nweek 11 Midterm Exam.  \nweek 12 Classification(alternative techniques)  \nweek 13 Classification(alternative techniques)  \nweek 14 Clustering(basic concepts)  \nweek 15 Clustering(basic concepts)  \nweek 16 Clustering(alternative techniques)  \nweek 17 Research problems of data mining  \nweek 18 Final Exam.",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "合作學習",
+            "note": "在課堂中提出問題, 由小組進行討論後回答"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 20,
+            "note": "評估學生對資料探勘演算法概念的了解"
+        },
+        {
+            "type": "期中考",
+            "weight": 25,
+            "note": "評估學生對資料探勘演算法概念的了解"
+        },
+        {
+            "type": "期末考",
+            "weight": 25,
+            "note": "評估學生對資料探勘演算法概念的了解"
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 15,
+            "note": ""
+        },
+        {
+            "type": "專題",
+            "weight": 15,
+            "note": "評估學生實作及評估比較不同演算法的深度"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

@@ -1,0 +1,67 @@
+{
+    "year": 111,
+    "term": 1,
+    "name": "生物資訊學導論",
+    "teachers": [
+        "沈林琥"
+    ],
+    "department": "SU43",
+    "code": "BIU0155",
+    "credit": 3,
+    "serial": 2988,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 4,
+            "from": 10,
+            "to": 12,
+            "campus": "公館",
+            "classroom": "理圖801"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "3",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程期望使不同領域的同學明瞭後基因體時代生物資訊學的內容，\n此學門演進的過程、所包含的範疇，並介紹基本電腦分析軟體在醫學檢測、生物農業、生態環境的應用。\n使同學學習並使用各種工具、資料庫，課程以資訊、數學、工程、統計、生物各方面來介紹生物資訊學，以深入淺出的方式引導初學者修習課程，\n使同學能掌握時代的脈動，培養跨領域優勢與多元核心職能，提升學生競爭力。",
+    "goals": [
+        "使同學學習並使用各種工具、資料庫，課程以資訊、數學、工程、統計、生物各方面來介紹生物資訊學，以深入淺出的方式引導初學者修習課程，"
+    ],
+    "syllabus": "Introduction of Bioinformatics\n\nThe Central Dogma\n\nIntroduction to Biological Databases-\n\nPublic databases and data formats\n\nSearch Engines\n\nMultiple sequence alignment\n\nComputational Methods Used in Bioinformatics-\n\nModeling and Simulation\n\nData Visualization\n\nBiochemical stimulation\n\nApplications of Statistics in Bioinformatics.\n\nWhole genome analysis\n\nMachine Learning\n\nIntroduction of Microarray-\n\nQuality Control\n\nMicroarray Data Analysis and Applications\n\nPublic Microarray Data Extraction\n\nComparative Genome Analysis\n\nSingle Nucleotide Polymorphisms (SNPs)\n\nGene Ontology\n\nGenome and Annotation Databases\n\nDrug Discovery\n\nData Mining Technology\n\nPattern Matching\n\nText Mining\n\nKnowledge discovery （KDD）  \n  \nFlexible supplementary teaching-I & II",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "期中考",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 40,
+            "note": ""
+        },
+        {
+            "type": "出席",
+            "weight": 30,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

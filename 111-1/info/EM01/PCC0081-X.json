@@ -1,0 +1,68 @@
+{
+    "year": 111,
+    "term": 1,
+    "name": "團體諮商理論與技術",
+    "teachers": [
+        "姜兆眉"
+    ],
+    "department": "EM01",
+    "code": "PCC0081",
+    "credit": 3,
+    "serial": 401,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 2,
+            "to": 4,
+            "campus": "本部",
+            "classroom": "教602"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎必須先修過【PCM0089  諮商理論專題研究】◎必須先修過(也可以同時修)【PCM0072  諮商技術專題研究】◎必須先修過【PCU0011  團體輔導】、【PCU0103  團體動力學】其中一門 ◎課程不開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "1.\t學習團體諮商之相關理論基礎  2.\t瞭解團體諮商之動力、發展歷程與相關實務應用  3.\t發展個人從事團體諮商之興趣、能力與適當態度",
+    "goals": [
+        "學習團體諮商之相關理論基礎",
+        "瞭解團體諮商之動力、發展歷程與相關實務應用",
+        "發展個人從事團體諮商之興趣、能力與適當態度"
+    ],
+    "syllabus": "  \n[教學進度與主題附件](https://ap.itc.ntnu.edu.tw/NtnuFileShare/file.do?action=dl&gno=1d3e238adeeb4a218bb0d9f5460244c6&fno=276bb260c19f4ab993f43f8102ae9006)",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "教師講授基礎概念、小組導讀"
+        },
+        {
+            "type": "討論法",
+            "note": "小組討論、團體討論"
+        },
+        {
+            "type": "實驗/實作",
+            "note": "實際帶領模擬團體諮商"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 80,
+            "note": "小組導讀作業、個人作業、每週閱讀摘述與學習反思、團體計劃書與方案書寫、團體實作"
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 20,
+            "note": "出缺席與課堂討論"
+        }
+    ],
+    "prerequisite": "◎必須先修過【PCM0089  諮商理論專題研究】◎必須先修過(也可以同時修)【PCM0072  諮商技術專題研究】◎必須先修過【PCU0011  團體輔導】、【PCU0103  團體動力學】其中一門",
+    "general_core": []
+}

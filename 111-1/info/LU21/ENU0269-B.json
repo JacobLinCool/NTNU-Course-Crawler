@@ -1,0 +1,83 @@
+{
+    "year": 111,
+    "term": 1,
+    "name": "英語會話（一）",
+    "teachers": [
+        "常紹如"
+    ],
+    "department": "LU21",
+    "code": "ENU0269",
+    "credit": 2,
+    "serial": 1817,
+    "group": "B",
+    "quota": {
+        "limit": 25,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 4,
+            "from": 8,
+            "to": 9,
+            "campus": "本部",
+            "classroom": "正302"
+        }
+    ],
+    "programs": [],
+    "comment": "建議修習輔系第一年時選修",
+    "restrict": "◎限本系(含雙主修)、輔系修習◎限大一修習",
+    "form_s": "1",
+    "classes": "2",
+    "dept_group": "",
+    "hours": 2,
+    "description": "",
+    "goals": [
+        "to elevate students’ confidence and motivation to participate in English conversation",
+        "to broaden their knowledge pertaining to English conversation",
+        "to enhance their skills in conducting English conversation"
+    ],
+    "syllabus": "**Week**\n\n**Content**\n\n1-2\n\n3-7\n\n8-11\n\n12-14\n\n15-18\n\nOrientation\n\nEnglish Conversation: An Overview on Attitudes, Knowledge, and Skills  \n\n**Part I: Starting a Conversation**\n\nGreeting and Greeting in Passing _**Vocabulary Presentation (VP):**_\n\nSelf- and Third-person Introduction _**VP**_  \n\nConversation Openers (with friends vs. with strangers)\n\nSkill Review & Clinical Time\n\n**Part II: Sustaining a Conversation**\n\nToken & Engaged Responses\n\nDisclaimers & Asking Questions _**VP**_  \n\nFillers & Self-disclosure\n\nBody Language _**VP**_\n\nSkill Review & Clinical Time\n\n**Part II: Ending a Conversation** \n\nPre-closing & Closing _**VP**_\n\nClinical Time\n\n**Assessment, Debriefing & Wrap-up**\n\nAssessment 1\n\nAssessment 2 \n\nGrading Policy \n\nAssessments: 40% (20% each)\n\nClinical Time: 20%\n\nVocabulary Presentation (VP): 20%\n\nQuizzes: 10%\n\nClass Attendance & Participation: 10%",
+    "methodologies": [
+        {
+            "type": "Formal lecture",
+            "note": ""
+        },
+        {
+            "type": "Group discussion",
+            "note": "Different conversational strategies or skills will be brought to students' attention and the ways of implementing these different strategies or skills will be brainstormed and discussed."
+        },
+        {
+            "type": "Cooperative learning",
+            "note": "Students will discuss with their group members over questions concerning various conversational scenarios, strategies, or skills, and reflect on their personal strengths and weaknesses."
+        }
+    ],
+    "grading": [
+        {
+            "type": "Assignments",
+            "weight": 25,
+            "note": "Conversational competence self-assessment report"
+        },
+        {
+            "type": "Final exam",
+            "weight": 40,
+            "note": "A two-part final exam: Conversation with friends/acquaintances + Conversation with total strangers"
+        },
+        {
+            "type": "Class discussion involvement",
+            "weight": 5,
+            "note": ""
+        },
+        {
+            "type": "Presentation",
+            "weight": 20,
+            "note": "Vocabulary presentation on a common conversational topic"
+        },
+        {
+            "type": "other:",
+            "weight": 10,
+            "note": "quizzes on vocabulary introduced in the vocabulary presentation"
+        }
+    ],
+    "prerequisite": "◎Exclusive for students within this department(including dual degree program) ◎Exclusive for students taking minor within this department ◎Exclusive for freshman",
+    "general_core": []
+}

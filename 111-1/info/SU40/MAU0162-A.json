@@ -1,0 +1,62 @@
+{
+    "year": 111,
+    "term": 1,
+    "name": "高等微積分（一）",
+    "teachers": [
+        "林惠娥"
+    ],
+    "department": "SU40",
+    "code": "MAU0162",
+    "credit": 4,
+    "serial": 2824,
+    "group": "A",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 3,
+            "to": 4,
+            "campus": "公館",
+            "classroom": "Ｓ602"
+        },
+        {
+            "day": 4,
+            "from": 6,
+            "to": 7,
+            "campus": "公館",
+            "classroom": "Ｓ602"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎必須先修過【MAU0179  微積分甲（二）】",
+    "form_s": "2",
+    "classes": "",
+    "dept_group": "",
+    "hours": 4,
+    "description": "深入探討微積分所需之理論，並為往後之數學分析建立紮實的基礎。",
+    "goals": [
+        "瞭解微積分的理論基礎",
+        "增進抽象理論思考能力",
+        "提升邏輯論證層次"
+    ],
+    "syllabus": "",
+    "methodologies": [
+        {
+            "type": "",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "",
+            "weight": null,
+            "note": ""
+        }
+    ],
+    "prerequisite": "◎必須先修過【MAU0179  微積分甲（二）】",
+    "general_core": []
+}

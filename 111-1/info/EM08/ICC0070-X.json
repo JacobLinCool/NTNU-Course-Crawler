@@ -1,0 +1,69 @@
+{
+    "year": 111,
+    "term": 1,
+    "name": "資訊教育書文導讀",
+    "teachers": [
+        "李文瑜"
+    ],
+    "department": "EM08",
+    "code": "ICC0070",
+    "credit": 3,
+    "serial": 485,
+    "group": "",
+    "quota": {
+        "limit": 30,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 5,
+            "from": 2,
+            "to": 4,
+            "campus": "本部",
+            "classroom": "教1011"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "",
+    "goals": [
+        "學生能了解資訊科技教育融入教學之重要概念與發展趨勢",
+        "學生能認識數位學習管理系統之功能與應用實例",
+        "學生能評析資訊科技融入教學實施案例之優劣",
+        "學生能評析數位學習實施案例之優劣"
+    ],
+    "syllabus": "待更新",
+    "methodologies": [
+        {
+            "type": "Formal lecture",
+            "note": ""
+        },
+        {
+            "type": "Group discussion",
+            "note": ""
+        },
+        {
+            "type": "Media, audio, visual materials",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "Assignments",
+            "weight": 10,
+            "note": "學生於課後觀看指定之教材並繳交心得報告"
+        },
+        {
+            "type": "Midterm Exam",
+            "weight": 90,
+            "note": "每週小考"
+        }
+    ],
+    "prerequisite": "◎Available for junior and senior year B.A. program students (Doctoral program courses excepted) and M.A. program students.",
+    "general_core": []
+}

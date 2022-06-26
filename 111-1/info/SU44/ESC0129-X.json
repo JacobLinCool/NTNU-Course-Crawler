@@ -1,0 +1,72 @@
+{
+    "year": 111,
+    "term": 1,
+    "name": "地球化學",
+    "teachers": [
+        "謝奈特"
+    ],
+    "department": "SU44",
+    "code": "ESC0129",
+    "credit": 3,
+    "serial": 3005,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 3,
+            "from": 7,
+            "to": 9,
+            "campus": "公館",
+            "classroom": "Ｃ403"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎限大三大四 ◎限碩一碩二碩三以上修習",
+    "form_s": "",
+    "classes": "9",
+    "dept_group": "",
+    "hours": 3,
+    "description": "",
+    "goals": [
+        "An introduction to the chemical processes that influence the solid Earth system."
+    ],
+    "syllabus": "Week 1    Introduction to geochemistry/Origin of elements\n\nWeek 2    Chemical Differentiation of the Earth\n\nWeek 3    Properties of Elements (i.e. chemical bonding, ionic radii)\n\nWeek 4    Element Transport\n\nWeek 5    Geochronology\n\nWeek 6    Radiogenic Isotopes\n\nWeek 7    Stable Isotopes\n\nWeek 8    Mid-term exam\n\nWeek 9    Geochemical Cycles\n\nWeek 10  Environments\n\nWeek 11  Geochemistry in Sedimentary Petrology\n\nWeek 12  Geochemistry in Metamorphic Petrology\n\nWeek 13  Geochemistry in Igneous Petrology\n\nWeek 14  Class presentations\n\nWeek 15  Class presentations\n\nWeek 16 Final Exam",
+    "methodologies": [
+        {
+            "type": "Formal lecture",
+            "note": ""
+        },
+        {
+            "type": "Group discussion",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "Assignments",
+            "weight": 10,
+            "note": ""
+        },
+        {
+            "type": "Midterm Exam",
+            "weight": 35,
+            "note": ""
+        },
+        {
+            "type": "Final exam",
+            "weight": 35,
+            "note": ""
+        },
+        {
+            "type": "Presentation",
+            "weight": 20,
+            "note": ""
+        }
+    ],
+    "prerequisite": "◎Exclusive for junior, senior ◎Exclusive for first year of graduate school, second year of graduate school, third year and above of graduate school",
+    "general_core": []
+}

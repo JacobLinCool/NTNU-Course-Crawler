@@ -1,0 +1,80 @@
+{
+    "year": 111,
+    "term": 1,
+    "name": "有機光譜學",
+    "teachers": [
+        "簡敦誠"
+    ],
+    "department": "SM42",
+    "code": "CMM0191",
+    "credit": 3,
+    "serial": 2687,
+    "group": "",
+    "quota": {
+        "limit": 40,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 5,
+            "from": 2,
+            "to": 4,
+            "campus": "公館",
+            "classroom": "Ｃ105"
+        }
+    ],
+    "programs": [],
+    "comment": "大學部已有相同課程",
+    "restrict": "◎限本系(含雙主修)修習 ◎課程不開放上修",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "針對化學研究所學生，教授有機化學相關之光譜學知識以及對有機未知物進行結構的鑑定及分析",
+    "goals": [
+        "針對化學研究所學生，教授有機化學相關之光譜學知識以及對有機未知物進行結構的鑑定及分析"
+    ],
+    "syllabus": "1\\. 有機光譜學之簡介 (introduction)  \n2\\. 元素分析 (EA: elemental analysis)  \n3\\. 紅外線光譜學 (IR: infared)  \n4\\. 紫外線暨可見光譜學 (UV: ultraviolet-visible)  \n5\\. 核磁共振光譜學 (NMR: nuclear magnetic resonance)  \n6\\. 二維核磁共振光譜學 (2D NMR: two dimension nuclear magnetic resonance)  \n7\\. 光譜綜合應用於結構鑑定 (application)\n\n課本:\n\nPavia, D. L., Lampman, G. M., Kriz, G. S. & Vyvyan, J. R. (2015), Introduction to spectroscopy (5th ed). Brooks/Cole, Cengage Learning.\n\n主要參考資料:\n\nSilverstein, R. M., Webster, F. X., Kiemle, D. J., & Bryce, D. L. (2015), Spectrometric identification of organic compounds (8th ed). John Wiley & Sons.\n\n其他參考資料:\n\nPretsch, E., Badertscher, M., & Buhlmann, P. (2009), Structure determination of organic compounds: tables of spectral Data (4th Ed). Springer-Verlag Berlin Heidelberg.\n\n[http://dx.doi.org/10.1007/978-3-540-93810-1](http://dx.doi.org/10.1007/978-3-540-93810-1)\n\nNakanishi, K. (Editor) (1990), One-dimensional and Two-dimensional NMR Spectra by Modern Pulse Techniques. Univ Science Books.\n\nMcLafferty, F. W., Turecek, F. (1993), Interpretation of mass spectra (4th Ed.). University Science Books.",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": ""
+        },
+        {
+            "type": "問題解決教學",
+            "note": ""
+        },
+        {
+            "type": "其他",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "期中考",
+            "weight": 40,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 40,
+            "note": ""
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 10,
+            "note": ""
+        },
+        {
+            "type": "出席",
+            "weight": 10,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

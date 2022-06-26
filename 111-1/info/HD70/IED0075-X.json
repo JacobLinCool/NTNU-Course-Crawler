@@ -1,0 +1,76 @@
+{
+    "year": 111,
+    "term": 1,
+    "name": "技職教育哲學",
+    "teachers": [
+        "胡茹萍"
+    ],
+    "department": "HD70",
+    "code": "IED0075",
+    "credit": 2,
+    "serial": 1097,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 3,
+            "to": 4,
+            "campus": "本部",
+            "classroom": "研討四"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 2,
+    "description": "",
+    "goals": [
+        "探討技職教育的本質",
+        "探討技職教育的價值"
+    ],
+    "syllabus": "week\n\ntopic\n\n1\n\nIntroduction\n\n2-5\n\nPurpose of Technical and vocational education\n\nPhilosophy of career and technical education\n\n6-10\n\nThe German philosophy of vocational education\n\nSocial justice and vocational education\n\n11-13\n\nDiscussion of term paper\n\n14-16\n\nPresentation of term paper",
+    "methodologies": [
+        {
+            "type": "Formal lecture",
+            "note": ""
+        },
+        {
+            "type": "Group discussion",
+            "note": ""
+        },
+        {
+            "type": "Problem base learning",
+            "note": ""
+        },
+        {
+            "type": "Case studies",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "Assignments",
+            "weight": 30,
+            "note": "針對指定閱讀之文獻，撰寫摘要"
+        },
+        {
+            "type": "Class discussion involvement",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "Presentation",
+            "weight": 40,
+            "note": ""
+        }
+    ],
+    "prerequisite": "◎Available for junior and senior year B.A. program students (Doctoral program courses excepted) and M.A. program students.",
+    "general_core": []
+}

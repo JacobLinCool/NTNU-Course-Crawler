@@ -1,0 +1,79 @@
+{
+    "year": 111,
+    "term": 1,
+    "name": "行銷管理",
+    "teachers": [
+        "蕭中強"
+    ],
+    "department": "OM55",
+    "code": "MBM0002",
+    "credit": 3,
+    "serial": 2449,
+    "group": "",
+    "quota": {
+        "limit": 35,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 5,
+            "from": 2,
+            "to": 4,
+            "campus": "本部",
+            "classroom": "綜508會議室"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎限本系(含雙主修)修習 ◎課程不開放上修",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "",
+    "goals": [
+        "知識/認知",
+        "職能導向",
+        "個人特質",
+        "價值/倫理"
+    ],
+    "syllabus": "1 課程介紹  \n2 Chapter 1 Define Marketing for the 21st Century\n\nChapter 3 Gathering Information and Scanning the environment3 Chapter 2 Developing Marketing Strategies and Plans  \n4 Chapter 11 Dealing with Competition  \n5 Chapter 6 Analyzing Consumer Markets  \n6 Chapter 6 Analyzing Consumer Markets  \n7 Chapter 8 Identifying Market Segments and Targets  \n8 Chapter 10 Crafting the Brand Positioning  \n9 期中考  \n10 Chapter 12 Setting Product Strategy  \n11 Chapter 9 Creating Brand Equity  \n12 Chapter 20 Introducing New Market Offerings  \n   Chapter 10 Crafting the Brand Positioning  \n13 Chapter 13 Designing and Managing Services  \n14 Chapter 14 Developing Pricing Strategies and Programs  \n15 Chapter 15 Designing and Managing Marketing Channels and Value Networks  \n16 Chapter 17 Designing and Managing Integrated Marketing Communications\n\n17 Chapter 18 Managing Mass Communications: Advertising, Sales Promotion, Events and Public Relations\n\n18 期末考",
+    "methodologies": [
+        {
+            "type": "Formal lecture",
+            "note": "以投影片講述各週主題的基本內容"
+        },
+        {
+            "type": "Group discussion",
+            "note": "配合每週主題融入多個企業實務討論"
+        },
+        {
+            "type": "Case studies",
+            "note": "期末繳交小組專題報告"
+        }
+    ],
+    "grading": [
+        {
+            "type": "Midterm Exam",
+            "weight": 35,
+            "note": ""
+        },
+        {
+            "type": "Final exam",
+            "weight": 35,
+            "note": ""
+        },
+        {
+            "type": "Class discussion involvement",
+            "weight": 10,
+            "note": "包含出席成績"
+        },
+        {
+            "type": "Presentation",
+            "weight": 20,
+            "note": "期末報告"
+        }
+    ],
+    "prerequisite": "◎Exclusive for students within this department(including dual degree program) ◎Unavailable for M.A. program students (M.A. program courses excepted) and B.A. program students.",
+    "general_core": []
+}

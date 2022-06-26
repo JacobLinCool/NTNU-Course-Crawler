@@ -1,0 +1,559 @@
+[
+    {
+        "year": 111,
+        "term": 1,
+        "name": "資優學生心理與教育研究",
+        "teachers": [
+            "郭靜姿"
+        ],
+        "department": "EM09",
+        "code": "SPM0038",
+        "credit": 2,
+        "serial": 491,
+        "group": "",
+        "quota": {
+            "limit": 30,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 9,
+                "to": 10,
+                "campus": "本部",
+                "classroom": "特230"
+            }
+        ],
+        "programs": [
+            "學校心理學學程"
+        ],
+        "comment": "",
+        "restrict": "◎課程開放上修",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "身心障礙教育實務",
+        "teachers": [
+            "佘永吉"
+        ],
+        "department": "EM09",
+        "code": "SPM0046",
+        "credit": 2,
+        "serial": 492,
+        "group": "",
+        "quota": {
+            "limit": 30,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 10,
+                "to": 11,
+                "campus": "本部",
+                "classroom": "特227"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎必須先修過【SPC0059  特殊教育專題討論（一）】、【SPC0060  特殊教育專題討論（二）】其中一門 ◎課程開放上修",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "資優教育實務",
+        "teachers": [
+            "于曉平"
+        ],
+        "department": "EM09",
+        "code": "SPM0047",
+        "credit": 2,
+        "serial": 493,
+        "group": "",
+        "quota": {
+            "limit": 30,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 10,
+                "to": 11,
+                "campus": "本部",
+                "classroom": "特230"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎必須先修過【SPC0059  特殊教育專題討論（一）】、【SPC0060  特殊教育專題討論（二）】其中一門 ◎課程開放上修",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "特殊教育理論基礎：社會學",
+        "teachers": [
+            "沈慶盈"
+        ],
+        "department": "EM09",
+        "code": "SPM0056",
+        "credit": 2,
+        "serial": 494,
+        "group": "",
+        "quota": {
+            "limit": 30,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 5,
+                "from": 3,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "特227"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎課程開放上修",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "單一受試實驗研究法",
+        "teachers": [
+            "王慧婷"
+        ],
+        "department": "EM09",
+        "code": "SPC0010",
+        "credit": 3,
+        "serial": 495,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 2,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "特203"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎課程開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "自閉症專題研究",
+        "teachers": [
+            "未定"
+        ],
+        "department": "EM09",
+        "code": "SPC0019",
+        "credit": 3,
+        "serial": 496,
+        "group": "",
+        "quota": {
+            "limit": 30,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 6,
+                "to": 8,
+                "campus": "本部",
+                "classroom": "特227"
+            }
+        ],
+        "programs": [
+            "學校心理學學程"
+        ],
+        "comment": "授課教師：張正芬。",
+        "restrict": "◎課程不開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "特殊教育行政研究",
+        "teachers": [
+            "潘裕豐"
+        ],
+        "department": "EM09",
+        "code": "SPC0020",
+        "credit": 3,
+        "serial": 497,
+        "group": "",
+        "quota": {
+            "limit": 30,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 10,
+                "to": 12,
+                "campus": "本部",
+                "classroom": "特227"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎課程開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "身心障礙者生涯輔導",
+        "teachers": [
+            "未定"
+        ],
+        "department": "EM09",
+        "code": "SPC0026",
+        "credit": 2,
+        "serial": 498,
+        "group": "",
+        "quota": {
+            "limit": 30,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 6,
+                "to": 7,
+                "campus": "本部",
+                "classroom": "特227"
+            }
+        ],
+        "programs": [],
+        "comment": "授課教師：趙本強。",
+        "restrict": "◎課程開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "智能障礙專題研究",
+        "teachers": [
+            "邱春瑜"
+        ],
+        "department": "EM09",
+        "code": "SPC0044",
+        "credit": 3,
+        "serial": 499,
+        "group": "",
+        "quota": {
+            "limit": 30,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 5,
+                "from": 6,
+                "to": 8,
+                "campus": "本部",
+                "classroom": "特230"
+            }
+        ],
+        "programs": [
+            "學校心理學學程"
+        ],
+        "comment": "",
+        "restrict": "◎課程不開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "特殊教育專題討論（一）",
+        "teachers": [
+            "陳偉仁"
+        ],
+        "department": "EM09",
+        "code": "SPC0059",
+        "credit": 1,
+        "serial": 500,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 3,
+                "to": 3,
+                "campus": "本部",
+                "classroom": "特317"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎課程開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "創造力專題研究",
+        "teachers": [
+            "潘裕豐"
+        ],
+        "department": "EM09",
+        "code": "SPC0073",
+        "credit": 3,
+        "serial": 501,
+        "group": "",
+        "quota": {
+            "limit": 30,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 2,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "特230"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎課程不開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "資源方案設計與實務專題研究",
+        "teachers": [
+            "未定"
+        ],
+        "department": "EM09",
+        "code": "SPC0075",
+        "credit": 3,
+        "serial": 502,
+        "group": "",
+        "quota": {
+            "limit": 30,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 6,
+                "to": 8,
+                "campus": "本部",
+                "classroom": "特230"
+            }
+        ],
+        "programs": [
+            "學校心理學學程"
+        ],
+        "comment": "授課教師：張蓓莉。",
+        "restrict": "◎課程不開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "高層思考專題研究",
+        "teachers": [
+            "未定"
+        ],
+        "department": "EM09",
+        "code": "SPC8004",
+        "credit": 3,
+        "serial": 503,
+        "group": "",
+        "quota": {
+            "limit": 30,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 1,
+                "to": 3,
+                "campus": "本部",
+                "classroom": "特203"
+            }
+        ],
+        "programs": [],
+        "comment": "授課教師：陳美芳。",
+        "restrict": "◎課程開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "質性研究法",
+        "teachers": [
+            "張千惠"
+        ],
+        "department": "EM09",
+        "code": "SPC8006",
+        "credit": 3,
+        "serial": 504,
+        "group": "",
+        "quota": {
+            "limit": 35,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 2,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "特113"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎課程開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "身心障礙者倡議與傳播研究",
+        "teachers": [
+            "姜義村"
+        ],
+        "department": "EM09",
+        "code": "SPC8008",
+        "credit": 3,
+        "serial": 505,
+        "group": "",
+        "quota": {
+            "limit": 30,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 9,
+                "to": 10,
+                "campus": "本部",
+                "classroom": "特227"
+            }
+        ],
+        "programs": [
+            "學校心理學學程"
+        ],
+        "comment": "",
+        "restrict": "◎課程不開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "特殊教育論題",
+        "teachers": [
+            "吳亭芳",
+            "郭靜姿",
+            "洪儷瑜"
+        ],
+        "department": "EM09",
+        "code": "SPC8013",
+        "credit": 3,
+        "serial": 506,
+        "group": "",
+        "quota": {
+            "limit": 30,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 8,
+                "to": 10,
+                "campus": "本部",
+                "classroom": "特230"
+            }
+        ],
+        "programs": [],
+        "comment": "建議修習過「特殊教育導論」(SPU5007)同學修習，課程中將不再介紹基礎課程。",
+        "restrict": "◎課程開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "社會技能訓練",
+        "teachers": [
+            "洪儷瑜",
+            "校外教師"
+        ],
+        "department": "EU09",
+        "code": "SPC0070",
+        "credit": 2,
+        "serial": 859,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 16,
+                "to": 10,
+                "campus": "本部",
+                "classroom": "特113"
+            }
+        ],
+        "programs": [],
+        "comment": "合開教師：姚惠馨老師。開放上修。",
+        "restrict": "◎必須先修過【SPU1032  情緒行為障礙】◎必須先修過(也可以同時修)【SPU1020  自閉症】其中一門",
+        "form_s": "",
+        "classes": "9",
+        "dept_group": ""
+    }
+]

@@ -1,0 +1,86 @@
+{
+    "year": 111,
+    "term": 1,
+    "name": "高級教育統計學（甲）",
+    "teachers": [
+        "劉振維"
+    ],
+    "department": "E",
+    "code": "E0C8001",
+    "credit": 3,
+    "serial": 337,
+    "group": "A",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 1,
+            "from": 6,
+            "to": 8,
+            "campus": "本部",
+            "classroom": "教619"
+        }
+    ],
+    "programs": [
+        "學習與資訊學程",
+        "大數據學程"
+    ],
+    "comment": "大學部3年級/4年級可上修,需有先修統計課程.",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "",
+    "goals": [
+        "1.\t了解常用統計檢定方法的原理及其適用時機",
+        "2.\t選擇適切的分析方法解決問題和解釋分析結果",
+        "3.\t運用統計軟體執行資料分析並撰寫分析結果報告"
+    ],
+    "syllabus": "National Taiwan Normal University\n\nCourse Syllabus\n\nwith effect from Semester A\n\nCourse Title:\n\n**Advanced Educational Statistics (A)**\n\nCourse Code:\n\nE0C8001\n\nCredit Units:\n\n3\n\nPrerequisites:\n\nEducational Statistics (I), E0U0001\n\nEducational Statistics (II), E0U0002\n\nMedium of Instruction:\n\nEnglish\n\nMedium of Assessment:\n\nEnglish\n\n**Instructor****/TA**\n\n**Room**\n\n**Phone No.**\n\n**Email**\n\n**Consultation**\n\nLIU, Chen-Wei\n\nEdu 608\n\n3788\n\ncwliu@ntnu.edu.tw\n\nBy appointment\n\n高欣\n\n05122226@gm.scu.edu.tw\n\nBy appointment\n\n*   **Course Aims**\n\n*   To introduce the concepts of statistics in regression models.\n*   To develop students’ understanding of advanced statistics and applications.\n\n*   **Teaching and Learning Activities (TLAs)**\n\nConcepts, knowledge, and relevant examples are provided and explained\n\n*   Class discussion\n\nQuestions are given in/after class\n\n*   Computer Software Practice\n\nDemonstration and hand-on experience of using statistical software to analyze datasets are provided. Explanation and interpretation on the results are instructed.\n\n*   **Reading List**\n\n**Compulsory Readings**\n\nKutner, M. H., Nachtsheim, C. J., Neter, J., & Li, W. (2005). _Applied Linear Statistical Models_ (5 ed.): McGraw-Hill Irwin Boston.\n\nWang, J., & Wang, X. (2019). _Structural equation modeling: Applications using Mplus_. John Wiley & Sons.\n\n**Additional Readings**\n\nLarsen, R. J., & Marx, M. L. (2018). _Introduction to Mathematical Statistics and Its Applications: Pearson New International Edition_ (6 ed.): Pearson Higher Ed.\n\n*   **Assessment Tasks/Activities**\n\n**Assessment**\n\n**Weighting**\n\n**Duration**\n\n**Permission**\n\nHomework\n\n30%\n\nExam 1\n\n20%\n\n3 hours, if applicable\n\nWritten note, one A4 sheet\n\nExam 2\n\n20%\n\n3 hours, if applicable\n\nWritten note, one A4 sheet\n\nPresentation\n\n20%\n\nPresence\n\n10%\n\n**_Note_:**\n\n*   **No late homework will be accepted for credit.**\n*   **If a student misses any one of the exams because of documented illness or emergency, he/she will have a chance to take a make-up examination. Otherwise, he/she will be given a mark of zero. The of the make-up examination will be multiplied by 80% as a final mark.**\n*   **Reading homework: he/she must submit effective homework, otherwise 10 points down for no submission.**\n\n*   **Class Schedule**\n\nReading: _Applied Linear Statistical Models_ 5e (2005)\n\nClass\n\nSubject\n\nReadings\n\n1\n\nIntroduction to R\n\n2\n\nReview of Statistics\n\n3\n\nLinear Regression\n\nCh1\n\n4\n\nInference in linear regression\n\nCh2\n\n5\n\nDiagnostics in linear regression\n\nCh3\n\n6\n\nSimultaneous inference\n\nCh4\n\n7\n\nMultiple regression\n\nCh6\n\n8\n\n**Exam 1**\n\n9\n\nModel selection and validation\n\nCh9\n\n10\n\nRegression Models for Quantitative and Qualitative Predictors\n\nCh8\n\n11\n\nLogistic Regression\n\nCh14\n\n12\n\nLogistic Regression\n\nCh14\n\n13\n\nIntroduction to Structural Equation Models\n\nCh1\n\n14\n\nConfirmatory Factor Analysis\n\nCh2\n\n15\n\nPreparation for Exam\n\n16\n\n**Exam 2**",
+    "methodologies": [
+        {
+            "type": "Formal lecture",
+            "note": ""
+        },
+        {
+            "type": "Problem base learning",
+            "note": ""
+        },
+        {
+            "type": "Lab/Studio",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "Assignments",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "Midterm Exam",
+            "weight": 20,
+            "note": ""
+        },
+        {
+            "type": "Final exam",
+            "weight": 20,
+            "note": ""
+        },
+        {
+            "type": "Class discussion involvement",
+            "weight": 10,
+            "note": ""
+        },
+        {
+            "type": "Presentation",
+            "weight": 20,
+            "note": ""
+        }
+    ],
+    "prerequisite": "◎Available for junior and senior year B.A. program students (Doctoral program courses excepted) and M.A. program students.",
+    "general_core": []
+}

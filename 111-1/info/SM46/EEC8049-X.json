@@ -1,0 +1,89 @@
+{
+    "year": 111,
+    "term": 1,
+    "name": "環境資訊與空間視覺化",
+    "teachers": [
+        "林冠慧"
+    ],
+    "department": "SM46",
+    "code": "EEC8049",
+    "credit": 3,
+    "serial": 2748,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 3,
+            "from": 2,
+            "to": 4,
+            "campus": "公館",
+            "classroom": "行304"
+        }
+    ],
+    "programs": [
+        "理工實作學程"
+    ],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "",
+    "goals": [
+        "讓學生熟悉台灣環境資料與資訊的建構單位與架構",
+        "使學生具備使用環境資訊與資料，並進行空間視覺化的能力",
+        "加強學生掌握台灣環境資料，並用於研究分析上的能力",
+        "強化學生對環境知識的敏銳度與獨立研究的素養"
+    ],
+    "syllabus": "本課程將依環境資料的型態分成幾個主要的單元進行授課，說明如下。 主題一：環境資料型態總論 主題二：民間與政府公開環境數據資料庫 主題三：已建成環境資料庫與網路地圖互動系統 主題四：空間影像資料與圖資判讀 主題五：空間視覺化載具與應用 授課方式除講授外，以實際上機操作為主，並將邀請相關領域學者專家，進行研究經驗分享。因此學生必須具備課堂期間，能運用個人電腦，以隨時上機的能力。",
+    "methodologies": [
+        {
+            "type": "Formal lecture",
+            "note": "老師說明環境資料類型與各種環境資料主題"
+        },
+        {
+            "type": "Cooperative learning",
+            "note": "學生必須必須相互討論，完成每次作業與專題研究"
+        },
+        {
+            "type": "Lab/Studio",
+            "note": "學生必須攜帶個人電腦，進行上機操作與討論"
+        },
+        {
+            "type": "Field work",
+            "note": "安排參訪一或兩個環境資料生產單位"
+        },
+        {
+            "type": "Case studies",
+            "note": "學生須於期末進行專題研究報告"
+        }
+    ],
+    "grading": [
+        {
+            "type": "Assignments",
+            "weight": 30,
+            "note": "每個單元都會有簡單的實作課，以加深學習"
+        },
+        {
+            "type": "Class discussion involvement",
+            "weight": 20,
+            "note": "學生必須在課堂中隨時反應查找與運用環境資料的狀態並參與討論"
+        },
+        {
+            "type": "Attendances",
+            "weight": 10,
+            "note": "請每次上課務必出席"
+        },
+        {
+            "type": "Case study reports",
+            "weight": 40,
+            "note": "學生必須於學期間形成個人研究專題，針對研究發問與議題，運用課堂上所學到的環境資料與空間視覺化工具，提出研究成果報告"
+        }
+    ],
+    "prerequisite": "◎Available for junior and senior year B.A. program students (Doctoral program courses excepted) and M.A. program students.",
+    "general_core": []
+}

@@ -1,0 +1,80 @@
+{
+    "year": 111,
+    "term": 1,
+    "name": "微積分乙（一）",
+    "teachers": [
+        "楊青育"
+    ],
+    "department": "SU40",
+    "code": "MAU0180",
+    "credit": 3,
+    "serial": 2800,
+    "group": "G",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 3,
+            "from": 6,
+            "to": 8,
+            "campus": "本部",
+            "classroom": "正204"
+        }
+    ],
+    "programs": [],
+    "comment": "機電一",
+    "restrict": "◎限大一修習",
+    "form_s": "1",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "",
+    "goals": [
+        "增進數學分析基本概念的理解",
+        "進邏輯推理與歸納的能力",
+        "增進數學思維與批判性思考的能力",
+        "增進專業知識及追求真理的態度"
+    ],
+    "syllabus": "授課方式：16+2週\n\n一、極限與連續 (4週) \n\n(1) 數列極限的定義及運算性質 (數列的挾擠定理)\n\n(2) 函數極限的定義及運算性質 (函數的挾擠定理)\n\n(3) 連續函數的定義及基本性質\n\n(4) 中間值定理、最大最小值定理\n\n二、單變數函數的微分及其應用 (5週)\n\n(1) 導數與導函數的意義及其求法\n\n(2) 微分公式、鏈鎖法則  (隱微分法、均值定理)\n\n(3) 導數的應用---求切線斜率、變化率、函數的極值及繪圖 (函數的遞增、遞減、圖形的漸近線、凹性)\n\n(4) 指數、對數與三角函數的微分\n\n(5) L’Hospital法則、牛頓求根法、簡易的微分方程\n\n三、單變數函數的積分及其應用 (7週)\n\n(1) 不定積分的意義及其計算技巧 (分部積分法、變數代換法、分項分式法)\n\n(2) 定積分的意義及其基本性質 (Riemann和、連續函數的可積分性)\n\n(3) 微積分基本定理\n\n(4) 指數、對數與三角函數的積分\n\n(5) 積分的均值定理、定積分的近似求法\n\n(6) 瑕積分\n\n(7) 定積分的應用 (兩曲線間的面積、旋轉體體積、弧長、質心坐標)",
+    "methodologies": [
+        {
+            "type": "Formal lecture",
+            "note": "以上課講授為主，並輔以習題研討。"
+        },
+        {
+            "type": "Problem base learning",
+            "note": "每週排定習演和討論時間。"
+        }
+    ],
+    "grading": [
+        {
+            "type": "Assignments",
+            "weight": 10,
+            "note": "隨堂指定之習題。"
+        },
+        {
+            "type": "Midterm Exam",
+            "weight": 30,
+            "note": "命題形式包括名詞解釋、問答題與計算題。"
+        },
+        {
+            "type": "Final exam",
+            "weight": 30,
+            "note": "命題形式包括名詞解釋、問答題與計算題。"
+        },
+        {
+            "type": "Attendances",
+            "weight": 10,
+            "note": "上課點名。"
+        },
+        {
+            "type": "other:",
+            "weight": 20,
+            "note": "命題形式包括名詞解釋、問答題與計算題。"
+        }
+    ],
+    "prerequisite": "◎Exclusive for freshman",
+    "general_core": []
+}

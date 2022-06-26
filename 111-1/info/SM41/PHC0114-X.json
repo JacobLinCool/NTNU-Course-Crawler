@@ -1,0 +1,81 @@
+{
+    "year": 111,
+    "term": 1,
+    "name": "廣義相對論（一）",
+    "teachers": [
+        "卜宏毅"
+    ],
+    "department": "SM41",
+    "code": "PHC0114",
+    "credit": 3,
+    "serial": 2677,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 5,
+            "from": 2,
+            "to": 4,
+            "campus": "公館",
+            "classroom": "Ｓ407"
+        }
+    ],
+    "programs": [
+        "天文重力學程"
+    ],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "",
+    "goals": [
+        "Learn about general relativity",
+        "Strengthen rational thinking skills",
+        "Develop research ability in Physics"
+    ],
+    "syllabus": "**\\[16 weeks\\]**\n\n**week 1** overview of SR (Special Relativity) and GR (General Relativity), spacetime geometry, inertial frame and Lorentz transformation, Coordinate and Lorentz invariance, geometrized units\n\n**week 2** SR revisited, Lorentz contraction, aberration of light, four-vector, understanding gravity=acceleration=curved spacetime\n\n**week 3** parameterized a worldline, four-vectors, three accelerations, covariant/contravariant transformation, dual tensor and one-form\n\n**week 4** tensor transformation, affine parameter, connection coefficient (Christoffel symbol), geodesics\n\n**week 5** connection coefficient revisited, torsion tensor, covariant derivative for tensors and metric, geodesics revisited, acceleration in SR and Rindler horizon\n\n**week 6** local inertial frame, Riemann curvature tensor and examples, Ricci tensor, Ricci scalar, Stress-energy-momentum tensor, conservation laws\n\n**week 7** Einstein Field Equation, Einstein tensor, Bianchi identity and contracted forms, Newtonian limit and Poisson equation, weak energy condition, wormhole and time travel\n\n**week 8** midterm\n\n**week 9** review of the 1st part of the lecture\n\n**week 10:** important principles in GR, Weyl tensor and Petrov classifications, Schwarzschild metric, Killing vectors\n\n**week 11:** no-hair theorem, Birkhoff's theorem, Kerr-hoposisthes, hovering/infalling/orbiting observers, geodesics around black holes, black hole shadow, rotating black holes, Penrose process\n\n**week 12:** Cosmological principles, Roberson-Walker metric, Hubble’s law, Friedmann equations, cosmological constant, Friedmann equations\n\n**week 13:** Concordance cosmological models, thermal history of the Universe, cosmological inflation, redshift vs. the size of the Universe, age/edge of the Universe\n\n**week 14:** Gravitational wave and linearized gravity, quadrupole radiation, chirp system, gravitational wave modes and polarization\n\n**week 15:** gravitational wave detection and spectrum, types of gravitational waves, final remarks\n\n**week 16:** final exam",
+    "methodologies": [
+        {
+            "type": "Formal lecture",
+            "note": "discuss about the main concepts"
+        },
+        {
+            "type": "Group discussion",
+            "note": "ask students to discuss their understandings about the key concepts"
+        }
+    ],
+    "grading": [
+        {
+            "type": "Assignments",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "Midterm Exam",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "Final exam",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "Class discussion involvement",
+            "weight": 5,
+            "note": ""
+        },
+        {
+            "type": "other:",
+            "weight": 5,
+            "note": ""
+        }
+    ],
+    "prerequisite": "◎Available for junior and senior year B.A. program students (Doctoral program courses excepted) and M.A. program students.",
+    "general_core": []
+}

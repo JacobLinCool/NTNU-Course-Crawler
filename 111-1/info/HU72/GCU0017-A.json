@@ -1,0 +1,53 @@
+{
+    "year": 111,
+    "term": 1,
+    "name": "程式設計",
+    "teachers": [
+        "周遵儒"
+    ],
+    "department": "HU72",
+    "code": "GCU0017",
+    "credit": 3,
+    "serial": 1245,
+    "group": "A",
+    "quota": {
+        "limit": 40,
+        "additional": 0
+    },
+    "schedule": [
+        {
+            "day": 1,
+            "from": 7,
+            "to": 9,
+            "campus": "本部",
+            "classroom": "綜1001"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎限本系(含雙主修)修習◎限大二大三大四修習◎必須先修過【GCU0006  計算機概論】",
+    "form_s": "2",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "",
+    "goals": [
+        ""
+    ],
+    "syllabus": "",
+    "methodologies": [
+        {
+            "type": "",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "",
+            "weight": null,
+            "note": ""
+        }
+    ],
+    "prerequisite": "◎必須先修過【GCU0006  計算機概論】",
+    "general_core": []
+}

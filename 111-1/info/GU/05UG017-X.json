@@ -1,0 +1,60 @@
+{
+    "year": 111,
+    "term": 1,
+    "name": "資料科學與程式設計",
+    "teachers": [
+        "未定"
+    ],
+    "department": "GU",
+    "code": "05UG017",
+    "credit": 2,
+    "serial": 980,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 5
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 9,
+            "to": 10,
+            "campus": "本部",
+            "classroom": "教402"
+        }
+    ],
+    "programs": [
+        "音樂科技學程",
+        "學習與資訊學程",
+        "數位人文與藝術學程",
+        "資訊科技應用學程"
+    ],
+    "comment": "林耘逸",
+    "restrict": "",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 2,
+    "description": "",
+    "goals": [
+        "Be able to construct algorithms, analyze data, and present the results.",
+        "Be able to design and illustrate problem-solving processes utilizing computational thinking skills.",
+        "Be able to describe and discuss about the structure and function of algorithms."
+    ],
+    "syllabus": "",
+    "methodologies": [
+        {
+            "type": "",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "",
+            "weight": null,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

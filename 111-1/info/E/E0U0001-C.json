@@ -1,0 +1,75 @@
+{
+    "year": 111,
+    "term": 1,
+    "name": "教育統計學（一）",
+    "teachers": [
+        "郭郡羽"
+    ],
+    "department": "E",
+    "code": "E0U0001",
+    "credit": 2,
+    "serial": 332,
+    "group": "C",
+    "quota": {
+        "limit": 35,
+        "additional": 5
+    },
+    "schedule": [
+        {
+            "day": 1,
+            "from": 3,
+            "to": 4,
+            "campus": "本部",
+            "classroom": "教403"
+        }
+    ],
+    "programs": [
+        "學習與資訊學程"
+    ],
+    "comment": "",
+    "restrict": "◎限社教系（學）選修",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 2,
+    "description": "",
+    "goals": [
+        "Concepts, knowledge, and relevant examples are provided and explained",
+        "Questions are given in/after class for students to solve based on course materials",
+        "3.          Demonstration and hand-on experience of using statistical software to analyze datasets are provided. Explanation and interpretation on the results are instructed."
+    ],
+    "syllabus": "本課程使用SPSS統計分析軟體，考試也會用到，若抗拒使用軟體者請不要修課!\n\n週次\n\n日期\n\n教學進度與主題 (統計概念介紹)\n\n教學進度與主題 (統計軟體實作)\n\nW1\n\n9/5\n\n課程介紹：為什麼要學統計?\n\n統計概論\n\n資料品質的重要性：垃圾進垃圾出\n\nW2\n\n9/12\n\n描述性統計：集中與變異量數I\n\nSPSS介面介紹與描述性統計分析\n\nW3\n\n9/19\n\n描述性統計：集中與變異量數II\n\n基本作圖\n\nW4\n\n9/26\n\n常態分配與標準分數\n\nSPSS標準分數的計算\n\nW5\n\n10/3\n\n相關\n\nSPSS相關分析\n\nW6\n\n10/10\n\n國慶日放假\n\n國慶日放假\n\nW7\n\n10/17\n\n迴歸分析\n\nSPSS迴歸分析\n\nW8\n\n10/24\n\n多元迴歸與階層迴歸\n\nSPSS多元迴歸分析與階層迴歸\n\nW9\n\n10/31\n\n期中考\n\nW10\n\n11/7\n\n機率與二項分配\n\nSPSS信度分析\n\nW11\n\n11/14\n\n研究概念與假設檢定\n\nW12\n\n11/21\n\n符號檢定\n\nW13\n\n11/28\n\nz檢定\n\nW14\n\n12/5\n\n單一樣本t檢定\n\nSPSS t檢定\n\nW15\n\n12/12\n\n獨立與相依樣本t檢定\n\nSPSS 獨立與相依樣本t檢定\n\nW16\n\n12/19\n\n期末考",
+    "methodologies": [
+        {
+            "type": "Formal lecture",
+            "note": "教授統計原理及資料分析分法"
+        },
+        {
+            "type": "Lab/Studio",
+            "note": "實際上機操作統計軟體"
+        },
+        {
+            "type": "Media, audio, visual materials",
+            "note": "使用SPSS軟體進行教學"
+        }
+    ],
+    "grading": [
+        {
+            "type": "Midterm Exam",
+            "weight": 40,
+            "note": "期中考試"
+        },
+        {
+            "type": "Final exam",
+            "weight": 50,
+            "note": "期末考試"
+        },
+        {
+            "type": "other:",
+            "weight": 10,
+            "note": "課程筆記與學習紀錄"
+        }
+    ],
+    "prerequisite": "◎限Department of Adult",
+    "general_core": []
+}

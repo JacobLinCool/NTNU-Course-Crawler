@@ -1,0 +1,67 @@
+{
+    "year": 111,
+    "term": 1,
+    "name": "氣象學",
+    "teachers": [
+        "洪致文"
+    ],
+    "department": "LU23",
+    "code": "GEU0047",
+    "credit": 3,
+    "serial": 1940,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 5
+    },
+    "schedule": [
+        {
+            "day": 4,
+            "from": 7,
+            "to": 9,
+            "campus": "本部",
+            "classroom": "正206"
+        }
+    ],
+    "programs": [],
+    "comment": "必須先修過「氣象學」才能修「氣候學」。",
+    "restrict": "◎限大一修習",
+    "form_s": "1",
+    "classes": "2",
+    "dept_group": "",
+    "hours": 3,
+    "description": "透過深入淺出的介紹，讓同學具備基本的氣象知識。",
+    "goals": [
+        "具備基本的氣象知識"
+    ],
+    "syllabus": "【授課方式：16週】\n\n第一週課程介紹，學期中安排一次期中考、一次期末考，一次氣象局參訪。\n\n1\\. The Earth and its Atmosphere.地球與大氣層  \n2\\. Energy: Warming the Earth and the Atmosphere.能量：地球暖化與大氣層  \n3\\. Seasonal and Daily Temperatures.季節與日的溫度  \n4\\. Atmospheric Humidity.大氣濕度  \n5\\. Condensation: Dew, Fog, and Clouds.凝結：露，霧與雲  \n6\\. Stability and Cloud Development.穩定度與雲的發展  \n7\\. Precipitation.降水  \n8\\. Air Pressure and Winds.氣壓與風  \n9\\. Wind: Small-Scale and Local Systems.風：小尺度與當地系統  \n10\\. Air Masses and Fronts.氣團與鋒面  \n11\\. Middle-Latitude Cyclones.中緯度氣旋",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "同學需上課前預習課本內容，課堂授課主要以教師上課教授為主，但部分主題將會以課堂討論的形式進行。"
+        },
+        {
+            "type": "討論法",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "期中考",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 40,
+            "note": ""
+        },
+        {
+            "type": "報告",
+            "weight": 30,
+            "note": "課堂表現/平時成績/學期報告, 本學期所有同學均有一次學期報告，將於每次上課的第三節報告。"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

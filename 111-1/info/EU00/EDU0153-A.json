@@ -1,0 +1,56 @@
+{
+    "year": 111,
+    "term": 1,
+    "name": "教育概論",
+    "teachers": [
+        "鄭英傑"
+    ],
+    "department": "EU00",
+    "code": "EDU0153",
+    "credit": 2,
+    "serial": 653,
+    "group": "A",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 6,
+            "to": 7,
+            "campus": "本部",
+            "classroom": "教315"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎限大一修習",
+    "form_s": "1",
+    "classes": "",
+    "dept_group": "",
+    "hours": 2,
+    "description": "",
+    "goals": [
+        "提供對教育專業的基本認識。",
+        "熟悉當前重要的教育問題。",
+        "了解教育的意義、特色、理論。",
+        "洞察未來教育的發展趨勢。"
+    ],
+    "syllabus": "",
+    "methodologies": [
+        {
+            "type": "",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "",
+            "weight": null,
+            "note": ""
+        }
+    ],
+    "prerequisite": "◎Exclusive for freshman",
+    "general_core": []
+}

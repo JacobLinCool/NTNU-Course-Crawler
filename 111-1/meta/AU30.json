@@ -1,0 +1,2037 @@
+[
+    {
+        "year": 111,
+        "term": 1,
+        "name": "體育學原理",
+        "teachers": [
+            "陳信亨"
+        ],
+        "department": "AU30",
+        "code": "PEU0003",
+        "credit": 2,
+        "serial": 67,
+        "group": "",
+        "quota": {
+            "limit": 75,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 8,
+                "to": 9,
+                "campus": "本部",
+                "classroom": "誠302"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎限大一修習",
+        "form_s": "1",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "人體解剖生理學",
+        "teachers": [
+            "王宏豪"
+        ],
+        "department": "AU30",
+        "code": "PEU0193",
+        "credit": 2,
+        "serial": 68,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 5,
+                "from": 6,
+                "to": 7,
+                "campus": "本部",
+                "classroom": "金牌講堂"
+            }
+        ],
+        "programs": [
+            "運動傷害防護學程"
+        ],
+        "comment": "",
+        "restrict": "◎限大一修習",
+        "form_s": "1",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "足球（一）",
+        "teachers": [
+            "程瑞福"
+        ],
+        "department": "AU30",
+        "code": "PEU0251",
+        "credit": 2,
+        "serial": 69,
+        "group": "F",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 1,
+                "to": 2,
+                "campus": "公館",
+                "classroom": "體育館二3樓"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎限女生修 ◎限大一修習",
+        "form_s": "1",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "足球（一）",
+        "teachers": [
+            "程瑞福"
+        ],
+        "department": "AU30",
+        "code": "PEU0251",
+        "credit": 2,
+        "serial": 70,
+        "group": "M",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 3,
+                "to": 4,
+                "campus": "公館",
+                "classroom": "體育館二3樓"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎限男生修 ◎限大一修習",
+        "form_s": "1",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "棒（壘）球（一）",
+        "teachers": [
+            "陳妙怡"
+        ],
+        "department": "AU30",
+        "code": "PEU0254",
+        "credit": 2,
+        "serial": 71,
+        "group": "F",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 6,
+                "to": 7,
+                "campus": "本部",
+                "classroom": "操場一"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎限女生修 ◎限大一修習",
+        "form_s": "1",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "棒（壘）球（一）",
+        "teachers": [
+            "黃輝榮"
+        ],
+        "department": "AU30",
+        "code": "PEU0254",
+        "credit": 2,
+        "serial": 72,
+        "group": "M",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 3,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "操場一"
+            }
+        ],
+        "programs": [],
+        "comment": "黃輝榮",
+        "restrict": "◎限男生修 ◎限大一修習",
+        "form_s": "1",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "游泳（一）",
+        "teachers": [
+            "鄭國輝"
+        ],
+        "department": "AU30",
+        "code": "PEU0263",
+        "credit": 2,
+        "serial": 73,
+        "group": "F",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 6,
+                "to": 7,
+                "campus": "本部",
+                "classroom": "游泳館一"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎限女生修 ◎限大一修習",
+        "form_s": "1",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "游泳（一）",
+        "teachers": [
+            "鄭國輝"
+        ],
+        "department": "AU30",
+        "code": "PEU0263",
+        "credit": 2,
+        "serial": 74,
+        "group": "M",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 6,
+                "to": 7,
+                "campus": "本部",
+                "classroom": "游泳館一"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎限男生修 ◎限大一修習",
+        "form_s": "1",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "桌球（一）",
+        "teachers": [
+            "王傑賢"
+        ],
+        "department": "AU30",
+        "code": "PEU0269",
+        "credit": 2,
+        "serial": 75,
+        "group": "F",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 3,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "桌球室"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎限女生修 ◎限大一修習",
+        "form_s": "1",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "桌球（一）",
+        "teachers": [
+            "王傑賢"
+        ],
+        "department": "AU30",
+        "code": "PEU0269",
+        "credit": 2,
+        "serial": 76,
+        "group": "M",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 6,
+                "to": 7,
+                "campus": "本部",
+                "classroom": "桌球室"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎限男生修 ◎限大一修習",
+        "form_s": "1",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "體操（一）",
+        "teachers": [
+            "張琪"
+        ],
+        "department": "AU30",
+        "code": "PEU0274",
+        "credit": 2,
+        "serial": 77,
+        "group": "F",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 3,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "體操房"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎限女生修 ◎限大一修習",
+        "form_s": "1",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "體操（一）",
+        "teachers": [
+            "張琪"
+        ],
+        "department": "AU30",
+        "code": "PEU0274",
+        "credit": 2,
+        "serial": 78,
+        "group": "M",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 3,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "體操房"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎限男生修 ◎限大一修習",
+        "form_s": "1",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "田徑（一）",
+        "teachers": [
+            "林淑惠"
+        ],
+        "department": "AU30",
+        "code": "PEU0277",
+        "credit": 2,
+        "serial": 79,
+        "group": "F",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 8,
+                "to": 9,
+                "campus": "本部",
+                "classroom": "操場一"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎限女生修 ◎限大一修習",
+        "form_s": "1",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "田徑（一）",
+        "teachers": [
+            "詹俊成"
+        ],
+        "department": "AU30",
+        "code": "PEU0277",
+        "credit": 2,
+        "serial": 80,
+        "group": "M",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 8,
+                "to": 9,
+                "campus": "本部",
+                "classroom": "操場一"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎限男生修 ◎限大一修習",
+        "form_s": "1",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "運動生理學",
+        "teachers": [
+            "王鶴森"
+        ],
+        "department": "AU30",
+        "code": "PEU0015",
+        "credit": 2,
+        "serial": 81,
+        "group": "",
+        "quota": {
+            "limit": 80,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 3,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "誠102"
+            }
+        ],
+        "programs": [
+            "運動傷害防護學程"
+        ],
+        "comment": "",
+        "restrict": "",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "運動傷害與防護",
+        "teachers": [
+            "黃昱倫"
+        ],
+        "department": "AU30",
+        "code": "PEU0067",
+        "credit": 2,
+        "serial": 82,
+        "group": "",
+        "quota": {
+            "limit": 70,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 8,
+                "to": 9,
+                "campus": "本部",
+                "classroom": "誠202"
+            }
+        ],
+        "programs": [
+            "戶外探索領導學程",
+            "運動傷害防護學程",
+            "高齡學程"
+        ],
+        "comment": "",
+        "restrict": "◎第一階段限 運動傷害防護學程◎限運動傷害防護學程選修",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "手球（一）",
+        "teachers": [
+            "黃欽永"
+        ],
+        "department": "AU30",
+        "code": "PEU0081",
+        "credit": 2,
+        "serial": 83,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 8,
+                "to": 9,
+                "campus": "本部",
+                "classroom": "體育館一4F"
+            }
+        ],
+        "programs": [],
+        "comment": "黃欽永",
+        "restrict": "",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "柔道（一）",
+        "teachers": [
+            "未定"
+        ],
+        "department": "AU30",
+        "code": "PEU0109",
+        "credit": 2,
+        "serial": 84,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 6,
+                "to": 7,
+                "campus": "本部",
+                "classroom": "武術房一"
+            }
+        ],
+        "programs": [],
+        "comment": "黃國恩",
+        "restrict": "",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "運動技能學習",
+        "teachers": [
+            "梁嘉音"
+        ],
+        "department": "AU30",
+        "code": "PEU0190",
+        "credit": 2,
+        "serial": 85,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 6,
+                "to": 7,
+                "campus": "本部",
+                "classroom": "正301"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "水上安全與救生（一）",
+        "teachers": [
+            "李至斌"
+        ],
+        "department": "AU30",
+        "code": "PEU0239",
+        "credit": 2,
+        "serial": 86,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 6,
+                "to": 7,
+                "campus": "本部",
+                "classroom": "游泳館一"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "籃球（一）",
+        "teachers": [
+            "掌慶維"
+        ],
+        "department": "AU30",
+        "code": "PEU0245",
+        "credit": 2,
+        "serial": 87,
+        "group": "F",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 6,
+                "to": 7,
+                "campus": "本部",
+                "classroom": "體育館一4F"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎限女生修",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "籃球（一）",
+        "teachers": [
+            "掌慶維"
+        ],
+        "department": "AU30",
+        "code": "PEU0245",
+        "credit": 2,
+        "serial": 88,
+        "group": "M",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 8,
+                "to": 9,
+                "campus": "本部",
+                "classroom": "體育館一4F"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎限男生修",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "排球（一）",
+        "teachers": [
+            "溫良財"
+        ],
+        "department": "AU30",
+        "code": "PEU0248",
+        "credit": 2,
+        "serial": 89,
+        "group": "F",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 3,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "體育館一4F"
+            }
+        ],
+        "programs": [],
+        "comment": "?良才",
+        "restrict": "◎限女生修",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "排球（一）",
+        "teachers": [
+            "溫良財"
+        ],
+        "department": "AU30",
+        "code": "PEU0248",
+        "credit": 2,
+        "serial": 90,
+        "group": "M",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 1,
+                "to": 2,
+                "campus": "本部",
+                "classroom": "體育館一4F"
+            }
+        ],
+        "programs": [],
+        "comment": "?良才",
+        "restrict": "◎限男生修",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "網球（一）",
+        "teachers": [
+            "林岱樵"
+        ],
+        "department": "AU30",
+        "code": "PEU0257",
+        "credit": 2,
+        "serial": 91,
+        "group": "F",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 5,
+                "from": 1,
+                "to": 2,
+                "campus": "公館",
+                "classroom": "網球場二"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎限女生修",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "網球（一）",
+        "teachers": [
+            "林岱樵"
+        ],
+        "department": "AU30",
+        "code": "PEU0257",
+        "credit": 2,
+        "serial": 92,
+        "group": "M",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 5,
+                "from": 3,
+                "to": 4,
+                "campus": "公館",
+                "classroom": "網球場二"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎限男生修",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "武術（一）",
+        "teachers": [
+            "王宏豪"
+        ],
+        "department": "AU30",
+        "code": "PEU0260",
+        "credit": 2,
+        "serial": 93,
+        "group": "F",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 1,
+                "to": 2,
+                "campus": "本部",
+                "classroom": "武術房一"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎限女生修",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "武術（一）",
+        "teachers": [
+            "王宏豪"
+        ],
+        "department": "AU30",
+        "code": "PEU0260",
+        "credit": 2,
+        "serial": 94,
+        "group": "M",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 3,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "武術房一"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎限男生修",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "羽球（一）",
+        "teachers": [
+            "潘光敏"
+        ],
+        "department": "AU30",
+        "code": "PEU0266",
+        "credit": 2,
+        "serial": 95,
+        "group": "F",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 5,
+                "from": 6,
+                "to": 7,
+                "campus": "本部",
+                "classroom": "體育館一4F"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎限女生修",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "羽球（一）",
+        "teachers": [
+            "蔡虔祿"
+        ],
+        "department": "AU30",
+        "code": "PEU0266",
+        "credit": 2,
+        "serial": 96,
+        "group": "M",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 3,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "體育館一4F"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎限男生修",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "舞蹈（一）",
+        "teachers": [
+            "麥秀英"
+        ],
+        "department": "AU30",
+        "code": "PEU0272",
+        "credit": 2,
+        "serial": 97,
+        "group": "F",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 8,
+                "to": 9,
+                "campus": "本部",
+                "classroom": "小韻律教室"
+            }
+        ],
+        "programs": [],
+        "comment": "麥秀英",
+        "restrict": "◎限女生修",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "舞蹈（一）",
+        "teachers": [
+            "曾明生"
+        ],
+        "department": "AU30",
+        "code": "PEU0272",
+        "credit": 2,
+        "serial": 98,
+        "group": "M",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 8,
+                "to": 9,
+                "campus": "本部",
+                "classroom": "大韻律教室"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎限男生修",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "運動貼紮與臨床實作",
+        "teachers": [
+            "黃昱倫"
+        ],
+        "department": "AU30",
+        "code": "PEU0292",
+        "credit": 2,
+        "serial": 99,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 6,
+                "to": 7,
+                "campus": "本部",
+                "classroom": "樸105"
+            }
+        ],
+        "programs": [
+            "運動傷害防護學程"
+        ],
+        "comment": "",
+        "restrict": "◎第一階段限 運動傷害防護學程◎限運動傷害防護學程選修",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "動作教育",
+        "teachers": [
+            "曾明生"
+        ],
+        "department": "AU30",
+        "code": "PEU3002",
+        "credit": 2,
+        "serial": 100,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 6,
+                "to": 7,
+                "campus": "本部",
+                "classroom": "大韻律教室"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "休閒活動概論",
+        "teachers": [
+            "詹俊成"
+        ],
+        "department": "AU30",
+        "code": "PEU4011",
+        "credit": 2,
+        "serial": 101,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 6,
+                "to": 7,
+                "campus": "本部",
+                "classroom": "誠108"
+            }
+        ],
+        "programs": [
+            "戶外探索領導學程",
+            "高齡學程"
+        ],
+        "comment": "",
+        "restrict": "",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "體育行政與管理",
+        "teachers": [
+            "程紹同"
+        ],
+        "department": "AU30",
+        "code": "PEU4020",
+        "credit": 2,
+        "serial": 102,
+        "group": "",
+        "quota": {
+            "limit": 70,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 1,
+                "to": 2,
+                "campus": "本部",
+                "classroom": "誠302"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "運動技術分析",
+        "teachers": [
+            "蔡虔祿"
+        ],
+        "department": "AU30",
+        "code": "PEU0034",
+        "credit": 2,
+        "serial": 103,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 6,
+                "to": 7,
+                "campus": "本部",
+                "classroom": "樸105"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "3",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "運動醫學",
+        "teachers": [
+            "?俐雯"
+        ],
+        "department": "AU30",
+        "code": "PEU0035",
+        "credit": 2,
+        "serial": 104,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 5,
+                "from": 6,
+                "to": 7,
+                "campus": "本部",
+                "classroom": "正103"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "3",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "運動專長訓練（一）",
+        "teachers": [
+            "林靜萍"
+        ],
+        "department": "AU30",
+        "code": "PEU0201",
+        "credit": 1,
+        "serial": 105,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 16,
+                "to": 10,
+                "campus": "本部",
+                "classroom": "體001"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "3",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "體育測驗與評量",
+        "teachers": [
+            "施登堯"
+        ],
+        "department": "AU30",
+        "code": "PEU0212",
+        "credit": 2,
+        "serial": 106,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 1,
+                "to": 2,
+                "campus": "本部",
+                "classroom": "正102"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "3",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "籃球（三）",
+        "teachers": [
+            "施登堯"
+        ],
+        "department": "AU30",
+        "code": "PEU0247",
+        "credit": 2,
+        "serial": 107,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 6,
+                "to": 7,
+                "campus": "本部",
+                "classroom": "體育館一4F"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎必須先修過【PEU0246  籃球（二）】",
+        "form_s": "3",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "排球（三）",
+        "teachers": [
+            "未定"
+        ],
+        "department": "AU30",
+        "code": "PEU0250",
+        "credit": 2,
+        "serial": 108,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 1,
+                "to": 2,
+                "campus": "公館",
+                "classroom": "體育館二3樓"
+            }
+        ],
+        "programs": [],
+        "comment": "邱得全",
+        "restrict": "◎必須先修過【PEU0249  排球（二）】",
+        "form_s": "3",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "棒（壘）球（三）",
+        "teachers": [
+            "陳妙怡"
+        ],
+        "department": "AU30",
+        "code": "PEU0256",
+        "credit": 2,
+        "serial": 109,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 6,
+                "to": 7,
+                "campus": "本部",
+                "classroom": "操場一"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎必須先修過【PEU0255  棒（壘）球（二）】",
+        "form_s": "3",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "網球（三）",
+        "teachers": [
+            "陳勇志"
+        ],
+        "department": "AU30",
+        "code": "PEU0259",
+        "credit": 2,
+        "serial": 110,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 6,
+                "to": 7,
+                "campus": "公館",
+                "classroom": "網球場二"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎必須先修過【PEU0258  網球（二）】",
+        "form_s": "3",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "游泳（三）",
+        "teachers": [
+            "鄭國輝"
+        ],
+        "department": "AU30",
+        "code": "PEU0265",
+        "credit": 2,
+        "serial": 111,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 3,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "游泳館一"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎必須先修過【PEU0264  游泳（二）】",
+        "form_s": "3",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "羽球（三）",
+        "teachers": [
+            "徐孟達"
+        ],
+        "department": "AU30",
+        "code": "PEU0268",
+        "credit": 2,
+        "serial": 112,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 1,
+                "to": 2,
+                "campus": "本部",
+                "classroom": "體育館一4F"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎必須先修過【PEU0267  羽球（二）】",
+        "form_s": "3",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "桌球（三）",
+        "teachers": [
+            "林慶宏"
+        ],
+        "department": "AU30",
+        "code": "PEU0271",
+        "credit": 2,
+        "serial": 113,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 8,
+                "to": 9,
+                "campus": "本部",
+                "classroom": "桌球室"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎必須先修過【PEU0270  桌球（二）】",
+        "form_s": "3",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "體適能與運動處方",
+        "teachers": [
+            "方進隆"
+        ],
+        "department": "AU30",
+        "code": "PEU0282",
+        "credit": 2,
+        "serial": 114,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 8,
+                "to": 9,
+                "campus": "本部",
+                "classroom": "誠108"
+            }
+        ],
+        "programs": [
+            "高齡學程"
+        ],
+        "comment": "",
+        "restrict": "",
+        "form_s": "3",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "基礎儀器治療學",
+        "teachers": [
+            "黃昱倫"
+        ],
+        "department": "AU30",
+        "code": "PEU0295",
+        "credit": 2,
+        "serial": 115,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 8,
+                "to": 9,
+                "campus": "本部",
+                "classroom": "樸105"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎必須先修過【PEU0193  人體解剖生理學】",
+        "form_s": "3",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "運動傷害評估學",
+        "teachers": [
+            "李恆儒"
+        ],
+        "department": "AU30",
+        "code": "PEU0296",
+        "credit": 2,
+        "serial": 116,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 8,
+                "to": 9,
+                "campus": "本部",
+                "classroom": "樸105"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎必須先修過【PEU2001  運動解剖學】、【PEU0067  運動傷害與防護】",
+        "form_s": "3",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "運動與營養",
+        "teachers": [
+            "劉宏文"
+        ],
+        "department": "AU30",
+        "code": "PEU2006",
+        "credit": 2,
+        "serial": 117,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 3,
+                "to": 4,
+                "campus": "公館",
+                "classroom": "Ｅ202"
+            }
+        ],
+        "programs": [
+            "運動傷害防護學程",
+            "高齡學程"
+        ],
+        "comment": "",
+        "restrict": "",
+        "form_s": "3",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "體育課程設計",
+        "teachers": [
+            "掌慶維"
+        ],
+        "department": "AU30",
+        "code": "PEU3007",
+        "credit": 2,
+        "serial": 118,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 5,
+                "from": 3,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "誠301"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "3",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "運動社會學",
+        "teachers": [
+            "湯添進"
+        ],
+        "department": "AU30",
+        "code": "PEU4001",
+        "credit": 2,
+        "serial": 119,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 8,
+                "to": 9,
+                "campus": "本部",
+                "classroom": "樸206"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "3",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "運動行銷學",
+        "teachers": [
+            "王傑賢"
+        ],
+        "department": "AU30",
+        "code": "PEU4008",
+        "credit": 2,
+        "serial": 120,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 8,
+                "to": 9,
+                "campus": "本部",
+                "classroom": "正203"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "3",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "體育教材教法（教）",
+        "teachers": [
+            "掌慶維"
+        ],
+        "department": "AU30",
+        "code": "PEUE101",
+        "credit": 2,
+        "serial": 121,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 3,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "體001"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎必須先修過【PEU3003  運動教育學】",
+        "form_s": "3",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "運動休閒服務業管理",
+        "teachers": [
+            "張琪"
+        ],
+        "department": "AU30",
+        "code": "PEU0107",
+        "credit": 2,
+        "serial": 122,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 3,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "樸206"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "4",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "籃球（五）",
+        "teachers": [
+            "施登堯"
+        ],
+        "department": "AU30",
+        "code": "PEU0186",
+        "credit": 2,
+        "serial": 123,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 3,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "體育館一4F"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎必須先修過【PEU0174  籃球（四）】",
+        "form_s": "4",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "運動專長訓練（三）",
+        "teachers": [
+            "林靜萍"
+        ],
+        "department": "AU30",
+        "code": "PEU0203",
+        "credit": 1,
+        "serial": 124,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 16,
+                "to": 10,
+                "campus": "本部",
+                "classroom": "體001"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎必須先修過【PEU0201  運動專長訓練（一）】、【PEU0202  運動專長訓練（二）】",
+        "form_s": "4",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "桌球（五）",
+        "teachers": [
+            "林慶宏"
+        ],
+        "department": "AU30",
+        "code": "PEU0237",
+        "credit": 2,
+        "serial": 125,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 6,
+                "to": 7,
+                "campus": "本部",
+                "classroom": "桌球室"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎必須先修過【PEU0236  桌球（四）】",
+        "form_s": "4",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "運動防護實習（一）",
+        "teachers": [
+            "李恆儒",
+            "黃昱倫"
+        ],
+        "department": "AU30",
+        "code": "PEU0299",
+        "credit": 2,
+        "serial": 126,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 8,
+                "to": 9,
+                "campus": "本部",
+                "classroom": "樸105"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎必須先修過【PEU0067  運動傷害與防護】、【PEU0292  運動貼紮與臨床實作】、【PEU0294  運動推拿指壓學】、【PEU0295  基礎儀器治療學】、【PEU0296  運動傷害評估學】、【PEU0297  運動治療學】",
+        "form_s": "4",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "飛盤運動",
+        "teachers": [
+            "未定"
+        ],
+        "department": "AU30",
+        "code": "PEU0301",
+        "credit": 2,
+        "serial": 127,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 5,
+                "from": 6,
+                "to": 7,
+                "campus": "本部",
+                "classroom": "操場一"
+            }
+        ],
+        "programs": [],
+        "comment": "黃正杰",
+        "restrict": "",
+        "form_s": "4",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "運動教練學",
+        "teachers": [
+            "林淑惠"
+        ],
+        "department": "AU30",
+        "code": "PEU2004",
+        "credit": 2,
+        "serial": 128,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 6,
+                "to": 7,
+                "campus": "本部",
+                "classroom": "正105"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "4",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "體育教學實習（二）（教）",
+        "teachers": [
+            "施登堯"
+        ],
+        "department": "AU30",
+        "code": "PEUE210",
+        "credit": 2,
+        "serial": 129,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 5,
+                "from": 1,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "正102"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎必須先修過【PEUE209  體育教學實習（一）（教）】",
+        "form_s": "4",
+        "classes": "",
+        "dept_group": ""
+    }
+]

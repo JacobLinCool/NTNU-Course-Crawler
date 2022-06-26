@@ -1,0 +1,75 @@
+{
+    "year": 111,
+    "term": 1,
+    "name": "代數學探索（一）",
+    "teachers": [
+        "劉容真"
+    ],
+    "department": "SU40",
+    "code": "MAU0176",
+    "credit": 1,
+    "serial": 2832,
+    "group": "B",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 5,
+            "from": 4,
+            "to": 4,
+            "campus": "公館",
+            "classroom": "Ｅ101"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎必須先修過(也可以同時修)【MAU0166  代數學（一）】",
+    "form_s": "2",
+    "classes": "",
+    "dept_group": "",
+    "hours": 1,
+    "description": "本課程之目的，在於讓學生親身經歷群、環、體等抽象代數解題的邏輯思維歷程，以達到對抽象代數概念和證明方法的熟練，進而應用解決相關問題。",
+    "goals": [
+        "讓學生親身學習如何使用抽象代數的語言和邏輯來解題",
+        "讓學生熟悉群、環、體等基本抽象代數概念和證明方法",
+        "應用抽象帶數解決相關數學問題"
+    ],
+    "syllabus": "1\\. Binary Operations\n\n2\\. Isomorphic Binary Structures\n\n3\\. Groups\n\n4\\. Subgroups\n\n5\\. Cyclic Groups\n\n6\\. Groups of Permutations\n\n7\\. Orbits, Cycles, and the Alternating Groups\n\n8\\. Cosets and the Theorem of Lagrange\n\n9\\. Direct Products and Finitely Generated Abelian Groups\n\n10\\. Homomorphism\n\n11\\. Factor-Groups\n\n12\\. Factor-Group Computations and Simple Groups\n\n13\\. Sylow Theorem and its application",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 11,
+            "note": ""
+        },
+        {
+            "type": "期中考",
+            "weight": 44,
+            "note": "2 Exams"
+        },
+        {
+            "type": "期末考",
+            "weight": 33,
+            "note": ""
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 1,
+            "note": ""
+        },
+        {
+            "type": "其他",
+            "weight": 11,
+            "note": "Quiz"
+        }
+    ],
+    "prerequisite": "◎必須先修過(也可以同時修)【MAU0166  代數學（一）】",
+    "general_core": []
+}

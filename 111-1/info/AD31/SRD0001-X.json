@@ -1,0 +1,83 @@
+{
+    "year": 111,
+    "term": 1,
+    "name": "質性研究法",
+    "teachers": [
+        "麥康妮"
+    ],
+    "department": "AD31",
+    "code": "SRD0001",
+    "credit": 3,
+    "serial": 6,
+    "group": "",
+    "quota": {
+        "limit": 30,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 4,
+            "from": 7,
+            "to": 9,
+            "campus": "本部",
+            "classroom": "綜603"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程不開放上修",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "",
+    "goals": [
+        "理解並陳述質性研究的意義、特徵與功能",
+        "理解質性研究設計的邏輯與各項方法",
+        "評析質性研究論文的品質",
+        "獨立完成一項質性的研究計畫案"
+    ],
+    "syllabus": "_**Course Topics & Schedule (****by Week):**_\n\n1.  **Introduction to the Course + What is Qualitative Research?** (9/23) (\\* online lecture)\n2.  **Research Philosophies and Methodologies (Ontology, Epistemology, Axiology and Methodologies) +** **Key Qualitative Approaches** \\+ **The Qualitative Research Process (Research Questions/Research Objectives)** (9/30) (\\* online lecture)\n3.  **Literature Review + Critical Literature Review/Systematic Literature Review + Conceptual Framework** + **Designing a Qualitative Study** (10/7) (\\* online lecture)\n4.  **Focus Group + In-depth Interview + Participant Observation** + **Qualitative Data Analysis (Content Analysis, Thematic Analysis) + Qualitative Data Coding** (10/14)\n5.  **Narrative Research\\*\\*\\*** (10/21)\n6.  **Phenomenology / Phenomenological Research \\*\\*\\*** (10/28)\n7.  **Grounded Theory**\\*\\*\\* (11/4)\n8.  **Ethnography**\\*\\*\\* (11/11)\n9.  **Case Study Research**\\*\\*\\* (11/18)\n10.  **Action Research**\\*\\*\\* (11/25)\n11.  **Qualitative Research Proposal Writing + Sampling Methods & Representativeness + Providing Feedback** (12/2)\n12.  **Proposal Presentations\\*\\*\\* + Providing Feedback** (12/9)\n13.  **Trustworthiness of Findings + Triangulation** (12/16)\n14.  **Qualitative Research Writing + Overcoming Barriers** (12/23)\n15.  **Qualitative Research Ethical Considerations + Other Qualitative Methodologies** (12/30)\n16.  **Research Project Presentations\\*\\*\\*** (1/6)\n17.  Week 17 – Revise Your Proposal\n18.  Week 18 – Revise Your Proposal",
+    "methodologies": [
+        {
+            "type": "Formal lecture",
+            "note": "Lecturing"
+        },
+        {
+            "type": "Group discussion",
+            "note": "In-class Discussion"
+        },
+        {
+            "type": "Cooperative learning",
+            "note": "Collaborative Learning"
+        },
+        {
+            "type": "Lab/Studio",
+            "note": "Mini-Teaching Session + Research Project"
+        }
+    ],
+    "grading": [
+        {
+            "type": "Assignments",
+            "weight": 30,
+            "note": "Mini-teaching Session of a Qualitative Methodology 30%"
+        },
+        {
+            "type": "Attendances",
+            "weight": 20,
+            "note": "Class Attendance and In-class Discussion 20%"
+        },
+        {
+            "type": "Presentation",
+            "weight": 10,
+            "note": "Research Project Proposal 10%"
+        },
+        {
+            "type": "Case study reports",
+            "weight": 40,
+            "note": "Research Project Presentation 40%"
+        }
+    ],
+    "prerequisite": "◎Unavailable for M.A. program students (M.A. program courses excepted) and B.A. program students.",
+    "general_core": []
+}

@@ -1,0 +1,77 @@
+{
+    "year": 111,
+    "term": 1,
+    "name": "數位訊號處理",
+    "teachers": [
+        "張國維"
+    ],
+    "department": "HU73",
+    "code": "MTC9003",
+    "credit": 3,
+    "serial": 1268,
+    "group": "",
+    "quota": {
+        "limit": 30,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 1,
+            "from": 7,
+            "to": 9,
+            "campus": "本部",
+            "classroom": "CAD/CAM"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "",
+    "classes": "9",
+    "dept_group": "",
+    "hours": 3,
+    "description": "",
+    "goals": [
+        "使學生熟悉數位訊號處理方法及強化學生數位訊號處理程式與專題實作能力。",
+        "設計與執行數位訊號處理專題之能力",
+        "培養數位訊號處理之問題解決之能力"
+    ],
+    "syllabus": "1\\. Introduction to modern digital signal processing techniques.\n\n2\\. A/D and D/A conversion.\n\n3\\. Spectrum Representation\n\n4\\. Sampling and Aliasing\n\n5\\. FIR filters\n\n6\\. Frequency Response of FIR Filters\n\n7\\. Z-Transform\n\n8\\. IIR and FIR filter design.\n\n9\\. Continuous-time signals and LTI Systems\n\n10\\. DTFT Frequency Response\n\n11\\. DFT, FFT, and fast convolution\n\n12\\. Multirate systems and filter banks. Wiener filters. Adaptive filters.",
+    "methodologies": [
+        {
+            "type": "Formal lecture",
+            "note": "講解各種數位影像處理觀念與原理，引導學生學會數位影像處理設計技巧。"
+        },
+        {
+            "type": "Problem base learning",
+            "note": "帶領學生立利用Matlab語言實際進行問題解決。"
+        },
+        {
+            "type": "Media, audio, visual materials",
+            "note": "運用PPT進行教學"
+        },
+        {
+            "type": "Case studies",
+            "note": "訓練學生擁有查閱數位影像處理期刊，選定數位影像處理相關主題進行問題解決，並撰寫符合格式之技術報告。"
+        }
+    ],
+    "grading": [
+        {
+            "type": "Assignments",
+            "weight": 35,
+            "note": "評量學生的學習成效及問題解決能力"
+        },
+        {
+            "type": "Midterm Exam",
+            "weight": 30,
+            "note": "評量學生的學習成效及問題解決能力"
+        },
+        {
+            "type": "Final exam",
+            "weight": 35,
+            "note": "評量學生的學習成效及問題解決能力"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

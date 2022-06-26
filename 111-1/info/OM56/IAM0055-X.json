@@ -1,0 +1,86 @@
+{
+    "year": 111,
+    "term": 1,
+    "name": "研究方法",
+    "teachers": [
+        "施人英"
+    ],
+    "department": "OM56",
+    "code": "IAM0055",
+    "credit": 3,
+    "serial": 2463,
+    "group": "",
+    "quota": {
+        "limit": 20,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 5,
+            "from": 2,
+            "to": 4,
+            "campus": "本部",
+            "classroom": "雲508"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎限本系(含雙主修)修習 ◎必須先修過【PGUA007  統計學】、【BAU0040  統計學（一）】其中一門 ◎課程不開放上修",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "研究方法課程將介紹給同學在面臨學術論文問題與企業決策問題時，如何透過有系統的研究方法解決之。本門課將以研究流程導向的方式進行，首先定義問題範疇，接著介紹次級資料與文獻探索、研究設計（包括實驗設計、問卷量表設計與衡量、信度與效度檢測、抽樣設計等）、資料蒐集、統計軟體操作、資料分析、資料解讀、研究結果撰寫等。",
+    "goals": [
+        "1\t瞭解研究方法在學術與實務上的重要性 2\t瞭解各種研究方法的理論基礎、內涵及軟體應用 3\t熟悉如何進行嚴謹的研究流程- Understand the importance of research methods in academia and business decision making",
+        "Understand the basic theories of research methods and statistical tools used in business research",
+        "Know how to conduct a scientific research process"
+    ],
+    "syllabus": "This schedule is provisional. Check back frequently for updates and revisions.\n\n**Week**\n\n**Topics**\n\n**Materials and Activities**\n\n1\n\nOpening Lecture: Course Overview\n\nResearch in Business\n\nSyllabus and NTNU Moodle\n\nCh 1, Discussion Question 1\n\n2\n\nEthics in Business Research\n\nMOE Ehics Website\n\n臺灣學術倫理教育資源中心 ([https://ethics.moe.edu.tw/](https://ethics.moe.edu.tw/))\n\nCh 2, DQ2\n\n3\n\nClarifying the Research Question through Secondary Data and Exploration\n\nCh 5\n\n4\n\nIntroduction to Research Database\n\nNTNU Library Online ResourceAssignment #1\n\n5\n\n(Online) Thinking like a Researcher (Part I)\n\nCh 3\n\n6\n\n(Online) Thinking like a Researcher (Part II)\n\nCh 3, DQ3, R1, R2\n\n7\n\n(Online) Qualitative Research (Part I)\n\nCh 7, DQ4\n\n8\n\n(Online) Qualitative Research (Part II)\n\nCh 7, R3\n\n9\n\n(Online) Experiments\n\nCh 10, DQ5, R4\n\n10\n\n(Online) Measurement\n\nCh 11, DQ6, R5\n\n11\n\n(Online) Measurement Scales\n\nCh 12, DQ7\n\n12\n\n(Online) Sampling\n\nCh 14, DQ8\n\n13\n\n(Online) Data Preparation and Description\n\nCh 15, DQ9\n\n14\n\n(Online) Exploring, Displaying, and Examining Data\n\nCh 16; Statistical software\n\n15\n\n(Online) Modeling: Association\n\nCh 18\n\nAssignment #2\n\n16\n\nFinal Exam\n\n17\n\nOnline Activity: Project Presentation\n\nResearch proposal (PPT)\n\n18\n\nOnline Activity: Project Report\n\nResearch proposal (Document)",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "理論與觀念講述"
+        },
+        {
+            "type": "討論法",
+            "note": "學術文獻討論"
+        },
+        {
+            "type": "合作學習",
+            "note": "團隊作業與報告"
+        },
+        {
+            "type": "實驗/實作",
+            "note": "軟體操作"
+        },
+        {
+            "type": "專題研究",
+            "note": "期末專題報告"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 15,
+            "note": "依據主題分派作業"
+        },
+        {
+            "type": "期末考",
+            "weight": 30,
+            "note": "瞭解學生整體課程的吸收程度"
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 25,
+            "note": "啟發學生思考"
+        },
+        {
+            "type": "報告",
+            "weight": 30,
+            "note": "學習成果展示"
+        }
+    ],
+    "prerequisite": "◎必須先修過【PGUA007  統計學】、【BAU0040  統計學（一）】其中一門",
+    "general_core": []
+}

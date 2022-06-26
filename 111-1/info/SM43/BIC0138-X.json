@@ -1,0 +1,79 @@
+{
+    "year": 111,
+    "term": 1,
+    "name": "細胞及分子生物學",
+    "teachers": [
+        "賴韻如",
+        "王慈蔚",
+        "蘇銘燦"
+    ],
+    "department": "SM43",
+    "code": "BIC0138",
+    "credit": 3,
+    "serial": 2698,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 4,
+            "from": 6,
+            "to": 8,
+            "campus": "公館",
+            "classroom": "Ｃ302"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程不開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "以分子生物學之角度了解細胞之構造與其作用,並探討細胞之功能與作用機轉，使學生對於生命現象其後之科學理論基礎有一完整之知識。",
+    "goals": [
+        "培養學生對科學文獻的判讀與解析能力",
+        "訓練學生構思與批判科學問題的能力"
+    ],
+    "syllabus": "9/12     Introduction/ Membrane Structure and Membrane Transport (I)\n\n9/19     Membrane Structure and Membrane Transport (II)\n\n9/26     Mitochondria and Chloroplasts\n\n10/3     How cells are studied\n\n10/17   Cell Junctions, Adhesions, and Extracellular Matrix\n\n10/24   Extracellular Matrix\n\n10/31   Cell Cycle (I)\n\n11/7     Cell Cycle (II)\n\n11/14   Midterm Exam\n\n11/21   Mechanisms of Cell communication (I)\n\n11/28   Mechanisms of Cell communication (II)\n\n12/5     Apoptosis and autophagy\n\n12/12   Intracellular compartments and protein sorting\n\n12/19   Intracellular vesicle sorting\n\n12/26   Cytoskeleton\n\n1/2       Specialized tissues\n\n1/9       Final Exam",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "媒體融入教學",
+            "note": ""
+        },
+        {
+            "type": "其他",
+            "note": "論文討論"
+        }
+    ],
+    "grading": [
+        {
+            "type": "期中考",
+            "weight": 35,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 35,
+            "note": ""
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 10,
+            "note": ""
+        },
+        {
+            "type": "報告",
+            "weight": 20,
+            "note": "口頭報告"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

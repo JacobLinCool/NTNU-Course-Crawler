@@ -1,0 +1,77 @@
+{
+    "year": 111,
+    "term": 1,
+    "name": "高級教育統計學（乙）",
+    "teachers": [
+        "何榮桂"
+    ],
+    "department": "E",
+    "code": "E0C8002",
+    "credit": 3,
+    "serial": 341,
+    "group": "B",
+    "quota": {
+        "limit": 35,
+        "additional": 5
+    },
+    "schedule": [
+        {
+            "day": 4,
+            "from": 6,
+            "to": 8,
+            "campus": "本部",
+            "classroom": "教403"
+        }
+    ],
+    "programs": [
+        "學習與資訊學程",
+        "大數據學程"
+    ],
+    "comment": "",
+    "restrict": "◎課程不開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "",
+    "goals": [
+        "1.\t了解常用統計檢定方法的原理及其適用時機",
+        "2.\t選擇適切的分析方法解決問題和解釋分析結果",
+        "3.\t運用統計軟體執行資料分析並撰寫分析結果報告"
+    ],
+    "syllabus": "**【授課方式：16+2週】，並明列彈性授課進行方式與時間。**  \n \n\n1 (09/23) 課程簡介、資料的來源與搜集\n\n2 (09/30) 描述統計概述\n\n3 (10/07) 集中量數、變異量數、圖及表表示法\n\n4 (10/14) 相對地位量數\n\n5 (10/21) Midterm 1 Exam\n\n6 (10/28) 常態分配\n\n7 (11/04) 推論統計的基本概念\n\n8 (11/11) 積差相關\n\n9 (11/18) 單純直線迴歸與預測\n\n10 (11/25) 兩個母數差異的假設檢定\n\n11 (12/02) Midterm 2 Exam\n\n12 (12/09) 卡方檢定、百分比的差異檢定\n\n13 (12/16) 變異數分析、多重比較\n\n14 (12/23) 共變數分析\n\n15 (12/30) 多元回歸分析\n\n16 (01/06) Final Exam\n\n17 (01/13) 自主學習 — 巨量資料\n\n18 (01/20) 自主學習 — 開放資料",
+    "methodologies": [
+        {
+            "type": "Formal lecture",
+            "note": ""
+        },
+        {
+            "type": "Group discussion",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "Assignments",
+            "weight": 20,
+            "note": ""
+        },
+        {
+            "type": "Midterm Exam",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "Final exam",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "Class discussion involvement",
+            "weight": 20,
+            "note": ""
+        }
+    ],
+    "prerequisite": "◎Unavailable for M.A. program students (M.A. program courses excepted) and B.A. program students.",
+    "general_core": []
+}

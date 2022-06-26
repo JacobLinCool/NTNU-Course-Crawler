@@ -1,0 +1,79 @@
+{
+    "year": 111,
+    "term": 1,
+    "name": "系統程式",
+    "teachers": [
+        "黃冠寰"
+    ],
+    "department": "SU47",
+    "code": "CSU0027",
+    "credit": 3,
+    "serial": 3056,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 1,
+            "from": 8,
+            "to": 9,
+            "campus": "公館",
+            "classroom": "理圖003"
+        },
+        {
+            "day": 4,
+            "from": 3,
+            "to": 3,
+            "campus": "公館",
+            "classroom": "理圖003"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "3",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "Systems software consists of the programs that transform the raw hardware of a computer system into an environment suitable for creating and running application programs. The most important systems program is the operating system. Other systems software includes assemblers, linkers, loaders, and compilers. This course is a detailed examination of how systems software is created on top of the hardware. Concepts are illustrated using a simple (and imaginary) computer.",
+    "goals": [
+        "使同學瞭解系統程式的原理"
+    ],
+    "syllabus": "Week 1: “Background”,\n\nWeek 2~5: “Assemblers”,\n\nWeek 6~8: “Loader and Linker”,\n\nWeek 9: “Macro Processors”,\n\nWeek 10-11: “The way to construct a library in Linux and Windows environment.”,\n\nWeek 12-16: “Unix System Calls”",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "實驗/實作",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 10,
+            "note": ""
+        },
+        {
+            "type": "期中考",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "專題",
+            "weight": 30,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

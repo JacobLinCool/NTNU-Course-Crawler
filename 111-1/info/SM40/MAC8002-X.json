@@ -1,0 +1,82 @@
+{
+    "year": 111,
+    "term": 1,
+    "name": "數學教育研究法（二）",
+    "teachers": [
+        "謝豐瑞"
+    ],
+    "department": "SM40",
+    "code": "MAC8002",
+    "credit": 3,
+    "serial": 2668,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 1,
+            "from": 6,
+            "to": 8,
+            "campus": "公館",
+            "classroom": "數學館417教學實驗室"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程透過對數學教育問題的辨認、數學教育研究問題的形成、數學教育研究的設計與研究來探究或解決數學教育問題，期能培養學生數學教育研究的能力與興趣。",
+    "goals": [
+        "認識數學教育研究的理論與實務",
+        "探究如何辨認數學教育相關問題",
+        "學習數學教育研究問題的形成的方式",
+        "探討如何設計與執行數學教育研究",
+        "學習數學教育研究結果與歷程的撰寫"
+    ],
+    "syllabus": "一、 目標\n\n認識主要的教育研究方法，包含質性研究或質化研究(Qualitative Research)、訪談或晤談(Interview Method)、內容分析(content analysis)、個案研究(Case Study)、量化研究(Quantitative Research)、教學實驗(Teaching Experiments)、行動研究(Action Research)。  \n\n二、 教學大綱\n\n1、課程介紹\n\n2、第五、六章\n\n3、第七、十章\n\n4、第八、九章\n\n5、第十五、十六章 相關和關聯\n\n6、多元迴歸分析\n\n7、第十一章 假設檢定\n\n8、變異數分析ANOVA, MANOVA\n\n9、期中考\n\n10、共變數分析ANCOVA, MANCOVA\n\n11、無母數統計法\n\n12、因素分析、集群分析\n\n13、個人研究主題報告\n\n14、個人研究主題報告\n\n15、個人研究主題報告\n\n16、個人研究主題報告\n\n17、第十七章，個人研究主題報告\n\n18、期末反思與檢討",
+    "methodologies": [
+        {
+            "type": "其他",
+            "note": "※以下作業缺少任何一項者，視同本課程的學習不完整，需等所有項目交齊，始能獲得學期分數。"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 15,
+            "note": "個人作業：Research Proposal至多20頁（6/25繳交）"
+        },
+        {
+            "type": "期中考",
+            "weight": 25,
+            "note": ""
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 25,
+            "note": "課堂討論：輪值口頭報告無故無法報告者，課堂討論成績以零分計算。未輪到報告同學應針對所討論的文獻提出兩個討論的問題。"
+        },
+        {
+            "type": "出席",
+            "weight": 15,
+            "note": ""
+        },
+        {
+            "type": "報告",
+            "weight": 10,
+            "note": "主要用書報告：報告人應於報告前三天繳交書面摘要一頁供同學們參考。"
+        },
+        {
+            "type": "其他",
+            "weight": 10,
+            "note": "個人研究主題報告：報告人應於報告前一週提供大綱供同學們參考。"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

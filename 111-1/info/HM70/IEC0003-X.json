@@ -1,0 +1,87 @@
+{
+    "year": 111,
+    "term": 1,
+    "name": "技職教育學習理論研究",
+    "teachers": [
+        "宋修德"
+    ],
+    "department": "HM70",
+    "code": "IEC0003",
+    "credit": 2,
+    "serial": 1132,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 9,
+            "to": 10,
+            "campus": "本部",
+            "classroom": "研討二"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 2,
+    "description": "",
+    "goals": [
+        "學習者能了解技職教育學習之相關理論。",
+        "學習者能明瞭如何應用學習理論在專業及技能教學。",
+        "學習者能合宜應用學習理論於個人生活情境中。"
+    ],
+    "syllabus": "第一週：緒論  \n第二週：行為學派在技職教育教學的運用  \n第三週：社會認知及發現學習  \n第四週：有意義學習及學習條件  \n第五、六週：訊息處理在專業及技能學習  \n第七、八週：建構主義的學習觀  \n第九、十週：技職教育之合作學習與多元評量  \n第十一、十二週：人本取向學習理論  \n第十三、十四週：學習理論之心理及生理學基礎  \n第十五週：學習理論相關期刊文章研討\n\n第十六、十七週：期末報告\n\n第十八週：期末測驗",
+    "methodologies": [
+        {
+            "type": "Formal lecture",
+            "note": "說明技職教育學習理論之知識及原理。"
+        },
+        {
+            "type": "Group discussion",
+            "note": "分組討論學習理論期刊論文。"
+        },
+        {
+            "type": "Cooperative learning",
+            "note": "分組進行技職教育學習理論專題報告。"
+        },
+        {
+            "type": "Case studies",
+            "note": "分組進行技職教育學習理論專題研究。"
+        }
+    ],
+    "grading": [
+        {
+            "type": "Assignments",
+            "weight": 20,
+            "note": ""
+        },
+        {
+            "type": "Final exam",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "Class discussion involvement",
+            "weight": 10,
+            "note": ""
+        },
+        {
+            "type": "Attendances",
+            "weight": 10,
+            "note": ""
+        },
+        {
+            "type": "Presentation",
+            "weight": 30,
+            "note": ""
+        }
+    ],
+    "prerequisite": "◎Available for junior and senior year B.A. program students (Doctoral program courses excepted) and M.A. program students.",
+    "general_core": []
+}

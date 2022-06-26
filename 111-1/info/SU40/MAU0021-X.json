@@ -1,0 +1,69 @@
+{
+    "year": 111,
+    "term": 1,
+    "name": "離散數學",
+    "teachers": [
+        "林延輯"
+    ],
+    "department": "SU40",
+    "code": "MAU0021",
+    "credit": 3,
+    "serial": 2820,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 6,
+            "to": 8,
+            "campus": "公館",
+            "classroom": "Ｓ201"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "2",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "離散數學討論的對象是非連續事物的性質，它是一個邏輯與函數的訓練基礎課程。而計數(Counting)的方法，也都有非常廣泛的應用。",
+    "goals": [
+        "能解決劑量的應用問題",
+        "能運用離散數學解決相關領域的問題",
+        "轉換數學模型的能力"
+    ],
+    "syllabus": "1.  基本計數原理 (1 week)\n2.  排列、組合 (1.5 weeks)\n3.  二項式係數 (1.5 weeks)\n4.  排容原理 (2 weeks)\n5.  遞迴關係 (2 weeks)\n6.  生成函數 (2 weeks)\n7.  特殊組合數列 (3 weeks)\n8.  Polya 計數原理 (3 weeks)",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "講述課程理論與示例"
+        },
+        {
+            "type": "問題解決教學",
+            "note": "習題演練、解題賞析"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 20,
+            "note": "每週乙回"
+        },
+        {
+            "type": "期中考",
+            "weight": 40,
+            "note": "期中紙筆評量"
+        },
+        {
+            "type": "期末考",
+            "weight": 40,
+            "note": "期末紙筆評量"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

@@ -1,0 +1,93 @@
+{
+    "year": 111,
+    "term": 1,
+    "name": "羽球（一）",
+    "teachers": [
+        "蔡虔祿"
+    ],
+    "department": "AU30",
+    "code": "PEU0266",
+    "credit": 2,
+    "serial": 96,
+    "group": "M",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 4,
+            "from": 3,
+            "to": 4,
+            "campus": "本部",
+            "classroom": "體育館一4F"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎限男生修",
+    "form_s": "2",
+    "classes": "",
+    "dept_group": "",
+    "hours": 2,
+    "description": "羽球是一項老少咸宜的運動，透過基本動作或技術的掌握及實施，即能提升體適能，獲得運動的樂趣。",
+    "goals": [
+        "能夠進行羽球基本動作演練示範"
+    ],
+    "syllabus": "課程與球性介紹\n\n發球\n\n接發球\n\n挑球\n\n抽球\n\n平推球\n\n高遠擊球\n\n測驗發球\n\n測驗對牆高遠擊球\n\n殺球\n\n封網與切球\n\n反拍高遠球\n\n單打規則與裁判\n\n期末測驗\n\n單打循環比賽",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "教師課堂授課"
+        },
+        {
+            "type": "討論法",
+            "note": "教師與學生課堂討論"
+        },
+        {
+            "type": "問題解決教學",
+            "note": "透過簡單教具之使用, 做為羽球動作之練習"
+        },
+        {
+            "type": "合作學習",
+            "note": "組合練習中擔任練習者與訓練者, 小組練習"
+        },
+        {
+            "type": "實驗/實作",
+            "note": "羽球基本動作演練"
+        },
+        {
+            "type": "媒體融入教學",
+            "note": "使用數位學習平台, 透過動作拍攝了解自我動作之優缺點"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 20,
+            "note": "筆記"
+        },
+        {
+            "type": "期中考",
+            "weight": 30,
+            "note": "發球,高遠球對打,對牆擊球測驗"
+        },
+        {
+            "type": "期末考",
+            "weight": 10,
+            "note": "筆試"
+        },
+        {
+            "type": "出席",
+            "weight": 10,
+            "note": "上課出席率, 請假狀況"
+        },
+        {
+            "type": "其他",
+            "weight": 30,
+            "note": "循環比賽"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

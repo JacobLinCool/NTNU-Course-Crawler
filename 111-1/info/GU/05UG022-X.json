@@ -1,0 +1,59 @@
+{
+    "year": 111,
+    "term": 1,
+    "name": "學程式玩音樂",
+    "teachers": [
+        "未定"
+    ],
+    "department": "GU",
+    "code": "05UG022",
+    "credit": 2,
+    "serial": 987,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 3,
+            "to": 4,
+            "campus": "本部",
+            "classroom": "教402"
+        }
+    ],
+    "programs": [
+        "音樂科技學程"
+    ],
+    "comment": "林宜徵",
+    "restrict": "",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 2,
+    "description": "本課程作為一般基礎程式課程之延伸，教學對象為對基礎程式語言有實作的經驗之學生，以音樂程式結合常用之程式語言邏輯，帶學生做出具有各種聲響之音樂程式專案，藉此，學生除了強化程式寫作的經驗之外，也對數位聲響原理有初步的認識與探索。",
+    "goals": [
+        "能將基礎程式語言邏輯運用在音樂程式製作上",
+        "能理解基礎數位音樂製作原理",
+        "能透過音樂程式撰寫，傳達簡單樂想"
+    ],
+    "syllabus": "",
+    "methodologies": [
+        {
+            "type": "",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "",
+            "weight": null,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": [
+        "邏輯運算"
+    ]
+}

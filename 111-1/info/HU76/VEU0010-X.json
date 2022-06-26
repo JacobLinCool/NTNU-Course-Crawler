@@ -1,0 +1,90 @@
+{
+    "year": 111,
+    "term": 1,
+    "name": "工程數學（一）",
+    "teachers": [
+        "洪翊軒"
+    ],
+    "department": "HU76",
+    "code": "VEU0010",
+    "credit": 3,
+    "serial": 1336,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 4,
+            "from": 6,
+            "to": 8,
+            "campus": "本部",
+            "classroom": "工401"
+        }
+    ],
+    "programs": [
+        "太陽能源與工程學程"
+    ],
+    "comment": "",
+    "restrict": "",
+    "form_s": "2",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本科目旨在協助學生瞭解工程數學之基本原理、運算技巧及其在工程上之實際應用。課程範圍涵蓋一階常微分方程式、二階及高階線性微分方程式、微分方程式系統、微分方程式之級數解、Laplace轉換與解ODE問題等單元。",
+    "goals": [
+        "瞭解工程數學之基本原理",
+        "增進問題導向的邏輯思考能力",
+        "培養工程數學之運算技巧與能力",
+        "發展工程數學在工程應用之分析設計能力"
+    ],
+    "syllabus": "第一週\n\nIntroduction to the course of Engineering Mathematics (I)\n\nFirst-order Ordinary differential equations (ODEs)\n\nBasic concepts. Modeling\n\nGeometric meaning of y’=f(x, y). Direction fields\n\n第二週\n\nSeparable ODEs. Modeling\n\nExact ODEs. Integrating factor\n\nLinear ODEs. Bernoulli equation\n\n第三週\n\nLinear ODEs. Bernoulli equation\n\nSecond-order linear ODEs\n\nHomogeneous linear ODEs of second order\n\n第四週\n\nHomogeneous linear ODEs with constant coefficients\n\nDifferential operators\n\n第五週\n\nModeling: free oscillations (mass-spring system)\n\nEuler-Cauchy equations\n\n第六週\n\nWronskian\n\nNonhomogeneous ODEs\n\n第七週\n\nModeling: forced oscillations. Resonance\n\nModeling: Electric circuits\n\nSolution by variation of parameters\n\n第八週\n\n**Mid-term test ( I )**\n\n第九週\n\nHigher order linear ODEs\n\nHomogeneous linear ODEs\n\nHomogeneous linear ODEs with constant coefficients\n\n第十週\n\nNonhomogeneous linear ODEs\n\nSystems of ODEs\n\nBasics of matrices and vectors\n\n第十一週\n\nSystems of ODEs as models\n\nBasic theory of systems of ODEs\n\n第十二週\n\nCriteria for critical points. Stability\n\nNonhomogeneous linear systems of ODEs\n\n第十三週\n\n**Mid-term test ( II )**\n\n第十四週\n\nLaplace transforms\n\nLaplace transform. Inverse transform. Linearity. S-shifting\n\nTransforms of derivatives and integrals. ODEs\n\n第十五週\n\nUnit step function. T-shifting\n\nShort impulses. Dirac’s Delta function. Partial fractions\n\n第十六週\n\nConvolution. Integration equations\n\nDifferentiation and integration of transforms\n\n第十七週\n\nSystems of ODEs\n\nLaplace transform: general formulas\n\n第十八週\n\n       **Final test**",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "講解數學原理、進行公式來源證明與推導。"
+        },
+        {
+            "type": "討論法",
+            "note": "討論數學在工程上的應用範例、資料補充說明討論。"
+        },
+        {
+            "type": "問題解決教學",
+            "note": "利用課本習題講解解題步驟與公式運用要點。"
+        },
+        {
+            "type": "其他",
+            "note": "隨堂考，檢視學生的學習成效，進行必要的補充說明。利用期中考與期末考檢視學生總體學習成效。"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 15,
+            "note": "各章指定作業以利複習。"
+        },
+        {
+            "type": "期中考",
+            "weight": 25,
+            "note": "命題範圍為一階ODE與二階ODE的運算，以及振動與電路工程問題之應用。"
+        },
+        {
+            "type": "期末考",
+            "weight": 25,
+            "note": "評量學生的學習成效，命題範圍為Laplace轉換與其解ODE問題的運算。另含期中考前部分範圍。"
+        },
+        {
+            "type": "出席",
+            "weight": 15,
+            "note": "點名，以隨堂考形式進行。"
+        },
+        {
+            "type": "其他",
+            "weight": 20,
+            "note": "筆記。完整紀錄上課內容與補充部分。"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

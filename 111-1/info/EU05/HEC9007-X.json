@@ -1,0 +1,89 @@
+{
+    "year": 111,
+    "term": 1,
+    "name": "應用統計學",
+    "teachers": [
+        "李子奇"
+    ],
+    "department": "EU05",
+    "code": "HEC9007",
+    "credit": 2,
+    "serial": 745,
+    "group": "",
+    "quota": {
+        "limit": 35,
+        "additional": 3
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 1,
+            "to": 2,
+            "campus": "本部",
+            "classroom": "教403"
+        }
+    ],
+    "programs": [
+        "學習與資訊學程"
+    ],
+    "comment": "",
+    "restrict": "◎必須先修過【HEU0159  健康促進與衛生教育研究法】",
+    "form_s": "",
+    "classes": "9",
+    "dept_group": "",
+    "hours": 2,
+    "description": "",
+    "goals": [
+        "描述性統計及推論統計的方法與其應用",
+        "運用於健康促進與衛生教育的工作之中",
+        "認識統計的內含與過程"
+    ],
+    "syllabus": "Prerequisites:  \nWe encourage you to speak in English in this course. The lecture and discussion will be performed by speaking in English.  \nYou should have experience with fundamental statistics and research method. \n\nCourse Description:  \nAccording to social and behavioral science research methods increasingly complex and advanced in computer technology in recent years,   \na variety of multivariate statistical method has good application in the analysis of social and behavioral sciences research data.   \nThis course describes the use of SPSS statistical software and the use of multivariate statistical methods to analyze research data.\n\nObjective:  \nThis course is designed for students who had completed course of fundamental statistics and research method.   \nContent will include concepts of inferential statistics, including t-tests, Chi-square, one-way ANOVA, factorial designs of ANOVA,   \nanalysis of covariance, linear regressions, factor analysis and SEM.   \nComputer software (SPSS) will be employed to assist in the analysis of data for this course.  \nThis course will be upon understanding statistical concepts, developing skills for carrying out data analyses,interpreting and reporting findings.\n\nEvaluation:  \nAssignments 20%  \nMidterm exam 30%  \nFinal exam 30%  \nClass discussion involvement 10%  \nAttend 10%\n\n  \nWeek Content:  \n1 Introduction of quantitate study  \n2 SPSS statistical software practice I  \n3 SPSS statistical software practice II  \n4 SPSS statistical software practice III  \n5 Factorial analysis of variance I  \n6 Factorial analysis of variance II  \n7 Mid-term Examination  \n8 Multiple regression I  \n9 Multiple regression II  \n10 Item analysis, validity and reliability  \n11 Explore factor analysis  \n12 Confirmatory factor analysis  \n13 Structure equation modeling I  \n14 Structure equation modeling II  \n15 Structure equation modeling III  \n16 Final-term Examination\n\nTextbook and reference:   \nJulie Pallant  (2010) SPSS Survival Manual : A step by step guide to data analysis using SPSS ISBN：9780335242399",
+    "methodologies": [
+        {
+            "type": "Formal lecture",
+            "note": ""
+        },
+        {
+            "type": "Group discussion",
+            "note": ""
+        },
+        {
+            "type": "Problem base learning",
+            "note": ""
+        },
+        {
+            "type": "Lab/Studio",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "Assignments",
+            "weight": 20,
+            "note": ""
+        },
+        {
+            "type": "Midterm Exam",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "Final exam",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "Class discussion involvement",
+            "weight": 10,
+            "note": ""
+        },
+        {
+            "type": "Attendances",
+            "weight": 10,
+            "note": ""
+        }
+    ],
+    "prerequisite": "Prerequisite course: 【HEU0159  Research Methods in Health Promotion and Health Ed】",
+    "general_core": []
+}

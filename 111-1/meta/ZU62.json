@@ -1,0 +1,823 @@
+[
+    {
+        "year": 111,
+        "term": 1,
+        "name": "科學思維",
+        "teachers": [
+            "未定"
+        ],
+        "department": "GU",
+        "code": "05UG002",
+        "credit": 2,
+        "serial": 961,
+        "group": "A",
+        "quota": {
+            "limit": 75,
+            "additional": 0
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 16,
+                "to": 10,
+                "campus": "本部",
+                "classroom": "誠109"
+            }
+        ],
+        "programs": [
+            "理工實作學程"
+        ],
+        "comment": "鍾兆晉",
+        "restrict": "",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "科學思維",
+        "teachers": [
+            "未定"
+        ],
+        "department": "GU",
+        "code": "05UG002",
+        "credit": 2,
+        "serial": 962,
+        "group": "B",
+        "quota": {
+            "limit": 75,
+            "additional": 0
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 11,
+                "to": 12,
+                "campus": "本部",
+                "classroom": "誠109"
+            }
+        ],
+        "programs": [
+            "理工實作學程"
+        ],
+        "comment": "鍾兆晉",
+        "restrict": "",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "科技與社會",
+        "teachers": [
+            "李旻憲"
+        ],
+        "department": "GU",
+        "code": "05UG009",
+        "credit": 2,
+        "serial": 963,
+        "group": "A",
+        "quota": {
+            "limit": 50,
+            "additional": 4
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 3,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "正102"
+            }
+        ],
+        "programs": [
+            "理工實作學程"
+        ],
+        "comment": "",
+        "restrict": "",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "科技與社會",
+        "teachers": [
+            "林陳涌"
+        ],
+        "department": "GU",
+        "code": "05UG009",
+        "credit": 2,
+        "serial": 964,
+        "group": "B",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 3,
+                "to": 4,
+                "campus": "公館",
+                "classroom": "理圖002"
+            }
+        ],
+        "programs": [
+            "理工實作學程"
+        ],
+        "comment": "",
+        "restrict": "",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "環境倫理與永續發展",
+        "teachers": [
+            "張子超"
+        ],
+        "department": "GU",
+        "code": "06UG006",
+        "credit": 2,
+        "serial": 998,
+        "group": "A",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 6,
+                "to": 7,
+                "campus": "公館",
+                "classroom": "理圖001"
+            }
+        ],
+        "programs": [
+            "理工實作學程"
+        ],
+        "comment": "",
+        "restrict": "",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "環境倫理與永續發展",
+        "teachers": [
+            "未定"
+        ],
+        "department": "GU",
+        "code": "06UG006",
+        "credit": 2,
+        "serial": 999,
+        "group": "B",
+        "quota": {
+            "limit": 90,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 10,
+                "to": 11,
+                "campus": "本部",
+                "classroom": "誠201"
+            }
+        ],
+        "programs": [
+            "理工實作學程"
+        ],
+        "comment": "李清安",
+        "restrict": "",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "學習與生活中的腦科學",
+        "teachers": [
+            "顏妙璇"
+        ],
+        "department": "GU",
+        "code": "06UG018",
+        "credit": 2,
+        "serial": 1004,
+        "group": "A",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 3,
+                "to": 4,
+                "campus": "公館",
+                "classroom": "理圖001"
+            }
+        ],
+        "programs": [
+            "理工實作學程"
+        ],
+        "comment": "",
+        "restrict": "",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "學習與生活中的腦科學",
+        "teachers": [
+            "顏妙璇"
+        ],
+        "department": "GU",
+        "code": "06UG018",
+        "credit": 2,
+        "serial": 1005,
+        "group": "B",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 3,
+                "to": 4,
+                "campus": "公館",
+                "classroom": "Ｂ101"
+            }
+        ],
+        "programs": [
+            "理工實作學程"
+        ],
+        "comment": "",
+        "restrict": "",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "產品設計",
+        "teachers": [
+            "簡佑宏"
+        ],
+        "department": "HU71",
+        "code": "ITU2080",
+        "credit": 3,
+        "serial": 1230,
+        "group": "",
+        "quota": {
+            "limit": 30,
+            "additional": 5
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 2,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "科技系TB310"
+            }
+        ],
+        "programs": [
+            "理工實作學程"
+        ],
+        "comment": "設科組優先選課",
+        "restrict": "◎限本系(含雙主修)修習◎限大三修習",
+        "form_s": "3",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "專題製作（二）",
+        "teachers": [
+            "林坤誼",
+            "陳怡靜",
+            "張敬珣"
+        ],
+        "department": "HU71",
+        "code": "ITU0156",
+        "credit": 1,
+        "serial": 1234,
+        "group": "A",
+        "quota": {
+            "limit": 50,
+            "additional": 0
+        },
+        "schedule": [
+            {
+                "day": 5,
+                "from": 12,
+                "to": 13,
+                "campus": "本部",
+                "classroom": "科技系TC504"
+            }
+        ],
+        "programs": [
+            "理工實作學程"
+        ],
+        "comment": "",
+        "restrict": "◎限本系(含雙主修)修習◎限大四修習◎必須先修過【ITU0155  專題製作（一）】",
+        "form_s": "4",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "專題製作（二）",
+        "teachers": [
+            "蕭顯勝"
+        ],
+        "department": "HU71",
+        "code": "ITU0156",
+        "credit": 1,
+        "serial": 1235,
+        "group": "B",
+        "quota": {
+            "limit": 50,
+            "additional": 0
+        },
+        "schedule": [
+            {
+                "day": 5,
+                "from": 12,
+                "to": 13,
+                "campus": "本部",
+                "classroom": "科技系TB212"
+            }
+        ],
+        "programs": [
+            "理工實作學程"
+        ],
+        "comment": "",
+        "restrict": "◎限本系(含雙主修)修習◎限大四修習◎必須先修過【ITU0155  專題製作（一）】",
+        "form_s": "4",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "專題製作（二）",
+        "teachers": [
+            "丁玉良"
+        ],
+        "department": "HU71",
+        "code": "ITU0156",
+        "credit": 1,
+        "serial": 1236,
+        "group": "C",
+        "quota": {
+            "limit": 50,
+            "additional": 0
+        },
+        "schedule": [
+            {
+                "day": 5,
+                "from": 12,
+                "to": 13,
+                "campus": "本部",
+                "classroom": "科技系TC411"
+            }
+        ],
+        "programs": [
+            "理工實作學程"
+        ],
+        "comment": "",
+        "restrict": "◎限本系(含雙主修)修習◎限大四修習◎必須先修過【ITU0155  專題製作（一）】",
+        "form_s": "4",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "專題製作（二）",
+        "teachers": [
+            "簡佑宏"
+        ],
+        "department": "HU71",
+        "code": "ITU0156",
+        "credit": 1,
+        "serial": 1237,
+        "group": "D",
+        "quota": {
+            "limit": 50,
+            "additional": 0
+        },
+        "schedule": [
+            {
+                "day": 5,
+                "from": 12,
+                "to": 13,
+                "campus": "本部",
+                "classroom": "科技系TB310"
+            }
+        ],
+        "programs": [
+            "理工實作學程"
+        ],
+        "comment": "",
+        "restrict": "◎限本系(含雙主修)修習◎限大四修習◎必須先修過【ITU0155  專題製作（一）】",
+        "form_s": "4",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "專題製作（二）",
+        "teachers": [
+            "許庭嘉"
+        ],
+        "department": "HU71",
+        "code": "ITU0156",
+        "credit": 1,
+        "serial": 1238,
+        "group": "E",
+        "quota": {
+            "limit": 50,
+            "additional": 0
+        },
+        "schedule": [
+            {
+                "day": 5,
+                "from": 12,
+                "to": 13,
+                "campus": "本部",
+                "classroom": "科技系TB312"
+            }
+        ],
+        "programs": [
+            "理工實作學程"
+        ],
+        "comment": "",
+        "restrict": "◎限本系(含雙主修)修習◎限大四修習◎必須先修過【ITU0155  專題製作（一）】",
+        "form_s": "4",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "科學實作的認知與推理",
+        "teachers": [
+            "顏妙璇"
+        ],
+        "department": "SM45",
+        "code": "SEC8009",
+        "credit": 3,
+        "serial": 2736,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 7,
+                "to": 9,
+                "campus": "公館",
+                "classroom": "教室自排"
+            }
+        ],
+        "programs": [
+            "理工實作學程"
+        ],
+        "comment": "",
+        "restrict": "◎課程開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "環境科學",
+        "teachers": [
+            "葉欣誠"
+        ],
+        "department": "SM46",
+        "code": "EEC8048",
+        "credit": 3,
+        "serial": 2747,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 5,
+                "from": 2,
+                "to": 4,
+                "campus": "公館",
+                "classroom": "行304"
+            }
+        ],
+        "programs": [
+            "理工實作學程"
+        ],
+        "comment": "",
+        "restrict": "◎課程開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "環境資訊與空間視覺化",
+        "teachers": [
+            "林冠慧"
+        ],
+        "department": "SM46",
+        "code": "EEC8049",
+        "credit": 3,
+        "serial": 2748,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 2,
+                "to": 4,
+                "campus": "公館",
+                "classroom": "行304"
+            }
+        ],
+        "programs": [
+            "理工實作學程"
+        ],
+        "comment": "",
+        "restrict": "◎課程開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "統計計算（一）",
+        "teachers": [
+            "蔡碧紋"
+        ],
+        "department": "SU40",
+        "code": "MAC0117",
+        "credit": 3,
+        "serial": 2778,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 6,
+                "to": 8,
+                "campus": "公館",
+                "classroom": "數學館M210"
+            }
+        ],
+        "programs": [
+            "理工實作學程"
+        ],
+        "comment": "",
+        "restrict": "",
+        "form_s": "",
+        "classes": "9",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "科學計算導論",
+        "teachers": [
+            "黃聰明"
+        ],
+        "department": "SU40",
+        "code": "MAC9029",
+        "credit": 3,
+        "serial": 2784,
+        "group": "A",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 6,
+                "to": 6,
+                "campus": "公館",
+                "classroom": "理圖807"
+            },
+            {
+                "day": 5,
+                "from": 3,
+                "to": 4,
+                "campus": "公館",
+                "classroom": "理圖002"
+            }
+        ],
+        "programs": [
+            "理工實作學程",
+            "科學計算學程"
+        ],
+        "comment": "本課程可採認為【MAU0019 數值分析（一）】",
+        "restrict": "",
+        "form_s": "",
+        "classes": "9",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "科學計算導論",
+        "teachers": [
+            "謝世峰"
+        ],
+        "department": "SU40",
+        "code": "MAC9029",
+        "credit": 3,
+        "serial": 2785,
+        "group": "B",
+        "quota": {
+            "limit": 50,
+            "additional": 5
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 6,
+                "to": 6,
+                "campus": "公館",
+                "classroom": "理圖801"
+            },
+            {
+                "day": 4,
+                "from": 6,
+                "to": 7,
+                "campus": "公館",
+                "classroom": "Ｃ002"
+            }
+        ],
+        "programs": [
+            "理工實作學程",
+            "科學計算學程"
+        ],
+        "comment": "本課程可採認為【MAU0019 數值分析（一）】",
+        "restrict": "",
+        "form_s": "",
+        "classes": "9",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "線性代數（一）",
+        "teachers": [
+            "李華介"
+        ],
+        "department": "SU40",
+        "code": "MAU0160",
+        "credit": 3,
+        "serial": 2806,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 6,
+                "to": 7,
+                "campus": "公館",
+                "classroom": "Ｓ503"
+            },
+            {
+                "day": 5,
+                "from": 4,
+                "to": 4,
+                "campus": "公館",
+                "classroom": "Ｓ503"
+            }
+        ],
+        "programs": [
+            "理工實作學程"
+        ],
+        "comment": "",
+        "restrict": "◎限大一修習",
+        "form_s": "1",
+        "classes": "1",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "線性代數（一）",
+        "teachers": [
+            "謝世峰"
+        ],
+        "department": "SU40",
+        "code": "MAU0160",
+        "credit": 3,
+        "serial": 2811,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 6,
+                "to": 7,
+                "campus": "公館",
+                "classroom": "Ｅ202"
+            },
+            {
+                "day": 4,
+                "from": 3,
+                "to": 3,
+                "campus": "公館",
+                "classroom": "Ｅ202"
+            }
+        ],
+        "programs": [
+            "理工實作學程"
+        ],
+        "comment": "",
+        "restrict": "◎限大一修習",
+        "form_s": "1",
+        "classes": "2",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "線性代數（一）",
+        "teachers": [
+            "夏良忠"
+        ],
+        "department": "SU40",
+        "code": "MAU0160",
+        "credit": 3,
+        "serial": 2816,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 6,
+                "to": 7,
+                "campus": "公館",
+                "classroom": "Ｓ202"
+            },
+            {
+                "day": 4,
+                "from": 3,
+                "to": 3,
+                "campus": "公館",
+                "classroom": "Ｓ202"
+            }
+        ],
+        "programs": [
+            "理工實作學程"
+        ],
+        "comment": "",
+        "restrict": "◎限大一修習",
+        "form_s": "1",
+        "classes": "3",
+        "dept_group": ""
+    }
+]

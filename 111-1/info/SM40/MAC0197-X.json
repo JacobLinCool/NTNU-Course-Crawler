@@ -1,0 +1,55 @@
+{
+    "year": 111,
+    "term": 1,
+    "name": "幾何測度論（一）",
+    "teachers": [
+        "孟悟理"
+    ],
+    "department": "SM40",
+    "code": "MAC0197",
+    "credit": 3,
+    "serial": 2667,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 5,
+            "from": 2,
+            "to": 4,
+            "campus": "公館",
+            "classroom": "數學館M210"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "",
+    "goals": [
+        "Develop professional skills in mathematics",
+        "Improve the ability of logical reasoning and induction",
+        "Improve mathematical and critical thinking skills"
+    ],
+    "syllabus": "**Course outline** The content of the present one-year course splits into three parts as follows, where an _emphasis_ indicates review topics which will not be examined. Firstly, regarding general measure theory, we treat covering theorems (adequate families, covering with enlargement, centred ball coverings, and Vitali relations), derivatives (existence of derivatives, indefinite integrals, density and approximate continuity, and curves of finite length), and Carathéodory’s construction (the general construction, Hausdorff and spherical measure, relation to Riemann-Stieltjes integration, densities, Cantor sets, Steiner symmetrisation, equality of measures over Euclidean space, and Lipschitzian extensions of functions). Secondly, regarding Grassmann algebra, we cover _tensor products_, graded algebras, the symmetric algebra of a vector space, symmetric forms and polynomial functions, _the exterior algebra of a vector space_, alternating forms and duality, interior multiplications, simple _m_\\-vectors, and inner products. Thirdly, regarding rectifiability, we study differentials and tangents (_differentiation_, Whitney’s extension theorem, approximate differentiation, Rademacher’s theorem, pointwise differentiation of higher order, _factorisation of maps near generic points_, _submanifolds of Euclidean space_, _tangent vectors_, and _relative differentiation_) and area for Lipschitzian maps (Jacobians, area of maps of Euclidean space, rectifiable sets, approximate tangent vectors and differentials, area of maps of rectifiable sets, Cartesian products, equality of measures on rectifiable sets, and rectifiable sets and manifolds of class 1). The second term of this course is expected to begin with the topic _the exterior algebra of a vector space_.\n\n**Details of the course** The main reference text will be the instructor’s weekly updated lecture notes written in LATEX, see \\[Men20\\]. They are based on and expand the relevant parts of Federer’s treatise \\[Fed69\\] and, regarding pointwise differentiation of higher order, the presentation of \\[Men19\\]. Grading is solely determined by individual oral examinations conducted in English.\n\n**Prerequisites** We employ measures, measurable sets, Borel regular measures, measurable functions, Lebesgue integration, linear functionals, and product measures. Familiarity with the majority of these concepts is thus expedient.",
+    "methodologies": [
+        {
+            "type": "Formal lecture",
+            "note": "The lecture will be conducted in English.  Weekly updated LaTeXed lecture notes shall be made available."
+        }
+    ],
+    "grading": [
+        {
+            "type": "Final exam",
+            "weight": 100,
+            "note": "Individual oral examination conducted in English."
+        }
+    ],
+    "prerequisite": "◎Available for junior and senior year B.A. program students (Doctoral program courses excepted) and M.A. program students.",
+    "general_core": []
+}

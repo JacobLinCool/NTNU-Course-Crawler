@@ -1,0 +1,81 @@
+{
+    "year": 111,
+    "term": 1,
+    "name": "普通生物學乙",
+    "teachers": [
+        "林炎壽"
+    ],
+    "department": "SU43",
+    "code": "BIU0170",
+    "credit": 3,
+    "serial": 2952,
+    "group": "A",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 2,
+            "to": 4,
+            "campus": "公館",
+            "classroom": "Ｅ202"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程內容為延續高中生物課程的加深加廣知識，主要為未來學習生物學各專業領域課程而準備。",
+    "goals": [
+        "能熟知生物學專有名詞，並瞭解分子生物學、細胞學、個體生物學、演化及生態學之基本概念",
+        "能體認生命科學的重要性，並應用生命科學的知識在人類的生存、生態保育與地球的永續發展"
+    ],
+    "syllabus": "Week       Title                                                                            Chapters        Lecturer\n\nW01       Introduction & I- Essential Chemistry for Biology        1, 2                 Lin\n\nW02      I- The Molecules of Life & Tour of Cell                         3, _4_                 Lin\n\nW03      I- Tour of Cell, The Working Cell                                  _4,_ 5                Lin\n\nW04      I- Cellular Respiration, Photosynthesis & 討論一          6, 7                Lin\n\nW05 II- Cellular Reproduction                                                    8                    Lin\n\nW06      II- Patterns of Inheritance                                             9                    Lin\n\nW07      II- Structure/Function/Regulation of DNA                     10, _11_              Lin\n\nW08      II- DNA Technology & 討論二                                       _11,_ 12              Lin\n\nW09      Midterm                                                                        before Midterm  Lin\n\nW10      III- Population evolve, Diversity evolve                        13, 14              Lin\n\nW11      III- Microbio., Onto land, Animals Evo. & 討論三          15-17               Lin\n\nW12      V- Animal S/F, Digestion and Nutrition                          21, 22              Lin\n\nW13      V- Circulation and Respiration                                      23                    Lin\n\nW14      V- Body defenses, Hormones                                      24, 25              Lin\n\nW15      V- Reproductive System & 討論五                               26                    Lin\n\nW16      Final Exam                                                                  after Midterm      Lin\n\nW17 自主學習一\n\nW18 自主學習二\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\n\nReferences:\n\n1\\. 科學發展(https://ejournal.stpi.narl.org.tw/sd)生物相關文章\n\n2\\. 科學人雜誌 (https://sa.ylib.com/)",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": ""
+        },
+        {
+            "type": "問題解決教學",
+            "note": ""
+        },
+        {
+            "type": "媒體融入教學",
+            "note": "配合各主題，以電腦動畫、影片等進行教學"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 10,
+            "note": ""
+        },
+        {
+            "type": "期中考",
+            "weight": 35,
+            "note": "為筆試型式"
+        },
+        {
+            "type": "期末考",
+            "weight": 35,
+            "note": "為筆試型式"
+        },
+        {
+            "type": "其他",
+            "weight": 20,
+            "note": "小考 為筆試型式"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

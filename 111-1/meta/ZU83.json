@@ -1,0 +1,139 @@
+[
+    {
+        "year": 111,
+        "term": 1,
+        "name": "企業概論",
+        "teachers": [
+            "林舒柔"
+        ],
+        "department": "ZU83",
+        "code": "PGUA001",
+        "credit": 3,
+        "serial": 3258,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 10,
+                "to": 12,
+                "campus": "本部",
+                "classroom": "誠302"
+            }
+        ],
+        "programs": [
+            "基礎管理學程",
+            "藝術產業學程"
+        ],
+        "comment": "",
+        "restrict": "◎第一階段限 基礎管理學程◎限基礎管理學程選修",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "財務管理",
+        "teachers": [
+            "賴慧文"
+        ],
+        "department": "ZU83",
+        "code": "PGUA003",
+        "credit": 3,
+        "serial": 3259,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 0
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 7,
+                "to": 9,
+                "campus": "本部",
+                "classroom": "正105"
+            }
+        ],
+        "programs": [
+            "基礎管理學程"
+        ],
+        "comment": "",
+        "restrict": "◎第一階段限 基礎管理學程◎限基礎管理學程選修",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "經濟學",
+        "teachers": [
+            "徐美"
+        ],
+        "department": "ZU83",
+        "code": "PGUA006",
+        "credit": 3,
+        "serial": 3260,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 7,
+                "to": 9,
+                "campus": "本部",
+                "classroom": "誠102"
+            }
+        ],
+        "programs": [
+            "基礎管理學程"
+        ],
+        "comment": "",
+        "restrict": "◎第一階段限 基礎管理學程◎限基礎管理學程選修",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "港台經商政治與社會文化",
+        "teachers": [
+            "黃浩霆"
+        ],
+        "department": "ZU83",
+        "code": "PGUA024",
+        "credit": 3,
+        "serial": 3261,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 7,
+                "to": 9,
+                "campus": "本部",
+                "classroom": "綜508會議室"
+            }
+        ],
+        "programs": [
+            "基礎管理學程"
+        ],
+        "comment": "本課程主要會用台語授課",
+        "restrict": "◎第一階段限 基礎管理學程◎限基礎管理學程選修",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    }
+]

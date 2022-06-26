@@ -1,0 +1,68 @@
+{
+    "year": 111,
+    "term": 1,
+    "name": "３Ｄ電腦動畫（一）",
+    "teachers": [
+        "薛佑廷"
+    ],
+    "department": "TU68",
+    "code": "VDU0174",
+    "credit": 3,
+    "serial": 3207,
+    "group": "",
+    "quota": {
+        "limit": 35,
+        "additional": 5
+    },
+    "schedule": [
+        {
+            "day": 1,
+            "from": 6,
+            "to": 8,
+            "campus": "本部",
+            "classroom": "教403"
+        }
+    ],
+    "programs": [
+        "科技藝術學程"
+    ],
+    "comment": "",
+    "restrict": "◎限本系(含雙主修)修習 ◎必須先修過(也可以同時修)【VDU0019  電腦繪圖】、【VDU0108  設計素描（一）】",
+    "form_s": "2",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "使學生熟習3D件模之技術與應用於各類設計領域",
+    "goals": [
+        "3D媒體基礎建模與表現"
+    ],
+    "syllabus": "Week\n\nDate\n\nTopics\n\n1\n\n9/5\n\nIntroduction\n\n2\n\n9/12\n\nMaya Basics\n\n3\n\n9/19\n\nMaya Basics\n\n4\n\n9/26\n\nMaya Basics\n\n5\n\n10/3\n\nAnimation Basics\n\n6\n\n10/10\n\n國慶日(放假1日) National Day (No classes)\n\n7\n\n10/17\n\nAnimation Basics\n\n8\n\n10/24\n\nLighting & Rendering\n\n9\n\n10/31\n\nLighting & Rendering\n\n10\n\n11/7\n\nPolygon Modelin\n\n11\n\n11/14\n\nPolygon Modeling\n\n12\n\n11/21\n\nPolygon Modeling\n\n13\n\n11/28\n\nUV & Texture\n\n14\n\n12/5\n\nUV & Texture\n\n15\n\n12/12\n\nFinal Review\n\n16\n\n12/19\n\nFinal Review",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "實驗/實作",
+            "note": ""
+        },
+        {
+            "type": "媒體融入教學",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 70,
+            "note": ""
+        },
+        {
+            "type": "出席",
+            "weight": 30,
+            "note": ""
+        }
+    ],
+    "prerequisite": "◎必須先修過(也可以同時修)【VDU0019  電腦繪圖】、【VDU0108  設計素描（一）】",
+    "general_core": []
+}

@@ -1,0 +1,85 @@
+{
+    "year": 111,
+    "term": 1,
+    "name": "高等幾何（一）",
+    "teachers": [
+        "陳瑞堂"
+    ],
+    "department": "SU40",
+    "code": "MAU0128",
+    "credit": 3,
+    "serial": 2823,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 5
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 6,
+            "to": 7,
+            "campus": "公館",
+            "classroom": "Ｃ002"
+        },
+        {
+            "day": 2,
+            "from": 8,
+            "to": 8,
+            "campus": "公館",
+            "classroom": "理圖801"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "2",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "幾何學在數學裡頭常扮演橋樑的角色，聯結數學裡幾個不同學門。因此本課程主要是要介紹幾何發展的幾個里程碑：解析幾何、歐氏幾何、變換幾何。",
+    "goals": [
+        "幾何學在數學裡頭常扮演橋樑的角色，聯結數學裡幾個不同學門。因此本課程主要是要介紹幾何發展的幾個里程碑：解析幾何、歐氏幾何、變換幾何。",
+        "增進邏輯推理與歸納的能力",
+        "增進數學思維與批判性思考的能力"
+    ],
+    "syllabus": "1.      歐氏幾何：以平面及空間為主，介紹歐氏幾何的基本性質、作圖及基本變換(如：保距變換、相似變換、反演變換等)。(7週)\n\n2.     射影幾何：射影平面模型的建造，介紹齊次坐標、對偶原理、錐線、射影變換、直射變換、Desargues定理、Pappus定理、Pascal定理。(9週)\n\n3.      二次曲線理論與仿射幾何。(2週)",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": ""
+        },
+        {
+            "type": "實驗/實作",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 20,
+            "note": ""
+        },
+        {
+            "type": "期中考",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 40,
+            "note": ""
+        },
+        {
+            "type": "出席",
+            "weight": 10,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

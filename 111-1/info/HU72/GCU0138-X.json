@@ -1,0 +1,83 @@
+{
+    "year": 111,
+    "term": 1,
+    "name": "數位學習",
+    "teachers": [
+        "曹聖豪"
+    ],
+    "department": "HU72",
+    "code": "GCU0138",
+    "credit": 2,
+    "serial": 3333,
+    "group": "",
+    "quota": {
+        "limit": 45,
+        "additional": 3
+    },
+    "schedule": [
+        {
+            "day": 5,
+            "from": 6,
+            "to": 7,
+            "campus": "本部",
+            "classroom": "正101"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎限本系(含雙主修)修習◎限大三大四修習",
+    "form_s": "3",
+    "classes": "",
+    "dept_group": "",
+    "hours": 2,
+    "description": "在數位匯流的發展趨勢下，數位學習經由不同的平台與裝置，融合傳統教學內容的網路學習環境，即將成為未來重要的教學互動模式。本課程規劃以講述、討論、觀摩及專題報告方式，引領同學們認識當前的數位學習環境及發展現況，激發對未來數位學習環境的新興應用思考。",
+    "goals": [
+        "了解數位時代的背景",
+        "新媒體的基本概念",
+        "電子商務的趨勢",
+        "SEO關鍵字與社群行銷"
+    ],
+    "syllabus": "Week 1 課程大綱說明\n\nWeek 2 數位時代的背景：網路的發起與崛起\n\nWeek 3 網路行銷的概念(一)：圖像與文字的傳播威力\n\nWeek 4 網路行銷的概念(二)：雲端版PIXLR與EDM文案視覺\n\nWeek 5 專題演講(一)\n\nWeek 6 SEO搜尋引擎優化：關鍵字的選擇與經營模式\n\nWeek 7 社群行銷的概念：FB粉絲專頁、FB社團與LINE@\n\nWeek 8電子商務的成功案例\n\nWeek 9 期中考週(個人或小組報告)\n\nWeek 10 APP的營銷趨勢：個人品牌的創立\n\nWeek 11個人品牌的案例：樂天、東京著衣\n\nWeek 12 專題演講(二)\n\nWeek 13虛實整合：實體廣告與網路行銷的關係\n\nWeek 14 電子商務案例分享(1)：PChome、蝦皮\n\nWeek 15 電子商務案例分享(2)：淘寶網、行動支付\n\nWeek 16專題演講(三)\n\nWeek 17 電子商務概念整合：如何運用到生活各個角落\n\nWeek 18期末考週(個人或小組報告)",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "老師透過案例分析剖析電子商務"
+        },
+        {
+            "type": "討論法",
+            "note": "課程間透過提問應答產生交流"
+        },
+        {
+            "type": "問題解決教學",
+            "note": "上課提問與作業交流"
+        },
+        {
+            "type": "專題研究",
+            "note": "講師個人專題演講"
+        }
+    ],
+    "grading": [
+        {
+            "type": "期中考",
+            "weight": 30,
+            "note": "個人或團體報告"
+        },
+        {
+            "type": "期末考",
+            "weight": 30,
+            "note": "個人或團體報告"
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 20,
+            "note": "課堂討論參與(平時成績)"
+        },
+        {
+            "type": "出席",
+            "weight": 20,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

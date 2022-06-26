@@ -1,0 +1,85 @@
+{
+    "year": 111,
+    "term": 1,
+    "name": "基礎電子學",
+    "teachers": [
+        "王超"
+    ],
+    "department": "SU47",
+    "code": "CSU0007",
+    "credit": 3,
+    "serial": 3045,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 2,
+            "to": 2,
+            "campus": "公館",
+            "classroom": "Ｅ101"
+        },
+        {
+            "day": 5,
+            "from": 8,
+            "to": 9,
+            "campus": "公館",
+            "classroom": "Ｅ101"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎限大一修習",
+    "form_s": "1",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "",
+    "goals": [
+        "瞭解電子零件和電路有基本動作原理",
+        "瞭解電子零件如何地使用於在資訊系統中"
+    ],
+    "syllabus": "This course is designed for first-year undergraduate students, in particular for those who major in computer science and information engineering. The goal is to unveil some “mysterious connections” between physics and computing systems. It is our hope that through this course, students will acquire basic skills to study modern computing systems, such as those for Internet of Things (IoT).\n\nIn the first half of the semester we will gradually build up fundamental ideas of electrical and electronic circuits, and then we will select to cover some advanced topics.\n\nCourse Schedule\n---------------\n\nWeek #\n\nTopic\n\n[Reading](https://web.ntnu.edu.tw/~cw/csu0007/#resource)\n\n1\n\nCircuit Abstraction\n\nChapter 1; Appendix A.1\n\n2\n\nResistive Networks\n\nChapter 2\n\n3\n\nThe Node Analysis Method\n\nChapter 3\n\n4\n\nNetwork Theorems\n\nChapter 3\n\n5\n\nNonlinear Circuits and Basic Analysis\n\nChapter 4\n\n6\n\nApproximation and The Small-Signal Analysis\n\nChapter 4\n\n7\n\nDigital Abstraction\n\nChapter 5\n\n8\n\n**Midterm Exam**\n\n \n\n9\n\nMOSFET 101\n\nChapter 6\n\n10\n\nAmplification (1)\n\nChapter 7\n\n11\n\nAmplification (2)\n\nChapter 8\n\n12\n\nEnergy Storage Elements\n\nChapter 9\n\n13\n\nFirst-Order Transients (1)\n\nChapter 10\n\n14\n\nFirst-Order Transients (2)\n\nChapter 10\n\n15\n\nSinusoidal Steady State\n\nChapter 13; Appendix C\n\n16\n\n**Final Exam**\n\nFor more information, see [https://web.ntnu.edu.tw/~cw/csu0007/](https://web.ntnu.edu.tw/~cw/csu0007/)  \nFor historical course data, see [https://web.ntnu.edu.tw/~cw/shares/courses/csu0007/](https://web.ntnu.edu.tw/~cw/shares/courses/csu0007/)",
+    "methodologies": [
+        {
+            "type": "Formal lecture",
+            "note": "Lectures"
+        },
+        {
+            "type": "Group discussion",
+            "note": "In-class Q&A, office hours, and Moodle online discussion"
+        }
+    ],
+    "grading": [
+        {
+            "type": "Assignments",
+            "weight": 50,
+            "note": "Homework assignments"
+        },
+        {
+            "type": "Midterm Exam",
+            "weight": 20,
+            "note": "Midterm exam"
+        },
+        {
+            "type": "Final exam",
+            "weight": 20,
+            "note": "Final exam"
+        },
+        {
+            "type": "Class discussion involvement",
+            "weight": 5,
+            "note": "Participation"
+        },
+        {
+            "type": "Attendances",
+            "weight": 5,
+            "note": "Attendance"
+        }
+    ],
+    "prerequisite": "◎Exclusive for freshman",
+    "general_core": []
+}

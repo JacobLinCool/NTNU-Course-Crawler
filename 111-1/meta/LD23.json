@@ -1,0 +1,578 @@
+[
+    {
+        "year": 111,
+        "term": 1,
+        "name": "應用地理學特論",
+        "teachers": [
+            "韋煙灶"
+        ],
+        "department": "LD23",
+        "code": "GED0025",
+        "credit": 2,
+        "serial": 1585,
+        "group": "",
+        "quota": {
+            "limit": 30,
+            "additional": 0
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 16,
+                "to": 10,
+                "campus": "本部",
+                "classroom": "地理系研討室五"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎課程不開放上修",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "地理學專題討論",
+        "teachers": [
+            "洪致文"
+        ],
+        "department": "LD23",
+        "code": "GED0080",
+        "credit": 1,
+        "serial": 1586,
+        "group": "",
+        "quota": {
+            "limit": 30,
+            "additional": 0
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 3,
+                "to": 3,
+                "campus": "本部",
+                "classroom": "地理系研討室五"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "允許重複修 ◎課程開放上修",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "地理學野外調查",
+        "teachers": [
+            "郭乃文"
+        ],
+        "department": "LD23",
+        "code": "GED0081",
+        "credit": 1,
+        "serial": 1587,
+        "group": "",
+        "quota": {
+            "limit": 30,
+            "additional": 0
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 4,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "地理系研討室五"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "允許重複修 ◎課程開放上修",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "地理教育的理論與實施",
+        "teachers": [
+            "洪立三"
+        ],
+        "department": "LM23",
+        "code": "GEC0003",
+        "credit": 2,
+        "serial": 1647,
+        "group": "",
+        "quota": {
+            "limit": 30,
+            "additional": 5
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 3,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "地理系研討室五"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎課程開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "環境污染與管理",
+        "teachers": [
+            "郭乃文"
+        ],
+        "department": "LM23",
+        "code": "GEC0037",
+        "credit": 2,
+        "serial": 1648,
+        "group": "",
+        "quota": {
+            "limit": 30,
+            "additional": 5
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 6,
+                "to": 7,
+                "campus": "本部",
+                "classroom": "地理系會議室"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎課程不開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "都市政治與政策",
+        "teachers": [
+            "王文誠"
+        ],
+        "department": "LM23",
+        "code": "GEC0054",
+        "credit": 2,
+        "serial": 1649,
+        "group": "",
+        "quota": {
+            "limit": 30,
+            "additional": 5
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 6,
+                "to": 7,
+                "campus": "本部",
+                "classroom": "地理系研討室五"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎課程開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "多變量分析",
+        "teachers": [
+            "陳哲銘"
+        ],
+        "department": "LM23",
+        "code": "GEC0068",
+        "credit": 3,
+        "serial": 1650,
+        "group": "",
+        "quota": {
+            "limit": 30,
+            "additional": 5
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 2,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "地理系會議室"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎課程不開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "空間資料庫",
+        "teachers": [
+            "周學政"
+        ],
+        "department": "LM23",
+        "code": "GEC0070",
+        "credit": 2,
+        "serial": 1651,
+        "group": "",
+        "quota": {
+            "limit": 25,
+            "additional": 5
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 8,
+                "to": 9,
+                "campus": "本部",
+                "classroom": "地理系電腦教室"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎課程開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "社會經濟地理資訊系統",
+        "teachers": [
+            "周學政"
+        ],
+        "department": "LM23",
+        "code": "GEC7002",
+        "credit": 2,
+        "serial": 1652,
+        "group": "",
+        "quota": {
+            "limit": 25,
+            "additional": 5
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 6,
+                "to": 7,
+                "campus": "本部",
+                "classroom": "地理系電腦教室"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎課程開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "消費地理學",
+        "teachers": [
+            "張峻嘉"
+        ],
+        "department": "LM23",
+        "code": "GEC8001",
+        "credit": 3,
+        "serial": 1653,
+        "group": "",
+        "quota": {
+            "limit": 30,
+            "additional": 0
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 7,
+                "to": 9,
+                "campus": "本部",
+                "classroom": "地理系研討室五"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎課程不開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "氣候變遷研討",
+        "teachers": [
+            "莫家俊"
+        ],
+        "department": "LM23",
+        "code": "GEC8002",
+        "credit": 3,
+        "serial": 1654,
+        "group": "",
+        "quota": {
+            "limit": 30,
+            "additional": 5
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 2,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "地理系研討室五"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎課程開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "食物地理研討",
+        "teachers": [
+            "譚鴻仁"
+        ],
+        "department": "LM23",
+        "code": "GEC8004",
+        "credit": 2,
+        "serial": 1655,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 5
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 9,
+                "to": 10,
+                "campus": "本部",
+                "classroom": "地理系研討室五"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎課程開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "季風論",
+        "teachers": [
+            "翁叔平"
+        ],
+        "department": "LM23",
+        "code": "GEC8009",
+        "credit": 3,
+        "serial": 1656,
+        "group": "",
+        "quota": {
+            "limit": 30,
+            "additional": 5
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 2,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "地理系會議室"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎課程開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "環保行政研討",
+        "teachers": [
+            "顏秀慧"
+        ],
+        "department": "LM23",
+        "code": "GEC8022",
+        "credit": 2,
+        "serial": 1657,
+        "group": "",
+        "quota": {
+            "limit": 30,
+            "additional": 5
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 8,
+                "to": 9,
+                "campus": "本部",
+                "classroom": "地理系研討室五"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎課程不開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "日常生活地理學特論",
+        "teachers": [
+            "吳鄭重"
+        ],
+        "department": "LM23",
+        "code": "GEC8032",
+        "credit": 3,
+        "serial": 1659,
+        "group": "",
+        "quota": {
+            "limit": 30,
+            "additional": 5
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 10,
+                "to": 12,
+                "campus": "本部",
+                "classroom": "地理系會議室"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎課程不開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "地理資訊分析",
+        "teachers": [
+            "張國楨"
+        ],
+        "department": "LM23",
+        "code": "GEC8035",
+        "credit": 2,
+        "serial": 1660,
+        "group": "",
+        "quota": {
+            "limit": 30,
+            "additional": 5
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 6,
+                "to": 7,
+                "campus": "本部",
+                "classroom": "地理系研討室六"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎課程不開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "族群地理研討",
+        "teachers": [
+            "汪明輝"
+        ],
+        "department": "LM23",
+        "code": "GEC8036",
+        "credit": 2,
+        "serial": 1661,
+        "group": "",
+        "quota": {
+            "limit": 30,
+            "additional": 5
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 10,
+                "to": 11,
+                "campus": "本部",
+                "classroom": "地理系研討室五"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎課程不開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "地理學專題演講",
+        "teachers": [
+            "韋煙灶"
+        ],
+        "department": "LM23",
+        "code": "GEC8079",
+        "credit": 2,
+        "serial": 1662,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 5
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 7,
+                "to": 8,
+                "campus": "本部",
+                "classroom": "地理系會議室"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "允許重複修 ◎課程開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    }
+]

@@ -1,0 +1,386 @@
+[
+    {
+        "year": 111,
+        "term": 1,
+        "name": "專題討論（一）",
+        "teachers": [
+            "陳林文"
+        ],
+        "department": "SD44",
+        "code": "ESD0006",
+        "credit": 1,
+        "serial": 2647,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 5
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 6,
+                "to": 7,
+                "campus": "公館",
+                "classroom": "Ｓ101"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎限本系(含雙主修)、輔系修習   ◎限博一修習 ◎課程不開放上修",
+        "form_s": "1",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "專題討論（三）",
+        "teachers": [
+            "曾瑋玲"
+        ],
+        "department": "SD44",
+        "code": "ESD0053",
+        "credit": 1,
+        "serial": 2648,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 8,
+                "to": 9,
+                "campus": "公館",
+                "classroom": "Ｓ101"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎限本系(含雙主修)、輔系修習   ◎限博二修習 ◎課程開放上修",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "中尺度氣象學",
+        "teachers": [
+            "簡芳菁"
+        ],
+        "department": "SM44",
+        "code": "ESC0130",
+        "credit": 3,
+        "serial": 2708,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 2,
+                "to": 4,
+                "campus": "公館",
+                "classroom": "Ｃ409"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎課程不開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "高等天文物理",
+        "teachers": [
+            "陳林文"
+        ],
+        "department": "SM44",
+        "code": "ESC0135",
+        "credit": 3,
+        "serial": 2709,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 0
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 7,
+                "to": 9,
+                "campus": "公館",
+                "classroom": "Ｂ413"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎課程開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "高等天文觀測",
+        "teachers": [
+            "管一政"
+        ],
+        "department": "SM44",
+        "code": "ESC0136",
+        "credit": 3,
+        "serial": 2710,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 7,
+                "to": 9,
+                "campus": "公館",
+                "classroom": "Ｂ413"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎課程不開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "岩理學方法",
+        "teachers": [
+            "賴昱銘"
+        ],
+        "department": "SM44",
+        "code": "ESC0189",
+        "credit": 3,
+        "serial": 2711,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 2,
+                "to": 4,
+                "campus": "公館",
+                "classroom": "Ｃ401"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎課程不開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "地球科學與考古學",
+        "teachers": [
+            "李匡悌"
+        ],
+        "department": "SM44",
+        "code": "ESC0258",
+        "credit": 3,
+        "serial": 2712,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 10,
+                "to": 12,
+                "campus": "公館",
+                "classroom": "Ｃ403"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎課程不開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "岩心－電測整合分析",
+        "teachers": [
+            "葉恩肇"
+        ],
+        "department": "SM44",
+        "code": "ESC8036",
+        "credit": 3,
+        "serial": 2713,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 2,
+                "to": 4,
+                "campus": "公館",
+                "classroom": "Ｃ401"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎課程開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "大氣科學研究方法",
+        "teachers": [
+            "黃婉如"
+        ],
+        "department": "SM44",
+        "code": "ESC8037",
+        "credit": 3,
+        "serial": 2714,
+        "group": "",
+        "quota": {
+            "limit": 35,
+            "additional": 5
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 2,
+                "to": 4,
+                "campus": "公館",
+                "classroom": "理圖802"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎課程不開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "地球物理流體力學",
+        "teachers": [
+            "陳正達"
+        ],
+        "department": "SM44",
+        "code": "ESC8044",
+        "credit": 3,
+        "serial": 2715,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 2,
+                "to": 4,
+                "campus": "公館",
+                "classroom": "Ｃ409"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎課程不開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "海洋環境教育",
+        "teachers": [
+            "葉庭光"
+        ],
+        "department": "SM44",
+        "code": "ESC8048",
+        "credit": 3,
+        "serial": 2716,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 2,
+                "to": 4,
+                "campus": "公館",
+                "classroom": "Ｓ407"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎課程不開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "台灣梅雨特論",
+        "teachers": [
+            "王重傑"
+        ],
+        "department": "SM44",
+        "code": "ESC8052",
+        "credit": 2,
+        "serial": 2717,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 3,
+                "to": 4,
+                "campus": "公館",
+                "classroom": "Ｃ409"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎課程不開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    }
+]

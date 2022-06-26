@@ -1,0 +1,86 @@
+{
+    "year": 111,
+    "term": 1,
+    "name": "雙語教育概論（教）",
+    "teachers": [
+        "柯琦"
+    ],
+    "department": "EU",
+    "code": "00UEB03",
+    "credit": 2,
+    "serial": 625,
+    "group": "A",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 1,
+            "from": 1,
+            "to": 2,
+            "campus": "本部",
+            "classroom": "樸301"
+        }
+    ],
+    "programs": [
+        "國際教師學程-華語文",
+        "國際教師學程-數學",
+        "國際教師學程-物理",
+        "國際教師學程-國際"
+    ],
+    "comment": "",
+    "restrict": "",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 2,
+    "description": "This course introduces students to the foundations of bilingual education. The theories and practices driving bilingual education will be discussed with a particular focus on their application in Taiwan’s classrooms. By the end of this course, students will have developed a personal philosophy on bilingual education and demonstrate its application in their future classroom.",
+    "goals": [
+        "透過本課程的介紹，使學生認識哲學的基本概念及各種教育思想的特點。"
+    ],
+    "syllabus": "**Course Schedule**\n\n**Week**\n\n**Guiding Questions**\n\n**Lesson Outcomes**\n\n**1**\n\nWho is considered bilingual?\n\nStudents can contrast views of what a bilingual is by skills, level, and use.\n\n**2**\n\nWhat are the roles and statuses of languages in society?\n\nStudents can describe languages and their status in domains of society.\n\n**3**\n\nHow does someone become bilingual?\n\nStudents can explain second language acquisition theories.\n\n**4**\n\nWhat factors affect language learning?\n\nStudents can explain the effect of individual factors on bilingual development.\n\n**5**\n\nHow does bilingualism affect our culture and personality?\n\nStudents can discuss ways bilingualism affects a person’s identity.\n\n**6**\n\n_National Holiday: No Class_\n\n**7**\n\nHow does bilingualism affect the brain?\n\nStudents can discuss current research related to bilingualism and the brain.\n\n**8**\n\n**Midterm Oral Exam**\n\n**9**\n\nWhat are the bilingual education policies in Taiwan?\n\nStudents can comment on bilingual education policy both locally and globally.\n\n**10**\n\nHow can bilingual education be practiced in schools?\n\nStudents can describe bilingual arrangements using the languages and learning continuums.\n\n**11**\n\nHow can students become bi-literate?\n\nStudents can explain theories related to literacy development.\n\n**12**\n\nIs bilingual education appropriate for students with exceptional needs?\n\nStudent can advocate for bilingual students with exceptional needs.\n\n**13**\n\n**Case Study Presentations**\n\n**14**\n\n**15**\n\n**Final Oral Exam**\n\n**16**\n\nWhat is your bilingual education teaching philosophy?  \n(+ Course Wrap-Up)\n\nStudents will share their bilingual education teaching philosophy.\n\n**Grading Criteria**\n\n**#**\n\n**Assignment Name**\n\n**Weight**\n\n**Description**\n\n1\n\nMidterm Exam\n\n20%\n\nStudents will participate in an oral midterm exam covering material discussed throughout the course.\n\n2\n\nCountry Case Study\n\n20%\n\n\\[Group\\] Students will present a case study on bilingual education. This may be on bilingual education in another country or on a school in Taiwan.\n\n2\n\nFinal Exam\n\n20%\n\nStudents will participate in an oral final exam covering material discussed throughout the course.\n\n3\n\nBilingual Teaching Philosophy Statement\n\n20%\n\nStudents will write a one to two page teaching philosophy statement that discusses views of bilingual education and advocacy for students.\n\n4\n\nAttendance and Reflections\n\n20%\n\nStudents are required to attend class. During class, students will discuss issues with their classmates and after class complete an exit ticket to reflect on their learning.\n\nNote: Detailed assignment guidelines and rubrics will be posted on Moodle.",
+    "methodologies": [
+        {
+            "type": "討論法",
+            "note": "Students will discuss theory and research related to bilingual education."
+        },
+        {
+            "type": "合作學習",
+            "note": "Students will work in groups for research and presentations."
+        },
+        {
+            "type": "專題研究",
+            "note": "Students will research bilingual education in other countries."
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 20,
+            "note": "Students will discuss issues with their classmates and after class complete an exit ticket to reflect on their learning."
+        },
+        {
+            "type": "期中考",
+            "weight": 20,
+            "note": "Students will participate in an oral midterm exam covering material discussed throughout the course."
+        },
+        {
+            "type": "期末考",
+            "weight": 20,
+            "note": "Students will participate in an oral final exam covering material discussed throughout the course."
+        },
+        {
+            "type": "報告",
+            "weight": 20,
+            "note": "Students will write a one to two page teaching philosophy statement that discusses views of bilingual education and advocacy for students."
+        },
+        {
+            "type": "專題",
+            "weight": 20,
+            "note": "[Group] Students will present a case study on bilingual education. This may be on bilingual education in another country or on a school in Taiwan."
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

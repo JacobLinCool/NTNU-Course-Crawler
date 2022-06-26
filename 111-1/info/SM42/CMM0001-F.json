@@ -1,0 +1,68 @@
+{
+    "year": 111,
+    "term": 1,
+    "name": "書報討論（一）",
+    "teachers": [
+        "孫英傑"
+    ],
+    "department": "SM42",
+    "code": "CMM0001",
+    "credit": 2,
+    "serial": 2685,
+    "group": "F",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 3,
+            "from": 3,
+            "to": 4,
+            "campus": "公館",
+            "classroom": "Ｃ105"
+        }
+    ],
+    "programs": [],
+    "comment": "大學部已有相似課程，且需要碩士程度背景知識",
+    "restrict": "◎限本系(含雙主修)修習   允許重複修 ◎課程不開放上修",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 2,
+    "description": "The course is to train graduated students how to make an oral presentation for their own experimental results. The student can obtain the following training.",
+    "goals": [
+        "How to make a nice presentation using powerpoint file.",
+        "How to organize the data and make an organized presentation.",
+        "How to summarize all chemical experimental results and make a conclusion."
+    ],
+    "syllabus": "This class aims to engage graduate students in a research activity, presenting scientific report orally to an audience. In addition to this presentation, participation in a seminar is also an essential part in the seminar. Through this seminar, scientific knowledge and presentation skills of students can be advanced.  \n\nThis includes:\n\n1\\. How to make a good presentation using powerpoint file\n\n2\\. How to organize the data and make an organized presentation\n\n3\\. How to summarize all chemical experimental results and make a conclusion\n\nso that the audience and the speaker can learn something from the presentation.",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": ""
+        },
+        {
+            "type": "媒體融入教學",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "報告",
+            "weight": 97,
+            "note": "(details will be discussed in the 1st class)"
+        },
+        {
+            "type": "其他",
+            "weight": 3,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

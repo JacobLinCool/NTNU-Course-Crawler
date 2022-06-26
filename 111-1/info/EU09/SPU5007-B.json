@@ -1,0 +1,81 @@
+{
+    "year": 111,
+    "term": 1,
+    "name": "特殊教育導論",
+    "teachers": [
+        "廖靜宜"
+    ],
+    "department": "EU09",
+    "code": "SPU5007",
+    "credit": 3,
+    "serial": 856,
+    "group": "B",
+    "quota": {
+        "limit": 20,
+        "additional": 5
+    },
+    "schedule": [
+        {
+            "day": 4,
+            "from": 2,
+            "to": 4,
+            "campus": "本部",
+            "classroom": "特112"
+        }
+    ],
+    "programs": [
+        "音樂輔教學程"
+    ],
+    "comment": "",
+    "restrict": "",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "",
+    "goals": [
+        "To understand theoretical and applied information regarding special education",
+        "To understand the development and trends impacting the field of special education",
+        "To illustrate characteristics and educational needs of students with special needs",
+        "To understand the process of referral, identification, placement, service, and assessment for students with special needs",
+        "To improve the understanding, care, and acceptance to people with special needs"
+    ],
+    "syllabus": "**Week**\n\n**Topics**\n\n1\n\n*   Introduction of the Course and the Requirements\n*   Arrange and discuss course activities and assignments\n\n2\n\n*   Introduction to Academic Writing Tutoring (Center for Academic Literacy, NTNU)\n*   What is Special Education?\n*   History of Special Education\n*   Categories of Disability\n*   Inclusive Education\n\n3\n\n*   Process of Special Education\n*   Referral and identification\n*   Individualized Program: IEP, IFSP, IGP, and ITP\n\n4\n\nIntellectual Disabilities\n\n5\n\nLearning Disabilities\n\n6\n\nSpeech and Communication Disorders\n\n7\n\nEmotional or Behavioral Disorders/ Severe Emotional Disorders\n\n8\n\nAutism Spectrum Disorders\n\n9\n\n*   Hearing Impairments\n*   Visual Impairments\n\n10\n\n*   Physical Impairments\n*   Cerebral Palsy\n\n11\n\n*   Developmental Delays\n*   Health Impairments\n\n12\n\n*   Severe/ Multiple Impairments\n*   Other Disabilities\n\n13\n\n*   Special Gifts and Talents\n*   Twice Exceptionality\n\n14\n\nCollaborating with Families and Professionals\n\n15\n\nAssistive Technology and Resources\n\n16\n\nReview and Final Presentations",
+    "methodologies": [
+        {
+            "type": "Formal lecture",
+            "note": ""
+        },
+        {
+            "type": "Group discussion",
+            "note": ""
+        },
+        {
+            "type": "Cooperative learning",
+            "note": ""
+        },
+        {
+            "type": "Media, audio, visual materials",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "Assignments",
+            "weight": 30,
+            "note": "Participation Assignments"
+        },
+        {
+            "type": "Class discussion involvement",
+            "weight": 30,
+            "note": "Introduction to Disability and Real Stories from People with a Disability"
+        },
+        {
+            "type": "Presentation",
+            "weight": 40,
+            "note": "Structured Interview and Reflection"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

@@ -1,0 +1,55 @@
+{
+    "year": 111,
+    "term": 1,
+    "name": "電腦輔助製圖",
+    "teachers": [
+        "未定"
+    ],
+    "department": "HU71",
+    "code": "ITU2012",
+    "credit": 3,
+    "serial": 1221,
+    "group": "",
+    "quota": {
+        "limit": 35,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 1,
+            "from": 7,
+            "to": 9,
+            "campus": "本部",
+            "classroom": "科技系TA509"
+        }
+    ],
+    "programs": [],
+    "comment": "設科組優先選課",
+    "restrict": "◎限本系(含雙主修)修習◎限大二修習◎必須先修過【ITU0004  圖學】",
+    "form_s": "2",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程為「圖學」之進階及應用課程，課程主要目標有二，一為繼續加強學生圖學知能，使能進一步瞭解圖學之理論、繪製方法及其應用；二為提升學生應用2D與3D電腦軟體於製圖及設計實務的能力，強化其於工程或設計領域發展之競爭力。",
+    "goals": [
+        "工程圖學進階知能",
+        "電腦輔助工程製圖的概念與實務",
+        "2D與3D電腦輔助製圖軟體之操作與應用"
+    ],
+    "syllabus": "",
+    "methodologies": [
+        {
+            "type": "",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "",
+            "weight": null,
+            "note": ""
+        }
+    ],
+    "prerequisite": "◎必須先修過【ITU0004  圖學】",
+    "general_core": []
+}

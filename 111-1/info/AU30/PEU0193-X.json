@@ -1,0 +1,78 @@
+{
+    "year": 111,
+    "term": 1,
+    "name": "人體解剖生理學",
+    "teachers": [
+        "王宏豪"
+    ],
+    "department": "AU30",
+    "code": "PEU0193",
+    "credit": 2,
+    "serial": 68,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 5,
+            "from": 6,
+            "to": 7,
+            "campus": "本部",
+            "classroom": "金牌講堂"
+        }
+    ],
+    "programs": [
+        "運動傷害防護學程"
+    ],
+    "comment": "",
+    "restrict": "◎限大一修習",
+    "form_s": "1",
+    "classes": "",
+    "dept_group": "",
+    "hours": 2,
+    "description": "本課程主要在介紹人體各部位的構造與功能，以備日後應用於運動訓練、運動指導或體育教學之所需，並奠定日後修習運動生理、運動傷害及運動生物力學等相關課程之基礎。",
+    "goals": [
+        "了解運動有關的人體解剖與生理學",
+        "能應用人體解剖生理學知能於運動訓練或指導"
+    ],
+    "syllabus": "週次\n\n教             學             進             度\n\n一\n\n課程介紹 \n\n二\n\nChap 1 解剖學術語  Chap 2 骨骼、關節、肌肉及其相關結構\n\n三\n\nChap 3 活體解剖學技巧  Chap 4 肩部\n\n四\n\nChap 5 肘部\n\n五\n\nChap 6 前臂、手腕和手掌\n\n六\n\nChap 7 上肢的神經、動脈和靜脈\n\n七\n\nChap 8 脊椎和骨盤\n\n八\n\nChap 9 呼吸器官\n\n九\n\n期中考\n\n十\n\n全校運動會\n\n十一\n\nChap 10 軀幹、胸部和腹部的神經、動脈和靜脈\n\n十二\n\nChap 11 髖部  Chap 12 膝部\n\n十三\n\nChap 13 踝和足部\n\n十四\n\nChap 14 下肢的神經、動脈和靜脈 Chap 15 心血管系統\n\n十五\n\nChap 16 呼吸系統  Chap 17 腎臟和胃腸道\n\n十六\n\n元旦\n\n十七\n\nChap 18 運動單位\n\n十八\n\n期末考",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": ""
+        },
+        {
+            "type": "問題解決教學",
+            "note": ""
+        },
+        {
+            "type": "媒體融入教學",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "期中考",
+            "weight": 40,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 40,
+            "note": ""
+        },
+        {
+            "type": "出席",
+            "weight": 20,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

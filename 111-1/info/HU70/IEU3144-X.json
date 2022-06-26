@@ -1,0 +1,90 @@
+{
+    "year": 111,
+    "term": 1,
+    "name": "熱力學（一）",
+    "teachers": [
+        "莫懷恩"
+    ],
+    "department": "HU70",
+    "code": "IEU3144",
+    "credit": 3,
+    "serial": 1199,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 6,
+            "to": 8,
+            "campus": "本部",
+            "classroom": "工教系會議室"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "",
+    "goals": [
+        "具備能源應用技術所需之知識與理解力",
+        "具備能源應用所需之問題解決能力",
+        "具備能源應用之專業設計能力",
+        "具備主動積極與終身學習之人格特質",
+        "具備職場專業倫理與社會服務的理解與行動",
+        "具備尊重智慧財產權的認知與態度"
+    ],
+    "syllabus": "第1週：課程進度、大綱、評量方式簡介，Chap1 Introduction and Basic Concepts\n\n第2週：Chap1 Introduction and Basic Concepts\n\n第3週：Chap2 Energy, Energy Conversion and General Energy Analysis\n\n第4週：Chap2 Energy, Energy Conversion and General Energy Analysis\n\n第5週：Chap3 Properties of Pure Substances\n\n第6週：Chap3 Properties of Pure Substances\n\n第7週：Chap4 Energy Analysis of Closed Systems\n\n第8週：期中考試\n\n第9週：Chap4 Energy Analysis of Closed Systems\n\n第10週：Chap5 Mass and Energy Analysis of Control Volumes\n\n第11週：Chap5 Mass and Energy Analysis of Control Volumes\n\n第12週：Chap6 The Second Law of Thermodynamics\n\n第13週：Chap6 The Second Law of Thermodynamics\n\n第14週：Chap7 Entropy\n\n第15週：Chap7 Entropy\n\n第16週：期末考試\n\n第17週：Chap8 Energy: A Measure of Work Potential（彈性補充教學）\n\n第18週：Chap8 Energy: A Measure of Work Potential（彈性補充教學）",
+    "methodologies": [
+        {
+            "type": "Formal lecture",
+            "note": "主要講述內容包括：1. Introduction and Basic Concepts；2. Energy Conversion and General Energy Analysis；3. Properties of Pure Substances；4. Energy Analysis of Closed Systems；5. Mass and Energy Analysis of Control Volumes；6. The Second Law of Thermodynamics；7. Entropy；8. Energy: A Measure of Work Potential"
+        },
+        {
+            "type": "Group discussion",
+            "note": "主要討論：Energy Analysis、The Second Law、Entropy、Energy"
+        },
+        {
+            "type": "Media, audio, visual materials",
+            "note": "使用PPT教學檔案"
+        },
+        {
+            "type": "Other:",
+            "note": "教師另運用示範、練習等教學方法，培養學生認知方面素養"
+        }
+    ],
+    "grading": [
+        {
+            "type": "Midterm Exam",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "Final exam",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "Class discussion involvement",
+            "weight": 10,
+            "note": "上課討論情形"
+        },
+        {
+            "type": "Attendances",
+            "weight": 10,
+            "note": "出缺勤狀況"
+        },
+        {
+            "type": "other:",
+            "weight": 20,
+            "note": "平時測驗"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

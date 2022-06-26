@@ -1,0 +1,91 @@
+{
+    "year": 111,
+    "term": 1,
+    "name": "縱貫資料分析",
+    "teachers": [
+        "邱皓政"
+    ],
+    "department": "E",
+    "code": "E0C8011",
+    "credit": 3,
+    "serial": 345,
+    "group": "",
+    "quota": {
+        "limit": 26,
+        "additional": 2
+    },
+    "schedule": [
+        {
+            "day": 3,
+            "from": 16,
+            "to": 11,
+            "campus": "本部",
+            "classroom": "教404"
+        }
+    ],
+    "programs": [],
+    "comment": "須具備統計相關知識,或是修畢其他統計課程",
+    "restrict": "◎課程不開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "為了讓社會科學領域（例如心理、教育、商管學門）的博碩士學生對於重複測量或生命發展的縱貫數據不僅能思也能實作，本課程將探討「變」與「不變」的研究思維與實驗設計，也將討論如何整合個體間與個體內變異分析的各種方法。課程內容除了從基本的相依樣本t檢定、重複量數變異數分析與迴歸分析等傳統方法出發，也將討論當代高階統計模式例如多層次與結構方程模式當中對於重複測量與成長數據的分析方法。課程中除了討論基本原理，閱讀相關經典與當代文獻，本課程將特別安排上機實作，選取實徵資料庫（例如家庭動態調查、幼兒發展資料庫）為範例，以SPSS、Mplus或R軟體來進行演練，以培養學生實作能力。",
+    "goals": [
+        "熟悉縱貫資料分析方法的原理與技術內涵",
+        "能夠具體操作縱貫資料分析的基本方法",
+        "能夠具體操作縱貫資料分析的進階技術",
+        "能夠將各種方法應用於實際研究之中"
+    ],
+    "syllabus": "1.縱貫研究的研究設計與分析策略\n\nIntroduction to the research design and analytic techniques for longitudinal study\n\n2.縱貫研究的資料準備：data preparation for longitudinal study\n\n3.縱貫資料分析的差異性分析策略：t檢定與ANOVA \n\nComparative approaches to longitudinal data: t-test and ANOVA\n\n4.縱貫資料分析的成長性統計方法：迴歸與時間序列分析\n\nDevelopmental approaches to longitudinal data: Regression and time-series analysis\n\n5.縱貫資料分析的多層次模式技術\n\nMultilevel modeling for longitudinal data \n\n6.縱貫資料分析的結構方程模式技術\n\nStructural equation modeling for longitudinal data\n\n7.縱貫資料分析的特殊議題：縱貫性測量\n\nSpecial issues: Measurement in longitudinal study\n\n8.縱貫資料分析的特殊議題：多樣本與恆等性\n\nSpecial issues: Multiple-group and invariance\n\n9.縱貫資料分析的特殊議題：中介與調節效果分析\n\nSpecial issues: Mediation and moderation",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": ""
+        },
+        {
+            "type": "問題解決教學",
+            "note": ""
+        },
+        {
+            "type": "實驗/實作",
+            "note": ""
+        },
+        {
+            "type": "媒體融入教學",
+            "note": ""
+        },
+        {
+            "type": "專題研究",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 30,
+            "note": "上機測試評量（1-2 hours in lab/home）"
+        },
+        {
+            "type": "出席",
+            "weight": 10,
+            "note": ""
+        },
+        {
+            "type": "報告",
+            "weight": 30,
+            "note": "每人若干次。任選課堂習作，以習作資料或自有資料進行分析，以書面形式繳交，並於課堂隨機抽點進行口頭報告"
+        },
+        {
+            "type": "其他",
+            "weight": 30,
+            "note": "取真實資料分析，以期刊論文或研討會摘要形式撰寫，並於期末進行口頭報告"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

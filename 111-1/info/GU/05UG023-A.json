@@ -1,0 +1,58 @@
+{
+    "year": 111,
+    "term": 1,
+    "name": "文本分析與程式設計",
+    "teachers": [
+        "未定"
+    ],
+    "department": "GU",
+    "code": "05UG023",
+    "credit": 2,
+    "serial": 988,
+    "group": "A",
+    "quota": {
+        "limit": 50,
+        "additional": 5
+    },
+    "schedule": [
+        {
+            "day": 5,
+            "from": 3,
+            "to": 4,
+            "campus": "本部",
+            "classroom": "教402"
+        }
+    ],
+    "programs": [],
+    "comment": "王祥安",
+    "restrict": "",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 2,
+    "description": "本課程旨在培養學生運用程式設計能力進行文本分析，課程內容主要包含三大單元：程式設計基礎、語言學概論以及文本分析實務。本課程特別適合對語言學及程式跨域結合應用有興趣的同學修習。若完全無程式概念的同學，建議先修習本校之「運算思維與程式設計」。",
+    "goals": [
+        "培養運用程式處理資料（尤其是文字類型資料）之基本能力。",
+        "理解語言學的基本知識及內涵。",
+        "理解文本分析的應用及價值。",
+        "培養運用程式進行文本分析之進階能力。"
+    ],
+    "syllabus": "",
+    "methodologies": [
+        {
+            "type": "",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "",
+            "weight": null,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": [
+        "邏輯運算"
+    ]
+}

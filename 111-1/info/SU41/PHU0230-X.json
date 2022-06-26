@@ -1,0 +1,70 @@
+{
+    "year": 111,
+    "term": 1,
+    "name": "力學（一）",
+    "teachers": [
+        "陳穎叡"
+    ],
+    "department": "SU41",
+    "code": "PHU0230",
+    "credit": 3,
+    "serial": 2888,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 6,
+            "to": 8,
+            "campus": "公館",
+            "classroom": "Ｅ101"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "2",
+    "classes": "2",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程提供物理系大學部理論力學一般的題材。",
+    "goals": [
+        "培養學生物理的歸納及推演能力",
+        "訓練學生解析的計算能力",
+        "令學生了解力學的發展歷史",
+        "使學生注意最新的發展"
+    ],
+    "syllabus": "週別   課程內容\n\n1~3     Matrics, Vectors, and Vector Calculus\n\n4~6     Newtonian Mechanics -- Single Particle\n\n7~8     Oscillations\n\n9         Midterm Exam\n\n10~11  Gravitation\n\n12~14  Variation Method and Hamilton's Principle\n\n15       Central-Force Motion\n\n16       Final Exam\n\n17~18  (To be determined)",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "上課以黑板及投影機講解，學生可記錄筆記。疫情期間，防疫必要時，採線上授課。"
+        },
+        {
+            "type": "討論法",
+            "note": "學生可隨時提出問題，教師也隨時可能詢問學生對問題的看法，或提前預設將討論的問題，讓學生上台講解。"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 30,
+            "note": "1~2週給一次作業，未提供答案之作業及小考將列入成績。若因防疫採線上授課，學生以PDF檔案上傳以繳交作業。"
+        },
+        {
+            "type": "期中考",
+            "weight": 35,
+            "note": "闔書與筆記，筆試。若因防疫，限時答卷後以PDF\n檔案上傳繳交。"
+        },
+        {
+            "type": "期末考",
+            "weight": 35,
+            "note": "闔書與筆記，筆試。若因防疫，限時答卷後以PDF\n檔案上傳繳交。"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

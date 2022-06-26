@@ -1,0 +1,86 @@
+{
+    "year": 111,
+    "term": 1,
+    "name": "企業管理概論",
+    "teachers": [
+        "張佳榮"
+    ],
+    "department": "OU57",
+    "code": "BAU0048",
+    "credit": 3,
+    "serial": 2486,
+    "group": "A",
+    "quota": {
+        "limit": 50,
+        "additional": 20
+    },
+    "schedule": [
+        {
+            "day": 3,
+            "from": 6,
+            "to": 8,
+            "campus": "本部",
+            "classroom": "綜508會議室"
+        }
+    ],
+    "programs": [],
+    "comment": "企管系大一學生學號末碼為單數號請選修企業管理概論A班;末碼為雙數號請選修企業管理概論B班。非企管系同學需待全校加退選開始後，才得進行線上選課和利用授課碼選課方式。欲加修本課程的學生，請務必出席第一節課處理授權碼事宜，不必事先寫信給教授。",
+    "restrict": "◎限大一修習",
+    "form_s": "1",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "This course focuses on the conceptual framework and case study in the field of business administration. The aim is to help students understand the basic perspectives (e.g., operation, marketing, human resource, finance, innovation, business ethics, information system etc.) on business administration and realize the new trends in the business administration.",
+    "goals": [
+        "知識與認知層面",
+        "職能導向層面",
+        "個人特質層面",
+        "價值與倫理層面"
+    ],
+    "syllabus": "subject to change\n\nweek 1.introduction\n\nweek2. Exploring the World of Business (Chapter1)\n\n       Being Ethical and Socially Responsible (Chapter 2)\n\n       Exploring Global Business (Chapter3)\n\nweek3. Choosing A Form of Business Ownership (Chapter 4)\n\n       Small Business, Entrepreneurship, and Franchises (Chapter 5)\n\nweek4. Understanding the Management Process (Ch 6)\n\nCreating a Flexible Organization(Ch 7)\n\nweek5. Producing Quality Goods and Services(Ch 8)\n\nweek6. Case Study1: Operation Management\n\nweek7. Ch 9 Attracting and Retaining the Best Employees\n\n       Ch10 Motivating and Satisfying Employees and Teams\n\n       Ch11 Enhancing Union-Management Relations\n\nweek8. Case Study2: Human Resource Management\n\nweek9. Ch12 Building Customer Relationships Through Effective Marketing\n\n       Ch13 Creating and Pricing Products That Satisfy Customers\n\n       Ch14 Wholesaling, Retailing, and Physical Distribution\n\n       Ch15 Developing Integrated Marketing Communications\n\nweek10.Case Study3: Marketing\n\nweek11.Innovation \n\nweek12.Case Study4: Innovation\n\nweek13.Ch17 Using Management and Accounting Information\n\nweek14.Case Study5: Finance\n\nweek15.Final Report\n\nweek16.Final Report",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "講述教材內容並依理論搭配實務"
+        },
+        {
+            "type": "討論法",
+            "note": "課堂活動實作演練"
+        },
+        {
+            "type": "問題解決教學",
+            "note": "課堂活動如實作演練、請業界專家給與學生不同的刺激及討論解決方式"
+        },
+        {
+            "type": "合作學習",
+            "note": "透過分組作業、報告及發表增加學生合作學習機會"
+        },
+        {
+            "type": "媒體融入教學",
+            "note": "補充給學生的教材含有報章雜誌、期刊等的釋例討論、補充"
+        },
+        {
+            "type": "專題研究",
+            "note": "期中與末專題報告及發表"
+        }
+    ],
+    "grading": [
+        {
+            "type": "期末考",
+            "weight": 40,
+            "note": "Final Report"
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 20,
+            "note": "Participation"
+        },
+        {
+            "type": "報告",
+            "weight": 40,
+            "note": "Case Study"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

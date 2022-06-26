@@ -1,0 +1,70 @@
+{
+    "year": 111,
+    "term": 1,
+    "name": "普通化學甲（一）",
+    "teachers": [
+        "蔡明剛",
+        "李祐慈",
+        "劉沂欣"
+    ],
+    "department": "SU42",
+    "code": "CMU0176",
+    "credit": 3,
+    "serial": 2912,
+    "group": "E",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 4,
+            "from": 2,
+            "to": 4,
+            "campus": "公館",
+            "classroom": "Ｓ402"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "",
+    "goals": [
+        "Train students to understand molecular orbital theory",
+        "Study on the Electronic Structure of Coordination Complexes Using Molecular Orbital Theory"
+    ],
+    "syllabus": "1\\. understanding of atoms  \n2\\. chemical bonds  \n3\\. molecular shape and structure  \n4\\. the properties of gas  \n5\\. liquid & solid  \n6\\. the elements(in the main groups and d block)",
+    "methodologies": [
+        {
+            "type": "Formal lecture",
+            "note": ""
+        },
+        {
+            "type": "Media, audio, visual materials",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "Assignments",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "Midterm Exam",
+            "weight": 35,
+            "note": ""
+        },
+        {
+            "type": "Final exam",
+            "weight": 35,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

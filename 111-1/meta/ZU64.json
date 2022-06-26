@@ -1,0 +1,174 @@
+[
+    {
+        "year": 111,
+        "term": 1,
+        "name": "影像處理",
+        "teachers": [
+            "陳皇利"
+        ],
+        "department": "HU72",
+        "code": "GCU0027",
+        "credit": 2,
+        "serial": 3323,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 10,
+                "to": 11,
+                "campus": "本部",
+                "classroom": "教401"
+            }
+        ],
+        "programs": [
+            "知識轉譯學程"
+        ],
+        "comment": "",
+        "restrict": "◎限本系(含雙主修)修習◎限大二大三大四修習",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "電腦三次元繪圖",
+        "teachers": [
+            "張晏榕"
+        ],
+        "department": "HU72",
+        "code": "GCU0036",
+        "credit": 3,
+        "serial": 1247,
+        "group": "",
+        "quota": {
+            "limit": 40,
+            "additional": 0
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 8,
+                "to": 10,
+                "campus": "本部",
+                "classroom": "教402"
+            }
+        ],
+        "programs": [
+            "科技藝術學程",
+            "知識轉譯學程"
+        ],
+        "comment": "",
+        "restrict": "◎限本系(含雙主修)修習◎限大二大三大四修習",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "影視劇本編寫",
+        "teachers": [
+            "未定"
+        ],
+        "department": "HU72",
+        "code": "GCU0037",
+        "credit": 3,
+        "serial": 3324,
+        "group": "",
+        "quota": {
+            "limit": 30,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 5,
+                "from": 2,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "製作教室B"
+            }
+        ],
+        "programs": [
+            "知識轉譯學程"
+        ],
+        "comment": "",
+        "restrict": "◎限本系(含雙主修)修習◎限大二修習",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "動畫實務基礎",
+        "teachers": [
+            "張晏榕"
+        ],
+        "department": "HU72",
+        "code": "GCU0186",
+        "credit": 3,
+        "serial": 1250,
+        "group": "",
+        "quota": {
+            "limit": 40,
+            "additional": 0
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 2,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "綜1001"
+            }
+        ],
+        "programs": [
+            "科技藝術學程",
+            "知識轉譯學程"
+        ],
+        "comment": "",
+        "restrict": "◎限本系(含雙主修)修習◎限大二大三大四修習",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "臺灣歷史的公眾寫作",
+        "teachers": [
+            "陳志豪"
+        ],
+        "department": "LU27",
+        "code": "THC9003",
+        "credit": 3,
+        "serial": 1994,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 2,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "樸305"
+            }
+        ],
+        "programs": [
+            "知識轉譯學程"
+        ],
+        "comment": "",
+        "restrict": "",
+        "form_s": "",
+        "classes": "9",
+        "dept_group": ""
+    }
+]

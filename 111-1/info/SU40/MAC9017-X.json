@@ -1,0 +1,57 @@
+{
+    "year": 111,
+    "term": 1,
+    "name": "編碼學",
+    "teachers": [
+        "未定"
+    ],
+    "department": "SU40",
+    "code": "MAC9017",
+    "credit": 3,
+    "serial": 2780,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 6,
+            "to": 8,
+            "campus": "公館",
+            "classroom": "數學館M211"
+        }
+    ],
+    "programs": [
+        "科學計算學程"
+    ],
+    "comment": "授課教師為紀文鎮老師",
+    "restrict": "",
+    "form_s": "",
+    "classes": "9",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程主要是運用我們了解的數學知識到處理現實世界的資訊問題。主要論及編碼的三大課題：經濟性(資訊壓縮)，可用性(除錯)以及隱密性(密碼)。\n此課程涵蓋前兩部分:資訊壓縮及除錯",
+    "goals": [
+        "瞭解編碼的基本性質。",
+        "瞭解近年來編碼及密碼的重要結果。",
+        "能將所學運用在未來相關的研究上。"
+    ],
+    "syllabus": "",
+    "methodologies": [
+        {
+            "type": "",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "",
+            "weight": null,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

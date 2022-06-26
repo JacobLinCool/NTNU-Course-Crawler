@@ -1,0 +1,77 @@
+{
+    "year": 111,
+    "term": 1,
+    "name": "體育（重量訓練初級）",
+    "teachers": [
+        "林淑惠"
+    ],
+    "department": "PE",
+    "code": "00UP134",
+    "credit": 1,
+    "serial": 2601,
+    "group": "E",
+    "quota": {
+        "limit": 45,
+        "additional": 5
+    },
+    "schedule": [
+        {
+            "day": 4,
+            "from": 6,
+            "to": 7,
+            "campus": "本部",
+            "classroom": "重量訓練室一"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "允許重複修",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 2,
+    "description": "重量訓練基本概念 \n器材操作及安全管理說明 \n重量訓練操作的原則與建議\n檢測最大肌力",
+    "goals": [
+        "認識各種重量訓練器材的操作方式與訓練目的。",
+        "了解重量訓練與體適能之關係。",
+        "養成終生運動習慣並享受重量訓練之樂趣。"
+    ],
+    "syllabus": "課程介紹、熟習場地器材\n\n介紹重量訓練之基本概念\n\n實際操作---徒手肌力訓練\n\n介紹重量訓練的操作技巧與安全管理\n\n實際操作\n\n重量訓練的方法\n\n實際操作\n\n介紹重量訓練的相關變數\n\n實際操作\n\n檢測最大肌力\n\n檢測最大肌力\n\n重量訓練的原則與建議\n\n實際操作\n\n影片欣賞\n\n肌力訓練---箱跳、藥球\n\n介紹增強式肌力訓練並實際操作\n\n介紹肌力訓練的週期\n\n實際操作\n\n重量訓練課程的設計與安排\n\n實際操作\n\n重量訓練與營養\n\n實際操作\n\n測驗\n\n測驗\n\n期末筆試\n\n補考周",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "合作學習",
+            "note": ""
+        },
+        {
+            "type": "實驗/實作",
+            "note": ""
+        },
+        {
+            "type": "其他",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "出席",
+            "weight": 40,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

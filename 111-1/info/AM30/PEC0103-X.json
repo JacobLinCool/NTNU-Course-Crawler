@@ -1,0 +1,93 @@
+{
+    "year": 111,
+    "term": 1,
+    "name": "骨骼系統生物力學",
+    "teachers": [
+        "黃昱倫"
+    ],
+    "department": "AM30",
+    "code": "PEC0103",
+    "credit": 3,
+    "serial": 23,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 4,
+            "from": 7,
+            "to": 9,
+            "campus": "本部",
+            "classroom": "體002"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "",
+    "goals": [
+        "具備說明人體組織與構造之機械和材料特性、骨骼肌肉系統傷害和其生成機制之能力。",
+        "能以運動生物力學角度切入，說明多元族群（年齡、性別、運動項目、身心障礙等），不同身體部位之骨骼肌肉退化/傷害與不同類型身體活動時的關係。",
+        "能對應用於骨骼肌肉系統傷害與預防研究的常見研究方法有基本認識。",
+        "有能力批判性回顧與探討當前骨骼肌肉系統傷害相關學術研究。",
+        "具備彙整並探討學術研究結果的能力，以回答骨骼肌肉系統傷害與傷害預防相關之臨床問題，並給予臨床應用之建議。"
+    ],
+    "syllabus": "*   Week 1: Basic Concepts: The Musculoskeletal System\n*   Week 2: Mechanics of Materials\n*   Week 3: Tissue Mechanics: Connective Tissue Mechanics (1)\n*   Week 4: Tissue Mechanics: Connective Tissue Mechanics (2)\n*   Week 5: Muscle Mechanics\n*   Week 6: Research Methods in Injury Biomechanics\n*   Week 7: Locomotor Pathology & Injury: Gait Disorders ; _Article Presentation and Discussion Session - 1_\n*   Week 8: Posture control, Falls & Fractures; _Article Presentation and Discussion Session - 2_\n*   Week 9: Lower Extremity Injury: Knee Injury; _Article Presentation and Discussion Session - 3_\n*   Week 10: Lower Extremity Injury: Leg, Ankle & Foot Injury; _Article Presentation and Discussion Session - 4_\n*   Week 11: Upper Extremity Injury: Shoulder & Elbow Injury; _Article Presentation and Discussion Session - 5_\n*   Week 12: Upper Extremity Injury: Hand & Wrist Injury; _Article Presentation and Discussion Session - 6_\n*   Week 13: Torso Injury: Low Back Pain; _Article Presentation and Discussion Session - 7_\n*   Week 14: Head, Neck & Thorax Injury; _Article Presentation and Discussion Session - 8_\n*   Week 15: Sport-related Concussion; _Article Presentation and Discussion Session - 9_\n*   Week 16: Final Exam and Final Presentation",
+    "methodologies": [
+        {
+            "type": "Formal lecture",
+            "note": "The instructor will provide basic content knowledge and research literature related to the course topics."
+        },
+        {
+            "type": "Group discussion",
+            "note": "Students are required to read and summarize the assigned articles for a class session prior to the session. Presentation or instructor-led discussion of selected research articles from the literature will be discussed during article discussion sessions."
+        },
+        {
+            "type": "Problem base learning",
+            "note": "Final presentation: students will formulate a clinically relevant research question related to the course topics. As a group, students will conduct a systematic review to address the question of interest. Lastly, students will provide research-based clinical recommendations regarding the clinically relevant research question."
+        },
+        {
+            "type": "Cooperative learning",
+            "note": "Final presentation"
+        },
+        {
+            "type": "Case studies",
+            "note": "Final presentation"
+        }
+    ],
+    "grading": [
+        {
+            "type": "Assignments",
+            "weight": 18,
+            "note": "Article Summaries"
+        },
+        {
+            "type": "Final exam",
+            "weight": 26,
+            "note": "Final Exam"
+        },
+        {
+            "type": "Class discussion involvement",
+            "weight": 18,
+            "note": "Class Discussion Participation"
+        },
+        {
+            "type": "Presentation",
+            "weight": 10,
+            "note": "Article Presentation"
+        },
+        {
+            "type": "Case study reports",
+            "weight": 28,
+            "note": "Group Project: Systematic Review Presentation; Self and Peer-Evaluation"
+        }
+    ],
+    "prerequisite": "◎Available for junior and senior year B.A. program students (Doctoral program courses excepted) and M.A. program students.",
+    "general_core": []
+}

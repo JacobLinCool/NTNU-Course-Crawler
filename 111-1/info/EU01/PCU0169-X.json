@@ -1,0 +1,68 @@
+{
+    "year": 111,
+    "term": 1,
+    "name": "當代諮商與心理治療",
+    "teachers": [
+        "姜兆眉"
+    ],
+    "department": "EU01",
+    "code": "PCU0169",
+    "credit": 2,
+    "serial": 706,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 6,
+            "to": 7,
+            "campus": "本部",
+            "classroom": "教511"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎限本系(含雙主修)修習◎必須先修過【PCU0130  諮商理論】◎必須先修過(也可以同時修)【PCU0131  諮商技術】",
+    "form_s": "3",
+    "classes": "",
+    "dept_group": "",
+    "hours": 2,
+    "description": "透過介紹當代特定諮商學派，增進學生諮商專業能力。",
+    "goals": [
+        "瞭解當代特定諮商學派的理論",
+        "深入當代特定諮商學派的鑽研與演練"
+    ],
+    "syllabus": "  \n[教學進度與主題附件](https://ap.itc.ntnu.edu.tw/NtnuFileShare/file.do?action=dl&gno=dae77b27a9eb4adf87e7b811d9b90347&fno=539fe2c8fbb6482cb3e42547151655b6)",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "提供當周理論核心概念與議題之關鍵要點"
+        },
+        {
+            "type": "討論法",
+            "note": "帶領分組討論"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 80,
+            "note": "個人報告與小組作業"
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 10,
+            "note": "參與課程之團體（小組）討論"
+        },
+        {
+            "type": "出席",
+            "weight": 10,
+            "note": "準時出席課堂"
+        }
+    ],
+    "prerequisite": "◎必須先修過【PCU0130  諮商理論】◎必須先修過(也可以同時修)【PCU0131  諮商技術】",
+    "general_core": []
+}

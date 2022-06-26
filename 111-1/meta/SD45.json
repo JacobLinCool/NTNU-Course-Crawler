@@ -1,0 +1,423 @@
+[
+    {
+        "year": 111,
+        "term": 1,
+        "name": "科學師資培育",
+        "teachers": [
+            "張文華"
+        ],
+        "department": "SD45",
+        "code": "SED0082",
+        "credit": 3,
+        "serial": 2649,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 2,
+                "to": 4,
+                "campus": "公館",
+                "classroom": "教室自排"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎課程開放上修",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "專題討論：科學與社會",
+        "teachers": [
+            "林陳涌"
+        ],
+        "department": "SD45",
+        "code": "SED0089",
+        "credit": 2,
+        "serial": 2650,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 3,
+                "to": 4,
+                "campus": "公館",
+                "classroom": "教室自排"
+            }
+        ],
+        "programs": [],
+        "comment": "選修課程的同學須有科學教育(或數學教育)背景",
+        "restrict": "◎課程不開放上修",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "專題討論：課程、教學與評量",
+        "teachers": [
+            "方素琦"
+        ],
+        "department": "SD45",
+        "code": "SED0091",
+        "credit": 2,
+        "serial": 2651,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 3,
+                "to": 4,
+                "campus": "公館",
+                "classroom": "教室自排"
+            }
+        ],
+        "programs": [],
+        "comment": "選修課程的同學須有科學教育(或數學教育)背景",
+        "restrict": "◎課程不開放上修",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "數學學習心理學",
+        "teachers": [
+            "林志鴻"
+        ],
+        "department": "SM45",
+        "code": "SEC0009",
+        "credit": 3,
+        "serial": 2729,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 2,
+                "to": 4,
+                "campus": "公館",
+                "classroom": "教室自排"
+            }
+        ],
+        "programs": [],
+        "comment": "選修課程的同學須有科學教育(或數學教育)背景",
+        "restrict": "◎課程不開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "資料分析（二）",
+        "teachers": [
+            "林志鴻"
+        ],
+        "department": "SM45",
+        "code": "SEC0040",
+        "credit": 3,
+        "serial": 2730,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 2,
+                "to": 4,
+                "campus": "公館",
+                "classroom": "教室自排"
+            }
+        ],
+        "programs": [
+            "大數據學程"
+        ],
+        "comment": "選修課程的同學須有科學教育(或數學教育)背景",
+        "restrict": "◎課程不開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "科學哲學與科學教育",
+        "teachers": [
+            "劉湘瑤"
+        ],
+        "department": "SM45",
+        "code": "SEC0065",
+        "credit": 3,
+        "serial": 2731,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 6,
+                "to": 8,
+                "campus": "公館",
+                "classroom": "教室自排"
+            }
+        ],
+        "programs": [],
+        "comment": "選修課程的同學須有科學教育(或數學教育)背景,且須具備英文能力.",
+        "restrict": "◎課程不開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "認知模型與建模",
+        "teachers": [
+            "邱美虹"
+        ],
+        "department": "SM45",
+        "code": "SEC0070",
+        "credit": 3,
+        "serial": 2732,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 6,
+                "to": 8,
+                "campus": "公館",
+                "classroom": "教室自排"
+            }
+        ],
+        "programs": [],
+        "comment": "選修課程的同學須有科學教育(或數學教育)背景",
+        "restrict": "◎課程不開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "書報討論（一）",
+        "teachers": [
+            "張文華",
+            "劉湘瑤"
+        ],
+        "department": "SM45",
+        "code": "SEC8001",
+        "credit": 2,
+        "serial": 2733,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 7,
+                "to": 8,
+                "campus": "公館",
+                "classroom": "Ｓ101"
+            }
+        ],
+        "programs": [],
+        "comment": "選修課程的同學須有科學教育(或數學教育)背景",
+        "restrict": "允許重複修 ◎課程不開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "科學認知歷程追蹤",
+        "teachers": [
+            "楊芳瑩"
+        ],
+        "department": "SM45",
+        "code": "SEC8005",
+        "credit": 3,
+        "serial": 2734,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 7,
+                "to": 9,
+                "campus": "公館",
+                "classroom": "教室自排"
+            }
+        ],
+        "programs": [],
+        "comment": "選修課程的同學須有科學教育(或數學教育)背景",
+        "restrict": "◎課程不開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "科學教育國際比較",
+        "teachers": [
+            "方素琦"
+        ],
+        "department": "SM45",
+        "code": "SEC8006",
+        "credit": 3,
+        "serial": 2735,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 2,
+                "to": 4,
+                "campus": "公館",
+                "classroom": "教室自排"
+            }
+        ],
+        "programs": [],
+        "comment": "選修課程的同學須有科學教育(或數學教育)背景,且須具備英文能力.",
+        "restrict": "◎課程不開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "科學實作的認知與推理",
+        "teachers": [
+            "顏妙璇"
+        ],
+        "department": "SM45",
+        "code": "SEC8009",
+        "credit": 3,
+        "serial": 2736,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 7,
+                "to": 9,
+                "campus": "公館",
+                "classroom": "教室自排"
+            }
+        ],
+        "programs": [
+            "理工實作學程"
+        ],
+        "comment": "",
+        "restrict": "◎課程開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "科學教育學術論文寫作",
+        "teachers": [
+            "吳心楷"
+        ],
+        "department": "SM45",
+        "code": "SEC8012",
+        "credit": 3,
+        "serial": 2737,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 2,
+                "to": 4,
+                "campus": "公館",
+                "classroom": "教室自排"
+            }
+        ],
+        "programs": [],
+        "comment": "選修課程的同學須有科學教育(或數學教育)背景,且須具備英文能力.",
+        "restrict": "◎課程不開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "職場溝通力",
+        "teachers": [
+            "許瑛玿"
+        ],
+        "department": "SM45",
+        "code": "SEC8013",
+        "credit": 2,
+        "serial": 3289,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 6,
+                "to": 7,
+                "campus": "公館",
+                "classroom": "科教大樓101"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎課程開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    }
+]

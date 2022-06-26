@@ -1,0 +1,80 @@
+{
+    "year": 111,
+    "term": 1,
+    "name": "統計程式設計與實務應用",
+    "teachers": [
+        "李子奇"
+    ],
+    "department": "EU05",
+    "code": "HEC9006",
+    "credit": 2,
+    "serial": 744,
+    "group": "",
+    "quota": {
+        "limit": 25,
+        "additional": 3
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 9,
+            "to": 10,
+            "campus": "本部",
+            "classroom": "教404"
+        }
+    ],
+    "programs": [
+        "學習與資訊學程"
+    ],
+    "comment": "",
+    "restrict": "◎必須先修過【HEU0159  健康促進與衛生教育研究法】",
+    "form_s": "",
+    "classes": "9",
+    "dept_group": "",
+    "hours": 2,
+    "description": "針對SAS與SPSS，學習統計軟體操作及執行分析，並強調能解讀統計軟體分析結果。 1.獨立使用SAS與SPSS統計軟體執行統計分析之能力。2.針對統計軟體分析結果能正確解讀。3. 針對統計分析結果作正確解讀及撰寫專業報告",
+    "goals": [
+        "獨立使用SAS與SPSS統計軟體執行統計分析之能力",
+        "針對統計軟體分析結果能正確解讀",
+        "針對統計分析結果作正確解讀及撰寫專業報告"
+    ],
+    "syllabus": "學習SAS統計軟體操作及執行分析，並能解讀統計軟體分析結果。  \n1.獨立使用SAS統計軟體執行統計分析之能力。  \n2.對統計軟體分析結果能正確解讀。  \n3.撰寫專案報告。\n\n*   (上課進度將依據課程安排情況做適度調整)：\n\n週次\n\n**課程內容****(****中文****)**\n\n**Content (English)**\n\n1\n\nSAS系統操作介面\n\nSAS interface\n\n2\n\n資料輸出與輸入\n\nData input and output\n\n3\n\n日期資料\n\nDate material\n\n4\n\n計算與產生新變數\n\nCalculation and create variable\n\n5\n\n資料排序、分割與合併\n\nData sort, spilt and merge\n\n6\n\n描述性統計描述性統計\n\nDescriptive statistics\n\n7\n\n基本統計推論\n\nBasic statistics\n\n8\n\n基本統計推論\n\nBasic statistics\n\n9\n\n期中考\n\nMid-term Examination\n\n10\n\n變異數分析\n\nOne-Way Analysis of variance\n\n10\n\n多重比較\n\nMultiple Comparison Procedures\n\n11\n\n複因子試驗\n\nA Factorial Experiment\n\n12\n\n無母數變異數分析\n\nNonparametric Analysis of Variance\n\n13\n\n變積分析\n\nAnalysis of Covariance\n\n14\n\n散佈圖與相關\n\nThe Scatterplot and correlation\n\n15\n\n簡單線性迴歸\n\nSimple Linear Regression\n\n16\n\n多元迴歸\n\nMultiple Regression\n\n17\n\n模式篩選\n\nModel selection methods\n\n18\n\n期末考\n\nFinal-term Examination",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "統計軟體語法講解"
+        },
+        {
+            "type": "問題解決教學",
+            "note": "統計案例研討"
+        },
+        {
+            "type": "實驗/實作",
+            "note": "統計軟體操作"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 40,
+            "note": "個人書面報告"
+        },
+        {
+            "type": "期中考",
+            "weight": 25,
+            "note": "統計軟體實際操作"
+        },
+        {
+            "type": "期末考",
+            "weight": 25,
+            "note": "統計軟體實際操作"
+        },
+        {
+            "type": "出席",
+            "weight": 10,
+            "note": ""
+        }
+    ],
+    "prerequisite": "◎必須先修過【HEU0159  健康促進與衛生教育研究法】",
+    "general_core": []
+}

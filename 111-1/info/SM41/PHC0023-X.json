@@ -1,0 +1,68 @@
+{
+    "year": 111,
+    "term": 1,
+    "name": "固態物理（一）",
+    "teachers": [
+        "陳鴻宜"
+    ],
+    "department": "SM41",
+    "code": "PHC0023",
+    "credit": 3,
+    "serial": 2674,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 2,
+            "to": 4,
+            "campus": "公館",
+            "classroom": "Ｓ701"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "",
+    "goals": [
+        "Understand important theories and experiments of solid state physics",
+        "Introduction to new developments in solid state physics"
+    ],
+    "syllabus": "1.  **Atoms and Lattice**\n\nWeek 1:\n\n1-1 Bravais Lattice\n\n1-2 Fourier Transform on Bravais Lattice\n\nWeek 2:\n\n1-3 Reciprocal Lattice Vector\n\n1-4 Brillouin Zone\n\n1.  **Electrons and First Brillouin Zone**\n\nWeek 3:\n\n2-1 Bloch Theorem\n\nWeek 4:\n\n2-2 Band and Crystal Momentum\n\n2-3 Supercells\n\n  **3\\. Statistical Physics**\n\nWeek 5:\n\n3-1 Review of Statistical Physics\n\nWeek 6:\n\n3-2 Distribution of Quantum Particles\n\nWeek 7:\n\n3-3 Density of States\n\n─Normal Metal─\n\n  **4\\. Phonons**\n\nWeek 8:\n\n4-1 Wave Properties of Sound\n\nWeek 9:\n\n4-2 Particle Properties of Sound\n\nWeek 10:\n\n4-3 Phonon Density of States\n\nWeek 11:\n\n4-4 Lattice Specific Heat\n\n  **5\\. Free Electrons**\n\nWeek 12:\n\n5-1 Drude Theory\n\nWeek 13:\n\n5-2 Sommerfeld Theory\n\nWeek 14:\n\n5-3 Electron Density of States\n\nWeek 15:\n\n5-4 Electronic Specific Heat\n\nWeek 16:\n\n5-5 Compressibility and Susceptibility",
+    "methodologies": [
+        {
+            "type": "Formal lecture",
+            "note": ""
+        },
+        {
+            "type": "Group discussion",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "Assignments",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "Midterm Exam",
+            "weight": 35,
+            "note": ""
+        },
+        {
+            "type": "Final exam",
+            "weight": 35,
+            "note": ""
+        }
+    ],
+    "prerequisite": "◎Available for junior and senior year B.A. program students (Doctoral program courses excepted) and M.A. program students.",
+    "general_core": []
+}

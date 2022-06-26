@@ -1,0 +1,82 @@
+{
+    "year": 111,
+    "term": 1,
+    "name": "網球（三）",
+    "teachers": [
+        "陳勇志"
+    ],
+    "department": "AU30",
+    "code": "PEU0259",
+    "credit": 2,
+    "serial": 110,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 6,
+            "to": 7,
+            "campus": "公館",
+            "classroom": "網球場二"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎必須先修過【PEU0258  網球（二）】",
+    "form_s": "3",
+    "classes": "",
+    "dept_group": "",
+    "hours": 2,
+    "description": "網球（三）",
+    "goals": [
+        "孰悉網球運動之特性，瞭解單打比賽的擊球策略及比賽規則。",
+        "熟練網球各種比賽情況的擊球動作與策略，並能進行單打比賽。",
+        "享受參與網球運動之樂趣。"
+    ],
+    "syllabus": "Week 1 (9/8) **課程介紹**\n\nWeek 2 (9/15) **正手攻擊球和挑高球**\n\nWeek 3 (9/22) **正手攻擊球和挑高球**\n\nWeek 4 (9/29) **反手拍**\n\nWeek 5 (10/6) **反手拍**\n\nWeek 6 (10/13) **中場截擊**\n\nWeek 7 (10/20) **中場截擊**\n\nWeek 8 (10/27) **綜合練習**\n\nWeek 9 (11/3) **期中考**\n\nWeek 10 (11/10) **發球**\n\nWeek 11 (11/17) **發球**\n\nWeek 12 (11/24) **比賽講解**\n\nWeek 13 (12/1) **練習比賽**\n\nWeek 14 (12/8) **練習比賽**\n\nWeek 15 (12/15) **練習比賽**\n\nWeek 16 (12/22) **期末考**",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "教師講述"
+        },
+        {
+            "type": "合作學習",
+            "note": "練習比賽"
+        },
+        {
+            "type": "實驗/實作",
+            "note": "學生練習"
+        },
+        {
+            "type": "媒體融入教學",
+            "note": "影片觀賞"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 20,
+            "note": "中場截擊"
+        },
+        {
+            "type": "期中考",
+            "weight": 20,
+            "note": "正手拉球"
+        },
+        {
+            "type": "期末考",
+            "weight": 20,
+            "note": "發球"
+        },
+        {
+            "type": "出席",
+            "weight": 40,
+            "note": "出席率"
+        }
+    ],
+    "prerequisite": "◎必須先修過【PEU0258  網球（二）】",
+    "general_core": []
+}

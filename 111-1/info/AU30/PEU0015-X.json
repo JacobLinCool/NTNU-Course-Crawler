@@ -1,0 +1,84 @@
+{
+    "year": 111,
+    "term": 1,
+    "name": "運動生理學",
+    "teachers": [
+        "王鶴森"
+    ],
+    "department": "AU30",
+    "code": "PEU0015",
+    "credit": 2,
+    "serial": 81,
+    "group": "",
+    "quota": {
+        "limit": 80,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 1,
+            "from": 3,
+            "to": 4,
+            "campus": "本部",
+            "classroom": "誠102"
+        }
+    ],
+    "programs": [
+        "運動傷害防護學程"
+    ],
+    "comment": "",
+    "restrict": "",
+    "form_s": "2",
+    "classes": "",
+    "dept_group": "",
+    "hours": 2,
+    "description": "本課程係人體解剖生理學(人體生理學)課程之延續，主要在使學生瞭解人體在運動時(包括最大運動及非最大運動)的生理變化、反應與長期運動訓練所產生的適應現象，以作為日後應用於運動訓練、運動指導及體育教學之參考。",
+    "goals": [
+        "瞭解人體在運動時(包括最大運動及非最大運動)的生理變化",
+        "日後應用於運動訓練、運動指導及體育教學"
+    ],
+    "syllabus": "週次      進度\n\n一         課程介紹\n\n二         Chap 1 運動生理學常用測量 Chap 2內部環境的控制\n\n三         Chap 3 生物能量學\n\n四         Chap 4 運動代謝\n\n五         Chap 5 細胞中信息傳遞與運動後荷爾蒙的反應\n\n六         Chap 7 神經系統：構造與動作控制 \n\n七         Chap 8骨骼肌：結構與功能 \n\n八         Chap 9 循環系統對運動的反應\n\n九         期中考\n\n十         Chap 10 運動與呼吸\n\n十一     Chap 12 溫度調節\n\n十二     Chap 13 訓練生理學：最大攝氧量、運動表現與肌力之影響\n\n十三     Chap 19 影響運動表現的因素\n\n十四     Chap 21 運動表現的訓練\n\n十五     Chap 23 營養、身體組成和運動表現\n\n十六     Chap 24 運動與環境\n\n十七     Chap 25 增補劑       \n\n十八      期末考",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "教師課堂講述"
+        },
+        {
+            "type": "討論法",
+            "note": "針對部分運動生理主題，由教師設計問題，引導學生進行討論。"
+        },
+        {
+            "type": "媒體融入教學",
+            "note": "ppt"
+        }
+    ],
+    "grading": [
+        {
+            "type": "期中考",
+            "weight": 30,
+            "note": "期中筆試"
+        },
+        {
+            "type": "期末考",
+            "weight": 30,
+            "note": "期末筆試"
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 10,
+            "note": "課堂提問及討論參與情形"
+        },
+        {
+            "type": "出席",
+            "weight": 20,
+            "note": "出缺席及遲到早退情形"
+        },
+        {
+            "type": "其他",
+            "weight": 10,
+            "note": "隨堂小考"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

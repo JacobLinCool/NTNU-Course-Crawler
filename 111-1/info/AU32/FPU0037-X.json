@@ -1,0 +1,83 @@
+{
+    "year": 111,
+    "term": 1,
+    "name": "教練心理學",
+    "teachers": [
+        "梁嘉音"
+    ],
+    "department": "AU32",
+    "code": "FPU0037",
+    "credit": 2,
+    "serial": 175,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 3,
+            "to": 4,
+            "campus": "公館",
+            "classroom": "Ｓ501"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "3",
+    "classes": "",
+    "dept_group": "",
+    "hours": 2,
+    "description": "1.建立運動教練應有之競技運動心理學知識。 \n2.了解運動員與團隊運動之心理行為。 \n3.獲得並具備動作控制與學習(motor control and learning)之知識基礎。 \n4.明白心理技能訓練之內容與步驟。",
+    "goals": [
+        "建立運動教練應有之競技運動心理學知識。",
+        "了解運動員與團隊運動之心理行為",
+        "獲得並具備動作控制與學習(motor control and learning)之知識基礎",
+        "明白心理技能訓練之內容與步驟"
+    ],
+    "syllabus": "  \n[教學進度與主題附件](https://ap.itc.ntnu.edu.tw/NtnuFileShare/file.do?action=dl&gno=695ef348384747aca3427256b3882d74&fno=31ed9bb3821c473291b2ce27f90d2126)",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "說明及講解講解各課程單元"
+        },
+        {
+            "type": "討論法",
+            "note": "透過理論基礎的講解之後，以分組方式進行討論"
+        },
+        {
+            "type": "問題解決教學",
+            "note": "透過影片人、事、物之分析，藉以了解課程所教授之理論基礎"
+        },
+        {
+            "type": "媒體融入教學",
+            "note": "以多媒體介紹各課程單元"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 20,
+            "note": "隨堂作業"
+        },
+        {
+            "type": "期中考",
+            "weight": 30,
+            "note": "依據課程進度進行測驗"
+        },
+        {
+            "type": "期末考",
+            "weight": 30,
+            "note": "依據課程進度進行測驗"
+        },
+        {
+            "type": "出席",
+            "weight": 20,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

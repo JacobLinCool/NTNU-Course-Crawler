@@ -1,0 +1,89 @@
+{
+    "year": 111,
+    "term": 1,
+    "name": "光電工程概論",
+    "teachers": [
+        "廖書賢"
+    ],
+    "department": "HU77",
+    "code": "OEU0001",
+    "credit": 2,
+    "serial": 1343,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 5,
+            "from": 3,
+            "to": 4,
+            "campus": "公館",
+            "classroom": "Ｓ307"
+        }
+    ],
+    "programs": [
+        "太陽能源與工程學程"
+    ],
+    "comment": "",
+    "restrict": "◎限大一修習",
+    "form_s": "1",
+    "classes": "",
+    "dept_group": "",
+    "hours": 2,
+    "description": "本課程的目的在於介紹光電工程的基本概念與原理。由幾何光學，接著介紹光學成像，然後介紹各類光電元件（如顯示器、雷射、太陽能電池與光偵測器等）的基本工作原理與應用。",
+    "goals": [
+        "對各光電科技及其基礎理論有初步認識",
+        "使學生充分瞭解目前光電工程領域常見到的一些元件或系統的功能與運作機制",
+        "透過個人與分組報告，培養學生資料蒐集、組織、歸納與團隊分工的能力"
+    ],
+    "syllabus": "週次\n\n教學大綱及進度\n\n1\n\nCourse Introduction\n\n2\n\n光電相關產業發展近況\n\n3\n\n幾何光學簡介\n\n4\n\n光學成像\n\n5\n\n光電顯示應用簡介\n\n6\n\n色彩學簡介\n\n7\n\n光電半導體簡介\n\n8\n\n綠能光電簡介\n\n9\n\n期中測驗評量\n\n10\n\n生醫光電簡介\n\n11\n\n奈米光電簡介\n\n12\n\n雷射光電簡介\n\n13\n\n光偵測器簡介\n\n14\n\n光電元件製作與應用簡介\n\n15\n\n其他光電科技應用\n\n16\n\n個人或小組報告\n\n17\n\n個人或小組報告\n\n18\n\n期末測驗評量",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "問題解決教學",
+            "note": ""
+        },
+        {
+            "type": "合作學習",
+            "note": ""
+        },
+        {
+            "type": "實驗/實作",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 15,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 15,
+            "note": ""
+        },
+        {
+            "type": "出席",
+            "weight": 10,
+            "note": ""
+        },
+        {
+            "type": "報告",
+            "weight": 30,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

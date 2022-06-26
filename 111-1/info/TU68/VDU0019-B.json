@@ -1,0 +1,70 @@
+{
+    "year": 111,
+    "term": 1,
+    "name": "電腦繪圖",
+    "teachers": [
+        "薛佑廷"
+    ],
+    "department": "TU68",
+    "code": "VDU0019",
+    "credit": 3,
+    "serial": 3200,
+    "group": "B",
+    "quota": {
+        "limit": 35,
+        "additional": 5
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 3,
+            "to": 5,
+            "campus": "本部",
+            "classroom": "教403"
+        }
+    ],
+    "programs": [
+        "科技藝術學程"
+    ],
+    "comment": "",
+    "restrict": "◎限本系(含雙主修)修習◎限大一修習 ◎必須先修過(也可以同時修)【VDU0108  設計素描（一）】、【VDU0070  基礎設計（一）】",
+    "form_s": "1",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程主要授課重點為電腦繪圖基本技巧的培養與觀念之培養；授課內容除了理論的建立之外，尚包含實務技術的訓練。授課方式採講授及實作相互配合，並藉由作品發表培養學習者的組織能力與提案技巧。\n學習者將被要求依授課進度繳交指定的閱讀資料與實作作業。實作作業於指定繳交日期當日同時進行作品發表。\n學期總成績的評鑑除前述兩項之外，上課過程中的學習態度亦被納入評量的範圍。",
+    "goals": [
+        "使學生具有電腦繪圖軟體操作的基礎能力。",
+        "能選擇適宜的軟體表現出設計構想。",
+        "具繪圖軟體工具整合的基礎能力，並能應用於設計實務上。"
+    ],
+    "syllabus": "Week\n\nDate\n\nTopics\n\n1\n\n9/6\n\nIntroduction\n\n2\n\n9/13\n\nPerspective Drawing\n\n3\n\n9/20\n\nPerspective Drawing\n\n4\n\n9/27\n\nCreating Gridss\n\n5\n\n10/4\n\nCreating Grids\n\n6\n\n10/11\n\nEllipses & Rotations\n\n7\n\n10/18\n\nEllipses & Rotations\n\n8\n\n10/25\n\nDrawing Consumer Product\n\n9\n\n11/1\n\nDrawing Consumer Product\n\n10\n\n11/8\n\nDrawing Chair\n\n11\n\n11/15\n\nDrawing Chair\n\n12\n\n11/22\n\nDrawing Car\n\n13\n\n11/29\n\nDrawing Car\n\n14\n\n12/6\n\nDrawing Car\n\n15\n\n12/13\n\nFinal Review\n\n16\n\n12/20\n\nFinal Review",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "實驗/實作",
+            "note": ""
+        },
+        {
+            "type": "媒體融入教學",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 70,
+            "note": ""
+        },
+        {
+            "type": "出席",
+            "weight": 30,
+            "note": ""
+        }
+    ],
+    "prerequisite": "◎必須先修過(也可以同時修)【VDU0108  設計素描（一）】、【VDU0070  基礎設計（一）】",
+    "general_core": []
+}

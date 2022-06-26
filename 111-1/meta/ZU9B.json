@@ -1,0 +1,569 @@
+[
+    {
+        "year": 111,
+        "term": 1,
+        "name": "公共衛生教育實習",
+        "teachers": [
+            "吳文琪"
+        ],
+        "department": "EU05",
+        "code": "HEU0029",
+        "credit": 2,
+        "serial": 774,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 6,
+                "from": 1,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "衛教系會議室"
+            }
+        ],
+        "programs": [
+            "空間學程"
+        ],
+        "comment": "暑假時學生將會到各機構開始實習",
+        "restrict": "◎限本系(含雙主修)、輔系修習◎必須先修過【HEU0155  健康促進與衛生教育計畫】、【HEU0028  公共衛生教育】◎必須先修過(也可以同時修)【HEU0156  健康促進與衛生教育導論】",
+        "form_s": "4",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "水文學",
+        "teachers": [
+            "李宗祐"
+        ],
+        "department": "LU23",
+        "code": "GEU0003",
+        "credit": 3,
+        "serial": 1942,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 5
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 6,
+                "to": 8,
+                "campus": "本部",
+                "classroom": "正106"
+            }
+        ],
+        "programs": [
+            "環境監測學程",
+            "空間學程"
+        ],
+        "comment": "",
+        "restrict": "",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "社會地理",
+        "teachers": [
+            "汪明輝"
+        ],
+        "department": "LU23",
+        "code": "GEU0008",
+        "credit": 3,
+        "serial": 1943,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 5
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 7,
+                "to": 9,
+                "campus": "本部",
+                "classroom": "正106"
+            }
+        ],
+        "programs": [
+            "區域學程",
+            "空間學程"
+        ],
+        "comment": "",
+        "restrict": "",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "地理資訊系統",
+        "teachers": [
+            "吳秉昇"
+        ],
+        "department": "LU23",
+        "code": "GEU0166",
+        "credit": 3,
+        "serial": 1946,
+        "group": "A",
+        "quota": {
+            "limit": 25,
+            "additional": 0
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 3,
+                "to": 5,
+                "campus": "本部",
+                "classroom": "地理系電腦教室"
+            }
+        ],
+        "programs": [
+            "學習與資訊學程",
+            "數位人文與藝術學程",
+            "環境監測學程",
+            "空間學程"
+        ],
+        "comment": "本班以中文授課",
+        "restrict": "◎限本系(含雙主修)修習",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "地理資訊系統",
+        "teachers": [
+            "吳秉昇"
+        ],
+        "department": "LU23",
+        "code": "GEU0166",
+        "credit": 3,
+        "serial": 1947,
+        "group": "B",
+        "quota": {
+            "limit": 25,
+            "additional": 0
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 7,
+                "to": 9,
+                "campus": "本部",
+                "classroom": "地理系電腦教室"
+            }
+        ],
+        "programs": [
+            "學習與資訊學程",
+            "數位人文與藝術學程",
+            "環境監測學程",
+            "空間學程"
+        ],
+        "comment": "本班以中文授課",
+        "restrict": "◎限本系(含雙主修)修習",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "地理資訊系統",
+        "teachers": [
+            "張國楨"
+        ],
+        "department": "LU23",
+        "code": "GEU0166",
+        "credit": 3,
+        "serial": 1948,
+        "group": "C",
+        "quota": {
+            "limit": 25,
+            "additional": 5
+        },
+        "schedule": [
+            {
+                "day": 5,
+                "from": 3,
+                "to": 5,
+                "campus": "本部",
+                "classroom": "地理系電腦教室"
+            }
+        ],
+        "programs": [
+            "學習與資訊學程",
+            "數位人文與藝術學程",
+            "環境監測學程",
+            "空間學程"
+        ],
+        "comment": "本班以全英語授課",
+        "restrict": "◎限本系(含雙主修)修習",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "地理資訊系統",
+        "teachers": [
+            "張國楨"
+        ],
+        "department": "LU23",
+        "code": "GEU0166",
+        "credit": 3,
+        "serial": 1949,
+        "group": "D",
+        "quota": {
+            "limit": 25,
+            "additional": 5
+        },
+        "schedule": [
+            {
+                "day": 5,
+                "from": 6,
+                "to": 8,
+                "campus": "本部",
+                "classroom": "地理系電腦教室"
+            }
+        ],
+        "programs": [
+            "學習與資訊學程",
+            "數位人文與藝術學程",
+            "環境監測學程",
+            "空間學程"
+        ],
+        "comment": "本班以中文授課",
+        "restrict": "◎限本系(含雙主修)修習",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "測量學",
+        "teachers": [
+            "王聖鐸"
+        ],
+        "department": "LU23",
+        "code": "GEU0184",
+        "credit": 3,
+        "serial": 1950,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 5
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 6,
+                "to": 8,
+                "campus": "本部",
+                "classroom": "樸306"
+            }
+        ],
+        "programs": [
+            "學習與資訊學程",
+            "環境監測學程",
+            "區域學程",
+            "空間學程"
+        ],
+        "comment": "",
+        "restrict": "",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "地圖學",
+        "teachers": [
+            "王聖鐸"
+        ],
+        "department": "LU23",
+        "code": "GEU0017",
+        "credit": 3,
+        "serial": 1954,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 5
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 2,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "誠108"
+            }
+        ],
+        "programs": [
+            "空間學程"
+        ],
+        "comment": "授權碼優先發放給大四以上同學",
+        "restrict": "",
+        "form_s": "2",
+        "classes": "1",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "地圖學",
+        "teachers": [
+            "王聖鐸"
+        ],
+        "department": "LU23",
+        "code": "GEU0017",
+        "credit": 3,
+        "serial": 1955,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 5
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 2,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "樸305"
+            }
+        ],
+        "programs": [
+            "空間學程"
+        ],
+        "comment": "授權碼優先發放給大四以上同學",
+        "restrict": "",
+        "form_s": "2",
+        "classes": "2",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "生物地理",
+        "teachers": [
+            "陳瑩"
+        ],
+        "department": "LU23",
+        "code": "GEU0005",
+        "credit": 3,
+        "serial": 1957,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 5
+        },
+        "schedule": [
+            {
+                "day": 5,
+                "from": 6,
+                "to": 8,
+                "campus": "本部",
+                "classroom": "誠302"
+            }
+        ],
+        "programs": [
+            "環境監測學程",
+            "空間學程"
+        ],
+        "comment": "",
+        "restrict": "",
+        "form_s": "3",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "市場地理",
+        "teachers": [
+            "周學政"
+        ],
+        "department": "LU23",
+        "code": "GEU0053",
+        "credit": 2,
+        "serial": 1958,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 5
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 9,
+                "to": 10,
+                "campus": "本部",
+                "classroom": "誠107"
+            }
+        ],
+        "programs": [
+            "空間學程"
+        ],
+        "comment": "",
+        "restrict": "",
+        "form_s": "3",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "土地法規",
+        "teachers": [
+            "張鈺光"
+        ],
+        "department": "LU23",
+        "code": "GEU0227",
+        "credit": 3,
+        "serial": 1959,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 5
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 7,
+                "to": 9,
+                "campus": "本部",
+                "classroom": "正205"
+            }
+        ],
+        "programs": [
+            "區域學程",
+            "空間學程"
+        ],
+        "comment": "",
+        "restrict": "",
+        "form_s": "3",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "生物統計學",
+        "teachers": [
+            "黃士穎"
+        ],
+        "department": "SU43",
+        "code": "BIU0092",
+        "credit": 3,
+        "serial": 2987,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 5,
+                "from": 2,
+                "to": 4,
+                "campus": "公館",
+                "classroom": "Ｂ102"
+            }
+        ],
+        "programs": [
+            "空間學程"
+        ],
+        "comment": "",
+        "restrict": "",
+        "form_s": "3",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "生態學",
+        "teachers": [
+            "未定"
+        ],
+        "department": "SU43",
+        "code": "BIU0046",
+        "credit": 3,
+        "serial": 2990,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 2,
+                "to": 4,
+                "campus": "公館",
+                "classroom": "Ｓ603"
+            }
+        ],
+        "programs": [
+            "環境監測學程",
+            "空間學程"
+        ],
+        "comment": "未定教師黃俊嘉",
+        "restrict": "",
+        "form_s": "3",
+        "classes": "1",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "空間資訊技術實務（二）",
+        "teachers": [
+            "周學政",
+            "張國楨",
+            "陳哲銘",
+            "吳秉昇"
+        ],
+        "department": "ZU9B",
+        "code": "PGU3005",
+        "credit": 3,
+        "serial": 3273,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 5
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 10,
+                "to": 12,
+                "campus": "本部",
+                "classroom": "誠107"
+            }
+        ],
+        "programs": [
+            "空間學程"
+        ],
+        "comment": "",
+        "restrict": "◎第一階段限 空間學程◎限空間學程選修◎必須先修過【PGU3004  空間資訊技術實務（一）】",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    }
+]

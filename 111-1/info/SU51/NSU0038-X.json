@@ -1,0 +1,79 @@
+{
+    "year": 111,
+    "term": 1,
+    "name": "營養生化（二）",
+    "teachers": [
+        "吳啟豪"
+    ],
+    "department": "SU51",
+    "code": "NSU0038",
+    "credit": 3,
+    "serial": 3082,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 3,
+            "from": 6,
+            "to": 8,
+            "campus": "公館",
+            "classroom": "Ｓ302"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎限本系(含雙主修)修習◎必須先修過【NSU0007  營養學（二）】、【NSU0009  生物化學】",
+    "form_s": "3",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程以講演、討論進行，藉由師大數位學習平台的實施機制，協助學習者了解微量營養素於新陳代謝中扮演之角色與抗氧化功能，初步認識微量營養素與分子生物及營養基因體可能之關係，學習微量營養素對體液與滲透壓之影響與貢獻。同時，本課程與師大總圖書館錄製有open course ware 之教材，供修課者課餘之溫習與利用。",
+    "goals": [
+        "介紹微量營養素之生化生理功能與抗氧化作用",
+        "認識微量營養素於新陳代謝中扮演之角色",
+        "探討微量營養素與分子生物及營養基因體可能之關係",
+        "瞭解微量營養素對體液與滲透壓之影響與貢獻"
+    ],
+    "syllabus": "1.  開學週：課程說明 \n2.  Vits C & B1\n3.  Vits B2, Niacin & Pantothenic acid\n4.  Biotin & B6\n5.  Folate & Vit B12\n6.  第一次期中考試\n7.  Vits A & D\n8.  Vits E & K\n9.  第二次期中考試\n10.  Major Minerals (I)-Ca & P\n11.  Major Minerals (II)-Mg, Na & K\n12.  Major Minerals (II)-Cl & S\n13.  第三次期中考試\n14.  Trace Minerals – Fe & Zn\n15.  Trace Minerals – Cu & Se\n16.  Trace Minerals – I & Mn\n17.  Trace Minerals – F, Cr & Mo\n18.  期末考試",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "全程藉由授課教師自製教材 (PPT)進行教學。"
+        },
+        {
+            "type": "討論法",
+            "note": "鼓勵學習者主動提問與參與討論，表現優良者學期平均成績加分。"
+        },
+        {
+            "type": "媒體融入教學",
+            "note": "融入師大MOODLE數位學習平台、網路連結(如You Tube)等"
+        }
+    ],
+    "grading": [
+        {
+            "type": "期中考",
+            "weight": 60,
+            "note": "三次試卷均以英文出題，以提升學習者之英語專業能力。"
+        },
+        {
+            "type": "期末考",
+            "weight": 30,
+            "note": "三次試卷均以英文出題，以提升學習者之英語專業能力。"
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 5,
+            "note": "鼓勵學習者主動提問與參與討論。必要時，指定學習者口語回答或於白板上繪圖等臨場作答，以訓練其機智與膽識。"
+        },
+        {
+            "type": "其他",
+            "weight": 5,
+            "note": "本科以英文試卷命題，額外加分以緩衝語文上之學習障礙。"
+        }
+    ],
+    "prerequisite": "◎必須先修過【NSU0007  營養學（二）】、【NSU0009  生物化學】",
+    "general_core": []
+}

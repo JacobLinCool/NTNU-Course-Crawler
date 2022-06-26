@@ -1,0 +1,77 @@
+{
+    "year": 111,
+    "term": 1,
+    "name": "微積分甲（一）",
+    "teachers": [
+        "郭君逸"
+    ],
+    "department": "SU40",
+    "code": "MAU0178",
+    "credit": 4,
+    "serial": 2819,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 3,
+            "to": 4,
+            "campus": "公館",
+            "classroom": "Ｂ103"
+        },
+        {
+            "day": 5,
+            "from": 3,
+            "to": 4,
+            "campus": "公館",
+            "classroom": "Ｂ103"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎限大一修習",
+    "form_s": "1",
+    "classes": "3",
+    "dept_group": "",
+    "hours": 4,
+    "description": "本課程目標是在銜接高中數學，並做為其他高等數學課程的基礎。內容主要介紹函數的極限概念、連續性、微分與積分方法、以及在數學與相關學科上的應用。課程的呈現為理論與方法並重，在假設實數系之基本性質的基礎之上，建立一個完整的體系。",
+    "goals": [
+        "進數學分析基本概念的理解",
+        "增進邏輯推理與歸納的能力",
+        "增進數學思維與批判性思考的能力",
+        "增進專業知識及追求真理的態度"
+    ],
+    "syllabus": "Week 1  (9/5(一) ～ 9/11(日))\n\n*   1.4 Exponential Functions\n*   1.5 Inverse Functions and Logarithms\n*   2.1 The Tangent and Velocity Problems\n*   2.2 The Limit of a Function\n\nWeek 2  (9/12(一) ～ 9/18(日))\n\n*   2.3 Calculating Limits Using the Limit Laws\n*   2.4 The Precise Definition of a Limit\n*   2.5 Continuity\n*   2.6 Limits at Infinity; Horizontal Asymptotes\n\nWeek 3  (9/19(一) ～ 9/25(日))\n\n*   2.7 Derivatives and Rates of Change\n*   2.8 The Derivative as a Function\n*   3.1 Derivatives of Polynomials and Exponential Functions\n*   3.2 The Product and Quotient Rules\n\nWeek 4  (9/26(一) ～ 10/2(日))\n\n*   3.3 Derivatives of Trigonometric Functions\n*   3.4 The Chain Rule\n*   3.5 Implicit Differentiation\n\nWeek 5  (10/3(一) ～ 10/9(日))\n\n*   3.6 Derivatives of Logarithmic and Inverse Trigonometric Functions\n*   3.10 Linear Approximations and Differentials\n*   3.11\\* Hyperbolic Functions\n*   4.1 Maximum and Minimum Values\n\nWeek 6  (10/10(一) ～ 10/16(日))\n\n*   4.2 The Mean Value Theorem\n*   4.3 What Derivatives Tell Us about the Shape of a Graph\n*   **四****)** **第一次期中考**)\n\nWeek 7  (10/17(一) ～ 10/23(日))\n\n*   4.4 Indeterminate Forms and l'Hospital's Rule\n*   4.5 Summary of Curve Sketching\n*   4.7 Optimization Problems\n*   4.8\\* Newton's Method\n\nWeek 8  (10/24(日) ～ 10/30(日))\n\n*   4.9 Antiderivatives\n*   5.1 The Area and Distance Problems\n*   5.2 The Definite Integral\n*   5.3 The Fundamental Theorem of Calculus\n\nWeek 9  (10/31(一) ～ 11/6(日))\n\n*   5.4 Indefinite Integrals and the Net Change Theorem\n*   5.5 The Substitution Rule\n*   6.1 Areas Between Curves\n*   6.2 Volumes\n\nWeek 10  (11/7(一) ～ 11/13(日))\n\n*   6.3 Volumes by Cylindrical Shells\n*   6.5 Average Value of a Function\n*   7.1 Integration by Parts\n\nWeek 11  (11/14(一) ～ 11/20(日))\n\n*   7.2 Trigonometric Integrals\n*   7.3 Trigonometric Substitution\n*   **四****)** **第二次期中考**)\n\nWeek 12  (11/21(一) ～ 11/27(日))\n\n*   7.4 Integration of Rational Functions by Partial Fractions\n*   7.5 Strategy for Integration\n*   7.7 Approximate Integration\n\nWeek 13  (11/28(一) ～ 12/4(日))\n\n*   7.8 Improper Integrals\n*   8.1 Arc Length\n*   8.2 Area of a Surface of Revolution\n\nWeek 14  (12/5(一) ～ 12/11(日))\n\n*   11.1 Sequences\n*   11.2 Series\n*   11.3 The Integral Test and Estimates of Sums\n\nWeek 15  (12/12(一) ～ 12/18(日))\n\n*   11.4 The Comparison Tests\n*   11.5 Alternating Series and Absolute Convergence\n\nWeek 16  (12/19(一) ～ 12/25(日))\n\n*   11.6 The Ratio and Root Tests\n*   11.7\\* Strategy for Testing Series\n\n(**12/22 (****四****)** **期末考**)\n\nWeeks 17～18  Study the supplementary sections with \\*.",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "以上課講授為主，並輔以習題研討。"
+        },
+        {
+            "type": "問題解決教學",
+            "note": "每週排定習演和討論時間。"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 10,
+            "note": "隨堂指定之習題。"
+        },
+        {
+            "type": "期中考",
+            "weight": 60,
+            "note": "兩次"
+        },
+        {
+            "type": "期末考",
+            "weight": 30,
+            "note": "題形式包括名詞解釋、問答題與計算題。"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

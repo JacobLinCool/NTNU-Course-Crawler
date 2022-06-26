@@ -1,0 +1,78 @@
+{
+    "year": 111,
+    "term": 1,
+    "name": "線性系統理論",
+    "teachers": [
+        "王偉彥"
+    ],
+    "department": "HM75",
+    "code": "AEC8006",
+    "credit": 3,
+    "serial": 1165,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 5,
+            "from": 2,
+            "to": 4,
+            "campus": "本部",
+            "classroom": "電機系4F會議室"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎必須先修過(也可以同時修)【AEU0043  控制系統】 ◎課程開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "Introduction to the fundamental theory of finite-dimensional linear systems with emphasis on the state-space representation. Mathematical representations of systems; linear dynamic solutions; controllability, observability, and stability; linearization and realization theory; and state feedback and state observer.",
+    "goals": [
+        "瞭解各種線性系統理論",
+        "能以程式語言撰寫各種線性系統理論，並據以分析各項數據",
+        "培養問題導向的思維和研究之能力",
+        "提升工程問題理解之能力，並利用各種線性系統理論分析及設計控制系統",
+        "能夠搜尋相關技術文獻，提升自我學習之能力",
+        "能夠以小組方式進行主題式研究，培養團隊合作之能力"
+    ],
+    "syllabus": "1.     Introduction (第一週)\n-------------------------\n\n2.     _Linearization (第二~三週)_\n------------------------------\n\n3.     _Similarity Transformation & Realization (第四~六週)_\n--------------------------------------------------------\n\n4.     _Controllability and Observability (第六~十__週)_\n----------------------------------------------------\n\n5.     _Stability Analysis (第十~十三週)_\n------------------------------------\n\n6.     _State Space Design (第十四~十五週)_\n-------------------------------------\n\n7.     Controller Design _(第十六~十八週)_\n------------------------------------",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "課堂講授"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 20,
+            "note": ""
+        },
+        {
+            "type": "期中考",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "出席",
+            "weight": 10,
+            "note": ""
+        },
+        {
+            "type": "報告",
+            "weight": 10,
+            "note": ""
+        }
+    ],
+    "prerequisite": "◎必須先修過(也可以同時修)【AEU0043  控制系統】",
+    "general_core": []
+}

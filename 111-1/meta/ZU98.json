@@ -1,0 +1,1002 @@
+[
+    {
+        "year": 111,
+        "term": 1,
+        "name": "運動傷害與防護",
+        "teachers": [
+            "黃昱倫"
+        ],
+        "department": "AU30",
+        "code": "PEU0067",
+        "credit": 2,
+        "serial": 82,
+        "group": "",
+        "quota": {
+            "limit": 70,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 8,
+                "to": 9,
+                "campus": "本部",
+                "classroom": "誠202"
+            }
+        ],
+        "programs": [
+            "戶外探索領導學程",
+            "運動傷害防護學程",
+            "高齡學程"
+        ],
+        "comment": "",
+        "restrict": "◎第一階段限 運動傷害防護學程◎限運動傷害防護學程選修",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "休閒活動概論",
+        "teachers": [
+            "詹俊成"
+        ],
+        "department": "AU30",
+        "code": "PEU4011",
+        "credit": 2,
+        "serial": 101,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 6,
+                "to": 7,
+                "campus": "本部",
+                "classroom": "誠108"
+            }
+        ],
+        "programs": [
+            "戶外探索領導學程",
+            "高齡學程"
+        ],
+        "comment": "",
+        "restrict": "",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "體適能與運動處方",
+        "teachers": [
+            "方進隆"
+        ],
+        "department": "AU30",
+        "code": "PEU0282",
+        "credit": 2,
+        "serial": 114,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 8,
+                "to": 9,
+                "campus": "本部",
+                "classroom": "誠108"
+            }
+        ],
+        "programs": [
+            "高齡學程"
+        ],
+        "comment": "",
+        "restrict": "",
+        "form_s": "3",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "運動與營養",
+        "teachers": [
+            "劉宏文"
+        ],
+        "department": "AU30",
+        "code": "PEU2006",
+        "credit": 2,
+        "serial": 117,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 3,
+                "to": 4,
+                "campus": "公館",
+                "classroom": "Ｅ202"
+            }
+        ],
+        "programs": [
+            "運動傷害防護學程",
+            "高齡學程"
+        ],
+        "comment": "",
+        "restrict": "",
+        "form_s": "3",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "體適能",
+        "teachers": [
+            "鄭景峰"
+        ],
+        "department": "AU32",
+        "code": "FPU0330",
+        "credit": 2,
+        "serial": 133,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 3,
+                "to": 4,
+                "campus": "公館",
+                "classroom": "體育館三樓會議室"
+            }
+        ],
+        "programs": [
+            "高齡學程"
+        ],
+        "comment": "",
+        "restrict": "",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "健康與體育概論",
+        "teachers": [
+            "陳信亨"
+        ],
+        "department": "AU32",
+        "code": "FPU0337",
+        "credit": 2,
+        "serial": 136,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 1,
+                "to": 2,
+                "campus": "公館",
+                "classroom": "理圖001"
+            }
+        ],
+        "programs": [
+            "高齡學程"
+        ],
+        "comment": "",
+        "restrict": "",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "體能訓練法",
+        "teachers": [
+            "蔡於儒"
+        ],
+        "department": "AU32",
+        "code": "FPU0064",
+        "credit": 2,
+        "serial": 167,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 6,
+                "to": 7,
+                "campus": "公館",
+                "classroom": "Ｓ502"
+            }
+        ],
+        "programs": [
+            "高齡學程"
+        ],
+        "comment": "",
+        "restrict": "",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "營養教育",
+        "teachers": [
+            "何仁育"
+        ],
+        "department": "AU32",
+        "code": "FPU0319",
+        "credit": 2,
+        "serial": 173,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 6,
+                "to": 7,
+                "campus": "公館",
+                "classroom": "體育館三樓會議室"
+            }
+        ],
+        "programs": [
+            "高齡學程"
+        ],
+        "comment": "",
+        "restrict": "◎必須先修過【FPU0012  運動生理學】",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "社區高齡者健康服務實務",
+        "teachers": [
+            "未定"
+        ],
+        "department": "E",
+        "code": "E0U0004",
+        "credit": 2,
+        "serial": 336,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 16,
+                "to": 10,
+                "campus": "本部",
+                "classroom": "誠304"
+            }
+        ],
+        "programs": [
+            "高齡學程"
+        ],
+        "comment": "",
+        "restrict": "",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "成人心理與老化研究",
+        "teachers": [
+            "郭郡羽"
+        ],
+        "department": "EM02",
+        "code": "SOM0135",
+        "credit": 2,
+        "serial": 420,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 3,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "教710"
+            }
+        ],
+        "programs": [
+            "高齡學程"
+        ],
+        "comment": "",
+        "restrict": "◎課程不開放上修",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "團體輔導",
+        "teachers": [
+            "未定"
+        ],
+        "department": "EU01",
+        "code": "PCU0011",
+        "credit": 3,
+        "serial": 688,
+        "group": "",
+        "quota": {
+            "limit": 30,
+            "additional": 5
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 10,
+                "to": 12,
+                "campus": "本部",
+                "classroom": "教602"
+            }
+        ],
+        "programs": [
+            "高齡學程"
+        ],
+        "comment": "",
+        "restrict": "◎必須先修過【PCU0130  諮商理論】、【PCU0131  諮商技術】",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "輔導原理與實務",
+        "teachers": [
+            "未定"
+        ],
+        "department": "EU01",
+        "code": "PCU0117",
+        "credit": 3,
+        "serial": 691,
+        "group": "B",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 2,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "教602"
+            }
+        ],
+        "programs": [
+            "高齡學程"
+        ],
+        "comment": "",
+        "restrict": "",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "諮商技術",
+        "teachers": [
+            "未定"
+        ],
+        "department": "EU01",
+        "code": "PCU0131",
+        "credit": 3,
+        "serial": 692,
+        "group": "C",
+        "quota": {
+            "limit": 30,
+            "additional": 5
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 8,
+                "to": 10,
+                "campus": "本部",
+                "classroom": "教602"
+            }
+        ],
+        "programs": [
+            "PASSION偏鄉教育學程",
+            "高齡學程"
+        ],
+        "comment": "",
+        "restrict": "◎必須先修過【PCU0130  諮商理論】",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "輔導原理與實務",
+        "teachers": [
+            "姜兆眉"
+        ],
+        "department": "EU01",
+        "code": "PCU0117",
+        "credit": 3,
+        "serial": 693,
+        "group": "A",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 8,
+                "to": 10,
+                "campus": "本部",
+                "classroom": "教513"
+            }
+        ],
+        "programs": [
+            "高齡學程"
+        ],
+        "comment": "",
+        "restrict": "◎限本系(含雙主修)修習◎限大一修習",
+        "form_s": "1",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "普通心理學（一）",
+        "teachers": [
+            "許禕芳"
+        ],
+        "department": "EU01",
+        "code": "PCU0152",
+        "credit": 2,
+        "serial": 695,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 3,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "教511"
+            }
+        ],
+        "programs": [
+            "音樂輔教學程",
+            "高齡學程"
+        ],
+        "comment": "",
+        "restrict": "◎限本系(含雙主修)修習◎限大一修習",
+        "form_s": "1",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "諮商技術",
+        "teachers": [
+            "張世華"
+        ],
+        "department": "EU01",
+        "code": "PCU0131",
+        "credit": 3,
+        "serial": 704,
+        "group": "A",
+        "quota": {
+            "limit": 30,
+            "additional": 5
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 6,
+                "to": 8,
+                "campus": "本部",
+                "classroom": "教602"
+            }
+        ],
+        "programs": [
+            "PASSION偏鄉教育學程",
+            "高齡學程"
+        ],
+        "comment": "",
+        "restrict": "◎限本系(含雙主修)修習◎必須先修過【PCU0130  諮商理論】",
+        "form_s": "3",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "諮商技術",
+        "teachers": [
+            "王櫻芬"
+        ],
+        "department": "EU01",
+        "code": "PCU0131",
+        "credit": 3,
+        "serial": 705,
+        "group": "B",
+        "quota": {
+            "limit": 30,
+            "additional": 5
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 6,
+                "to": 8,
+                "campus": "本部",
+                "classroom": "教600"
+            }
+        ],
+        "programs": [
+            "PASSION偏鄉教育學程",
+            "高齡學程"
+        ],
+        "comment": "",
+        "restrict": "◎限本系(含雙主修)修習◎必須先修過【PCU0130  諮商理論】",
+        "form_s": "3",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "健康促進",
+        "teachers": [
+            "賴香如"
+        ],
+        "department": "EU05",
+        "code": "HEU0119",
+        "credit": 2,
+        "serial": 769,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 15
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 6,
+                "to": 7,
+                "campus": "本部",
+                "classroom": "正103"
+            }
+        ],
+        "programs": [
+            "高齡學程"
+        ],
+        "comment": "",
+        "restrict": "◎限本系(含雙主修)、輔系修習 ◎必須先修過(也可以同時修)【HEU0156  健康促進與衛生教育導論】",
+        "form_s": "3",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "高齡者健康促進",
+        "teachers": [
+            "朱芬郁"
+        ],
+        "department": "EU05",
+        "code": "HEU0165",
+        "credit": 2,
+        "serial": 771,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 15
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 8,
+                "to": 9,
+                "campus": "本部",
+                "classroom": "正104"
+            }
+        ],
+        "programs": [
+            "高齡學程"
+        ],
+        "comment": "",
+        "restrict": "◎限本系(含雙主修)、輔系修習",
+        "form_s": "3",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "老人與家庭",
+        "teachers": [
+            "薛承泰"
+        ],
+        "department": "EU06",
+        "code": "HGU0321",
+        "credit": 3,
+        "serial": 797,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 6,
+                "to": 8,
+                "campus": "本部",
+                "classroom": "誠206"
+            }
+        ],
+        "programs": [
+            "高齡學程"
+        ],
+        "comment": "",
+        "restrict": "◎限本系(含雙主修)修習",
+        "form_s": "",
+        "classes": "",
+        "dept_group": "E"
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "活動規劃原理",
+        "teachers": [
+            "謝宜蓉"
+        ],
+        "department": "EU07",
+        "code": "CEU0369",
+        "credit": 2,
+        "serial": 825,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 6,
+                "to": 7,
+                "campus": "本部",
+                "classroom": "誠大樓公團部"
+            }
+        ],
+        "programs": [
+            "高齡學程",
+            "社團領導學程"
+        ],
+        "comment": "兼任教師：謝宜蓉老師。",
+        "restrict": "",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "休閒教育",
+        "teachers": [
+            "蕭如軒"
+        ],
+        "department": "EU07",
+        "code": "CEU0382",
+        "credit": 2,
+        "serial": 841,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 1,
+                "to": 2,
+                "campus": "本部",
+                "classroom": "誠大樓公團部"
+            }
+        ],
+        "programs": [
+            "高齡學程",
+            "區域學程"
+        ],
+        "comment": "",
+        "restrict": "",
+        "form_s": "3",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "音樂鑑賞",
+        "teachers": [
+            "李娓娓"
+        ],
+        "department": "GU",
+        "code": "01UG004",
+        "credit": 2,
+        "serial": 908,
+        "group": "A",
+        "quota": {
+            "limit": 120,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 3,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "誠101"
+            }
+        ],
+        "programs": [
+            "高齡學程",
+            "社團領導學程"
+        ],
+        "comment": "◎數位課程",
+        "restrict": "◎音樂系（學）不得選修",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "音樂鑑賞",
+        "teachers": [
+            "陳惠齡"
+        ],
+        "department": "GU",
+        "code": "01UG004",
+        "credit": 2,
+        "serial": 909,
+        "group": "B",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 3,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "綜210展覽廳"
+            }
+        ],
+        "programs": [
+            "高齡學程",
+            "社團領導學程"
+        ],
+        "comment": "",
+        "restrict": "◎音樂系（學）不得選修",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "舞蹈鑑賞",
+        "teachers": [
+            "王宏豪"
+        ],
+        "department": "GU",
+        "code": "01UG012",
+        "credit": 3,
+        "serial": 914,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 6,
+                "to": 8,
+                "campus": "本部",
+                "classroom": "誠101"
+            }
+        ],
+        "programs": [
+            "高齡學程",
+            "社團領導學程"
+        ],
+        "comment": "",
+        "restrict": "",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "音樂治療導論",
+        "teachers": [
+            "莊惠君"
+        ],
+        "department": "MU90",
+        "code": "MUU0247",
+        "credit": 2,
+        "serial": 2407,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 6,
+                "to": 7,
+                "campus": "本部",
+                "classroom": "樂研一"
+            }
+        ],
+        "programs": [
+            "音樂輔教學程",
+            "高齡學程"
+        ],
+        "comment": "",
+        "restrict": "",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "基礎營養實習",
+        "teachers": [
+            "未定"
+        ],
+        "department": "SU51",
+        "code": "NSU0036",
+        "credit": 1,
+        "serial": 3081,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 2,
+                "to": 4,
+                "campus": "公館",
+                "classroom": "Ｓ403"
+            }
+        ],
+        "programs": [
+            "高齡學程"
+        ],
+        "comment": "",
+        "restrict": "◎限本系(含雙主修)修習",
+        "form_s": "3",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "社區營養學",
+        "teachers": [
+            "盧立卿"
+        ],
+        "department": "SU51",
+        "code": "NSU0023",
+        "credit": 3,
+        "serial": 3083,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 6,
+                "to": 8,
+                "campus": "公館",
+                "classroom": "Ｓ403"
+            }
+        ],
+        "programs": [
+            "高齡學程"
+        ],
+        "comment": "",
+        "restrict": "◎限本系(含雙主修)修習◎必須先修過【NSU0015  營養評估】、【NSU0020  膳食療養（二）】、【NSU0021  膳食療養實驗（二）】",
+        "form_s": "4",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "成人藝術治療",
+        "teachers": [
+            "江學瀅"
+        ],
+        "department": "TM60",
+        "code": "ATM0047",
+        "credit": 3,
+        "serial": 3099,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 2,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "美506"
+            }
+        ],
+        "programs": [
+            "高齡學程"
+        ],
+        "comment": "",
+        "restrict": "◎限本系(含雙主修)修習 ◎課程不開放上修",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    }
+]

@@ -1,0 +1,195 @@
+[
+    {
+        "year": 111,
+        "term": 1,
+        "name": "生態系生態學",
+        "teachers": [
+            "未定"
+        ],
+        "department": "SD50",
+        "code": "DID0006",
+        "credit": 3,
+        "serial": 2654,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 7,
+                "to": 9,
+                "campus": "校外",
+                "classroom": "教室自排"
+            }
+        ],
+        "programs": [],
+        "comment": "Classroom in  B208, BRC, AS.    未定教師 鍾國芳",
+        "restrict": "◎課程不開放上修",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "真核生物多樣性與演化",
+        "teachers": [
+            "陳仲吉"
+        ],
+        "department": "SD50",
+        "code": "DID0013",
+        "credit": 3,
+        "serial": 2655,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 5,
+                "from": 5,
+                "to": 7,
+                "campus": "校外",
+                "classroom": "教室自排"
+            }
+        ],
+        "programs": [],
+        "comment": "Classroom in common 302, NTU",
+        "restrict": "◎課程不開放上修",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "專題討論",
+        "teachers": [
+            "未定"
+        ],
+        "department": "SM50",
+        "code": "DIC8026",
+        "credit": 1,
+        "serial": 2763,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 3,
+                "to": 3,
+                "campus": "校外",
+                "classroom": "教室自排"
+            }
+        ],
+        "programs": [],
+        "comment": "Classroom in  B208, BRC, AS.    未定教師黃俊嘉",
+        "restrict": "允許重複修 ◎課程不開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "實驗室輪調學習",
+        "teachers": [
+            "郭奇芊"
+        ],
+        "department": "SM50",
+        "code": "DIC8027",
+        "credit": 1,
+        "serial": 2764,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 5,
+                "to": 5,
+                "campus": "校外",
+                "classroom": "教室自排"
+            }
+        ],
+        "programs": [],
+        "comment": "classroom in NTNU or AS lab, every week is different.",
+        "restrict": "允許重複修 ◎課程不開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "生物多樣性甲",
+        "teachers": [
+            "未定"
+        ],
+        "department": "SM50",
+        "code": "DIC8035",
+        "credit": 3,
+        "serial": 2765,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 7,
+                "to": 9,
+                "campus": "校外",
+                "classroom": "教室自排"
+            }
+        ],
+        "programs": [],
+        "comment": "Classroom in  B208, BRC, AS.    未定教師鍾國芳",
+        "restrict": "◎課程不開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "族群遺傳與演化甲",
+        "teachers": [
+            "李壽先",
+            "林仲平"
+        ],
+        "department": "SM50",
+        "code": "DIC8042",
+        "credit": 3,
+        "serial": 2766,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 2,
+                "to": 4,
+                "campus": "公館",
+                "classroom": "Ｓ307"
+            }
+        ],
+        "programs": [],
+        "comment": "Classroom in S307, NTNU/ B204, BRC, AS",
+        "restrict": "◎課程不開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    }
+]

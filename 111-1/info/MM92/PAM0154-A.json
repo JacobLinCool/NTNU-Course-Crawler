@@ -1,0 +1,63 @@
+{
+    "year": 111,
+    "term": 1,
+    "name": "碩一主修（一）",
+    "teachers": [
+        "李燕宜"
+    ],
+    "department": "MM92",
+    "code": "PAM0154",
+    "credit": 1,
+    "serial": 2133,
+    "group": "A",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 0,
+            "from": -1,
+            "to": -1,
+            "campus": "",
+            "classroom": ""
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程不開放上修",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 1,
+    "description": "教授鋼琴與器樂及聲樂合作之基本技巧, 給予學生對重要曲目的基本概念, 並於指導的過程中讓學生學習如何達到有效率的排練。\n增強於合作技巧的磨練, 如聲部層次的漸進, 音色的融合及兩樂器之間的樂句對答等。",
+    "goals": [
+        "教授鋼琴與器樂及聲樂合作之基本技巧, 給予學生對重要曲目的基本概念, 並於指導的過程中讓學生學習如何達到有效率的排練。",
+        "增強於合作技巧的磨練如聲部層次的漸進, 音色的融合及兩樂器之間的樂句對答等。"
+    ],
+    "syllabus": " 『授課方式』：16週。彈性上課學生自主學習聆聽音樂會\n\n完全按照每一位學生之能力及需求每週做曲目上的調整.\n\nVocal repertoire: starting from Fremch Melodie, German lieder, and English songs\n\nInstrumental repertoire: Starting from Mozart and Beethoven duo sonata, then Brahms, or French composers.\n\n課程需要需使用知音劇場",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "對於不同的合作對象所需改變的彈奏方式及應變能力"
+        },
+        {
+            "type": "合作學習",
+            "note": "每週搭配不同之演奏唱對象及不同樂派的曲目增強於合作技巧的磨練如聲部層次的漸進, 音色的融合及兩樂器之間的樂句對答等。"
+        }
+    ],
+    "grading": [
+        {
+            "type": "課堂討論參與",
+            "weight": 80,
+            "note": "每堂課之呈現, 具備鋼琴合作的能力,具備與各式表演藝術合作的能力,具備協助演奏唱者之指導能力"
+        },
+        {
+            "type": "出席",
+            "weight": 20,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

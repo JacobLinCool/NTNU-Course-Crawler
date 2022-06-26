@@ -1,0 +1,154 @@
+[
+    {
+        "year": 111,
+        "term": 1,
+        "name": "編碼學",
+        "teachers": [
+            "未定"
+        ],
+        "department": "SU40",
+        "code": "MAC9017",
+        "credit": 3,
+        "serial": 2780,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 6,
+                "to": 8,
+                "campus": "公館",
+                "classroom": "數學館M211"
+            }
+        ],
+        "programs": [
+            "科學計算學程"
+        ],
+        "comment": "授課教師為紀文鎮老師",
+        "restrict": "",
+        "form_s": "",
+        "classes": "9",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "科學計算導論",
+        "teachers": [
+            "黃聰明"
+        ],
+        "department": "SU40",
+        "code": "MAC9029",
+        "credit": 3,
+        "serial": 2784,
+        "group": "A",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 6,
+                "to": 6,
+                "campus": "公館",
+                "classroom": "理圖807"
+            },
+            {
+                "day": 5,
+                "from": 3,
+                "to": 4,
+                "campus": "公館",
+                "classroom": "理圖002"
+            }
+        ],
+        "programs": [
+            "理工實作學程",
+            "科學計算學程"
+        ],
+        "comment": "本課程可採認為【MAU0019 數值分析（一）】",
+        "restrict": "",
+        "form_s": "",
+        "classes": "9",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "科學計算導論",
+        "teachers": [
+            "謝世峰"
+        ],
+        "department": "SU40",
+        "code": "MAC9029",
+        "credit": 3,
+        "serial": 2785,
+        "group": "B",
+        "quota": {
+            "limit": 50,
+            "additional": 5
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 6,
+                "to": 6,
+                "campus": "公館",
+                "classroom": "理圖801"
+            },
+            {
+                "day": 4,
+                "from": 6,
+                "to": 7,
+                "campus": "公館",
+                "classroom": "Ｃ002"
+            }
+        ],
+        "programs": [
+            "理工實作學程",
+            "科學計算學程"
+        ],
+        "comment": "本課程可採認為【MAU0019 數值分析（一）】",
+        "restrict": "",
+        "form_s": "",
+        "classes": "9",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "矩陣計算（一）",
+        "teachers": [
+            "黃聰明"
+        ],
+        "department": "SU40",
+        "code": "MAC9035",
+        "credit": 3,
+        "serial": 2787,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 2,
+                "to": 4,
+                "campus": "公館",
+                "classroom": "數學館M212"
+            }
+        ],
+        "programs": [
+            "科學計算學程"
+        ],
+        "comment": "",
+        "restrict": "",
+        "form_s": "",
+        "classes": "9",
+        "dept_group": ""
+    }
+]

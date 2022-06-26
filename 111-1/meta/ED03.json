@@ -1,0 +1,98 @@
+[
+    {
+        "year": 111,
+        "term": 1,
+        "name": "課程史專題研究",
+        "teachers": [
+            "鍾鴻銘"
+        ],
+        "department": "ED03",
+        "code": "ECD0015",
+        "credit": 3,
+        "serial": 357,
+        "group": "",
+        "quota": {
+            "limit": 30,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 5,
+                "from": 6,
+                "to": 8,
+                "campus": "本部",
+                "classroom": "教804"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎限本系(含雙主修)修習 ◎課程不開放上修",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "學業動機與教學專題研究",
+        "teachers": [
+            "唐淑華"
+        ],
+        "department": "ED03",
+        "code": "ECD0017",
+        "credit": 3,
+        "serial": 358,
+        "group": "",
+        "quota": {
+            "limit": 30,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 16,
+                "to": 11,
+                "campus": "本部",
+                "classroom": "教804"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎課程不開放上修",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "建構主義在課程與教學上的應用",
+        "teachers": [
+            "郝永崴"
+        ],
+        "department": "EM03",
+        "code": "ECC8002",
+        "credit": 3,
+        "serial": 438,
+        "group": "",
+        "quota": {
+            "limit": 30,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 8,
+                "to": 10,
+                "campus": "本部",
+                "classroom": "教804"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎課程不開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    }
+]

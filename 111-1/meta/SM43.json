@@ -1,0 +1,978 @@
+[
+    {
+        "year": 111,
+        "term": 1,
+        "name": "專題討論",
+        "teachers": [
+            "陳仲吉",
+            "未定"
+        ],
+        "department": "SM43",
+        "code": "BIM0123",
+        "credit": 2,
+        "serial": 2693,
+        "group": "A",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 5,
+                "from": 3,
+                "to": 4,
+                "campus": "公館",
+                "classroom": "Ｅ202"
+            }
+        ],
+        "programs": [],
+        "comment": "未定老師趙怡姍",
+        "restrict": "允許重複修 ◎課程不開放上修",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "專題討論",
+        "teachers": [
+            "王慈蔚",
+            "未定"
+        ],
+        "department": "SM43",
+        "code": "BIM0123",
+        "credit": 2,
+        "serial": 2694,
+        "group": "B",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 5,
+                "from": 3,
+                "to": 4,
+                "campus": "公館",
+                "classroom": "Ｅ201"
+            }
+        ],
+        "programs": [],
+        "comment": "未定老師王麗婷",
+        "restrict": "允許重複修 ◎課程不開放上修",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "專題討論",
+        "teachers": [
+            "吳忠信",
+            "陳均"
+        ],
+        "department": "SM43",
+        "code": "BIM0123",
+        "credit": 2,
+        "serial": 2695,
+        "group": "C",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 5,
+                "from": 3,
+                "to": 4,
+                "campus": "公館",
+                "classroom": "Ｃ303B"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "允許重複修 ◎課程不開放上修",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "神經藥理學",
+        "teachers": [
+            "呂國棟"
+        ],
+        "department": "SM43",
+        "code": "BIC0052",
+        "credit": 3,
+        "serial": 2696,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 2,
+                "to": 4,
+                "campus": "公館",
+                "classroom": "Ｃ303B"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎課程不開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "腦結構學",
+        "teachers": [
+            "呂俊宏"
+        ],
+        "department": "SM43",
+        "code": "BIC0059",
+        "credit": 3,
+        "serial": 2697,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 1,
+                "to": 3,
+                "campus": "公館",
+                "classroom": "Ｃ303B"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎課程不開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "細胞及分子生物學",
+        "teachers": [
+            "賴韻如",
+            "王慈蔚",
+            "蘇銘燦"
+        ],
+        "department": "SM43",
+        "code": "BIC0138",
+        "credit": 3,
+        "serial": 2698,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 6,
+                "to": 8,
+                "campus": "公館",
+                "classroom": "Ｃ302"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎課程不開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "演化生物學",
+        "teachers": [
+            "李壽先"
+        ],
+        "department": "SM43",
+        "code": "BIC0173",
+        "credit": 3,
+        "serial": 2699,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 2,
+                "to": 4,
+                "campus": "公館",
+                "classroom": "Ｃ302"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎課程不開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "兩棲爬蟲動物生態與演化",
+        "teachers": [
+            "林思民"
+        ],
+        "department": "SM43",
+        "code": "BIC8003",
+        "credit": 2,
+        "serial": 2700,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 6,
+                "to": 7,
+                "campus": "公館",
+                "classroom": "Ｃ303B"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎課程不開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "實驗生物學研究方法",
+        "teachers": [
+            "孫智雯"
+        ],
+        "department": "SM43",
+        "code": "BIC8007",
+        "credit": 2,
+        "serial": 2701,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 5,
+                "from": 6,
+                "to": 7,
+                "campus": "公館",
+                "classroom": "Ｅ201"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎課程不開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "進階專題討論（一）",
+        "teachers": [
+            "蘇銘燦",
+            "王慈蔚",
+            "未定"
+        ],
+        "department": "SM43",
+        "code": "BIC8009",
+        "credit": 0,
+        "serial": 2702,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 5,
+                "to": 5,
+                "campus": "公館",
+                "classroom": "Ｅ202"
+            },
+            {
+                "day": 5,
+                "from": 5,
+                "to": 5,
+                "campus": "公館",
+                "classroom": "Ｅ202"
+            }
+        ],
+        "programs": [],
+        "comment": "未定教師：王麗婷",
+        "restrict": "◎課程不開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "生態演化研究方法",
+        "teachers": [
+            "李壽先"
+        ],
+        "department": "SM43",
+        "code": "BIC8010",
+        "credit": 1,
+        "serial": 2703,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 4,
+                "to": 4,
+                "campus": "公館",
+                "classroom": "Ｃ302"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎課程不開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "動物生理學特論（一）",
+        "teachers": [
+            "鄭劍廷"
+        ],
+        "department": "SM43",
+        "code": "BIC8018",
+        "credit": 2,
+        "serial": 2704,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 5,
+                "from": 8,
+                "to": 9,
+                "campus": "公館",
+                "classroom": "Ｃ303B"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎課程不開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "實驗生理學",
+        "teachers": [
+            "吳忠信"
+        ],
+        "department": "SM43",
+        "code": "BIC8021",
+        "credit": 2,
+        "serial": 2705,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 5,
+                "from": 6,
+                "to": 7,
+                "campus": "公館",
+                "classroom": "Ｃ303B"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎課程不開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "行為生態學",
+        "teachers": [
+            "許鈺鸚"
+        ],
+        "department": "SM43",
+        "code": "BIC8022",
+        "credit": 3,
+        "serial": 2706,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 7,
+                "to": 9,
+                "campus": "公館",
+                "classroom": "Ｃ302"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎課程不開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "應用科學引領生物技術產業",
+        "teachers": [
+            "謝秀梅"
+        ],
+        "department": "SM43",
+        "code": "BIC8028",
+        "credit": 2,
+        "serial": 2707,
+        "group": "",
+        "quota": {
+            "limit": 36,
+            "additional": 0
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 3,
+                "to": 4,
+                "campus": "公館",
+                "classroom": "Ｓ506"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎課程不開放上修",
+        "form_s": "",
+        "classes": "8",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "新藥與中草藥轉譯醫學",
+        "teachers": [
+            "吳忠信"
+        ],
+        "department": "SU43",
+        "code": "BIC7004",
+        "credit": 2,
+        "serial": 2956,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 6,
+                "to": 7,
+                "campus": "公館",
+                "classroom": "Ｓ204"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "",
+        "classes": "7",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "神經行為學",
+        "teachers": [
+            "王慈蔚"
+        ],
+        "department": "SU43",
+        "code": "BIC7010",
+        "credit": 3,
+        "serial": 2957,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 7,
+                "to": 9,
+                "campus": "公館",
+                "classroom": "Ｃ303B"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "",
+        "classes": "7",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "比較動物生理學",
+        "teachers": [
+            "林豊益"
+        ],
+        "department": "SU43",
+        "code": "BIC7015",
+        "credit": 3,
+        "serial": 2958,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 7,
+                "to": 9,
+                "campus": "公館",
+                "classroom": "Ｓ301"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "",
+        "classes": "7",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "發育生物學",
+        "teachers": [
+            "王慈蔚"
+        ],
+        "department": "SU43",
+        "code": "BIC0123",
+        "credit": 3,
+        "serial": 2959,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 6,
+                "to": 8,
+                "campus": "公館",
+                "classroom": "Ｃ302"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "",
+        "classes": "9",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "地景生態學",
+        "teachers": [
+            "林登秋"
+        ],
+        "department": "SU43",
+        "code": "BIC9008",
+        "credit": 3,
+        "serial": 2960,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 7,
+                "to": 9,
+                "campus": "公館",
+                "classroom": "Ｃ302"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "",
+        "classes": "9",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "生物資訊應用程式語言",
+        "teachers": [
+            "沈林琥"
+        ],
+        "department": "SU43",
+        "code": "BIC9013",
+        "credit": 3,
+        "serial": 2961,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 10,
+                "to": 12,
+                "campus": "公館",
+                "classroom": "理圖807"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "",
+        "classes": "9",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "生物顯微技術含實驗",
+        "teachers": [
+            "賴韻如",
+            "張永達"
+        ],
+        "department": "SU43",
+        "code": "BIC9015",
+        "credit": 3,
+        "serial": 2962,
+        "group": "",
+        "quota": {
+            "limit": 30,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 6,
+                "from": 10,
+                "to": 13,
+                "campus": "公館",
+                "classroom": "Ｄ205"
+            }
+        ],
+        "programs": [],
+        "comment": "本門課程會於暑期8月中開始上課，請選課前先查看生科系網站上的正確上課時間，再選課，並請第一二階段選課，以利統計實驗器材人數，暑期未到課的同學，請於加退選時退選。",
+        "restrict": "◎必須先修過【BIU0168  普通生物學甲（一）】、【BIU0169  普通生物學甲（二）】",
+        "form_s": "",
+        "classes": "9",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "野生動物學",
+        "teachers": [
+            "李佩珍"
+        ],
+        "department": "SU43",
+        "code": "BIC9021",
+        "credit": 3,
+        "serial": 2963,
+        "group": "",
+        "quota": {
+            "limit": 36,
+            "additional": 0
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 6,
+                "to": 8,
+                "campus": "公館",
+                "classroom": "Ｓ506"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "",
+        "classes": "9",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "系統生物學",
+        "teachers": [
+            "徐堉峰"
+        ],
+        "department": "SU43",
+        "code": "BIC9024",
+        "credit": 3,
+        "serial": 2964,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 7,
+                "to": 9,
+                "campus": "公館",
+                "classroom": "Ｓ503"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "",
+        "classes": "9",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "島嶼生物地理學",
+        "teachers": [
+            "林仲平"
+        ],
+        "department": "SU43",
+        "code": "BIC9025",
+        "credit": 3,
+        "serial": 2965,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 2,
+                "to": 4,
+                "campus": "公館",
+                "classroom": "Ｃ303B"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "",
+        "classes": "9",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "癌生物學",
+        "teachers": [
+            "未定"
+        ],
+        "department": "SU43",
+        "code": "BIC9032",
+        "credit": 2,
+        "serial": 2966,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 6,
+                "to": 7,
+                "campus": "公館",
+                "classroom": "Ｓ304"
+            }
+        ],
+        "programs": [],
+        "comment": "未定老師王麗婷",
+        "restrict": "",
+        "form_s": "",
+        "classes": "9",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "生物探究與實作",
+        "teachers": [
+            "廖培鈞",
+            "劉湘瑤"
+        ],
+        "department": "SU43",
+        "code": "BIC9045",
+        "credit": 2,
+        "serial": 2967,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 10,
+                "to": 11,
+                "campus": "公館",
+                "classroom": "Ｅ201"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎必須先修過【BIU0172  普通生物學實驗甲（一）】、【BIU0173  普通生物學實驗甲（二）】、【BIU0168  普通生物學甲（一）】、【BIU0169  普通生物學甲（二）】",
+        "form_s": "",
+        "classes": "9",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "骨生物學：基礎及應用",
+        "teachers": [
+            "陳均"
+        ],
+        "department": "SU43",
+        "code": "BIC9058",
+        "credit": 2,
+        "serial": 2968,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 3,
+                "to": 4,
+                "campus": "公館",
+                "classroom": "Ｓ302"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "",
+        "classes": "9",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "植物病理",
+        "teachers": [
+            "未定"
+        ],
+        "department": "SU43",
+        "code": "BIC9059",
+        "credit": 3,
+        "serial": 2969,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 2,
+                "to": 4,
+                "campus": "公館",
+                "classroom": "Ｓ302"
+            }
+        ],
+        "programs": [],
+        "comment": "未定教師陳晶",
+        "restrict": "",
+        "form_s": "",
+        "classes": "9",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "蕨類植物學",
+        "teachers": [
+            "未定"
+        ],
+        "department": "SU43",
+        "code": "BIC9060",
+        "credit": 3,
+        "serial": 2970,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 5,
+                "from": 7,
+                "to": 9,
+                "campus": "公館",
+                "classroom": "Ｓ302"
+            }
+        ],
+        "programs": [],
+        "comment": "未定教師趙怡姍",
+        "restrict": "",
+        "form_s": "",
+        "classes": "9",
+        "dept_group": ""
+    }
+]

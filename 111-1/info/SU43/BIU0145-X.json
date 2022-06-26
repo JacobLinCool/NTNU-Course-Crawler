@@ -1,0 +1,68 @@
+{
+    "year": 111,
+    "term": 1,
+    "name": "分子生物學",
+    "teachers": [
+        "蘇銘燦",
+        "謝秀梅",
+        "林炎壽"
+    ],
+    "department": "SU43",
+    "code": "BIU0145",
+    "credit": 3,
+    "serial": 2991,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 3,
+            "from": 7,
+            "to": 9,
+            "campus": "公館",
+            "classroom": "Ｅ202"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎必須先修過【BIU0168  普通生物學甲（一）】、【BIU0169  普通生物學甲（二）】",
+    "form_s": "3",
+    "classes": "1",
+    "dept_group": "",
+    "hours": 3,
+    "description": "分子生物學課程內容為以分子層次的觀點探討生物個體細微運作的生命現象，重點強調基因之複製和修補、表現及調控機制，並介紹現今各項分子生物相關技術，而且以癌症作為一個實際之例子說明分子生物學之原理，過程及應用。其中基因的表現過程涵蓋轉錄、轉譯及轉譯後修飾等；基因的表現調控機制以原核生物的調控為基礎，再加上近期真核生物之基因表現調控發現，使學生學習到分子生物學知識的演變及最新的資訊。",
+    "goals": [
+        "以分子層次的觀點探討生物個體細微運作的生命現象，重點強調基因之複製和修補、表現及調控機制"
+    ],
+    "syllabus": "Genes and Chromosomes\n\nDNA replication\n\nDNA recombination\n\nTranscription\n\nRNA processing\n\nTranslation\n\nMidterm I\n\nPost-transcriptional gene control\n\nGene inactivation & Genomics\n\nCancer I\n\nCancer II\n\nBasic cloning techniques & Microarray\n\nMidterm II\n\nRegulation of gene expression in prokaryotes I\n\nRegulation of gene expression in prokaryotes II\n\nTranscriptional control of gene expression I\n\nTranscriptional control of gene expression II\n\nFinal exam",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": ""
+        },
+        {
+            "type": "媒體融入教學",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "期中考",
+            "weight": 50,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 50,
+            "note": ""
+        }
+    ],
+    "prerequisite": "◎必須先修過【BIU0168  普通生物學甲（一）】、【BIU0169  普通生物學甲（二）】",
+    "general_core": []
+}

@@ -1,0 +1,141 @@
+[
+    {
+        "year": 111,
+        "term": 1,
+        "name": "運動傷害與防護",
+        "teachers": [
+            "黃昱倫"
+        ],
+        "department": "AU30",
+        "code": "PEU0067",
+        "credit": 2,
+        "serial": 82,
+        "group": "",
+        "quota": {
+            "limit": 70,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 8,
+                "to": 9,
+                "campus": "本部",
+                "classroom": "誠202"
+            }
+        ],
+        "programs": [
+            "戶外探索領導學程",
+            "運動傷害防護學程",
+            "高齡學程"
+        ],
+        "comment": "",
+        "restrict": "◎第一階段限 運動傷害防護學程◎限運動傷害防護學程選修",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "休閒活動概論",
+        "teachers": [
+            "詹俊成"
+        ],
+        "department": "AU30",
+        "code": "PEU4011",
+        "credit": 2,
+        "serial": 101,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 6,
+                "to": 7,
+                "campus": "本部",
+                "classroom": "誠108"
+            }
+        ],
+        "programs": [
+            "戶外探索領導學程",
+            "高齡學程"
+        ],
+        "comment": "",
+        "restrict": "",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "戶外活動（一）",
+        "teachers": [
+            "未定"
+        ],
+        "department": "EU07",
+        "code": "CEU0479",
+        "credit": 2,
+        "serial": 810,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 6,
+                "to": 7,
+                "campus": "本部",
+                "classroom": "誠大樓公團部"
+            }
+        ],
+        "programs": [
+            "戶外探索領導學程"
+        ],
+        "comment": "",
+        "restrict": "◎限大一修習",
+        "form_s": "1",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "戶外活動（三）",
+        "teachers": [
+            "蕭如軒"
+        ],
+        "department": "EU07",
+        "code": "CEU0483",
+        "credit": 2,
+        "serial": 828,
+        "group": "",
+        "quota": {
+            "limit": 18,
+            "additional": 0
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 3,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "誠大樓公團部"
+            }
+        ],
+        "programs": [
+            "戶外探索領導學程"
+        ],
+        "comment": "採全人工方式選課。本課程須通過5公里跑30分鐘內的體能測驗標準。課程需要耗費大量體力，5000公尺需達特定標準才能選課，避免造成危險。(第一周上課將進行5000公尺測驗，合格者才准予修課，未參加測驗者，不能修課)。",
+        "restrict": "◎第一階段需人工加選◎第二階段需人工加選◎加退選階段需人工加選 ◎必須先修過【CEU0478  戶外急救與安全管理】、【CEU0482  戶外活動（二）】、【CEU0484  戶外領導】其中一門",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    }
+]

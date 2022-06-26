@@ -1,0 +1,76 @@
+{
+    "year": 111,
+    "term": 1,
+    "name": "社會經濟地理資訊系統",
+    "teachers": [
+        "周學政"
+    ],
+    "department": "LM23",
+    "code": "GEC7002",
+    "credit": 2,
+    "serial": 1652,
+    "group": "",
+    "quota": {
+        "limit": 25,
+        "additional": 5
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 6,
+            "to": 7,
+            "campus": "本部",
+            "classroom": "地理系電腦教室"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎課程開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 2,
+    "description": "近年來，人文地理、社會、經濟、歷史等社會及人文科學開始採用地理資訊系統作為研究工具，也發展出一些新的概念與分析工具。本課程目的有二：\n1.介紹社會經濟現象的空間特性及分析方法。\n2.學習在GIS系統中，建立社經現象資料庫與分析社經資料",
+    "goals": [
+        "介紹社會經濟現象的空間特性及分析方法",
+        "學習在GIS系統中，建立社經現象資料庫與分析社經資料"
+    ],
+    "syllabus": "本課程目的使用空間技術分析人文社經現象。內容包括社會經濟現象的空間特性，社經資料空間融合、。統計及空間分析等原理內容，主要以R及ArcGIS為實踐工具、進行空間分析。 會根據修課同學的背景差異，調整授課內容。。以下為主要內容，但並非上課章節，語言\n\n1.  Introduction\n2.  Ontology of Socio-economic geographic data 人文社經資料的特性\n3.  Scale of Socio-economic Analysis    人文社經資料與理論的空間尺度\n4.  Ecological Fallacy and Modifiable Area Unity Problem  空間單元的重要性\n5.  Spatial Sampling and Interpolation for Social-Economic Data  人文社經資料的空間抽樣與空間推估\n6.  Socio-Economic data  Spatial Fuction社經資料空間融合\n7.  R 語言空間分析\n8.  ArcGIS空間分析\n9.  Visualizing Socio-economic Data  人文社經空間資料的呈現   \n10.  Government and Private Socio-Economic Databases  現有資料庫的應用\n11.  Spatial Autocorrelation principle  空間自相關原理與應用\n12.  Causal Effect  因果分析\n13.  Tracking Data 軌跡資料分析\n14.  Application – Crime  案例─犯罪分析\n15.  Application – Urban geography  案例─市場地理\n16.  Application - Others 案例─疾病\n\n參考資料：\n\n*   110年本課程台灣師大Moodle (課程PPT、練習資料、作業及討論，需修課帳號）: [https://moodle3.ntnu.edu.tw/course/view.php?id=20635](https://moodle3.ntnu.edu.tw/course/view.php?id=20635)\n*   講義網頁（開放資源及講義，不需帳號）：[https://sites.google.com/site/hsegis/home](https://sites.google.com/site/hsegis/home)",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": "文獻與閱讀與討論"
+        },
+        {
+            "type": "實驗/實作",
+            "note": "軟體操作"
+        },
+        {
+            "type": "專題研究",
+            "note": "資料庫設計報告"
+        }
+    ],
+    "grading": [
+        {
+            "type": "課堂討論參與",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "報告",
+            "weight": 40,
+            "note": ""
+        },
+        {
+            "type": "其他",
+            "weight": 30,
+            "note": "指定論文評讀"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

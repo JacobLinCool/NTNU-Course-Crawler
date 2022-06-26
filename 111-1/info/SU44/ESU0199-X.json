@@ -1,0 +1,85 @@
+{
+    "year": 111,
+    "term": 1,
+    "name": "大氣觀測（含實習）",
+    "teachers": [
+        "曾莉珊"
+    ],
+    "department": "SU44",
+    "code": "ESU0199",
+    "credit": 3,
+    "serial": 3026,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 1,
+            "from": 3,
+            "to": 4,
+            "campus": "公館",
+            "classroom": "Ｓ603"
+        },
+        {
+            "day": 1,
+            "from": 6,
+            "to": 6,
+            "campus": "公館",
+            "classroom": "Ｓ603"
+        }
+    ],
+    "programs": [
+        "太陽能源與工程學程"
+    ],
+    "comment": "限大二、大三、大四學生修習-因本門課程為初中階課程，適合大二以上學生修習。",
+    "restrict": "◎限大二大三大四修習",
+    "form_s": "2",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "隨著氣象與氣候研究之進展，現今大氣觀測內容除了傳統的地面氣象觀測與高空觀測外，尚整合水文、海洋、陸表觀測及衛星、雷達遙測。本課程旨在介紹世界氣象組織(World Meteorological Organization, WMO)所制定的全球整合觀測系統(Integrated Global Observing Systems) 之測報作業內容以及觀測儀器之原理與應用，以了解全球大氣觀測的標準化流程與方法。",
+    "goals": [
+        "介紹世界氣象組織(World Meteorological Organization, WMO)所制定的全球整合觀測系統(Integrated Global Observing Systems) 之測報作業內容以及觀測儀器之原理與應用，以了解全球大氣觀測的標準化流程與方法。"
+    ],
+    "syllabus": "一、 概說  \n二、 地面氣象觀測  \n1. 雲  \n2. 天氣現象  \n3. 氣壓  \n4. 風  \n5. 溫度  \n6. 濕度  \n7. 降水量  \n8. 蒸發量  \n9. 輻射  \n10. 日照時數  \n11. 能見度  \n三、 高空氣象觀測  \n四、 遙測",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "實驗/實作",
+            "note": "儀器操作演示或是試作"
+        },
+        {
+            "type": "實地考察、參訪",
+            "note": "參觀地點包括中央氣象局竹子湖氣象站、氣象儀器檢校中心、板橋探空站"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 15,
+            "note": "I-1,I-2,I-3,I-4,I-5,II-1,Ⅲ-1,Ⅲ-2,Ⅳ-1,Ⅳ-2,Ⅳ-3"
+        },
+        {
+            "type": "期中考",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 40,
+            "note": "I-1,I-2,I-3,I-4,I-5,II-1,Ⅲ-1,Ⅲ-2,Ⅳ-1,Ⅳ-2,Ⅳ-3"
+        },
+        {
+            "type": "其他",
+            "weight": 15,
+            "note": "I-1,I-2,I-3,I-4,I-5,II-1,Ⅲ-1,Ⅲ-2,Ⅳ-1,Ⅳ-2,Ⅳ-3"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

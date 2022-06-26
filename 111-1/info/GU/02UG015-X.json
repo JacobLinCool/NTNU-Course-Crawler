@@ -1,0 +1,78 @@
+{
+    "year": 111,
+    "term": 1,
+    "name": "生物哲學導論",
+    "teachers": [
+        "林陳涌"
+    ],
+    "department": "GU",
+    "code": "02UG015",
+    "credit": 2,
+    "serial": 929,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 8,
+            "to": 9,
+            "campus": "公館",
+            "classroom": "理圖002"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 2,
+    "description": "介紹生物哲學的重要議題，探討生命科學與物質科學的異同，應用生物哲學到社會議題的討論。",
+    "goals": [
+        "釐清生物科學與物質科學的異同",
+        "介紹生物哲學重要議題",
+        "探討生物哲學應用的案例"
+    ],
+    "syllabus": "第一週\n\n課程介紹；哲學教育簡介\n\n \n\n第二週\n\n科學發展史\n\n \n\n第三週\n\n生機論、機械論\n\n \n\n第四週\n\n生物學生機論\n\n \n\n第五週\n\n生物體：階層、系統(I)\n\n \n\n第六週\n\n生物體：階層、系統(II)\n\n \n\n第七週\n\n過程本體論(I)\n\n \n\n第八週\n\n過程本體論(II)\n\n期中考週\n\n第九週\n\n目的論\n\n第十週\n\n化約主義 vs. 突顯\n\n \n\n第十一週\n\n本質主義 vs. 族群觀點\n\n \n\n第十二週\n\n決定論、因果關係 (I)\n\n \n\n第十三週\n\n決定論、因果關係 (II)\n\n \n\n第十四週\n\n甚麼是科學：科學知識\n\n \n\n第十五週\n\n甚麼是科學：科學方法、企業\n\n \n\n第十六週\n\n**期末考**\n\n期末考試週",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "教師依照教科書內容講述"
+        },
+        {
+            "type": "討論法",
+            "note": "依照主題設計題目供課堂討論"
+        },
+        {
+            "type": "合作學習",
+            "note": "小組報告"
+        },
+        {
+            "type": "媒體融入教學",
+            "note": "應用moodle"
+        },
+        {
+            "type": "專題研究",
+            "note": "針對特定主題進行研究"
+        }
+    ],
+    "grading": [
+        {
+            "type": "期末考",
+            "weight": 80,
+            "note": ""
+        },
+        {
+            "type": "出席",
+            "weight": 20,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": [
+        "社會科學"
+    ]
+}

@@ -1,0 +1,92 @@
+{
+    "year": 111,
+    "term": 1,
+    "name": "半導體物理",
+    "teachers": [
+        "李敏鴻"
+    ],
+    "department": "HU77",
+    "code": "OEC9107",
+    "credit": 3,
+    "serial": 1341,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 5,
+            "from": 7,
+            "to": 9,
+            "campus": "公館",
+            "classroom": "Ｓ307"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "",
+    "classes": "9",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程旨在介紹由矽原子特性介紹，而後逐一介紹相關元件原理，最後進入到PN接面及MOSFET的了解。",
+    "goals": [
+        "介紹晶格結構、能帶與載子掺雜、載子濃度及費米能階、載子傳輸及複合與PN介面",
+        "探討起動電壓、漏電流、與崩潰電壓於IC設計的應用",
+        "MOS元件其工作原理與概念之瞭解並對基本元件物理有透徹的瞭解",
+        "參觀實驗室並了解相關操作與原理"
+    ],
+    "syllabus": "週次  教學大綱及進度\n\n1Class Introduction\n\n2晶格結構\n\n3能帶與載子掺雜\n\n4載濃度及費米能階\n\n5載子傳輸及複合(1)\n\n6載子傳輸及複合(2)\n\n7PN接面(1)\n\n8PN接面(2)\n\n9PN接面(3)\n\n10期中測驗評量\n\n11蕭基接面\n\n12MOS二極體(1)\n\n13MOS二極體(2)\n\n14MOSFET 電晶體 (1)\n\n15MOSFET 電晶體 (2)\n\n16期末測驗評量\n\n17、18自主學習-電性量測實驗室",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "問題解決教學",
+            "note": ""
+        },
+        {
+            "type": "實驗/實作",
+            "note": ""
+        },
+        {
+            "type": "實地考察、參訪",
+            "note": ""
+        },
+        {
+            "type": "媒體融入教學",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 5,
+            "note": ""
+        },
+        {
+            "type": "期中考",
+            "weight": 20,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 20,
+            "note": ""
+        },
+        {
+            "type": "其他",
+            "weight": 25,
+            "note": "隨堂考"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

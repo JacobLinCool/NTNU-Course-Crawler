@@ -1,0 +1,79 @@
+{
+    "year": 111,
+    "term": 1,
+    "name": "普通物理乙（一）",
+    "teachers": [
+        "張嘉泓"
+    ],
+    "department": "SU41",
+    "code": "PHU0251",
+    "credit": 3,
+    "serial": 2866,
+    "group": "E",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 1,
+            "from": 6,
+            "to": 8,
+            "campus": "公館",
+            "classroom": "Ｅ301"
+        }
+    ],
+    "programs": [],
+    "comment": "地科一",
+    "restrict": "◎限大一修習",
+    "form_s": "1",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "銜接高中或高職物理教材，闡述物理各學門的核心概念，使學生具備堅實的物理基礎，以作為進一步學習高深物理的準備。",
+    "goals": [
+        "瞭解物理基礎理論",
+        "具有實際動手操作能力",
+        "加強理性思維能力",
+        "簡介物理新知"
+    ],
+    "syllabus": "授課16週\n\n第一周 狹義相對論  \n第二三周 廣義相對論與重力  \n第四周 宇宙論   微分 微積分運動三度空間運動學 牛頓第二運動定律 力  \n第五周 運動方程式  \n第六周 運動方程式 簡諧運動  \n第七周 轉動  滾動  \n第八周 功與能量  \n第九周 期中考  \n第十周 能量  \n第十一周 固體的熱物理\n\n第十二十三周 氣體的熱物理  \n\n第十四十五周 熱力學第二定律  \n第十六週 期末考 \n\n彈性教學2週\n\n第十七八周 宇宙論的熱物理",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": ""
+        },
+        {
+            "type": "實驗/實作",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 15,
+            "note": ""
+        },
+        {
+            "type": "期中考",
+            "weight": 35,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 35,
+            "note": ""
+        },
+        {
+            "type": "其他",
+            "weight": 15,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

@@ -1,0 +1,710 @@
+[
+    {
+        "year": 111,
+        "term": 1,
+        "name": "表演心理學",
+        "teachers": [
+            "范聖韜"
+        ],
+        "department": "MU92",
+        "code": "PAU0010",
+        "credit": 2,
+        "serial": 2425,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 7,
+                "to": 8,
+                "campus": "本部",
+                "classroom": "知音劇場"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "美學",
+        "teachers": [
+            "未定"
+        ],
+        "department": "MU92",
+        "code": "PAU0025",
+        "credit": 2,
+        "serial": 2426,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 9,
+                "to": 10,
+                "campus": "本部",
+                "classroom": "誠206"
+            }
+        ],
+        "programs": [
+            "社團領導學程"
+        ],
+        "comment": "◎授課教師：林娟儀老師",
+        "restrict": "",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "兒童劇場",
+        "teachers": [
+            "未定"
+        ],
+        "department": "MU92",
+        "code": "PAU0030",
+        "credit": 2,
+        "serial": 2427,
+        "group": "",
+        "quota": {
+            "limit": 35,
+            "additional": 0
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 6,
+                "to": 7,
+                "campus": "本部",
+                "classroom": "知音劇場"
+            }
+        ],
+        "programs": [],
+        "comment": "◎授課教師：王琄老師。    ◎要有同理心，具備幽默感，肢體協調。",
+        "restrict": "",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "舞蹈創作",
+        "teachers": [
+            "未定"
+        ],
+        "department": "MU92",
+        "code": "PAU0052",
+        "credit": 2,
+        "serial": 2428,
+        "group": "",
+        "quota": {
+            "limit": 30,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 5,
+                "to": 6,
+                "campus": "本部",
+                "classroom": "知音劇場"
+            }
+        ],
+        "programs": [],
+        "comment": "◎授課教師：吳碧容老師。    ◎建議選修此門學生需具備舞蹈基礎。",
+        "restrict": "◎限本系(含雙主修)修習◎必須先修過【PAU0031  舞蹈即興】",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "音樂劇歌唱訓練（一）",
+        "teachers": [
+            "未定"
+        ],
+        "department": "MU92",
+        "code": "PAU0071",
+        "credit": 2,
+        "serial": 2429,
+        "group": "A",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 9,
+                "to": 10,
+                "campus": "本部",
+                "classroom": "綜910"
+            }
+        ],
+        "programs": [],
+        "comment": "◎授課教師：湯發凱老師。",
+        "restrict": "◎限本系(含雙主修)修習",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "音樂劇歌唱訓練（一）",
+        "teachers": [
+            "未定"
+        ],
+        "department": "MU92",
+        "code": "PAU0071",
+        "credit": 2,
+        "serial": 2430,
+        "group": "B",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 5,
+                "from": 9,
+                "to": 10,
+                "campus": "本部",
+                "classroom": "綜910"
+            }
+        ],
+        "programs": [],
+        "comment": "◎授課教師：湯發凱老師。",
+        "restrict": "◎限本系(含雙主修)修習",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "劇場燈光（一）",
+        "teachers": [
+            "未定"
+        ],
+        "department": "MU92",
+        "code": "PAU0077",
+        "credit": 2,
+        "serial": 2431,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 5
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 3,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "知音劇場"
+            }
+        ],
+        "programs": [],
+        "comment": "◎授課教師：劉權富老師。",
+        "restrict": "",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "西洋戲劇與劇場史",
+        "teachers": [
+            "梁文菁"
+        ],
+        "department": "MU92",
+        "code": "PAU0079",
+        "credit": 2,
+        "serial": 2432,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 4
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 6,
+                "to": 7,
+                "campus": "本部",
+                "classroom": "正101"
+            }
+        ],
+        "programs": [],
+        "comment": "◎本課程屬於表演藝術學士學位學程大二必修課程，原課程名稱為「西方戲劇與劇場史」。",
+        "restrict": "◎必須先修過【PAU0046  劇本導讀】",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "音樂劇肢體訓練（一）",
+        "teachers": [
+            "吳義芳"
+        ],
+        "department": "MU92",
+        "code": "PAU0081",
+        "credit": 2,
+        "serial": 2433,
+        "group": "",
+        "quota": {
+            "limit": 30,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 3,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "知音劇場"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "表演藝術科教材教法（教）",
+        "teachers": [
+            "范聖韜"
+        ],
+        "department": "MU92",
+        "code": "PAUE001",
+        "credit": 2,
+        "serial": 2434,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 5,
+                "from": 3,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "綜904"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "導演實務",
+        "teachers": [
+            "梁志民"
+        ],
+        "department": "MU92",
+        "code": "PAC9001",
+        "credit": 2,
+        "serial": 2435,
+        "group": "",
+        "quota": {
+            "limit": 30,
+            "additional": 20
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 9,
+                "to": 10,
+                "campus": "本部",
+                "classroom": "知音劇場"
+            }
+        ],
+        "programs": [],
+        "comment": "◎限表演學位學程二年級(含)以上學生修習。     ◎建議修畢表演基礎後選修。",
+        "restrict": "◎限本系(含雙主修)修習",
+        "form_s": "",
+        "classes": "9",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "排演（一）",
+        "teachers": [
+            "未定"
+        ],
+        "department": "MU92",
+        "code": "PAU0033",
+        "credit": 2,
+        "serial": 2436,
+        "group": "",
+        "quota": {
+            "limit": 35,
+            "additional": 0
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 10,
+                "to": 11,
+                "campus": "本部",
+                "classroom": "知音劇場"
+            }
+        ],
+        "programs": [],
+        "comment": "◎授課教師：王琄老師。   ◎上課時間：18:30-20:30。    ◎團隊合作、創意發想。",
+        "restrict": "◎限大一修習",
+        "form_s": "1",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "劇本導讀",
+        "teachers": [
+            "梁文菁"
+        ],
+        "department": "MU92",
+        "code": "PAU0046",
+        "credit": 2,
+        "serial": 2437,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 4
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 8,
+                "to": 9,
+                "campus": "本部",
+                "classroom": "誠104"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎限大一修習",
+        "form_s": "1",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "表演訓練（一）",
+        "teachers": [
+            "未定"
+        ],
+        "department": "MU92",
+        "code": "PAU0063",
+        "credit": 2,
+        "serial": 2438,
+        "group": "",
+        "quota": {
+            "limit": 40,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 5,
+                "to": 6,
+                "campus": "本部",
+                "classroom": "知音劇場"
+            }
+        ],
+        "programs": [],
+        "comment": "◎授課教師：張仰瑄老師。",
+        "restrict": "◎限本系(含雙主修)修習◎限大一修習",
+        "form_s": "1",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "舞台空間概論",
+        "teachers": [
+            "未定"
+        ],
+        "department": "MU92",
+        "code": "PAU0023",
+        "credit": 2,
+        "serial": 2439,
+        "group": "",
+        "quota": {
+            "limit": 26,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 3,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "正102"
+            }
+        ],
+        "programs": [],
+        "comment": "◎授課教師：楊世丞老師。",
+        "restrict": "",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "藝術概論",
+        "teachers": [
+            "何康國"
+        ],
+        "department": "MU92",
+        "code": "PAU0026",
+        "credit": 2,
+        "serial": 2440,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 10,
+                "to": 11,
+                "campus": "本部",
+                "classroom": "綜910"
+            }
+        ],
+        "programs": [
+            "社團領導學程"
+        ],
+        "comment": "",
+        "restrict": "",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "表演訓練（三）",
+        "teachers": [
+            "未定"
+        ],
+        "department": "MU92",
+        "code": "PAU0065",
+        "credit": 2,
+        "serial": 2441,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 0
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 8,
+                "to": 9,
+                "campus": "本部",
+                "classroom": "知音劇場"
+            }
+        ],
+        "programs": [],
+        "comment": "◎授課教師：王琄老師。    ◎本課程需通過甄試後才能選課。",
+        "restrict": "◎必須先修過【PAU0064  表演訓練（二）】、【PAU0051  表演基礎訓練 （二）】其中一門",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "音樂劇歌唱訓練（三）",
+        "teachers": [
+            "未定"
+        ],
+        "department": "MU92",
+        "code": "PAU0073",
+        "credit": 2,
+        "serial": 2442,
+        "group": "A",
+        "quota": {
+            "limit": 30,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 16,
+                "to": 10,
+                "campus": "本部",
+                "classroom": "綜904"
+            }
+        ],
+        "programs": [],
+        "comment": "◎授課教師：鄭帆婷老師。",
+        "restrict": "◎必須先修過【PAU0058  唱歌訓練 （二）】、【PAU0072  音樂劇歌唱訓練（二）】其中一門",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "音樂劇歌唱訓練（三）",
+        "teachers": [
+            "未定"
+        ],
+        "department": "MU92",
+        "code": "PAU0073",
+        "credit": 2,
+        "serial": 2443,
+        "group": "B",
+        "quota": {
+            "limit": 30,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 11,
+                "to": 12,
+                "campus": "本部",
+                "classroom": "綜904"
+            }
+        ],
+        "programs": [],
+        "comment": "◎授課教師：鄭帆婷老師。",
+        "restrict": "◎必須先修過【PAU0058  唱歌訓練 （二）】、【PAU0072  音樂劇歌唱訓練（二）】其中一門",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "芭蕾",
+        "teachers": [
+            "未定"
+        ],
+        "department": "MU92",
+        "code": "PAU0080",
+        "credit": 2,
+        "serial": 2444,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 3,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "知音劇場"
+            }
+        ],
+        "programs": [],
+        "comment": "◎授課教師：吳碧容老師",
+        "restrict": "",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "劇場服裝與化妝",
+        "teachers": [
+            "未定"
+        ],
+        "department": "MU92",
+        "code": "PAU0043",
+        "credit": 2,
+        "serial": 2445,
+        "group": "",
+        "quota": {
+            "limit": 25,
+            "additional": 5
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 7,
+                "to": 8,
+                "campus": "本部",
+                "classroom": "正202"
+            }
+        ],
+        "programs": [],
+        "comment": "◎授課教師：沈斻老師。",
+        "restrict": "◎限本系(含雙主修)修習",
+        "form_s": "3",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "畢業演出製作",
+        "teachers": [
+            "何康國"
+        ],
+        "department": "MU92",
+        "code": "PAU0061",
+        "credit": 2,
+        "serial": 2446,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 9,
+                "to": 10,
+                "campus": "本部",
+                "classroom": "知音劇場"
+            }
+        ],
+        "programs": [],
+        "comment": "◎本課程屬於表演藝術學士學位學程大四必修課程。",
+        "restrict": "◎必須先修過【PAU0008  演出企劃與製作】、【PAU0055  演出企劃與製作 （一）】其中一門",
+        "form_s": "4",
+        "classes": "",
+        "dept_group": ""
+    }
+]

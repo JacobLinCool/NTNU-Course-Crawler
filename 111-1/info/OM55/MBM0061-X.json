@@ -1,0 +1,80 @@
+{
+    "year": 111,
+    "term": 1,
+    "name": "計量經濟學",
+    "teachers": [
+        "何宗武"
+    ],
+    "department": "OM55",
+    "code": "MBM0061",
+    "credit": 3,
+    "serial": 2455,
+    "group": "",
+    "quota": {
+        "limit": 5,
+        "additional": 35
+    },
+    "schedule": [
+        {
+            "day": 2,
+            "from": 7,
+            "to": 9,
+            "campus": "本部",
+            "classroom": "雲608"
+        }
+    ],
+    "programs": [
+        "學習與資訊學程"
+    ],
+    "comment": "",
+    "restrict": "◎必須先修過【BAU0040  統計學（一）】 ◎課程開放上修",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "",
+    "goals": [
+        "討論隨機變數的測量原理和應用，瞭解資料的機率分佈",
+        "討論計量經濟的理論基礎和應用，運用實證研究及解讀實證結果",
+        "R統計軟體運用在實際的資料上"
+    ],
+    "syllabus": "1.  Statistics and Econometric Methods-- Reviews\n2.  Probability & Statistics: Random Variable and Expectation\n3.  Cross-section Regression (1): Estimation and Inference\n4.  Cross-section Regression (2): Residual Diagnosis and Prediction\n5.  Stationary univariate time series: ARMA Estimation and prediction\n6.  Stationary Multivariate time series: Vector AR\n7.  Nonstationary time series: ARiMA and unit root\n8.  Nonstationary Multivariate time series: Vector ECM;\n9.  Mid-term examination\n10.  Topic 1: Risk analytics-- GARCH Volatility\n11.  Con’t\n12.  Con’t\n13.  Topic 2: Risk analytics-- tail risk of VaR and CVaR\n14.  Con’t\n15.  Topic 3: Risk and returns-- Portfolio optimization\n16.  Final examination",
+    "methodologies": [
+        {
+            "type": "Formal lecture",
+            "note": "上課講授"
+        },
+        {
+            "type": "Problem base learning",
+            "note": "軟體運用在實際資料的分析上"
+        },
+        {
+            "type": "Lab/Studio",
+            "note": "作業"
+        }
+    ],
+    "grading": [
+        {
+            "type": "Assignments",
+            "weight": 40,
+            "note": "自主學習、認真負責"
+        },
+        {
+            "type": "Midterm Exam",
+            "weight": 25,
+            "note": "具備問題解決與決策制定的能力"
+        },
+        {
+            "type": "Final exam",
+            "weight": 25,
+            "note": "具備問題解決與決策制定的能力"
+        },
+        {
+            "type": "Class discussion involvement",
+            "weight": 10,
+            "note": "具備經營管理的能力"
+        }
+    ],
+    "prerequisite": "Prerequisite course: 【BAU0040  Statistics (I)】 ◎Available for junior and senior year B.A. program students (Doctoral program courses excepted) and M.A. program students.",
+    "general_core": []
+}

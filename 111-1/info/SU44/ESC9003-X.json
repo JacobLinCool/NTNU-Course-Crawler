@@ -1,0 +1,80 @@
+{
+    "year": 111,
+    "term": 1,
+    "name": "全球強震特論",
+    "teachers": [
+        "陳卉瑄"
+    ],
+    "department": "SU44",
+    "code": "ESC9003",
+    "credit": 3,
+    "serial": 3008,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 5,
+            "from": 2,
+            "to": 4,
+            "campus": "公館",
+            "classroom": "Ｓ401"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎限大三大四 ◎限碩一碩二碩三以上修習",
+    "form_s": "",
+    "classes": "9",
+    "dept_group": "",
+    "hours": 3,
+    "description": "",
+    "goals": [
+        "The course requires the students to present current large events in the world and the lecturer to introduce to the possible causes for the reported events. The students will learn how to evaluate world-wide earthquake-search and to understand the causes of large earthquakes at the diverse tectonic settings around the world."
+    ],
+    "syllabus": "These weekly courses by the students present current large events in the world and by the faculty introduce to the possible causes for the reported events. You will learn how to evaluate world-wide earthquake-search and understand the causes of large earthquakes at the diverse tectonic settings around the world.",
+    "methodologies": [
+        {
+            "type": "Formal lecture",
+            "note": "the lecturer will introduce the tectonic background and earthquake science in a selected country / area"
+        },
+        {
+            "type": "Group discussion",
+            "note": "the students will team up to share and discover the story behind the big earthquakes"
+        },
+        {
+            "type": "Problem base learning",
+            "note": "For each big earthquake, the students will need to ask what they want to learn"
+        },
+        {
+            "type": "Other:",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "Assignments",
+            "weight": 25,
+            "note": "Students are assigned to present weekly earthquake activity in the world by introducing where, when, and how large the earthquakes are."
+        },
+        {
+            "type": "Midterm Exam",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "Final exam",
+            "weight": 20,
+            "note": ""
+        },
+        {
+            "type": "Presentation",
+            "weight": 25,
+            "note": "For your class project, you will present on a basic introduction to your choosing earthquakes and review articles associated with the historic seismicity in the study area. In the end of presentation you will have to infer the possible causes for the earthquakes considered."
+        }
+    ],
+    "prerequisite": "◎Exclusive for junior, senior ◎Exclusive for first year of graduate school, second year of graduate school, third year and above of graduate school",
+    "general_core": []
+}

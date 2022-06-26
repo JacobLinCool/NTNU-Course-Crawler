@@ -1,0 +1,63 @@
+{
+    "year": 111,
+    "term": 1,
+    "name": "高級教育統計學（乙）",
+    "teachers": [
+        "謝建成"
+    ],
+    "department": "E",
+    "code": "E0C8002",
+    "credit": 3,
+    "serial": 342,
+    "group": "C",
+    "quota": {
+        "limit": 30,
+        "additional": 0
+    },
+    "schedule": [
+        {
+            "day": 4,
+            "from": 2,
+            "to": 4,
+            "campus": "本部",
+            "classroom": "圖資所研討室A"
+        }
+    ],
+    "programs": [
+        "學習與資訊學程",
+        "大數據學程"
+    ],
+    "comment": "",
+    "restrict": "◎課程不開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "",
+    "goals": [
+        "1.\t了解常用統計檢定方法的原理及其適用時機",
+        "2.\t選擇適切的分析方法解決問題和解釋分析結果",
+        "3.\t運用統計軟體執行資料分析並撰寫分析結果報告"
+    ],
+    "syllabus": "**課程大綱  【授課方式：16+2週】，並明列彈性授課進行方式與時間。**\n\n1.  緒論、集中量數、變異量數與分布形狀\n\n2.  常態分布、間斷機率分布\n\n3.  連續機率分布、抽樣分布與估計式\n\n4.  區間估計、假設檢定\n\n**5.** **期中考**\n\n6.  類別資料分析、線性相關\n\n7.  單因子變異數分析、多因子變異數分析\n\n8.  多因子變異數分析\n\n**9\\.** **期末考**\n\n**(本課程因上課時段無電腦教室可以使用，故修課同學必須自備個人筆電以因應上課EXCEL操作練習及考試作答用)**",
+    "methodologies": [
+        {
+            "type": "Formal lecture",
+            "note": "課堂講解"
+        }
+    ],
+    "grading": [
+        {
+            "type": "Midterm Exam",
+            "weight": 50,
+            "note": "本課程唯一評量方式為期中考&期末考"
+        },
+        {
+            "type": "Final exam",
+            "weight": 50,
+            "note": "本課程唯一評量方式為期中考&期末考"
+        }
+    ],
+    "prerequisite": "◎Unavailable for M.A. program students (M.A. program courses excepted) and B.A. program students.",
+    "general_core": []
+}

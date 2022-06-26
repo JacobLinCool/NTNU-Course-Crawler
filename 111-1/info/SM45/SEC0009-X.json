@@ -1,0 +1,79 @@
+{
+    "year": 111,
+    "term": 1,
+    "name": "數學學習心理學",
+    "teachers": [
+        "林志鴻"
+    ],
+    "department": "SM45",
+    "code": "SEC0009",
+    "credit": 3,
+    "serial": 2729,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 3,
+            "from": 2,
+            "to": 4,
+            "campus": "公館",
+            "classroom": "教室自排"
+        }
+    ],
+    "programs": [],
+    "comment": "選修課程的同學須有科學教育(或數學教育)背景",
+    "restrict": "◎課程不開放上修",
+    "form_s": "",
+    "classes": "8",
+    "dept_group": "",
+    "hours": 3,
+    "description": "The purpose of this course is to familiarize students with various aspects of learning mathematics from a psychological point of view. Towards this end, some basic learning theories will be introduced in this course together with a brief introduction to the neurological aspect of learning mathematics. Attention will also be drawn to the learning of various topics in mathematics, including geometry, algebra and statistics. The affective aspect of learning mathematics will be covered later in the course.",
+    "goals": [
+        "瞭解認知心理學與學生數學學習的關係",
+        "瞭解學生數學學習困難",
+        "瞭解數學各主題課程發展",
+        "瞭解如何促進學生數學學習成就與態度"
+    ],
+    "syllabus": "**注意事項**:\n---------\n\n1\\. 110學年度授課方式採「16+2週」，即「授課16週＋2週彈性教學（第17、18週）」。\n\n2.  開學前三周9/22~10/12課程採用遠距方式進行。課程網址固定為: https://meet.google.com/cdr-knmr-ayi\n\n     若後續課程因疫情改為遠距教學，則繼續沿用此課程網址。\n\n本課程預計包含下列主題：\n\n1.  教育心理學的經典理論及其對數學學習的影響\n2.  認知心理學的經典理論及其對數學學習的影響\n3.  數學學習的認知結構與過程\n4.  問題解決的理論、歷程、以及重要模型\n5.  問題解決(數學能力)的評量\n6.  診斷問題解決歷程中遭遇的困難\n\n規劃進度如下：\n\n[教學進度與主題附件](https://ap.itc.ntnu.edu.tw/NtnuFileShare/file.do?action=dl&gno=eef272f2e81a430ab9abb8795bd40f16&fno=f12ccbc5b9e4423da15ac14f196476eb)",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "講述經典理論與重要文獻"
+        },
+        {
+            "type": "討論法",
+            "note": "數學試題設計"
+        },
+        {
+            "type": "實驗/實作",
+            "note": "問題解決實驗設計"
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 20,
+            "note": "試題設計"
+        },
+        {
+            "type": "期中考",
+            "weight": 20,
+            "note": "問題解決文獻回顧"
+        },
+        {
+            "type": "期末考",
+            "weight": 30,
+            "note": "問題解決研究規劃"
+        },
+        {
+            "type": "報告",
+            "weight": 30,
+            "note": "討論學習理論在實務上的應用"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

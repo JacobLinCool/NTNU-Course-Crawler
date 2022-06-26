@@ -1,0 +1,85 @@
+{
+    "year": 111,
+    "term": 1,
+    "name": "人類發展",
+    "teachers": [
+        "聶西平"
+    ],
+    "department": "EU06",
+    "code": "HGU0004",
+    "credit": 3,
+    "serial": 799,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 1,
+            "from": 2,
+            "to": 4,
+            "campus": "本部",
+            "classroom": "誠206"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎限本系(含雙主修)修習◎限大一修習",
+    "form_s": "1",
+    "classes": "",
+    "dept_group": "E",
+    "hours": 3,
+    "description": "",
+    "goals": [
+        "An in-depth understanding of the concept of lifespan development, which encompasses the growth and learning of humans from conception to death.",
+        "An in-depth understanding of the milestone events and theories related to the various periods of the lifespan.",
+        "An understanding of the biological, psychological, and social changes that occur at each stage of the life cycle.",
+        "An understanding of cultural, economic, and geographic influences on development at each stage of the life cycle.",
+        "Students will be able to relate and apply lifespan developmental concepts to what they observe and experience in their own lives."
+    ],
+    "syllabus": "1\\. Course description and introduction\n\n2\\. Basic concepts, methods, and theories of development\n\n3\\. Prenatal development and birth\n\n4\\. Physical, sensory, and perceptual development in infancy\n\n5\\. Cognitive, social and personality development in infancy\n\n6\\. Physical and cognitive development in early childhood\n\n7\\. Social and personality development in early childhood\n\n8\\. Midterm exam\n\n9\\. Physical and cognitive development in middle childhood\n\n10\\. Social and personality development in middle childhood\n\n11\\. Physical and cognitive, development in adolescence\n\n12\\. Social and personality development in adolescence\n\n13\\. Development in early adulthood\n\n14\\. Development in middle adulthood\n\n15\\. Development in late adulthood and the end of life\n\n16\\. Final exam",
+    "methodologies": [
+        {
+            "type": "Formal lecture",
+            "note": "The main theories and important topics related to human development will be introduced through the lecture sections."
+        },
+        {
+            "type": "Group discussion",
+            "note": "Students will be divided into small groups and discuss the questions assigned to them. Students need to apply the knowledge they acquired during the lecture into their discussion and present their results to the whole class."
+        },
+        {
+            "type": "Media, audio, visual materials",
+            "note": "PowerPoint and videos are used to supplement the teaching and learning experiences."
+        }
+    ],
+    "grading": [
+        {
+            "type": "Assignments",
+            "weight": 20,
+            "note": "Two homework assignments will be assigned this semester. Detailed instruction will be announced in the class."
+        },
+        {
+            "type": "Midterm Exam",
+            "weight": 25,
+            "note": "Open-book exam. Topics from week 1 to week 7 will be covered."
+        },
+        {
+            "type": "Final exam",
+            "weight": 25,
+            "note": "Open-book exam. Topics from week 9 to week 15 will be covered."
+        },
+        {
+            "type": "Class discussion involvement",
+            "weight": 20,
+            "note": "The in-class discussions may occur at any point, during any class, and may be collected at any point (beginning, middle, or end of class)."
+        },
+        {
+            "type": "Attendances",
+            "weight": 10,
+            "note": "Attendance will be taken every week. Students who are consistently tardy or absent will receive 0 points in the category."
+        }
+    ],
+    "prerequisite": "◎Exclusive for students within this department(including dual degree program) ◎Exclusive for freshman",
+    "general_core": []
+}

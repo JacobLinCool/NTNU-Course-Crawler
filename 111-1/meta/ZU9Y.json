@@ -1,0 +1,140 @@
+[
+    {
+        "year": 111,
+        "term": 1,
+        "name": "藝術產業經營與管理概論",
+        "teachers": [
+            "未定"
+        ],
+        "department": "TU60",
+        "code": "ATC0358",
+        "credit": 3,
+        "serial": 3150,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 5,
+                "from": 6,
+                "to": 8,
+                "campus": "本部",
+                "classroom": "美203"
+            }
+        ],
+        "programs": [
+            "社團領導學程",
+            "藝術產業學程"
+        ],
+        "comment": "任課教師:林淑華",
+        "restrict": "◎限本系(含雙主修)修習◎限藝術產業學程選修",
+        "form_s": "",
+        "classes": "9",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "繪畫發展與心智成長",
+        "teachers": [
+            "江學瀅"
+        ],
+        "department": "TU60",
+        "code": "ATU0232",
+        "credit": 2,
+        "serial": 3161,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 3,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "美506"
+            }
+        ],
+        "programs": [
+            "藝術產業學程"
+        ],
+        "comment": "",
+        "restrict": "◎限本系(含雙主修)修習",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "水墨畫的古典與當代",
+        "teachers": [
+            "孫翼華"
+        ],
+        "department": "TU60",
+        "code": "ATU0333",
+        "credit": 3,
+        "serial": 3179,
+        "group": "",
+        "quota": {
+            "limit": 30,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 6,
+                "to": 8,
+                "campus": "本部",
+                "classroom": "美302"
+            }
+        ],
+        "programs": [
+            "藝術產業學程"
+        ],
+        "comment": "",
+        "restrict": "◎限本系(含雙主修)修習",
+        "form_s": "3",
+        "classes": "",
+        "dept_group": "A"
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "企業概論",
+        "teachers": [
+            "林舒柔"
+        ],
+        "department": "ZU83",
+        "code": "PGUA001",
+        "credit": 3,
+        "serial": 3258,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 2,
+                "from": 10,
+                "to": 12,
+                "campus": "本部",
+                "classroom": "誠302"
+            }
+        ],
+        "programs": [
+            "基礎管理學程",
+            "藝術產業學程"
+        ],
+        "comment": "",
+        "restrict": "◎第一階段限 基礎管理學程◎限基礎管理學程選修",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    }
+]

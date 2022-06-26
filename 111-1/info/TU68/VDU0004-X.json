@@ -1,0 +1,84 @@
+{
+    "year": 111,
+    "term": 1,
+    "name": "設計概論",
+    "teachers": [
+        "長友大輔"
+    ],
+    "department": "TU68",
+    "code": "VDU0004",
+    "credit": 2,
+    "serial": 3197,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 1,
+            "from": 3,
+            "to": 4,
+            "campus": "本部",
+            "classroom": "設計系2A教室"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎限本系(含雙主修)修習◎限大一修習 ◎必須先修過(也可以同時修)【VDU0019  電腦繪圖】",
+    "form_s": "1",
+    "classes": "",
+    "dept_group": "",
+    "hours": 2,
+    "description": "",
+    "goals": [
+        "Cultivate the basic concepts and literacy students need to have in design profession.",
+        "Improve students' judgment and aesthetic value in visual observation.",
+        "Enable students to have a wide range of relevant knowledge and comprehensive abilities of creating more ideal life by design.",
+        "Understand how design can potentially improve human life by incorporating the new technologies for the future.",
+        "Encourage students to pay enough attention to the potential of design and show it concretely in \"object, information, environment\", and can get practice in real life."
+    ],
+    "syllabus": "**Introduction**  \nThis class introduces fundamental idea and knowledge of design study, which include the purpose and meaning of design, the design principle, various design category, and design ethics.    \n\n  \n**Course objective**\n\n*   Cultivate the basic concepts and literacy students need to have in design profession.  \n*   Improve students' judgment and aesthetic value in visual observation.  \n*   Enable students to have a wide range of relevant knowledge and comprehensive abilities of creating more ideal life by design.  \n*   Understand how design can potentially improve human life by incorporating the new technologies for the future.  \n*   Encourage students to pay enough attention to the potential of design and show it concretely in \"things, information, environment\", and can get practice in real life. \n\n  \n**Course Theme**  \nThe main theme of this class is to obtain knowledge in design to understand how people recognize design comparing with just an artifact. There is specific topic to discuss every week where students explore the idea of creating design by listening lecture, working in small workshop, and creating their own design work.    \n \n\n**Weekly description**  \nWeek 01 Introduction   \nWeek 02 Lecture 1: Introduction to Design     \nWeek 03  Lecture 2: Learning to see design     \nWeek 04 Lecture 3: Design Principle   \nWeek 05 Lecture 4: Layout and Compositions   \nWeek 06 Lecture 5: Design and Concept   \nWeek 07 Midterm Presentation making with group   \nWeek 08 Midterm Presentation   \nWeek 09 Site visiting: TBD   \nWeek 10 Lecture 6: Design Category 1   \nWeek 11 Lecture 7: Design Category 2   \nWeek 12 Lecture 8: Design Category 3   \nWeek 13 Lecture 9: Innovative Design   \nWeek 14 Lecture 10: Design Ethics    \nWeek 15 Final Report Making   \nWeek 16 Final Exam week (Report submission)",
+    "methodologies": [
+        {
+            "type": "Group discussion",
+            "note": "Ability of finding discussion topics and references"
+        },
+        {
+            "type": "Problem base learning",
+            "note": "Design observation, collecting references, and design ability"
+        },
+        {
+            "type": "Lab/Studio",
+            "note": "Model making, design sketches and presentation ability"
+        },
+        {
+            "type": "Case studies",
+            "note": "Case studies and proposal report"
+        }
+    ],
+    "grading": [
+        {
+            "type": "Assignments",
+            "weight": 10,
+            "note": "Class attitude during the class"
+        },
+        {
+            "type": "Midterm Exam",
+            "weight": 30,
+            "note": "Midterm report"
+        },
+        {
+            "type": "Final exam",
+            "weight": 40,
+            "note": "Final report"
+        },
+        {
+            "type": "Attendances",
+            "weight": 20,
+            "note": "Attendance to the class"
+        }
+    ],
+    "prerequisite": "◎Exclusive for students within this department(including dual degree program) ◎Exclusive for freshman Prerequisite course(can be taken in the same semester): 【VDU0019  Computer Graphics】",
+    "general_core": []
+}

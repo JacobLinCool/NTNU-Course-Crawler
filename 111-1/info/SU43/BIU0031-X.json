@@ -1,0 +1,69 @@
+{
+    "year": 111,
+    "term": 1,
+    "name": "微生物學",
+    "teachers": [
+        "李冠群",
+        "賴韻如"
+    ],
+    "department": "SU43",
+    "code": "BIU0031",
+    "credit": 3,
+    "serial": 2977,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 4,
+            "from": 2,
+            "to": 4,
+            "campus": "公館",
+            "classroom": "Ｓ602"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "◎必須先修過【BIU0169  普通生物學甲（二）】、【BIU0168  普通生物學甲（一）】、【BIU0044  遺傳學】其中一門",
+    "form_s": "2",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "介紹微生物學的基礎概念，包括微生物的構造、培養、生長、以及控制，循序漸進地引導學生進入奧妙的微生物世界，使學生能瞭解微生物對現代生物科技的貢獻，並激起學生對微生物學的興趣。",
+    "goals": [
+        "能瞭解微生物的構造、培養、生長、以及控制",
+        "能瞭解微生物對現代生物科技的貢獻，並激起學生對微生物學的興趣。"
+    ],
+    "syllabus": "週次/主題\n\n1.   The History and Scope of Microbiology\n\n2.   Microscopes and the Study of Microbial Structure\n\n3.   Procaryotic Cell Structure\n\n4.   Eucaryotic Cell Structure and Function\n\n5.   Viruses and Other Acellular Agents\n\n6.   Microbial Nutrition\n\n7.   Microbial Growth\n\n8.   Control of Microorganisms by Physical and Chemical Agents\n\n9.   期中考\n\n10. Biogeochemical Cycling and Introductory Microbial Ecology\n\n11. Microorganisms in Natural Environments\n\n12. Microbial Interactions\n\n13. Pathogenicity of Microorganisms\n\n14. Antimicrobial Chemotherapy\n\n15. Clinical Microbiology and Immunology\n\n16. Microbiology of Food\n\n17. Industrial Microbiology\n\n期末考",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "自製教學簡報檔案，自編講義授課"
+        },
+        {
+            "type": "媒體融入教學",
+            "note": "運用Moodle數位學習平台"
+        }
+    ],
+    "grading": [
+        {
+            "type": "期中考",
+            "weight": 40,
+            "note": "填空題(60%)：1-1具備探究生命科學之專業知識；問答題(40%)：3-1具備正確的科學態度，能主動探索生命科學之相關議題"
+        },
+        {
+            "type": "期末考",
+            "weight": 40,
+            "note": "填空題(60%)：1-1具備探究生命科學之專業知識；問答題(40%)：3-1具備正確的科學態度，能主動探索生命科學之相關議題"
+        },
+        {
+            "type": "其他",
+            "weight": 20,
+            "note": "隨堂考及出席率"
+        }
+    ],
+    "prerequisite": "◎必須先修過【BIU0169  普通生物學甲（二）】、【BIU0168  普通生物學甲（一）】、【BIU0044  遺傳學】其中一門",
+    "general_core": []
+}

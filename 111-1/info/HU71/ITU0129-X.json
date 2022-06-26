@@ -1,0 +1,54 @@
+{
+    "year": 111,
+    "term": 1,
+    "name": "作業系統",
+    "teachers": [
+        "未定"
+    ],
+    "department": "HU71",
+    "code": "ITU0129",
+    "credit": 3,
+    "serial": 1217,
+    "group": "",
+    "quota": {
+        "limit": 35,
+        "additional": 5
+    },
+    "schedule": [
+        {
+            "day": 1,
+            "from": 10,
+            "to": 12,
+            "campus": "本部",
+            "classroom": "科技系TB213"
+        }
+    ],
+    "programs": [],
+    "comment": "學科組優先選課",
+    "restrict": "◎限本系(含雙主修)修習◎限大二修習",
+    "form_s": "2",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "作業系統為計算機中最重要的系統程式，它控制了整個計算機系統的運作，本課程目的為介紹作業系統的原則及運作情形，並介紹作業系統中各重要單元及其作業方式。課程包括：Computer-System Structures、Operating-System Structures、Processes、CPU Scheduling、Process Synchronization、Deadlocks、Memory Management、Virtual Memory、File Systems、I/O Systems、Secondary-Storage Structure。",
+    "goals": [
+        "介紹作業系統的原則及運作",
+        "介紹作業系統中各重要單元及其作業方式"
+    ],
+    "syllabus": "",
+    "methodologies": [
+        {
+            "type": "",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "",
+            "weight": null,
+            "note": ""
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

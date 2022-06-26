@@ -1,0 +1,78 @@
+{
+    "year": 111,
+    "term": 1,
+    "name": "骨生物學：基礎及應用",
+    "teachers": [
+        "陳均"
+    ],
+    "department": "SU43",
+    "code": "BIC9058",
+    "credit": 2,
+    "serial": 2968,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 4,
+            "from": 3,
+            "to": 4,
+            "campus": "公館",
+            "classroom": "Ｓ302"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "",
+    "classes": "9",
+    "dept_group": "",
+    "hours": 2,
+    "description": "骨骼乃脊椎生物中之特殊且重要之器官，除物理支撐外仍具有多重生理功能。而骨骼代謝是維持骨骼基質及結構平衡之生物作用，主要透過破骨細胞及成骨細胞所調節。當骨骼代謝發生異常時將導致諸多病理現象，如骨質疏鬆。本課程中希望藉由從分子細胞的角度來認識骨骼代謝，並且因此了解骨骼代謝疾病在臨床治療及藥物開發的核心概念。",
+    "goals": [
+        "認識骨骼之組成及結構，包含微觀之組織型態構造。骨骼中各種細胞組成及其功能性。",
+        "明暸骨骼代謝之基本概念，包含骨再生之分子機轉，生長因子於骨骼代謝之調控等。",
+        "骨骼代謝疾病研究及臨床用藥介紹，建立日後相關實驗之學理知識及操作技巧。"
+    ],
+    "syllabus": "1.     Bone morphology\n\n2.     Bone cells\n\n3.     Local regulation of bone cell function\n\n4.     Bone remodeling and regeneration\n\n5.     Skeletal imaging\n\n6.     Techniques in histomorphometry\n\n7.     Mid exam\n\n8.     Skeletal genetics: From gene identification to murine models of disease\n\n9.     Fracture healing\n\n10.  Skeletal growth and development\n\n11.  Calcium and phosphate:Hormonal regulation and metabolism\n\n12.  Nutrition\n\n13.  Hormonal effects on bone cells\n\n14.  Metabolic bone diseases\n\n15.  Pharmaceutical treatments of osteoporosis\n\n16.  Paper presentation",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "課程講授輔以投影片或影片教學"
+        },
+        {
+            "type": "討論法",
+            "note": "課堂間問題提問及討論"
+        },
+        {
+            "type": "媒體融入教學",
+            "note": "課程講授輔以投影片或影片教學"
+        }
+    ],
+    "grading": [
+        {
+            "type": "期中考",
+            "weight": 35,
+            "note": "選擇題（含整合性選擇題）約40-50題,實得分數乘以所占百分比"
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 10,
+            "note": "參與討論,課堂提問與問題回答"
+        },
+        {
+            "type": "出席",
+            "weight": 15,
+            "note": "不能出席者需請假"
+        },
+        {
+            "type": "報告",
+            "weight": 40,
+            "note": "期末上台報告及心得報告"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

@@ -1,0 +1,60 @@
+{
+    "year": 111,
+    "term": 1,
+    "name": "英語會話（一）",
+    "teachers": [
+        "謝妙玲"
+    ],
+    "department": "LU21",
+    "code": "ENU0269",
+    "credit": 2,
+    "serial": 1806,
+    "group": "C",
+    "quota": {
+        "limit": 25,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 5,
+            "from": 3,
+            "to": 4,
+            "campus": "本部",
+            "classroom": "勤302"
+        }
+    ],
+    "programs": [],
+    "comment": "建議修習輔系第一年時選修",
+    "restrict": "◎限本系(含雙主修)、輔系修習◎限大一修習",
+    "form_s": "1",
+    "classes": "",
+    "dept_group": "",
+    "hours": 2,
+    "description": "",
+    "goals": [
+        "to elevate students’ confidence and motivation to participate in English conversation",
+        "to broaden their knowledge pertaining to English conversation",
+        "to enhance their skills in conducting English conversation"
+    ],
+    "syllabus": "**Course Description:**\n-----------------------\n\nThis course will focus on building English conversational skills and at the same time provide students the opportunities to use the language in discussing many topics in class.\n--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------\n\n**Learning Outcomes**\n---------------------\n\nBy the end of this course students should know better about how to start a conversation, keep a conversation and end a conversation as well as many etiquettes in conversation. With practice students should also feel more confident in expressing their ideas about many topics.\n-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------",
+    "methodologies": [
+        {
+            "type": "Group discussion",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "Class discussion involvement",
+            "weight": 80,
+            "note": "participation and discussions"
+        },
+        {
+            "type": "Presentation",
+            "weight": 20,
+            "note": "oral presentation"
+        }
+    ],
+    "prerequisite": "◎Exclusive for students within this department(including dual degree program) ◎Exclusive for students taking minor within this department ◎Exclusive for freshman",
+    "general_core": []
+}

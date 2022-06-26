@@ -1,0 +1,77 @@
+{
+    "year": 111,
+    "term": 1,
+    "name": "普通心理學（一）",
+    "teachers": [
+        "許禕芳"
+    ],
+    "department": "EU01",
+    "code": "PCU0152",
+    "credit": 2,
+    "serial": 695,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 1,
+            "from": 3,
+            "to": 4,
+            "campus": "本部",
+            "classroom": "教511"
+        }
+    ],
+    "programs": [
+        "音樂輔教學程",
+        "高齡學程"
+    ],
+    "comment": "",
+    "restrict": "◎限本系(含雙主修)修習◎限大一修習",
+    "form_s": "1",
+    "classes": "",
+    "dept_group": "",
+    "hours": 2,
+    "description": "本課程是對心理學的主要範疇、研究方法、重要理論、及研究趨勢等內容做入門性的介紹，以幫助初學者瞭解心理學的基本知識。",
+    "goals": [
+        "瞭解人類行為與心理特質的發展。",
+        "熟悉心理學的理論及研究趨勢。",
+        "瞭解心理學常用的研究方法。"
+    ],
+    "syllabus": "第01週 (05 SEP)：Introduction  \n第02週 (12 SEP)：The nature of psychology (Chapter01)  \n第03週 (19 SEP)：Biological foundations of psychology (Chapter02)  \n第04週 (26 SEP)：Biological foundations of psychology (Chapter02)  \n第05週 (03 OCT)：Psychological development (Chapter03)  \n第06週 (10 OCT)：Holiday  \n第07週 (17 OCT)：Exam 1  \n第08週 (24 OCT)：Sensory processes (Chapter04)  \n第09週 (31 OCT)：Perception (Chapter05)  \n第10週 (07 NOV)：Consciousness (Chapter06)  \n第11週 (14 NOV)：Exam 2  \n第12週 (21 NOV)：Leaning and conditioning (Chapter07)  \n第13週 (28 NOV)：Leaning and conditioning (Chapter07)  \n第14週 (05 DEC)：Memory (Chapter08)  \n第15週 (12 DEC)：Language and thought (Chapter09)  \n第16週 (19 DEC)：Exam 3",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": ""
+        }
+    ],
+    "grading": [
+        {
+            "type": "期中考",
+            "weight": 50,
+            "note": "第1次內容包含第01-03章，第2次內容包含第04-06章。"
+        },
+        {
+            "type": "期末考",
+            "weight": 25,
+            "note": "內容包含第07-09章。"
+        },
+        {
+            "type": "出席",
+            "weight": 20,
+            "note": "準時出席並積極參與課程活動。"
+        },
+        {
+            "type": "其他",
+            "weight": 5,
+            "note": "學期當中至少擔任一次心理學研究參與者。"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

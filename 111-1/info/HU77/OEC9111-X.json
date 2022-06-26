@@ -1,0 +1,72 @@
+{
+    "year": 111,
+    "term": 1,
+    "name": "先進光學顯微技術",
+    "teachers": [
+        "未定"
+    ],
+    "department": "HU77",
+    "code": "OEC9111",
+    "credit": 3,
+    "serial": 1342,
+    "group": "",
+    "quota": {
+        "limit": 50,
+        "additional": 10
+    },
+    "schedule": [
+        {
+            "day": 4,
+            "from": 2,
+            "to": 4,
+            "campus": "公館",
+            "classroom": "Ｓ306"
+        }
+    ],
+    "programs": [],
+    "comment": "",
+    "restrict": "",
+    "form_s": "",
+    "classes": "9",
+    "dept_group": "",
+    "hours": 3,
+    "description": "",
+    "goals": [
+        "Understanding basic principles of advanced optical microscopy technologies",
+        "Knowing the contribution and the roles that advanced optical microscopies play in the progress of the contemporary science"
+    ],
+    "syllabus": "Week 1 Introduction to optical microscopy  \nWeek 2-3 Confocal microscopy & derivative techniques  \nWeek 3-4 Confocal based super-resolution microscopies  \nWeek 5-6 Scanning probe microscopies  \nWeek 7-8 Reversible Saturable Optical Fluorescence Transitions (RESOLF) and applications  \nWeek 9-11 Single-molecule localization microscopies and single-molecule imaging  \nWeek 12-13 Structured illumination microscopy and wave front engineering  \nWeek 14-15 Light-sheet microscopy  \nWeek 16 Final term\n\n第1週   光學顯微技術簡介  \n第2-3週   共軛焦顯微術及衍生技術  \n第3-4週   以共軛焦為基礎的超解析顯微術  \n第5-6週   掃描探針顯微技術  \n第7-8週   光學線性螢光躍遷顯微術與應用  \n第9-11週 單分子定位顯微術與單分子影像  \n第12-13週 結構照明顯微術與光波前工程  \n第14-15週 層光顯微術  \n第16週    期末考",
+    "methodologies": [
+        {
+            "type": "Formal lecture",
+            "note": "Concepts and principles of advanced optical microscopy technologies will be introduced in the lecture.\n先進光學顯微術的重要概念與原理將會於課堂中逐一介紹。"
+        },
+        {
+            "type": "Group discussion",
+            "note": "Important applications related to the topics will be covered in the class. Students are encouraged to ask questions and discuss the advantages and limitations with each other. \n與當週教學主題有關的重要應用會被選擇出做為課堂內的討論內容，學生會被鼓勵提出問題，並且透過彼此討論的方式理解技術的優勢與限制性。"
+        },
+        {
+            "type": "Case studies",
+            "note": "During the semester, the students will choose a topic from recently published research papers and share his/her own opinions from studying this paper.\n學生在一學期中必須選擇一篇相關的文獻進行閱讀，並將自我學習的心得於課堂中分享。"
+        }
+    ],
+    "grading": [
+        {
+            "type": "Assignments",
+            "weight": 20,
+            "note": "The students will need to write a report based on their study of the research paper for the oral presentation. The report should include three chapters: introduction, discussion, and conclusion. The words count should not be less than 500 words and the report should be written in English. \n\n學生必須完成一篇基於他們口頭報告內容的書面報告，報告須以英文寫成，並且包含三個章節，分別為導論、討論與結論，報告的字數必須超過500字"
+        },
+        {
+            "type": "Final exam",
+            "weight": 40,
+            "note": "The final exam will be in an open book fashioned. The range includes all the topics appeared in the lecture. \n\n期末考將會以開書考的形式進行，內容包括當學期課程的全部主題。"
+        },
+        {
+            "type": "Presentation",
+            "weight": 40,
+            "note": "The students will be asked to present a research paper that is related to the advanced microscopy technology. The presentation should include a brief introduction to the research and his/her own comment/discoveries through the studying. The length of the presentation should not exceed 10 minutes.\n\n學生將被要求報告一篇與先進光學顯微術有關的論文，報告內容除了對於內容簡短的介紹外，還必須包括他個人的發現與看法，報告的時間以10分鐘為限。"
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}

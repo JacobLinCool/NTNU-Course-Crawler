@@ -1,0 +1,89 @@
+{
+    "year": 111,
+    "term": 1,
+    "name": "人類學習與發展",
+    "teachers": [
+        "張瓅勻"
+    ],
+    "department": "IM84",
+    "code": "CLM0074",
+    "credit": 3,
+    "serial": 1381,
+    "group": "",
+    "quota": {
+        "limit": 30,
+        "additional": 0
+    },
+    "schedule": [
+        {
+            "day": 1,
+            "from": 7,
+            "to": 9,
+            "campus": "本部",
+            "classroom": "綜10樓華語系教室"
+        }
+    ],
+    "programs": [
+        "國際教師學程-華語文"
+    ],
+    "comment": "",
+    "restrict": "◎課程不開放上修",
+    "form_s": "",
+    "classes": "",
+    "dept_group": "",
+    "hours": 3,
+    "description": "本課程探討人類發展與學習等重要議題，目的是以科學方式研究人類在認知、情緒、人格、道德和社會文化等向度上的發展歷程。課程將介紹人類發展重要理論、探討個體在各發展階段（著重於青少年與壯年期）之特性、瞭解不同學派的學習理論及思考不同理論與發展階段的交互關係，讓學生將所學應用於生活和華語教學場域。",
+    "goals": [
+        "引導學生瞭解並深究人類發展與學習的發展脈絡、經典理論與重要概念",
+        "培養學生閱讀人類發展與學習相關的學術論文之能力",
+        "藉由文獻探討、個人省思、小組討論，提升學生思考能力並能尊重個別差異"
+    ],
+    "syllabus": "Week\n\nTopic\n\n_Assignment_\n\n1\n\nCourse overview\n\n \n\n2\n\nIntroduction to Theory & Practice: Learning theory\n\n \n\n3\n\nFundamental issues in human development\n\n_Self-reflection_\n\n4\n\nNeuroscience of learning\n\n \n\n5\n\nThe development of perception & attention\n\n \n\n6\n\nInvited talk with experienced IB teachers\n\n \n\n7\n\nMemory\n\n_IA1    SA1_\n\n8\n\nConcepts and knowledge representation\n\n_IA2    SA2_\n\n9\n\nLanguage development\n\n_IA3    SA3_\n\n10\n\nCognition & Reading\n\n_IA4    SA4_\n\n11\n\nCognition & Emotion\n\n_IA5    SA5_\n\n12\n\nHigher-order thinking: Problem solving and reasoning\n\n_IA6    SA6_\n\n13\n\nLearning motivation\n\n_IA7    SA7_\n\n14\n\nProject presentation I\n\n \n\n15\n\nProject presentation II\n\n \n\n16\n\nCourse summary of key concepts\n\n_Written report_",
+    "methodologies": [
+        {
+            "type": "講述法",
+            "note": "Students will be exposed to the domains of teaching and learning as they related to, and thus are influenced by, the processes of human development through lectures, seminars, and discussions."
+        },
+        {
+            "type": "討論法",
+            "note": "Students will participate in small and large group discussions. They will contribute to these discussions by exchanging their opinions on topics/tasks introduced in class, and by sharing insights from their self-reflection paper (an exploration of students’ own development). Through the discussions, the goal is to broaden students’ views on issues, concepts, and experiences that are significant for them as developing CSL/CFL educators and growing humans who continue their lifelong learning."
+        },
+        {
+            "type": "媒體融入教學",
+            "note": "Students will participate in Moodle for their learning outside the classroom; slides and multimedia will be used in class."
+        },
+        {
+            "type": "專題研究",
+            "note": "Each student will identify a research topic/issue of his/her own interest, plan and conduct a formal literature review, prepare a written report of the literature review, and make an oral presentation to the class. As part of this process, each student will prepare and submit a statement of his/her research topic and an annotated bibliography of their sources (APA format; requirements will be described in details in class). In a final written report, a “problem” will be identified and defined as the topic of the literature review. Then, the professional literature related to the topic, both theoretical and empirical, will be explored, explained and evaluated. Finally, a comprehensive discussion is needed for elaborating how the literature addresses the topic. A minimum of ten professional citations (from a variety of sources) should be included."
+        }
+    ],
+    "grading": [
+        {
+            "type": "作業",
+            "weight": 10,
+            "note": "Self-reflection paper (evaluated by the instructor)."
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 10,
+            "note": "Based on the participation rubrics (will be describe in details in class); evaluated by the instructor."
+        },
+        {
+            "type": "出席",
+            "weight": 10,
+            "note": "Evaluated by the instructor."
+        },
+        {
+            "type": "報告",
+            "weight": 30,
+            "note": "Two presentations (one instructor-assigned paper, IA, and one self-assigned paper, SA; 15% for each paper).\nBased on the presentation rubrics (see the attached grading guidance); evaluated by peers."
+        },
+        {
+            "type": "專題",
+            "weight": 40,
+            "note": "Literature review project; \n20% an oral presentation will be evaluated by peers,\n20% a written report will be evaluated by the instructor."
+        }
+    ],
+    "prerequisite": "",
+    "general_core": []
+}
