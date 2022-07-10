@@ -3,4 +3,5 @@ export interface Config {
     year: number;
     term: number;
     squash: boolean;
+    force: boolean;
 }

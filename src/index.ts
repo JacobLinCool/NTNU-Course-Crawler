@@ -15,7 +15,8 @@ const program = new Command()
     .option("-c, --concurrency <num>", "concurrency number", "3")
     .option("-y, --year <num>", "year", "110")
     .option("-t, --term <num>", "term", "2")
-    .option("-s, --squash", "save squashed output", false);
+    .option("-s, --squash", "save squashed output", false)
+    .option("-f, --force", "overwrite existing output", false);
 
 program.action(run).parse(process.argv);
 
@@ -24,10 +25,11 @@ async function run(): Promise<void> {
     const year = parseInt(program.opts().year);
     const term = parseInt(program.opts().term);
     const squash = program.opts().squash;
-    await crawl({ concurrency, year, term, squash });
+    const force = program.opts().force;
+    await crawl({ concurrency, year, term, squash, force });
 }
 
-async function crawl({ concurrency, year, term, squash }: Config): Promise<void> {
+async function crawl({ concurrency, year, term, squash, force }: Config): Promise<void> {
     console.log(`NTNU Course Crawler. Target: ${year}-${term} Concurrency:`, concurrency);
 
     const START_TIME = Date.now();
@@ -47,7 +49,7 @@ async function crawl({ concurrency, year, term, squash }: Config): Promise<void>
             try {
                 const filepath = resolve(directory, "meta", `${department}.json`);
 
-                const exists = existsSync(filepath);
+                const exists = existsSync(filepath) && !force;
                 const meta: CourseMeta[] = exists
                     ? JSON.parse(readFileSync(filepath, "utf8"))
                     : await query.meta({ year, term, department });
@@ -91,7 +93,7 @@ async function crawl({ concurrency, year, term, squash }: Config): Promise<void>
 
                 const filepath = resolve(dir, `${meta.code}-${meta.group || "X"}.json`);
 
-                const exists = existsSync(filepath);
+                const exists = existsSync(filepath) && !force;
                 const info: CourseInfo = exists
                     ? JSON.parse(readFileSync(filepath, "utf8"))
                     : await query.info(meta);
