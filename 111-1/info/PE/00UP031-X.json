@@ -3,10 +3,12 @@
     "term": 1,
     "name": "體育（扯鈴）",
     "teachers": [
-        "未定"
+        "陳昀宗"
     ],
     "department": "PE",
     "code": "00UP031",
+    "type": "必",
+    "grade": null,
     "credit": 1,
     "serial": 2518,
     "group": "",
@@ -35,18 +37,36 @@
         "學會扯鈴運動的各種動作技能",
         "養成規律運動之習慣，培養終身運動之興趣"
     ],
-    "syllabus": "",
+    "syllabus": "  \n[教學進度與主題附件](https://ap.itc.ntnu.edu.tw/NtnuFileShare/file.do?action=dl&gno=a34a4f9acf0c462180dd1e71483b6196&fno=4074c8440b314b6797eac99600b1a075)",
     "methodologies": [
         {
-            "type": "",
-            "note": ""
+            "type": "講述法",
+            "note": "教師動作講解與示範"
+        },
+        {
+            "type": "合作學習",
+            "note": "團隊合作、小組學習與討論"
+        },
+        {
+            "type": "實驗/實作",
+            "note": "學習並規劃個人表演動作與流程"
         }
     ],
     "grading": [
         {
-            "type": "",
-            "weight": null,
+            "type": "期末考",
+            "weight": 50,
+            "note": "3分鐘個人扯鈴表演"
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 10,
             "note": ""
+        },
+        {
+            "type": "出席",
+            "weight": 40,
+            "note": "服裝整齊，準時出席"
         }
     ],
     "prerequisite": "",

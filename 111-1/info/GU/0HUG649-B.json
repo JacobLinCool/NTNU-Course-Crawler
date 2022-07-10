@@ -3,10 +3,12 @@
     "term": 1,
     "name": "越南語（一）",
     "teachers": [
-        "未定"
+        "劉陳石草"
     ],
     "department": "GU",
     "code": "0HUG649",
+    "type": "通",
+    "grade": null,
     "credit": 2,
     "serial": 1050,
     "group": "B",
@@ -26,7 +28,7 @@
     "programs": [
         "國關與外交學程"
     ],
-    "comment": "劉陳石草。母語人士不可選課",
+    "comment": "母語人士不可選課",
     "restrict": "",
     "form_s": "",
     "classes": "",
@@ -39,18 +41,41 @@
         "培養社會關懷，族群尊重",
         "奠定良好拼音基礎，持續學習"
     ],
-    "syllabus": "",
+    "syllabus": "  \n \n\n  \n \n\n  \n[教學進度與主題附件](https://ap.itc.ntnu.edu.tw/NtnuFileShare/file.do?action=dl&gno=7aa8d01431c7424fbcceea191a94f99b&fno=7846c910a1884609a6b8bd5891771b7a)",
     "methodologies": [
         {
-            "type": "",
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": ""
+        },
+        {
+            "type": "合作學習",
             "note": ""
         }
     ],
     "grading": [
         {
-            "type": "",
-            "weight": null,
-            "note": ""
+            "type": "期中考",
+            "weight": 20,
+            "note": "紙筆考試（測驗）"
+        },
+        {
+            "type": "期末考",
+            "weight": 20,
+            "note": "個人口頭報告、製造影片"
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 30,
+            "note": "積極參與授課教師設計的課堂活動或小作業。"
+        },
+        {
+            "type": "出席",
+            "weight": 30,
+            "note": "任何理由缺席，盡量用學校網路請假系統提出申請。"
         }
     ],
     "prerequisite": "",

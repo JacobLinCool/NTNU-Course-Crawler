@@ -7,6 +7,8 @@
     ],
     "department": "SM47",
     "code": "CSC0017",
+    "type": "選",
+    "grade": null,
     "credit": 3,
     "serial": 2751,
     "group": "",
@@ -38,7 +40,7 @@
         "探討解決問題所需的時間及空間複雜度",
         "研究其它特殊專題及未來趨勢"
     ],
-    "syllabus": "Ch. 1-4  數學基礎\n\nInsertion sort、Selection sort、Merge sort、Tower of Hanoi、四柱河內塔\n\nCh. 5  亂數化演算法(Fire Pi、Buffon\\`s Needle、阿基米得法、BDD問題、亂數化簡演算法)\n\nCh. 6-9  排序問題(Insertion sort、Selection sort、Bubble sort、Shell sort、Merge sort、Heap sort、Quicksort、Bucket sort、Radix sort、Blum selection演算法)\n\nCh. 10-14  一般資料結構(Binary search tree、Skip list、Hash table、AVL-tree、紅黑樹、Josephus game)\n\nCh. 15  動態規劃(矩陣連乘、0/1背包、多邊形三角化、最佳二元搜尋樹)\n\nCh. 16  Greedy演算法(Huffman編碼、摩爾斯電碼、Scheduling with deadlines)\n\nCh. 17  Amortized分析法\n\nCh. 18  高等資料結構(B-tree、B+ tree、Min heap、Max Heap、Trie)\n\nCh. 22-26  圖的各種演算法(令人迷惑的圖、 Kruskal MST、Djikstra\\`s algorithm)\n\nCh. 29  線性規劃\n\nCh. 31 密碼學及安全確認問題(Euclid\\`s Game、extended GCD、modulo運算、Cryptarithms、RSA密碼)\n\nCh. 34  NP-complete問題(3n+1 problem、旅行推銷員)\n\nCh. 35  近似演算法\n\nCh. 99  其它特殊專題(logic games、The game of Nim)",
+    "syllabus": "Combiatorial optimization\n\n\\- Greedy algorithms and matroids\n\n\\- Primal-and-dual algorithms\n\n\\- Matroid intersection\n\nApproximation algorithms\n\n\\- Combinatorial algorithms\n\n\\- LP-based approximation\n\nRandomized algorithms\n\n\\- Probabilistic method",
     "methodologies": [
         {
             "type": "講述法",
@@ -56,28 +58,13 @@
     "grading": [
         {
             "type": "作業",
-            "weight": 50,
-            "note": "平時作業約5次（每次約佔總成績10％）"
-        },
-        {
-            "type": "期中考",
-            "weight": 20,
-            "note": "共二次考試（每次約佔總成績20％）"
-        },
-        {
-            "type": "期末考",
-            "weight": 20,
-            "note": "共二次考試（每次約佔總成績20％）"
+            "weight": 90,
+            "note": "平均兩週一次作業"
         },
         {
             "type": "課堂討論參與",
-            "weight": 5,
+            "weight": 10,
             "note": "課堂將針對相關課題討論"
-        },
-        {
-            "type": "出席",
-            "weight": 5,
-            "note": "抽點未到者，將逐次扣分。公假、事假或病假需附正式証明始得另以公式計分。"
         }
     ],
     "prerequisite": "",

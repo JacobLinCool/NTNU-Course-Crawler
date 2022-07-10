@@ -9,6 +9,8 @@
     ],
     "department": "SU43",
     "code": "BIU0044",
+    "type": "必",
+    "grade": 2,
     "credit": 3,
     "serial": 2982,
     "group": "",
@@ -27,7 +29,7 @@
     ],
     "programs": [],
     "comment": "",
-    "restrict": "◎必須先修過【BIU0168  普通生物學甲（一）】、【BIU0169  普通生物學甲（二）】",
+    "restrict": "",
     "form_s": "2",
     "classes": "1",
     "dept_group": "",
@@ -38,7 +40,7 @@
         "能體認遺傳變異為族群演化及物種多樣性之基礎，並以社會醫藥時事為例論述生命科學之相關議題",
         "能解釋、計算、分析遺傳數據"
     ],
-    "syllabus": "**李桂楨****老師**\n\n第一週Introduction to Genetics & Mitosis and Meiosis\n\n第二週 Mendelian Genetics & Extensions of Mendelian Genetics\n\n第三週Sex Determination and Sex Chromosomes & Chromosome Mutations: Variation in Chromosome Number and Arrangement\n\n第四週Chromosome Mapping in Eukaryotes\n\n第五週 Genetic Analysis and Mapping in Bacteria and Bacteriophages& Extranuclear Inheritance **(Exam I)**\n\n**廖培鈞****老師**\n\n第六週 Quantitative Genetics and Multifactorial Traits\n\n第七週 校際活動日(放假1日)\n\n第八週Genetics and Behavior\n\n第九週Population Genetics\n\n第十週Evolutionary Genetics\n\n第十一週Conservation Genetics **(Exam II)**\n\n**蘇銘燦****老師**\n\n第十二週 DNA Structure and Analysis & DNA Replication and Recombination\n\n第十三週DNA Organization in Chromosomes\n\n第十四週The Genetic Code and Transcription\n\n第十五週Translation and Proteins\n\n第十六週Gene Mutation, DNA Repair, and Transposition **(Exam III)**\n\n第十七週 彈性補充教學\n\n第十八週 彈性補充教學",
+    "syllabus": "**蘇銘燦****老師**\n\n第一週Introduction to Genetics & Mitosis and Meiosis\n\n第二週 Mendelian Genetics & Extensions of Mendelian Genetics\n\n第三週Sex Determination and Sex Chromosomes & Chromosome Mutations: Variation in Chromosome Number and Arrangement\n\n第四週Chromosome Mapping in Eukaryotes\n\n第五週 Genetic Analysis and Mapping in Bacteria and Bacteriophages& Extranuclear Inheritance **(Exam I)**\n\n**謝秀梅老師**\n\n第六週 DNA Structure and Analysis & DNA Replication and Recombination\n\n第七週 DNA Organization in Chromosomes\n\n第八週 The Genetic Code and Transcription\n\n第九週 Translation and Proteins\n\n第十週 Gene Mutation, DNA Repair, and Transposition\n\n第十一週  **(Exam II)**\n\n**廖培鈞老師**\n\n第十二週 Quantitative Genetics and Multifactorial Traits\n\n第十三週Genetics and Behavior\n\n第十四週Population Genetics\n\n第十五週Evolutionary Genetics\n\n第十六週Conservation Genetics **(Exam III)**",
     "methodologies": [
         {
             "type": "講述法",
@@ -53,14 +55,14 @@
         {
             "type": "期中考",
             "weight": 67,
-            "note": "期中考一：選擇題(40%)名詞解釋(20%)問答題(40%)  期中考二：簡答題含名詞解釋、比較題(60%)、問答題含數據解讀及實驗設計(40%)"
+            "note": ""
         },
         {
             "type": "期末考",
             "weight": 33,
-            "note": "選擇題(40%)是非題(30%)問答題(30%)"
+            "note": ""
         }
     ],
-    "prerequisite": "◎必須先修過【BIU0168  普通生物學甲（一）】、【BIU0169  普通生物學甲（二）】",
+    "prerequisite": "",
     "general_core": []
 }

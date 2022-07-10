@@ -7,6 +7,8 @@
     ],
     "department": "MU92",
     "code": "PAU0071",
+    "type": "必",
+    "grade": null,
     "credit": 2,
     "serial": 2430,
     "group": "B",
@@ -16,9 +18,9 @@
     },
     "schedule": [
         {
-            "day": 5,
-            "from": 9,
-            "to": 10,
+            "day": 4,
+            "from": 3,
+            "to": 4,
             "campus": "本部",
             "classroom": "綜910"
         }

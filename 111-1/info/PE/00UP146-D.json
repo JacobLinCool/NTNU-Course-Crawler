@@ -3,10 +3,12 @@
     "term": 1,
     "name": "體育（瑜珈）",
     "teachers": [
-        "未定"
+        "林慧敏"
     ],
     "department": "PE",
     "code": "00UP146",
+    "type": "必",
+    "grade": null,
     "credit": 1,
     "serial": 2609,
     "group": "D",
@@ -39,18 +41,53 @@
         "拓展人際網絡",
         "享受瑜珈運動樂趣"
     ],
-    "syllabus": "",
+    "syllabus": "2022.01.14 更新  \n \n\n  \n[教學進度與主題附件](https://ap.itc.ntnu.edu.tw/NtnuFileShare/file.do?action=dl&gno=e37fef0bab8f46f0abcd269eb642ef21&fno=c74a81706e9646d89195cca357ec42fe)",
     "methodologies": [
         {
-            "type": "",
-            "note": ""
+            "type": "講述法",
+            "note": "講述身心學之概念、身體觀與哲學思維；講述身體概念、安全要點、與動作程序"
+        },
+        {
+            "type": "討論法",
+            "note": "學生分組討論與練習"
+        },
+        {
+            "type": "問題解決教學",
+            "note": "與身體對話來解決任務中的指令"
+        },
+        {
+            "type": "合作學習",
+            "note": "合作進行動作的體驗與相互分享"
+        },
+        {
+            "type": "實驗/實作",
+            "note": "學生實際練習動作與享受身體放鬆的感受"
+        },
+        {
+            "type": "媒體融入教學",
+            "note": "簡報與音樂搭配教學使用"
         }
     ],
     "grading": [
         {
-            "type": "",
-            "weight": null,
-            "note": ""
+            "type": "作業",
+            "weight": 30,
+            "note": "心得、學習單、自評表、檔案評量"
+        },
+        {
+            "type": "期末考",
+            "weight": 30,
+            "note": "分組動作測驗、繳交檔案夾"
+        },
+        {
+            "type": "出席",
+            "weight": 30,
+            "note": "重視出席，請假須按照學校規定請假，無故未到者，缺席一堂課扣總分5分"
+        },
+        {
+            "type": "其他",
+            "weight": 10,
+            "note": "練習呈現、課程參與"
         }
     ],
     "prerequisite": "",

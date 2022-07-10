@@ -7,6 +7,8 @@
     ],
     "department": "SU47",
     "code": "CSC9007",
+    "type": "選",
+    "grade": null,
     "credit": 3,
     "serial": 3042,
     "group": "",
@@ -35,7 +37,7 @@
         "演練常見的攻防技術",
         "培養軟體開發上的資安意識"
     ],
-    "syllabus": "授課方式：16 週\n\n1.  **Introduction**\n\n2.  **Set-UID Programs**\n\n3.  **Environment Variables and Attack**\n\n4.  **Buffer Overflow Attack I**\n\n5.  **Buffer Overflow Attack II**\n\n6.  **Race Condition Vulnerability**\n\n7.  **Reverse Shell**\n\n8.  **XSS**\n\n9.  **SQL Injection Attack**\n\n10.**Packet Sniffing and Spoofing**\n\n11.**Attack on the TCP Protocol**\n\n12.**Attack on DNS**\n\n13.**PKI**\n\n14.**TLS Programming**\n\n15.**VPN**\n\n16.**Term Project Presentation or Final**\n\n \n\n**另外之後如果有機會和外部公司的微課程進行整合，會根據實際需求調整課程內容。**",
+    "syllabus": "授課主題（每個主題不見得都是固定一週）\n\n1.  **Introduction**\n\n2.  **Set-UID Programs**\n\n3.  **Environment Variables and Attack**\n\n4\\. **Shellshock Attack**\n\n5. **Buffer Overflow Attack** \n\n6.  **Return to libc attack and ROP**\n\n7.  **Format String Vulnerability**\n\n8\\. **CSRF Attack**\n\n9.  **XSS Attack**\n\n10.  **SQL Injection Attack**\n\n11. **Firewall**\n\n12. **VPN**\n\n**另外之後如果有機會和外部公司的微課程進行整合，或是安插特別主題的演講，會根據實際需求調整課程內容。**",
     "methodologies": [
         {
             "type": "講述法",
@@ -48,14 +50,19 @@
     ],
     "grading": [
         {
-            "type": "課堂討論參與",
-            "weight": 50,
-            "note": "根據課堂上的互動來確認學生的參與程度。"
+            "type": "作業",
+            "weight": 60,
+            "note": "預計出六次作業，每次作業佔總成績十分。作業以實際動手操作的題目為主。"
         },
         {
-            "type": "報告",
-            "weight": 50,
-            "note": "請同學實際操作上課中未曾介紹的攻擊手法，並演練給其他同學看。"
+            "type": "期末考",
+            "weight": 30,
+            "note": "測試上課介紹的各種攻擊手法，以及對應的防禦機制，以紙筆測驗為主。期末考和專題部份的佔比可能會再進行調整。"
+        },
+        {
+            "type": "專題",
+            "weight": 10,
+            "note": "可能以 CTF 的方式進行，或是以報告繳交的方式來處理。期末考和專題部份的佔比可能會再進行調整。"
         }
     ],
     "prerequisite": "",

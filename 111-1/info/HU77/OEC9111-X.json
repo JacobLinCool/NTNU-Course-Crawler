@@ -3,10 +3,12 @@
     "term": 1,
     "name": "先進光學顯微技術",
     "teachers": [
-        "未定"
+        "呂杰翰"
     ],
     "department": "HU77",
     "code": "OEC9111",
+    "type": "選",
+    "grade": null,
     "credit": 3,
     "serial": 1342,
     "group": "",
@@ -35,7 +37,7 @@
         "Understanding basic principles of advanced optical microscopy technologies",
         "Knowing the contribution and the roles that advanced optical microscopies play in the progress of the contemporary science"
     ],
-    "syllabus": "Week 1 Introduction to optical microscopy  \nWeek 2-3 Confocal microscopy & derivative techniques  \nWeek 3-4 Confocal based super-resolution microscopies  \nWeek 5-6 Scanning probe microscopies  \nWeek 7-8 Reversible Saturable Optical Fluorescence Transitions (RESOLF) and applications  \nWeek 9-11 Single-molecule localization microscopies and single-molecule imaging  \nWeek 12-13 Structured illumination microscopy and wave front engineering  \nWeek 14-15 Light-sheet microscopy  \nWeek 16 Final term\n\n第1週   光學顯微技術簡介  \n第2-3週   共軛焦顯微術及衍生技術  \n第3-4週   以共軛焦為基礎的超解析顯微術  \n第5-6週   掃描探針顯微技術  \n第7-8週   光學線性螢光躍遷顯微術與應用  \n第9-11週 單分子定位顯微術與單分子影像  \n第12-13週 結構照明顯微術與光波前工程  \n第14-15週 層光顯微術  \n第16週    期末考",
+    "syllabus": "先進光學顯微技術除了在微機電系統的檢測應用外，已逐步應用於生物系統中物理以及化學特徵的探討，在微系統的測量與檢測中具有相當重要的地位。因此本課程將介紹先進光學顯微技術，包含：可逆飽和光學線性螢光躍遷(RESOLFT)、單分子定位顯微術(SMLM)、結構照明顯微術(SIM)、掃描探針顯微技術、共軛焦顯微技術、層光顯微技術、單分子影像等。透過本課程的學習，延伸光電領域的學生在微系統檢測之知能。\n\nExcept for the inspection purpose of the microelectromechanical system, advanced optical microscopy technologies have been applied to the study of physicochemical properties in the biological system. It became the main workhorse for the identification and characterization of the microscopic environment in the living system. This course aims to introduce the concepts and principles underlying the advanced optical microscopies, which includes: RESOLFT, SMLM, SIM, scanning probe microscopies, confocal microscopy, light-sheet microscopy and technologies related to the aforementioned microscopies. By studying this course, the students’ abilities, and knowledges in the inspection of micro-systems can be improved.\n\n第1週   光學顯微技術簡介\n\n第2-3週   共軛焦顯微術及衍生技術\n\n第3-4週   以共軛焦為基礎的超解析顯微術\n\n第5-6週   掃描探針顯微技術\n\n第7-8週   光學線性螢光躍遷顯微術與應用\n\n第9-11週 單分子定位顯微術與單分子影像\n\n第12-13週 結構照明顯微術與光波前工程\n\n第14-15週 層光顯微術\n\n第16週    期末考\n\nWeek 1 Introduction to optical microscopy\n\nWeek 2-3 Confocal microscopy & derivative techniques\n\nWeek 3-4 Confocal based super-resolution microscopies\n\nWeek 5-6 Scanning probe microscopies\n\nWeek 7-8 Reversible Saturable Optical Fluorescence Transitions (RESOLF) and applications\n\nWeek 9-11 Single-molecule localization microscopies and single-molecule imaging\n\nWeek 12-13 Structured illumination microscopy and wave front engineering\n\nWeek 14-15 Light-sheet microscopy\n\nWeek 16 Final term",
     "methodologies": [
         {
             "type": "Formal lecture",
@@ -44,6 +46,10 @@
         {
             "type": "Group discussion",
             "note": "Important applications related to the topics will be covered in the class. Students are encouraged to ask questions and discuss the advantages and limitations with each other. \n與當週教學主題有關的重要應用會被選擇出做為課堂內的討論內容，學生會被鼓勵提出問題，並且透過彼此討論的方式理解技術的優勢與限制性。"
+        },
+        {
+            "type": "Field work",
+            "note": "We will visit labs that develop advanced optical microscopies."
         },
         {
             "type": "Case studies",

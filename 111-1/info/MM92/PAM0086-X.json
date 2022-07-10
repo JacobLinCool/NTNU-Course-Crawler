@@ -7,6 +7,8 @@
     ],
     "department": "MM92",
     "code": "PAM0086",
+    "type": "必",
+    "grade": null,
     "credit": 1,
     "serial": 2119,
     "group": "",
@@ -62,13 +64,13 @@
     "grading": [
         {
             "type": "作業",
-            "weight": 15,
+            "weight": 10,
             "note": "實習日誌(blog)"
         },
         {
             "type": "課堂討論參與",
-            "weight": 15,
-            "note": "協談參與(個別與集體)"
+            "weight": 30,
+            "note": "協談參與(個別與集體)，同儕檢討"
         },
         {
             "type": "報告",
@@ -77,7 +79,7 @@
         },
         {
             "type": "成果展覽",
-            "weight": 60,
+            "weight": 50,
             "note": "實習參與（挑戰度/積極度/貢獻度）"
         }
     ],

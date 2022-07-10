@@ -7,6 +7,8 @@
     ],
     "department": "SU47",
     "code": "CSU0028",
+    "type": "選",
+    "grade": 3,
     "credit": 3,
     "serial": 3057,
     "group": "",
@@ -47,7 +49,7 @@
         "了解現今系統(Android, iOS, etc.) 對於軟體開發的優點",
         "對於軟體著作權和開放原始碼(Open Source) 授權條款的了解"
     ],
-    "syllabus": "授課方式：16+2週\n\n彈性授課方式：專案開發\n\n1.  What is Software Engineering.\n2.  Software Process.\n3.  Agile Software Development.\n4.  Requirement Engineering.\n5.  System Modeling.\n6.  Architecture Design.\n7.  Design and Implementation.\n8.  Software Testing.\n9.  Software Evolution.\n10.  Security Engineering.\n11.  Project Management.\n12.  License.\n13.  Mythical Man-Month.",
+    "syllabus": "授課方式：16週，考量到同學們的開發時程以及避免影響其他科目的期末考，會於16周後另尋時間舉辦期末成果發表會，並由老師尋找合適的評分委員進行最終成果的評分。\n\n彈性授課方式：專案開發\n\n1.  What is Software Engineering.\n2.  Software Process.\n3.  Agile Software Development.\n4.  Requirement Engineering.\n5.  System Modeling.\n6.  Architecture Design.\n7.  Design and Implementation.\n8.  Software Testing.\n9.  Software Evolution.\n10.  Security Engineering.\n11.  Project Planning.\n12.  Project Management.\n13.  Professional Programmer.",
     "methodologies": [
         {
             "type": "講述法",
@@ -60,14 +62,19 @@
     ],
     "grading": [
         {
+            "type": "課堂討論參與",
+            "weight": 20,
+            "note": "授課教師針對同學的專案參與度進行評分"
+        },
+        {
             "type": "報告",
-            "weight": 50,
+            "weight": 30,
             "note": "個人報告以及專案相關文件"
         },
         {
             "type": "成果展覽",
             "weight": 50,
-            "note": "期末成果展示"
+            "note": "團隊期末成果展示"
         }
     ],
     "prerequisite": "",

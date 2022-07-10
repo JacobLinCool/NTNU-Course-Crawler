@@ -7,6 +7,8 @@
     ],
     "department": "HU75",
     "code": "AEU0013",
+    "type": "必",
+    "grade": 1,
     "credit": 3,
     "serial": 1307,
     "group": "B",
@@ -38,18 +40,32 @@
         "Develop abstract thinking and reasoning skills.",
         "Cultivate professional skills in programming."
     ],
-    "syllabus": "",
+    "syllabus": "1\\. Introduction to this course.\n\n2\\. Overview of C\n\n3\\. Top-down design with functions\n\n4\\. Selection structures: if and switch statements\n\n5\\. Repetitions and loop statements\n\n6\\. Pointers\n\n7\\. Array and pointers (I)\n\n8\\. Midterm exam\n\n9. Array and pointers (II)\n\n10\\. Strings (I)\n\n11. Strings (II)\n\n12\\. Recursion\n\n13\\. Structure types\n\n14\\. Processing Files\n\n15\\. Pointers and dynamic data structures\n\n16\\. Final exam",
     "methodologies": [
         {
-            "type": "",
+            "type": "Formal lecture",
+            "note": ""
+        },
+        {
+            "type": "Problem base learning",
             "note": ""
         }
     ],
     "grading": [
         {
-            "type": "",
-            "weight": null,
-            "note": ""
+            "type": "Assignments",
+            "weight": 20,
+            "note": "作業或小考(上機考) 或依實際狀況調整 (百分比: 0~20%)"
+        },
+        {
+            "type": "Midterm Exam",
+            "weight": 40,
+            "note": "上機考, 依實際狀況調整 (百分比: 40~50%)"
+        },
+        {
+            "type": "Final exam",
+            "weight": 40,
+            "note": "上機考, 依實際狀況調整 (百分比: 40~50%)"
         }
     ],
     "prerequisite": "◎Exclusive for freshman",

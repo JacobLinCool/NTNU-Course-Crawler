@@ -7,6 +7,8 @@
     ],
     "department": "OU57",
     "code": "BAU0052",
+    "type": "選",
+    "grade": null,
     "credit": 3,
     "serial": 2477,
     "group": "",
@@ -30,25 +32,51 @@
     "classes": "",
     "dept_group": "",
     "hours": 3,
-    "description": "本課程企圖介紹電子商務沿革、驅動因素、影響、以及未來趨勢的各種實務應用，涉及的範圍將包括網路實際業務案例的鑑往知來、新興科技形塑未來商務環境的探討等，課程以講述沿革與探討、討論個案為主，也許將邀請若干業師到課堂參與討論。\n這門課的學生將被要求實際動手精通搜尋引擎搜尋命令語法、有效用且有效率的理解他人觀點並發展自己觀點、順暢表達Inventing the Wheel的見解描述或是Reinventing the Wheel的重點整理等。",
+    "description": "電子商務的發展已經深入整個社會體系。而今眾多產業，尤其是較為的傳統產業，為了跟上時代的腳步進行數位轉型 (digital transformation)，不僅將其業務透過電子商務銷售於顧客，更將企業與管理功能數位化。因此，管院學生應提升對數位轉型的了解。而透過本課程學生將可以：\n1. 了解電子商務與數位轉型的發展脈絡。\n2. 了解數位轉型的思維、策略與工具。\n3. 應用所學於實務個案。\n4. 學習團隊合作之精神。\n為了達成以上目標，本課程著重於課堂討論、個案探討以及透過專案團體作業更進一步了解如何實際操作數位轉型。課堂小組每周務必閱讀指定章節與個案，並在課堂上討論其內容。除此之外，課堂小組將組織顧問團隊選定有興趣的企業，並協助該企業進行數位轉型。針對實作，本課程將提供一到兩位業主供同學選擇，期望同學能藉由所學給予該企業數位轉型之規劃、建議與執行方案細節。另外，同學也能自行構思創業方案，並且透過數位化擴大市場與管理效能。",
     "goals": [
-        "瞭解網際網路等科技的演進為企業經營帶來的衝擊及機會，並著重其中引發的經營管理議題。",
-        "瞭解既存商務的領導公司所帶動發展的科技與商模等重要議題。",
-        "透過個案討論及實務演練，體驗電子商務應用及實務操作，以面對未來挑戰",
-        "企管學科乃在於培養人的品質，本課程藉用電子商務的發展過程以練習如何善用把已知及可調資源、迎向未知與挑戰。"
+        "Students can understand the developments of e-commerce and digital transformation",
+        "Students can Understand the mindset, strategies, and tools of digital transformation",
+        "Students can apply the skills learned from the course to the practices",
+        "Students can develop a team-based orientation."
     ],
-    "syllabus": "",
+    "syllabus": "1st week (9/8)\n\n1\\. DT Ch1: The Five Domains of Digital Transformation\n\n2nd week (9/15)\n\n1\\. DT Ch2: Harness Customer Networks\n\n2\\. Case1: Digital transformation of TSG from a B2B to a B2C company\n\n3rd week (9/22)\n\n1\\. PBB Ch2: Section One Introduction: How and Why the COVID-19 Economic Crisis Occurred? A Customer Behavior-based Perspective\n\n2\\. Case2: Approaching digitalization at an SME: Manufacturing service provider\n\n4th week (9/29)\n\n1\\. DT Ch3: Build Platforms, Not Just Products\n\n2\\. Case3: Red & Yellow: the business of education\n\n35th week (10/6)\n\n1\\. PPB Ch3: Five Phases for How Customer Behavior Changed in Response to COVID-19\n\n2\\. Case4: Cape union mart: digital transformation and customer experience during a crisis\n\n6th week (10/13)\n\nPPB Ch4: Psychological and Economic Explanations for Why the COVID-19 Economic Crisis Occurred\n\n2\\. Case5: How RAPS Spiced Up the German Butcher’s Trade\n\n7th week (10/20)\n\nPPB Ch5: Customer-centric Growth Strategies\n\n2\\. Case6: With your headphones on: go global or stay local?\n\n8th week (10/27)\n\nInvited speech\n\n9th week (11/3)\n\nMid-term proposal\n\n10th week (11/10)\n\n1\\. DT Ch4: Turn Data into Assets\n\n2\\. Case7: Enabling Digital Transformation Through Cognitive Robotic Process Automation at Deutsche Telekom Services Europe\n\n11th week (11/17)\n\n1\\. DT Ch5: Innovate by Rapid Experimentation\n\n2\\. Case8: A Two-Sided Approach for Digital Innovation at SCHOTT\n\n12th week (11/24)\n\n1\\. DT Ch6: Adapt your value proposition\n\n2\\. Case9: All of the people, all of the time: click on the link to join the meeting\n\n13th week (12/1)\n\n1\\. PPB Ch6: An Opportunity Unlike Ever Before\n\n2\\. Case10:\n\n14th week (12/8)\n\n1\\. DT Ch7: Mastering Disruptive Business Models\n\n2\\. Case11: The development process of a digital transformation strategy and its fields of action in Lohmar\n\n15th week (12/15)\n\nFinal project presentation\n\n16th week (12/22)\n\nInvited speech",
     "methodologies": [
         {
-            "type": "",
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": ""
+        },
+        {
+            "type": "合作學習",
+            "note": ""
+        },
+        {
+            "type": "實驗/實作",
+            "note": ""
+        },
+        {
+            "type": "專題研究",
             "note": ""
         }
     ],
     "grading": [
         {
-            "type": "",
-            "weight": null,
-            "note": ""
+            "type": "作業",
+            "weight": 20,
+            "note": "演講反思心得"
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 30,
+            "note": "參與討論與發表意見"
+        },
+        {
+            "type": "報告",
+            "weight": 50,
+            "note": "期中報告（20%）期末報告（30%）"
         }
     ],
     "prerequisite": "◎必須先修過【BAU0021  行銷管理】、【BAU0048  企業管理概論】",

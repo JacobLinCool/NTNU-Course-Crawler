@@ -7,6 +7,8 @@
     ],
     "department": "HU75",
     "code": "AEU0022",
+    "type": "選",
+    "grade": 2,
     "credit": 3,
     "serial": 1313,
     "group": "",
@@ -36,17 +38,35 @@
         "培養學生對於問題之分析能力，並能以不同的途徑思考問題處理方法",
         "培養學生應用課堂所學的各種資料結構技巧，實際於程式設計(專題製作)中靈活運用"
     ],
-    "syllabus": "",
+    "syllabus": "The course emphasizes data structures and the development and analysis of their associated algorithms. Specific data structures include trees, graphs, stacks, queues, and hash tables.\n\n課程內容包含\n\n1. 演算法分析Algorithm Complexity\n\n2. 陣列(array)\n\n3\\. 堆疊與佇列(stack and queue)  \n\n4\\. 鏈結串列(Linked List)\n\n5\\. 遞迴(Recursion)\n\n6\\. 樹狀結構(Tree)\n\n7\\. 二元搜尋樹(Binary search tree)\n\n8\\. 堆積(Heap)\n\n9\\. 高度平衡二元搜尋數(Height balanced binary search tree)\n\n10\\. 圖形結構(graph)\n\n11\\. 排序(Sorting)\n\n12\\. 搜尋(Search)",
     "methodologies": [
         {
-            "type": "",
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": ""
+        },
+        {
+            "type": "實驗/實作",
             "note": ""
         }
     ],
     "grading": [
         {
-            "type": "",
-            "weight": null,
+            "type": "作業",
+            "weight": 40,
+            "note": ""
+        },
+        {
+            "type": "期中考",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 30,
             "note": ""
         }
     ],

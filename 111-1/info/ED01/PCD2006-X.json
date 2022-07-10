@@ -3,10 +3,12 @@
     "term": 1,
     "name": "諮商督導研究與實習（一）",
     "teachers": [
-        "未定"
+        "林家興"
     ],
     "department": "ED01",
     "code": "PCD2006",
+    "type": "必",
+    "grade": 2,
     "credit": 2,
     "serial": 351,
     "group": "",
@@ -36,18 +38,40 @@
         "透過實習與討論，學生能夠成為勝任的諮商督導",
         "實踐諮商倫理與督導倫理的守則"
     ],
-    "syllabus": "",
+    "syllabus": "第一週： Introduction to clinical supervision              ch 1\n\n第二週：Evaluation                                                       ch 2\n\n第三週：Ethical and legal considerations                    ch 3\n\n第四週：Supervision models                                         ch 4\n\n第五週：The supervisory relationship (I)                      ch 5\n\n第六週：The supervisory relationship (II)                     ch 6\n\n第七週：The supervisory relationship (III)                    ch 7\n\n第八週： Mid-term exam, independent study\n\n第九週：Organizing the supervision experience          ch 8\n\n第十週：Supervision interventions (I)                           ch 9\n\n第十一週：Supervision interventions (II)                      ch 10\n\n第十二週：Supervision interventions (III)                     ch 11\n\n第十三週：Teaching and researching supervision       ch 12                      \n\n第十四週：The supervisor’s toolbox (I)\n\n第十五週： The supervisor’s toolbox (I)\n\n第十六週：Discussion, review and feedback\n\n第十七週：Discussion, review and feedback  \n第十八週：Final exam",
     "methodologies": [
         {
-            "type": "",
-            "note": ""
+            "type": "講述法",
+            "note": "教師講授"
+        },
+        {
+            "type": "討論法",
+            "note": "課前章節閱讀與課堂參與討論"
+        },
+        {
+            "type": "實驗/實作",
+            "note": "課外督導實習活動"
+        },
+        {
+            "type": "其他",
+            "note": "口頭報告"
         }
     ],
     "grading": [
         {
-            "type": "",
-            "weight": null,
-            "note": ""
+            "type": "作業",
+            "weight": 10,
+            "note": "每次個督與團督後的紀錄"
+        },
+        {
+            "type": "報告",
+            "weight": 60,
+            "note": "個別與團體督導口頭報告、期末督導心得報告"
+        },
+        {
+            "type": "專題",
+            "weight": 30,
+            "note": "督導研究專題報告"
         }
     ],
     "prerequisite": "◎必須先修過【PCD2008  進階諮商心理實習（一）】、【PCD2009  進階諮商心理實習（二）】",

@@ -3,10 +3,12 @@
     "term": 1,
     "name": "體育（芭蕾舞初級）",
     "teachers": [
-        "未定"
+        "吳采陵"
     ],
     "department": "PE",
     "code": "00UP055",
+    "type": "必",
+    "grade": null,
     "credit": 1,
     "serial": 2538,
     "group": "A",
@@ -37,18 +39,54 @@
         "提升個人柔軟度、肌力、平衡感、協調性與韻律感。",
         "涵養舞蹈賞析能力。"
     ],
-    "syllabus": "",
+    "syllabus": "本學期上課週次：16+2  \n請同學務必參考課程大綱內容進行選課  \n \n\n  \n[教學進度與主題附件](https://ap.itc.ntnu.edu.tw/NtnuFileShare/file.do?action=dl&gno=bf213204cae84b41aae9855bf43ad277&fno=e56e29397d4646f4965b8bb6a74709a0)",
     "methodologies": [
         {
-            "type": "",
-            "note": ""
+            "type": "講述法",
+            "note": "肢體動作及元素組合說明"
+        },
+        {
+            "type": "討論法",
+            "note": "舞蹈影片賞析及討論分享"
+        },
+        {
+            "type": "合作學習",
+            "note": "小組共同創作、彼此指導觀摩"
+        },
+        {
+            "type": "實驗/實作",
+            "note": "舞蹈動作探索及表演"
+        },
+        {
+            "type": "媒體融入教學",
+            "note": "線上相關教材及動作影片提供，可於課堂外複習動作"
         }
     ],
     "grading": [
         {
-            "type": "",
-            "weight": null,
-            "note": ""
+            "type": "作業",
+            "weight": 15,
+            "note": "心得（含課程紀錄、芭蕾歷史、表演心得）"
+        },
+        {
+            "type": "期中考",
+            "weight": 15,
+            "note": "芭蕾舞蹈把杆、組合（含自評、教師評量）"
+        },
+        {
+            "type": "期末考",
+            "weight": 15,
+            "note": "小組編創發想成果(動作技能、表演性及整體合作編創成果) （含自評、互評、教師評量）"
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 25,
+            "note": "課程參與及小組團隊合作參與積極度"
+        },
+        {
+            "type": "出席",
+            "weight": 30,
+            "note": "無故缺席三次或請假五次以上即不及格"
         }
     ],
     "prerequisite": "",

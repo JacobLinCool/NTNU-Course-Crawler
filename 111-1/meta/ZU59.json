@@ -8,6 +8,8 @@
         ],
         "department": "EU01",
         "code": "PCU0143",
+        "type": "選",
+        "grade": 1,
         "credit": 2,
         "serial": 694,
         "group": "",
@@ -42,6 +44,8 @@
         ],
         "department": "EU01",
         "code": "PCU0152",
+        "type": "必",
+        "grade": 1,
         "credit": 2,
         "serial": 695,
         "group": "",
@@ -77,6 +81,8 @@
         ],
         "department": "EU05",
         "code": "HEU0179",
+        "type": "必",
+        "grade": 1,
         "credit": 3,
         "serial": 750,
         "group": "",
@@ -111,6 +117,8 @@
         ],
         "department": "EU09",
         "code": "SPU5007",
+        "type": "必",
+        "grade": null,
         "credit": 3,
         "serial": 856,
         "group": "B",
@@ -147,6 +155,8 @@
         ],
         "department": "EU09",
         "code": "SPU0096",
+        "type": "選",
+        "grade": 1,
         "credit": 3,
         "serial": 860,
         "group": "",
@@ -181,6 +191,8 @@
         ],
         "department": "EU09",
         "code": "SPU5007",
+        "type": "必",
+        "grade": 1,
         "credit": 3,
         "serial": 862,
         "group": "",
@@ -215,6 +227,8 @@
         ],
         "department": "EU09",
         "code": "SPU0074",
+        "type": "必",
+        "grade": 2,
         "credit": 2,
         "serial": 866,
         "group": "A",
@@ -245,10 +259,12 @@
         "term": 1,
         "name": "創造力教育",
         "teachers": [
-            "未定"
+            "李乙明"
         ],
         "department": "EU09",
         "code": "SPU0074",
+        "type": "必",
+        "grade": 2,
         "credit": 2,
         "serial": 867,
         "group": "B",
@@ -284,6 +300,8 @@
         ],
         "department": "EU09",
         "code": "SPU0092",
+        "type": "必",
+        "grade": 2,
         "credit": 3,
         "serial": 868,
         "group": "",
@@ -318,6 +336,8 @@
         ],
         "department": "EU09",
         "code": "SPU1033",
+        "type": "必",
+        "grade": 2,
         "credit": 2,
         "serial": 873,
         "group": "",
@@ -348,10 +368,12 @@
         "term": 1,
         "name": "心理學",
         "teachers": [
-            "未定"
+            "楊諮燕"
         ],
         "department": "GU",
         "code": "0AUG402",
+        "type": "通",
+        "grade": null,
         "credit": 2,
         "serial": 1018,
         "group": "A",
@@ -371,7 +393,7 @@
         "programs": [
             "音樂輔教學程"
         ],
-        "comment": "楊諮燕",
+        "comment": "",
         "restrict": "",
         "form_s": "",
         "classes": "",
@@ -382,10 +404,12 @@
         "term": 1,
         "name": "心理學",
         "teachers": [
-            "未定"
+            "朱采翎"
         ],
         "department": "GU",
         "code": "0AUG402",
+        "type": "通",
+        "grade": null,
         "credit": 2,
         "serial": 1019,
         "group": "B",
@@ -405,7 +429,7 @@
         "programs": [
             "音樂輔教學程"
         ],
-        "comment": "朱采翎",
+        "comment": "",
         "restrict": "",
         "form_s": "",
         "classes": "",
@@ -416,10 +440,12 @@
         "term": 1,
         "name": "心理學",
         "teachers": [
-            "未定"
+            "朱采翎"
         ],
         "department": "GU",
         "code": "0AUG402",
+        "type": "通",
+        "grade": null,
         "credit": 2,
         "serial": 1020,
         "group": "C",
@@ -439,7 +465,7 @@
         "programs": [
             "音樂輔教學程"
         ],
-        "comment": "朱采翎",
+        "comment": "",
         "restrict": "",
         "form_s": "",
         "classes": "",
@@ -450,10 +476,12 @@
         "term": 1,
         "name": "心理學",
         "teachers": [
-            "未定"
+            "黃美齡"
         ],
         "department": "GU",
         "code": "0AUG402",
+        "type": "通",
+        "grade": null,
         "credit": 2,
         "serial": 1021,
         "group": "D",
@@ -473,7 +501,7 @@
         "programs": [
             "音樂輔教學程"
         ],
-        "comment": "黃美齡",
+        "comment": "",
         "restrict": "",
         "form_s": "",
         "classes": "",
@@ -484,10 +512,12 @@
         "term": 1,
         "name": "心理學",
         "teachers": [
-            "未定"
+            "黃美齡"
         ],
         "department": "GU",
         "code": "0AUG402",
+        "type": "通",
+        "grade": null,
         "credit": 2,
         "serial": 1022,
         "group": "E",
@@ -507,7 +537,7 @@
         "programs": [
             "音樂輔教學程"
         ],
-        "comment": "黃美齡",
+        "comment": "",
         "restrict": "",
         "form_s": "",
         "classes": "",
@@ -522,6 +552,8 @@
         ],
         "department": "GU",
         "code": "0AUG402",
+        "type": "通",
+        "grade": null,
         "credit": 2,
         "serial": 1023,
         "group": "F",
@@ -552,10 +584,12 @@
         "term": 1,
         "name": "心理學",
         "teachers": [
-            "未定"
+            "楊馥"
         ],
         "department": "GU",
         "code": "0AUG402",
+        "type": "通",
+        "grade": null,
         "credit": 2,
         "serial": 1024,
         "group": "G",
@@ -575,7 +609,7 @@
         "programs": [
             "音樂輔教學程"
         ],
-        "comment": "楊馥",
+        "comment": "",
         "restrict": "",
         "form_s": "",
         "classes": "",
@@ -590,6 +624,8 @@
         ],
         "department": "GU",
         "code": "0NUG246",
+        "type": "通",
+        "grade": null,
         "credit": 2,
         "serial": 1058,
         "group": "",
@@ -624,6 +660,8 @@
         ],
         "department": "MU90",
         "code": "MUU0335",
+        "type": "選",
+        "grade": null,
         "credit": 2,
         "serial": 2259,
         "group": "",
@@ -658,6 +696,8 @@
         ],
         "department": "MU90",
         "code": "MUU0361",
+        "type": "選",
+        "grade": null,
         "credit": 1,
         "serial": 2264,
         "group": "A",
@@ -692,6 +732,8 @@
         ],
         "department": "MU90",
         "code": "MUU0361",
+        "type": "選",
+        "grade": null,
         "credit": 1,
         "serial": 2265,
         "group": "B",
@@ -726,6 +768,8 @@
         ],
         "department": "MU90",
         "code": "MUC0031",
+        "type": "選",
+        "grade": null,
         "credit": 2,
         "serial": 2384,
         "group": "",
@@ -760,6 +804,8 @@
         ],
         "department": "MU90",
         "code": "MUU0247",
+        "type": "選",
+        "grade": 2,
         "credit": 2,
         "serial": 2407,
         "group": "",

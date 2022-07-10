@@ -3,12 +3,14 @@
     "term": 1,
     "name": "英語教學概論",
     "teachers": [
-        "劉宇挺"
+        "李宜倩"
     ],
     "department": "LU21",
     "code": "ENU0150",
+    "type": "必",
+    "grade": 2,
     "credit": 2,
-    "serial": 1821,
+    "serial": 1850,
     "group": "",
     "quota": {
         "limit": 50,
@@ -16,18 +18,18 @@
     },
     "schedule": [
         {
-            "day": 4,
-            "from": 6,
-            "to": 7,
+            "day": 5,
+            "from": 3,
+            "to": 4,
             "campus": "本部",
-            "classroom": "正305"
+            "classroom": "正304"
         }
     ],
     "programs": [],
-    "comment": "建議修習輔系第一年時選修",
-    "restrict": "◎限本系(含雙主修)、輔系修習",
+    "comment": "",
+    "restrict": "◎限本系(含雙主修)、輔系修習◎限大二大三大四修習",
     "form_s": "2",
-    "classes": "",
+    "classes": "2",
     "dept_group": "",
     "hours": 2,
     "description": "",
@@ -36,7 +38,7 @@
         "To trace the historical development of second language teaching methods from grammar-based curricula to present-day interactive methods",
         "To discuss the practical aspects of teaching English as a foreign/second language"
     ],
-    "syllabus": "【授課方式：16+2週】\n\n**An Introduction to Teaching English as a Foreign language**\n\nInstructor: Dr. Yeu-Ting Liu                                                                         Office: 誠810\n\nE-mail: [yeutingliu@ntnu.edu.tw](mailto:yeutingliu@ntnu.edu.tw)\n\n**Course Description** \n\nThis is a 2-point course designed to introduce you to the fundamental principles underlying second/foreign language acquisition and their implications for language teaching. This course addresses second/foreign language development from an interdisciplinary, multi-dimensional approach. The topics covered revolve around issues on the learners' language and development, internal and external factors affecting second/foreign language acquisition, curriculum and materials development, classroom practices, as well as learner strategies and styles.   \n\n**Required Text**\n\nNunan, D. (2015). _Teaching English to Speakers of Other Language_. New York: Routedge.\n\n**Class Policies:**\n\n*   The course will be conducted in English.  \n*   As a courtesy to me and to your peers, I expect you to come to every class _on time_ with your readings completed and preparedto participate in discussion and group activities. You are allowed to miss one session for justifiable reasons (i.e. illness, family emergencies, or important occasions such as religious holidays, job interviews, or an “extremely important” ball game between _Red Sox_ and _Yankees_). If you have to miss a class session, please notify me as early as possible. Also, it is your responsibility to hand in any assignments on time and to find out what you have missed. Multiple absences may result in an automatic failing grade.\n*   Written and oral assignments must be completed in full and passed in by the scheduled due dates. Late assignment will result in a grade penalty of three points a day. Assignments late for more than one week will NOT be accepted. \n*   Academic honesty is expected at all times. Plagiarism will result in a serious grade penalty and may lead to an automatic failing grade for the course.   \n\n**Grading Criteria**\n\n*   Attendance & in-class participation: 10%\n*   Student-led discussion & quizzes 20%\n*   Midterm project 30%\n*   Final project 30%\n\n**Tentative Schedule** \n\n**Topic**\n\n**Readings** \n\nIntroduction/Orientation\n\nMad about English\n\nDVD viewing session\n\nLanguage Teaching Methodology\n\nChapter 1\n\nLearner-Centered Language Teaching   \n\nChapter 2\n\nListening \n\nChapter 3\n\nSpeaking\n\nChapter 4\n\nReading\n\nChapter 5\n\n**Project Day (彈性授課）**\n\n**Mid-Term Project Presentation**\n\nWriting\n\nChapter 6\n\nPronunciation\n\nChapter 7\n\nVocabulary \n\nChapter 8\n\nGrammar \n\nChapter 9\n\nDiscourse \n\nChapter 10\n\nAn introduction to CLIL\n\nLecture\n\nAn introduction to CLIL\n\nLecture\n\n**Final Project day  （彈性授課）**\n\n**Final Project Presentation**  \n\n**Guidelines for the Final Group (Picture Book) Project**\n\nFor the final project, you will be working with your group members in developing a picture book that fits the spirit, theories, and principles of language teaching and learning for English language learners. The picture book should be at least 15 pages long and no more than 20 pages. The actual number should be based on the completeness of the content. Besides the picture book, you will also hand in a written explanation about the connection between the design of the picture books and the principles, theories, and rationales behind. The explanations should be no more than three pages. The following guidelines are to guide you to develop an interesting picture book based on the theories and principles discussed in class.\n\n1.  **Age level and language proficiency level:** Before developing the picture book, you will need to decide the age level and language proficiency level that the material is intended for. The target audience should be English language learners.\n2.  **Topic and theme:** There is no limitation concerning topics and themes that you can select. It can be either expository or narrative, fiction or non-fiction. The only thing you need to keep in mind is if the topic/theme is adequate for the target age group.\n3.  **Bring in principles and theories:** Before developing the content, review the theories, principles, and concepts discussed in class and in the textbook. Utilize them to develop the content, the picture, and the overall design. \n4.  **Language of the picture book:** It can be monolingual or bilingual depending on the target audience and the purpose of the picture book (ex. language oriented or story oriented).      \n5.  **Text and Picture:** In developing your picture book, make sure that the text and picture **TOGETHER** tell the story and/or deliver the message.\n6.  **Cover and End page:** The completeness of design should also take the cover and end page (even the author’s page) into consideration.\n7.  **Final Product:** You need to hand in two versions of the final product. One hard copy of the picture book (and the explanation). In addition, an electronic version (DVD) of the picture book (excluding explanation).",
+    "syllabus": "課程大綱請見附件  \n[教學進度與主題附件](https://ap.itc.ntnu.edu.tw/NtnuFileShare/file.do?action=dl&gno=3a6c3131161b4346b2f57c7f79201e4b&fno=a68a5d03b9dd48b2a39592cdb5d932cf)",
     "methodologies": [
         {
             "type": "Formal lecture",
@@ -45,21 +47,18 @@
         {
             "type": "Group discussion",
             "note": ""
-        },
-        {
-            "type": "Field work",
-            "note": ""
-        },
-        {
-            "type": "Media, audio, visual materials",
-            "note": ""
         }
     ],
     "grading": [
         {
             "type": "Midterm Exam",
-            "weight": 30,
+            "weight": 25,
             "note": ""
+        },
+        {
+            "type": "Final exam",
+            "weight": 30,
+            "note": "wriitten exam or project"
         },
         {
             "type": "Class discussion involvement",
@@ -68,15 +67,10 @@
         },
         {
             "type": "Presentation",
-            "weight": 20,
-            "note": "Teaching demonstration"
-        },
-        {
-            "type": "other:",
-            "weight": 30,
-            "note": "Final Project on Textbook Evaluation. The project for the first semester is a review of a set of ELT textbooks and analysis of what ELT theories and approaches are applied."
+            "weight": 25,
+            "note": ""
         }
     ],
-    "prerequisite": "◎Exclusive for students within this department(including dual degree program) ◎Exclusive for students taking minor within this department",
+    "prerequisite": "◎Exclusive for students within this department(including dual degree program) ◎Exclusive for students taking minor within this department ◎Exclusive for sophomore, junior, senior",
     "general_core": []
 }

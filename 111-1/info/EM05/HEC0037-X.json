@@ -7,6 +7,8 @@
     ],
     "department": "EM05",
     "code": "HEC0037",
+    "type": "選",
+    "grade": null,
     "credit": 2,
     "serial": 443,
     "group": "",
@@ -39,7 +41,7 @@
         "Students will learn how to perform common statistical analysis in R",
         "Students will learn how to create statistical graphics using the R"
     ],
-    "syllabus": "Week 1\n\nCourse Introduction and an Introduction to R\n\nWeek 2\n\nReading Data and Data Reshaping\n\nWeek 3\n\nWriting R Functions and Control Statements\n\nWeek 4\n\nVariables, Functions, and Data Types\n\nWeek 5\n\nVectors and Strings\n\nWeek 6\n\nData.frame and Lists\n\nWeek 7\n\nMatrices and Arrays\n\nWeek 8\n\nMidterm Exam\n\nWeek 9\n\nSummary Statistics and Correlation Coefficient\n\nWeek 10\n\nT Test and ANOVA\n\nWeek 11\n\nSimple and Multiple Regression\n\nWeek 12\n\nLogistic Regression\n\nWeek 13\n\nAnalyzing Longitudinal Data I\n\nWeek 14\n\nAnalyzing Longitudinal Data II\n\nWeek 15\n\nStatistical Graphics\n\nWeek 16\n\nFinal Exam",
+    "syllabus": "**The prerequisite for this course is Statistics.**\n\nWeek 1\n\nCourse Introduction and an Introduction to R\n\nWeek 2\n\nReading Data and Data Reshaping\n\nWeek 3\n\nWriting R Functions and Control Statements\n\nWeek 4\n\nVariables, Functions, and Data Types\n\nWeek 5\n\nVectors and Strings\n\nWeek 6\n\nData.frame and Lists\n\nWeek 7\n\nMatrices and Arrays\n\nWeek 8\n\nMidterm Exam\n\nWeek 9\n\nSummary Statistics and Correlation Coefficient\n\nWeek 10\n\nT Test and ANOVA\n\nWeek 11\n\nSimple and Multiple Regression\n\nWeek 12\n\nLogistic Regression\n\nWeek 13\n\nAnalyzing Longitudinal Data I\n\nWeek 14\n\nAnalyzing Longitudinal Data II\n\nWeek 15\n\nStatistical Graphics\n\nWeek 16\n\nFinal Exam",
     "methodologies": [
         {
             "type": "Formal lecture",

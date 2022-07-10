@@ -7,6 +7,8 @@
     ],
     "department": "AM32",
     "code": "FPM0021",
+    "type": "必",
+    "grade": null,
     "credit": 2,
     "serial": 54,
     "group": "",
@@ -69,23 +71,23 @@
     "grading": [
         {
             "type": "期中考",
-            "weight": 30,
-            "note": ""
+            "weight": 20,
+            "note": "有氧體能訓練知能"
         },
         {
             "type": "期末考",
-            "weight": 40,
-            "note": ""
+            "weight": 20,
+            "note": "無氧體能訓練知能"
         },
         {
             "type": "課堂討論參與",
-            "weight": 15,
-            "note": ""
+            "weight": 30,
+            "note": "肌力爆發力訓練知能"
         },
         {
             "type": "出席",
-            "weight": 15,
-            "note": ""
+            "weight": 30,
+            "note": "出席率與學習態度"
         }
     ],
     "prerequisite": "",

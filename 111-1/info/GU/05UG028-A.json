@@ -7,6 +7,8 @@
     ],
     "department": "GU",
     "code": "05UG028",
+    "type": "通",
+    "grade": null,
     "credit": 2,
     "serial": 993,
     "group": "A",
@@ -38,7 +40,7 @@
         "能與多人共同合作，整合、規畫與開發數據分析應用，以解決學科領域問題。",
         "能結合數據分析與其他工具應用，製作符合大數據分析之專業需求與自動化作業。"
     ],
-    "syllabus": "本校「邏輯運算」領域之通識課程分為「基礎知能」、「資訊技術」和「跨域整合」三大類，本課程屬於「跨域整合」類。邏輯運算領域之課程簡介一覽表請參見：「邏輯與程式教育組 / 課程介紹」。本課程講授如何運用Excel軟體、資料庫軟體、Google 試算表及PowerBI等工具來進行數據資料的彙集、處理、分析與探勘，並使用Excel函式及VBA程式設計來達到自動化作業之需求。【授課方式：16週】Topic 1 認識數據分析應用Week.1.課程介紹、修課須知、環境介紹Week.2.認識數據是什麼，數據與資料的結構與處理的方法Topic 2 資料的蒐集與整理Week.3.資料蒐集與擷取(外部資料提取與匯入方法)Week.4.資料清理與整理(篩選及除錯)Week.5.資料載入與儲存(資料正規化的儲存)Week.6.資料輸入品質控制的VBA FormTopic 3 資料分析與探勘Week.7.初級資料分析方法(樞紐分析)Week.8.多維度資料分析方法(PowerPivot)-1Week.9.多維度資料分析方法(PowerPivot)-2Topic 4 資料視覺化與進階應用Week.10.進階資料萃取Week.11.資料深度探勘Week.12.圖表的應用與詮釋Week.13.地理空間的數據呈現(PowerMap)Week.14.商業智慧的視覺化圖表工具(PowerBI)Topic5 成果分享Week.15.分組報告Week.16.成果驗收與總結",
+    "syllabus": "本校「邏輯運算」領域之通識課程分為「基礎知能」、「資訊技術」和「跨域整合」三大類，本課程屬於「跨域整合」類。  \n邏輯運算領域之課程簡介一覽表請參見：「[邏輯與程式教育組 / 課程介紹](http://www.aa.ntnu.edu.tw/8intro/super_pages.php?ID=6intro76&Sn=259)」。\n\n本課程講授如何運用Excel軟體、資料庫軟體、Google 試算表及PowerBI等工具來進行數據資料的彙集、處理、分析與探勘，並使用Excel函式及VBA程式設計來達到自動化作業之需求。\n\n※注意：本課程將教學MS Excel, PowerPivot, PowerMap及PowerBI Desktop  \n課程將使用Windows版Excel 2019為主要教學、作業及測驗之用  \n請選課同學務必確認有純Windows環境之Excel 2019，才能完整使用全功能部分課程作業與測驗  \nMac版本之Excel及Windows Excel 2016之前的版本可能無法實作，請同學注意！※\n\n**【授課方式：16週】**\n\n*   Topic 1 認識數據分析應用\n    *   Week.1.課程介紹、修課須知、環境介紹\n    *   Week.2.認識數據是什麼，數據與資料的結構與處理的方法\n*   Topic 2 資料的蒐集與整理\n    *   Week.3.資料蒐集與擷取(外部資料提取與匯入方法)\n    *   Week.4.資料清理與整理(篩選及除錯)\n    *   Week.5.資料載入與儲存(資料正規化的儲存)\n    *   Week.6.資料輸入品質控制的VBA Form\n*   Topic 3 資料分析與探勘\n    *   Week.7.初級資料分析方法(樞紐分析)\n    *   Week.8.多維度資料分析方法(PowerPivot)-1\n    *   Week.9.多維度資料分析方法(PowerPivot)-2\n*   Topic 4 資料視覺化與進階應用\n    *   Week.10.進階資料萃取\n    *   Week.11.資料深度探勘\n    *   Week.12.圖表的應用與詮釋\n    *   Week.13.地理空間的數據呈現(PowerMap)\n    *   Week.14.商業智慧的視覺化圖表工具(PowerBI)\n*   Topic5 成果分享\n    *   Week.15.分組報告\n    *   Week.16.成果驗收與總結",
     "methodologies": [
         {
             "type": "講述法",

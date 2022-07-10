@@ -3,10 +3,12 @@
     "term": 1,
     "name": "體育（肌力與體能訓練初級）",
     "teachers": [
-        "未定"
+        "陳昀宗"
     ],
     "department": "PE",
     "code": "00UP040",
+    "type": "必",
+    "grade": null,
     "credit": 1,
     "serial": 2523,
     "group": "A",
@@ -37,18 +39,36 @@
         "享受參與訓練帶來的好處與樂趣",
         "養成規律訓練的習慣與改善生活品質"
     ],
-    "syllabus": "",
+    "syllabus": "  \n[教學進度與主題附件](https://ap.itc.ntnu.edu.tw/NtnuFileShare/file.do?action=dl&gno=8340c372a6e74323ba9ce9415391109a&fno=f0b28a830217481e8fdee9b304e7e2e7)",
     "methodologies": [
         {
-            "type": "",
-            "note": ""
+            "type": "講述法",
+            "note": "教師動作講解與示範"
+        },
+        {
+            "type": "合作學習",
+            "note": "團隊合作與溝通、小組學習與討論"
+        },
+        {
+            "type": "實驗/實作",
+            "note": "小組最大肌力評估與重量訓練"
         }
     ],
     "grading": [
         {
-            "type": "",
-            "weight": null,
+            "type": "期末考",
+            "weight": 35,
+            "note": "運動處方15%、器材操作20%"
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 10,
             "note": ""
+        },
+        {
+            "type": "出席",
+            "weight": 55,
+            "note": "服裝整齊、準時出席"
         }
     ],
     "prerequisite": "",

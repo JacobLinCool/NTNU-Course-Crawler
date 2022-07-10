@@ -3,10 +3,12 @@
     "term": 1,
     "name": "英文（一）",
     "teachers": [
-        "未定"
+        "彭家洋"
     ],
     "department": "CU",
     "code": "00UB7A3",
+    "type": "必",
+    "grade": null,
     "credit": 2,
     "serial": 265,
     "group": "F",
@@ -38,18 +40,59 @@
         "透過課堂討論培養批判精神",
         "提升學生英語學習動機及自主學習興趣"
     ],
-    "syllabus": "",
+    "syllabus": "Week\n\nDate\n\nCourse Topics and Contents\n\n1\n\n9/24 (Fri.)\n\n**Course Introduction**\n\nGrouping (2~3 members in a group)\n\nQuality Talk\n\nLexile Reading Project: Online reading\n\nIce-breaking Activity\n\n2\n\n10/1 (Fri.)\n\n**Unit 1  Embrace Stress!**\n\nLesson A  Dealing with stress (pp. 13-15)\n\nLesson B  High- and low-stress jobs (pp. 16-17)\n\n3\n\n10/8 (Fri.)\n\n**Unit 1  Embrace Stress!**\n\nLesson C  The stressed-out generation (pp. 18-20)\n\nQuality Talk (Group Discussion / Presentation)\n\n4\n\n10/15 (Fri.)\n\n**Unit 1  Embrace Stress!**\n\nLesson D  How to make stress your friend (pp. 21-23)\n\nQuality Talk (Group Discussion / Presentation)\n\n5\n\n10/22 (Fri.)\n\n**Unit 2  Media Influences**\n\nLesson A  At the movies (pp. 25-27)\n\nLesson B  Media and the mind (pp. 28-29)\n\n6\n\n10/29 (Fri.)\n\n**Unit 2  Media Influences**\n\nLesson C  Are superheroes good role models? (pp. 30-32)\n\nQuality Talk (Group Discussion / Presentation)\n\n7\n\n11/5 (Fri.)\n\n**Unit 2  Media Influences**\n\nLesson D  How movies teach manhood (pp. 33-35)\n\nQuality Talk (Group Discussion / Presentation)\n\n8\n\n11/12 (Fri.)\n\n**Midterm**\n\n**Book Talk**\n\n9\n\n11/19 (Fri.)\n\n**Unit 3  Development**\n\nLesson A  Aspirations (pp. 37-39)\n\nLesson B  The next economic giant (pp. 40-41)\n\n10\n\n11/26 (Fri.)\n\n**Unit 3  Development**\n\nLesson C  The economics of happiness (pp. 42-44)\n\nQuality Talk (Group Discussion / Presentation)\n\n11\n\n12/3 (Fri.)\n\n**Unit 3  Development**\n\nLesson D  Global population growth, box by box (pp. 45-47)\n\nQuality Talk (Group Discussion / Presentation)\n\n12\n\n12/10 (Fri.)\n\n**Sports Day (No Class)**\n\n13\n\n12/17 (Fri.)\n\n**Unit 4  Secrets and Lies**\n\nLesson A  Truth and lies (pp. 51-53)\n\nLesson B  Truth, lies, and pictures (pp. 54-55)\n\n14\n\n12/24 (Fri.)\n\n**Unit 4  Secrets and Lies**\n\nLesson C  Lies we need to tell (pp. 56-58)\n\nQuality Talk (Group Discussion / Presentation)\n\n15\n\n12/31 (Fri.)\n\n**National Holiday (No Class)**\n\n16\n\n1/7 (Fri.)\n\n**Unit 4  Secrets and Lies**\n\nLesson D  How to spot a liar (pp. 59-61)\n\nQuality Talk (Group Discussion / Presentation)\n\n17\n\n1/14 (Fri.)\n\n**Show and Tell**\n\n18\n\n1/21 (Fri.)\n\n**Final Exam**",
     "methodologies": [
         {
-            "type": "",
-            "note": ""
+            "type": "講述法",
+            "note": "lecture, vocabulary and grammar explanation"
+        },
+        {
+            "type": "討論法",
+            "note": "group discussion, quality talk"
+        },
+        {
+            "type": "問題解決教學",
+            "note": "work on proposed questions"
+        },
+        {
+            "type": "合作學習",
+            "note": "teamwork, cooperative learning"
+        },
+        {
+            "type": "媒體融入教學",
+            "note": "audio listening, video watching"
         }
     ],
     "grading": [
         {
-            "type": "",
-            "weight": null,
-            "note": ""
+            "type": "期中考",
+            "weight": 20,
+            "note": "You have to make a poster or PPTs to present main ideas from the books you read."
+        },
+        {
+            "type": "期末考",
+            "weight": 10,
+            "note": "You have to take a written exam which tests the vocabulary and grammar from the texts covered in the class."
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 20,
+            "note": "You have to join group discussion with your partners and share your ideas with others."
+        },
+        {
+            "type": "出席",
+            "weight": 20,
+            "note": "If you have to miss a class, please email me in advance. If you miss more than 4 sessions, you will fail the class."
+        },
+        {
+            "type": "報告",
+            "weight": 20,
+            "note": "You have to present a book you read with visual aids, like a poster, PPTs or photos."
+        },
+        {
+            "type": "其他",
+            "weight": 10,
+            "note": "You have to take the Lexile Test after you read a book from the Scholastic Literacy Pro, an online reading website."
         }
     ],
     "prerequisite": "",

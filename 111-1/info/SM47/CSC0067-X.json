@@ -3,10 +3,12 @@
     "term": 1,
     "name": "通訊網路專論（一）",
     "teachers": [
-        "未定"
+        "陳俊祥"
     ],
     "department": "SM47",
     "code": "CSC0067",
+    "type": "選",
+    "grade": null,
     "credit": 3,
     "serial": 2761,
     "group": "",
@@ -37,18 +39,41 @@
         "建立學生專業領域知識",
         "了解當前相關科技之進展"
     ],
-    "syllabus": "",
+    "syllabus": "(16+2週): 最後兩週是否在課堂上課，視進度而定，可能彈性網路視訊討論。\n\n**主題：以資訊安全建構可信互聯網**\n\n**摘要：**\n\n資訊和互連技術的探索和發展已經過去了幾十年。有線和無線通信構建了網路世界，就像地球的經緯度，甚至走向了浩瀚無垠的元宇宙。\n\n然而，網絡威脅也緊隨其後並呈幾何級數上升。因此，本課程不僅會涵蓋典型的安全問題，還會涵蓋信任問題，包括數據治理、流程論證、溯源、影響評估等。所有這些似乎都離資訊安全很遠。但是，機密性、完整性、可用性這三個老夥伴，依然可以通過現代資訊架構和平台緊密合作，讓每一個明天都呈靜美。\n\nIt has been decades that information and interconnection technologies were explored and developed. Wired and wireless communication have built the cyber world just like the latitude and longitude to the earth, and even go toward the boundless metaverse. \n\nHowever, the cyber threats also follow closely and rise geometrically. Therefore, the course will cover not only the typical security issues but also the trust issues, including data governing, process justification, source tracing, impact evaluation, and so forth. All these seem to be far from information security. However, the three good old fellows, i.e., confidentiality, integrity, and availability, can still work closely via modern information architecture and platform to make every tomorrow peaceful and wonderful. \n\n**內容及進度：**\n\n1.  網路安全架構 (Security Architectures) (Week 1-2)\n2.  新興網路安全課題 (Modern Network Security Issues) (Week 3-4)\n3.  可信與安全的關係及差異 (The relation and difference between being secured and trusted) (Week 5-6)\n4.  區塊鏈平臺及技術 (Blockchain platform and technologies) (Week 7-8)\n5.  期中考/期中報告 (Mid-term Exam/Presentation)\n6.  雲端運算與區塊鏈的整合 (Integration of Cloud Computing and Blockchain) (Week 9)\n7.  區塊鏈，權證及商業模式 (Blockchain, token, and biz models) (Week 10-11)\n8.  智能合約延伸的商業策略 (Smart contract and biz strategy) (Week 12-13)\n9.  應用案例 (Case study) (Week 13-17)\n10.  期末考/期末報告 (Final Exam/Presentation) (Week 18)",
     "methodologies": [
         {
-            "type": "",
-            "note": ""
+            "type": "講述法",
+            "note": "多來源材料"
+        },
+        {
+            "type": "討論法",
+            "note": "穿插開放式議題討論"
+        },
+        {
+            "type": "問題解決教學",
+            "note": "對關鍵議題進行重要文獻研討"
         }
     ],
     "grading": [
         {
-            "type": "",
-            "weight": null,
+            "type": "作業",
+            "weight": 20,
             "note": ""
+        },
+        {
+            "type": "期中考",
+            "weight": 30,
+            "note": "open book"
+        },
+        {
+            "type": "期末考",
+            "weight": 40,
+            "note": "open book"
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 10,
+            "note": "open discussion"
         }
     ],
     "prerequisite": "",

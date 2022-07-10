@@ -8,20 +8,22 @@
     ],
     "department": "EU07",
     "code": "CEU0370",
+    "type": "必",
+    "grade": 1,
     "credit": 2,
-    "serial": 818,
+    "serial": 814,
     "group": "",
     "quota": {
         "limit": 50,
-        "additional": 10
+        "additional": 0
     },
     "schedule": [
         {
             "day": 2,
-            "from": 6,
-            "to": 7,
+            "from": 3,
+            "to": 4,
             "campus": "本部",
-            "classroom": "綜210展覽廳"
+            "classroom": "誠大樓公團部"
         }
     ],
     "programs": [
@@ -30,7 +32,7 @@
     "comment": "",
     "restrict": "◎限大一修習",
     "form_s": "1",
-    "classes": "2",
+    "classes": "1",
     "dept_group": "",
     "hours": 2,
     "description": "瞭解領導的意義及影響領導行為的因素，學習領導理論與領導技巧，並能學習建構個人正確的領導觀並培養領導能力。",

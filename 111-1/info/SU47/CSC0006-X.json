@@ -3,10 +3,12 @@
     "term": 1,
     "name": "網路計算與XML",
     "teachers": [
-        "未定"
+        "葉耀明"
     ],
     "department": "SU47",
     "code": "CSC0006",
+    "type": "選",
+    "grade": null,
     "credit": 3,
     "serial": 3037,
     "group": "",
@@ -37,18 +39,32 @@
         "瞭解Web國際標準",
         "建立透過網路收集Web新知的能力"
     ],
-    "syllabus": "",
+    "syllabus": "本課程在探討XML技術和Web網路計算相關的技術和實作。課程內容包括：\n\n1.  XML概念\n\n•   XML家族：URI、Namespace\n\n2.      XML靜態網頁技術：XML語法、XSL語言、\n\nHW1: XML靜態網頁網站 Due: 11/28\n\n    Part1:\n\n    Part2: HTML5: 12/6\n\n3.      XML動態網頁技術：DTD、XMLSchema, DOM、 Java DOM、 .NET DOM、\n\nHW2: XML動態網頁: 產生XML文件 Due:12/6,  \n\n4.      XML資訊系統技術：XQuery,XFORMs,XML&RDB Transform\n\nHW3: XML資訊系統: Due:1/17,\n\n\\---------------------------------------------\n\n5.      XML 動態網頁技術應用: VoiceXML, SVG, SMIL, SCORM,…\n\n6.      Web Services技術：分散式計算新平台、SOAP, UDDI, WSDL\n\nHW3: 程式間送SOAP訊息\n\n7.      XML原生資料庫(eXist)\n\n8.      Registry/Repository技術\n\n9.      Web Services應用",
     "methodologies": [
         {
-            "type": "",
-            "note": ""
+            "type": "講述法",
+            "note": "課堂講授"
+        },
+        {
+            "type": "實驗/實作",
+            "note": "學生實作系統作業"
         }
     ],
     "grading": [
         {
-            "type": "",
-            "weight": null,
-            "note": ""
+            "type": "作業",
+            "weight": 50,
+            "note": "開發XML 網站作業"
+        },
+        {
+            "type": "期末考",
+            "weight": 30,
+            "note": "測驗XML與Web系統基本概念"
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 20,
+            "note": "討論Web系統未來趨勢"
         }
     ],
     "prerequisite": "",

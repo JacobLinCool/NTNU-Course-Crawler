@@ -3,10 +3,12 @@
     "term": 1,
     "name": "科技倫理",
     "teachers": [
-        "未定"
+        "劉啟民"
     ],
     "department": "GU",
     "code": "05UG011",
+    "type": "通",
+    "grade": null,
     "credit": 2,
     "serial": 966,
     "group": "A",
@@ -24,7 +26,7 @@
         }
     ],
     "programs": [],
-    "comment": "劉啟民",
+    "comment": "",
     "restrict": "",
     "form_s": "",
     "classes": "",
@@ -37,18 +39,40 @@
         "培育學生具備培養倫理與民主的現代公民素養",
         "合作、討論及分析各類倫理衝突問題，並尋求共識及解決之道"
     ],
-    "syllabus": "",
+    "syllabus": "  \n[教學進度與主題附件](https://ap.itc.ntnu.edu.tw/NtnuFileShare/file.do?action=dl&gno=717cd2ed4a634a90819587779a7b29e7&fno=47155fbb60874b89bb42e29f1a392061)",
     "methodologies": [
         {
-            "type": "",
-            "note": ""
+            "type": "講述法",
+            "note": "以投影片講述，並以自編講義輔助學習"
+        },
+        {
+            "type": "討論法",
+            "note": "以四至五人為一組，進行分組討論"
+        },
+        {
+            "type": "專題研究",
+            "note": "期末報告"
+        },
+        {
+            "type": "其他",
+            "note": "世界咖啡館; FishBanks桌遊; 推力案例設計"
         }
     ],
     "grading": [
         {
-            "type": "",
-            "weight": null,
+            "type": "期中考",
+            "weight": 40,
             "note": ""
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 20,
+            "note": "課堂案例討論 ; 世界咖啡館 ; 推力案例設計 ; 學術倫理討論"
+        },
+        {
+            "type": "成果展覽",
+            "weight": 40,
+            "note": "期末分組海報展示及報告"
         }
     ],
     "prerequisite": "",

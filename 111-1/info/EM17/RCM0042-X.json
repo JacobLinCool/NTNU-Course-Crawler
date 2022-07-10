@@ -7,6 +7,8 @@
     ],
     "department": "EM17",
     "code": "RCM0042",
+    "type": "選",
+    "grade": null,
     "credit": 3,
     "serial": 523,
     "group": "",
@@ -37,7 +39,7 @@
         "學會身心障礙者生涯諮商與就業安置服務之模式、程序、需求評估、策略、工具 models, strategies, tools, and process of career counseling and employment services for persons with disability",
         "為身心障礙者平等就業機會倡議 Advocacy of equal employment opportunities for persons with disabilities"
     ],
-    "syllabus": "  \n[教學進度與主題附件](https://ap.itc.ntnu.edu.tw/NtnuFileShare/file.do?action=dl&gno=b1de4aaf71ea49bd90910f26b41931dd&fno=0c6d630d4e5348e7bc604c00a6764fc5)",
+    "syllabus": "  \n \n\n  \n[教學進度與主題附件](https://ap.itc.ntnu.edu.tw/NtnuFileShare/file.do?action=dl&gno=d75af293748948e480ce00beafc38f55&fno=f64e5ceeb4a94e16846aeb1ed7518a23)",
     "methodologies": [
         {
             "type": "講述法",
@@ -52,16 +54,8 @@
             "note": "針對相關議題或個案進行問題解決之思維、規劃、資源運用與策略研擬討論與報告"
         },
         {
-            "type": "合作學習",
-            "note": "針對相關議題或個案分組，依興趣或實務經驗進行資料蒐集及討論與報告。"
-        },
-        {
             "type": "實驗/實作",
             "note": "針對相關議題或個案分組，依興趣或實務經驗進行實作經討論與報告。"
-        },
-        {
-            "type": "實地考察、參訪",
-            "note": "針對相關議題或個案，進行實地考察或參訪蒐集資料，彙整想與討論"
         },
         {
             "type": "媒體融入教學",
@@ -78,29 +72,19 @@
     ],
     "grading": [
         {
-            "type": "作業",
-            "weight": 20,
-            "note": "期末書面報告"
-        },
-        {
             "type": "課堂討論參與",
-            "weight": 20,
+            "weight": 30,
             "note": "針對相關議題或個案分組或個別之專題報告，參與討論或實務經驗分享。"
         },
         {
             "type": "報告",
-            "weight": 20,
-            "note": "課堂口頭報告"
+            "weight": 40,
+            "note": "工作機會開發期刊閱讀與報告，當天報告並繳交書面文字檔"
         },
         {
             "type": "成果展覽",
-            "weight": 20,
+            "weight": 30,
             "note": "期末報告"
-        },
-        {
-            "type": "其他",
-            "weight": 20,
-            "note": "參訪心得報告（書面）"
         }
     ],
     "prerequisite": "",

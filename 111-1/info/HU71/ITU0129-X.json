@@ -3,10 +3,12 @@
     "term": 1,
     "name": "作業系統",
     "teachers": [
-        "未定"
+        "李啟龍"
     ],
     "department": "HU71",
     "code": "ITU0129",
+    "type": "選",
+    "grade": 2,
     "credit": 3,
     "serial": 1217,
     "group": "",
@@ -35,17 +37,40 @@
         "介紹作業系統的原則及運作",
         "介紹作業系統中各重要單元及其作業方式"
     ],
-    "syllabus": "",
+    "syllabus": "1\\. Introduction\n\n2\\. Operating-System Structures\n\n3\\. Processes\n\n4\\. CPU Scheduling\n\n5\\. Process Synchronization\n\n6\\. Process Synchronization\n\n7\\. Process Synchronization\n\n8\\. Minterm Exam\n\n9\\. Deadlocks\n\n10\\. Deadlocks\n\n11\\. Memory Management\n\n12\\. Virtual Memory\n\n13\\. Virtual Memory\n\n14\\. File-System Interface/Implementation\n\n15\\. I/O Systems\n\n16\\. Secondary-Storage Structure\n\n17\\. Disk Scheduling\n\n18\\. Final Exam",
     "methodologies": [
         {
-            "type": "",
-            "note": ""
+            "type": "講述法",
+            "note": "說明作業系統各重要單元的運作原理"
+        },
+        {
+            "type": "問題解決教學",
+            "note": "運用問題解決方式進行引導式教學"
+        },
+        {
+            "type": "合作學習",
+            "note": "以小組方式進行作業系統簡報"
         }
     ],
     "grading": [
         {
-            "type": "",
-            "weight": null,
+            "type": "作業",
+            "weight": 10,
+            "note": ""
+        },
+        {
+            "type": "期中考",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 40,
+            "note": ""
+        },
+        {
+            "type": "報告",
+            "weight": 20,
             "note": ""
         }
     ],

@@ -7,6 +7,8 @@
     ],
     "department": "IM83",
     "code": "EAC8044",
+    "type": "選",
+    "grade": null,
     "credit": 3,
     "serial": 1371,
     "group": "",
@@ -34,18 +36,32 @@
     "goals": [
         ""
     ],
-    "syllabus": "",
+    "syllabus": "Ｗ1: Introduction: IR theories and American foreign policy\n\n**(Section I: Explaining American Foreign Policymaking)**\n\nW2: The rise and development of US hegemonic power\n\nW3: The process and pattern of American foreign policy\n\nW4: Domestic sources of American foreign policy I\n\nW5: Domestic sources of American foreign policy II\n\nW6: Instruments of American foreign policy\n\nW7: Midterm Presentation\n\n**(Section II: American Foreign Policy during the Cold War Era)**\n\nW8: Changes and continuity in American foreign policy I\n\nW9: Changes and continuity in American foreign policy II\n\nW10: US-European relations\n\nＷ11: US-Asia relations\n\nW12: The end of the Cold War and American foreign policy shifts I\n\nW13: The end of the Cold War and American foreign policy shifts II)\n\n**(Section III: American Foreign Policy in the 21st Centurty)**\n\nＷ14: American foreign policy challenges in the 21st century\n\nW15: The rise of China and the escalation of US-China competition\n\nW16: Term paper",
     "methodologies": [
         {
-            "type": "",
+            "type": "Group discussion",
+            "note": ""
+        },
+        {
+            "type": "Case studies",
             "note": ""
         }
     ],
     "grading": [
         {
-            "type": "",
-            "weight": null,
-            "note": ""
+            "type": "Class discussion involvement",
+            "weight": 15,
+            "note": "含課堂參與積極度"
+        },
+        {
+            "type": "Presentation",
+            "weight": 65,
+            "note": "期中小組報告 (30%)、期末個人報告 (35%)"
+        },
+        {
+            "type": "other:",
+            "weight": 20,
+            "note": "導讀表現"
         }
     ],
     "prerequisite": "◎Unavailable for M.A. program students (M.A. program courses excepted) and B.A. program students.",

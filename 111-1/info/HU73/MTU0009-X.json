@@ -7,28 +7,30 @@
     ],
     "department": "HU73",
     "code": "MTU0009",
+    "type": "必",
+    "grade": 2,
     "credit": 3,
-    "serial": 1282,
+    "serial": 1299,
     "group": "",
     "quota": {
-        "limit": 60,
+        "limit": 50,
         "additional": 10
     },
     "schedule": [
         {
-            "day": 2,
+            "day": 6,
             "from": 2,
             "to": 4,
             "campus": "本部",
-            "classroom": "誠108"
+            "classroom": "工501"
         }
     ],
     "programs": [],
     "comment": "",
-    "restrict": "◎限本系(含雙主修)修習◎必須先修過【MAU0181  微積分乙（二）】",
+    "restrict": "◎限本系(含雙主修)修習◎限機電系（學）「智能鑄造產學攜手專班」選修◎必須先修過【MAU0181  微積分乙（二）】",
     "form_s": "2",
     "classes": "",
-    "dept_group": "A",
+    "dept_group": "B",
     "hours": 3,
     "description": "本科目旨在協助學生瞭解工程數學之基本原理、運算技巧及其在工程上之實際應用。課程範圍涵蓋一階常微分方程式、二階及高階線性微分方程式、微分方程式系統、微分方程式之級數解、Laplace轉換與解ODE問題等單元。",
     "goals": [

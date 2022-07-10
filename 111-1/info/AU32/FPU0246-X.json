@@ -7,6 +7,8 @@
     ],
     "department": "AU32",
     "code": "FPU0246",
+    "type": "選",
+    "grade": 3,
     "credit": 1,
     "serial": 180,
     "group": "",
@@ -37,31 +39,35 @@
         "享受參與網球運動之樂趣及發展性。",
         "瞭解網球運動之特性，並運用相關學科來熟練單雙打比賽 之練習。"
     ],
-    "syllabus": "Play to learn not learn to play\n\n1,正拍對打:跟過去教學不同，直接從正拍對打開始\n\n2.能夠很快進入對打和比賽，學習團隊競賽\n\n3透過打比賽，直接深刻了解規則",
+    "syllabus": "**Class Schedule****（****tentative, 16** **）****:**\n\n**W1 Course description , Rules , Ball feeling**  \n\n**W2 Mini Tennis , Feeding**   \n\n**W3 Forehand Groundstroke** \n\n**W4 Backhand Groundstroke** \n\n**W5 Different rhythm groundstroke** \n\n**W6 Volley & Smash** \n\n**W7 Toss & Serve swing**  \n\n**W8 Serve** \n\n**W9 Hit the wall practice** \n\n**W10 Groundstroke rally without net** \n\n**W11 Matches rules** \n\n**W12 Doubles drilles (devil game)**\n\n**W13 Doubles matches** \n\n**W14 Doubles matches**\n\n**W15 Findal exam** \n\n**W16 Singles matches**",
     "methodologies": [
         {
             "type": "講述法",
             "note": ""
         },
         {
+            "type": "合作學習",
+            "note": "tennis can't hit by yourself always group in course :hit , feed , pick , look"
+        },
+        {
             "type": "實驗/實作",
-            "note": "刻意不將操作說明清楚，讓學生透過實作發現問題，解決問題"
+            "note": "Play match"
         }
     ],
     "grading": [
         {
             "type": "期末考",
-            "weight": 40,
+            "weight": 20,
+            "note": ""
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 20,
             "note": ""
         },
         {
             "type": "出席",
-            "weight": 30,
-            "note": ""
-        },
-        {
-            "type": "報告",
-            "weight": 30,
+            "weight": 60,
             "note": ""
         }
     ],

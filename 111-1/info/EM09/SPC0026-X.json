@@ -3,10 +3,12 @@
     "term": 1,
     "name": "身心障礙者生涯輔導",
     "teachers": [
-        "未定"
+        "趙本強"
     ],
     "department": "EM09",
     "code": "SPC0026",
+    "type": "選",
+    "grade": null,
     "credit": 2,
     "serial": 498,
     "group": "",
@@ -24,7 +26,7 @@
         }
     ],
     "programs": [],
-    "comment": "授課教師：趙本強。",
+    "comment": "",
     "restrict": "◎課程開放上修",
     "form_s": "",
     "classes": "8",
@@ -37,18 +39,36 @@
         "瞭解生涯輔導與轉銜實施方式與相關配合措施",
         "探討當前身心障礙者生涯與轉銜相關課題與趨勢"
     ],
-    "syllabus": "",
+    "syllabus": "1.生涯基本理念  \n2.生涯輔導理論基礎  \n3.生涯輔導運作模式  \n4.生涯輔導與轉銜評量  \n5.生涯輔導課程與教學  \n6.支持性就業與職務再設計  \n7.生涯輔導相關資源配合措施  \n8.生涯輔導與轉銜制度",
     "methodologies": [
         {
-            "type": "",
+            "type": "講述法",
             "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": ""
+        },
+        {
+            "type": "其他",
+            "note": "研讀資料、報告"
         }
     ],
     "grading": [
         {
-            "type": "",
-            "weight": null,
+            "type": "期末考",
+            "weight": 30,
             "note": ""
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 20,
+            "note": ""
+        },
+        {
+            "type": "報告",
+            "weight": 50,
+            "note": "專題報告20%及口頭報告10％、閱讀報告20％"
         }
     ],
     "prerequisite": "",

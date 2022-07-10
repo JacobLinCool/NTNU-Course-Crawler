@@ -3,10 +3,12 @@
     "term": 1,
     "name": "運動專長術科：跆拳道品勢",
     "teachers": [
-        "未定"
+        "黃珮昀"
     ],
     "department": "AU32",
     "code": "FPU0353",
+    "type": "必",
+    "grade": null,
     "credit": 4,
     "serial": 146,
     "group": "",
@@ -58,18 +60,35 @@
         "Understanding Beginner Taekwondo Pinsei Terminology",
         "Learn the movement skills of Beginner Taekwondo Pinsei"
     ],
-    "syllabus": "",
+    "syllabus": "first week\n\nRecognized Poomsae\n\nsecond week\n\nFree style Poomsae\n\nfourth week\n\nRecognized Poomsae\n\nfourth week\n\nFree style Poomsae\n\nfifth week\n\nRecognized Poomsae\n\nsixth week\n\nFree style Poomsae\n\nseventh week\n\nRecognized Poomsae\n\neighth week\n\nFree style Poomsae\n\nninth week\n\nRecognized Poomsae\n\ntenth week\n\nFree style Poomsae\n\neleventh week\n\nRecognized Poomsae\n\ntwelfth week\n\nFree style Poomsae\n\nthirteenth week\n\nRecognized Poomsae\n\nfourteenth week\n\nFree style Poomsae\n\nsixteenth week\n\nRecognized Poomsae\n\nseventeenth week\n\nFree style Poomsae\n\nSelf-learning \n\nSelf-learning",
     "methodologies": [
         {
-            "type": "",
-            "note": ""
+            "type": "Formal lecture",
+            "note": "Tell the taekwondo training rules."
+        },
+        {
+            "type": "Group discussion",
+            "note": "Discuss training thoughts or benefits and drawbacks by training diary"
+        },
+        {
+            "type": "Cooperative learning",
+            "note": "To take part in sports performance."
+        },
+        {
+            "type": "Lab/Studio",
+            "note": "To participate in national taekwondo competition."
         }
     ],
     "grading": [
         {
-            "type": "",
-            "weight": null,
-            "note": ""
+            "type": "Final exam",
+            "weight": 40,
+            "note": "This semester participate in competition results."
+        },
+        {
+            "type": "Attendances",
+            "weight": 60,
+            "note": "Attendance rate"
         }
     ],
     "prerequisite": "The course can be retaken",

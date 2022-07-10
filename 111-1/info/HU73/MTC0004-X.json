@@ -3,10 +3,12 @@
     "term": 1,
     "name": "有限元素分析",
     "teachers": [
-        "未定"
+        "陳延昌"
     ],
     "department": "HU73",
     "code": "MTC0004",
+    "type": "選",
+    "grade": null,
     "credit": 3,
     "serial": 1261,
     "group": "",
@@ -16,16 +18,16 @@
     },
     "schedule": [
         {
-            "day": 1,
+            "day": 3,
             "from": 10,
             "to": 12,
             "campus": "本部",
-            "classroom": "CAD/CAM"
+            "classroom": "綜1001"
         }
     ],
     "programs": [],
     "comment": "",
-    "restrict": "",
+    "restrict": "◎必須先修過【MTU0026  材料力學】、【MTU0098  靜力學】",
     "form_s": "",
     "classes": "9",
     "dept_group": "",
@@ -51,6 +53,6 @@
             "note": ""
         }
     ],
-    "prerequisite": "",
+    "prerequisite": "◎必須先修過【MTU0026  材料力學】、【MTU0098  靜力學】",
     "general_core": []
 }

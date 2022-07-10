@@ -2,12 +2,54 @@
     {
         "year": 111,
         "term": 1,
+        "name": "高行健的文學與藝術",
+        "teachers": [
+            "石曉楓",
+            "李志宏",
+            "蘇子中",
+            "陳登武",
+            "白適銘",
+            "梁志民",
+            "吳義芳"
+        ],
+        "department": "L",
+        "code": "L0C9006",
+        "type": "選",
+        "grade": null,
+        "credit": 2,
+        "serial": 1581,
+        "group": "",
+        "quota": {
+            "limit": 80,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 3,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "教201演講廳"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "",
+        "form_s": "",
+        "classes": "9",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
         "name": "臺灣近現代海洋史研究",
         "teachers": [
-            "未定"
+            "陳宗仁"
         ],
         "department": "LM27",
         "code": "THM0004",
+        "type": "選",
+        "grade": null,
         "credit": 2,
         "serial": 1694,
         "group": "",
@@ -34,12 +76,48 @@
     {
         "year": 111,
         "term": 1,
-        "name": "荷蘭、西班牙時代臺灣史研究",
+        "name": "日文臺灣史論著選讀",
         "teachers": [
             "未定"
         ],
         "department": "LM27",
+        "code": "THM0012",
+        "type": "選",
+        "grade": null,
+        "credit": 3,
+        "serial": 3347,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 8,
+                "to": 10,
+                "campus": "本部",
+                "classroom": "勤308"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎課程開放上修",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
+        "name": "荷蘭、西班牙時代臺灣史研究",
+        "teachers": [
+            "翁佳音"
+        ],
+        "department": "LM27",
         "code": "THM0032",
+        "type": "選",
+        "grade": null,
         "credit": 2,
         "serial": 1695,
         "group": "",
@@ -72,6 +150,8 @@
         ],
         "department": "LM27",
         "code": "THM0037",
+        "type": "選",
+        "grade": null,
         "credit": 3,
         "serial": 1696,
         "group": "",
@@ -104,6 +184,8 @@
         ],
         "department": "LM27",
         "code": "THM0042",
+        "type": "選",
+        "grade": null,
         "credit": 3,
         "serial": 1697,
         "group": "",
@@ -137,6 +219,8 @@
         ],
         "department": "LM27",
         "code": "THM0053",
+        "type": "必",
+        "grade": null,
         "credit": 2,
         "serial": 1698,
         "group": "",
@@ -165,10 +249,12 @@
         "term": 1,
         "name": "日治時期臺灣宗教史專題研究",
         "teachers": [
-            "未定"
+            "蔡錦堂"
         ],
         "department": "LM27",
         "code": "THM0065",
+        "type": "選",
+        "grade": null,
         "credit": 3,
         "serial": 1699,
         "group": "",
@@ -197,10 +283,12 @@
         "term": 1,
         "name": "博物館臺灣藏品研究與展示",
         "teachers": [
-            "未定"
+            "謝仕淵"
         ],
         "department": "LM27",
         "code": "THM0069",
+        "type": "選",
+        "grade": null,
         "credit": 3,
         "serial": 1700,
         "group": "",
@@ -233,6 +321,8 @@
         ],
         "department": "LM27",
         "code": "THM0088",
+        "type": "選",
+        "grade": null,
         "credit": 2,
         "serial": 3301,
         "group": "",
@@ -267,6 +357,8 @@
         ],
         "department": "LM27",
         "code": "THM0093",
+        "type": "選",
+        "grade": null,
         "credit": 3,
         "serial": 1701,
         "group": "",
@@ -293,12 +385,48 @@
     {
         "year": 111,
         "term": 1,
+        "name": "臺灣的殖民地戰爭",
+        "teachers": [
+            "未定"
+        ],
+        "department": "LM27",
+        "code": "THM0095",
+        "type": "選",
+        "grade": null,
+        "credit": 3,
+        "serial": 3348,
+        "group": "",
+        "quota": {
+            "limit": 50,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 4,
+                "from": 8,
+                "to": 10,
+                "campus": "本部",
+                "classroom": "勤308"
+            }
+        ],
+        "programs": [],
+        "comment": "",
+        "restrict": "◎課程開放上修",
+        "form_s": "",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 111,
+        "term": 1,
         "name": "臺灣歷史的公眾寫作",
         "teachers": [
             "陳志豪"
         ],
         "department": "LU27",
         "code": "THC9003",
+        "type": "選",
+        "grade": null,
         "credit": 3,
         "serial": 1994,
         "group": "",

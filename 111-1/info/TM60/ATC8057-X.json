@@ -7,6 +7,8 @@
     ],
     "department": "TM60",
     "code": "ATC8057",
+    "type": "選",
+    "grade": null,
     "credit": 2,
     "serial": 3124,
     "group": "",
@@ -34,17 +36,47 @@
     "goals": [
         ""
     ],
-    "syllabus": "",
+    "syllabus": "This course will cover a selection of artist works or short articles  that those studying the arts should know. This list includes painters, sculptors, photographers, etc.  Read, understand, translation...learning and practcing to express one's own art works.These works and articles will be used as prompts to engage thinking and as a source of inspiration.\n\n本課程挑選學習藝術應該知道的藝術家作品或是短論，包括畫家、雕塑家、攝影師….。透過閱讀、摘要、翻譯...學習並練習如何詮釋一件作品，並使之成為思考的良好契機、以及作為啟發創作靈感的元素。(可用各類字典及翻譯工具)\n\n1\\. Course Introduction  \n2\\. Brief self-introducion in English、 短句英翻中 (可用各類字典及翻譯工具)  \n3\\. Van Gogh-The Starry Night  \n4\\. Hopper- Nighthawks  \n5\\. Monet- Water Lilies  \n6\\. Michelangelo-David  \n7\\. Klimt- The Kiss  \n8\\. Munch-The Scream  \n9\\. De Vinci-Mona Lisa  \n10\\. Rodin- The Thinker  \n11\\. Gericault- The Raft of  the Medusa  \n12\\. Vermeer- The Milkmaid  \n13\\. Wahrol- Marilyn Diptych  \n14\\. Rothko - Seagram Murals  \n15\\. Kusama  \n16. Comprehensive discussion",
     "methodologies": [
         {
-            "type": "",
-            "note": ""
+            "type": "講述法",
+            "note": "Notes and a brief conclusion will be provided"
+        },
+        {
+            "type": "討論法",
+            "note": "Students will take notes for discussion."
+        },
+        {
+            "type": "問題解決教學",
+            "note": "In class discussion"
+        },
+        {
+            "type": "媒體融入教學",
+            "note": "Article prints and Videos"
+        },
+        {
+            "type": "專題研究",
+            "note": "Multiple subjects"
+        },
+        {
+            "type": "其他",
+            "note": "Students are advised that absenteeism (3 classes) will result without warning in failed for absence."
         }
     ],
     "grading": [
         {
-            "type": "",
-            "weight": null,
+            "type": "課堂討論參與",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "出席",
+            "weight": 30,
+            "note": ""
+        },
+        {
+            "type": "報告",
+            "weight": 40,
             "note": ""
         }
     ],

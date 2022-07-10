@@ -3,10 +3,12 @@
     "term": 1,
     "name": "教學媒體與運用（教）",
     "teachers": [
-        "未定"
+        "劉遠楨"
     ],
     "department": "EU",
     "code": "00UE076",
+    "type": "選",
+    "grade": null,
     "credit": 2,
     "serial": 592,
     "group": "F",
@@ -30,7 +32,7 @@
         "PASSION偏鄉教育學程",
         "國際教師學程-國際"
     ],
-    "comment": "授課教師：劉遠楨。",
+    "comment": "",
     "restrict": "",
     "form_s": "",
     "classes": "",
@@ -43,18 +45,23 @@
         "透過小組討論和實作，具有發展媒體融入教學活動的能力",
         "能夠根據學生的學習特性及不同學科的概念特質，應用適當的教學媒體，以進行有效教學"
     ],
-    "syllabus": "",
+    "syllabus": "1.  教學媒體與運用簡介\n2.  即時回饋系統教學實務\n3.  AR教學媒體開發與運用\n4.  環場教學媒體開發與運用\n5.  3D教學媒體開發與運用\n6.  VR教學媒體開發與運用\n7.  協作與簡報媒體合作學習運用\n8.  影音課程製作與翻轉教學運用\n9.  Scratch遊戲式教學媒體開發與運用\n10.  Scratch for Arduino教學媒體開發與運用\n11.  創客教育教學媒體開發與運用\n12.  機器人教學媒體運用展示\n13.  人工智慧教學媒體開發與運用\n14.  App Inventor App教學媒體開發與運用(數位學習)\n15.  App Inventor App行動學習媒體開發與運用(數位學習)",
     "methodologies": [
         {
-            "type": "",
-            "note": ""
+            "type": "實驗/實作",
+            "note": "上機實做"
         }
     ],
     "grading": [
         {
-            "type": "",
-            "weight": null,
-            "note": ""
+            "type": "出席",
+            "weight": 80,
+            "note": "課程參與和表現"
+        },
+        {
+            "type": "報告",
+            "weight": 20,
+            "note": "應用教學媒體之教學活動設計"
         }
     ],
     "prerequisite": "",

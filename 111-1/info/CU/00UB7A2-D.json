@@ -3,10 +3,12 @@
     "term": 1,
     "name": "英文（一）",
     "teachers": [
-        "未定"
+        "王潔"
     ],
     "department": "CU",
     "code": "00UB7A2",
+    "type": "必",
+    "grade": null,
     "credit": 2,
     "serial": 247,
     "group": "D",
@@ -38,17 +40,58 @@
         "透過課堂討論培養批判精神",
         "提升學生英語學習動機及自主學習興趣"
     ],
-    "syllabus": "",
+    "syllabus": "教學進度與主題請參考附件內容。  \n \n\n  \n[教學進度與主題附件](https://ap.itc.ntnu.edu.tw/NtnuFileShare/file.do?action=dl&gno=8e41fee56d3041c6801db5f00b12aeaf&fno=9a5353b8c50b462eb4a4552f1b7c7cbd)",
     "methodologies": [
         {
-            "type": "",
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": "Quality Talk"
+        },
+        {
+            "type": "問題解決教學",
+            "note": ""
+        },
+        {
+            "type": "合作學習",
+            "note": ""
+        },
+        {
+            "type": "媒體融入教學",
             "note": ""
         }
     ],
     "grading": [
         {
-            "type": "",
-            "weight": null,
+            "type": "作業",
+            "weight": 25,
+            "note": ""
+        },
+        {
+            "type": "期中考",
+            "weight": 10,
+            "note": "Lexile Test"
+        },
+        {
+            "type": "期末考",
+            "weight": 15,
+            "note": ""
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 20,
+            "note": ""
+        },
+        {
+            "type": "出席",
+            "weight": 10,
+            "note": ""
+        },
+        {
+            "type": "報告",
+            "weight": 20,
             "note": ""
         }
     ],

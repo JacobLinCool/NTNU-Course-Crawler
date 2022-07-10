@@ -3,10 +3,12 @@
     "term": 1,
     "name": "中文閱讀與思辨",
     "teachers": [
-        "未定"
+        "林津羽"
     ],
     "department": "CU",
     "code": "00UA7A2",
+    "type": "必",
+    "grade": null,
     "credit": 2,
     "serial": 191,
     "group": "B",
@@ -40,18 +42,46 @@
         "指導學生研讀經典，以充實知識涵養、拓展人生視野、啟發對人文及不同種族文化的關懷與理解。",
         "指導學生掌握理解各類文本的方法。"
     ],
-    "syllabus": "",
+    "syllabus": "  \n[教學進度與主題附件](https://ap.itc.ntnu.edu.tw/NtnuFileShare/file.do?action=dl&gno=ff10e5b2dbcb45f38f14a4ba74d109f1&fno=0715f65e69fe468ea11e610fce999eeb)",
     "methodologies": [
         {
-            "type": "",
-            "note": ""
+            "type": "合作學習",
+            "note": "本課程穿插小組討論模式，以提供多面向思考與團隊合作機會。"
+        },
+        {
+            "type": "實驗/實作",
+            "note": "本課程為增進口語表達與議題反思能力，安排學生上台報告。"
+        },
+        {
+            "type": "其他",
+            "note": "本課程採用「深度討論教學法」(QT)，以學習者為主體進行教師引導、學生提問與作答。"
         }
     ],
     "grading": [
         {
-            "type": "",
-            "weight": null,
-            "note": ""
+            "type": "作業",
+            "weight": 20,
+            "note": "個人平時作業"
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 30,
+            "note": "QT討論與分組成績"
+        },
+        {
+            "type": "出席",
+            "weight": 15,
+            "note": "出缺席列入成績計算"
+        },
+        {
+            "type": "報告",
+            "weight": 25,
+            "note": "期末專題報告"
+        },
+        {
+            "type": "其他",
+            "weight": 10,
+            "note": "前、後測均需參與"
         }
     ],
     "prerequisite": "",

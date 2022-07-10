@@ -7,6 +7,8 @@
     ],
     "department": "LU20",
     "code": "CHU0103",
+    "type": "必",
+    "grade": 3,
     "credit": 3,
     "serial": 1757,
     "group": "B",
@@ -16,11 +18,11 @@
     },
     "schedule": [
         {
-            "day": 3,
-            "from": 8,
-            "to": 10,
+            "day": 5,
+            "from": 2,
+            "to": 4,
             "campus": "本部",
-            "classroom": "樸204"
+            "classroom": "樸407"
         }
     ],
     "programs": [],

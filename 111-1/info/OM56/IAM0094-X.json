@@ -7,6 +7,8 @@
     ],
     "department": "OM56",
     "code": "IAM0094",
+    "type": "選",
+    "grade": null,
     "credit": 3,
     "serial": 2469,
     "group": "",
@@ -59,19 +61,24 @@
     ],
     "grading": [
         {
+            "type": "Assignments",
+            "weight": 35,
+            "note": "Assigned end-of-Chapter exercises (Presentation is required)"
+        },
+        {
             "type": "Midterm Exam",
-            "weight": 30,
+            "weight": 25,
             "note": "written test"
         },
         {
             "type": "Final exam",
-            "weight": 30,
+            "weight": 25,
             "note": "written test"
         },
         {
             "type": "Presentation",
-            "weight": 40,
-            "note": "Team presentation"
+            "weight": 15,
+            "note": "Team presentation(Optional! Or equally shared with other three items)"
         }
     ],
     "prerequisite": "◎Exclusive for students within this department(including dual degree program) ◎Available for junior and senior year B.A. program students (Doctoral program courses excepted) and M.A. program students.",

@@ -7,6 +7,8 @@
     ],
     "department": "HU71",
     "code": "ITU0165",
+    "type": "必",
+    "grade": 1,
     "credit": 3,
     "serial": 1211,
     "group": "",
@@ -16,9 +18,9 @@
     },
     "schedule": [
         {
-            "day": 2,
-            "from": 2,
-            "to": 4,
+            "day": 4,
+            "from": 7,
+            "to": 9,
             "campus": "本部",
             "classroom": "科技系TC411"
         }

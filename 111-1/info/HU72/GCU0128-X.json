@@ -7,6 +7,8 @@
     ],
     "department": "HU72",
     "code": "GCU0128",
+    "type": "選",
+    "grade": 3,
     "credit": 2,
     "serial": 3331,
     "group": "",
@@ -25,7 +27,7 @@
     ],
     "programs": [],
     "comment": "",
-    "restrict": "◎限本系(含雙主修)修習◎限大三大四修習",
+    "restrict": "◎限本系(含雙主修)修習◎限大三大四修習◎必須先修過【GCU0058  電腦二次元繪圖】◎必須先修過(也可以同時修)【GCU0027  影像處理】",
     "form_s": "3",
     "classes": "",
     "dept_group": "",
@@ -87,6 +89,6 @@
             "note": "1、分組專題口頭報告\n2、分組專題簡報製作"
         }
     ],
-    "prerequisite": "",
+    "prerequisite": "◎必須先修過【GCU0058  電腦二次元繪圖】◎必須先修過(也可以同時修)【GCU0027  影像處理】",
     "general_core": []
 }

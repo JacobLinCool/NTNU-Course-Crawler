@@ -3,10 +3,12 @@
     "term": 1,
     "name": "體育（芭蕾舞中級）",
     "teachers": [
-        "未定"
+        "吳采陵"
     ],
     "department": "PE",
     "code": "00UP248",
+    "type": "必",
+    "grade": null,
     "credit": 1,
     "serial": 2623,
     "group": "",
@@ -38,17 +40,53 @@
         "開發身體與心理，找回身體原始的能力，透過舞蹈覺察表現動作、展現自信與肯定自我。",
         "學習應用基本舞步進行編創。"
     ],
-    "syllabus": "",
+    "syllabus": "  \n[教學進度與主題附件](https://ap.itc.ntnu.edu.tw/NtnuFileShare/file.do?action=dl&gno=3d25a87f188c4f9f8947bdb7ee973593&fno=7b5ffaeae48d4f57bff164a24a172331)",
     "methodologies": [
         {
-            "type": "",
-            "note": ""
+            "type": "講述法",
+            "note": "肢體動作及元素組合說明"
+        },
+        {
+            "type": "討論法",
+            "note": "舞蹈影片賞析及討論分享"
+        },
+        {
+            "type": "合作學習",
+            "note": "小組共同創作、彼此指導觀摩"
+        },
+        {
+            "type": "實驗/實作",
+            "note": "舞蹈動作探索及表演"
+        },
+        {
+            "type": "媒體融入教學",
+            "note": "使用行動載具，可於課堂外複習動作"
         }
     ],
     "grading": [
         {
-            "type": "",
-            "weight": null,
+            "type": "作業",
+            "weight": 20,
+            "note": "期中影片賞析心得分享(10%)、期末課程心得(10%)"
+        },
+        {
+            "type": "期中考",
+            "weight": 20,
+            "note": "芭蕾舞蹈組合(把桿動作、Center組合、流動組合)"
+        },
+        {
+            "type": "期末考",
+            "weight": 20,
+            "note": "芭蕾舞蹈小品"
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 15,
+            "note": "課程參與及討論積極度"
+        },
+        {
+            "type": "出席",
+            "weight": 25,
             "note": ""
         }
     ],

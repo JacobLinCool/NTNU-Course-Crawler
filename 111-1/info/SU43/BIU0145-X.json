@@ -9,6 +9,8 @@
     ],
     "department": "SU43",
     "code": "BIU0145",
+    "type": "選",
+    "grade": 3,
     "credit": 3,
     "serial": 2991,
     "group": "",
@@ -36,30 +38,30 @@
     "goals": [
         "以分子層次的觀點探討生物個體細微運作的生命現象，重點強調基因之複製和修補、表現及調控機制"
     ],
-    "syllabus": "Genes and Chromosomes\n\nDNA replication\n\nDNA recombination\n\nTranscription\n\nRNA processing\n\nTranslation\n\nMidterm I\n\nPost-transcriptional gene control\n\nGene inactivation & Genomics\n\nCancer I\n\nCancer II\n\nBasic cloning techniques & Microarray\n\nMidterm II\n\nRegulation of gene expression in prokaryotes I\n\nRegulation of gene expression in prokaryotes II\n\nTranscriptional control of gene expression I\n\nTranscriptional control of gene expression II\n\nFinal exam",
+    "syllabus": "Genes and Chromosomes\n\nDNA recombination& DNA replication\n\nTranscription & RNA processing\n\nTranslation\n\nMidterm I\n\nRegulation of gene expression in prokaryotes I\n\nRegulation of gene expression in prokaryotes II\n\nTranscriptional control of gene expression I\n\nTranscriptional control of gene expression II\n\nMidterm II\n\nPost-transcriptional gene control\n\nGene inactivation & Genomics\n\nCancer I\n\nCancer II\n\nBasic cloning techniques & Microarray\n\nFinal Exam",
     "methodologies": [
         {
             "type": "講述法",
-            "note": ""
+            "note": "以口述對於重要知識進行導引及闡述"
         },
         {
             "type": "討論法",
-            "note": ""
+            "note": "不定期以給予學生問題、使學生與教師、或學生與學生間進行討論刺激思考"
         },
         {
             "type": "媒體融入教學",
-            "note": ""
+            "note": "以動畫或影片輔助教學"
         }
     ],
     "grading": [
         {
             "type": "期中考",
-            "weight": 50,
+            "weight": 66,
             "note": ""
         },
         {
             "type": "期末考",
-            "weight": 50,
+            "weight": 34,
             "note": ""
         }
     ],

@@ -7,8 +7,10 @@
     ],
     "department": "LU21",
     "code": "ENU0247",
+    "type": "必",
+    "grade": 3,
     "credit": 2,
-    "serial": 1877,
+    "serial": 1857,
     "group": "A",
     "quota": {
         "limit": 30,
@@ -16,17 +18,17 @@
     },
     "schedule": [
         {
-            "day": 2,
-            "from": 3,
-            "to": 4,
+            "day": 1,
+            "from": 6,
+            "to": 7,
             "campus": "本部",
             "classroom": "正302"
         }
     ],
     "programs": [],
     "comment": "",
-    "restrict": "◎限本系(含雙主修)修習◎限大四修習",
-    "form_s": "4",
+    "restrict": "◎限本系(含雙主修)修習◎限大三修習",
+    "form_s": "3",
     "classes": "",
     "dept_group": "",
     "hours": 2,
@@ -78,6 +80,6 @@
             "note": "Three Graded Debate Exercises (I, II & III)\t (15%, 30%, 40%)"
         }
     ],
-    "prerequisite": "◎Exclusive for students within this department(including dual degree program) ◎Exclusive for senior",
+    "prerequisite": "◎Exclusive for students within this department(including dual degree program) ◎Exclusive for junior",
     "general_core": []
 }

@@ -7,6 +7,8 @@
     ],
     "department": "SM47",
     "code": "CSC0051",
+    "type": "選",
+    "grade": null,
     "credit": 3,
     "serial": 2757,
     "group": "",
@@ -36,7 +38,7 @@
         "Focus on computational techniques for 2D and 3D images",
         "Provide detailed algorithmic and theoretical treatments"
     ],
-    "syllabus": "【授課方式：16週】\n\n本課程之彈性教學授課方式以錄製期末專題報告與DEMO專題內容上傳並請同學互評方式進行。\n\n本課程介紹數位影像處理的相關技術，包括影像強化、影像平滑化、雜訊過濾、 Fourier轉換、影像分割、邊緣偵測、特徵擷取等技術的說明與介紹。搭配程式作業的要求，期望學生能了解並實作各種影像處理技術。\n\n課程內容如下: \n\nCh1: Course overview; Introduction\n\nCh2: Digital image fundamentals\n\n    including image sensing and acquisition; image sampling and quantization; some basic relations between pixels,...\n\nCh3: Image enhancement in the spatial domain\n\n    including some basic gray level transformations; histogram processing; enhancement using arithmetic/logic operations; smoothing spatial filters; sharpening spatial filters;...\n\nCh4: Image enhancement in thefrequency domain\n\n    including Fourier transform and Frequency domain; smoothing frequency-domain filters; sharpening frequency domain filters; homomorphic filtering;...\n\nCh5: Image restoration    \n\nCh6: Color image processing\n\n    including color model; color transformations; smoothing and sharpening; color segmentation\n\nCh7: Wavelets and Multiresolution Processing\n\n本課程每堂上課前皆有測驗，上課請勿遟到，且所有作業皆為程式作業，另期末需上台DEMO與報告。\n\n教科書:Image processing Analysis, and Machine Vision, 4th edition, Milan Sonka, Vaclav Hlavac, Roger Boyle, Cengage Learning, 2015.",
+    "syllabus": "【授課方式：16週】\n\n本課程介紹數位影像處理的相關技術，包括影像強化、影像平滑化、雜訊過濾、 Fourier轉換、影像分割、邊緣偵測、特徵擷取等技術的說明與介紹。搭配程式作業的要求，期望學生能了解並實作各種影像處理技術。\n\n課程內容如下: \n\nWeek 1: [Chapter 0 Introduction to Image Processing](https://moodle3.ntnu.edu.tw/mod/resource/view.php?id=283374)\n\nWeek 2: [Chapter 1 Introduction](https://moodle3.ntnu.edu.tw/mod/resource/view.php?id=283375)\n\nWeek 3: [Chapter 2 The image, its representations and properties](https://moodle3.ntnu.edu.tw/mod/resource/view.php?id=283376)\n\nWeek 4: [Chapter 3 The image, its mathematical and physical background (I)](https://moodle3.ntnu.edu.tw/mod/resource/view.php?id=283377)\n\nWeek 5: [Chapter 3 The image, its mathematical and physical background (II)](https://moodle3.ntnu.edu.tw/mod/resource/view.php?id=283378)\n\nWeek 6: [Chapter 3 The image, its mathematical and physical background (III)](https://moodle3.ntnu.edu.tw/mod/resource/view.php?id=283379)\n\nWeek 7: [Chapter 4 Data structure for image analysis](https://moodle3.ntnu.edu.tw/mod/resource/view.php?id=283380)\n\nWeek 8: Midterm exam\n\nWeek 9: [Chapter 5 Image pre-processing (I)](https://moodle3.ntnu.edu.tw/mod/resource/view.php?id=283381)\n\nWeek 10: [Chapter 5 Image pre-processing (II)](https://moodle3.ntnu.edu.tw/mod/resource/view.php?id=283382)\n\nWeek 11: [Chapter 5 Image pre-processing (III)](https://moodle3.ntnu.edu.tw/mod/resource/view.php?id=283383)\n\nWeek 12: [Chapter 6 Segmentation I (I)](https://moodle3.ntnu.edu.tw/mod/resource/view.php?id=283384)\n\nWeek 13: [Chapter 6 Segmentation I (II](https://moodle3.ntnu.edu.tw/mod/resource/view.php?id=283385))\n\nWeek 14: Final exam\n\nWeek 15: Final report and presentation (I)\n\nWeek 16: Final report and presentation (II)\n\n本課程每堂上課前皆有測驗，上課請勿遟到，且所有作業皆為程式作業，另期末視需要上台DEMO與報告(或錄製DEMO與報告影片)。\n\n教科書:Image processing Analysis, and Machine Vision, 4th edition, Milan Sonka, Vaclav Hlavac, Roger Boyle, Cengage Learning, 2015.",
     "methodologies": [
         {
             "type": "講述法",
@@ -64,7 +66,7 @@
         },
         {
             "type": "期末考",
-            "weight": 30,
+            "weight": 25,
             "note": ""
         },
         {
@@ -79,7 +81,7 @@
         },
         {
             "type": "其他",
-            "weight": 5,
+            "weight": 10,
             "note": "期末專題上傳及互評成績"
         }
     ],

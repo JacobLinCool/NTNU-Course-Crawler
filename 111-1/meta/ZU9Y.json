@@ -8,6 +8,8 @@
         ],
         "department": "TU60",
         "code": "ATC0358",
+        "type": "選",
+        "grade": null,
         "credit": 3,
         "serial": 3150,
         "group": "",
@@ -25,8 +27,7 @@
             }
         ],
         "programs": [
-            "社團領導學程",
-            "藝術產業學程"
+            "社團領導學程"
         ],
         "comment": "任課教師:林淑華",
         "restrict": "◎限本系(含雙主修)修習◎限藝術產業學程選修",
@@ -43,6 +44,8 @@
         ],
         "department": "TU60",
         "code": "ATU0232",
+        "type": "選",
+        "grade": 2,
         "credit": 2,
         "serial": 3161,
         "group": "",
@@ -59,9 +62,7 @@
                 "classroom": "美506"
             }
         ],
-        "programs": [
-            "藝術產業學程"
-        ],
+        "programs": [],
         "comment": "",
         "restrict": "◎限本系(含雙主修)修習",
         "form_s": "2",
@@ -77,6 +78,8 @@
         ],
         "department": "TU60",
         "code": "ATU0333",
+        "type": "選",
+        "grade": 3,
         "credit": 3,
         "serial": 3179,
         "group": "",
@@ -93,9 +96,7 @@
                 "classroom": "美302"
             }
         ],
-        "programs": [
-            "藝術產業學程"
-        ],
+        "programs": [],
         "comment": "",
         "restrict": "◎限本系(含雙主修)修習",
         "form_s": "3",
@@ -111,6 +112,8 @@
         ],
         "department": "ZU83",
         "code": "PGUA001",
+        "type": "必",
+        "grade": null,
         "credit": 3,
         "serial": 3258,
         "group": "",
@@ -128,8 +131,7 @@
             }
         ],
         "programs": [
-            "基礎管理學程",
-            "藝術產業學程"
+            "基礎管理學程"
         ],
         "comment": "",
         "restrict": "◎第一階段限 基礎管理學程◎限基礎管理學程選修",

@@ -3,10 +3,12 @@
     "term": 1,
     "name": "法語（一）",
     "teachers": [
-        "未定"
+        "楊慧娟"
     ],
     "department": "GU",
     "code": "0HUG502",
+    "type": "通",
+    "grade": null,
     "credit": 2,
     "serial": 1042,
     "group": "B",
@@ -26,7 +28,7 @@
     "programs": [
         "國關與外交學程"
     ],
-    "comment": "楊慧娟。學過二個月以上法語者，請勿選課。",
+    "comment": "學過二個月以上法語者，請勿選課。",
     "restrict": "",
     "form_s": "",
     "classes": "",
@@ -39,17 +41,45 @@
         "具備基本法語聽、說、讀、寫能力。",
         "培養欣賞法式文化風情能力。"
     ],
-    "syllabus": "",
+    "syllabus": "  \n[教學進度與主題附件](https://ap.itc.ntnu.edu.tw/NtnuFileShare/file.do?action=dl&gno=abac107ee34b42cfb6f9a32e9037c4f1&fno=82d50823cfc849e786bbeb4e1f15475a)",
     "methodologies": [
         {
-            "type": "",
-            "note": ""
+            "type": "講述法",
+            "note": "講述發音、文法句型規則"
+        },
+        {
+            "type": "合作學習",
+            "note": "小組口語練習"
+        },
+        {
+            "type": "媒體融入教學",
+            "note": "運用PowerPoint製作教材、介紹實用法語學習相關網站、 法語電影欣賞、法語歌曲網站影片"
         }
     ],
     "grading": [
         {
-            "type": "",
-            "weight": null,
+            "type": "作業",
+            "weight": 10,
+            "note": ""
+        },
+        {
+            "type": "期中考",
+            "weight": 30,
+            "note": "筆試: 聽力、文法、寫作"
+        },
+        {
+            "type": "期末考",
+            "weight": 30,
+            "note": "口試: 小組編寫對話及角色扮演"
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 25,
+            "note": "課堂小考、小組對話練習"
+        },
+        {
+            "type": "出席",
+            "weight": 5,
             "note": ""
         }
     ],

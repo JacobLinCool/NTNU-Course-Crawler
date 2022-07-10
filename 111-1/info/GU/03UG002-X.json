@@ -3,10 +3,12 @@
     "term": 1,
     "name": "現代民主政治",
     "teachers": [
-        "未定"
+        "張敦為"
     ],
     "department": "GU",
     "code": "03UG002",
+    "type": "通",
+    "grade": null,
     "credit": 2,
     "serial": 931,
     "group": "",
@@ -24,7 +26,7 @@
         }
     ],
     "programs": [],
-    "comment": "張敦為",
+    "comment": "",
     "restrict": "◎公領系（學）不得選修",
     "form_s": "",
     "classes": "",
@@ -36,18 +38,45 @@
         "To develop analytical methods for students to explore important issues in modern democratic society, to be able to explain the living conditions of human beings from different intellectual perspectives, and to understand the important issues facing Taiwanese society.",
         "Increase students' awareness of Taiwan's political development and constitutional practice."
     ],
-    "syllabus": "",
+    "syllabus": "### **Part I    Basic Concepts and Viewpoints**\n\n### **Week 1        9/8      Course introduction**\n\n### **Week 2       9/15     Warm-up question: Why democracy?**\n\n### **Week 3       9/22     Democracy: ancient and modern**\n\n### **Part II    Key elements of modern democratic politics**\n\n### **Week 4**       **9/29      Constitution and requirements of democracy**\n\n### **Week 5       10/6**       **Party politics and general election**\n\n### **Week 6**       **10/13      Referendum**\n\n### **Week 7**       **10/20      Democracy, media and digital governance**\n\n### **Week 8       10/27      Mid-term presentation**\n\n### **Part III    Practices of modern democratic politics**\n\n### **Week 9        11/3       A film in class**\n\n### **Week 10       11/10**      **Democratization**\n\n### **Week 11        11/17      Social movements**\n\n### **Week 12       11/24     Citizenship**\n\n### **Week 13       12/1       Populism and challenges of democracy**\n\n### **Week 14       12/8      An overview of Taiwan's democratic politics**\n\n### **Week 15       12/15     Group presentation I**\n\n### **Week 16       12/22    Group presentation II**",
     "methodologies": [
         {
-            "type": "",
-            "note": ""
+            "type": "Formal lecture",
+            "note": "At the beginning of each course, I will make a short introduction of the weekly given topic and raise the basic problems which are to be discussed in class."
+        },
+        {
+            "type": "Group discussion",
+            "note": "Group discussion will be frequently used in class, so that students can learn from each other and complete tasks together. Students will be divided into groups according to the total amount of course students. Each group will have chance to present their ideas and creativity in class."
+        },
+        {
+            "type": "Cooperative learning",
+            "note": "Students will learn to gather informations related to the course and to organize them by cooperation."
+        },
+        {
+            "type": "Media, audio, visual materials",
+            "note": "Films or clips will be adequately used as teaching materials. Through showing these materials, students will be asked to identify problems related to course subjects and their own observations."
         }
     ],
     "grading": [
         {
-            "type": "",
-            "weight": null,
-            "note": ""
+            "type": "Assignments",
+            "weight": 30,
+            "note": "Group or individual assignments will be given in class."
+        },
+        {
+            "type": "Midterm Exam",
+            "weight": 20,
+            "note": "Before doing a project, each group will present their group project design in the midterm week and collect opinions from the instructor and other students."
+        },
+        {
+            "type": "Final exam",
+            "weight": 25,
+            "note": "Each group will present the results of their project in the last two weeks of this course."
+        },
+        {
+            "type": "Attendances",
+            "weight": 25,
+            "note": "Students should regularly attend the class and participate in discussions."
         }
     ],
     "prerequisite": "◎Exclusive of students within Department of Civic",

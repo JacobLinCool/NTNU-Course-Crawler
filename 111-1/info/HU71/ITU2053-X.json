@@ -7,6 +7,8 @@
     ],
     "department": "HU71",
     "code": "ITU2053",
+    "type": "必",
+    "grade": 3,
     "credit": 3,
     "serial": 1226,
     "group": "",
@@ -17,8 +19,8 @@
     "schedule": [
         {
             "day": 5,
-            "from": 2,
-            "to": 4,
+            "from": 7,
+            "to": 9,
             "campus": "本部",
             "classroom": "科技系TC411"
         }

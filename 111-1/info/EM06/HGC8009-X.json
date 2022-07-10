@@ -7,6 +7,8 @@
     ],
     "department": "EM06",
     "code": "HGC8009",
+    "type": "選",
+    "grade": null,
     "credit": 3,
     "serial": 461,
     "group": "",
@@ -37,11 +39,23 @@
         "強化以家庭發展觀點研究家庭相關議題之能力",
         "比較東西方社會之家庭發展議題"
     ],
-    "syllabus": "1.家庭發展導論（UnderstandingFamily Dynamics）\n\n2今日臺灣家庭發展趨勢分析  \n3家庭研究  \n4.家庭發展理論(一)  \n5.家庭發展理論（二）  \n6.家庭發展相關概念（Rethinking Family DevelopmentTheory）  \n7.家庭發展理論應用  \n8.婚姻關係（The Marital Life Cycle）  \n9.親子關係（Parenting Over the Family LifeCycle）  \n10.手足關係（The Longest Bond: The SiblingLife Cycle）  \n11.祖孫關係（The Family Across Generations:Grandparenthood）  \n12.家庭生活教育：家庭發展觀點（Family Developmentand Intervention）  \n13.專題討論(一):家庭生活教育與數位學習策略  \n14.專題討論(二):家庭與老年照顧  \n15.專題討論(三):家庭與托育\n\n16.綜合討論:家庭發展的展望",
+    "syllabus": "1.家庭發展導論（UnderstandingFamily Dynamics）\n\n2.今日臺灣家庭發展:趨勢分析  \n3.家庭研究趨勢  \n4.家庭發展理論(一)  \n5.家庭發展理論（二）  \n6.家庭發展相關概念（Rethinking Family DevelopmentTheory）  \n7.家庭發展理論應用  \n8.婚姻關係（The Marital Life Cycle）  \n9.親子關係（Parenting Over the Family LifeCycle）  \n10.手足關係（The Longest Bond: The SiblingLife Cycle）  \n11.代間關係 (Intergenerational Relationships within family and kinship)\n\n12.祖孫關係（The Family Across Generations:Grandparenthood）  \n13.家庭生活教育：家庭發展觀點（Family Developmentand Intervention）  \n14.專題討論(一):家庭與老年照顧  \n15.專題討論(二):家庭與托育\n\n16.綜合討論:家庭發展的展望",
     "methodologies": [
         {
-            "type": "其他",
-            "note": "社會變遷及家庭發展趨勢:次級資料庫應用分析"
+            "type": "講述法",
+            "note": ""
+        },
+        {
+            "type": "討論法",
+            "note": ""
+        },
+        {
+            "type": "媒體融入教學",
+            "note": ""
+        },
+        {
+            "type": "專題研究",
+            "note": "1.社會變遷及家庭發展趨勢:次級資料庫應用分析;2.家庭發展與政策:高齡,少子議題"
         }
     ],
     "grading": [
@@ -57,12 +71,12 @@
         },
         {
             "type": "報告",
-            "weight": 40,
-            "note": ""
+            "weight": 50,
+            "note": "導讀報告及期末報告"
         },
         {
             "type": "專題",
-            "weight": 30,
+            "weight": 20,
             "note": ""
         }
     ],

@@ -4,13 +4,14 @@
     "name": "普通生物學甲（一）",
     "teachers": [
         "孫智雯",
-        "李明忠",
-        "王震哲"
+        "李明忠"
     ],
     "department": "SU43",
     "code": "BIU0168",
+    "type": "必",
+    "grade": 1,
     "credit": 3,
-    "serial": 2971,
+    "serial": 2973,
     "group": "",
     "quota": {
         "limit": 60,
@@ -18,18 +19,18 @@
     },
     "schedule": [
         {
-            "day": 4,
-            "from": 2,
-            "to": 4,
+            "day": 3,
+            "from": 7,
+            "to": 9,
             "campus": "公館",
-            "classroom": "Ｂ101"
+            "classroom": "Ｅ201"
         }
     ],
     "programs": [],
     "comment": "",
     "restrict": "◎限大一修習",
     "form_s": "1",
-    "classes": "1",
+    "classes": "2",
     "dept_group": "",
     "hours": 3,
     "description": "本課程內容為延續高中生物課程的加深加廣知識，主要為未來學習生物學各專業領域課程而準備。",

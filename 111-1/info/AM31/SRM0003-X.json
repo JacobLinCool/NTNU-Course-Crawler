@@ -3,10 +3,12 @@
     "term": 1,
     "name": "運動休閒與餐旅管理專題討論（二）",
     "teachers": [
-        "未定"
+        "林儷蓉"
     ],
     "department": "AM31",
     "code": "SRM0003",
+    "type": "必",
+    "grade": null,
     "credit": 1,
     "serial": 36,
     "group": "",
@@ -35,18 +37,32 @@
         "培養學生以海報及口頭發表研究報告之能力。",
         "培養學生對研究論文評鑑之能力。"
     ],
-    "syllabus": "",
+    "syllabus": "1、本課程以學術發表會方式進行。   \n2、口頭發表報告時間15分鐘，答辯及討論10分鐘。   \n3、報告前須敦請指導教授指導，於報告七天前提交題目及摘要。",
     "methodologies": [
         {
-            "type": "",
+            "type": "討論法",
+            "note": ""
+        },
+        {
+            "type": "專題研究",
             "note": ""
         }
     ],
     "grading": [
         {
-            "type": "",
-            "weight": null,
-            "note": ""
+            "type": "出席",
+            "weight": 40,
+            "note": "出席與上課參與"
+        },
+        {
+            "type": "報告",
+            "weight": 50,
+            "note": "發表內容：30% 書面報告：20%"
+        },
+        {
+            "type": "其他",
+            "weight": 10,
+            "note": "會前工作參與"
         }
     ],
     "prerequisite": "",

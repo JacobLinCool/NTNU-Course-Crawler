@@ -3,10 +3,12 @@
     "term": 1,
     "name": "多元文化",
     "teachers": [
-        "未定"
+        "張敦為"
     ],
     "department": "GU",
     "code": "03UG003",
+    "type": "通",
+    "grade": null,
     "credit": 2,
     "serial": 932,
     "group": "",
@@ -27,7 +29,7 @@
         "PASSION偏鄉教育學程",
         "社團領導學程"
     ],
-    "comment": "張敦為",
+    "comment": "",
     "restrict": "",
     "form_s": "",
     "classes": "",
@@ -38,18 +40,45 @@
         "Introduce the connotation and theoretical basis of multiculturalism.",
         "Understand the development of multicultural education in Taiwan and other countries"
     ],
-    "syllabus": "",
+    "syllabus": "### **Part I           Basic Concepts and Perspectives**\n\n### **Week 1         9/7        Course introduction**\n\n### **Week 2        9/14       Culture and current issues of multiculturalism**\n\n### **Week 3        9/21       Approaches to culture and society**\n\n### **Part II          Multicultural communities in Taiwan**\n\n### **Week 4        9/28       Ethnic relations and languages**\n\n### **Week 5        10/5        Food and cultural representation**\n\n### **Week 6        10/12       Foreigners and new immigrant**\n\n### **Week 7        10/19       Historical memories, sites and museums**\n\n### **Week 8        10/26**      **Mid-term presentation**\n\n### **Part III         Diverse issues of cultural conflict and multicultural policies**\n\n### **Week 9        11/2       A film (to be announced) in class**\n\n### **Week 10       11/9        Power and inequality**\n\n### **Week 11        11/16      Gender and identity**\n\n### **Week 12        11/23      Religious conflict and toleration**\n\n### **Week 13        11/30      Education**\n\n### **Week 14        12/7       Experiences of intercultural communication** \n\n### **Week 15        12/14     Group presentation I**\n\n### **Week 16        12/21     Group presentation II**",
     "methodologies": [
         {
-            "type": "",
-            "note": ""
+            "type": "Formal lecture",
+            "note": "At the beginning of each course, the instructor will make a short introduction to the theme and its background."
+        },
+        {
+            "type": "Group discussion",
+            "note": "Group discussion will be frequently used in class, so that students can learn from each other and complete tasks together. Students will be divided into groups according to the total amount of course students. Each group will have chance to present their ideas and creativity in class."
+        },
+        {
+            "type": "Cooperative learning",
+            "note": "Students will learn to search informations related to the course and to organize them by cooperation."
+        },
+        {
+            "type": "Media, audio, visual materials",
+            "note": "Films or clips will be adequately used as teaching materials. Through showing these materials, students will be asked to identify problems related to course subjects and their own observations."
         }
     ],
     "grading": [
         {
-            "type": "",
-            "weight": null,
-            "note": ""
+            "type": "Assignments",
+            "weight": 30,
+            "note": "Group or individual assignments will be given in class."
+        },
+        {
+            "type": "Midterm Exam",
+            "weight": 20,
+            "note": "Before doing a project, each group will present their group project design in the midterm week and collect opinions from the instructor and other students."
+        },
+        {
+            "type": "Final exam",
+            "weight": 25,
+            "note": "Each group will present the results of their project in the last two weeks of this course."
+        },
+        {
+            "type": "Attendances",
+            "weight": 25,
+            "note": "Students should regularly attend the class and participate in discussions."
         }
     ],
     "prerequisite": "",

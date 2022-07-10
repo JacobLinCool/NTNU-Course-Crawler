@@ -7,6 +7,8 @@
     ],
     "department": "OU57",
     "code": "BAU0057",
+    "type": "選",
+    "grade": null,
     "credit": 3,
     "serial": 2479,
     "group": "",
@@ -36,18 +38,48 @@
         "瞭解創新與創業的關鍵議題與相關解決方案",
         "積極參與各項創業與管理相關競賽"
     ],
-    "syllabus": "",
+    "syllabus": "1.  Introduction\n2.  Chap 1 Creativity\n3.  **Holiday**\n4.  **Holiday**\n5.  Chap 2 Innovation Management\n6.  **Guest Speech**\n7.  Chap 3 From Idea to Business\n8.  Chap 4 Opportunities Identification\n9.  Chap 6 Business Model\n10.  **Midterm Assignment**\n11.  **University Event**\n12.  Movie Session\n13.  Chap 9 Entrepreneurship and Law\n14.  Chap 10 Business Plan and Pitch\n15.  Chap 14 Social Entrepreneurship\n16.  **Holiday**\n17.  **Guest Speech**\n18.  **Final**",
     "methodologies": [
         {
-            "type": "",
-            "note": ""
+            "type": "講述法",
+            "note": "講述教材內容並依理論搭配實務"
+        },
+        {
+            "type": "討論法",
+            "note": "課外案例複習與課堂活動討論"
+        },
+        {
+            "type": "合作學習",
+            "note": "透過分組作業，專題報告及發表增加學生合作學習機會"
+        },
+        {
+            "type": "實驗/實作",
+            "note": "期中報告"
+        },
+        {
+            "type": "媒體融入教學",
+            "note": "給學生的資料中含有報章雜誌、影片案例討論、補充"
+        },
+        {
+            "type": "其他",
+            "note": "邀請專家或學者演講"
         }
     ],
     "grading": [
         {
-            "type": "",
-            "weight": null,
-            "note": ""
+            "type": "期中考",
+            "weight": 20,
+            "note": "期中小組個案討論作業。Everyone must be a contributor not a free-rider."
+        },
+        {
+            "type": "期末考",
+            "weight": 50,
+            "note": "上課內容為測驗範圍"
+        },
+        {
+            "type": "課堂討論參與",
+            "weight": 30,
+            "note": "藉由小組討論與個人心得報告，培養溝通、解決問題與思考的能力。有參與討論與貢獻的同學方可獲得該報告成績。"
         }
     ],
     "prerequisite": "◎必須先修過【BAU0048  企業管理概論】",
