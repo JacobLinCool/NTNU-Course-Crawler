@@ -7,6 +7,8 @@
     ],
     "department": "HU71",
     "code": "ITU1001",
+    "type": "必",
+    "grade": 2,
     "credit": 3,
     "serial": 1252,
     "group": "",
@@ -23,7 +25,9 @@
             "classroom": "科技系TC501"
         }
     ],
-    "programs": [],
+    "programs": [
+        "大師創業學程"
+    ],
     "comment": "設計與科技組優先選課",
     "restrict": "◎加退選階段需人工加選",
     "form_s": "2",

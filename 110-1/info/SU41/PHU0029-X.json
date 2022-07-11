@@ -7,8 +7,10 @@
     ],
     "department": "SU41",
     "code": "PHU0029",
+    "type": "必",
+    "grade": 1,
     "credit": 2,
-    "serial": 2877,
+    "serial": 2882,
     "group": "",
     "quota": {
         "limit": 50,
@@ -16,9 +18,9 @@
     },
     "schedule": [
         {
-            "day": 5,
-            "from": 3,
-            "to": 4,
+            "day": 1,
+            "from": 9,
+            "to": 10,
             "campus": "公館",
             "classroom": "理圖801"
         }
@@ -29,7 +31,7 @@
     "comment": "",
     "restrict": "",
     "form_s": "1",
-    "classes": "1",
+    "classes": "2",
     "dept_group": "",
     "hours": 2,
     "description": "提供網路資訊科技相關資訊,培養物理學習所需相關資訊科技。",

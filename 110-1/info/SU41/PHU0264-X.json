@@ -3,12 +3,14 @@
     "term": 1,
     "name": "近代物理探索與應用（一）",
     "teachers": [
-        "高賢忠"
+        "徐鏞元"
     ],
     "department": "SU41",
     "code": "PHU0264",
+    "type": "選",
+    "grade": 3,
     "credit": 1,
-    "serial": 2905,
+    "serial": 2908,
     "group": "",
     "quota": {
         "limit": 50,
@@ -16,18 +18,18 @@
     },
     "schedule": [
         {
-            "day": 5,
-            "from": 6,
-            "to": 6,
+            "day": 4,
+            "from": 3,
+            "to": 3,
             "campus": "公館",
-            "classroom": "Ｓ503"
+            "classroom": "理圖001"
         }
     ],
     "programs": [],
     "comment": "",
     "restrict": "",
     "form_s": "3",
-    "classes": "1",
+    "classes": "2",
     "dept_group": "",
     "hours": 1,
     "description": "本課程搭配物理系三年級必修課程「近代物理」，促進「近代物理」課程之學習、增進學生對近代物理在應用上的認知、以及引導學生修習各物理領域進階選修專題。此課程補充近代物理內容(如相對論、穿隧效應計算)，並廣泛介紹近代物理各子題(原子分子物理、固態物理)，以及在各個領域的相關應用與發展。",
@@ -57,23 +59,18 @@
     ],
     "grading": [
         {
-            "type": "作業",
-            "weight": 30,
-            "note": "作業、小考"
-        },
-        {
-            "type": "期中考",
-            "weight": 25,
-            "note": ""
-        },
-        {
-            "type": "期末考",
-            "weight": 35,
-            "note": ""
-        },
-        {
             "type": "課堂討論參與",
+            "weight": 50,
+            "note": ""
+        },
+        {
+            "type": "出席",
             "weight": 10,
+            "note": ""
+        },
+        {
+            "type": "報告",
+            "weight": 40,
             "note": ""
         }
     ],

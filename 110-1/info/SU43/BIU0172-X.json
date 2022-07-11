@@ -8,8 +8,10 @@
     ],
     "department": "SU43",
     "code": "BIU0172",
+    "type": "必",
+    "grade": 1,
     "credit": 1,
-    "serial": 2965,
+    "serial": 2983,
     "group": "",
     "quota": {
         "limit": 30,
@@ -17,9 +19,9 @@
     },
     "schedule": [
         {
-            "day": 1,
-            "from": 16,
-            "to": 11,
+            "day": 2,
+            "from": 7,
+            "to": 9,
             "campus": "公館",
             "classroom": "Ｄ205"
         }
@@ -27,8 +29,8 @@
     "programs": [],
     "comment": "",
     "restrict": "",
-    "form_s": "",
-    "classes": "",
+    "form_s": "1",
+    "classes": "2",
     "dept_group": "",
     "hours": 3,
     "description": "藉由親自動手操作，學習基礎生物學實驗技術，並由實驗報告之撰寫，學會實驗結果之整理分析及資料之收集歸納。",

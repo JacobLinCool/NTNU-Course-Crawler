@@ -8,8 +8,10 @@
     ],
     "department": "LU23",
     "code": "GEU0234",
+    "type": "必",
+    "grade": 1,
     "credit": 2,
-    "serial": 1987,
+    "serial": 1993,
     "group": "",
     "quota": {
         "limit": 50,
@@ -17,11 +19,11 @@
     },
     "schedule": [
         {
-            "day": 1,
-            "from": 6,
-            "to": 7,
+            "day": 4,
+            "from": 1,
+            "to": 2,
             "campus": "本部",
-            "classroom": "誠202"
+            "classroom": "誠201"
         }
     ],
     "programs": [
@@ -30,17 +32,17 @@
     "comment": "",
     "restrict": "",
     "form_s": "1",
-    "classes": "1",
+    "classes": "2",
     "dept_group": "",
     "hours": 2,
     "description": "",
     "goals": [
-        "能瞭解自然地理學知識的基本內涵",
-        "能熟練自然地理學之系統分析概念，具備從事自然地理學研究的基本能力",
-        "能具備中等學校自然地理教法設計、實施與評鑑的能力",
-        "能具備中等學校自然地理教材蒐集、分析與研發的能力",
-        "能培植學生自我發展能力，以適應未來資訊化、全球化、多元化的社會環境",
-        "能自我實踐自然地理科學研究的精神"
+        "Being able to understand the basic connotation of knowledge of natural geography.",
+        "Being able to be proficient in systematic analytical concepts of physical geography and possessing the ability to conduct physical geography research.",
+        "Being able to possess the ability to design, implement and evaluate physical geography teaching methods of secondary schools.",
+        "Being able to possess with the ability to collect, analyze, research and develop teaching materials.",
+        "Being able to cultivate students' self-development ability to adapt to the future information-based, globalized and diversified social environment.",
+        "Being able to self-practice the spirit of physical geography research."
     ],
     "syllabus": "1自然地理學基礎\n\n2地球能源系統\n\n3全球氣溫\n\n4.大氣結構\n\n5大氣環流系統\n\n6溼度與降水\n\n7氣象系統\n\n8全球氣候\n\n9岩石圈與大地造構系統\n\n10氣候變遷\n\n11風化作用\n\n12塊體崩壞作用\n\n13河流系統\n\n14地球上的水\n\n15水資源\n\n16土壤地理學\n\n17生態系概念\n\n18生物地理學",
     "methodologies": [

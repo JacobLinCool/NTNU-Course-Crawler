@@ -7,6 +7,8 @@
     ],
     "department": "SM41",
     "code": "PHC8016",
+    "type": "選",
+    "grade": null,
     "credit": 3,
     "serial": 2686,
     "group": "",
@@ -32,10 +34,10 @@
     "hours": 3,
     "description": "",
     "goals": [
-        "整數量子霍爾效應",
-        "拓撲絕緣體",
-        "拓撲超導體",
-        "分數量子霍爾效應"
+        "Integer Quantum Hall Effect",
+        "Topological insulator",
+        "Weyl semimetal",
+        "Topological superconductor"
     ],
     "syllabus": "Berry phase\n\nQuantum Hall effect and Chern number\n\nTime reversal symmetry\n\nEdge modes in quantum Hall system\n\nGraphene\n\nTopological insulator\n\nDimensional reduction\n\nChiral topological superconductor\n\nHelical topological superconductor\n\nFractional quantum Hall effect",
     "methodologies": [

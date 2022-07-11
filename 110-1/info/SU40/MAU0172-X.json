@@ -3,12 +3,14 @@
     "term": 1,
     "name": "線性代數探索（一）",
     "teachers": [
-        "謝世峰"
+        "郭君逸"
     ],
     "department": "SU40",
     "code": "MAU0172",
+    "type": "選",
+    "grade": 1,
     "credit": 1,
-    "serial": 2814,
+    "serial": 2820,
     "group": "",
     "quota": {
         "limit": 50,
@@ -20,14 +22,14 @@
             "from": 4,
             "to": 4,
             "campus": "公館",
-            "classroom": "Ｓ201"
+            "classroom": "Ｅ101"
         }
     ],
     "programs": [],
     "comment": "",
     "restrict": "◎必須先修過(也可以同時修)【MAU0160  線性代數（一）】",
     "form_s": "1",
-    "classes": "2",
+    "classes": "3",
     "dept_group": "",
     "hours": 1,
     "description": "在於讓學生親身經歷線性代數解題的思維歷程，以達到對線性代數概念和計算法則的熟練，進而應用解決相關問題。",
@@ -36,7 +38,7 @@
         "讓學生熟練線性代數概念和計算法則",
         "應用線性代數解決相關數學問題。"
     ],
-    "syllabus": "1.      Vectors and Matrices\n\n1.1  Vectors, dot product (1 week)\n\n1.2  Hyperplanes in **R**^n (1 week)\n\n1.3  Gaussian elimination and the theory of systems of linear equations. (3 weeks).\n\n2.  Matrix Algebra\n\n      2.1 Matrix operations (1 week).\n\n2.2 Linear transformations (an introduction) (1.5 weeks).\n\n2.2  Elementary matrices, inverse matrices and the transpose (3.5 weeks)\n\n3.      Vector Spaces\n\n3.1.Subspaces of **R**^n (1 week).\n\n3.2.The four fundamental subspaces (2 weeks)\n\n3.3.Linear independence and basis (2 weeks),\n\n3.4.Dimension and its consequences (2 weeks).",
+    "syllabus": "【授課方式：16+2週】\n\n1.      Vectors and Matrices\n\n1.1  Vectors, dot product (1 week)  彈性上課\n\n1.2  Hyperplanes in **R**^n (1 week)\n\n1.3  Gaussian elimination and the theory of systems of linear equations. (3 weeks).\n\n2\\.  Matrix Algebra\n\n      2.1 Matrix operations (1 week).  彈性上課\n\n2.2 Linear transformations (an introduction) (1.5 weeks).\n\n2.2  Elementary matrices, inverse matrices and the transpose (3.5 weeks)\n\n3.      Vector Spaces\n\n3.1.Subspaces of **R**^n (1 week).\n\n3.2.The four fundamental subspaces (2 weeks)\n\n3.3.Linear independence and basis (2 weeks),\n\n3.4.Dimension and its consequences (2 weeks).",
     "methodologies": [
         {
             "type": "講述法",

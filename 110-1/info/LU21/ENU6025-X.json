@@ -3,12 +3,14 @@
     "term": 1,
     "name": "文法與修辭",
     "teachers": [
-        "丁仁"
+        "吳曉虹"
     ],
     "department": "LU21",
     "code": "ENU6025",
+    "type": "必",
+    "grade": 2,
     "credit": 3,
-    "serial": 1892,
+    "serial": 1898,
     "group": "",
     "quota": {
         "limit": 50,
@@ -16,18 +18,18 @@
     },
     "schedule": [
         {
-            "day": 5,
-            "from": 2,
-            "to": 4,
+            "day": 2,
+            "from": 3,
+            "to": 5,
             "campus": "本部",
-            "classroom": "誠305"
+            "classroom": "正304"
         }
     ],
     "programs": [],
     "comment": "",
     "restrict": "",
     "form_s": "2",
-    "classes": "1",
+    "classes": "2",
     "dept_group": "",
     "hours": 3,
     "description": "This course will give an overview of the major features of English grammar. It will not cover all grammatical features in English, but rather aim at initiating independent thinking and research on the problematic areas of English grammar. You will become familiar with the intricacies of English grammar, particularly those that tend to be challenging to nonnative speakers. In this course you will learn to describe how English sentences are constructed and you will develop the skills necessary to analyze and explain English words, phrases and sentences, as well as learn the terminology to talk about them. In addition, you will learn about a corpus-based approach to studying vocabulary. Examining the use of words in natural contexts and different registers sheds light on our understanding of their true senses",
@@ -36,7 +38,7 @@
         "identify and correct grammatical errors in spoken and written English and provide grammar explanations with commonly used terminology",
         "explain how a word is used appropriately and how related words are distinguished"
     ],
-    "syllabus": "教學目標\n\nThis course will give an overview of the major features of English grammar. It will **not** cover **all** grammatical features in English, but rather aim at initiating independent thinking and research on the **problematic** areas of English grammar. You will become familiar with the intricacies of English grammar, particularly those that tend to be challenging to nonnative speakers. In this course you will learn to describe how English sentences are constructed and you will develop the skills necessary to analyze and explain English words, phrases and sentences, as well as learn the terminology to talk about them. In addition, you will also learn how to use the rhetorical patterns in writing for the purpose of clarity and effectiveness. \n\n教材大綱（含每週教學主題）\n\nWeek 1 Orientation\n\nWeek 2-4  Tense/aspect\n\nWeek 5-6  Passives\n\nWeek 7  Wrap-up and review\n\nWeek 8 Mid-term\n\nWeek 9 Sports Day (No class)\n\nWeek 10 Rhetorical skills\n\nWeek 11-12 Conditional clauses\n\nWeek 13-14 Relative clauses\n\nWeek 15 New Year's Day Long Weekend (No class)\n\nWeek 16  Final exam\n\nWeek 17-18  Self-directed learning: Group rhetorical project work",
+    "syllabus": "**本課程發放五個授權碼，抽籤決定，發完不再提供。第一次上課時會提供表單給欲選課同學填寫，之後將選課碼email給得籤同學。抽籤過程會錄影公開。**\n\n**第一次上課網址/方式請見 https://moodle3.ntnu.edu.tw/course/view.php?id=20882 公布。此網址初期會設定為公開，未註冊同學也可讀取網頁。**\n\nThis course will give an overview of the major features of English grammar. It will not cover all grammatical features in English, but rather aim at initiating independent thinking and research on the problematic areas of English grammar. You will become familiar with the intricacies of English grammar, particularly those that tend to be challenging to nonnative speakers. In this course you will learn to describe how English sentences are constructed and you will develop the skills necessary to analyze and explain English words, phrases and sentences, as well as learn the terminology to talk about them. In addition, you will learn about a corpus-based approach to studying vocabulary. Examining the use of words in natural contexts and different registers sheds light on our understanding of their true senses.",
     "methodologies": [
         {
             "type": "講述法",
@@ -55,40 +57,19 @@
             "note": ""
         },
         {
+            "type": "媒體融入教學",
+            "note": ""
+        },
+        {
             "type": "專題研究",
             "note": ""
         }
     ],
     "grading": [
         {
-            "type": "期中考",
-            "weight": 25,
-            "note": ""
-        },
-        {
-            "type": "期末考",
-            "weight": 25,
-            "note": ""
-        },
-        {
-            "type": "課堂討論參與",
-            "weight": 10,
-            "note": ""
-        },
-        {
-            "type": "報告",
-            "weight": 12,
-            "note": "小組口頭報告：實例分享"
-        },
-        {
-            "type": "專題",
-            "weight": 13,
-            "note": "小組書面報告：修辭專題"
-        },
-        {
             "type": "其他",
-            "weight": 15,
-            "note": "小考＋期末省思"
+            "weight": 100,
+            "note": ""
         }
     ],
     "prerequisite": "",

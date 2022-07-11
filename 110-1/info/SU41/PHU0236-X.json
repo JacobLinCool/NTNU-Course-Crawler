@@ -3,12 +3,14 @@
     "term": 1,
     "name": "近代物理學（一）",
     "teachers": [
-        "高賢忠"
+        "徐鏞元"
     ],
     "department": "SU41",
     "code": "PHU0236",
+    "type": "必",
+    "grade": 3,
     "credit": 3,
-    "serial": 2904,
+    "serial": 2907,
     "group": "",
     "quota": {
         "limit": 50,
@@ -20,21 +22,21 @@
             "from": 3,
             "to": 4,
             "campus": "公館",
-            "classroom": "Ｓ503"
+            "classroom": "理圖001"
         },
         {
-            "day": 5,
-            "from": 7,
-            "to": 7,
+            "day": 4,
+            "from": 4,
+            "to": 4,
             "campus": "公館",
-            "classroom": "Ｓ503"
+            "classroom": "理圖001"
         }
     ],
     "programs": [],
     "comment": "",
     "restrict": "",
     "form_s": "3",
-    "classes": "1",
+    "classes": "2",
     "dept_group": "",
     "hours": 3,
     "description": "介紹二十世紀初期卜朗克「量子論」興起後的物理學內涵。從黑體輻射開始，引介能量的量子化、光子、物質波、粒子和波動的二象性、測不準原理等重要概念，進而介紹薛丁格量子力學，並由此理解原子和原子核的結構和物理性質，另簡述基本粒子和固態物理的一些進展。",
@@ -43,7 +45,7 @@
         "熟悉近代物理的理論和實驗",
         "引導學生探究更精專的物理新知"
     ],
-    "syllabus": "week 1-2: Thermal Radiation and Photons\n\nweek 3-4: Introduction of Special relativity\n\nweek 5-6: Matter Waves\n\nweek 7: Borh’s Model of The Atom I\n\nweek 8: Mid-term exam\n\nweek 9: Borh’s Model of The Atom II\n\nweek 10-11: Schrodinger's Theory of Quantum Mechanics\n\nweek 12-13: Solution of Time-Dependent Schrodinger's equations\n\nweek 14-15: One Electron Atoms\n\nweek 16:   Final exam",
+    "syllabus": "**近代物理****101****上**\n\n**1\\.** **介紹二十世紀初期卜朗克「量子論」興起後的物理學內涵。**\n\n**2\\.** **簡介時空與特殊相對論以及廣義相對論。**\n\n**3\\.** **引介能量的量子化、光子。**\n\n**4\\.** **物質波、粒子和波動的二象性、測不準原理。**\n\n**5\\.** **介紹薛丁格量子力學，求解薛丁格方程。**\n\n**6\\.** **介紹穿隧現象。**\n\n**1\\.** **每週上課**\n\n**2\\.** **交作業/專題與名詞解釋報告**\n\n**3\\.** **期中****/****期末考**",
     "methodologies": [
         {
             "type": "講述法",
@@ -54,19 +56,23 @@
             "note": ""
         },
         {
-            "type": "問題解決教學",
+            "type": "媒體融入教學",
+            "note": ""
+        },
+        {
+            "type": "專題研究",
             "note": ""
         }
     ],
     "grading": [
         {
             "type": "作業",
-            "weight": 30,
-            "note": "作業、小考"
+            "weight": 10,
+            "note": ""
         },
         {
             "type": "期中考",
-            "weight": 25,
+            "weight": 30,
             "note": ""
         },
         {
@@ -76,7 +82,22 @@
         },
         {
             "type": "課堂討論參與",
+            "weight": 5,
+            "note": ""
+        },
+        {
+            "type": "出席",
+            "weight": 5,
+            "note": ""
+        },
+        {
+            "type": "報告",
             "weight": 10,
+            "note": ""
+        },
+        {
+            "type": "專題",
+            "weight": 5,
             "note": ""
         }
     ],

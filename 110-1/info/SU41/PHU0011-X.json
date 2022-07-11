@@ -3,12 +3,14 @@
     "term": 1,
     "name": "數學物理（一）",
     "teachers": [
-        "趙宇強"
+        "江府峻"
     ],
     "department": "SU41",
     "code": "PHU0011",
+    "type": "必",
+    "grade": 2,
     "credit": 3,
-    "serial": 2894,
+    "serial": 2891,
     "group": "",
     "quota": {
         "limit": 50,
@@ -20,14 +22,14 @@
             "from": 8,
             "to": 10,
             "campus": "公館",
-            "classroom": "Ｓ304"
+            "classroom": "Ｓ303"
         }
     ],
     "programs": [],
     "comment": "",
     "restrict": "",
     "form_s": "2",
-    "classes": "2",
+    "classes": "1",
     "dept_group": "",
     "hours": 3,
     "description": "教授物理系必修課程中所需之數學概念及技巧，使學生具備扎實的數學運算能力，以作為了解高深物理原理的基礎。",
@@ -35,32 +37,33 @@
         "具有數學邏輯推導與演算的能力",
         "簡介相關物理原理"
     ],
-    "syllabus": "1\\. Linear Algebra:\n\nA.     Vector Spaces\n\nB.     Determinant\n\nC.     Matrices\n\nD.    Orthogonal Matrices, Hermitian Matrices,and Unitary Matrices\n\nE.     Diagonalization of Matrices\n\nF.     Singular Value Decomposition\n\n2\\. Vector Analysis(differential vectoroperators and curvilinear coordinates)\n\n3\\. Curved Coordinates and Tensors \n\n4. Complex Analysis",
+    "syllabus": "**授課方式：16+2週. 彈性授課為第17週及第18週, 進行方式為自主學習**\n\nWeeks 1 to 4:\n\nI. ORDINARY DIFFERENTIAL EQUATIONS (ODEs):  \nA. Introduction. B. Examples of First Order Differential Equations. C. Exact ODEs. D. Integrating Factors. E. Linear ODEs and Bernoulli Equation. F. 2nd order ODEs: homogeneous Equations. G. 2nd order ODEs: nonhomogeneous Equations. H. Higher order ODEs and sets of ODEs. I. Laplace Transform.\n\nWeeks 5, 7, 8:\n\nII. INFINITE SERIES and SERIS SOLUTIONS OF ODEs: A. Introduction and Definition. B. Convergence Tests. C. Alternating Series. D. Series of Functions. E. Power Series. F. Series solutions of ODEs.\n\nWeek 6: First midterm exam (open book).\n\nWeeks 8, 9, 10, 12:\n\nIII. VECTOR ANALYSIS: A. Definition and Examples. B. Basic Operations on Vectors. C. Vector Diff erential Calculus : Gradient, Divergence and Curl. D. Vector Integral Calculus : Vector Integrals and Vector Integral Theorems. E. Application to Electrodynamics.\n\nWeek 11: Second midterm (open book)\n\nWeeks 12 to 15:\n\nIV. VECTOR ANALYSIS IN CURVILINEAR COORDINATES: A. General Introduction to Orthogonal Coordinates. B. Circular Cylindrical Coordinates. C. Spherical Polar Coordinates, D. Differential Vector Operators in Cylindrical and Spherical Coordinates.\n\nWeeks 15 to 16:\n\nV. MATRICES (PART I): A. Motivation for Matrices : Solving a Set of Linear Equations. B. Basic Operations on Matrices. C. Determinant of a Matrix. D. Inverse of a Matrix. E. Eigenvalues, Eigenvectors and diagonalization of a Matrix. F. Hermitian and Unitary Matrices.\n\nFinal exam week: Open book final exam.\n\nWeeks 17, 18: 自主學習\n\nVI. INTRODUCTION TO GROUP THEORY: A. Definition and Examples of Group. B. Generators of Continuous Groups. C. SO(3) and SU(2). D. Angular Momentum in Quantum Mechanics.",
     "methodologies": [
         {
             "type": "講述法",
-            "note": "上課以黑板及投影機講解,學生應記錄筆記."
-        },
-        {
-            "type": "討論法",
-            "note": "學生可隨時詢問或回答問題."
+            "note": ""
         }
     ],
     "grading": [
         {
-            "type": "期中考",
+            "type": "作業",
             "weight": 30,
-            "note": ""
+            "note": "A. There will be 5 to 6 homework assignments. B. Students are encouraged to discuss homework with their classmates. C. The hand in manuscripts must be written by each students individually. D. No credit for late homework."
+        },
+        {
+            "type": "期中考",
+            "weight": 40,
+            "note": "There will be two in class (open book) midterm exams."
         },
         {
             "type": "期末考",
-            "weight": 30,
-            "note": ""
+            "weight": 20,
+            "note": "There will be an in class (open book) final exam."
         },
         {
-            "type": "其他",
-            "weight": 40,
-            "note": "期中考前一次小考，期末考前一次小考"
+            "type": "出席",
+            "weight": 10,
+            "note": ""
         }
     ],
     "prerequisite": "",

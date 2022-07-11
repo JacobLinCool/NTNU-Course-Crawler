@@ -3,12 +3,14 @@
     "term": 1,
     "name": "英語教學概論",
     "teachers": [
-        "羅美蘭"
+        "李宜倩"
     ],
     "department": "LU21",
     "code": "ENU0150",
+    "type": "必",
+    "grade": 2,
     "credit": 2,
-    "serial": 1866,
+    "serial": 1893,
     "group": "",
     "quota": {
         "limit": 50,
@@ -16,18 +18,18 @@
     },
     "schedule": [
         {
-            "day": 4,
-            "from": 6,
-            "to": 7,
+            "day": 5,
+            "from": 3,
+            "to": 4,
             "campus": "本部",
-            "classroom": "正305"
+            "classroom": "正304"
         }
     ],
     "programs": [],
-    "comment": "建議修習輔系第一年時選修",
+    "comment": "",
     "restrict": "",
     "form_s": "2",
-    "classes": "",
+    "classes": "2",
     "dept_group": "",
     "hours": 2,
     "description": "Course Description: This is a one emester, 2 credit, mandatory course for English majors. The main objective of this course is to introduce you to theories and methods of teaching English to speakers of other languages. In this course, we will trace the historical development of second language teaching methods from grammar based curricula to present day interactive methods, where most of our focus will be placed. TESOL approaches and methods will be studied in their practical settings and in terms of their theoretical underpinnings. In addition to the theoretical focus, we will also discuss the practical aspects of teaching English as a foreign/second language. By the end of the course, you will be well-versed in applying major teaching methods that are currently being used in most EFL/ESL classrooms. teaching.",
@@ -36,7 +38,7 @@
         "To trace the historical development of second language teaching methods from grammar-based curricula to present-day interactive methods",
         "To discuss the practical aspects of teaching English as a foreign/second language"
     ],
-    "syllabus": "**Course Description**\n\nThis 2-credit course provides students with an initial overview of the field of English teaching from an interdisciplinary, multi-dimensional approach. The topics covered revolve around teaching techniques and procedures along with the underlying theories and principles.  \n\n**Required Text**\n\nNunan, D. (2015). Teaching English to speakers of other languages: An introduction. New York, NY: Routledge.\n\n(Available at 師大書苑02-83695556~8台北市和平東路1段182-3號2樓)\n\n**Grading Criteria**\n\nParticipation   \n\n20%\n\nIndividual Assignments (resume, autobiography, video link, 5 responses, reading note)\n\n30%\n\nGroup Presentation   \n\n20%\n\nFinal Project (ppt slides, 10-minute video link, 5 responses)\n\n20%\n\nFinal Reflection \n\n10%\n\n  \n**Tentative Schedule (Course Design:16+2 Weeks): Please refer to the pdf file.**",
+    "syllabus": "課程大綱請見附件  \n[教學進度與主題附件](https://ap.itc.ntnu.edu.tw/NtnuFileShare/file.do?action=dl&gno=3a6c3131161b4346b2f57c7f79201e4b&fno=a68a5d03b9dd48b2a39592cdb5d932cf)",
     "methodologies": [
         {
             "type": "講述法",
@@ -45,31 +47,27 @@
         {
             "type": "討論法",
             "note": ""
-        },
-        {
-            "type": "專題研究",
-            "note": ""
         }
     ],
     "grading": [
         {
-            "type": "作業",
-            "weight": 40,
+            "type": "期中考",
+            "weight": 25,
             "note": ""
+        },
+        {
+            "type": "期末考",
+            "weight": 30,
+            "note": "wriitten exam or project"
         },
         {
             "type": "課堂討論參與",
-            "weight": 10,
-            "note": ""
-        },
-        {
-            "type": "出席",
-            "weight": 10,
+            "weight": 20,
             "note": ""
         },
         {
             "type": "報告",
-            "weight": 40,
+            "weight": 25,
             "note": ""
         }
     ],

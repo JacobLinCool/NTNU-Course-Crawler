@@ -7,6 +7,8 @@
     ],
     "department": "E",
     "code": "E0C9004",
+    "type": "選",
+    "grade": null,
     "credit": 2,
     "serial": 338,
     "group": "",
@@ -23,7 +25,9 @@
             "classroom": "1-4 本部 誠204"
         }
     ],
-    "programs": [],
+    "programs": [
+        "產業實習學程"
+    ],
     "comment": "",
     "restrict": "◎必須先修過【E0C9002  產業入門基礎概論】、【E0C9003  產業行銷技巧與策略實戰】其中一門",
     "form_s": "",
