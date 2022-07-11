@@ -8,6 +8,8 @@
         ],
         "department": "OU57",
         "code": "BAU0006",
+        "type": "必",
+        "grade": 2,
         "credit": 3,
         "serial": 2440,
         "group": "",
@@ -43,6 +45,8 @@
         ],
         "department": "ZU83",
         "code": "PGUA002",
+        "type": "選",
+        "grade": null,
         "credit": 3,
         "serial": 3186,
         "group": "",
@@ -60,8 +64,7 @@
             }
         ],
         "programs": [
-            "基礎管理學程",
-            "藝術產業學程"
+            "基礎管理學程"
         ],
         "comment": "",
         "restrict": "◎第一階段限 基礎管理學程 ◎課程開放上修",
@@ -78,6 +81,8 @@
         ],
         "department": "ZU83",
         "code": "PGUA005",
+        "type": "必",
+        "grade": null,
         "credit": 3,
         "serial": 3187,
         "group": "",
@@ -112,6 +117,8 @@
         ],
         "department": "ZU83",
         "code": "PGUA007",
+        "type": "必",
+        "grade": null,
         "credit": 3,
         "serial": 3188,
         "group": "",

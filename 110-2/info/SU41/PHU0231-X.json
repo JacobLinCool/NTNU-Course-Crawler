@@ -3,12 +3,14 @@
     "term": 2,
     "name": "力學（二）",
     "teachers": [
-        "陳穎叡"
+        "林豐利"
     ],
     "department": "SU41",
     "code": "PHU0231",
+    "type": "必",
+    "grade": 2,
     "credit": 3,
-    "serial": 2816,
+    "serial": 2813,
     "group": "",
     "quota": {
         "limit": 50,
@@ -20,14 +22,14 @@
             "from": 6,
             "to": 8,
             "campus": "公館",
-            "classroom": "Ｓ304"
+            "classroom": "Ｅ101"
         }
     ],
     "programs": [],
     "comment": "",
     "restrict": "◎課程開放上修",
     "form_s": "2",
-    "classes": "2",
+    "classes": "1",
     "dept_group": "",
     "hours": 3,
     "description": "本課程提供物理系大學部理論力學一般的題材。",
@@ -37,19 +39,19 @@
         "令學生了解力學的發展歷史",
         "使學生注意最新的發展"
     ],
-    "syllabus": "授課方式：16+2週\n\n1\\. Dynamics of a System of Particles: Center of Mass, Linear Momentum, Angular Momentum, Energy of the System\n\n2\\. Two-Body Problem, Collisions, Scattering and Cross Sections\n\n3\\. Motion in a Non-inertial Reference Frame\n\n4~5. Rigid Bodies Planar Motion, Moment of Inertia and Angular Momentum\n\n6~7. Rotation of a Rigid Body, Symmetry axes of Rigid Bodies\\` rotations, Eulerian Angles\n\n8\\. Mid-term exam.\n\n9~11. Coupled Oscillations\n\n12~13. Waves\n\n14~15. Special Relativity\n\n16\\. Final exam",
+    "syllabus": "1\\. Dynamics of a System of Particles: Center of Mass, Linear Momentum, Angular Momentum, Energy of the System\n\n  \n\n2\\. Two-Body Problem, Collisions, Scattering and Cross Sections\n\n  \n\n3\\. Motion in a Non-inertial Reference Frame\n\n  \n\n4~5. Rigid Bodies Planar Motion, Moment of Inertia and Angular Momentum\n\n  \n\n6\\. Rotation of a Rigid Body\n\n  \n\n7\\. Symmetry axes of Rigid Bodies\\` rotations\n\n  \n\n8\\. Eulerian Angles\n\n  \n\n9\\. Mid-term exam.\n\n10~12. Coupled Oscillations\n\n  \n\n13~14. Waves\n\n  \n\n15~17. Special Relativity\n\n  \n\n18\\. Final exam",
     "methodologies": [
         {
             "type": "講述法",
-            "note": "使用黑板，PPT 及 電腦模擬演示，因應疫情有可能採線上教學"
+            "note": "使用黑板，PPT 及 電腦模擬演示"
         },
         {
             "type": "討論法",
-            "note": "隨堂或線上討論"
+            "note": "隨堂討論"
         },
         {
             "type": "其他",
-            "note": "17及18周有可能視情況採彈性教學"
+            "note": "作業"
         }
     ],
     "grading": [

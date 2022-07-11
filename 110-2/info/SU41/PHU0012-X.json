@@ -3,12 +3,14 @@
     "term": 2,
     "name": "數學物理（二）",
     "teachers": [
-        "趙宇強"
+        "江府峻"
     ],
     "department": "SU41",
     "code": "PHU0012",
+    "type": "必",
+    "grade": 2,
     "credit": 3,
-    "serial": 2814,
+    "serial": 2811,
     "group": "",
     "quota": {
         "limit": 50,
@@ -20,14 +22,14 @@
             "from": 8,
             "to": 10,
             "campus": "公館",
-            "classroom": "Ｓ304"
+            "classroom": "Ｓ303"
         }
     ],
     "programs": [],
     "comment": "",
     "restrict": "◎課程開放上修",
     "form_s": "2",
-    "classes": "2",
+    "classes": "1",
     "dept_group": "",
     "hours": 3,
     "description": "教授物理系必修課程中所需之數學概念及技巧，使學生具備扎實的數學運算能力，以作為了解高深物理原理的基礎.",
@@ -35,32 +37,28 @@
         "具有數學邏輯推導與演算的能力",
         "簡介相關物理原理"
     ],
-    "syllabus": "因應新冠肺炎疫情之課程調整方式:   本課程將另外規劃二週課程，以自主學習與補救教學為主之學習活動。\n\n1\\. Linear Algebra:\n\n    A. VectorAnalysis(differential vector operators and curvilinear coordinates)\n\n    B. Tensorand Differential Forms\n\n    C. VectorSpaces\n\n    D.Eigenvalue Problems\n\n2\\. Differential Equations\n\n    A.Strum-Liouville Theory\n\n    B.Orthogonal Functions",
+    "syllabus": "**授課方式：16+2週. 彈性授課為第17週及第18週**, **進行方式為自主學習**\n\nWeek 1: Continuation of matrix and calculus of variations.\n\nWeeks 2, 3 ,4, 5: 特殊方程式:Hermite方程，Bessel方程，Legendre方程，Laguerre方程.\n\nWeek 6: 第一次期中考 (開書考).\n\nWeeks 7, 8, 9: 傳利葉分析:傳利葉級數，傳立葉正弦及餘弦級數，Sturm-Liouville 系統及傳利葉轉換.\n\nWeeks 10, 11, 13: 偏微分方程: Green Functions 方法，熱導方程，波動方程，薛丁格方程簡介.\n\nWeek 12: 第二次期中考 (開書考).\n\nWeeks 14, 15, 16: 複變函數: 複變函數之微分及積分，Cauchy-Reimann 方程，Taylor and Laurent Series，留數及其應用. \n\n期末考週: 期末考 (開書考).\n\nWeeks 17, 18: 自主學習, 主題為積分方程及機率.",
     "methodologies": [
         {
             "type": "講述法",
-            "note": "上課以黑板及投影機講解,學生應記錄筆記."
-        },
-        {
-            "type": "討論法",
-            "note": "學生可隨時詢問或回答問題."
+            "note": ""
         }
     ],
     "grading": [
         {
+            "type": "作業",
+            "weight": 25,
+            "note": ""
+        },
+        {
             "type": "期中考",
-            "weight": 30,
+            "weight": 50,
             "note": ""
         },
         {
             "type": "期末考",
-            "weight": 30,
+            "weight": 25,
             "note": ""
-        },
-        {
-            "type": "其他",
-            "weight": 40,
-            "note": "期中考前一次小考，期末考前一次小考"
         }
     ],
     "prerequisite": "",

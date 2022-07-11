@@ -2,12 +2,88 @@
     {
         "year": 110,
         "term": 2,
+        "name": "木器設計與製造",
+        "teachers": [
+            "林弘昌"
+        ],
+        "department": "HU71",
+        "code": "ITU0158",
+        "type": "選",
+        "grade": 2,
+        "credit": 3,
+        "serial": 1184,
+        "group": "",
+        "quota": {
+            "limit": 30,
+            "additional": 5
+        },
+        "schedule": [
+            {
+                "day": 3,
+                "from": 6,
+                "to": 9,
+                "campus": "本部",
+                "classroom": "科技系TC501"
+            }
+        ],
+        "programs": [
+            "室內設計學程",
+            "大師創業學程"
+        ],
+        "comment": "設科組優先選課",
+        "restrict": "◎必須先修過【ITU0002  木工製造】 ◎課程開放上修",
+        "form_s": "2",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 2,
+        "name": "製造科技",
+        "teachers": [
+            "林弘昌"
+        ],
+        "department": "HU71",
+        "code": "ITU2083",
+        "type": "必",
+        "grade": 3,
+        "credit": 3,
+        "serial": 1198,
+        "group": "",
+        "quota": {
+            "limit": 30,
+            "additional": 10
+        },
+        "schedule": [
+            {
+                "day": 1,
+                "from": 2,
+                "to": 4,
+                "campus": "本部",
+                "classroom": "科技系TC501"
+            }
+        ],
+        "programs": [
+            "理工實作學程",
+            "大師創業學程"
+        ],
+        "comment": "設科組優先選課",
+        "restrict": "◎必須先修過【ITU0002  木工製造】 ◎課程開放上修",
+        "form_s": "3",
+        "classes": "",
+        "dept_group": ""
+    },
+    {
+        "year": 110,
+        "term": 2,
         "name": "創業經營教戰手則",
         "teachers": [
             "韓宗憲"
         ],
         "department": "ZU9V",
         "code": "PGU9004",
+        "type": "必",
+        "grade": null,
         "credit": 2,
         "serial": 3218,
         "group": "",
@@ -42,6 +118,8 @@
         ],
         "department": "ZU9V",
         "code": "PGU9005",
+        "type": "必",
+        "grade": null,
         "credit": 2,
         "serial": 3219,
         "group": "",

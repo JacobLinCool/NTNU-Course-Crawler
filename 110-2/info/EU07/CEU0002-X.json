@@ -7,8 +7,10 @@
     ],
     "department": "EU07",
     "code": "CEU0002",
+    "type": "必",
+    "grade": 1,
     "credit": 2,
-    "serial": 788,
+    "serial": 784,
     "group": "",
     "quota": {
         "limit": 50,
@@ -17,8 +19,8 @@
     "schedule": [
         {
             "day": 1,
-            "from": 8,
-            "to": 9,
+            "from": 6,
+            "to": 7,
             "campus": "本部",
             "classroom": "誠109"
         }
@@ -29,7 +31,7 @@
     "comment": "",
     "restrict": "◎課程開放上修",
     "form_s": "1",
-    "classes": "2",
+    "classes": "1",
     "dept_group": "",
     "hours": 2,
     "description": "詳見教學大綱",

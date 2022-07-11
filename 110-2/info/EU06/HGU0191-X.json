@@ -7,8 +7,10 @@
     ],
     "department": "EU06",
     "code": "HGU0191",
+    "type": "必",
+    "grade": 1,
     "credit": 3,
-    "serial": 741,
+    "serial": 764,
     "group": "",
     "quota": {
         "limit": 50,
@@ -17,10 +19,10 @@
     "schedule": [
         {
             "day": 2,
-            "from": 7,
-            "to": 9,
+            "from": 2,
+            "to": 4,
             "campus": "本部",
-            "classroom": "誠109"
+            "classroom": "誠207"
         }
     ],
     "programs": [],
@@ -28,7 +30,7 @@
     "restrict": "◎課程開放上修",
     "form_s": "1",
     "classes": "",
-    "dept_group": "B",
+    "dept_group": "E",
     "hours": 3,
     "description": "本課程旨在分析臺灣家庭的現況，並透過家庭發展理論的架構，探究家庭生活與家人關係；建立家庭研究的基本概念與方法。",
     "goals": [

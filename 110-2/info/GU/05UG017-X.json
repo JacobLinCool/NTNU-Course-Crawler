@@ -7,6 +7,8 @@
     ],
     "department": "GU",
     "code": "05UG017",
+    "type": "通",
+    "grade": null,
     "credit": 2,
     "serial": 954,
     "group": "",
@@ -37,9 +39,9 @@
     "hours": 2,
     "description": "",
     "goals": [
-        "能撰寫程式分析資料與呈現結果",
-        "能運用運算思維來設計與描述問題解決流程",
-        "能描述程式架構與功能，並與它人討論程式內容"
+        "Be able to construct algorithms, analyze data, and present the results.",
+        "Be able to design and illustrate problem-solving processes utilizing computational thinking skills.",
+        "Be able to describe and discuss about the structure and function of algorithms."
     ],
     "syllabus": "Through a series of data analytics real life applications, the course aims to equip students with the ability to collect, cleanse, analyze, and present data in an effective manner, which is important as the Big Data Era has come to be. The course covers control flow, common data structures, string processing, file processing, functional programing, data visualization, web scraping, and data analysis.\n\nThough this course is designed for students with basic concepts of programming (e.g. those who completed Computational Thinking and Programming), prior knowledge of any programming language is not a necessity. Students with a non-STEM background are very much welcome!\n\nIf you are already proficient with Python and are interested in learning about Data Mining or Machine Learning, please consider other courses from the CSIE department. \n\nWeek 1.Introduction\n\nWeek 2.Data Science Project Life Cycle Overview\n\nWeek 3.Primitive Python Data Structures\n\nWeek 4.Primitive Python Data Structures\n\nWeek 5.Non-Primitive Python Data Structures / Control Flow\n\nWeek 6.Non-Primitive Python Data Structures / Control Flow\n\nWeek 7.Tabular Data and Pandas / Control Flow / Pseudocode\n\nWeek 8.Tabular Data and Pandas / Control Flow\n\nWeek 9.Midterm Exam (Open Book & Open Web)\n\nWeek 10.Case Studies for Final Project Inspiration / Open Data Sources\n\nWeek 11.Functional Programming\n\nWeek 12.Functional Programming / Data Visualization\n\nWeek 13.Data Visualization\n\nWeek 14.Basic Web Scraping / Data Science Ethics\n\nWeek 15.Basic Command Line Programming\n\nWeek 16.Other Tools to Consider in the Future\n\nWeek 17.Presentation\n\nWeek 18.Presentation / Wrap Up\n\n本課程適合具有基礎程式設計概念（例如曾修習本校「運算思維與程式設計」通識課程）的同學修習，尤其歡迎非理工背景同學。若已具備 Python 程式能力且想學習資料探勘或機器學習的同學，建議選修資工系相關課程。\n\n1.  課程介紹\n2.  資料科學專案生命週期\n3.  Python基元資料結構\n4.  Python基元資料結構\n5.  Python非基元資料結構 / 流程控制\n6.  Python非基元資料結構 / 流程控制\n7.  表狀資料 (Pandas) / 流程控制 / 偽代碼\n8.  表狀資料 (Pandas) / 流程控制\n9.  期中考 (Open Book & Open Web)\n10.  專題研討與期末專題發想 / 資料庫資源\n11.  函數程式設計\n12.  函數程式設計/ 資料視覺化\n13.  資料視覺化\n14.  基礎網頁爬蟲 / 資料科學倫理\n15.  基礎命令行\n16.  其他資料科學工具介紹\n17.  專題展示\n18.  專題展示 / 總結",
     "methodologies": [

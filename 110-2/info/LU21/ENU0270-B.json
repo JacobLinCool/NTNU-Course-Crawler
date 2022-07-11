@@ -7,8 +7,10 @@
     ],
     "department": "LU21",
     "code": "ENU0270",
+    "type": "必",
+    "grade": 1,
     "credit": 2,
-    "serial": 1760,
+    "serial": 1765,
     "group": "B",
     "quota": {
         "limit": 25,
@@ -17,8 +19,8 @@
     "schedule": [
         {
             "day": 4,
-            "from": 6,
-            "to": 7,
+            "from": 8,
+            "to": 9,
             "campus": "本部",
             "classroom": "誠304"
         }
@@ -27,7 +29,7 @@
     "comment": "建議修習輔系第一年時選修",
     "restrict": "◎課程開放上修",
     "form_s": "1",
-    "classes": "1",
+    "classes": "2",
     "dept_group": "",
     "hours": 2,
     "description": "",

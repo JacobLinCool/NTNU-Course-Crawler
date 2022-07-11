@@ -3,12 +3,14 @@
     "term": 2,
     "name": "英語演講：英語簡報",
     "teachers": [
-        "孔繁偉"
+        "李宜倩"
     ],
     "department": "LU21",
     "code": "ENU0218",
+    "type": "必",
+    "grade": 3,
     "credit": 2,
-    "serial": 1791,
+    "serial": 1816,
     "group": "B",
     "quota": {
         "limit": 25,
@@ -16,17 +18,17 @@
     },
     "schedule": [
         {
-            "day": 4,
+            "day": 5,
             "from": 6,
             "to": 7,
             "campus": "本部",
-            "classroom": "正302"
+            "classroom": "正304"
         }
     ],
     "programs": [],
     "comment": "",
     "restrict": "◎必須先修過【ENU0269  英語會話（一）】、【ENU0270  英語會話（二）】 ◎課程開放上修",
-    "form_s": "2",
+    "form_s": "3",
     "classes": "2",
     "dept_group": "",
     "hours": 2,
@@ -36,36 +38,32 @@
         "To help students learn the art of mind-mapping, brainstorming, and outlining",
         "To help student learn how to critique many presentations"
     ],
-    "syllabus": "Public Speaking: Presentation\n\n**Learning objectives:**\n\nThis course aims to introduce you to the basics of interpersonal communication and public presentation skills. You will develop your English presentation skills by honing the basics of word choice, paragraph organization and delivery systematically through a process approach to be more familiar with the structure of effective presentations for different audiences on various occasions. You will also learn how to use the tools learned in class to become an inspiring and effective professional presenter in English.\n\n**From this course:**\n\n1\\. Students will be able to learn the effective techniques to develop professional presentations;\n\n2\\. Students will be able to learn the art of professional presentations;\n\n3. Students will be able to appreciate and critique different presentations on various occasions\n\n**Course requirements:**\n\nStudents will give two prepared presentations for midterm (40%) and final (40%) in this semester. Assessment rubrics will entail the topics covered in class to see what you have learned from our weekly discussion. \n\nAttendance is crucial to succeed in this course. Sick and personal leaves will be permitted only if email notifications have been received before the meeting. Late arrivals of more than 15 minutes will be deemed absence and will result in a deduction of 4 out of 20 of your attendance score. \n\n**Class schedule:**\n\n1\\. Introduction: speaking professionally for presentations\n\n2\\. Speaking on special occasions\n\n3\\. Presenting in small groups I\n\n4\\. Presenting in small groups II\n\n5\\. Presentation core concepts: introducing the objective\n\n6\\. Presentation slides: outlining the structure\n\n7\\. A basic presentation: introducing the main body\n\n8\\. Midterm presentation I\n\n9\\. Midterm presentation II\n\n10\\. Introducing a company \n\n11\\. Explaining the management structure \n\n12\\. A perfect product launch \n\n13\\. Talking your product up: signpost language \n\n14\\. A promotion plan: using visual aids\n\n15\\. Final presentation I\n\n16\\. Final presentation II",
+    "syllabus": "Schedule: \n\n**Date**\n\n**Topic**\n\n**Homework**\n\nWeek 1\n\nCourse overview\n\nWeek 2\n\nTimed speech\n\nWeek 3\n\nTimed speech\n\nWeek 4\n\nImpromptu speech\n\nWeek 5\n\nImpromptu speech\n\nWeek 6\n\nInterview and designing questions\n\nWeek 7\n\nInterview and designing questions\n\nWeek 8\n\nCareer project poster\n\nWeek 9\n\nCareer project poster\n\nWeek 10\n\nPersuasive speech\n\n \n\nWeek 12\n\nPersuasive speech\n\nWeek 13\n\nPersuasive speech\n\nWeek 14\n\nPersuasive speech\n\nWeek 15\n\nPersuasive speech\n\nWeek 16\n\nPersuasive speech\n\nWeek 17\n\nWeek 18\n\nPersuasive speech\n\nFinal Sharing",
     "methodologies": [
         {
-            "type": "Formal lecture",
-            "note": "Thematic lectures"
+            "type": "Group discussion",
+            "note": "Students will learn to critique each other`s presentations."
         },
         {
-            "type": "Problem base learning",
-            "note": "Problem-based learning"
-        },
-        {
-            "type": "Media, audio, visual materials",
-            "note": "Multimedia used for learning"
+            "type": "Cooperative learning",
+            "note": "Students will work with each other in class on different speeches."
         }
     ],
     "grading": [
         {
-            "type": "Midterm Exam",
-            "weight": 40,
-            "note": "Midterm presentation"
+            "type": "Assignments",
+            "weight": 35,
+            "note": "課堂練習即席演講"
         },
         {
-            "type": "Final exam",
-            "weight": 40,
-            "note": "Final presentation"
+            "type": "Presentation",
+            "weight": 60,
+            "note": "兩種簡報演講"
         },
         {
-            "type": "Attendances",
-            "weight": 20,
-            "note": "Attendance"
+            "type": "other:",
+            "weight": 5,
+            "note": "期末分享"
         }
     ],
     "prerequisite": "Prerequisite course: 【ENU0269  English Conversation (I)】、【ENU0270  English Conversation (II)】 ◎Available for junior and senior year B.A. program students (Doctoral program courses excepted) and M.A. program students.",

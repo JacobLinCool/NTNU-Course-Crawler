@@ -3,12 +3,14 @@
     "term": 2,
     "name": "代數學（二）",
     "teachers": [
-        "劉容真"
+        "胡舉卿"
     ],
     "department": "SU40",
     "code": "MAU0167",
+    "type": "必",
+    "grade": 2,
     "credit": 3,
-    "serial": 2759,
+    "serial": 2764,
     "group": "",
     "quota": {
         "limit": 50,
@@ -20,21 +22,21 @@
             "from": 3,
             "to": 4,
             "campus": "公館",
-            "classroom": "理圖003"
+            "classroom": "Ｓ202"
         },
         {
             "day": 5,
-            "from": 3,
-            "to": 3,
+            "from": 6,
+            "to": 6,
             "campus": "公館",
-            "classroom": "理圖003"
+            "classroom": "Ｓ204"
         }
     ],
     "programs": [],
     "comment": "",
     "restrict": "◎必須先修過【MAU0166  代數學（一）】 ◎課程開放上修",
     "form_s": "2",
-    "classes": "2",
+    "classes": "3",
     "dept_group": "",
     "hours": 3,
     "description": "本課程讓學生瞭解群、環、體的基本理論，以作為學生未來修習其他進階課程的基礎。",
@@ -43,7 +45,7 @@
         "訓練學生可以用代數的語言進行溝通、表達、寫作。",
         "培養學生的直覺、欣賞與應用高等代數至其他學科的能力。"
     ],
-    "syllabus": " 1. Rings, Integral domains, and Fields (2 weeks)  \n 2. Factorization of Polynomials over a Field (3 weeks)  \n 3. Ring Homomorphism, Ideals, and Factor Rings (3 weeks)  \n 4. Maximal Ideals and Prim Ideals (2 weeks)  \n 5. Introduction of UFD, PID, and ED (2 weeks)  \n 6. Extension Fields (3 weeks)",
+    "syllabus": " \n\n1.          Rings, Integral domains, and Fields（2 weeks）\n\n2.          Factorization of Polynomials over a Field（3 weeks）\n\n3.          Ring Homomorphism, Ideals, and Factor Rings（3 weeks）\n\n4.          Maximal ideals and Prime Ideals（2 weeks）\n\n5.          Introduction of UFD, PID, and ED（3 weeks）\n\n6.          Extension Fields（3 weeks）\n\n另每學期進行期中、期末考各一週。",
     "methodologies": [
         {
             "type": "講述法",
@@ -61,28 +63,23 @@
     "grading": [
         {
             "type": "作業",
-            "weight": 11,
+            "weight": 10,
             "note": ""
         },
         {
             "type": "期中考",
-            "weight": 44,
+            "weight": 50,
             "note": ""
         },
         {
             "type": "期末考",
-            "weight": 33,
+            "weight": 30,
             "note": ""
         },
         {
-            "type": "課堂討論參與",
-            "weight": 1,
+            "type": "出席",
+            "weight": 10,
             "note": ""
-        },
-        {
-            "type": "其他",
-            "weight": 11,
-            "note": "小考"
         }
     ],
     "prerequisite": "◎必須先修過【MAU0166  代數學（一）】",

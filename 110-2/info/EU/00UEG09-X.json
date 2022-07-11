@@ -7,12 +7,14 @@
     ],
     "department": "EU",
     "code": "00UEG09",
+    "type": "必",
+    "grade": null,
     "credit": 2,
     "serial": 598,
     "group": "",
     "quota": {
         "limit": 40,
-        "additional": 15
+        "additional": 20
     },
     "schedule": [
         {
@@ -20,7 +22,7 @@
             "from": 8,
             "to": 9,
             "campus": "本部",
-            "classroom": "特112"
+            "classroom": "特114演講廳"
         }
     ],
     "programs": [

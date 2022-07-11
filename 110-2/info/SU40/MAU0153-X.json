@@ -3,12 +3,14 @@
     "term": 2,
     "name": "機率導論",
     "teachers": [
-        "張少同"
+        "呂翠珊"
     ],
     "department": "SU40",
     "code": "MAU0153",
+    "type": "必",
+    "grade": 2,
     "credit": 3,
-    "serial": 2757,
+    "serial": 2762,
     "group": "",
     "quota": {
         "limit": 50,
@@ -16,18 +18,18 @@
     },
     "schedule": [
         {
-            "day": 4,
-            "from": 6,
-            "to": 8,
+            "day": 5,
+            "from": 2,
+            "to": 4,
             "campus": "公館",
-            "classroom": "Ｃ002"
+            "classroom": "Ｓ502"
         }
     ],
     "programs": [],
     "comment": "",
     "restrict": "◎課程開放上修",
     "form_s": "2",
-    "classes": "2",
+    "classes": "3",
     "dept_group": "",
     "hours": 3,
     "description": "本課程介紹事件機率的基本觀念、各種機率理論。",
@@ -36,7 +38,7 @@
         "提升研究問題與解題的能力",
         "了解如何應用機率及相關方法到其他議題"
     ],
-    "syllabus": "【16+2週】\n\n第1週 Motivation and overview. Review of probability and statistics.\n\n第2週 Combinational analysis. Probability theory.\n\n第3週 Conditional probability and independence.\n\n第4週 Random variables\n\n第5週 Discrete random variables I\n\n第6週 Discrete random variables II\n\n第7週 Discrete random variables III\n\n第8週 Midterm Exam\n\n第9週 Continuous random variables I\n\n第10週 Continuous random variables II\n\n第11週 Continuous random variables III\n\n第12週 Jointly distributed random variables I\n\n第13週 Jointly distributed random variables II\n\n第14週 Properties of expectation I\n\n第15週 Properties of expectation II\n\n第16週 Final Exam\n\n有2週 由學生閱讀論文自主學習並於期末繳交報告",
+    "syllabus": "第1週 Motivation and overview. Review of probability and statistics.\n\n第2週 Combinational analysis. Probability theory.\n\n第3週 Conditional probability and independence.\n\n第4週 Random variables\n\n第5週 Discrete random variables I\n\n第6週 Discrete random variables II\n\n第7週 Discrete random variables III\n\n第8週 Continuous random variables I\n\n第9週 Continuous random variables II\n\n第10週 Midterm Exam\n\n第11週 Continuous random variables III\n\n第12週 Jointly distributed random variables I\n\n第13週 Jointly distributed random variables II\n\n第14週 Properties of expectation I\n\n第15週 Properties of expectation II\n\n第16週 Limit theorems I\n\n第17週 Limit theorems II\n\n第18週 Final Exam\n\n\\--\n\n因應新冠病毒肺炎影響，每週多上20分鐘課程，平均分攤第十七、十八週時數，期末考於第十六週進行。",
     "methodologies": [
         {
             "type": "講述法",
@@ -49,34 +51,19 @@
     ],
     "grading": [
         {
-            "type": "作業",
-            "weight": 10,
-            "note": ""
-        },
-        {
             "type": "期中考",
             "weight": 30,
             "note": "命題形式以解題為主"
         },
         {
             "type": "期末考",
-            "weight": 30,
+            "weight": 40,
             "note": "命題形式以解題為主"
         },
         {
-            "type": "課堂討論參與",
-            "weight": 5,
-            "note": ""
-        },
-        {
-            "type": "出席",
-            "weight": 5,
-            "note": ""
-        },
-        {
             "type": "其他",
-            "weight": 20,
-            "note": "隨堂考試(與平時勾選的作業有關，約莫2次。)"
+            "weight": 30,
+            "note": "隨堂考試(與平時勾選的作業有關，約莫5-6次，每次考試時間以不超過二十分鐘為限。)"
         }
     ],
     "prerequisite": "",

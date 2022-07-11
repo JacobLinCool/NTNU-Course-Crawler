@@ -7,6 +7,8 @@
     ],
     "department": "HU71",
     "code": "ITU2083",
+    "type": "必",
+    "grade": 3,
     "credit": 3,
     "serial": 1198,
     "group": "",
@@ -24,7 +26,8 @@
         }
     ],
     "programs": [
-        "理工實作學程"
+        "理工實作學程",
+        "大師創業學程"
     ],
     "comment": "設科組優先選課",
     "restrict": "◎必須先修過【ITU0002  木工製造】 ◎課程開放上修",
