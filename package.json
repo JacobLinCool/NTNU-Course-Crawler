@@ -24,19 +24,23 @@
         "lib"
     ],
     "devDependencies": {
-        "@trivago/prettier-plugin-sort-imports": "^3.2.0",
-        "@types/node": "^17.0.10",
-        "@typescript-eslint/eslint-plugin": "^5.10.0",
-        "@typescript-eslint/parser": "^5.10.0",
-        "eslint": "^8.7.0",
-        "eslint-config-prettier": "^8.3.0",
-        "prettier": "^2.5.1",
-        "tsup": "^5.11.11",
-        "typescript": "^4.5.5"
+        "@trivago/prettier-plugin-sort-imports": "^3.4.0",
+        "@types/node": "^18.11.9",
+        "@typescript-eslint/eslint-plugin": "^5.42.0",
+        "@typescript-eslint/parser": "^5.42.0",
+        "eslint": "^8.26.0",
+        "eslint-config-prettier": "^8.5.0",
+        "prettier": "^2.7.1",
+        "tsup": "^6.3.0",
+        "typescript": "^4.8.4"
     },
     "dependencies": {
         "@jacoblincool/puddle": "^0.1.1",
-        "commander": "^9.2.0",
-        "ntnu-course": "^0.1.5"
+        "chalk": "^5.1.2",
+        "commander": "^9.4.1",
+        "cuid": "^2.1.8",
+        "log-update": "^5.0.1",
+        "ntnu-course": "^0.1.5",
+        "unicourse": "1.0.0-alpha.2"
     }
 }
