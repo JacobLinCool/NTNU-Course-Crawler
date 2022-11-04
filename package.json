@@ -2,6 +2,7 @@
     "name": "ntnu-course-crawler",
     "version": "0.1.0",
     "description": "Crawler for Courses on National Taiwan Normal University's Website",
+    "type": "module",
     "main": "dist/index.js",
     "scripts": {
         "prepare": "npm run -s build",
