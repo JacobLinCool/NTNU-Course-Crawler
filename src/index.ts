@@ -191,7 +191,7 @@ async function run(opt: {
 
         const department_map = new Map<string, string>();
         for (const [k, v] of Object.entries(DepartmentCode)) {
-            if (/[A-Z0-9]/.test(k) && /[^A-Z0-9]/.test(v)) {
+            if (/[^A-Z0-9]/.test(k) && !/[^A-Z0-9]/.test(v)) {
                 department_map.set(v, k);
             }
         }
