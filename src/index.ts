@@ -16,8 +16,7 @@ const departments = Object.keys(DepartmentCode).filter(
 program
     .name("NTNU Course Crawler")
     .option("-c, --concurrency <num>", "concurrency number", "3")
-    .option("-y, --year <num>", "year", date2term()[0].toString())
-    .option("-t, --term <num>", "term", date2term()[1].toString())
+    .option("-t, --targets <year-term...>", "targets", date2term().join("-"))
     .option("-a, --adapter <adapter>", "use a schema adapter", "squash")
     .option("-f, --force", "overwrite existing output", false)
     .action(run)
@@ -25,121 +24,139 @@ program
 
 async function run(opt: {
     concurrency: string;
-    year: string;
-    term: string;
+    targets: string[];
     adapter: string;
     force: boolean;
 }): Promise<void> {
     const concurrency = parseInt(opt.concurrency);
-    const year = parseInt(opt.year);
-    const term = parseInt(opt.term);
     const force = opt.force;
     const adapter = opt.adapter;
 
-    console.log(`NTNU Course Crawler. Target: ${year}-${term} Concurrency:`, concurrency);
+    console.log(chalk.cyan.bold("NTNU Course Crawler"), `Concurrency: ${concurrency}`);
 
-    const START_TIME = Date.now();
-    const root = resolve("data", `${year}-${term}`);
-    const counter = { meta: 0, meta_dep: 0, parsed: 0, skipped: 0, failed: 0 };
+    const all_courses: CourseInfo[] = [];
+    for (const target of opt.targets) {
+        const [year, term] = target.split("-").map((x) => parseInt(x));
+        console.log("Target:", chalk.magenta(`${year}-${term}`));
 
-    if (!existsSync(resolve(root, "meta"))) {
-        mkdirSync(resolve(root, "meta"), { recursive: true });
-    }
+        const START_TIME = Date.now();
+        const root = resolve("data", `${year}-${term}`);
+        const counter = { meta: 0, meta_dep: 0, parsed: 0, skipped: 0, failed: 0 };
 
-    const meta_pool = new Pool(concurrency);
-    const meta_map: Record<number, CourseMeta> = {};
+        if (!existsSync(resolve(root, "meta"))) {
+            mkdirSync(resolve(root, "meta"), { recursive: true });
+        }
 
-    for (const dep of departments) {
-        meta_pool.push(async () => {
-            try {
-                const filepath = resolve(root, "meta", `${dep}.json`);
+        const meta_pool = new Pool(concurrency);
+        const meta_map: Record<number, CourseMeta> = {};
 
-                const exists = existsSync(filepath) && !force;
-                const meta: CourseMeta[] = exists
-                    ? JSON.parse(readFileSync(filepath, "utf8"))
-                    : await query.meta({ year, term, department: dep });
+        for (const dep of departments) {
+            meta_pool.push(async () => {
+                try {
+                    const filepath = resolve(root, "meta", `${dep}.json`);
 
-                if (!exists) {
-                    writeFileSync(filepath, JSON.stringify(meta, null, 4));
-                }
+                    const exists = existsSync(filepath) && !force;
+                    const meta: CourseMeta[] = exists
+                        ? JSON.parse(readFileSync(filepath, "utf8"))
+                        : await query.meta({ year, term, department: dep });
 
-                for (const course of meta) {
-                    if (!meta_map[unique(course)]) {
-                        meta_map[unique(course)] = course;
-                        counter.meta++;
+                    if (!exists) {
+                        writeFileSync(filepath, JSON.stringify(meta, null, 4));
                     }
+
+                    for (const course of meta) {
+                        if (!meta_map[unique(course)]) {
+                            meta_map[unique(course)] = course;
+                            counter.meta++;
+                        }
+                    }
+
+                    counter.meta_dep++;
+                } catch (err) {
+                    console.error((err as Error).message, { dep });
                 }
 
-                counter.meta_dep++;
-            } catch (err) {
-                console.error((err as Error).message, { dep });
-            }
+                log_progress(
+                    `${chalk.yellow("[Preparing]")} ${chalk.magenta(
+                        time(Math.floor((Date.now() - START_TIME) / 1000)),
+                    )} ` +
+                        `Collecting metadata of ${chalk.yellow(dep)} (${chalk.yellow(
+                            counter.meta,
+                        )} | ${counter.meta_dep}/${departments.length})`,
+                );
+            });
+        }
+        await meta_pool.run();
 
-            log_progress(
-                `${chalk.yellow("[Preparing]")} ${chalk.magenta(
-                    time(Math.floor((Date.now() - START_TIME) / 1000)),
-                )} ` +
-                    `Collecting metadata of ${chalk.yellow(dep)} (${chalk.yellow(counter.meta)} | ${
-                        counter.meta_dep
-                    }/${departments.length})`,
-            );
-        });
+        const info_pool = new Pool(concurrency);
+        const info_map: Record<number, CourseInfo> = {};
+
+        for (const meta of Object.values(meta_map)) {
+            info_pool.push(async () => {
+                try {
+                    const dir = resolve(root, "info", meta.department);
+                    if (!existsSync(dir)) {
+                        mkdirSync(dir, { recursive: true });
+                    }
+
+                    const filepath = resolve(dir, `${meta.code}-${meta.group || "X"}.json`);
+
+                    const exists = existsSync(filepath) && !force;
+                    const info: CourseInfo = exists
+                        ? JSON.parse(readFileSync(filepath, "utf8"))
+                        : await query.info(meta);
+
+                    if (!exists) {
+                        writeFileSync(filepath, JSON.stringify(info, null, 4));
+                        counter.parsed++;
+                    } else {
+                        counter.skipped++;
+                    }
+
+                    info_map[unique(info)] = info;
+                } catch (err) {
+                    console.error((err as Error).message, { meta });
+                    counter.failed++;
+                }
+
+                log_progress(
+                    `${chalk.cyan("[Running]")} ${chalk.magenta(
+                        time(Math.floor((Date.now() - START_TIME) / 1000)),
+                    )} ` +
+                        `${chalk.cyan(meta.code)} ` +
+                        `Parsed: ${chalk.yellow(counter.parsed)}, Skipped: ${chalk.yellow(
+                            counter.skipped,
+                        )}, Failed: ${chalk.red(counter.failed)}`,
+                );
+            });
+        }
+        await info_pool.run();
+        all_courses.push(...Object.values(info_map));
+
+        log_progress(
+            `${chalk.green("[Finished]")} ${chalk.magenta(
+                time(Math.floor((Date.now() - START_TIME) / 1000)),
+            )} ` +
+                `Parsed: ${chalk.yellow(counter.parsed)}, Skipped: ${chalk.yellow(
+                    counter.skipped,
+                )}, Failed: ${chalk.red(counter.failed)}`,
+        );
+        log_progress.done();
     }
-    await meta_pool.run();
 
-    const info_pool = new Pool(concurrency);
-    const info_map: Record<number, CourseInfo> = {};
+    console.log(`All courses: ${chalk.yellow(all_courses.length)}`);
 
-    for (const meta of Object.values(meta_map)) {
-        info_pool.push(async () => {
-            try {
-                const dir = resolve(root, "info", meta.department);
-                if (!existsSync(dir)) {
-                    mkdirSync(dir, { recursive: true });
-                }
-
-                const filepath = resolve(dir, `${meta.code}-${meta.group || "X"}.json`);
-
-                const exists = existsSync(filepath) && !force;
-                const info: CourseInfo = exists
-                    ? JSON.parse(readFileSync(filepath, "utf8"))
-                    : await query.info(meta);
-
-                if (!exists) {
-                    writeFileSync(filepath, JSON.stringify(info, null, 4));
-                    counter.parsed++;
-                } else {
-                    counter.skipped++;
-                }
-
-                info_map[unique(info)] = info;
-            } catch (err) {
-                console.error((err as Error).message, { meta });
-                counter.failed++;
-            }
-
-            log_progress(
-                `${chalk.cyan("[Running]")} ${chalk.magenta(
-                    time(Math.floor((Date.now() - START_TIME) / 1000)),
-                )} ` +
-                    `${chalk.cyan(meta.code)} ` +
-                    `Parsed: ${chalk.yellow(counter.parsed)}, Skipped: ${chalk.yellow(
-                        counter.skipped,
-                    )}, Failed: ${chalk.red(counter.failed)}`,
-            );
-        });
-    }
-    await info_pool.run();
-
+    const root = resolve("data");
     if (adapter === "squash") {
-        const dir = resolve(root, "../squashed");
+        const dir = resolve(root, "squashed");
         if (!existsSync(dir)) {
             mkdirSync(dir, { recursive: true });
         }
-        const list = Object.values(info_map).sort((a, b) => a.serial - b.serial);
-        writeFileSync(resolve(dir, `${year}-${term}.json`), JSON.stringify(list, null, 0));
+        const list = all_courses.sort((a, b) => a.serial - b.serial);
+        writeFileSync(resolve(dir, `${opt.targets.join("$")}.json`), JSON.stringify(list, null, 0));
     } else if (adapter === "unicourse") {
-        const dir = resolve(root, "../unicourse");
+        log_progress("Adapting to Course Pack ...");
+        const dir = resolve(root, "unicourse");
         if (!existsSync(dir)) {
             mkdirSync(dir, { recursive: true });
         }
@@ -156,10 +173,8 @@ async function run(opt: {
             entities: [ntnu],
         };
 
-        const courses = Object.values(info_map);
-
         const teachers = new Map<string, string>();
-        for (const course of courses) {
+        for (const course of all_courses) {
             for (const teacher of course.teachers) {
                 const key = `${course.department}-${teacher}`;
                 if (!teachers.has(key)) {
@@ -173,9 +188,10 @@ async function run(opt: {
             pack.teachers.push(t);
             teacher_rev.set(key, t.id);
         }
+        pack.teachers.sort((a, b) => a.name.localeCompare(b.name));
 
         const programs = new Set<string>();
-        for (const course of courses) {
+        for (const course of all_courses) {
             for (const program of course.programs) {
                 if (!programs.has(program)) {
                     programs.add(program);
@@ -188,6 +204,7 @@ async function run(opt: {
             pack.programs.push(p);
             program_rev.set(program, p.id);
         }
+        pack.programs.sort((a, b) => a.name.localeCompare(b.name));
 
         const department_map = new Map<string, string>();
         for (const [k, v] of Object.entries(DepartmentCode)) {
@@ -196,10 +213,10 @@ async function run(opt: {
             }
         }
 
-        courses.sort((a, b) => a.department.length - b.department.length);
+        all_courses.sort((a, b) => a.department.length - b.department.length);
 
         const deps = new Map<string, JsonEntity>();
-        for (const course of courses) {
+        for (const course of all_courses) {
             const c: JsonCourse = {
                 id: cuid(),
                 name: course.name,
@@ -250,25 +267,19 @@ async function run(opt: {
                     } else {
                         ntnu.children.push(entity);
                     }
+                    deps.set(course.department, entity);
                 }
             }
 
             deps.get(course.department)?.courses.push(c);
         }
 
-        writeFileSync(resolve(dir, `${year}-${term}.json`), JSON.stringify(pack, null, 0));
+        writeFileSync(resolve(dir, `${opt.targets.join("$")}.json`), JSON.stringify(pack, null, 0));
+        log_progress("Adapted to Course Pack");
+        log_progress.done();
     } else if (adapter) {
         console.log(chalk.red(`Unknown adapter: ${adapter}`));
     }
-
-    log_progress(
-        `${chalk.green("[Finished]")} ${chalk.magenta(
-            time(Math.floor((Date.now() - START_TIME) / 1000)),
-        )} ` +
-            `Parsed: ${chalk.yellow(counter.parsed)}, Skipped: ${chalk.yellow(
-                counter.skipped,
-            )}, Failed: ${chalk.red(counter.failed)}`,
-    );
 }
 
 function time(seconds: number): string {
