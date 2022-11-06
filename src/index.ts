@@ -2,10 +2,10 @@ import { existsSync, mkdirSync, readFileSync, writeFileSync } from "node:fs";
 import { resolve } from "node:path";
 import chalk from "chalk";
 import { program } from "commander";
+import { CoursePack, PackedCourse, PackedEntity } from "course-pack";
 import cuid from "cuid";
 import log_progress from "log-update";
 import { CourseInfo, CourseMeta, DepartmentCode, query } from "ntnu-course";
-import { JsonCourse, JsonEntity, PackedJson } from "unicourse";
 import { Pool } from "@jacoblincool/puddle";
 import { date2term } from "./date";
 
@@ -161,13 +161,13 @@ async function run(opt: {
             mkdirSync(dir, { recursive: true });
         }
 
-        const ntnu: JsonEntity = {
+        const ntnu: PackedEntity = {
             name: "國立臺灣師範大學",
             courses: [],
             children: [],
         };
 
-        const pack: PackedJson = {
+        const pack: CoursePack = {
             teachers: [],
             programs: [],
             entities: [ntnu],
@@ -215,9 +215,9 @@ async function run(opt: {
 
         all_courses.sort((a, b) => a.department.length - b.department.length);
 
-        const deps = new Map<string, JsonEntity>();
+        const deps = new Map<string, PackedEntity>();
         for (const course of all_courses) {
-            const c: JsonCourse = {
+            const c: PackedCourse = {
                 id: cuid(),
                 name: course.name,
                 description: course.description,
@@ -247,7 +247,7 @@ async function run(opt: {
 
             if (!deps.has(course.department)) {
                 if (course.department.length <= 2) {
-                    const entity: JsonEntity = {
+                    const entity: PackedEntity = {
                         name: department_map.get(course.department) || course.department,
                         courses: [],
                         children: [],
@@ -256,7 +256,7 @@ async function run(opt: {
                     deps.set(course.department, entity);
                 } else {
                     const parent = deps.get(course.department[0]);
-                    const entity: JsonEntity = {
+                    const entity: PackedEntity = {
                         name: department_map.get(course.department) || course.department,
                         courses: [],
                         children: [],
@@ -274,7 +274,10 @@ async function run(opt: {
             deps.get(course.department)?.courses.push(c);
         }
 
-        writeFileSync(resolve(dir, `${opt.targets.join("$")}.json`), JSON.stringify(pack, null, 0));
+        writeFileSync(
+            resolve(dir, `${opt.targets.join("$")}.json`),
+            JSON.stringify({ $schema: "https://esm.sh/course-pack/schema.json", ...pack }, null, 0),
+        );
         log_progress("Adapted to Course Pack");
         log_progress.done();
     } else if (adapter) {

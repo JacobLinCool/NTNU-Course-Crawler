@@ -8,6 +8,7 @@ specifiers:
   '@typescript-eslint/parser': ^5.42.0
   chalk: ^5.1.2
   commander: ^9.4.1
+  course-pack: 1.0.0-alpha.4
   cuid: ^2.1.8
   eslint: ^8.26.0
   eslint-config-prettier: ^8.5.0
@@ -16,16 +17,15 @@ specifiers:
   prettier: ^2.7.1
   tsup: ^6.3.0
   typescript: ^4.8.4
-  unicourse: 1.0.0-alpha.2
 
 dependencies:
   '@jacoblincool/puddle': 0.1.1
   chalk: 5.1.2
   commander: 9.4.1
+  course-pack: 1.0.0-alpha.4
   cuid: 2.1.8
   log-update: 5.0.1
   ntnu-course: 0.1.5
-  unicourse: 1.0.0-alpha.2
 
 devDependencies:
   '@trivago/prettier-plugin-sort-imports': 3.4.0_prettier@2.7.1
@@ -557,19 +557,13 @@ packages:
       eslint-visitor-keys: 3.3.0
     dev: true
 
-  /@unicourse-tw/prisma/1.0.0-alpha.2:
-    resolution: {integrity: sha512-mUhgZ7OxylRAzYU04ftA234FgYQekUfNzydeaiXAPziuankVEcLkId4DGaurXLTyYUsdeO3FZtO2zbzBmvhH4A==}
+  /@unicourse-tw/prisma/1.0.0-alpha.4:
+    resolution: {integrity: sha512-XPiSvC8TuamXtQDvmgbZdZUbvKJqVBenAgIwj1O++T46IC9xBbe9tHyW2E2w+mIPYzE+afe/kC/m4C6uhFFChA==}
     requiresBuild: true
     dependencies:
       '@prisma/client': 4.5.0
     transitivePeerDependencies:
       - prisma
-    dev: false
-
-  /@unicourse-tw/token/1.0.0-alpha.2:
-    resolution: {integrity: sha512-hNI/dpGCXvwVof+XrDKSSBvOrPrfE8boqBgOPryfhWLzGC2VGHJXVYxIYS3HLWJXqX4jhNDUAhW71vr+BkKtLw==}
-    dependencies:
-      jsonwebtoken: 8.5.1
     dev: false
 
   /@vue/compiler-core/3.2.41:
@@ -743,10 +737,6 @@ packages:
       picocolors: 1.0.0
     dev: true
 
-  /buffer-equal-constant-time/1.0.1:
-    resolution: {integrity: sha512-zRpUiDwd/xk6ADqPMATG8vc9VPrkck7T07OIx0gnjmJAnHnTVXNQG3vfvWNuiZIkwu9KrKdA1iJKfsfTVxE6NA==}
-    dev: false
-
   /bundle-require/3.1.0_esbuild@0.15.13:
     resolution: {integrity: sha512-IIXtAO7fKcwPHNPt9kY/WNVJqy7NDy6YqJvv6ENH0TOZoJ+yjpEsn1w40WKZbR2ibfu5g1rfgJTvmFHpm5aOMA==}
     engines: {node: ^12.20.0 || ^14.13.1 || >=16.0.0}
@@ -880,12 +870,13 @@ packages:
       safe-buffer: 5.1.2
     dev: true
 
-  /cross-fetch/3.1.5:
-    resolution: {integrity: sha512-lvb1SBsI0Z7GDwmuid+mU3kWVBwTVUbe7S0H52yaaAdQOXq2YktTCZdlAcNKFzE6QtRz0snpw9bNiPeOIkkQvw==}
+  /course-pack/1.0.0-alpha.4:
+    resolution: {integrity: sha512-3hm5ne2z97Uv46AFEFWKRSzS8pUEf2LtEQzVxBJgEW+T7x8Q50vHKK4VS+276y0dEuVji5TuJ1Q9nLp6jswqUg==}
     dependencies:
-      node-fetch: 2.6.7
+      '@unicourse-tw/prisma': 1.0.0-alpha.4
+      zod: 3.19.1
     transitivePeerDependencies:
-      - encoding
+      - prisma
     dev: false
 
   /cross-spawn/7.0.3:
@@ -938,6 +929,7 @@ packages:
         optional: true
     dependencies:
       ms: 2.1.2
+    dev: true
 
   /deep-is/0.1.4:
     resolution: {integrity: sha512-oIPzksmTg4/MriiaYGO+okXDT7ztn/w3Eptv/+gSIdMdKsJo0u4CfYNFJPy+4SKMuCqGw2wxnA+URMg3t8a/bQ==}
@@ -990,12 +982,6 @@ packages:
 
   /eastasianwidth/0.2.0:
     resolution: {integrity: sha512-I88TYZWc9XiYHRQ4/3c5rjjfgkjhLyW2luGIheGERbNQ6OY7yTybanSpDXZa8y7VUP9YmDcYa+eyq4ca7iLqWA==}
-    dev: false
-
-  /ecdsa-sig-formatter/1.0.11:
-    resolution: {integrity: sha512-nagl3RYrbNv6kQkeJIpt6NJZy8twLB/2vtz6yN9Z4vRKHN4/QZJIEbqohALSgwKdnksuY3k5Addp5lg8sVoVcQ==}
-    dependencies:
-      safe-buffer: 5.1.2
     dev: false
 
   /electron-to-chromium/1.4.137:
@@ -1675,37 +1661,6 @@ packages:
     hasBin: true
     dev: true
 
-  /jsonwebtoken/8.5.1:
-    resolution: {integrity: sha512-XjwVfRS6jTMsqYs0EsuJ4LGxXV14zQybNd4L2r0UvbVnSF9Af8x7p5MzbJ90Ioz/9TI41/hTCvznF/loiSzn8w==}
-    engines: {node: '>=4', npm: '>=1.4.28'}
-    dependencies:
-      jws: 3.2.2
-      lodash.includes: 4.3.0
-      lodash.isboolean: 3.0.3
-      lodash.isinteger: 4.0.4
-      lodash.isnumber: 3.0.3
-      lodash.isplainobject: 4.0.6
-      lodash.isstring: 4.0.1
-      lodash.once: 4.1.1
-      ms: 2.1.2
-      semver: 5.7.1
-    dev: false
-
-  /jwa/1.4.1:
-    resolution: {integrity: sha512-qiLX/xhEEFKUAJ6FiBMbes3w9ATzyk5W7Hvzpa/SLYdxNtng+gcurvrI7TbACjIXlsJyr05/S1oUhZrc63evQA==}
-    dependencies:
-      buffer-equal-constant-time: 1.0.1
-      ecdsa-sig-formatter: 1.0.11
-      safe-buffer: 5.1.2
-    dev: false
-
-  /jws/3.2.2:
-    resolution: {integrity: sha512-YHlZCB6lMTllWDtSPHz/ZXTsi8S00usEV6v1tjq8tOUZzw7DpSDWVXjXDre6ed1w/pd495ODpHZYSdkRTsa0HA==}
-    dependencies:
-      jwa: 1.4.1
-      safe-buffer: 5.1.2
-    dev: false
-
   /levn/0.4.1:
     resolution: {integrity: sha512-+bT2uH4E5LGE7h/n3evcS/sQlJXCpIp6ym8OWJ5eV6+67Dsql/LaaT7qJBAt2rzfoa/5QBGBhxDix1dMt2kQKQ==}
     engines: {node: '>= 0.8.0'}
@@ -1735,37 +1690,9 @@ packages:
       p-locate: 5.0.0
     dev: true
 
-  /lodash.includes/4.3.0:
-    resolution: {integrity: sha512-W3Bx6mdkRTGtlJISOvVD/lbqjTlPPUDTMnlXZFnVwi9NKJ6tiAk6LVdlhZMm17VZisqhKcgzpO5Wz91PCt5b0w==}
-    dev: false
-
-  /lodash.isboolean/3.0.3:
-    resolution: {integrity: sha512-Bz5mupy2SVbPHURB98VAcw+aHh4vRV5IPNhILUCsOzRmsTmSQ17jIuqopAentWoehktxGd9e/hbIXq980/1QJg==}
-    dev: false
-
-  /lodash.isinteger/4.0.4:
-    resolution: {integrity: sha512-DBwtEWN2caHQ9/imiNeEA5ys1JoRtRfY3d7V9wkqtbycnAmTvRRmbHKDV4a0EYc678/dia0jrte4tjYwVBaZUA==}
-    dev: false
-
-  /lodash.isnumber/3.0.3:
-    resolution: {integrity: sha512-QYqzpfwO3/CWf3XP+Z+tkQsfaLL/EnUlXWVkIk5FUPc4sBdTehEqZONuyRt2P67PXAk+NXmTBcc97zw9t1FQrw==}
-    dev: false
-
-  /lodash.isplainobject/4.0.6:
-    resolution: {integrity: sha512-oSXzaWypCMHkPC3NvBEaPHf0KsA5mvPrOPgQWDsbg8n7orZ290M0BmC/jgRZ4vcJ6DTAhjrsSYgdsW/F+MFOBA==}
-    dev: false
-
-  /lodash.isstring/4.0.1:
-    resolution: {integrity: sha512-0wJxfxH1wgO3GrbuP+dTTk7op+6L41QCXbGINEmD+ny/G/eCqGzxyCsh7159S+mgDDcoarnBw6PC1PS5+wUGgw==}
-    dev: false
-
   /lodash.merge/4.6.2:
     resolution: {integrity: sha512-0KpjqXRVvrYyCsX1swR/XTK0va6VQkQM6MNo7PqW77ByjAhoARA8EfrP1N4+KlKj8YS0ZUCtRT/YUuhyYDujIQ==}
     dev: true
-
-  /lodash.once/4.1.1:
-    resolution: {integrity: sha512-Sb487aTOCr9drQVL8pIxOzVhafOjZN9UU54hiN8PU3uAiSV7lx1yYNpbNmex2PK6dSJoNTSJUUswT651yww3Mg==}
-    dev: false
 
   /lodash.sortby/4.7.0:
     resolution: {integrity: sha512-HDWXG8isMntAyRF5vZ7xKuEvOhT4AhlRt/3czTSjvGUxjYCBVRQY48ViDHyfYz9VIoBkW4TMGQNapx+l3RUwdA==}
@@ -1828,6 +1755,7 @@ packages:
 
   /ms/2.1.2:
     resolution: {integrity: sha512-sGkPx+VjMtmA6MX27oA4FBFELFCZZ4S4XqeGOXCv68tT+jb3vk/RyaKWP0PTKyWtmLSM0b+adUTEvbs1PEaH2w==}
+    dev: true
 
   /mz/2.7.0:
     resolution: {integrity: sha512-z81GNO7nnYMEhrGh9LeymoE4+Yr0Wn5McHIZMK5cfQCl+NDX08sCZgUc9/6MHni9IWuFLm1Z3HTCXu2z9fN62Q==}
@@ -2092,11 +2020,7 @@ packages:
 
   /safe-buffer/5.1.2:
     resolution: {integrity: sha512-Gd2UZBJDkXlY7GbJxfsE8/nvKkUEU1G38c1siN6QP6a9PT9MmHB8GnpscSmMJSoF8LOIrt8ud/wPtojys4G6+g==}
-
-  /semver/5.7.1:
-    resolution: {integrity: sha512-sauaDf/PZdVgrLTNYHRtpXa1iRiKcaebiKQ1BJdpQlWH2lCvexQdX55snPFyK7QzpudqbCI0qXFfOasHdyNDGQ==}
-    hasBin: true
-    dev: false
+    dev: true
 
   /semver/6.3.0:
     resolution: {integrity: sha512-b39TBaTSfV6yBrapU89p5fKekE2m/NwnDocOVruQFS1/veMgdzuPcnOM34M6CwxW8jH/lxEa5rBoDeUwu5HHTw==}
@@ -2351,20 +2275,6 @@ packages:
     engines: {node: '>=4.2.0'}
     hasBin: true
     dev: true
-
-  /unicourse/1.0.0-alpha.2:
-    resolution: {integrity: sha512-FPn4IfYwJx0XQu5o2NT2DKFcZn4PefDKQCq1W+YjLH979efEUPCMHQUEZ8c7U9JRAzVO9lZ2jwFytGOWOZ5Apg==}
-    dependencies:
-      '@unicourse-tw/prisma': 1.0.0-alpha.2
-      '@unicourse-tw/token': 1.0.0-alpha.2
-      cross-fetch: 3.1.5
-      debug: 4.3.4
-      zod: 3.19.1
-    transitivePeerDependencies:
-      - encoding
-      - prisma
-      - supports-color
-    dev: false
 
   /uri-js/4.4.1:
     resolution: {integrity: sha512-7rKUyy33Q1yc98pQ1DAmLtwX109F7TIfWlW1Ydo8Wl1ii1SeHieeh0HHfPeL2fMXK6z0s8ecKs9frCuLJvndBg==}
