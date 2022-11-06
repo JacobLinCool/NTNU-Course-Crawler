@@ -16,7 +16,7 @@ specifiers:
   prettier: ^2.7.1
   tsup: ^6.3.0
   typescript: ^4.8.4
-  unicourse: 1.0.0-alpha.2
+  unicourse: 1.0.0-alpha.4
 
 dependencies:
   '@jacoblincool/puddle': 0.1.1
@@ -25,7 +25,7 @@ dependencies:
   cuid: 2.1.8
   log-update: 5.0.1
   ntnu-course: 0.1.5
-  unicourse: 1.0.0-alpha.2
+  unicourse: 1.0.0-alpha.4
 
 devDependencies:
   '@trivago/prettier-plugin-sort-imports': 3.4.0_prettier@2.7.1
@@ -75,7 +75,7 @@ packages:
       '@babel/traverse': 7.17.10
       '@babel/types': 7.17.10
       convert-source-map: 1.8.0
-      debug: 4.3.3
+      debug: 4.3.4
       gensync: 1.0.0-beta.2
       json5: 2.2.1
       semver: 6.3.0
@@ -232,7 +232,7 @@ packages:
       '@babel/helper-split-export-declaration': 7.16.7
       '@babel/parser': 7.18.9
       '@babel/types': 7.17.10
-      debug: 4.3.3
+      debug: 4.3.4
       globals: 11.12.0
     transitivePeerDependencies:
       - supports-color
@@ -250,7 +250,7 @@ packages:
       '@babel/helper-split-export-declaration': 7.16.7
       '@babel/parser': 7.18.9
       '@babel/types': 7.17.10
-      debug: 4.3.3
+      debug: 4.3.4
       globals: 11.12.0
     transitivePeerDependencies:
       - supports-color
@@ -295,7 +295,7 @@ packages:
     engines: {node: ^12.22.0 || ^14.17.0 || >=16.0.0}
     dependencies:
       ajv: 6.12.6
-      debug: 4.3.3
+      debug: 4.3.4
       espree: 9.4.0
       globals: 13.17.0
       ignore: 5.2.0
@@ -312,7 +312,7 @@ packages:
     engines: {node: '>=10.10.0'}
     dependencies:
       '@humanwhocodes/object-schema': 1.2.1
-      debug: 4.3.3
+      debug: 4.3.4
       minimatch: 3.1.2
     transitivePeerDependencies:
       - supports-color
@@ -557,8 +557,8 @@ packages:
       eslint-visitor-keys: 3.3.0
     dev: true
 
-  /@unicourse-tw/prisma/1.0.0-alpha.2:
-    resolution: {integrity: sha512-mUhgZ7OxylRAzYU04ftA234FgYQekUfNzydeaiXAPziuankVEcLkId4DGaurXLTyYUsdeO3FZtO2zbzBmvhH4A==}
+  /@unicourse-tw/prisma/1.0.0-alpha.4:
+    resolution: {integrity: sha512-XPiSvC8TuamXtQDvmgbZdZUbvKJqVBenAgIwj1O++T46IC9xBbe9tHyW2E2w+mIPYzE+afe/kC/m4C6uhFFChA==}
     requiresBuild: true
     dependencies:
       '@prisma/client': 4.5.0
@@ -566,8 +566,8 @@ packages:
       - prisma
     dev: false
 
-  /@unicourse-tw/token/1.0.0-alpha.2:
-    resolution: {integrity: sha512-hNI/dpGCXvwVof+XrDKSSBvOrPrfE8boqBgOPryfhWLzGC2VGHJXVYxIYS3HLWJXqX4jhNDUAhW71vr+BkKtLw==}
+  /@unicourse-tw/token/1.0.0-alpha.4:
+    resolution: {integrity: sha512-EQCmDcLtrD1/Kq6YgVzvygEK3tf9YzE8e2hnCJZmBr0aO83kbEv2ldjy3tRCN7qpTiIdcjfbn3W2U36nYbHbFQ==}
     dependencies:
       jsonwebtoken: 8.5.1
     dev: false
@@ -879,6 +879,15 @@ packages:
     dependencies:
       safe-buffer: 5.1.2
     dev: true
+
+  /course-pack/1.0.0-alpha.4:
+    resolution: {integrity: sha512-3hm5ne2z97Uv46AFEFWKRSzS8pUEf2LtEQzVxBJgEW+T7x8Q50vHKK4VS+276y0dEuVji5TuJ1Q9nLp6jswqUg==}
+    dependencies:
+      '@unicourse-tw/prisma': 1.0.0-alpha.4
+      zod: 3.19.1
+    transitivePeerDependencies:
+      - prisma
+    dev: false
 
   /cross-fetch/3.1.5:
     resolution: {integrity: sha512-lvb1SBsI0Z7GDwmuid+mU3kWVBwTVUbe7S0H52yaaAdQOXq2YktTCZdlAcNKFzE6QtRz0snpw9bNiPeOIkkQvw==}
@@ -2352,11 +2361,12 @@ packages:
     hasBin: true
     dev: true
 
-  /unicourse/1.0.0-alpha.2:
-    resolution: {integrity: sha512-FPn4IfYwJx0XQu5o2NT2DKFcZn4PefDKQCq1W+YjLH979efEUPCMHQUEZ8c7U9JRAzVO9lZ2jwFytGOWOZ5Apg==}
+  /unicourse/1.0.0-alpha.4:
+    resolution: {integrity: sha512-DI+92aftuyGPSv98u5Z950JuqtkMzq/QG8F6QK+k8lDpL1SJxc+00+M3Pz331d05bR9Z0dLkmfUlYnfC8cWUtQ==}
     dependencies:
-      '@unicourse-tw/prisma': 1.0.0-alpha.2
-      '@unicourse-tw/token': 1.0.0-alpha.2
+      '@unicourse-tw/prisma': 1.0.0-alpha.4
+      '@unicourse-tw/token': 1.0.0-alpha.4
+      course-pack: 1.0.0-alpha.4
       cross-fetch: 3.1.5
       debug: 4.3.4
       zod: 3.19.1
