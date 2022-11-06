@@ -2,11 +2,10 @@ import { existsSync, mkdirSync, readFileSync, writeFileSync } from "node:fs";
 import { resolve } from "node:path";
 import chalk from "chalk";
 import { program } from "commander";
-import { CoursePack, PackedCourse, PackedEntity } from "course-pack";
-import cuid from "cuid";
 import log_progress from "log-update";
 import { CourseInfo, CourseMeta, DepartmentCode, query } from "ntnu-course";
 import { Pool } from "@jacoblincool/puddle";
+import * as adapers from "./adapter";
 import { date2term } from "./date";
 
 const departments = Object.keys(DepartmentCode).filter(
@@ -146,142 +145,25 @@ async function run(opt: {
 
     console.log(`All courses: ${chalk.yellow(all_courses.length)}`);
 
-    const root = resolve("data");
-    if (adapter === "squash") {
-        const dir = resolve(root, "squashed");
-        if (!existsSync(dir)) {
-            mkdirSync(dir, { recursive: true });
-        }
-        const list = all_courses.sort((a, b) => a.serial - b.serial);
-        writeFileSync(resolve(dir, `${opt.targets.join("$")}.json`), JSON.stringify(list, null, 0));
-    } else if (adapter === "unicourse") {
-        log_progress("Adapting to Course Pack ...");
-        const dir = resolve(root, "unicourse");
+    const Adapter = Object.values(adapers).find((x) => x.id === adapter);
+    if (Adapter) {
+        console.log(`Using adapter: ${chalk.yellow(Adapter.id)}`);
+        const adapter = new Adapter();
+
+        const dir = resolve("data", Adapter.id);
         if (!existsSync(dir)) {
             mkdirSync(dir, { recursive: true });
         }
 
-        const ntnu: PackedEntity = {
-            name: "國立臺灣師範大學",
-            courses: [],
-            children: [],
-        };
-
-        const pack: CoursePack = {
-            teachers: [],
-            programs: [],
-            entities: [ntnu],
-        };
-
-        const teachers = new Map<string, string>();
-        for (const course of all_courses) {
-            for (const teacher of course.teachers) {
-                const key = `${course.department}-${teacher}`;
-                if (!teachers.has(key)) {
-                    teachers.set(key, teacher);
-                }
-            }
-        }
-        const teacher_rev = new Map<string, string>();
-        for (const [key, teacher] of teachers.entries()) {
-            const t = { id: cuid(), name: teacher };
-            pack.teachers.push(t);
-            teacher_rev.set(key, t.id);
-        }
-        pack.teachers.sort((a, b) => a.name.localeCompare(b.name));
-
-        const programs = new Set<string>();
-        for (const course of all_courses) {
-            for (const program of course.programs) {
-                if (!programs.has(program)) {
-                    programs.add(program);
-                }
-            }
-        }
-        const program_rev = new Map<string, string>();
-        for (const program of programs.values()) {
-            const p = { id: cuid(), name: program };
-            pack.programs.push(p);
-            program_rev.set(program, p.id);
-        }
-        pack.programs.sort((a, b) => a.name.localeCompare(b.name));
-
-        const department_map = new Map<string, string>();
-        for (const [k, v] of Object.entries(DepartmentCode)) {
-            if (/[^A-Z0-9]/.test(k) && !/[^A-Z0-9]/.test(v)) {
-                department_map.set(v, k);
-            }
-        }
-
-        all_courses.sort((a, b) => a.department.length - b.department.length);
-
-        const deps = new Map<string, PackedEntity>();
-        for (const course of all_courses) {
-            const c: PackedCourse = {
-                id: cuid(),
-                name: course.name,
-                description: course.description,
-                code: course.code,
-                year: course.year,
-                term: course.term,
-                type:
-                    course.type === "必"
-                        ? "Compulsory"
-                        : course.type === "選"
-                        ? "Elective"
-                        : course.type === "通"
-                        ? "General"
-                        : "Other",
-                credit: course.credit,
-                teachers: course.teachers.map((t) => teacher_rev.get(`${course.department}-${t}`)!),
-                programs: course.programs.map((p) => program_rev.get(p)!),
-                prerequisites: [],
-                extra: {},
-            };
-            const skips = Object.keys(c);
-            for (const [k, v] of Object.entries(course)) {
-                if (!skips.includes(k)) {
-                    c.extra[k] = v;
-                }
-            }
-
-            if (!deps.has(course.department)) {
-                if (course.department.length <= 2) {
-                    const entity: PackedEntity = {
-                        name: department_map.get(course.department) || course.department,
-                        courses: [],
-                        children: [],
-                    };
-                    ntnu.children.push(entity);
-                    deps.set(course.department, entity);
-                } else {
-                    const parent = deps.get(course.department[0]);
-                    const entity: PackedEntity = {
-                        name: department_map.get(course.department) || course.department,
-                        courses: [],
-                        children: [],
-                    };
-
-                    if (parent) {
-                        parent.children.push(entity);
-                    } else {
-                        ntnu.children.push(entity);
-                    }
-                    deps.set(course.department, entity);
-                }
-            }
-
-            deps.get(course.department)?.courses.push(c);
-        }
-
-        writeFileSync(
-            resolve(dir, `${opt.targets.join("$")}.json`),
-            JSON.stringify({ $schema: "https://esm.sh/course-pack/schema.json", ...pack }, null, 0),
-        );
-        log_progress("Adapted to Course Pack");
-        log_progress.done();
+        const processed = await adapter.process(all_courses);
+        writeFileSync(resolve(dir, `${opt.targets.join("$")}.json`), JSON.stringify(processed));
     } else if (adapter) {
-        console.log(chalk.red(`Unknown adapter: ${adapter}`));
+        console.error(chalk.red(`Unknown adapter: ${adapter}`));
+        console.error(
+            `Available adapters: ${Object.values(adapers)
+                .map((x) => chalk.yellow(x.id))
+                .join(", ")}`,
+        );
     }
 }
 
