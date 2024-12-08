@@ -8,7 +8,7 @@ specifiers:
   '@typescript-eslint/parser': ^5.42.0
   chalk: ^5.1.2
   commander: ^9.4.1
-  course-pack: 1.0.0-alpha.4
+  course-pack: 1.0.0-alpha.15
   cuid: ^2.1.8
   eslint: ^8.26.0
   eslint-config-prettier: ^8.5.0
@@ -22,7 +22,7 @@ dependencies:
   '@jacoblincool/puddle': 0.1.1
   chalk: 5.1.2
   commander: 9.4.1
-  course-pack: 1.0.0-alpha.4
+  course-pack: 1.0.0-alpha.15
   cuid: 2.1.8
   log-update: 5.0.1
   ntnu-course: 0.1.5
@@ -381,23 +381,6 @@ packages:
       fastq: 1.13.0
     dev: true
 
-  /@prisma/client/4.5.0:
-    resolution: {integrity: sha512-B2cV0OPI1smhdYUxsJoLYQLoMlLH06MUxgFUWQnHodGMX98VRVXKmQE/9OcrTNkqtke5RC+YU24Szxd04tZA2g==}
-    engines: {node: '>=14.17'}
-    requiresBuild: true
-    peerDependencies:
-      prisma: '*'
-    peerDependenciesMeta:
-      prisma:
-        optional: true
-    dependencies:
-      '@prisma/engines-version': 4.5.0-43.0362da9eebca54d94c8ef5edd3b2e90af99ba452
-    dev: false
-
-  /@prisma/engines-version/4.5.0-43.0362da9eebca54d94c8ef5edd3b2e90af99ba452:
-    resolution: {integrity: sha512-o7LyVx8PPJBLrEzLl6lpxxk2D5VnlM4Fwmrbq0NoT6pr5aa1OuHD9ZG+WJY6TlR/iD9bhmo2LNcxddCMr5Rv2A==}
-    dev: false
-
   /@trivago/prettier-plugin-sort-imports/4.0.0_prettier@2.7.1:
     resolution: {integrity: sha512-Tyuk5ZY4a0e2MNFLdluQO9F6d1awFQYXVVujEPFfvKPPXz8DADNHzz73NMhwCSXGSuGGZcA/rKOyZBrxVNMxaA==}
     peerDependencies:
@@ -556,15 +539,6 @@ packages:
       '@typescript-eslint/types': 5.42.0
       eslint-visitor-keys: 3.3.0
     dev: true
-
-  /@unicourse-tw/prisma/1.0.0-alpha.4:
-    resolution: {integrity: sha512-XPiSvC8TuamXtQDvmgbZdZUbvKJqVBenAgIwj1O++T46IC9xBbe9tHyW2E2w+mIPYzE+afe/kC/m4C6uhFFChA==}
-    requiresBuild: true
-    dependencies:
-      '@prisma/client': 4.5.0
-    transitivePeerDependencies:
-      - prisma
-    dev: false
 
   /acorn-jsx/5.3.2_acorn@8.8.1:
     resolution: {integrity: sha512-rq9s+JNhf0IChjtDXxllJ7g41oZk5SlXtp0LHwyA5cejwn7vKmKp4pPri6YEePv2PU65sAsegbXtIinmDFDXgQ==}
@@ -818,13 +792,10 @@ packages:
       safe-buffer: 5.1.2
     dev: true
 
-  /course-pack/1.0.0-alpha.4:
-    resolution: {integrity: sha512-3hm5ne2z97Uv46AFEFWKRSzS8pUEf2LtEQzVxBJgEW+T7x8Q50vHKK4VS+276y0dEuVji5TuJ1Q9nLp6jswqUg==}
+  /course-pack/1.0.0-alpha.15:
+    resolution: {integrity: sha512-Xq6/g09BGPtA8B49jM/6ElTVe5f6fbAGYks2OGzhexhtnHEJVdTa2h93dTjviamrnTaKmokeZWzVf/qOyHqvSg==}
     dependencies:
-      '@unicourse-tw/prisma': 1.0.0-alpha.4
       zod: 3.19.1
-    transitivePeerDependencies:
-      - prisma
     dev: false
 
   /cross-spawn/7.0.3:
