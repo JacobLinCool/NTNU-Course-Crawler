@@ -28,13 +28,13 @@ dependencies:
   ntnu-course: 0.1.5
 
 devDependencies:
-  '@trivago/prettier-plugin-sort-imports': 4.0.0_prettier@2.7.1
+  '@trivago/prettier-plugin-sort-imports': 4.0.0_prettier@2.8.8
   '@types/node': 18.11.9
   '@typescript-eslint/eslint-plugin': 5.42.0_6xw5wg2354iw4zujk2f3vyfrzu
   '@typescript-eslint/parser': 5.42.0_wyqvi574yv7oiwfeinomdzmc3m
   eslint: 8.26.0
   eslint-config-prettier: 8.5.0_eslint@8.26.0
-  prettier: 2.7.1
+  prettier: 2.8.8
   tsup: 6.3.0_typescript@4.8.4
   typescript: 4.8.4
 
@@ -398,7 +398,7 @@ packages:
     resolution: {integrity: sha512-o7LyVx8PPJBLrEzLl6lpxxk2D5VnlM4Fwmrbq0NoT6pr5aa1OuHD9ZG+WJY6TlR/iD9bhmo2LNcxddCMr5Rv2A==}
     dev: false
 
-  /@trivago/prettier-plugin-sort-imports/4.0.0_prettier@2.7.1:
+  /@trivago/prettier-plugin-sort-imports/4.0.0_prettier@2.8.8:
     resolution: {integrity: sha512-Tyuk5ZY4a0e2MNFLdluQO9F6d1awFQYXVVujEPFfvKPPXz8DADNHzz73NMhwCSXGSuGGZcA/rKOyZBrxVNMxaA==}
     peerDependencies:
       '@vue/compiler-sfc': 3.x
@@ -411,7 +411,7 @@ packages:
       '@babel/types': 7.17.0
       javascript-natural-sort: 0.7.1
       lodash: 4.17.21
-      prettier: 2.7.1
+      prettier: 2.8.8
     transitivePeerDependencies:
       - supports-color
     dev: true
@@ -767,7 +767,7 @@ packages:
       normalize-path: 3.0.0
       readdirp: 3.6.0
     optionalDependencies:
-      fsevents: 2.3.2
+      fsevents: 2.3.3
     dev: true
 
   /cli-cursor/4.0.0:
@@ -1383,8 +1383,8 @@ packages:
     resolution: {integrity: sha512-OO0pH2lK6a0hZnAdau5ItzHPI6pUlvI7jMVnxUQRtw4owF2wk8lOSabtGDCTP4Ggrg2MbGnWO9X8K1t4+fGMDw==}
     dev: true
 
-  /fsevents/2.3.2:
-    resolution: {integrity: sha512-xiqMQR4xAeHTuB9uWm+fFRcIOgKBMiOBP+eXiyT7jsgVCq1bkVygt00oASowB7EdtpOHaaPgKt812P9ab+DDKA==}
+  /fsevents/2.3.3:
+    resolution: {integrity: sha512-5xoDfX+fL7faATnagmWPpbFtwh/R77WmMMqqHGS65C3vvB0YHrgF+B1YmZ3441tMj5n63k0212XNoJwzlhffQw==}
     engines: {node: ^8.16.0 || ^10.6.0 || >=11.0.0}
     os: [darwin]
     requiresBuild: true
@@ -1870,8 +1870,8 @@ packages:
     engines: {node: '>= 0.8.0'}
     dev: true
 
-  /prettier/2.7.1:
-    resolution: {integrity: sha512-ujppO+MkdPqoVINuDFDRLClm7D78qbDt0/NR+wp5FqEZOoTNAjPHWj17QRhu7geIHJfcNhRk1XVQmF8Bp3ye+g==}
+  /prettier/2.8.8:
+    resolution: {integrity: sha512-tdN8qQGvNjw4CHbY+XXk0JgCXn9QiF21a55rBe5LJAU+kDyC4WQn4+awm2Xfk2lQMk5fKup9XgzTZtGkjBdP9Q==}
     engines: {node: '>=10.13.0'}
     hasBin: true
     dev: true
@@ -1932,7 +1932,7 @@ packages:
     engines: {node: '>=10.0.0'}
     hasBin: true
     optionalDependencies:
-      fsevents: 2.3.2
+      fsevents: 2.3.3
     dev: true
 
   /run-parallel/1.2.0:
